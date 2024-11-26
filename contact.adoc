@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+== Contact
+
+You are welcome to contact The Calendaring and Scheduling Consortium by
+regular mail, telephone or by electronic mail to any of the people
+listed below, depending their areas of responsibility. You may also use
+the "contact@calconnect.org" general e-mail address rather than
+contacting a specific person.
+
+[width="100%",cols="50%,50%",]
+|===
+|*The Calendaring and Scheduling Consortium* +
+226 3rd St +
+Troy, NY 12180 USA +
++1 617 816 0041 |
+
+|  |
+
+|CalConnect HQ: |contact@calconnect.org
+
+|  |
+
+|CalConnect Secretariat |secretariat@calconnect.org
+
+|  |
+
+|Technical Coordination Committee Chair: |*Ken Murchison,* FastMail +
+mailto:murch@fastmailteam.com?subject=From%20CalConnect%20contact%20page[murch@fastmailteam.com] 
+http://www.fastmail.com[www.fastmail.com]
+
+|  |
+
+|Executive Director & Test Event Manager: |*Mike Douglass*, Spherical
+Cow Group +
+link:mailto:﻿mike.douglass@calconnect.org?subject=CalConnect%20Contact[﻿mike.douglass@calconnect.org] 
+http://www.sphericalcowgroup.com[www.bedework.com] +
++1 617 816 0041
+
+|  |
+
+|General Questions,  +
+Comments, Requests:
+|mailto:contact@calconnect.org?subject=CalConnect%20Web%20Contact[contact@calconnect.org]
+|===
+
+ 
+
+*Please Note:* Do [.underline]#not# contact CalConnect for problems or
+usage issues with calendaring applications, or with devices such as
+smartphones (e.g. password requests for 'CalDAV' or similar issues). We
+have no control over these devices and applications, nor their
+providers. Please contact the appropriate vendor of the device,
+application or service, or review online help forums. Our apologies, but
+e-mails sent to CalConnect on these and similar subjects will not be
+responded to as we cannot help you with them.
