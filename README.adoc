@@ -1,0 +1,13 @@
+= Calconnect
+
+== Development
+
+=== Getting started
+
+* Ensure you have reasonable Ruby version
+* Run `bundle` from within site directory to install Ruby dependencies
+
+=== Serving site preview
+
+* Run `jekyll serve` from within site directory
+
