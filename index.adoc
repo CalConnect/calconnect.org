@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+== Welcome to CalConnect
+
+Welcome to CalConnect^SM^. We are a non-profit partnership between
+developers, vendors and users of collaboration tools.  _link:about[More
+About CalConnect ...]_
