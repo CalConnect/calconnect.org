@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2>Membership</h2>
+
+{% for page in site.membership_pages %}
+<div class="document">
+    <div class="doc-line">
+      <div class="doc-identifier">
+        <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      </div>
+    </div>
+</div>
+{% endfor %}
