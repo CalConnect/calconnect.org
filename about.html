@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2>About</h2>
+{% assign sorted = site.about_pages | sort: 'revdate' | reverse %}
+{% for page in sorted %}
+<div class="document">
+    <div class="doc-line">
+      <div class="doc-identifier">
+        <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      </div>
+    </div>
+</div>
+{% endfor %}
