@@ -1,0 +1,91 @@
+---
+layout: default
+title:  Is CalConnect Right for You? Are You Right for CalConnect?
+---
+
+== Is CalConnect Right for You? Are You Right for CalConnect?
+
+Recently (August 2013), we welcomed Ribose as the newest CalConnect
+member, and our first member organization based in Asia. In our
+conversations with Ribose's leadership, we learned that Ribose had been
+aware of CalConnect for some time, but had previously assumed that
+CalConnect was just for the "really big players". +
+ +
+CalConnect does need the "really big players", however one might
+reasonably define them, for a number of reasons, but CalConnect cannot
+succeed, cannot meet its mission, with only the "really big players",
+the "really small players", or only the "really anything-else
+players". +
+ +
+As we note on our http://calconnect.org/whyjoin.shtml[Why Join] page,
+
+____
+We are a partnership between vendors of calendaring & scheduling systems
+and tools, and users of those tools. Our membership includes some of the
+world's largest software development organizations, as well as emergent
+vendors and startups, end user organizations, interested individuals,
+and research universities… +
+ +
+CalConnect's success, and ultimately the success of our vision of
+interoperable calendaring & scheduling depend on broad, engaged,
+diverse, and informed participation by those organizations developing
+calendaring and scheduling products, and those organizations which are
+using calendaring and scheduling products.
+____
+
+"Why Join" is, of course, a marketing piece to entice you to join or
+learn more about CalConnect, but the quoted paragraphs are a genuine
+representation of what CalConnect believes and stands for. We expressed
+a similar sentiment in a
+http://calconnect.wordpress.com/2013/04/17/about-calconnects-new-membership-categories-and-fees/[new
+membership fees/categories] posting on the CalConnect blog in April,
+
+____
+Here is what we hope to accomplish with our new membership and
+interoperability event fees – increase diversity, geographic
+distribution, age, gender, and company size of our membership. This is
+essential to CalConnect and its mission.
+____
+
+Our membership includes some of the world's largest software development
+organizations, as well as emergent vendors and startups, end user
+organizations, interested individuals, and research universities.
+Although there is some overlap, each of these membership categories has
+a different perspective, has different requirements and needs, and each
+can make a different contribution as a CalConnect member. +
+ +
+CalConnect is as close to a true meritocracy as any organization I have
+ever been involved with. Anyone, irrespective of membership category or
+company affiliation, can become a CalConnect thought leader, technical
+leader, or organizational leader, based on merit – your participation,
+your contributions, and your collegiality. +
+ +
+CalConnect is anchored in these precepts:
+
+. CalConnect is a membership driven organization – multidimensional
+diversity, and broad, engaged participation are the keys to
+sustainability and maximum impact.
+. CalConnect needs to influence the world, and CalConnect needs to be
+influenced by the world, not just its membership.
+. The future of calendaring and the future of CalConnect are intertwined
+– CalConnect helps shape the future of calendaring, and the future of
+calendaring will surely shape CalConnect.
+
+===== So, Is CalConnect Right for You? Are you Right for CalConnect?
+
+If you are trying to solve a problem, find a solution, build a product,
+help drive the standards, or simply get to know the people driving
+calendaring & scheduling today, CalConnect is right for you. +
+ +
+If you are a large software development organization, an emergent
+software vendor or startup, if you are end user organization, a college
+or university, a government organization or department for which
+scheduling/calendaring is critical to your workflow or product line, if
+you are a standards organization which needs calendaring /scheduling
+expertise, or if you are an individual interested in calendaring
+/scheduling products or standards, you are right for CalConnect. +
+ +
+Gary Schwartz +
+President +
+_August 2013_
+ 
