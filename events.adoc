@@ -1,9 +1,0 @@
----
-layout: default
----
-
-== Upcoming Events
-
-[[block-system-main]]
-There are no upcoming events currently posted. Please visit our
-link:/events#[Past Events] for highlights of recent meetings.
