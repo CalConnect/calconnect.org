@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2>News & Highlights</h2>
+{% for post in site.posts %}
+<div class="document">
+    <div class="doc-line">
+      <div class="doc-identifier">
+        <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+        <span>{{post.excerpt}}</span>
+      </div>
+    </div>
+  
+    <div class="doc-bib">
+      <div class="doc-stage">
+        Date: {{post.date | date_to_string}}
+      </div>
+    </div>
+</div>
+{% endfor %}
