@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2>Resources</h2>
+{% for resource in site.resources %}
+<div class="document">
+    <div class="doc-line">
+      <div class="doc-identifier">
+        <h4><a href="{{resource.url}}">{{resource.title}}</a></h4>
+      </div>
+    </div>
+  
+    <div class="doc-bib">
+      <div class="doc-stage">
+        Type: {{resource.type}}
+      </div>
+    </div>
+</div>
+{% endfor %}
