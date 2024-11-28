@@ -39,8 +39,13 @@ collections:
     output: true
   membership_pages:
     output: true
+    permalink: /membership/:title
   about_pages:
     output: true
+    permalink: /about/:title
+  posts:
+    output: true
+    permalink: /news/:year-:month-:day-:title/
   pages:
     output: true
     permalink: /:name/
