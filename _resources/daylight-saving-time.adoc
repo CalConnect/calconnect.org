@@ -1,0 +1,107 @@
+---
+layout: page
+title:  Daylight Saving Time and Time Zones
+type: resources
+---
+
+==== General Interest
+
+http://www.calconnect.org/resources/discussion-lists/time-zone-discussion[CalConnect
+Time Zone Discussion Public Mailing LIst] +
+ +
+CalConnect has implemented this public discussion list,  intended for
+discussion on timezones, especially in calendaring and scheduling. A
+particular focus is on exchanging issues, challenges, and best practices
+related to timezone changes. The intended audience for this list is
+hence not only technical, but also involves decision makers involved in
+the political process of changing timezones. +
+ +
+https://tools.ietf.org/html/rfc6557[Procedures for Maintaining the Time
+Zone Database RFC 6557] +
+ +
+Time zone information serves as a basic protocol element in protocols,
+such as the calendaring suite and DHCP. The Time Zone (TZ) Database
+specifies the indices used in various protocols, as well as their
+semantic meanings, for all localities throughout the world. This
+database has been meticulously maintained and distributed free of charge
+by a group of volunteers, coordinated by a single volunteer who is now
+planning to retire. This memo specifies procedures involved with
+maintenance of the TZ database and associated code, including how to
+submit proposed updates, how decisions for inclusion of those updates
+are made, and the selection of a designated expert by and for the time
+zone community. The intent of this memo is, to the extent possible, to
+document existing practice and provide a means to ease succession of the
+database maintainers. +
+ +
+https://www.rfc-editor.org/rfc/rfc7808.txt[Time Zone Data Distribution
+Service RFC 7808] +
+ +
+This document defines a time zone data distribution service that allows
+reliable, secure and fast delivery of time zone data to client systems
+such as calendaring and scheduling applications or operating systems.
+
+====  
+
+==== European Union Summer Time Proposal (2018-2019)
+
+http://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[*CalConnect
+calls on EU to reconsider timeline for proposed seasonal time
+changes*] +
+ +
+Press Release about CalConnect's Advisory Notice concerning the EU
+Summer Time Proposal +
+ +
+https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[*CalConnect
+Advisory Notice on EU Summer Time Proposal*] +
+ +
+This document, developed shortly after the EU announcement, is an 
+Advisory Notice expressing concern about the amount of time before the
+proposal would take effect, and recommending additional time for
+providers, consumers and governments to prepare for the impact.
+
+ 
+
+==== Extended Daylight Saving Time Proposal and Implementation (2005-2008)
+
+link:/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf[*CalConnect
+EDST Reflections and Recommendations*] +
+ +
+This document, prepared by the CalConnect DST Ad Hoc Committee, reflects
+on the impact of the Extended Daylight Savings Time change to the start
+of DST in the United States to March 11, 2007, and provides
+recommendations for the coming change back on November 4, plus longer
+term recommendations for timezone management in the future. +
+ +
+link:/resources/daylight-saving-time/extended-daylight-saving-time-review-and-considerations[*Extended
+Daylight Saving Time Review and Considerations*]: +
+ +
+This document provides a review of the Daylight Saving Time changes and
+the potential impact of this change on computer systems and devices. It
+is intended as a review and reference for users and in particular for
+systems administrators who may need to make necessary updates to their
+systems. +
+ +
+link:/resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes[*Extended
+Daylight Saving Time Links&#44; Advisories and Changes*]: +
+ +
+This document is a compilation of links to vendor-provided advisories,
+technical notes, change documents, and the like. Its primary purpose is
+to try and consolidate in one place links to references for Calendaring
+and Scheduling systems and major underlying operating systems, but links
+for related products and services will be provided when possible. +
+ +
+We realize that this compilation is far from complete, and is only as
+useful as it is inclusive, and solicit additional information which
+belongs in this compiliation. Please send references and URLs to
+mailto:info@calconnect.org?subject=Daylight%20Saving%20Time%20Referrals[DST
+Referrals]. +
+ +
+link:/pubdocs/CD0514%20DST%20Advisory%20Notice.pdf[*Extended Daylight
+Saving Time Advisory Notice*]: +
+ +
+This document, developed just prior to the signing of the Energy Policy
+Act into law, was an advisory intended to explain the impact of the
+Act's proposed changes to Daylight Saving Time and CalConnect's concerns
+as to that impact and the necessary actions which needed to be taken by
+vendors and customers prior to the first DST change coming into
+effect. +
