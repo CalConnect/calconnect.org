@@ -1,0 +1,42 @@
+---
+layout: page
+title:  Members of CalConnect
+type: membership
+---
+
+CalConnect expresses its thanks to its members for their support for
+CalConnect and its mission and activities.
+
+[[block-member-logos]]
+[cols="1,1,1,1", options="header"]
+|===
+
+| http://www.apple.com[image:https://www.calconnect.org/sites/default/files/logos/Apple%20Inc.png[Apple]]
+| https://www.audriga.com[image:https://www.calconnect.org/sites/default/files/logos/audriga.png[Audriga]]
+| https://www.bedework.com[image:https://www.calconnect.org/sites/default/files/logos/bcs.png[Bedework]]
+| http://www.burbio.com[image:https://www.calconnect.org/sites/default/files/logos/burbiologo.png[Burbio]]
+
+| https://caldavsynchronizer.org[image:https://www.calconnect.org/sites/default/files/logos/cdsyncronizer.png[CalDAV Synchronizer]]
+| https://www.cronofy.com[image:https://www.calconnect.org/sites/default/files/logos/cronofy_logo.png[Cronofy]]
+| link:www.dhl.com[image:https://www.calconnect.org/sites/default/files/logos/dhl_logo.gif[DHL Express]]
+| http://www.fastmail.com[image:https://www.calconnect.org/sites/default/files/logos/FM-Logo-RGB.png[Fastmail]]
+
+| http://www.google.com[image:https://www.calconnect.org/sites/default/files/logos/google2018.jpg[Google]]
+| link:[image:https://www.calconnect.org/sites/default/files/logos/HeyLife.png[HeyLife]]
+| http://www.jorte.com/en[image:https://www.calconnect.org/sites/default/files/logos/jorte_logo.png[Jorte]]
+| https://www.m3aawg.org/[image:https://www.calconnect.org/sites/default/files/logos/M3AAWG.png[M3AAWG]]
+
+| https://www.marketcircle.com[image:https://www.calconnect.org/sites/default/files/logos/Marketcircle.png[Marketcircle]]
+| link:%20http://www.oasis-open.org[image:https://www.calconnect.org/sites/default/files/logos/oasis-logo.jpg[OASIS]]
+| http://www.open-xchange.com[image:https://www.calconnect.org/sites/default/files/logos/open-xchange.png[Open-Xchange]]
+| http://www.ribose.com[image:https://www.calconnect.org/sites/default/files/logos/ribose_120.jpg[Ribose]]
+
+| http://schedjoules.com[image:https://www.calconnect.org/sites/default/files/logos/schedjoules.jpg[SchedJoules]]
+| link:%20%20http://www.universityofcalifornia.edu/[image:https://www.calconnect.org/sites/default/files/logos/universityofcalifornia.gif[University of California]]
+| https://www.thunderbird.net[image:https://www.calconnect.org/sites/default/files/logos/thunderbirdvl.png[Thunderbird]]
+| https://www.yahoo.com[image:https://www.calconnect.org/sites/default/files/logos/Yahoo.png[Yahoo]]
+
+| http://www.youcanbook.me[image:https://www.calconnect.org/sites/default/files/logos/youcanbookme.png[YouCanBook.me]]
+| link:%20http://www.zimbra.com[image:https://www.calconnect.org/sites/default/files/logos/zimbra1.png[Zimbra]]
+| | 
+|===

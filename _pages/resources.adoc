@@ -1,0 +1,119 @@
+---
+layout: page
+title:  CalConnect Resources
+type: resources
+---
+
+_Last Updated June 2019_
+
+*Introductory Information*
+
+* link:/resources/introduction-internet-calendaring[*An Introduction to
+Internet Calendaring*]: Introduction to the major calendaring &
+scheduling standards and data exchange protocols
+* https://devguide.calconnect.org/Appendix/Glossary/[*Calendaring
+Glossary*]: The Calendaring and Scheduling Glossary of Terms
+* link:/resources/calendaring-standards[*Index to Calendaring and
+Scheduling Standards* and in-progress work]
+* link:/resources/7-things-you-should-know-about[*7 Things You Should
+Know About..."*] A set of high-level briefing documents on major
+subjects and areas of interest and work within CalConnect.
+* link:/resources/getting-started[*Getting Started...*]: Introductory and
+"getting started" information on CalConnect activities for first-time
+members and member representatives.
+
+link:/resources/architectural-diagrams[*Architectural*] and other
+diagrams for calendaring and scheduling. +
+ +
+link:/resources/bug-reporting-links[*Bug Reporting Links*]: Links to bug
+reporting tools for some calendaring and scheduling vendors. +
+ +
+link:/resources/code-artifacts[*Code Artifacts*]: Schemas and other code
+artifacts available for general use (licensed under Apache II). +
+ +
+link:/resources/daylight-saving-time[*Daylight Saving Time and Time
+Zones*]: Information developed during and as a result of the Extended
+Daylight Savings Time discussion and implementation +
+ +
+*https://devguide.calconnect.org/[Developers Guide]*:  A guide for
+developers of calendaring and scheduling programs, systems, and
+services +
+ +
+https://standards.calconnect.org/[*Document Register*:] The Document
+Register contains an entry for each public document, either in progress
+or published as a standard, report, etc.  This also includes Public
+Review documents.
+
+*https://www.calconnect.org/resources/member-services-and-resources[Member
+Services and Resources]*: Links to various tools and resources available
+to member representatives.
+
+https://standards.calconnect.org/patents/[*Patent Information
+Database:*]  Decllarations of notice or acknowledgement that a patent
+may cover the use of a CalConnect standardization deliverable.
+
+link:news/presentations[*Presentations*]: Public Presentations from
+CalConnect and other events +
+ +
+link:/resources/discussion-lists[*Public Discussion Lists*]: Public
+Discussion Lists available for subscription, rather than limited to
+CalConnect members< +
+ 
+
+[[block-system-main]]
+[.rdf-meta .element-hidden]##[.rdf-meta .element-hidden]##
+
+_Last Updated June 2019_
+
+*Introductory Information*
+
+* link:/resources/introduction-internet-calendaring[*An Introduction to
+Internet Calendaring*]: Introduction to the major calendaring &
+scheduling standards and data exchange protocols
+* https://devguide.calconnect.org/Appendix/Glossary/[*Calendaring
+Glossary*]: The Calendaring and Scheduling Glossary of Terms
+* link:/resources/calendaring-standards[*Index to Calendaring and
+Scheduling Standards* and in-progress work]
+* link:/resources/7-things-you-should-know-about[*7 Things You Should
+Know About..."*] A set of high-level briefing documents on major
+subjects and areas of interest and work within CalConnect.
+* link:/resources/getting-started[*Getting Started...*]: Introductory and
+"getting started" information on CalConnect activities for first-time
+members and member representatives.
+
+link:/resources/architectural-diagrams[*Architectural*] and other
+diagrams for calendaring and scheduling. +
+ +
+link:/resources/bug-reporting-links[*Bug Reporting Links*]: Links to bug
+reporting tools for some calendaring and scheduling vendors. +
+ +
+link:/resources/code-artifacts[*Code Artifacts*]: Schemas and other code
+artifacts available for general use (licensed under Apache II). +
+ +
+link:/resources/daylight-saving-time[*Daylight Saving Time and Time
+Zones*]: Information developed during and as a result of the Extended
+Daylight Savings Time discussion and implementation +
+ +
+*https://devguide.calconnect.org/[Developers Guide]*:  A guide for
+developers of calendaring and scheduling programs, systems, and
+services +
+ +
+https://standards.calconnect.org/[*Document Register*:] The Document
+Register contains an entry for each public document, either in progress
+or published as a standard, report, etc.  This also includes Public
+Review documents.
+
+*https://www.calconnect.org/resources/member-services-and-resources[Member
+Services and Resources]*: Links to various tools and resources available
+to member representatives.
+
+https://standards.calconnect.org/patents/[*Patent Information
+Database:*]  Decllarations of notice or acknowledgement that a patent
+may cover the use of a CalConnect standardization deliverable.
+
+link:news/presentations[*Presentations*]: Public Presentations from
+CalConnect and other events +
+ +
+link:/resources/discussion-lists[*Public Discussion Lists*]: Public
+Discussion Lists available for subscription, rather than limited to
+CalConnect members< +

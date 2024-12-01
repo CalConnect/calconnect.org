@@ -1,0 +1,123 @@
+---
+layout: page
+title: Introduction to CalConnect
+type: about
+---
+
+____
+You don't need to be a member of CalConnect to _implement_ a standard.
+You need to be a member of CalConnect to _influence_ a standard. 
+____
+
+Welcome to CalConnect^SM^. We are a non-profit partnership between
+vendors and users of collaboration systems and tools, in particular
+calendaring and scheduling.
+
+Our purpose is to improve all aspects of collaboration services, in
+particular calendaring and scheduling. We do this by improving existing
+standards, developing new standards, offering interoperability testing,
+collaborating with other organizations with similar goals, and
+conducting periodic conferences where engineers and customers meet and
+interact in a collegial atmosphere.  We liaise with other major
+international standards organizations such as ISO and OASIS. 
+
+Virtually every important calendaring or calendaring-related standard
+since the late 2000s has been authored, edited and/or coedited by
+members of a CalConnect Technical Committee. We invite you to learn more
+about CalConnect, and we hope you will become a participating member.
+
+If you have any questions, please use the contact form, or e-mail us
+directly at
+mailto:contact@calconnect.org?subject=Contact%20from%20Introduction%20page[contact@calconnect.org].
+
+=== Overview
+
+CalConnect is focused on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies. Our mission is to promote general understanding of and
+provide mechanisms to allow interoperable calendaring and scheduling
+methodologies, tools and applications to enter the mainstream of
+computing. An early overview presentation is available at this link:
+link:presentations/Calconnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf[CalConnect&#44;
+Calendaring Interoperability and Calendaring Standards] and a ten-year
+review at
+http://calconnect.org/presentations/CC32%20A%20History%20of%20CalConnect.pdf[An
+Anecdotal History of CalConnect].  A list of Calendaring standards,
+specifications, and standards-related activities to date may be found
+here: link:resources/calendaring-standards[Calendaring Standards].
+
+CalConnect's major activities are:
+
+* Promote calendaring and scheduling to the information technology
+industry and the general public
+* Promote and support collaboration between CalConnect members to
+achieve and improve interoperability
+* Promote design and implementation of open calendaring and scheduling
+standards
+* Develop and publish specifications and standards, and liaise or
+co-publish with other standards bodies
+* Organize and conduct Technical Committees, CalConnect Conferences,
+Interoperability Testing opportunities, and other CalConnect activities
+in pursuit of its goals
+
+CalConnect was incorporated in the State of California as a California
+Nonprofit Mutual Benefit Corporation, at the beginning of 2004 as The
+Calendaring and Scheduling Consortium, and is recognized as a 501(C)6
+tax-exempt mutual benefit association by the Federal government.
+
+=== Background
+
+Under the auspices of the http://www.ietf.org[IETF (Internet Engineering
+Task Force)] significant work was done on Calendaring and Scheduling
+standards in the 1990s and early 2000s.  in recent years. CalConnect
+built upon this work, extending existing specifications and developing
+new ones, conducting interoperability testing, and by promoting the
+widespread adoption and implementation of these and future Calendaring
+and Scheduling standards and the general acceptance and use of
+interoperable Calendaring and Scheduling among the internet-using
+community.  More recently CalConnect has expanced its domain to
+collaboration standards and technologies, in particular contacts and
+date and time management.
+
+=== Membership
+
+Membership in CalConnecct is open to any organization interested in
+furthering our goals upon submission and acceptance of a membership
+application and payment of the appropriate dues. CalConnect invites
+members from
+
+* Producers and vendors of Calendaring and Scheduling, and related,
+applications, products and services
+* Open source organizations interested in Calendaring and Scheduling and
+related implementations
+* Academic Institutions
+* Customers interested in Calendaring and Scheduling and interested in
+supporting the goals of CalConnect and influencing the direction of
+technology evolution
+* Standards-setting organizations
+* Interested individuals
+
+=== Technical Committees and oversight
+
+The technical affairs and direction of the Consortium is directed by the
+Technical Coordination Committee, which is comprised of the chairs of
+the TCs and is chaird by the Chair of the TCC, under the oversight of
+the Board of Directors.  CalConnect establishes Technical Committees as
+necessary, open to all members of CalConnect and headed by chairs from
+members. Technical Committees will have a well-focused charter and a
+specific timeframe in which to accomplish their work.
+
+=== CalConnect Events
+
+CalConnect holds two or three Conferences per year, generally spaced
+evenly through the year. These conferences consist of testing
+opportunities, working sessions, and more genereal sessions on ongoing
+and new work.  CalConnect conferences are generally four days, with
+either the first or last day available for special events.
+
+=== Work Products
+
+Work in progress is restricted to CalConnect members. However, all
+completed work products are intended to be publicly and freely available
+and posted on the CalConnect website or submitted to other standards
+bodies for further progression.

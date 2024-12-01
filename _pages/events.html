@@ -1,24 +1,57 @@
 ---
-layout: default
+layout: page
+title: Upcoming Events
+type: events
 ---
 
-<h2>Events</h2>
-{% for event in site.events %}
-<div class="document">
-    <div class="doc-line">
-      <div class="doc-identifier">
-        <h4><a href="{{event.url}}">{{event.name}}</a></h4>
-      </div>
-    </div>
-  
-    <div class="doc-bib">
-      <h5><a href="{{event.url}}">Host: {{event.host}} <br>Location: {{event.location}}</a></h5>
-    </div>
-  
-    <div class="doc-info">
-      <div class="doc-stage">
-        Date: {{event.date | date_to_string}}
-      </div>
-    </div>
-</div>
-{% endfor %}
+<!-- Events List -->
+<ul class="calconnect-events">
+
+    {% assign sorted_events = site.events | sort: 'revdate' | reverse %}
+    
+    <!-- Loop through sorted events -->
+    {% for event in sorted_events %}
+        
+        <!-- Convert event date and current date to Unix timestamp for comparison -->
+        {% assign event_date = event.date | date: "%s" %}
+        {% assign current_date = "now" | date: "%s" %}
+        
+        <!-- Display only upcoming events -->
+        {% if event_date > current_date %}
+        
+            <li class="views-row">
+                
+                <!-- Event Image -->
+                <div class="views-field views-field-field-image">
+                    <div class="field-content">
+                        <a href="{{ event.url }}">
+                            <img 
+                                typeof="foaf:Image" 
+                                class="img-responsive" 
+                                src="{{ event.image }}" 
+                                width="557" height="300" 
+                                alt="Event Image">
+                        </a>
+                    </div>
+                </div>
+                
+                <!-- Event Title -->
+                <div class="views-field views-field-title">
+                    <span class="field-content">
+                        <a href="{{ event.url }}">
+                            <h3>{{ event.name }}</h3>
+                        </a>
+                    </span>
+                </div>
+                
+                <!-- Event Host Information -->
+                <div class="views-field views-field-body">
+                    <div class="field-content">
+                        <p>{{ event.host_info }}</p>
+                    </div>
+                </div>
+                
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
