@@ -4,6 +4,8 @@ title:  Code Artifacts and Schemas
 type: resources
 ---
 
+== Code Artifacts and Schemas
+
 This page provides the necessary links to CalConnect Schemas and other
 code artifacts. Please be aware that these artifacts will be posted for
 availability while they may still be under development or periodically
@@ -17,7 +19,7 @@ and Licensing for Published Material] for more information about
 CalConnect licenses. +
  
 
-==== Schemas
+=== Schemas
 
 ==== link:code-artifacts/icalendar-xml-schema[*iCalendar in XML Schema*]
 

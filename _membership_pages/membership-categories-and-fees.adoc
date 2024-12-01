@@ -4,6 +4,8 @@ title:  Membership Categories and Fees
 type: membership
 ---
 
+== Membership Categories and Fees
+
 _Revised 18 October 2021_
 
 The membership fee varies by the type of organization applying for

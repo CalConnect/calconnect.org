@@ -4,6 +4,8 @@ title:  Membership Fee Payment
 type: membership
 ---
 
+== Membership Fee Payment
+
 Thank you for applying for membership in The Calendaring and Scheduling
 Consortium. Your membership in the Consortium begins with our receipt of
 your membership application and tendering of an Invoice.
@@ -45,7 +47,7 @@ send a PAID Invoice in PDF format once your membership payment has been
 received. This will be sent to your Primary Representative, and to your
 Administrative Contact if you have identified one.
 
-==== Address and Contact Information:
+=== Address and Contact Information:
 
 *The Calendaring and Scheduling Consortium* +
 226 3rd St +

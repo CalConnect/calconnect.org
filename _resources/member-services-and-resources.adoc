@@ -4,6 +4,8 @@ title:  Member Services and Resources
 type: resources
 ---
 
+== Member Services and Resources
+
 This is a list of external services and resources used by CalConnect
 Technical Committees and other activities, and available to Member
 Representatives of CalConnect Members.  In all cases the Executive
@@ -12,7 +14,7 @@ resource, either by establishing or authorizing a userid for an external
 service, or gaining access to the Document Repository.  See the bottom
 of this page for contact information.
 
-==== Document Repository
+=== Document Repository
 
 [.small]#As of August 2016, CalConnect has replaced our old OWL
 repository with a https://calconnect.box.com/v/docrep[CalConnect area on

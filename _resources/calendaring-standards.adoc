@@ -4,6 +4,8 @@ title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
 
+== An Introduction to Internet Calendaring and Scheduling
+
 ....
 CALCONNECT DOCUMENT CD 1104
 Type:	   Report
@@ -14,7 +16,7 @@ Status:    Published
 Source:    CalConnect
 ....
 
-==== Introduction
+=== Introduction
 
 This page provides links, titles, and very brief abstracts of
 Calendaring and Calendaring-related (e.g. WebDAV, vCard) standards,

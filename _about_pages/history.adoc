@@ -3,6 +3,7 @@ layout: page
 title: History
 type: about
 ---
+== History
 
 http://calconnect.org/presentations/CC32%20A%20History%20of%20CalConnect.pdf[An
 Anecdotal History of CalConnect&#44; CalConnect 10th Annivesary (PDF)] +

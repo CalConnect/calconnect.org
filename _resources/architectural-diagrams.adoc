@@ -4,6 +4,8 @@ title:  Architectural and Related Diagrams
 type: resources
 ---
 
+== Architectural and Related Diagrams
+
 This page links to architectural and other related diagrams for
 Calendaring and Scheduling.
 

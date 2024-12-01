@@ -3,6 +3,9 @@ layout: page
 title: Contact
 type: contact
 ---
+
+== Contact
+
 You are welcome to contact The Calendaring and Scheduling Consortium by
 regular mail, telephone or by electronic mail to any of the people
 listed below, depending their areas of responsibility. You may also use

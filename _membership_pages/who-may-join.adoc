@@ -4,6 +4,8 @@ title:  Who May Join CalConnect?
 type: membership
 ---
 
+== Who May Join CalConnect?
+
 Membership in CaConnect is open to any organization or individual
 interested in furthering the goals of the Consortium upon submission and
 acceptance of a membership application, agreement to abide by the rules

@@ -6,6 +6,8 @@ date: 2022-04-16
 image: https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg
 ---
 
+== CalConnect Virtual Conference 2021
+
 image::https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference 2021,800,530]
 
 == Event Details

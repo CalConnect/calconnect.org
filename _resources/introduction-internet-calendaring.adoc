@@ -4,6 +4,8 @@ title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
 
+== An Introduction to Internet Calendaring and Scheduling
+
 ....
 CALCONNECT DOCUMENT CD 1012
 Type:	   Report

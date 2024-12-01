@@ -4,6 +4,8 @@ title: Active Technical Committees (TCs) and Provisional Committees (PCs)
 type: about
 ---
 
+== Active Technical Committees (TCs) and Provisional Committees (PCs)
+
 _Last Updated October 2020_
 
 Technical Committees are the technical working groups of CalConnect. A

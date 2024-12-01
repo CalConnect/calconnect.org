@@ -4,6 +4,8 @@ title:  Public Presentations
 type: news
 ---
 
+== Public Presentations
+
 These Public Presentations include both CalConnect presentations and
 presentations made at CalConnect events by other parties. Some but not
 all of these presentations may be formal CalConnect documents; those

@@ -33,7 +33,7 @@ membership:
       - page: CalConnect Members
         url: /membership
       - page: You and CalConnect?
-        url: /membership
+        url: /membership/you-and-calconnect
       - page: Why Join?
         url: /membership/why-join
       - page: Who May Join?

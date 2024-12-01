@@ -4,7 +4,9 @@ title: CalConnect Calendars
 type: events
 ---
 
-==== _As of 06 June 2021_
+== CalConnect Calendars
+
+=== _As of 06 June 2021_
 
 *Please note:*  If you subscribed to any of these calendar feeds prior
 to June 2021, you must unsubscrive and resubscribe using the links

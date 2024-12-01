@@ -4,7 +4,9 @@ title:  7 Things You Should Know About the Abstract Calendaring API
 type: resources
 ---
 
-==== _What is it?_
+== 7 Things You Should Know About the Abstract Calendaring API
+
+=== _What is it?_
 +
 An abstract calendaring API is a model of calendar data and the
 operations upon it that is platform-independent. It specifies the rules

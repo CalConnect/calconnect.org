@@ -4,6 +4,8 @@ title: Observers
 type: events
 ---
 
+== Observers
+
 _Current as of February 2019_
 
 
@@ -14,7 +16,7 @@ organization to join. Generally, an organization can only attend one
 CalConnect Conference as an Observer. +
  
 
-==== Information about Previous CalConnect Events
+=== Information about Previous CalConnect Events
 
 Information about each CalConnect Conference (and former
 Interoperability Test Events) is published shortly after each event in

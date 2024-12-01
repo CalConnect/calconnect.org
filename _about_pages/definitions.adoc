@@ -4,6 +4,8 @@ title: Definitions of CalConnect Terms
 type: about
 ---
 
+== Definitions of CalConnect Terms
+
 This is a short list of definitions of terms used throughout this
 website, related to our structure, committees, events, and types of
 sessions.

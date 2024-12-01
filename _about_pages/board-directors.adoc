@@ -3,7 +3,7 @@ layout: page
 title: The CalConnect Board of Directors
 type: about
 ---
-
+== The CalConnect Board of Directors
 _As of November 2022_
 
  

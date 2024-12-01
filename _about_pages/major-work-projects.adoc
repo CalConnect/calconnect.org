@@ -4,13 +4,15 @@ title: CalConnect Major Work Projects
 type: about
 ---
 
+== CalConnect Major Work Projects
+
 *What we are working on now – major projects underway in CalConnect
 Technical Committees – become a member and help make these things
 happen:*
 
 
 [[work-projects]]
-==== Abstract Calendaring API
+=== Abstract Calendaring API
 
 *link:/7_things_api.shtml[Abstract Calendaring API]* - We need a full
 "CRUD" (Create/Read/Update/Delete) Abstract Application Programming
