@@ -1,0 +1,152 @@
+---
+layout: default
+---
+
+<div class="main-container container">
+
+    <!-- Page Header -->
+    <header role="banner" id="page-header">
+    </header> <!-- /#page-header -->
+
+    <div class="row">
+        <section class="col-sm-12">
+
+            <!-- Anchor for Main Content -->
+            <a id="main-content"></a>
+            <div class="region region-content">
+
+                <!-- Carousel Section -->
+                <section id="block-carousel" class="block block-views">
+                    <div class="view view-carousel view-id-carousel view-display-id-block view-dom-id-804e2c6d032af873bc963f4d40b4b8b1">
+                        <img 
+                            typeof="foaf:Image" class="img-responsive"
+                            src="https://www.calconnect.org/sites/default/files/styles/flexslider_full/public/default_images/CalConnectEventTBD_0.jpg?itok=-MdIvBXk"
+                            alt="" draggable="false">
+                    </div>
+                </section>
+
+                <!-- Welcome Section -->
+                <section id="block-system-main" class="block block-system">
+                    <article id="node-523" class="node node-page" about="/welcome" typeof="foaf:Document">
+                        <header>
+                            <!-- Hidden metadata for SEO -->
+                            <span property="dc:title" content="Welcome to CalConnect" class="rdf-meta element-hidden"></span>
+                            <span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                        </header>
+                        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                            <div class="field-items">
+                                <div class="field-item even" property="content:encoded">
+                                    <h1>Welcome to CalConnect</h1>
+                                    <p>
+                                        Welcome to CalConnect<sup>SM</sup>. We are a non-profit partnership between developers, 
+                                        vendors and users of collaboration tools.&nbsp; 
+                                        <em><a href="about">More About CalConnect ...</a></em>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <footer></footer>
+                    </article>
+                </section>
+
+                <!-- "CalConnect For..." Section -->
+                <section id="calconnect-for" class="block block-block">
+                    <h2 class="block-title">CalConnect For...</h2>
+                    <ul id="calconnect-for-content">
+                        <li>
+                            <a href="membership/why-join">
+                                <img src="https://www.calconnect.org/sites/all/themes/calconnect/resources/glyphGears.png" alt=""><br>
+                                Developers
+                            </a>
+                        </li>
+                        <li>
+                            <a href="membership/why-join">
+                                <img src="https://www.calconnect.org/sites/all/themes/calconnect/resources/glyphGroup.png" alt=""><br>
+                                Product<br>Managers
+                            </a>
+                        </li>
+                        <li>
+                            <a href="about/liaisons-and-relationships">
+                                <img src="https://www.calconnect.org/sites/all/themes/calconnect/resources/glyphCheck.png" alt=""><br>
+                                Standards<br>Community
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+
+                <!-- Highlighted Post Section -->
+                <section id="fp-highlight" class="block block-views">
+                    <div class="view view-news-and-highlights view-id-news_and_highlights view-display-id-block_fp_highlight view-dom-id-78daabeb47c2896cf027b407d22849df">
+                        <div class="view-content">
+                            {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+                            {% for post in sorted_posts limit:1 %}
+                            <div>
+                                <div class="views-field views-field-nothing"> 
+                                    <span class="field-content">
+                                        <a href="{{ post.url }}">
+                                            <h2>{{ post.title }}</h2>
+                                        </a>
+                                        <p>{{ post.excerpt }}</p>
+                                        <a href="{{ post.url }}" class="more-link">More...</a>
+                                    </span>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </section>
+
+                <!-- "Connect with Us" Section -->
+                <section id="block-fp-lists-new" class="block block-block">
+                    <h2 class="block-title">Connect with Us</h2>
+                    <ul>
+                        <li>
+                            <a href="resources/discussion-lists">
+                                <img alt="" src="/sites/all/themes/calconnect/resources/CalConnectLists.png">
+                                Join our Discussion Lists
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/CalConnect">
+                                <img alt="" src="/sites/all/themes/calconnect/resources/twitter.png">
+                                Follow @CalConnect
+                            </a>
+                        </li>
+                        <li>
+                            <a href="events/calendars">
+                                <img alt="" src="/sites/all/themes/calconnect/resources/CalConnectCalendars.png">
+                                CalConnect Calendars
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+
+                <!-- Latest Developments Section -->
+                <section id="block-views-news-and-highlights-block-1" class="block block-views">
+                    <h2 class="block-title">Latest Developments</h2>
+                    <div class="view view-news-and-highlights view-id-news_and_highlights view-display-id-block_1 fp-listing">
+                        <div class="view-content">
+                            <div class="item-list">
+                                <ul>
+                                    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+                                    {% for post in sorted_posts limit:5 %}
+                                    <li class="views-row views-row-{{ forloop.index }} views-row-{% if forloop.index | modulo: 2 == 0 %}even{% else %}odd{% endif %} {% if forloop.first %}views-row-first{% endif %} {% if forloop.last %}views-row-last{% endif %}">
+                                        <div class="views-field views-field-title">
+                                            <span class="field-content">
+                                                <a href="{{ post.url }}">{{ post.title }}</a>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="view-footer">
+                            <a href="/news" class="btn btn-primary">All News &amp; Highlights</a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </div>
+</div>
