@@ -1,0 +1,39 @@
+---
+layout: page
+title: Past Events
+type: events
+---
+
+<ul class="calconnect-events">
+    {% assign sorted_events = site.events | sort: 'revdate' | reverse %}
+    {% for event in sorted_events %}
+        {% assign event_date = event.date | date: "%s" %}
+        {% assign current_date = "now" | date: "%s" %}
+        {% if current_date > event_date %}
+            <li class="views-row">
+                <div class="views-field views-field-field-image">
+                    <div class="field-content">
+                        <a href="{{event.url}}">
+                            <img typeof="foaf:Image"
+                                class="img-responsive"
+                                src="{{event.image}}"
+                                width="557" height="300" alt="Event Image">
+                        </a>
+                    </div>
+                </div>
+                <div class="views-field views-field-title">
+                    <span class="field-content">
+                        <a href="{{event.url}}">
+                            <h3>{{event.name}}</h3>
+                        </a>
+                    </span>
+                </div>
+                <div class="views-field views-field-body">
+                    <div class="field-content">
+                        <p>{{event.host_info}}</p>
+                    </div>
+                </div>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

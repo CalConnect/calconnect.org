@@ -1,0 +1,60 @@
+---
+layout: page
+title: Observers
+type: events
+---
+
+_Current as of February 2019_
+
+
+At CalConnect Conferences, observers are individuals from an
+organization which is not a member of the CalConnect, attending to
+determine whether involvement in CalConnect is valuable enough to their
+organization to join. Generally, an organization can only attend one
+CalConnect Conference as an Observer. +
+ 
+
+==== Information about Previous CalConnect Events
+
+Information about each CalConnect Conference (and former
+Interoperability Test Events) is published shortly after each event in
+event reports posted to the CalConnect website. See
+link:/eventreports.shtml[Event Reports] for an index of these reports.
+The reports cover what went on at the Conferencent, what the current
+work is in the Technical Committees, and broadly what we expect to be
+doing until the next event.
+
+In the past, CalConnect separated its week into two segments:  an
+Interoperability Test Event for the first 2.5 days, and a Conference for
+the last 2.5 days.  Recently CalConnect has changed to a single 4-day
+event comprising both Conference activities and work sessions, which can
+include interoperabilty testing.  +
+ +
+Seeral years ago, CalConnect published a newsletter called _CalConnect
+Minutes_ after each event, containing much the same information. You can
+find copies of the newsletters at link:/minutes.shtml[CalConnect
+Minutes]. The newsletter ceased publication in 2012. +
+ 
+
+==== Observers at a CalConnect Conference
+
+Attendance and participation at a CalConnect Conference is generally
+limited to representatives of members of CalConnect. However, a
+non-member interested in joining CalConnect may register one or more
+representatives to attend [.underline]#a single Conference# on its
+behalf as observers. +
+ +
+Conference observers pay the same registration fee as member
+representatives and are welcome to participate in all CalConnect
+activities at the Conference, but will not be able to vote, nor to
+continue involvement after the Conference unless their organization
+joins CalConnect. +
+ +
+Conference Observers are required to abide by the relevant clauses of
+the link:/mbragreement.shtml[Membership Agreement] and member
+representative link:/conduct.shtml[Code of Conduct] while attending the
+Conference and with respect to any actions resulting from the Conference
+in the future. The individual registering for the Conference as an
+observer must acknowledge that he or she, and any other individuals
+being registered at the same time, have read the terms and conditions
+indicated above and agrees to abide by them.
