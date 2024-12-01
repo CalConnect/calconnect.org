@@ -1,0 +1,59 @@
+---
+layout: page
+title:  Membership Fee Payment
+type: membership
+---
+
+Thank you for applying for membership in The Calendaring and Scheduling
+Consortium. Your membership in the Consortium begins with our receipt of
+your membership application and tendering of an Invoice.
+
+We do expect to receive your membership fee payment within 30 days from
+your submission of the membership form or from receipt of our Invoice;
+however, we realize that unusual circumstances and accounting
+departments may affect how promptly you can send payment. If you have
+reason to believe that payment will be delayed beyond 30 days please
+contact the Executive Director of the Consortium (see below).
+
+Please refer to the sections below depending on the type of payment you
+have chosen.
+
+* If you are paying by *check or money order*, please make your check or
+money order out to "The Calendaring and Scheduling Consortium" and send
+it to the address below. +
+ 
+* If you wish to send your payment by *ACH interbank funds transfer*,
+please contact us by telephone at the telephone number below for details
+about the necessary routing information to transfer your fee to our bank
+account. +
+ 
+* If you have requested that an *Invoice be sent to initiate payment*,
+we will send an invoice in PDF format by e-mail to the Primary Contact
+and to the Administrative/Invoice Contact (if one was specified). Upon
+receipt of our Invoice, please send your check or money order to the
+address specified below and on the Invoice, or call us at the number
+below to arrange ACH interbank funds transfer. +
+ 
+* If you wish to pay by paypal send your payment to:
+calconnect@calconnect.org)
+* If you indicated that you wish to *pay by credit card*, use paypal but
+select the credit card option
+
+
+Regardless of which method of payment you choose, the Consortium will
+send a PAID Invoice in PDF format once your membership payment has been
+received. This will be sent to your Primary Representative, and to your
+Administrative Contact if you have identified one.
+
+==== Address and Contact Information:
+
+*The Calendaring and Scheduling Consortium* +
+226 3rd St +
+Troy, NY 12180 +
+USA +
+ +
++1 617 816 0041 +
+ +
+Mike Douglass, +
+Executive Director +
+mailto:Dave.Thewlis@calconnect.org[calconnect@calconnect.org]

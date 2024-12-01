@@ -1,0 +1,99 @@
+---
+layout: page
+title:  Why Become a Member of CalConnect?
+type: membership
+---
+
+[[block-system-main]]
+[.rdf-meta .element-hidden]##[.rdf-meta .element-hidden]##
+
+This page is a "cold call" to ask you to consider joining CalConnect. As
+you have already found your way to this web page, we think there is a
+very good chance that your organization and CalConnect would both
+benefit from your active participation as a member.
+
+In a nutshell, CalConnect's focus is interoperable calendaring and
+scheduling and related areas. Through promoting, advising, educating,
+and the work of our technical committees, we advance the state of
+interoperable calendaring and of interoperable scheduling, together with
+areas such as date and time management, digital addressing, etc.
+
+We are a partnership between vendors of calendaring & scheduling systems
+and tools, and users of those tools. Our membership includes some of the
+world's largest software development organizations, as well as emergent
+vendors and startups, end user organizations, interested individuals,
+and research universities. Our members believe that through the
+collegial interactions and collaborations among erstwhile competitors in
+the marketplace, everybody wins. Interoperability makes good products
+great products, and expands the market for these great products.
+
+CalConnect is a 501(c)6 tax-exempt mutual benefit association
+incorporated in 2004. We are a member-driven organization – the agenda,
+the projects undertaken, the collaborations with other organizations,
+all result from the work of  our TCs - technical committees, which are
+made up of and led by participants from our member organizations.
+
+Although the original C&S standards are IETF RFCs, most of the
+calendaring and scheduling standards development and discussion in the
+last ten years have taken place in CalConnect. We maintain
+http://www.calconnect.org/about/liaisons-and-relationships[active
+liaisons] with a number of ISO Technical Committees and other standards
+entities. In addition to our own standards, we are working with several
+ISO Technical Committees on joint projects and anticipate co-publication
+of standards in the future.   We have collaborated and cooperated with
+the IETF and OASIS on CalDAV, RFC 5545 (iCalendar bis), iSchedule,
+calendaring web services, XML and JSON representations of iCalendar,
+timezone services, vCard 4.0 and CardDAV, to list some of our most
+recent work. 
+
+In addition to regular technical conferences each year, from time to
+time we hold workshops to bring together the CalConnect membership and
+other leading experts to explore specific technical areas, such as vCard
+and timezones.
+
+We know how hard it is to sell you "cold", so, instead, we would like to
+help you sell yourself. Take a look at CalConnect, especially:
+
+* Our membership - http://www.calconnect.org/membership
+* Our mission - http://www.calconnect.org/about/goals
+* Our work products
+- http://www.calconnect.org/about/major-work-projects
+* Our policies - http://www.calconnect.org/about/policies
+* Our partnerships
+- http://www.calconnect.org/about/liaisons-and-relationships
+* Our activities
+- http://www.calconnect.org/events/events-activities[www.calconnect.org/events/events-activities]
+* Our technical committees (working groups)
+- http://www.calconnect.org/about/technical-committees
+* Our achievements and our story - http://www.calconnect.org/news
+
+CalConnect's success, and ultimately the success of our vision of
+interoperable calendaring depend on broad, engaged, diverse, and
+informed participation by those organizations developing calendaring and
+scheduling products, and those organizations which are using calendaring
+and scheduling products.
+
+In short, if you are trying to solve a problem, find a solution, build a
+product, help drive the standards, or simply get to know the people
+driving calendaring & scheduling today, CalConnect is the organization
+at the center of calendaring & scheduling today.
+
+=== *Take CalConnect for a Test Drive*
+
+You can attend one CalConnect Conference as an observer, without having
+yet become a member. Refer to
+http://www.calconnect.org/events/events-activities/observers for
+additional details on the terms and conditions for observer
+participation.  In conjunction with our Conferences, we offer on-site
+Interoperability testing with other implementers.
+
+If you find that enlightened self-interest compels you to become a
+member, or if you would simply like to learn more about CalConnect,
+please contact me: +
+ +
+*Mike Douglass, Executive Director, CalConnect* +
++1 617 816 0041
+
+or
+
+contact@calconnect.org
