@@ -1,271 +1,998 @@
-@charset "utf-8";
-
 body {
-  font-family:'Ek Mukta',Arial,Helvetica,sans-serif;font-weight:300;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-  font-size: 1.1rem;
+  font-family: "Ek Mukta", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 15px;
 }
-
-main {
-  flex: 1 0 auto;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Hind", sans-serif;
 }
-
-
-h2, h3, h4, h5, h6 {
-    font-weight: bold;
+html,
+body {
+  overflow-x: hidden;
 }
-
-h2 {
-    border-bottom: 1px solid lightgrey
+#topbar {
+  display: none;
+  color: #f5f5f5;
+  background-color: #424242;
+  font-size: 0.8em;
 }
-
-h1, h2, h3, h4, h5, h6 {
-    -webkit-font-smoothing: antialiased;
-    font-family: 'Hind', sans-serif;
+#topbar a {
+  color: #ddd;
 }
-.icon-block {
-  padding: 0 15px;
+#topbar-inner.navbar {
+  min-height: 0;
 }
-.icon-block .material-icons {
-	font-size: inherit;
+#titleBar {
+  letter-spacing: 2px;
+  font-variant: small-caps;
+  font-weight: 200;
 }
-.shadow-demo {
-    background-color: #26a69a;
-    width: 100px;
-    height: 100px;
-    margin: 20px auto;
+#titleBar a:hover {
+  text-decoration: none;
 }
-h1.page-title {
-    font-weight: 500;
-    font-size: 2.3em;
-    text-align: center;
-    color: #29b6f6;
+#memberLogin {
+  float: right;
+  margin: 4px 0 0;
+  font-size: 12px;
 }
-.col.grid-example {
-    border: 1px solid #eee;
-    margin: 7px 0;
-    text-align: center;
-    line-height: 50px;
-    font-size: 28px;
-    background-color: tomato;
-    color: white;
-    padding: 0;
-}
-.collection .collection-item.avatar {
-    padding-right: 30px;
-}
-.last-post {
-    padding: 10px 0 15px;
-}
-.last-post .collection .collection-item.avatar>.date-post {
-    position: absolute;
-    width: 54px;
-    height: 54px;
-    overflow: hidden;
-    left: 10px;
-    display: inline-block;
-    padding: 16px 0;
-    vertical-align: middle;
-    background: #ad1457;
-    color: #fff;
-    text-align: center;
-}
-.txt-center {
-    text-align: center;
-}
-.post-header h1.post-title {
-    color: #29b6f6;
-    font-size: 2.8em;
-    font-weight: 800;
-}
-.post-header time {
-    color: #cacaca;
-    font-size: 0.9em;
-}
-p.rss-subscribe {
-    margin: 0;
-}
-
-
-.document {
-  padding-top: 5px;
-  border-bottom: 1px solid #0e1a85;
-}
-
-.document:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.doc-line {
-  padding-top: 1em;
-}
-
-.doc-line:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.doc-line .doc-identifier, .doc-line .doc-type-wrap {
-  float: left;
-}
-
-.doc-published, .doc-updated, .doc-identifier,
-.doc-stage, .doc-type, h2, h3 {
-  display: inline-block;
-}
-
-.doc-type-wrap {
-  padding-top: 15px;
-  margin-left: 1em;
-}
-
-.doc-type {
-  padding: 4px 8px;
-  border-radius: 5px;
-  font-size: 0.85em;
-  line-height: 1em;
-  margin-right: 10px;
-  color: white;
-  text-transform: uppercase;
-}
-
-$doctype-colors-list:(
-  standard: #0AC442,
-  directive: #540D6E,
-  guide: #D183C9,
-  specification: #65AFFF,
-  report: #3A405A,
-  amendment: #F26430,
-  corrigendum: #C84630,
-  administrative: #BFAE48,
-  advisory: #BD9391
-);
-
-@each $key,$val in $doctype-colors-list{
-  .doc-type.#{$key} {
-    background-color: #{$val};
-  }
-}
-
-$docstage-colors-list:(
-  proposal: #39A0ED,
-  working-draft: #2D7393,
-  committee-draft: #2A6B7C,
-  draft-standard: #1C7F7A,
-  final-draft: #53C170,
-  published: #069E2D,
-  withdrawn: #004E64,
-  cancelled: #2E382E,
-);
-
-@each $key,$val in $docstage-colors-list{
-  .doc-info.#{$key} {
-    color: #{$val};
-  }
-}
-
-.doc-stage {
-  text-transform: uppercase;
-  font-size: 1em;
-  line-height: 1em;
-
-}
-
-.doc-info {
-  padding-top: 0;
-  padding-bottom: 10px;
-  font-size: 0.9em;
-  line-height: 1em;
-  float: left;
-}
-
-.doc-dates {
-  padding-top: 5px;
-  display: inline-block;
+#memberLogin .glyphicon {
   margin-left: 0.5em;
 }
-
-.doc-abstract {
-  float: left;
+.navbar.container,
+.navbar.container-fluid {
+  margin-top: 0;
+  padding: 0;
 }
-
-.doc-access, .doc-bib {
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  min-height: auto;
+}
+#navbar {
+  background-color: #484f93;
+  padding: 1em 0;
+  margin-bottom: 2em;
+}
+#navbar .logo img {
+  margin: 0 0 0 0.5em;
+  width: 240px;
+}
+#navbar .navbar-nav {
+  margin: -1px 0 0 0;
+}
+#navbar .navbar-collapse {
+  background-color: #484f93;
+  padding: 0;
+}
+#navbar li li {
+  display: none;
+}
+#navbar .navbar-nav > li > a {
   display: block;
+  padding: 1em;
+  margin: 0 0 0 1em;
+  color: #f5f5f5;
+  font-weight: 300;
+}
+#navbar .nav > li > a:hover,
+#navbar .nav > li > a:focus {
+  background-color: #34396b;
+}
+#navbar .nav > li > a.active-trail:hover,
+#navbar .nav > li > a.active-trail:focus {
+  background-color: #34396b;
+}
+#navbar .nav > li > a.active-trail {
+  background-color: #5861b5;
+}
+#navbar #block-search-form {
+  margin: 1em 1em 1em 2em;
+}
+#navbar #block-search-form .btn-primary {
+  background-color: #eee;
+  border-color: #ccc;
+  color: #484f93;
+}
+#navbar #block-search-form h2.element-invisible {
+  color: black;
+  background-color: white;
+}
+#navbar #block-search-icon {
+  display: none;
+  position: absolute;
+  right: 0;
+}
+#navbar #block-search-icon a {
+  display: block;
+  padding: 1.1em 1em 1em;
+  margin-right: -0.75em;
+  color: #f5f5f5;
+}
+.navbar-toggle {
+  margin-right: 1.5em;
+  padding: 7px 8px;
+  background-color: #e5e5e5;
+}
+.navbar-toggle .icon-bar {
+  background-color: #444;
+}
+.breadcrumb {
+  padding: 4px 10px;
+}
+ol.breadcrumb li {
+  margin-bottom: 0;
+}
+#block-submenu {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #484f93;
+}
+#block-submenu li {
+  line-height: 1em;
+  margin-bottom: 0.5em;
+}
+#block-submenu li ul {
+  margin-left: 1.5em;
+  margin-top: 0.5em;
+}
+#block-submenu a {
+  padding: 0.2em 0 0.2em 1em;
+  border-radius: 4px;
+  font-weight: 400;
+}
+#block-submenu a.active {
+  background-color: #f5f5f5;
+}
+#block-submenu li.menu-mlid-662 {
+  border-top: 1px solid #ccc;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+}
+h1.page-header {
+  font-size: 2.2em;
+  padding: 0;
+  border: none;
+}
+h2 {
+  font-size: 1.8em;
+}
+#block-system-main h2,
+#block-system-main h3 {
+  clear: both;
+}
+article {
+  margin-bottom: 2em;
+}
+.clear {
+  clear: both;
+}
+ol li {
+  margin-bottom: 1em;
+}
+#block-system-main table {
+  border: none;
+}
+td,
+th {
+  vertical-align: top;
+  padding: 4px;
+  border-color: #ddd;
+}
+blockquote {
+  border-left: 5px dotted #eee;
+}
+.btn-default {
+  background-color: #919191;
+  color: white;
+}
+.btn-primary {
+  background-color: #484f93;
+  color: white;
+}
+img {
+  max-width: 100%;
+}
+img.leftImage {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+img.rightImage {
   float: right;
+  margin: 0 0 1em 1em;
 }
-
-.doc-access > div {
-  float: left;
-  margin: 5px 10px;
+.cc-media-center img {
+  margin: 1em auto;
 }
-
-.doc-bib > div {
-  float: left;
-  margin: 5px 10px;
+.cc-media-caption {
+  font-style: italic;
+  text-align: center;
+  margin: 0 0 1em 0;
+  background-color: #eee;
+  padding: 0.5em;
 }
-
-.doc-subtitle h5{
-  font-size: 1rem;
+ol.no-margin li {
+  margin-bottom: 0;
+}
+.red {
+  color: red;
+}
+#block-in-progress {
+  margin: 1em;
+}
+ul.testimonials {
+  padding: 0;
+  margin-top: 1em;
+}
+ul.testimonials li {
+  list-style: none;
+  padding: 2em;
+  background-color: #f8f8f8;
+}
+ul.testimonials li:nth-child(even) {
+  background-color: white;
+}
+#sitemap {
+  margin: 2em 0 0 0;
+  padding: 2em 0 1em;
+  background-color: #484f93;
+}
+#sitemap a {
+  display: inline;
+  padding: 0;
+  color: #f5f5f5;
+}
+#sitemap a:hover,
+#sitemap a:focus {
+  background-color: transparent;
+  color: #c5c5c5;
+}
+#sitemap li li {
+  display: none;
+}
+#sitemap .menu-mlid-396 {
+  display: none;
+}
+body.front h1.page-header,
+body.page-node-1 h1.page-header {
+  display: none;
+}
+body.page-node-1 ol.breadcrumb {
+  display: none;
+}
+body.front h2 {
+  font-size: 1.5em;
+}
+body.front h3 {
+  font-size: 1.1em;
+}
+#flexslider-1 {
+  border: none;
+  border-radius: 0;
+}
+.flex-control-nav {
+  bottom: 56px;
+  z-index: 2000;
+  color: white;
+  opacity: 0.5;
+}
+.flex-control-paging li a {
+  background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;
+  box-shadow: 0 0 3px rgba(255, 255, 255, 0.3) inset;
+}
+.flex-control-paging li a.flex-active {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  box-shadow: 0 0 3px rgba(255, 255, 255, 0.5) inset;
+}
+.flex-direction-nav a {
+  height: 50px;
+}
+#block-carousel {
+  margin: -30px -15px -35px;
+}
+#block-carousel .flex-caption {
+  color: white;
+  background-color: #484f93;
+  padding: 0.5em;
+  text-align: center;
+}
+#calconnect-for-content {
+  display: table;
+  width: 100%;
+  padding: 0;
+}
+#calconnect-for-content li {
+  display: table-cell;
+  width: 30%;
+  vertical-align: top;
+  list-style: none;
+  text-align: center;
+}
+#calconnect-for-content img {
+  width: 60%;
+}
+.fp-listing ul {
+  padding: 0;
+  list-style: none;
+}
+.fp-listing li {
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+.fp-listing h3 {
+  margin: 0 0 0.25em 0;
   font-weight: bold;
 }
-
-/*
-    4.4 Copyright
-*/
-.copyright {
+.fp-listing img {
+  float: left;
+  margin-right: 0.5em;
+  margin-top: 3px;
+}
+#calconnect-year {
+  text-align: center;
+}
+#calconnect-year img {
+  margin: 0 0 1em 0;
+}
+#block-fp-lists li {
+  list-style: none;
+  margin-bottom: 1em;
+}
+#block-fp-lists-new {
+  margin-bottom: 4em;
+}
+#block-fp-lists-new ul {
+  padding: 0;
+  margin: 0;
+}
+#block-fp-lists-new li {
+  list-style: none;
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+#block-projects-intro {
+  margin-bottom: 2em;
+}
+#fp-highlight {
+  clear: both;
+  padding: 2em 0;
+}
+#fp-highlight .view-content {
+  padding: 0 0 2em;
+  border-bottom: 1px solid #d9dfff;
+}
+#fp-highlight img {
+  width: 100%;
+  margin-bottom: 1em;
+}
+#fp-highlight img {
+  width: 12%;
+  height: auto;
+  float: right;
+  margin: 0 0 0 2em;
+}
+#fp-highlight h2 {
+  margin-top: 0;
+  font-size: 2em;
+}
+#fp-highlight .fp-highlight-strapline {
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+#fp-highlight a:hover {
+  text-decoration: none;
+}
+#block-views-membership-list-block-2 {
+  display: none;
+}
+#block-member-logos {
+  margin-top: 20px;
+}
+#block-member-logos .views-row {
+  float: left;
+  padding-right: 1em;
+}
+#block-member-logos .field-content {
+  display: table-cell;
+  vertical-align: middle;
+  height: 120px;
+}
+#block-member-logos img {
+  margin: auto;
+}
+#block-member-list ul {
+  padding-left: 1em;
+  margin-left: 1em;
+  list-style: circle;
+}
+#block-member-map {
+  clear: both;
+  margin-top: 2em;
+}
+#block-member-map iframe {
+  pointer-events: none;
+}
+.calconnect-events {
+  list-style: outside none none;
+  padding: 0;
+}
+.calconnect-events li {
+  background-color: #f5f5f5;
   padding: 1em;
-  font-size: 0.9em;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.calconnect-events li:nth-child(even) {
+  background-color: #fff;
+}
+#block-system-main .calconnect-events h3 {
+  clear: none;
+  margin-top: 0;
+}
+.calconnect-events img {
+  margin: 0 0 0.5em 0;
+  min-width: 100%;
+  height: auto;
+}
+.pagination > li > a,
+.pagination > li > span {
+  padding: 6px 8px;
+}
+body.node-type-event .field {
+  margin-bottom: 2em;
+}
+body.node-type-event .field-name-field-schedule-ics-location {
+  margin-top: -2em;
+}
+body.node-type-event .field-name-field-schedule-ics-location a {
+  font-weight: bold;
+}
+body.node-type-event .field-name-field-hide-dates-tbd-,
+body.node-type-event .field-name-field-make-schedule-ics-and-webc,
+body.node-type-event .field-name-field-schedule-webcal-location {
+  display: none;
+}
+body.node-type-event .field-label {
+  font-family: "Hind", sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+}
+body.node-type-event .field-name-field-recent-changes {
+  background-color: #f5f5f5;
+  padding: 1em;
+  border-radius: 4px;
+  border: 1px solid #eee;
+}
+body.node-type-event .field-name-field-recent-changes .field-label {
+  font-family: "Ek Mukta", Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  display: inline;
+}
+body.node-type-event .field.field-name-field-image {
+  margin-bottom: 0;
+}
+body.node-type-event .field-name-field-image img {
+  max-width: 100%;
+  min-width: 100%;
+}
+.field-name-field-image-caption {
+  padding: 0.5em 0.75em;
+  margin-bottom: 1em;
+  background-color: #484f93;
+  color: white;
+  text-align: center;
+}
+body.node-type-event .field-name-field-schedule td:first-child {
+}
+body.node-type-event .field-name-field-test-event-schedule table,
+body.node-type-event .field-name-field-schedule table {
+  line-height: 1.2em;
+}
+body.page-news h2,
+body.page-taxonomy h2,
+body.page-archive h2 {
+  font-size: 1.6em;
+}
+body.page-news .field-name-field-image img,
+body.page-taxonomy .field-name-field-image img,
+body.page-archive .field-name-field-image img {
+  float: right;
+  margin: 0 0 1em 1em;
+  min-width: 100%;
+  max-width: 100%;
+}
+#block-twitter-feed {
+  overflow: hidden;
+}
+.submitted {
+  display: block;
+  margin: -0.75em 0 0;
+}
+body.node-type-article .submitted {
+  clear: left;
+  margin: -1em 0 1em;
+}
+.field-name-field-category {
+  margin-top: 2em;
+}
+#rss-link {
+  float: right;
+  margin: -4em 0 0 0;
+}
+.field-type-addthis {
+  margin: 2em 0;
+}
+.view-id-archive {
+  height: 300px;
+  overflow: scroll;
+}
+body.page-node-6 td:first-child {
+  padding-right: 2em;
+}
+.binary .form-item {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+.field-name-field-registering-for .field-item {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  font-size: 1.2em;
+  font-weight: normal;
+  line-height: 1.3em;
+  margin-bottom: 1em;
+  padding: 0.5em 0.7em;
   text-align: left;
+  color: #555;
 }
-
-.copyright .name,
-.copyright .address {
-  color: #485094;
+body.node-type-webform .field-name-field-image img {
+  margin-top: -1.5em;
+  min-width: 100%;
+  margin-bottom: 1em;
 }
-
-
-
-/* Lists */
-main {
-  ul {
-    margin-left: 1.2em;
+#calconnect-audience-boxes {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+#calconnect-audience-boxes li {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  list-style: outside none none;
+  margin: 0 0 1em 0;
+  padding: 1em;
+}
+#calconnect-audience-boxes li.last {
+  margin-right: 0;
+}
+#calconnect-audience-boxes li ul {
+  clear: both;
+  padding-left: 4.5em;
+}
+#calconnect-audience-boxes li li {
+  border: none;
+  border-radius: 0;
+  float: none;
+  list-style: disc;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: auto;
+}
+#calconnect-audience-boxes img {
+  float: left;
+  width: 40px;
+  margin: 0 0 6px 0;
+}
+#calconnect-audience-boxes h3 {
+  float: left;
+  margin: 0 0 6px 5px;
+  width: 75%;
+}
+#work-projects h3 {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #444;
+  font-size: 1.4em;
+  padding: 0.5em 0.6em 0.4em;
+  cursor: pointer;
+}
+#work-projects > div {
+  border: 1px solid #ddd;
+  border-top: none;
+  margin-top: -1em;
+  padding: 1em;
+  display: none;
+}
+#work-project-controls {
+  color: #337ab7;
+  float: right;
+  margin-top: -1em;
+}
+#work-project-controls li {
+  display: inline-block;
+  margin-left: 1em;
+  cursor: pointer;
+}
+#work-project-controls li:hover {
+  color: #23527c;
+}
+body.page-node-75 .content img {
+  margin: auto;
+}
+#liaison-logo-list {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2em 0;
+}
+#liason-logo-list li {
+  margin: auto;
+}
+#liaison-logo-list img {
+  height: 30px;
+  width: auto;
+}
+ul.action-links {
+  float: right;
+  margin: 0;
+}
+#footer {
+  width: 100%;
+  margin: 0;
+  padding: 0 0 2em;
+  background-color: #484f93;
+  color: #fff;
+  font-size: 0.9em;
+}
+#footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+#footer a:hover,
+#footer a:active {
+  color: #eee;
+}
+#footer-right {
+  display: none;
+}
+#footer-left {
+  text-align: center;
+}
+#footer .glyphicon.glyphicon-lock {
+  top: 3px;
+  left: -3px;
+}
+#footer .contextual-links-wrapper {
+  display: none;
+}
+@media only screen and (min-width: 320px) {
+  #titleBar {
+    text-align: center;
   }
-
-  ol {
-    margin-left: 1.2em;
+}
+@media only screen and (min-width: 480px) {
+}
+@media only screen and (min-width: 768px) {
+  body {
   }
-
-  ul > li {
-    list-style: none;
+  #titleBar {
+    font-size: 16px;
+    text-align: left;
   }
-
-  ul > li:before {
-    content: "—";
-    display: inline-block;
-    width: 1em;
-    margin-left: -1.2em;
+  #navbar {
+    padding: 0;
   }
-
-  li p {
-    display: inline;
-  }
-
-  li:first-child {
+  #navbar .navbar-header {
     margin-top: 1em;
   }
+  #navbar .logo img {
+    margin: 0;
+    width: 240px;
+  }
+  #navbar .navbar-nav > li > a {
+    padding: 2em 0.75em;
+    margin: 0;
+    line-height: 22px;
+  }
+  #navbar #block-search-form {
+    display: none;
+  }
+  #navbar #block-search-icon {
+    display: block;
+    padding-top: 1em;
+  }
+  #navbar li {
+  }
+  #block-submenu {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+  #block-submenu h2.block-title {
+    display: none;
+  }
+  #block-carousel {
+    float: left;
+    margin: 0;
+    margin-right: 2em;
+    margin-bottom: -40px;
+    width: 350px;
+  }
+  #calconnect-for ul {
+    width: 340px;
+    margin-top: 2em;
+  }
+  #block-views-upcoming-events-block {
+    float: left;
+    clear: left;
+    margin-right: 22px;
+    min-width: 260px;
+  }
+  #block-views-upcoming-events-block .views-field-title {
+    white-space: nowrap;
+  }
+  #block-views-news-and-highlights-block {
+    float: left;
+    width: 240px;
+  }
+  #calconnect-year {
+    float: left;
+  }
+  #calconnect-year img {
+    width: 150px;
+  }
+  #block-projects-intro {
+    clear: left;
+    float: left;
+    margin: 2em 0;
+    width: 50%;
+  }
+  #block-fp-lists {
+    float: left;
+    margin: 4em 0 0;
+    width: 50%;
+  }
+  #block-fp-lists-new {
+    float: right;
+    margin: 0 0 0 2em;
+    width: 20%;
+  }
+  #block-views-membership-list-block-2 {
+    display: block;
+    margin: 0 4em 0 0;
+    width: 20%;
+    min-height: 350px;
+    float: left;
+    clear: both;
+  }
+  #block-views-membership-list-block-2 .field-content a {
+    display: block;
+    min-height: 160px;
+    line-height: 160px;
+  }
+  #block-views-membership-list-block-2 .field-content a img {
+    vertical-align: middle;
+    display: inline;
+  }
+  #block-views-news-and-highlights-block-1 {
+    width: 80%;
+  }
+  #block-views-news-and-highlights-block-1 .view-footer {
+    margin-top: 2em;
+  }
+  body.page-search #block-system-main {
+    min-height: 350px;
+  }
+  body.page-user #block-system-main,
+  body.page-node-81 #block-system-main {
+    min-height: 350px;
+  }
+  #sitemap li {
+    float: left;
+    width: 20%;
+  }
+  #sitemap li li {
+    display: block;
+    float: none;
+    width: auto;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+    line-height: 1em;
+    font-size: 0.9em;
+  }
+  #sitemap .contextual-links-wrapper li {
+    width: auto;
+    float: none;
+  }
+  #sitemap .contextual-links-wrapper a {
+    display: block;
+  }
+  .calconnect-events img {
+    float: right;
+    height: 90px;
+    width: auto;
+    min-width: 0;
+    margin-left: 1em;
+  }
+  body.node-type-event .nav > li > a {
+    padding: 8px 12px;
+    font-size: 0.9em;
+  }
+  body.page-news .field-name-field-image img,
+  body.page-taxonomy .field-name-field-image img,
+  body.page-archive .field-name-field-image img {
+    min-width: 0;
+  }
+  body.node-type-event .field-name-field-image img,
+  body.node-type-article .field-name-field-image img,
+  .field-name-field-image-caption {
+    float: right;
+    clear: right;
+    margin: 0 0 0 1em;
+  }
+  body.node-type-event .field-name-field-image img,
+  body.node-type-event .field-name-field-image-caption {
+    width: 450px;
+    min-width: 450px;
+  }
+  body.node-type-event .field-name-field-recent-changes {
+  }
+  .field-name-field-image-caption {
+    margin-bottom: 1em;
+  }
+  .pagination {
+    font-size: 0.9em;
+  }
+  .pagination > li > a,
+  .pagination > li > span {
+    padding: 6px 10px;
+  }
+  body.node-type-article.page-node-454 .field-name-field-image img,
+  body.node-type-article.page-node-454 .field-name-field-image-caption {
+    min-width: 0;
+    width: 300px;
+  }
+  #block-member-logos .views-row {
+    width: 25%;
+    padding-right: 0;
+  }
+  #block-member-logos .field-content {
+    width: 25%;
+    text-align: center;
+  }
+  #block-member-logos img {
+    max-width: 75%;
+  }
+  .field-name-field-registering-for .field-item {
+    font-size: 1.5em;
+  }
+  body.node-type-webform .field-name-field-image img {
+    float: right;
+    margin-right: 15px;
+    margin-top: -110px;
+    width: auto;
+    height: 75px;
+    min-width: 0;
+  }
+  #calconnect-audience-boxes li {
+    float: left;
+    width: 31%;
+    height: 210px;
+    margin: 0 1em 2em 0;
+  }
+  #calconnect-audience-boxes h3 {
+    height: 50px;
+  }
+  #calconnect-audience-boxes li ul {
+    padding-left: 1.5em;
+  }
+  #liaison-logo-list img {
+    height: 70px;
+  }
+  #liaison-logo-list li.oasis-logo img {
+    max-height: 50px;
+  }
+  .cc-media-right {
+    float: right;
+    margin: 0 0 1em 1em;
+    max-width: 50%;
+  }
+  .cc-media-center img {
+    margin: 1em auto;
+  }
+  #footer {
+  }
+  #footer-left {
+    text-align: left;
+  }
+  #footer-right {
+    display: block;
+    float: right;
+  }
+  #footer a {
+    display: block;
+  }
 }
-
-/*
-    3.7 Notes
-*/
-.admonitionblock.note {
-  background-color: #fff495;
-  color: #47430c;
-  padding: 0 1em;
+@media only screen and (min-width: 992px) {
+  body {
+  }
+  #titleBar {
+    font-size: 18px;
+  }
+  #navbar .logo img {
+    width: auto;
+  }
+  #navbar .navbar-nav > li > a {
+    padding: 2em 1em;
+    line-height: 38px;
+  }
+  #navbar #block-search-icon {
+    display: block;
+    margin-top: 9px;
+  }
+  .pagination {
+    font-size: 1em;
+  }
+  .pagination > li > a,
+  .pagination > li > span {
+    padding: 6px 12px;
+  }
+  #block-carousel {
+    width: 550px;
+  }
+  #calconnect-for {
+    margin-top: 3em;
+  }
+  #calconnect-year img {
+  }
+  #block-views-upcoming-events-block {
+    width: 300px;
+  }
+  #block-views-news-and-highlights-block {
+    width: 360px;
+  }
+  body.node-type-event .nav > li > a {
+    padding: 10px 15px;
+    font-size: 1em;
+  }
+  #block-member-logos img {
+    max-width: 100%;
+  }
+  #calconnect-audience-boxes li {
+    height: 180px;
+  }
+  #footer a {
+    display: inline;
+  }
 }
-
+@media only screen and (min-width: 1200px) {
+  #navbar #block-search-form {
+    display: block;
+    position: absolute;
+    right: 0;
+    margin: 2em 0 0 0;
+  }
+  #calconnect-for ul {
+    width: 500px;
+  }
+  #calconnect-year img {
+    width: 180px;
+  }
+  #block-views-upcoming-events-block {
+    width: 360px;
+  }
+  #block-views-news-and-highlights-block {
+    width: 440px;
+  }
+  #calconnect-audience-boxes li {
+    width: 32%;
+    height: 132px;
+  }
+}
