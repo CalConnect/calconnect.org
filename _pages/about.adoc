@@ -3,7 +3,7 @@ layout: page
 title: Introduction to CalConnect
 type: about
 ---
-
+== Introduction to CalConnect
 ____
 You don't need to be a member of CalConnect to _implement_ a standard.
 You need to be a member of CalConnect to _influence_ a standard. 

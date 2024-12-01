@@ -6,6 +6,8 @@ date: 2022-05-09
 image: https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg
 ---
 
+== CalConnect Virtual Conference Spring 2022
+
 image::https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference Spring 2022,800,530]
 
 == Event Details

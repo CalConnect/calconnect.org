@@ -4,6 +4,8 @@ title: About CalConnect Events
 type: events
 ---
 
+== About CalConnect Events
+
 _Current as of February 2019_
 
 CalConnect holds three regular CalConnect Conferences each year. These

@@ -4,7 +4,9 @@ title: Events & Activities
 type: events
 ---
 
-==== CalConnect Events
+== Events & Activities
+
+=== CalConnect Events
 
 CalConnect holds two or three week-long events each year. Each event
 week consists of a four-day CalConnect Conference (Monday-Thursday or

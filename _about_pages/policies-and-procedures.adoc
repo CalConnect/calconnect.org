@@ -4,6 +4,8 @@ title: Policies and Procedures
 type: about
 ---
 
+== Policies and Procedures
+
 The following Policies and Recommendations have been adopted by The
 Calendaring and Scheduling Consortium. Members of the Consortium agree
 to abide by the provisions of Consortium policies and governing
@@ -747,14 +749,14 @@ CalConnect web site of blog. The sponsor may submit up to 100 words of
 which must not use any promotional, qualitative, comparative or call to
 action language to accompany a post-event announcement. +
  +
-_August 2015_
 
+_August 2015_  
 link:#top[Return to Top]
 
 [[2001]]
 ==== 2001 Expense Reimbursement for Volunteer Officers
 
-I. CalConnect will reimburse up to 50% of the actual or average
+1. CalConnect will reimburse up to 50% of the actual or average
 expenses, whichever is less, incurred by the Chair of the TCC and the
 Technical Architect to attend a CalConnect Event, under the following
 crules:
@@ -768,11 +770,11 @@ not result or add to a financial loss to CalConnect
 perform all the assigned functions of the officer, the replacement will
 be eligible for the reimbursement under the above rules
 
-{empty}II. In cases where low registration numbers may result in
+2. In cases where low registration numbers may result in
 CalConnect losing money on an event, the Board may take remedial actions
 to ensure a successful meeting within our budget +
  +
-III. The average expense cost is determined by averaging the expenses
+3. The average expense cost is determined by averaging the expenses
 for an officer to attend the last 12 CalConnect events, plus the
 registration fee for the events, and will set by the Board of Directors
 each year at its January meeting.

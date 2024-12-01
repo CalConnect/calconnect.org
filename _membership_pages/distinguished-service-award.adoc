@@ -4,6 +4,8 @@ title:  The CalConnect Distinguished Service Award
 type: membership
 ---
 
+== The CalConnect Distinguished Service Award
+
 The CalConnect Distinguished Service Award was created by the Board of
 Directors in 2011 to recognize individuals who have given extraordinary
 and/or exemplary service to CalConnect and to interoperable calendaring
@@ -39,7 +41,7 @@ her or him. The recipient receives a single Conference fee waiver, and
 the event is recognized by notification to CalConnect, a posting in the
 CalConnect blog, and a report in the subsequent CalConnect event report.
 
-==== Bernard Desruisseaux - Roundtable XXIII, February 2012
+=== Bernard Desruisseaux - Roundtable XXIII, February 2012
 
 image:https://www.calconnect.org/sites/default/files/pictures/dsadesruisseaux.jpg[/sites/default/files/pictures/dsadesruisseaux]Bernard
 Desruisseaux of Oracle was the first recipient of the Distinguished

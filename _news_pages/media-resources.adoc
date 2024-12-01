@@ -4,6 +4,8 @@ title:  Media Resources
 type: news
 ---
 
+== Media Resources
+
 === The CalConnect Logo
 
 Permission is granted to CalConnect Members to use the CalConnect Logo

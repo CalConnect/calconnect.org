@@ -4,6 +4,8 @@ title:  Event Reading Lists
 type: resources
 ---
 
+== Event Reading Lists
+
 _Last Updated September 2019_
 
  

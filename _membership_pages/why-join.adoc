@@ -4,8 +4,7 @@ title:  Why Become a Member of CalConnect?
 type: membership
 ---
 
-[[block-system-main]]
-[.rdf-meta .element-hidden]##[.rdf-meta .element-hidden]##
+== Why Become a Member of CalConnect?
 
 This page is a "cold call" to ask you to consider joining CalConnect. As
 you have already found your way to this web page, we think there is a

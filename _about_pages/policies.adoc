@@ -3,6 +3,7 @@ layout: page
 title: Policies and Related Materials
 type: about
 ---
+== Policies and Related Materials
 
 http://www.calconnect.org/sites/default/files/media/incorporation.pdf[*Articles
 of Incorporation*] +

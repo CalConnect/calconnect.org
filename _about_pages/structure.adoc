@@ -4,6 +4,8 @@ title: Structure of CalConnect
 type: about
 ---
 
+== Structure of CalConnect
+
 CalConnect is incorporated in the State of California as a 501(c)6
 Nonprofit Mutual Benefit Corporation. The affairs of the Corporation are
 managed by a Board of Directors. The primary purpose of the Board of

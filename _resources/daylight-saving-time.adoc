@@ -4,7 +4,9 @@ title:  Daylight Saving Time and Time Zones
 type: resources
 ---
 
-==== General Interest
+== Daylight Saving Time and Time Zones
+
+=== General Interest
 
 http://www.calconnect.org/resources/discussion-lists/time-zone-discussion[CalConnect
 Time Zone Discussion Public Mailing LIst] +
@@ -39,8 +41,6 @@ Service RFC 7808] +
 This document defines a time zone data distribution service that allows
 reliable, secure and fast delivery of time zone data to client systems
 such as calendaring and scheduling applications or operating systems.
-
-====  
 
 ==== European Union Summer Time Proposal (2018-2019)
 

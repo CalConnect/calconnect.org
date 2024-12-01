@@ -4,6 +4,8 @@ title:  CalConnect Resources
 type: resources
 ---
 
+== CalConnect Resources
+
 _Last Updated June 2019_
 
 *Introductory Information*

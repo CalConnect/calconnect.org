@@ -4,6 +4,8 @@ title:  Code of Conduct
 type: membership
 ---
 
+== Code of Conduct
+
 All member representatives (individuals participating in any Consortium
 activities on the part of a member) are expected to behave in a
 collegial and professional fashion in accordance with this Code of
