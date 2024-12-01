@@ -1,0 +1,52 @@
+---
+layout: page
+title:  Membership Categories and Fees
+type: membership
+---
+
+_Revised 18 October 2021_
+
+The membership fee varies by the type of organization applying for
+membership. Membership fees are due annually upon the organization's
+anniversary of joining CalConnect. (An organization joins CalConnect
+upon our receipt and acceptance of its membership application, generally
+within 1-2 days of application submittal.)
+
+All new members receive a 50% discount on their first year's membership
+dues, and a 50% discount on all event fees during their first membership
+year. +
+ 
+
+[width="100%",cols="50%,50%",]
+|===
+|*Type of Organization* |*Annual Dues*
+
+|Commercial Vendor > $100M Revenue |$10,000
+
+|Commercial Vendor $10M - $100M Revenue |$7,500
+
+|Commercial Vendor $5M - $10M Revenue |$5,000
+
+|Organizational Member |$3,000
+
+|Small Organizational Member < $250K revenue |$1,000
+
+|Individual^[.small]#1#^ |$500
+
+|Supporting Member^[.small]#2#^ |1/5 regular membership
+
+|Founding Member^[.small]#3#^ |$0
+
+|[.small]#1#^An individual member may only represent their
+interests or views, and may not participate or act on the behalf of any
+other person or organization, regardless of their affiliation or
+employment status +
+[.small]#2#^A supporting member (formerly dormant member) pays 1/5 the
+regular membership dues for its category and cannot actively participate
+in CalConnect activities but remains on the notification and mailing
+lists +
+[.small]#3#^A Founding Member was involved in the establishment of
+CalConnect; has remained a member, and has continuously provided support
+to the organization. A Founding Member pays no membership dues; all
+other benefits and obligations of members are unchanged.# |
+|===

@@ -1,0 +1,369 @@
+---
+layout: page
+title:  The CalConnect Distinguished Service Award
+type: membership
+---
+
+The CalConnect Distinguished Service Award was created by the Board of
+Directors in 2011 to recognize individuals who have given extraordinary
+and/or exemplary service to CalConnect and to interoperable calendaring
+more generally. Any participant from a member organization in good
+standing is eligible to be nominated and receive the Distinguished
+Service Award. The Executive Director nominates a candidate to the Board
+of Directors based on the following criteria:
+
+. Conference Attendance
+. Conference Participation
+. Interoperabilty Test Event (IOP) Attendance
+. Interoperability Test Event Participation
+. Service
+. Technical Committee Participation
+. Steering committee Participation
+. Leadership
+. Collegiality/Professionalism/Code of Conduct
+. Promotion of CalConnect
+. Length of Service
+. Other service activities
+. Overall Contribution furthering CalConnect's goals, objectives, and
+activities
+
+The Board of Directors votes upon the candidate; if the nominee receives
+a majority of yes votes and agreement from non-voting Ex Officio
+members, the recipient of the CalConnect Distinguished Service Award is
+honored at the next Conference. A representative of the Board of
+Directors, or the Executive Director when no Board members are present,
+presents the award unless the nominee is unable to be present. If the
+nominee cannot be present the award is announced at the next conference,
+and the nominee is informed by the President and the award shipped to
+her or him. The recipient receives a single Conference fee waiver, and
+the event is recognized by notification to CalConnect, a posting in the
+CalConnect blog, and a report in the subsequent CalConnect event report.
+
+==== Bernard Desruisseaux - Roundtable XXIII, February 2012
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsadesruisseaux.jpg[/sites/default/files/pictures/dsadesruisseaux]Bernard
+Desruisseaux of Oracle was the first recipient of the Distinguished
+Service Award. Bernard has been active in CalConnect since its founding
+in 2004: he was one of the original Oracle team at the very first IOP
+test event, and helped to host the original CalConnect Roundtable in
+Montreal in 2004. He has chaired TC CalDAV and TC iSCHEDULE since their
+inception. In addition, he served on ad hoc committees and was most
+recently Oracle's representative to the Steering Committee. Bernard has
+authored, edited, and contributed to numerous IETF and CalConnect
+specifications. He has recommended possible new members to us and us to
+them. Bernard has attended almost every Roundtable, and most of the
+interoperability test events, up to this year, when his job
+responsibilities have drawn him away from direct involvement in
+CalConnect.
+
+In doing so, Bernard always displayed both great integrity and great
+collegiality and comradeship. He masterfully has balanced the interests
+and obligations of his employer with that of the greater good of the IT
+community and interoperable calendaring. As a Chair and contributor in
+Technical Committees, Bernard has always been able to express his
+opinions and positions strongly, but willing to adjust those positions
+and be convinced of other approaches when appropriate.
+
+Bernard's duties have drawn him away from calendaring and from
+CalConnect, but we are much richer for his contributions and his
+presence, and hope that some day we may see him active once again.
+
+==== Patricia Egen - Roundtable XXIV, May 2012
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsaegen.jpg[/sites/default/files/pictures/dsaegen,width=250,height=313]
+Pat has been involved with calendaring and scheduling for many years,
+and was responsible for a mainframe calendaring system, yes — such
+things really existed, some years ago. She became a champion for users
+and interoperability long ago, leading to her involvement in calendaring
+and scheduling standards in the IETF, which took over the original
+calendaring specification and established the CALSCH Working Group to
+move forward with calendaring standards. Pat became co-chair of CALSCH
+in 1999, and she organized the initial interoperability testing efforts.
+
+When work on calendaring standards, CAP, iCalendar, iTIP and iMIP,
+stalled in the IETF in the early 2000s, Pat realized the need for a
+separate organization or entity to somehow "jump start" the calendaring
+effort, and set out to find other like-minded individuals to work on,
+and establish, what would later become CalConnect, starting with the
+first CalConnect Roundtable in Montreal in 2004, hosted by Oracle. Pat
+became the Interoperability Test Manager for CalConnect for the
+inaugural CalConnect event in January of 2005, and managed every
+interoperability test event until late 2011, when the press of business
+and schedule necessitated passing that responsibility on.
+
+During the nearly seven years that Pat served in this position, in
+addition to running the interoperability test event, she compiled and
+published the post-event reports. Pat has served as a Director of
+CalConnect since its inception, most recently as Chair of the Board of
+Directors. Pat has also served on the Steering Committee since its
+inception. Pat was the chair of TC IOPTEST since its inception, and has
+participated when her schedule permitted in the work of other technical
+committees.
+
+As Pat's own business grows and prospers, she has less time to be
+actively involved with CalConnect, but she has always had, and retains,
+a strong interest in the purpose, the work, and goals of CalConnect, and
+remains a passionate supporter of CalConnect and of interoperable
+calendaring and scheduling. With this award, we recognize Pat for the
+seminal role she played in the creation of CalConnect, and for service
+in many different roles over the last eight years. However, the Patricia
+Egen story has another aspect, that of a tireless advocate of the
+customer's and user's needs in calendaring and scheduling, who
+unceasingly supported that perspective in discussions with vendors and
+customer members of CalConnect, reminding all of us of the many ways we
+can contribute with the unique skills and perspectives each of us has.
+Perhaps this thought, attributed to Margaret Mead, sums it up best,
+"Never doubt that a small group of thoughtful, committed citizens can
+change the world. Indeed, it is the only thing that ever has."
+
+Thank you Pat, for your commitment to changing the calendaring world.
+
+==== Cyrus Daboo - Roundtable XXVIII, September 2013
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsadaboo.jpg[/sites/default/files/pictures/dsadaboo,width=250,height=374]
+Cyrus earned his Doctorate in Physics from Cambridge University in the
+U.K.. and moved to the United States after working as a Research
+Associate at Cambridge in the mid-1990s. In the U.S. he founded his own
+firm and developed Mulberry, a calendaring and e-mail client adopted
+largely in the academic sector, which he eventually made an open source
+project.
+
+Cyrus became involved with calendaring and scheduling in the process,
+and with the IETF. He was one of the original authors of the CalDAV
+standard, and was involved in the establishment of CalConnect, as he
+attended the original formation meeting in Montreal in 2004. His firm,
+Isamet, became one of the founding members of CalConnect and Cyrus has
+been at, and involved in, every CalConnect event.
+
+In early 2006 Cyrus went to Apple, where he has been responsible for
+Apple's iCal Server and the open source Darwin Calendar Server. Cyrus
+has been extremely active in CalConnect since before he went to Apple,
+and has continued his activities as author and editor of many standards
+and specifications. He has served as Chair of TC CHAIRS for all but two
+years since 2006, and has served as Apple's Steering Committee
+representative since Apple became a member of the Steering Committee.
+
+Cyrus has been active and effective not just in authoring and
+progressing specification and standards, but broader areas involving
+CalConnect, including identifying new work areas, conducting workshops
+and sessions, and helping to progress our work. He is an exemplar of
+collegiality, willing to work with and help anyone, and never
+condescending, but treating all as colleagues.
+
+Cyrus is one of the few people who seem somehow to actually manage not
+just to be in multiple places at once, but to work effectively in those
+places, and has been one of the primary drivers of CalConnect's success,
+as well as of CalDAV, CardDAV, and the other standards he has been
+instrumental in authoring and progressing. Cyrus is one of the thought
+leaders of CalConnect, thinking about and speaking to what we can do
+better and how we can do it. If there are any close to indispensable
+people in the calendaring and scheduling world, Cyrus is certainly one
+of them, and he has remained a stalwart support of CalConnect from the
+beginning.
+
+Thank you, Cyrus, for your long service and outstanding contributions to
+CalConnect and interoperable calendaring.
+
+==== Mimi Mugler - Calconnect XXX, May 2014
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsamugler.jpg[/sites/default/files/pictures/dsamugler,width=250,height=422]
+
+Mimi became the University of California representative to CalConnect in
+early 2007, and the UC representative to the Steering Committee at the
+same time. She was our host for CalConnect XX in February of 2011, and
+she hosted the Board Strategic Planning meeting in October of 2012.
+
+Mimi has attended every CalConnect event in North America since becoming
+the UC representative, and has been active on TC USECASE, and on the
+User SIG, which she was instrumental in starting and Chaired. She has
+twice served as Chair of the Steering Committee, from 2008-2010, and
+again from 2012-present. As Chair, she has led by building consensus in
+the Steering Committee, and she continuously has worked towards
+establishing, and furthering, a strategic direction for CalConnect and
+for the Steering Committee. Also as Chair of the Steering Committee, she
+has represented the Steering Committee to the Board of Directors, and
+participated at Board meetings, and at the Board Strategic Planning
+meeting. Mimi has been instrumental in realigning the Steering Committee
+structure, and working with the Steering Committee Ad Hoc on
+Restructuring in 2013-2014.
+
+Mimi truly exemplifies the spirit of the award as we conceived it -
+commitment, collegiality, leadership and consensus
+building,representation of the calendaring community, and stewardship of
+CalConnect as an organization. We could not be more pleased to recognize
+and share Mimi's contributions and accomplishments in front of her peers
+at our 30th CalConnect conference.
+
+Mimi's responsibilities within the University of California are
+changing, but we hope for, and look forward to, her continued
+involvement with CalConnect in the future.
+
+==== Mike Douglass - Calconnect XXXI, October 2014
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsadouglass.jpg[/sites/default/files/pictures/dsadouglass,width=275,height=361]
+At CalConnect XXXI, hosted by Youcanbook.me in Bedford, United Kingdom,
+Mike Douglass of Rensselaer Polytechnic Institute was honored as our 5th
+recipient of the Distinguished Service Award.
+
+Mike became active in CalConnect in 2005 when Rensselaer Polytechnic
+Institute joined CalConnect, and has remained intensely involved ever
+since. He is an engaged participant and presenter at CalConnect
+conferences. He has attended every event RPI joined CalConnect, save for
+one he reluctantly missed while recuperating from major surgery – but he
+did call in when he could!
+
+Mike actively participates in nearly every Technical committee, chairing
+many of them - EVENTPUB, IOPTEST, TIMEZONE, XML, and co-chairing
+FREEBUSY. He has authored or co-authored several specifications and
+internet drafts, including CalWS-REST and CalWS-SOAP, Event Publication
+Extensions to iCalendar, Improved Support for iCalendar Relationships,
+Objectclass Property for vCard, Timezone Service Protocol, and working
+with the OASIS WS Calendar Committee, WS-Calendar.
+
+Finally, Mike has been the Interoperability Test Event Manager since
+2011, when the Board made it into a volunteer position, and oversees the
+test event while conducting his own testing and helping others.
+
+Thank you, Mike, for your long and varied service to CalConnect and your
+many contributions to our success.
+
+==== Pam Taylor - Calconnect XXXII, January 2015
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsapamtaylor.jpg[/sites/default/files/pictures/dsapamtaylor,width=250,height=376]
+At CalConnect XXXII, our Tenth Anniversary Meeting hosted by Kerio
+Technologies in San Jose, California, Pamela Taylor was honored as the
+6th recipient of the Distinguished Service Award. Unfortunately Pam was
+not able to be present at the event.
+
+Pam Taylor was one of the original members of the CalConnect Board of
+Directors, and continued to be a Director from 2004 to 2014. Pam also
+served CalConnect as President, as Chair of the Board of Directors, and
+as Chief Financial Officer at various periods during her service on the
+Board.
+
+Although Pam was never able to take an active role in the technical work
+of CalConnect, her broad experience in non-profit organizations at all
+levels of management, and her knowledge of non-profit boards and
+finances, were actively employed in the service of CalConnect, and she
+was instrumental in assisting the early development of the organization
+and in its continued success.
+
+Other demands on Pam's time mean that she is no longer able to serve as
+a Director, but we hope that she might return at some point in the
+future.
+
+==== Dave Thewlis - Calconnect XXXII, January 2015
+
+image:https://www.calconnect.org/sites/default/files/pictures/dsadavethewlis.jpg[/sites/default/files/pictures/dsadavethewlis]
+At CalConnect XXXII, our Tenth Anniversary Meeting hosted by Kerio
+Technologies in San Jose, California, Dave Thewlis was honored as the
+7th recipient of the Distinguished Service Award.
+
+Dave was one of the original founders of CalConnect along with Patricia
+Egen, and served as the incorporater and on the initial Board of
+Directors along with Pat Egen and Pam Tayler. Dave initially served as
+President of CalConnect but relinquished that position early on to
+become Secretary.
+
+Dave has served as Executive Director of CalConnect since its initial
+establishment and continues to serve CalConnect in that capacity and as
+Secretary of the corporation.
+
+==== Gary Schwartz - CalConnect XXXVIII, February 2017
+
+image:https://www.calconnect.org/sites/default/files/media/dsagaryschwartz.jpg[https://www.calconnect.org/sites/default/files/media/dsagaryschwartz]
+At CalConnect XXXVIII, hosted by the University of California, Irvine in
+Irvine, California, Gary Schwartz of Rensselaer Polytechnic Institute
+was honored as our 8th recipient of the Distinguished Service Award.
+
+Gary became active in CalConnect in January 2005 when he and Mike
+Douglass stumbled across the very first CalConnect Roundtable (now
+Conference) at the University of Washington; RPI joined CalConnect
+before the end of the month.
+
+Gary served as the Chair of TC-FREEBUSY when it was first created to
+address the the Open Group Federated Freebusy Challenge.  Subsequently
+Gary’s involvement has largely been on the organizational side.  He
+served CalConnect for 8 years as President, during which time CalConnect
+became a truly global organization and held its first European and first
+Asian events.
+
+In addition Gary has served twice ad Chief Financial Officer (once
+before and once after his stint as president), and organized our Tenth
+Year Anniversary event in 2014 in San Jose.  He was instrumental in
+establishing the Board Strategic Planning process and led the two
+retreats the Boaard has held.
+
+Gary’s excitement, interest, focus, and reasoning have done much to keep
+CalConnect growing and focused during its years of existence.  We look
+forward to Gary’s continued involvement with CalConnect.
+
+==== Ken Murchison - CalConnect XLI, January-February 2018
+
+image:https://www.calconnect.org/sites/default/files/media/KenMurchison.jpg[Ken
+Murchison]At CalConnect XLI, hosted by Oath in Sunnyvale, California,
+Ken Murchison of FastMail was honored as our 9th recipient of the
+Distinguished Service Award.
+
+Ken has been active in CalConnect since the beginning of this decade,
+first representing Carnegie Mellon University and in the last year
+FastMail.  His first event was CalConnect XX in February of 2011 at UC
+Berkeley.  Ken has attended events in the U.S. but until moving to
+FastMail he was unable to attend international events; his first
+international event was the Cologne event this September.
+
+Ken has been widely active on the technical side, participating in and
+chairing multiple Technical Committees, and now chairs TC CALENDAR.  He
+is the author of a number of RFCs and specifications, and is also the
+principal developer of the Cyrus Mail and Calendar server which is
+widely used.  For the last few two years he has also served as our
+primary liaison to the IETF he has been active in the IETF for a number
+of years.  As of earlier this year he has been invited to attend Board
+meetings and StratPlan calls and he will be presenting at the Board
+Retreat here in Sunnyvale on Saturday.
+
+The CalConnect Distinguished Service Award recognizes an individual for
+their extraordinary and/or exemplary service, but the DSA is awarded as
+much (or more) to establish and reinforce CalConnect’s cultural elements
+of myth and legend, heroes and heroines, prescriptions and preferences,
+and behavioral codes. The DSA does not have to inspire the recipient; it
+is intended to inspire the rest of us.
+
+We are a member-driven organization – our agenda, our projects, our
+collaborations with other organizations, all result from the work of our
+TCs - technical committees, which are made up of ,and led by
+participants from our member organizations.
+
+Like the 8 recipients who precede him, the CalConnect story and the Ken
+Murchison story are one and the same. Without Ken Murchison, and those
+with the dedication, and willingness to work on behalf of interoperable
+calendaring and scheduling, CalConnect could not be what it is today.
+
+==== Thomas Schäfer - May 2020
+
+image:https://www.calconnect.org/sites/default/files/documents/ThomasSchaefer.png[Thomas
+Schäfer,title="Thomas Schäfer"]The Board of Directors has honored Thomas
+Schäfer as the recipient of our tenth Distinguished Service Award.
+
+Thomas became active in CalConnect in 2014 when 1&1 joined, and has
+remained intensely involved ever since on both the technical and
+organizational sides. Thomas and 1&1 hosted two conferences, CalConnect
+XXXIII Bucharest in 2015 and CalConnect XLIII Karlsruhe in 2018.
+
+Thomas established and chaired TC-CALSPAM to consider calendar spam, and
+initiated our liaison with M3WAAG to jointly work in this area. He
+initiated and chaired TC-DEVGUIDE, to create a Calendar Developer’s
+Guide, which continues to be developed. He served on the Event Planning
+committee, and initiated and completed a proposal to combine the testing
+and conference components of the CalConnect meetings into a single
+format. He served as Chair of the Technical Coordination Committee, and
+as such as a Board member.
+
+When 1&1 chose to not renew their membership, Thomas joined CalConnect
+as an individual member, and continues to chair and participate in
+technical committees and event planning.
+
+Thomas has always been present, always good humored, and with
+constructive contributions to calls and conferences. We look forward to
+Thomas’s continued involvement and participation in CalConnect in the
+future.

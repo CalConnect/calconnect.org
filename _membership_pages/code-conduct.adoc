@@ -1,0 +1,48 @@
+---
+layout: page
+title:  Code of Conduct
+type: membership
+---
+
+All member representatives (individuals participating in any Consortium
+activities on the part of a member) are expected to behave in a
+collegial and professional fashion in accordance with this Code of
+Conduct. As part of the Consortium Membership Agreement, members agree
+to familiarize their representatives with this Code of Conduct, require
+them to behave accordingly, and agree to remove or replace a member
+representative who violates the Code of Conduct if the Consortium so
+requests.
+
+. Representatives of Consortium members agree to behave in a collegial
+and professional fashion when engaged in Consortium Activities, in
+accordance with the Membership Agreement and this Code of Conduct
+Behavior prejudicial to the free and easy exchange of ideas and
+discourse, such as "flaming" on discussion forums or overbearing
+attitudes on mailing lists and in meetings, is considered inappropriate
+and unprofessional.
+. Representatives of Consortium Members appointed to serve as Chairs or
+Co-Chairs of Consortium Committees are expected to actively conduct the
+business of their committees in a fair and impartial fashion and to
+ensure that their organization supports their work in chairing the
+committee.
+. Representatives of Consortium members are welcome to discuss or
+present the Consortium and its activities at external events or
+activities such as discussion forums, but shall not imply or suggest
+that they speak officially for the Consortium.
+. Representatives of Consortium members shall abide by the Consortium
+http://calconnect.org/iprpolicy.shtml[Intellectual Property Rights
+Policy] with respect to proprietary and confidential information of
+their members in the course of Consortium activities.
+. Representatives of Consortium members shall not disclose in-progress
+work or activities of the Consortium which are deemed private to the
+Consortium and its participants. In-progress work or activities that are
+covered by this clause include, but are not limited to, draft meeting
+minutes, draft position papers, draft questionnaires, and draft
+announcements. Consortium members often participate in directly related
+work taking place within standards organizations such as the IETF, W3C,
+or OASIS and these activities remain subject to the intellectual
+property rules and disclosure rules of the relevant standards bodies.
+. Violations of the Code of Conduct on the part of an individual may
+ultimately result in the individual being asked to leave a meeting, be
+suspended from some or all Consortium activities, or the Member asked to
+remove the individual from further involvement with the Consortium.

@@ -1,0 +1,41 @@
+---
+layout: page
+title:  Benefits of Membership
+type: membership
+---
+
+All members of CalConneect have the same benefits and rights regardless
+of membership type or membership fee. Membership benefits include:
+
+* Members may have as many individuals as they desire involved in
+CalConnect activities at no additional cost beyond the annual membership
+fee
+** Attendence at CalConnect events such as Conferences require
+additional registration fees
+* Members may attend and participate in CalConnect member activities
+such as Conferences and Technical Committees
+* Members may host a CalConnect Conference and pay no participation fee
+for the first two participants in that event
+* Members may participate in all CalConnect-only mailing and discussion
+lists including Technical Committees and special technical topics
+* Members may participate in liaison activities with other international
+standards organizations including standards development
+* Members will have access during development to all white papers,
+requirements documents, test scripts, specifications, etc. produced by
+the Consortium
+* Members may propose Technical Committees, participate in any and all
+Technical Committees, and nominate individuals to chair Technical
+Committees
+* Members will be listed on the CalConnect website Members page. Both a
+company or organizational logo and a link will be provided
+* Members receive recognition and publicity as a member of the
+CalConnect and a supporter of the goals of the Consortium
+* Members may coordinate and link CalConnect publicity with their own
+publicity work
+* Members participating in supporting and achieving the goals of the
+Consortium:
+** Better general understanding and appreciation of Calendaring and
+Scheduling
+** Evolution and improvement of calendaring and scheduling standards
+** Widespread acceptance and use of interoperable Calendaring and
+Scheduling products and applications

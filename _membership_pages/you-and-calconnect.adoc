@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title:  Is CalConnect Right for You? Are You Right for CalConnect?
+type: membership
 ---
-
-== Is CalConnect Right for You? Are You Right for CalConnect?
 
 Recently (August 2013), we welcomed Ribose as the newest CalConnect
 member, and our first member organization based in Asia. In our
