@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+<div class="main-container container">
+
+    <!-- Page Header -->
+    <header role="banner" id="page-header">
+    </header> <!-- /#page-header -->
+
+    <div class="row">
+
+        <!-- Main Content Section -->
+        <section class="col-sm-9">
+
+            <!-- Breadcrumbs -->
+            <ol class="breadcrumb">
+                {% include breadcrumbs.html %}
+            </ol>
+
+            <!-- Anchor for Main Content -->
+            <a id="main-content"></a>
+
+            <!-- Page Title -->
+            <h1 class="page-header">{{ page.title }}</h1>
+
+            <!-- Dynamic Content Region -->
+            <div class="region region-content">
+                {{ content }}
+            </div>
+        </section>
+
+        <!-- Sidebar Section -->
+        <aside class="col-sm-3" role="complementary">
+
+            <!-- Sidebar Region -->
+            <div class="region region-sidebar-second">
+
+                <!-- Submenu Block -->
+                <section id="block-submenu" class="block block-menu-block">
+                    
+                    <!-- Sidebar Title -->
+                    <h2 class="block-title">{{ page.type }}</h2>
+
+                    <!-- Dynamic Navigation Menu -->
+                    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
+                        {% assign navigation = site.data.navigation[page.type] %}
+                        
+                        <!-- Check if navigation exists -->
+                        {% if navigation %}
+                            {% for item in navigation %}
+                                
+                                <!-- Submenu Title -->
+                                {% if item.title %}
+                                    <h3>{{ item.title }}</h3>
+                                {% endif %}
+                                
+                                <!-- Subfolder Items -->
+                                {% if item.subfolderitems and item.subfolderitems[0] %}
+                                    <ul class="menu nav">
+                                        {% for entry in item.subfolderitems %}
+                                            <li class="leaf">
+                                                <a href="{{ entry.url }}">{{ entry.page }}</a>
+                                                
+                                                <!-- Nested Subfolder Items -->
+                                                {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
+                                                <ul class="menu nav">
+                                                    {% for subentry in entry.subsubfolderitems %}
+                                                        <li class="leaf">
+                                                            <a href="{{ subentry.url }}">{{ subentry.page }}</a>
+                                                        </li>
+                                                    {% endfor %}
+                                                </ul>
+                                                {% endif %}
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    </div>
+                </section>
+            </div>
+        </aside> <!-- /#sidebar-second -->
+
+    </div>
+</div>
