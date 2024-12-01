@@ -1,0 +1,141 @@
+about:
+  - title: 
+    subfolderitems:
+      - page: Introduction
+        url: /about
+      - page: Definitions
+        url: /about/definitions
+      - page: Goals
+        url: /about/goals
+      - page: Structure
+        url: /about/structure
+      - page: Technical Committees
+        url: /about/technical-committees
+      - page: Major Work Projects
+        url: /about/major-work-projects
+      - page: Policies
+        url: /about/policies
+      - page: Policies and Procedures
+        url: /about/policies-and-procedures
+      - page: Copyright and Licensing
+        url: /about/copyright-and-licensing
+      - page: Intellectual Property Rights Policy
+        url: /about/intellectual-property-rights-policy
+      - page: Board of Directors
+        url: /about/board-directors
+      - page: Liaisons and Relationships
+        url: /about/liaisons-and-relationships
+      - page: History
+        url: /about/history
+membership:
+  - title: 
+    subfolderitems:
+      - page: CalConnect Members
+        url: /membership
+      - page: You and CalConnect?
+        url: /membership
+      - page: Why Join?
+        url: /membership/why-join
+      - page: Who May Join?
+        url: /membership/who-may-join
+      - page: Membership Benefits
+        url: /membership/membership-benefits
+      - page: Membership Categories and Fees
+        url: /membership/membership-categories-and-fees
+      - page: Membership Agreement
+        url: /membership/membership-agreement
+      - page: Code of Conduct
+        url: /membership/code-conduct
+      - page: Membership Application
+        url: /membership/membership-application
+      - page: Membership Fee Payment
+        url: /membership/membership-fee-payment
+      - page: Distinguished Service Award
+        url: /membership/distinguished-service-award
+events:
+  - title: 
+    subfolderitems:
+      - page: Upcoming Events
+        url: /events
+      - page: Past Events
+        url: /events/past-events
+      - page: Events & Activities
+        url: /events/events-activities
+      - page: About Events
+        url: /events/about-events
+      - page: Conferences
+        url: /events/conferences
+      - page: Conference Fees
+        url: /events/conference-fees
+      - page: Observers
+        url: /events/observers
+      - page: Event Registration & Payment Options
+        url: /events/event-registration-payment
+      - page: Event Reports
+        url: /events/event-reports
+      - page: Calendars
+        url: /events/calendars
+resources:
+  - title: 
+    subfolderitems:
+      - page: Resources
+        url: /resources
+      - page: Introduction to Internet Calendaring
+        url: /resources/introduction-internet-calendaring
+      - page: Glossary
+        url: https://devguide.calconnect.org/Appendix/Glossary/
+      - page: Index to Calendaring Standards
+        url: /resources/calendaring-standards
+      - page: 7 Things You Should Know About...
+        url: /resources/7-things-you-should-know-about
+      - page: Getting Started...
+        url: /resources/getting-started
+      - page: Architectural Diagrams
+        url: /resources/architectural-diagrams
+      - page: Bug Reporting Links
+        url: /resources/bug-reporting-links
+      - page: Code Artifacts
+        url: /resources/code-artifacts
+      - page: Daylight Saving Time and Time Zones
+        url: /resources/daylight-saving-time
+      - page: Developers Guide
+        url: https://devguide.calconnect.org
+      - page: Document Register
+        url: https://standards.calconnect.org/
+      - page: Event Reading Lists
+        url: /resources/event-reading-list
+      - page: Event Reports
+        url: https://www.calconnect.org/events/event-reports
+      - page: Member Services and Resources
+        url: /resources/member-services-and-resources
+      - page: Patent Information Database
+        url: https://standards.calconnect.org/patents/
+      - page: Presentations
+        url: https://www.calconnect.org/news/presentations
+      - page: Public Discussion Lists
+        url: /resources/discussion-lists
+      - page: Public Review
+        url: /resources/public-review
+news:
+  - title: 
+    subfolderitems:
+      - page: Latest News
+        url: /news
+      - page: Presentations
+        url: /news/presentations
+      - page: Press Releases
+        url: /news/press-releases
+      - page: Media Resources
+        url: /news/media-resources
+  - title: Blog Roll
+    subfolderitems:
+      - page: CalConnect News
+        url: /news
+      - page: Calendar Weblog
+        url: http://weblogs.mozillazine.org/calendar/
+      - page: Francesco D'Alessio
+        url: https://www.youtube.com/channel/UCYyaQsm2HyneP9CsIOdihBw
+      - page: Sumatra's Calendar Server Blog
+        url: http://calendarservermigration.blogspot.com/
+      - page: The Calendar Swamp
+        url: http://calendarswamp.blogspot.com/
