@@ -1,0 +1,51 @@
+---
+layout: page
+title: About CalConnect Events
+type: events
+---
+
+_Current as of February 2019_
+
+CalConnect holds three regular CalConnect Conferences each year. These
+events are generally held the first full week of February, June, and
+October, but may be shifted a week or two either way at the convenience
+of the host or to avoid collision with other events of importance to
+CalConnect members. +
+ +
+CalConnect Conferences are four days, generally either Monday-Thursday
+of a week, or Tuesday-Friday of a week. 
+
+Occasionally a separate event such as a Codefest or Workshop might be
+scheduled in the free Monday or Friday of a CalConnect week if
+acceptable to the host; these are usually public events and may not
+require a fee (or provide any catering services).  +
+ +
+CalConnect may also hold special events such as Workshops or "Meet
+CalConnect" invitational events completely separate from its regularly
+scheduled CalConnect Events when necessary.
+
+In the past, CalConnect held separate Interoperabiity Test Events,
+either in a single week divided between the test event and the
+conference, or as a completely separeate event; testing is now
+incorporated into the regular CalConnect Conferences and is generally
+not a separate event. +
+ +
+A non-member may be an link:/observer.shtml[Observer] at a single
+CalConnect Conference to determine whether they wish to join. +
+ +
+Logistics information for each coming event is provided as early as
+possible after a prospective host agrees to a location and dates.  As
+the event gets nearer, schedules and topical agendas and registration
+links will be posted. +
+ +
+Information about specific upcoming events may be found linked from the
+sidebar for this page, and on the home page.  The logistics information
+for all past events can also be found linked from the sidebar from this
+page.  +
+ +
+Information about how to register and pay for a CalConnect Conference 
+may be found at link:/regtypes.shtml[Registration and Payment Options].
+This page is also linked from each logistics page. +
+ +
+Following each CalConnect Event, a report of the Conference is posted to
+link:/eventreports.shtml[CalConnect Conference Reports].

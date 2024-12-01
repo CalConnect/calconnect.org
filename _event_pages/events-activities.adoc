@@ -1,0 +1,79 @@
+---
+layout: page
+title: Events & Activities
+type: events
+---
+
+==== CalConnect Events
+
+CalConnect holds two or three week-long events each year. Each event
+week consists of a four-day CalConnect Conference (Monday-Thursday or
+Tuesday-Friday). preceded or followed by a day for a special event such
+as a workshop, or open working and testing sessions. Testing
+opportunities are available both during the 4-day conference, and during
+the preceding or following day.  +
+ +
+CalConnect also holds occasional Workshops, which are usually organized
+as part of the CalConnect Week. These may be members-only or open to the
+public. +
+ 
+
+==== CalConnect Conferences
+
+link:/conferences.shtml[*CalConnect Conferences*] +
+Specific information about upcoming Conferences can be found at
+link:/events[Future Events]; generally the sessions and abstracts are
+available several weeks before each event on the event web page. The
+event pages for past events can be found at
+link:/events/past-events[Past Events]. Reports on past events may be
+found at https://www.calconnect.org/events/event-reports[Event Reports]
+or  the https://standards.calconnect.org/[Standards Repository/Document
+Register]. +
+ +
+link:/conferencefees.shtml[*Conference Fees*] +
+Conference Registration Fees. +
+ +
+link:/conferencereg.shtml[*Conference Registration*] +
+The Registration form for the upcoming Conference. This form is used for
+both member representatives and for observers. +
+ 
+
+=== Other CalConnect Activities
+
+The technical work of CalConnect is largely done by
+link:/tcs-active.shtml[Technical Committees]. +
+ +
+Any member of CalConnect may propose a Technical Committee, and nominate
+an individual to Chair the TC if it is approved. Approval of a new
+Technical Committee is done by the TCC (Technical Coordination
+Committee) after reviewing the proposed scope of work, charter and
+schedule, and assessing the interest of the general membership of
+CalConnect in participating in the proposed TC. Member Reprsentatives 
+may join and participate in any TCs they choose. At the discretion of
+the Chair of a Technical Committee, and with the approval of the TCC, an
+outside expert not representing a member of CalConnect may be invited to
+participate in the work of the TC, on the grounds that the participation
+of the individual will greatly enhance the work of the TC and benefit
+CalConnect as a whole. +
+ +
+Technical Committees do most of their work between member meetings via
+conference calls, document editing, and collaborative work. +
+ +
+Technical Committees are generally expected to work electronically to
+ensure that all participants have an equal opportunity for involvement,
+but in person meetings of TCs may be held by mutual consent. Technical
+Committees also hold working sessions at CalConnect Conferences, with
+the advantage that any attendees at the Conference may participate in
+the TC meeting, thus giving a broader perspective on the issues being
+addressed. +
+ +
+On occasion, CalConnect will also form a Provisional (Ad Hoc) Committees
+to address specific issues where a Technical Committee is not called for
+or to explore a proposed area of work to determine whether CalConnect
+should create a Technical Committee or other activity to address it.   
+
+In the past, CalConnect also held separate Interoperability Test Events,
+generally but  not always scheduled to precede a CalConnect Conference. 
+As of late 2018 CalConnect no longer holds regular separate test events;
+rather, testing opportunities are made available during and jus before
+or after the CalConnect Conference. 
