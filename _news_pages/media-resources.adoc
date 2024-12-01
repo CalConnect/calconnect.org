@@ -1,0 +1,27 @@
+---
+layout: page
+title:  Media Resources
+type: news
+---
+
+=== The CalConnect Logo
+
+Permission is granted to CalConnect Members to use the CalConnect Logo
+to represent their membership in and involvement with CalConnect. You
+may not use the logo in any way whatsoever that would suggest or imply
+CalConnect approval or endorsement of any organization, product, system,
+or service. We request that you provide CalConnect with a link to online
+material making use of the CalConnect Logo.
+
+The CalConnect Logo is Copyright © by The Calendaring and Scheduling
+Consortium, Inc. +
+ 
+
+image:https://www.calconnect.org/sites/all/themes/calconnect/resources/calconnectlogo.jpg[CalConnect
+Logo (jpg)] +
+calconnectlogo.jpg (433x54)
+
+
+image:https://www.calconnect.org/sites/all/themes/calconnect/resources/calconnectlogo.gif[CalConnect
+Logo (gif)] +
+calconnectlogo.gif (400x50) 
