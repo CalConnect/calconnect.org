@@ -1,21 +1,52 @@
 ---
-layout: default
+layout: page
+title: News & Highlights
+type: news
 ---
 
-<h2>News & Highlights</h2>
-{% for post in site.posts %}
-<div class="document">
-    <div class="doc-line">
-      <div class="doc-identifier">
-        <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-        <span>{{post.excerpt}}</span>
-      </div>
-    </div>
-  
-    <div class="doc-bib">
-      <div class="doc-stage">
-        Date: {{post.date | date_to_string}}
-      </div>
-    </div>
+<!-- Retrieve and sort posts by 'revdate' in descending order -->
+{% assign sorted_posts = site.posts | sort: 'revdate' | reverse %}
+
+<!-- Iterate through each sorted post -->
+{% for post in sorted_posts %}
+<div class="views-row">
+    <!-- Article Block -->
+    <article class="node node-article node-promoted node-teaser"
+        about="{{ post.url }}" typeof="sioc:Item foaf:Document">
+
+        <!-- Article Header -->
+        <header>
+            <!-- Post Title -->
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+            <!-- Metadata for SEO and machine readability -->
+            <span property="dc:title" content="{{ post.title }}" class="rdf-meta element-hidden"></span>
+            <span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+
+            <!-- Date of the post -->
+            <span class="submitted">Posted {{ post.date | date_to_string }}</span>
+        </header>
+
+        <!-- Article Body -->
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+            <div class="field-items">
+                <div class="field-item even" property="content:encoded">
+                    <!-- Short excerpt or summary -->
+                    <p>{{ post.excerpt }}</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Article Footer -->
+        <footer>
+            <ul class="links list-inline">
+                <!-- 'Read More' link for detailed post -->
+                <li class="node-readmore first last">
+                    <a href="{{ post.url }}" rel="tag" title="{{ post.title }}">Read more</a>
+                </li>
+            </ul>
+        </footer>
+
+    </article>
 </div>
 {% endfor %}
