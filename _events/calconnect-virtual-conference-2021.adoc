@@ -1,0 +1,111 @@
+---
+layout: page
+name: CalConnect Virtual Conference 2021
+host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+date: 2022-04-16
+image: https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg
+---
+
+image::https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference 2021,800,530]
+
+== Event Details
+- *Dates:* Monday, April 12 – Friday, April 16, 2021
+- *Location:* Virtual (via Zoom)
+- *Host:* CalConnect
+
+=== Recent Changes
+- 06-Nov-2020: Initial post.
+- 17-Feb-2021: Initial schedule and agenda posted.
+- 31-Mar-2021: JMAP session added as joint working group call with IETF WGs.
+- 01-Apr-2021: Adjusted start time on Monday to 11:00 Eastern.
+- 06-Apr-2021: Added conference calendar .ics entries.
+- 09-Apr-2021: Updated Thursday session content.
+- 14-Apr-2021: Corrected schedule reference to UTC offset for daylight time, removed Friday sessions.
+
+== Introduction
+The CalConnect Virtual Conference 2021 will be held via Zoom, spanning April 12–16, 2021. This event aims to address key challenges CalConnect members face and explore potential solutions.
+
+- *Timezone:* Eastern North America (UTC-4, daylight saving time).
+  - Monday–Wednesday: 11:00–14:00 EST
+  - Thursday: 01:00–04:00 EST (for Far East/Australia participants)
+  - Sessions will be recorded for later access.
+
+- *Format:* Each day features multiple sessions of approximately one hour each. Breaks are scheduled, and sessions typically start on the hour.
+
+- *Registration Fee:* $50 USD per participant. Register at [Event Registration Page](https://www.calconnect.org/events/event-registration-payment).
+
+== Registration Information
+- Registration closes: Sunday, April 11, 2021.
+- Fee: $50 USD per participant.
+- Register here: [Event Registration Page](https://www.calconnect.org/events/event-registration-payment).
+- Access credentials will be shared with registrants before the conference.
+
+== Location and Logistics
+- *Platform:* Virtual via Zoom.
+- *Details:* Credentials will be sent to registered participants.
+
+== Conference Schedule
+_All times are Eastern North America (UTC-4)._
+
+=== Monday, April 12, 2021
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 11:00–11:30 | Intros and Familiarization  
+Quick discussion on Zoom, introductions, and welcome to newcomers.
+| 11:30–12:00 | Conference Welcome and Plenary  
+TC status, board reports, and plans for Autumn 2021.
+| 12:00–13:00 | Implementing JSCalendar  
+Reports on JSCalendar implementations by Bedework and Fastmail.
+| 13:00–14:00 | Testing and Certification Discussion  
+Discussion on CalDAV Tester improvements and automated testing of calendar clients.
+| 14:00–14:30 | Interoperability Testing Opportunity / Chat Time.
+|===
+
+=== Tuesday, April 13, 2021
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 10:45–11:00 | Chat Time.
+| 11:00–12:00 | DMARC and iMIP Constraints and Incompatibilities  
+Exploring challenges with iMIP and DMARC compatibility.
+| 12:00–13:00 | Date and Time Representations  
+Discussion on RSCALE, non-Gregorian systems, and new Java implementations.
+| 13:00–13:15 | TC-CALENDAR Review  
+Status update on draft specifications.
+| 13:15–14:00 | Calendar Privacy and Encrypted CalDAV  
+Exploration of privacy-enhancing calendar protocols.
+| 14:00–14:30 | Chat Time.
+|===
+
+=== Wednesday, April 14, 2021
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 10:45–11:00 | Chat Time.
+| 11:00–12:00 | Calendaring, Public Events, and Higher Education  
+Discussion of calendar challenges in higher education institutions.
+| 12:00–13:00 | Overview of the Calendar Client Landscape  
+Analysis of the current state and future trends in calendaring.
+| 13:00–14:00 | Calendar Migration and Data Portability  
+Presentations and brainstorming on calendar data management.
+| 14:00–14:30 | CalConnect Developers' Guide  
+Overview and updates to the DEVGUIDE.
+| 14:30–15:00 | Chat Time.
+|===
+
+=== Thursday, April 15, 2021
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 01:00–02:00 | TC-LOCALIZATION, TC-VCARD, and ISO/TC 211  
+Presentations and discussions.
+| 02:00–03:00 | TC-DATETIME and ISO/TC 154 WG 5  
+Presentations and discussions.
+| 03:00–04:30 | JMAP and JSCalendar/JSContacts Joint Session  
+Joint working group session with IETF CALEXT and JMAP WGs.
+|===
+
+== Additional Information
+- For inquiries: [info@calconnect.org](mailto:info@calconnect.org).
+- Stay updated via the [CalConnect website](https://www.calconnect.org) and mailing lists.
