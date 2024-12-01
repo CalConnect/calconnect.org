@@ -1,0 +1,103 @@
+---
+layout: page
+title: Liaisons and Relationships
+type: about
+---
+
+_As of June 2021_
+
+CalConnect establishes and maintains relationships with external
+standards organizations and other organizations as appropriate to
+further its purposes. Such relationships may take the form of formal
+liaisons, informal partnerships, or reciprocal membership agreements, at
+the discretion of the Board of Directors and considering suitability for
+the external partner.
+
+Ronald Tse of Ribose is Director of External Relations and Vice
+President of CalConnect.
+
+
+[cols="1,1,1", options="header"]
+|===
+
+| https://www.iso.org/[image:https://www.calconnect.org/sites/default/files/documents/iso-logo-rt.gif[ISO Logo]]
+| https://www.m3aawg.org/[image:https://www.calconnect.org/sites/default/files/documents/M3AAWG-vert-highrez-300-res.png[M3AAWG Logo]]
+| https://www.oasis-open.org/[image:https://www.calconnect.org/sites/default/files/documents/oasis-logo.png[Oasis Logo]]
+|===
+
+
+http://www.ietf.org[IETF] - Internet Engineering Task Force
+
+* Ongoing working relationship in particular with
+* https://datatracker.ietf.org/wg/calext/about/[IETF CALEXT WG] -
+Calendar Extensions Working Group
+* IETF TZDIST-bis WG - Discussions of Extensions to The Time Zone Data
+Distribution Service and Time Zone Information Forma Working Group
+
+https://www.iso.org/[ISO] - International Organization for
+Standardization
+
+* Contributory Liaisons with ISO Commmittees
+* Ongoing work towards joint publication
+* http://www.iso.org/committee/6935430.html[ISO/PC 317] - Consumer
+Privacy by Design
+** Category A Liaison
+* http://www.iso.org/committee/48104.html[ISO/TC 37] - Language and
+Terminology
+** Category A Liaison
+** http://www.iso.org/committee/297592.html[ISO/TC 37/SC 4] - Language
+Resource Management
+*** Category A Liaison
+** http://www.iso.org/committee/654486.html[ISO/TC 37/SC 5] -
+Translation, interpreting and related technology
+*** Category A Liaison
+* http://www.iso.org/committee/48750.html[ISO/TC 46] - Information and
+documentation
+** Category A LIaison
+** https://www.iso.org/committee/48798.html[ISO/TC 46/SC 4] - Technical
+Interoperability
+*** Category A Liaison
+** https://www.iso.org/committee/48836.html[ISO/TC 46/SC 9] -
+Identification and description
+*** Category A Liaison
+*** ISO/TC 46/SC 9/WG 15 - Bibliography working group
+**** Current work
+* http://www.iso.org/committee/53186.html[ISO/TC 154] - Processes, data
+elements and documents in commerce, industry and administration
+** Category A Liaison
+** ISO/TC 154/WG 4 - Electronic layout key
+*** Current work
+** ISO/TC 154/WG 5 - Representation of dates and times
+*** Current work
+* https://committee.iso.org/home/tc211[ISO/TC 211] - Geographic
+Information / Geomatics
+** Category A Liaison
+** http://www.isotc211.org/organizn.htm#WG7[ISO/TC 211/WG 7] -
+Information Communities
+*** Current work
+* http://www.iso.org/committee/45306.html[ISO/IEC JTC1/SC 27] - Security
+techniques
+** Category A Liaison
+
+https://www.itu.int/[ITU] - International Telecommunications Union
+
+* ITU is the United Nations specialized agency for information and
+communication technologies
+* CalConnect has a External Cooperation Agreement with
+https://www.itu.int/en/ITU-T/Pages/default.aspx[ITU-T],  the
+standardization arm of ITU
+
+https://www.m3aawg.org/[M3AAWG] - Messaging Malware Mobile Anti-Abuse
+Working Group
+
+* Reciprocal Membership
+* Joint development of
+https://standards.calconnect.org/csd/cc-18003.html[Best Practices
+Document on Calendar Spam]
+
+http://www.oasis-open.org/[OASIS] - Organization for the Advancement of
+Structured Information Systems
+
+* Reciprocal Membership
+* Ongoing involvement with OASIS WS-CALENDAR Working Group
+* Development of OASIS WS-Calendar Specification
