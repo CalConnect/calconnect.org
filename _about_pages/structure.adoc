@@ -1,0 +1,53 @@
+---
+layout: page
+title: Structure of CalConnect
+type: about
+---
+
+CalConnect is incorporated in the State of California as a 501(c)6
+Nonprofit Mutual Benefit Corporation. The affairs of the Corporation are
+managed by a Board of Directors. The primary purpose of the Board of
+Directors is to manage the affairs of the Corporation as a corporate
+entity. The Board of Directors is currently a maximum of seven members
+elected members.
+
+The day-to-day affairs of the Consortium are managed by the Executive
+Director, who is responsible to the Board of Directors for the
+management of CalConnect
+
+=== Technical Coordination Committee (TCC)
+
+The TCC consists of the Chairs of the active Technical Committees and
+Provisional Committes, and functions as an ongoing status and
+coordination group for the Technical Committees under the guidance of
+the Board of Directors or its representative. The Chair of the TCC is
+appointed by the Board upon recommendation by the Chairs of the
+Technical Committees and after a periodic call to the membership for
+volunteers. The TCC meets by conference call and electronically on a
+regular basis as determined by the committee, generally weekly, to
+ensure that TC activities are monitored and guided as necessary. The TCC
+s also responsible for final approval for publication of Technical
+Committee documents which have passed Last Call status, and with
+planning for upcoming CalConnect events.
+
+=== Technical Committees (TCs)
+
+Any member of the Consortium may propose a Technical Committee, and
+nominate an individual to lead the TC if it is approved. Approval of a
+new Technical Committee is made by the TCC after reviewing the proposed
+scope of work, charter and schedule, and assessing the interest of the
+general membership in participating in the proposed TC. Members of
+CalConnect may join and participate in any TCs they choose. At the
+discretion of the Chair of a Technical Committee, and with the approval
+of the TCC, an outside expert not representing a member  may be invited
+to participate in the work of the TC, on the grounds that the
+participation of the individual will greatly enhance the work of the TC
+and benefit CalConnect as a whole.
+
+Technical Committees are generally expected to work electronically to
+ensure that all participants have an equal opportunity for involvement,
+but in person meetings of TCs may be held by mutual consent. CalConnect
+Conferences also offer an opportunity for TC meetings, with the
+advantage that any attendees at the Conference may participate in the TC
+meeting, thus giving a broader perspective on the issues being
+discussed.

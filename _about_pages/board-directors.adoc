@@ -1,0 +1,91 @@
+---
+layout: page
+title: The CalConnect Board of Directors
+type: about
+---
+
+_As of November 2022_
+
+ 
+
+At this time, CalConnect has a maximum of seven directors. Officer
+positions of the corporation defined in the Bylaws are appointed from
+elected Directors. The Chair of the Technical Coordination Commmittee
+(TCC) and the Technical Architect are _Ex Officio_ members of the Board
+with full voting rights and responsibilities.
+
+The Board holds quarterly scheduled Board Meetings in January, April,
+July, and October, almost always by conference call. The Board also
+holds bi-weekly conference calls for strategic planning and current
+events updates.  The Board has held strategic planning retreats in 2005,
+2012, 2015, 2018 and 2019, and anticipates doing so every few years in
+the future.
+
+
+[width="100%",cols="^50%,50%",]
+|===
+a|
+[[file-185]]
+
+
+image:https://www.calconnect.org/sites/default/files/documents/Gershon%20Janssen_0.jpg[https://www.calconnect.org/sites/default/files/documents/Gershon%20Janssen_0,width=100,height=129]
+
+|*President, Chief Financial Officer, Director* +
+Gershon Janssen +
+Term: July 2019 - July 2022
+
+|  |
+
+a|
+[[file-120]]
+
+image:https://www.calconnect.org/sites/default/files/media/Ronald%20Tse.jpg[https://www.calconnect.org/sites/default/files/media/Ronald%20Tse,width=100,height=100]
+
+|*Vice President, Director of External Relationships* +
+Ronald Tse +
+Affiliation: Ribose +
+Term: July 2020 - July 2023
+
+|  |
+
+| |
+
+a|
+[[file-92]]
+
+image:https://www.calconnect.org/sites/default/files/media/rutgergeelen_0.png[Rutger
+Geelen,width=100,height=101]
+
+|*Chair of the Board of Directors, Director* +
+Rutger Geelen +
+Affiliation: SchedJoules +
+Term: July 2020 - July 2023
+
+|  |
+
+a|
+[[file-182]]
+
+image:https://www.calconnect.org/sites/default/files/documents/Ken%20Murchison.jpg[https://www.calconnect.org/sites/default/files/documents/Ken%20Murchison,width=100,height=128]
+
+|*Chair of the Technical Coordination Committee* +
+Kenneth Murchison +
+Affiliation: FastMail +
+Term: June 2019 - June 2022
+
+|  |
+
+a|
+[[file-97]]
+
+image:https://www.calconnect.org/sites/default/files/media/Douglass.jpg[https://www.calconnect.org/sites/default/files/media/Douglass,width=100,height=133]
+
+a|
+*_Technical Architect_* +
+Michael Douglass +
+Affiliation: Bedework Commercial Services +
+Term: February 2019 - February 2022
+
+Mr. Douglass also serves as Executive Director of CalConnect.
+
+|===

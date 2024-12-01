@@ -1,0 +1,113 @@
+---
+layout: page
+title: Active Technical Committees (TCs) and Provisional Committees (PCs)
+type: about
+---
+
+_Last Updated October 2020_
+
+Technical Committees are the technical working groups of CalConnect. A
+Technical Committee is established with a specific charter (scope of
+work), time frame, deliverables and expected schedule, and will disband
+when its scope of work is completed. +
+ +
+Provisional Committees may be established at a CalConnect Conference to
+explore a possible new work area of work and recommend whether
+CalConnect should move forward in that area, generally by forming a new
+Technical Committee. Provisional Committees are usually very
+short-lived, reporting out at the next Conference. +
+ +
+The work of Technical Committees and Provisional Committees is guided
+and coordinated by the
+https://public.calconnect.org/charter/charter-TCC/[Technical
+Coordination Committee (TCC)]. +
+ +
+Technical Committees generally produce CalConnect Work Products:
+Reports, Recommendations, specifications, code artifacts, etc. Technical
+Committees also produce draft specifications which may be published by
+CalConnect as a CalConnect Standard, and/or submitted to an external SDO
+for progression within that organization. Finally Technical Committees
+may also collaborate externally towards the development of material
+which will not become a CalConnect Work Product but may be part of some
+other joint effort. See link:../resources[CalConnect Resources] for more
+information. +
+ +
+Representatives of CalConnect members may participate upon any Technical
+Committee by contacting the Chair of the TC. Members may propose new
+Technical Committees to address areas of work not currently under
+consideration, and may offer a Chair for a new TC (or PC). +
+ +
+Click on the committee name for more information about that committee if
+it has been made available. +
+ +
+For Closed Technical Committees please see
+link:/about/technical-committees/closed-tcs[Closed Technical
+Committees]. +
+ +
+ 
+
+[cols=",",]
+|===
+|Active Provisional and Ad Hoc Committees |
+
+|iCal4J Ad hoc |Develop a CalConnect version of iCal4J usable by all
+members and drive back into the mainline iCal4J
+
+|Active Technical Committees |
+
+|https://public.calconnect.org/charter/charter-TC-API/[TC-API] |Develop
+an Abstract API for Calendaring and Scheduling
+
+|https://public.calconnect.org/charter/charter-TC-AUTODISCOVERY/[TC-AUTODISCOVERY]
+|Autodiscovery of services based on internet standard protocols
+
+|https://public.calconnect.org/charter/charter-TC-CALENDAR/[TC-CALENDAR]
+|Improvements and extensions to iCalendar, CalDAV, and iTIP transports,
+including but not limited to: iCalendardiff/patch, more compact
+recurrences, extensions to tasks, consensus scheduling, best current
+practices for iMIP, and iTIP over HTTP (iSchedule).
+
+|https://public.calconnect.org/charter/charter-TC-CALSPAM/[TC-CALSPAM]
+|The TC aims to understand the current and potential usage of calendar
+systems as a vector for delivering undesired information; devise
+measures and best practices for developers and operators of those
+systems to ensure legitimate usage.
+
+|https://public.calconnect.org/charter/charter-TC-CLIENT/[TC-CLIENT]
+|TC-CLIENT strives to put an emphasis on the calendar client perspective
+and to bring together developers of calendar clients and those
+interested in client-related topics.
+
+|https://public.calconnect.org/charter/charter-TC-DATETIME/[TC-DATETIME]
+|TC-DATETIME is the home for all date and time related work undertaken
+in CalConnect and between CalConnect and external liaison organizations.
+
+|https://public.calconnect.org/charter/charter-TC-DEVGUIDE/[TC-DEVGUIDE]
+|Develop "cookbook" and supporting materials on how to use iCalendar and
+potentially other APIs such as CalDAV
+
+|https://public.calconnect.org/charter/charter-TC-LOCALIZATION/[TC-LOCALIZATION]
+|Enable standardization of localization technologies and approaches, and
+topics relevant to the usage of localization.
+
+|https://public.calconnect.org/charter/charter-TC-PUBLISH/[TC-PUBLISH]
+|Develop and maintain CalConnect document requirements and publication
+processes for CalConnect Standards and other public documents
+
+|https://public.calconnect.org/charter/charter-TC-PUSH/[TC-PUSH] |Define
+a generic framework for push notifications within CalDAV (and CardDAV)
+
+|https://public.calconnect.org/charter/charter-TC-SHARING/[TC-SHARING]
+|Extend the existing caldav-sharing and caldav-notifications
+specifications to support address books and other resource types.
+
+|https://public.calconnect.org/charter/charter-TC-STREAMING/[TC-STREAMING]
+|Define and document a streaming protocol for calendar data
+
+|https://public.calconnect.org/charter/charter-TC-TESTER/[TC-TESTER]
+|Generalize and extend capabilities of the CalDAV/CardDAV Tester
+
+|https://public.calconnect.org/charter/charter-TC-VCARD/[TC-VCARD]
+|Extend VCARD standards to support world-wide address formats and new
+capabilities
+|===

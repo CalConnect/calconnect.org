@@ -1,0 +1,9 @@
+---
+layout: page
+title: History
+type: about
+---
+
+http://calconnect.org/presentations/CC32%20A%20History%20of%20CalConnect.pdf[An
+Anecdotal History of CalConnect&#44; CalConnect 10th Annivesary (PDF)] +
+Dave Thewlis, January 28, 2015
