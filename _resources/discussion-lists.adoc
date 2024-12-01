@@ -1,0 +1,78 @@
+---
+layout: page
+title:  CalConnect Public Discussion Lists
+type: resources
+---
+
+_Last updated 18 October 2018_
+
+In addition to internal discussion lists for Technical Committees, etc.,
+CalConnect has implemented several public discussion lists for specific
+purposes. Each list has a "home page" on the website identified below
+with information about the purpose of the lists, charter and rules of
+use, and a link to subscribe, maintain, and unsubscribe.
+
+_All CalConnect public discussion lists are moderated, and new
+subscription requests must be approved to be activated. Only subscribers
+may post to lists, or receive postings from the list. However, the list
+archives are publicly available even for closed public lists._
+
+==== link:discussion-lists/developers-list[*Calendar and Scheduling Developer List*]
+
+CalConnect has implemented this public discussion list, intended for
+discussion on calendaring and scheduling developers' issues and
+questions. The Charter and Rules of Use for this list are given on the
+list's web page at the link above. We invite all calendar developers and
+other interested parties to subscribe to this list and make use of it.
+
+The primary audience and expected participants are calendaring and
+scheduling system developers, and others working on calendaring-related
+and scheduling-related projects. However, the list is open to any and
+all participants that agree to and adhere to the rules of use.
+
+==== http://www.calconnect.org/resources/discussion-lists/sysadmin-list[*Calendaring and Scheduling Sysadmin List*]
+
+The Calendaring and Scheduling Admin Mailing List
+(caladmin-l@lists.calconnect.org) exists to foster discussion about all
+aspects of calendaring and scheduling system administration and
+management. This includes, but is not limited to, C&S platforms and
+applications, emerging C&S standards, message flows, access control,
+unsolicited or bulk agenda invitations (SPCAL), account management,
+virus vectors, disaster recovery, and interactions with closely related
+collaborative technologies.
+
+The primary audience and expected participants are calendaring and
+scheduling system administrators. However, the list is open to any and
+all participants that agree to and adhere to the rules of use.
+
+==== link:discussion-lists/public-review-and-comment[*Public Review and Comment List*]
+
+Completed CalConnect documents, including CalConnect Standards, are
+published and made generally available via the
+http://www.calconnect.org/resources/documents/document-register[Document
+Register],  except for a few internal documents mostly administrative in
+nature. However, in-progress documents and updates are usually
+restricted to representatives of CalConnect members.
+
+During the development process, draft CalConnect Standards will be
+subject to public review and comment.  In addition,  a Technical
+Committee may, upon approval, make other draft documenta available for
+public review and comment to seek as diverse an audience as possible. 
+The Public Review and Comment mailing list is provided for those
+purposes.
+
+The audience is expected to be those interested in commenting and
+offering suggestions on a proposed standard or other document; however
+the list is open to any and all participants that agree to and adhere to
+the rules of use.
+
+==== http://www.calconnect.org/resources/discussion-lists/time-zone-discussion[*Time Zone Discussion List*]
+
+This list is intended for discussion on timezones, especially in
+calendaring and scheduling. A particular focus is on exchanging issues,
+challenges, and best practices related to timezone changes.
+
+The intended audience for this list is hence not only technical, but
+also involves decision makers involved in the political process of
+changing timezones. However, the list is open to any and all
+participants that agree to and adhere to the rules of use.

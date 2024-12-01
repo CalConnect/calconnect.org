@@ -1,0 +1,28 @@
+---
+layout: page
+title:  CalConnect Public Review Documents
+type: resources
+---
+
+CalConnect Public Review documents are [.underline]#in-progress#
+documents still in development (either never published or new versions
+of previously published documents), which a CalConnect Technical
+Committee has decided to publish for public review and content, or to
+make a preliminary version available to other Standards Developement
+Organizations prior to formal publication.
+
+Documents made available for public review and comment are announced on
+the CalConnect http://calconnect.org/pubcommentlist.shtml[Public Review
+and Comment Mailing List] and all comments should be posted to that
+list. This link introduces the lists and allows individuals to subscribe
+to it.
+
+CalConnect Public Review documents are made available with the
+understanding that they are in-progress documents and cannot be taken as
+final versions. To see the full disclaimer please refer to
+http://calconnect.org/documents/disclaimerreview.pdf[Public Review
+Document Disclaimer]
+
+ 
+
+There are no documents in public review at this time. 

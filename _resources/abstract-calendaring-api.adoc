@@ -1,0 +1,137 @@
+---
+layout: page
+title:  7 Things You Should Know About the Abstract Calendaring API
+type: resources
+---
+
+==== _What is it?_
++
+An abstract calendaring API is a model of calendar data and the
+operations upon it that is platform-independent. It specifies the rules
+and constraints on the data elements and ways in which they can be
+created and modified.
++
+In contrast to common calendaring implementations such as the CalDAV
+protocol, the abstract calendaring API does not address implementation
+details such as authentication, networking or provisioning. Instead, an
+abstract data model is defined and complemented with a description of
+operations that can be performed on calendar data.
+. {blank}
++
+==== _What scenarios and/or problems does it address, or what new advantage(s) does it confer?_
++
+Calendar information appears in many different contexts such as the web,
+in process control, as well as the more familiar scheduling of
+meetings. +
+ +
+Although calendaring standards and protocols exist, no overall
+calendaring architecture has been described, and it must be inferred
+from the existing specifications. A need exists for such a calendaring
+architecture in which new functionality can be developed to ensure
+compatibility of existing work, and which relates existing work to the
+architecture. +
+ +
+An abstract calendaring architecture needs to be defined to provide
+common terminology in the form of an API to enable a high degree of
+interoperability. A calendaring system is made up of various sub-systems
+that handle the different aspects of data management, scheduling,
+directory information, etc. (see
+http://calconnect.org/architectures/Calendaring%20Architecture.pdf[Calendaring
+Service Architecture]). The components of the calendar system may be
+provided by different vendors, and thus interoperability between these
+components is crucial. +
+ +
+An abstract calendaring API defines a common vocabulary that can be used
+to resolve ambiguities when attempting to integrate products with other
+calendaring and scheduling systems or even when contracting development
+to an external company +
+ +
+Implementations based on an abstract API can be more consistent in their
+behaviors. Interoperability is enhanced as the different protocols and
+implementations all adhere to the same model. +
+ +
+Some of the scenarios which the Abstract Calendaring API addresses
+include:
+* Calendaring applications processing device calendar data
+* Scheduling across domains with different calendar services
+* Embedding calendaring in devices such as thermostats
+* Calendaring in web pages
+. {blank}
++
+==== _How does it work?_
++
+By providing a common understanding of how to represent and manipulate
+calendar data, using the abstract calendaring API improves the
+interoperability of concrete implementations. All possible operations on
+the data can be defined with their expected outcomes. Implementations
+can then check their actual results against that expectation. +
+ +
+An abstract model allows practitioners to consider calendar data and the
+operations upon it without having to deal with the complexities and
+requirements of any specific protocol.
+. {blank}
++
+==== _Who's doing it?_
++
+Although attempts have been made in the past, there is no accepted
+standard calendaring architecture or abstract calendaring API. +
+ +
+The CalConnect API Technical Committee (see below) has begun work to
+define an Abstract Calendaring API. We will be building on the design
+and experience gained from existing calendar implementations such as
+CalDAV and WS-Calendar, to create the abstract API.
+. {blank}
++
+==== _Why is it significant?_
++
+Calendaring data already exists in a wide variety of systems. An
+abstract calendaring API will make it easier to incorporate calendar
+data in a wider set of applications, such as energy management,
+logistics, resource allocation and sharing. In the absence of having a
+common architecture, individual projects will define their own models,
+possibly lacking compatibility with existing protocols and data. +
+ +
+As the use of calendaring and scheduling protocols increases to address
+requirements for scheduling independent of traditional calendaring, the
+need for an architecture and abstract API becomes even more important to
+ensure that implementations can take advantage of existing
+implementations, libraries, and other components.
+. {blank}
++
+==== _What needs to be done, and what is CalConnect doing?_
++
+CalConnect has chartered a Technical Committee,
+https://calconnect.github.io/public/charter/charter-TC-API/[TC API] to
+define and document a calendaring architecture encompassing the existing
+calendaring and scheduling standards and protocols, and develop an
+abstract calendaring API which encompasses all of the major
+functionality and the object model currently available in the base
+calendaring standards. In addition to the Abstract API Recommendation,
+TC API will present a simple instantiation of the abstract API.
+. {blank}
++
+==== _What are the implications for calendaring and scheduling?_
++
+The abstract calendaring API opens the door to greater interoperability,
+and wider usage of calendar data in a broader range of applications. +
+ +
+Software vendors will be able to easily incorporate calendar data within
+their products, particularly those where calendar data is secondary to
+their product.
+
+ +
+ +
+*Need more information?* +
+ +
+https://calconnect.github.io/public/charter/charter-TC-API/[TC API] +
+link:/architectures/Calendaring%20Architecture.pdf[Calendaring Service
+Architecture Diagram] +
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and
+Scheduling Glossary of Terms] +
+link:/[http://www.calconnect.org] +
+ +
+ +
+*Want to be actively involved?* +
+ +
+Become a CalConnect member: +
+link:../../membership[https://www.calconnect.org/membership]

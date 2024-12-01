@@ -1,0 +1,42 @@
+---
+layout: page
+title:  Code Artifacts and Schemas
+type: resources
+---
+
+This page provides the necessary links to CalConnect Schemas and other
+code artifacts. Please be aware that these artifacts will be posted for
+availability while they may still be under development or periodically
+updated.
+
+All CalConnect code artifacts and schema are licensed for public use
+under the http://www.apache.org/licenses/LICENSE-2.0[Apache 2 License].
+Please see
+https://www.calconnect.org/about/policies/copyright-licensing[Copyright
+and Licensing for Published Material] for more information about
+CalConnect licenses. +
+ 
+
+==== Schemas
+
+==== link:code-artifacts/icalendar-xml-schema[*iCalendar in XML Schema*]
+
+This schema set is intended to provide a full, accurate and extensible
+schema for iCalendar (RFC 5545) as embodied in xCal: iCalendar in XML
+(RFC 6321).
+
+link:code-artifacts/calws-soap-wsdl-and-schema[*CalWS-SOAP Schema*]
+
+This document provides links to the XML schemas and wsdl for the
+CalWS-SOAP service as defined in the specification
+http://calconnect.org/pubcomment/CD1202%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf[CD1202
+CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0]. In addition
+this page provides a directory of references to the specification itself
+and related documents using http://www.rddl.org/[Resource Directory
+Description Language]. +
+ +
+ 
+
+==== Other Code Artifacts
+
+None at present.   
