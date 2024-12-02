@@ -3,12 +3,12 @@ layout: page
 name: CalConnect Nottingham November 2022
 host_info: Hosted by Cronofy in Nottingham, United Kingdom
 date: 2019-08-23
-image: https://www.calconnect.org/sites/default/files/events/nottingham1.jpg
+image: /assets/images/nottingham1.jpg
 ---
 
 == CalConnect Nottingham November 2022
 
-image::https://www.calconnect.org/sites/default/files/events/nottingham1.jpg[Nottingham, U.K.,750,404]
+image::/assets/images/nottingham1.jpg[Nottingham, U.K.,750,404]
 
 == Event Details
 - *Dates:* Monday, November 14 – Wednesday, November 16, 2022
@@ -31,7 +31,7 @@ CalConnect Nottingham 2022 will be hosted in Nottingham, UK, at the *Antenna Med
 - *Fee:*
   - In-person: $650 (members and observers)
   - Virtual: $150
-- *Details & Registration:* https://www.calconnect.org/events/event-registration-payment[Registration Page]
+- *Details & Registration:* link:/events/event-registration-payment[Registration Page]
 
 == Location and Attractions
 *Venue:*

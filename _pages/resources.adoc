@@ -46,7 +46,7 @@ Register contains an entry for each public document, either in progress
 or published as a standard, report, etc.  This also includes Public
 Review documents.
 
-*https://www.calconnect.org/resources/member-services-and-resources[Member
+*link:/resources/member-services-and-resources[Member
 Services and Resources]*: Links to various tools and resources available
 to member representatives.
 
@@ -105,7 +105,7 @@ Register contains an entry for each public document, either in progress
 or published as a standard, report, etc.  This also includes Public
 Review documents.
 
-*https://www.calconnect.org/resources/member-services-and-resources[Member
+*link:/resources/member-services-and-resources[Member
 Services and Resources]*: Links to various tools and resources available
 to member representatives.
 

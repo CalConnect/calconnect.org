@@ -3,12 +3,12 @@ layout: page
 name: CalConnect Virtual Conference 2021
 host_info: Hosted by CalConnect and conducted entirely via Zoom. 
 date: 2022-04-16
-image: https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg
+image: /assets/images/CalConnectEventTBD_0.jpg
 ---
 
 == CalConnect Virtual Conference 2021
 
-image::https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference 2021,800,530]
+image::/assets/images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference 2021,800,530]
 
 == Event Details
 - *Dates:* Monday, April 12 â€“ Friday, April 16, 2021
@@ -34,12 +34,12 @@ The CalConnect Virtual Conference 2021 will be held via Zoom, spanning April 12â
 
 - *Format:* Each day features multiple sessions of approximately one hour each. Breaks are scheduled, and sessions typically start on the hour.
 
-- *Registration Fee:* $50 USD per participant. Register at [Event Registration Page](https://www.calconnect.org/events/event-registration-payment).
+- *Registration Fee:* $50 USD per participant. Register at link:/events/event-registration-payment[Event Registration Page]
 
 == Registration Information
 - Registration closes: Sunday, April 11, 2021.
 - Fee: $50 USD per participant.
-- Register here: [Event Registration Page](https://www.calconnect.org/events/event-registration-payment).
+- Register here: link:/events/event-registration-payment[Event Registration Page].
 - Access credentials will be shared with registrants before the conference.
 
 == Location and Logistics

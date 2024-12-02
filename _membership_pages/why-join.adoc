@@ -35,7 +35,7 @@ made up of and led by participants from our member organizations.
 Although the original C&S standards are IETF RFCs, most of the
 calendaring and scheduling standards development and discussion in the
 last ten years have taken place in CalConnect. We maintain
-http://www.calconnect.org/about/liaisons-and-relationships[active
+link:/about/liaisons-and-relationships[active
 liaisons] with a number of ISO Technical Committees and other standards
 entities. In addition to our own standards, we are working with several
 ISO Technical Committees on joint projects and anticipate co-publication
@@ -53,18 +53,18 @@ and timezones.
 We know how hard it is to sell you "cold", so, instead, we would like to
 help you sell yourself. Take a look at CalConnect, especially:
 
-* Our membership - http://www.calconnect.org/membership
-* Our mission - http://www.calconnect.org/about/goals
+* Our membership - link:/membership[www.calconnect.org/membership]
+* Our mission - link:/about/goals[www.calconnect.org/about/goals]
 * Our work products
-- http://www.calconnect.org/about/major-work-projects
-* Our policies - http://www.calconnect.org/about/policies
+- link:/about/major-work-projects[www.calconnect.org/about/major-work-projects]
+* Our policies - link:/about/policies[www.calconnect.org/about/policies]
 * Our partnerships
-- http://www.calconnect.org/about/liaisons-and-relationships
+- link:/about/liaisons-and-relationships[www.calconnect.org/about/liaisons-and-relationships]
 * Our activities
-- http://www.calconnect.org/events/events-activities[www.calconnect.org/events/events-activities]
+- link:/events/events-activities[www.calconnect.org/events/events-activities]
 * Our technical committees (working groups)
-- http://www.calconnect.org/about/technical-committees
-* Our achievements and our story - http://www.calconnect.org/news
+- link:/about/technical-committees[www.calconnect.org/about/technical-committees]
+* Our achievements and our story - link:/news[www.calconnect.org/news]
 
 CalConnect's success, and ultimately the success of our vision of
 interoperable calendaring depend on broad, engaged, diverse, and
@@ -81,7 +81,7 @@ at the center of calendaring & scheduling today.
 
 You can attend one CalConnect Conference as an observer, without having
 yet become a member. Refer to
-http://www.calconnect.org/events/events-activities/observers for
+link:/events/observers[www.calconnect.org/events/observers] for
 additional details on the terms and conditions for observer
 participation.  In conjunction with our Conferences, we offer on-site
 Interoperability testing with other implementers.

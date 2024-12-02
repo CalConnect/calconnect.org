@@ -22,9 +22,9 @@ President of CalConnect.
 [cols="1,1,1", options="header"]
 |===
 
-| https://www.iso.org/[image:https://www.calconnect.org/sites/default/files/documents/iso-logo-rt.gif[ISO Logo]]
-| https://www.m3aawg.org/[image:https://www.calconnect.org/sites/default/files/documents/M3AAWG-vert-highrez-300-res.png[M3AAWG Logo]]
-| https://www.oasis-open.org/[image:https://www.calconnect.org/sites/default/files/documents/oasis-logo.png[Oasis Logo]]
+| https://www.iso.org/[image:/assets/images/iso-logo-rt.gif[ISO Logo]]
+| https://www.m3aawg.org/[image:/assets/images/M3AAWG-vert-highrez-300-res.png[M3AAWG Logo]]
+| https://www.oasis-open.org/[image:/assets/images/oasis-logo.png[Oasis Logo]]
 |===
 
 == Internet Engineering Task Force (IETF)

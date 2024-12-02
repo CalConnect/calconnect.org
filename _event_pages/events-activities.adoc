@@ -28,7 +28,7 @@ link:/events[Future Events]; generally the sessions and abstracts are
 available several weeks before each event on the event web page. The
 event pages for past events can be found at
 link:/events/past-events[Past Events]. Reports on past events may be
-found at https://www.calconnect.org/events/event-reports[Event Reports]
+found at link:/events/event-reports[Event Reports]
 or  the https://standards.calconnect.org/[Standards Repository/Document
 Register]. +
  +
