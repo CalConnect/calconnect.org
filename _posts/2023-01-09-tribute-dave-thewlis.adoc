@@ -11,7 +11,7 @@ excerpt:
 == A Tribute to Dave Thewlis
 
 
-image:https://www.calconnect.org/sites/default/files/documents/DaveThewlis-01.jpg[Dave
+image:/assets/images/DaveThewlis-01.jpg[Dave
 Thewlis on phone,width=657,height=553]
 
 Father Time managing his calendar?
@@ -108,7 +108,7 @@ Ester Dyson’s photo of Dave was captioned “Father Time managing his
 calendar?”, but it is likely that any mention of the name “Dave Thewlis”
 will conjure up this iconic look for CalConnect Round Table attendees:
 
-image:https://www.calconnect.org/sites/default/files/documents/DaveThewlis-02.jpg[Dave
+image:/assets/images/DaveThewlis-02.jpg[Dave
 Thewlis,width=569,height=524]
 === Community Comments
 

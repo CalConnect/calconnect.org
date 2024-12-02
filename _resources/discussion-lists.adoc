@@ -19,7 +19,7 @@ subscription requests must be approved to be activated. Only subscribers
 may post to lists, or receive postings from the list. However, the list
 archives are publicly available even for closed public lists._
 
-=== link:discussion-lists/developers-list[*Calendar and Scheduling Developer List*]
+==== link:discussion-lists/developers-list[*Calendar and Scheduling Developer List*]
 
 CalConnect has implemented this public discussion list, intended for
 discussion on calendaring and scheduling developers' issues and

@@ -8,7 +8,7 @@ type: resources
 
 === General Interest
 
-http://www.calconnect.org/resources/discussion-lists/time-zone-discussion[CalConnect
+link:/resources/discussion-lists/time-zone-discussion[CalConnect
 Time Zone Discussion Public Mailing LIst] +
  +
 CalConnect has implemented this public discussion list,  intended for
@@ -44,7 +44,7 @@ such as calendaring and scheduling applications or operating systems.
 
 ==== European Union Summer Time Proposal (2018-2019)
 
-http://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[*CalConnect
+link:/news/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[*CalConnect
 calls on EU to reconsider timeline for proposed seasonal time
 changes*] +
  +

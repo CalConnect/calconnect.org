@@ -136,4 +136,4 @@ link:/[http://www.calconnect.org] +
 *Want to be actively involved?* +
  +
 Become a CalConnect member: +
-link:../../membership[https://www.calconnect.org/membership]
+link:/membership[https://www.calconnect.org/membership]
