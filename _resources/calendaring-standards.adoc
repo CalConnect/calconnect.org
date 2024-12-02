@@ -35,8 +35,8 @@ mailto:info@calconnect.org?subject=Standards%20Recommendations[Standards Recomme
 
 
 
-_[.small]#The Date of Publication at the masthead reflects the most
-recent additions or changes to the page.#_
+NOTE: The Date of Publication at the masthead reflects the most
+recent additions or changes to the page.
 
 
 
@@ -66,8 +66,6 @@ standards and specifications related to calendaring and scheduling.
 https://devguide.calconnect.org/[*Calendaring and Scheduling Glossary of
 Terms*]
 _A Glossary of Calendaring and Scheduling Terms.  *_CalConnect_*_
-
-[.small]#Return to link:#top[Top]#
 
 
 '''''
@@ -243,8 +241,6 @@ _This specification introduces a new iCalendar component which allows
 for consensus scheduling, that is voting on a number of alternative
 meeting or task alternatives.  *CalConnect*_
 
-[.small]#Return to link:#top[Top]#
-
 
 '''''
 
@@ -309,8 +305,6 @@ _This document defines a set of extensions to the CalDAV calendar access
 protocol.*  CalConnect*_
 
 _Also see link:#WebDAV[Webdav]_
-
-[.small]#Return to link:#top[Top]#
 
 
 '''''
@@ -435,8 +429,6 @@ vCard object class property defined in
 http://datatracker.ietf.org/doc/draft-vcard-objectclass[draft-vcard-objectclass]
 allowing schedulable entities to be marked as such.  *CalConnect*_
 
-[.small]#Return to link:#top[Top]#
-
 
 '''''
 
@@ -468,8 +460,6 @@ _This document defines an extension to the vCard Extensions to WebDAV
 read-only address book collection.  *CalConnect*_
 
 _Also see link:#WebDAV[Webdav]_
-
-[.small]#Return to link:#top[Top]#
 
 
 '''''
@@ -590,8 +580,6 @@ Resource Sharing*]
 _This specification defines an extension to WebDAV that enables the
 sharing of resources between users on a WebDAV server.  *CalConnect*_
 
-[.small]#Return to link:#top[Top]#
-
 
 '''''
 
@@ -676,8 +664,6 @@ information for software and services.  *CalConnect*_
 http://docs.oasis-open.org/ws-calendar/ws-calendar/v1.0/ws-calendar-1.0-spec.html[*WS-Calendar*]
 _WS-Calendar is an OASIS cross-domain standard for passing schedule and
 interval information between and within services  *CalConnect input* _
-
-[.small]#Return to link:#top[Top]#
 
 '''''
 

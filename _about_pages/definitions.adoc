@@ -24,7 +24,7 @@ sessions.
 * link:#TCC[TCC]
 * link:#Workshop[Workshop]
 
-[[Adhoc]]
+[#Adhoc]
 == Ad Hoc Committee
 
 An impromptu and by intent short-lived committee formed to explore a
@@ -32,7 +32,7 @@ possibility or address an issue, where the duration or purpose does not
 seem to warrant a more formal approach.  Ad Hoc Committees may also be
 formed in non-technical areas.
 
-[[BoD]]
+[#BoD]
 == Board of Directors
 
 The link:/about/board-directors[Board of Directors] consists of up to
@@ -41,8 +41,8 @@ CalConnect Members. The Board is responsible for the governance of The
 Calendaring and Scheduling Consortium, Inc. (that is, the corporation
 itself) in accordance with the http://calconnect.org/bylaws.pdf[Bylaws].
 
-[[BOF]]
-== [#BOF]####BOF
+[#BOF]
+== BOF
 
 A BOF (Birds of a Feather) session is an informal discussion on any area
 of interest to the group or a substantial part of it. BOFs may be
@@ -60,7 +60,7 @@ Committee] to explore the issue further. A BOF may result in the
 formation of an Provisional Committee or other follow-on activity such
 as a link:#Workshop[Workshop].
 
-[[Conference]]
+[#Conference]
 == CalConnect Conference
 
 CalConnect holds two or three CalConnect Conferences (sometimes just
@@ -78,7 +78,7 @@ opportunity to foster new work and ideas through BOFs and Workshops, and a
 general plenary session. See link:/conferences[CalConnect Conferences] for more
 information.
 
-[[Consortium]]
+[#Consortium]
 == Consortium (The Calendaring and Scheduling Consortium)
 
 The Calendaring and Scheduling Consortium is the full name of

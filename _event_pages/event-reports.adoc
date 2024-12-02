@@ -6,6 +6,8 @@ type: events
 
 == Event Reports
 
+=== General
+
 NOTE: As of CalConnect XLIII (September 2018) separate conferences and test
 events/developers forums were discontinued and a single multi-day event covering
 sessions of all types was instituted. Therefore there will be no Test
@@ -15,7 +17,7 @@ Conference" report will cover all activities at the event.
 * link:#conferences[CalConnect Conferences]
 * link:#ioptestevents[CalConnect Test Events/Developers Forums]
 
-[[conferences]]
+[#conferences]
 === CalConnect Conferences
 
 link:/sites/default/files/documents/conference46rpt.pdf[*CalConnect
@@ -204,7 +206,7 @@ invitation-only meeting held during the formation of the Consortium and
 prior to its first member meeting. +
 
 
-[[ioptestevents]]
+[#ioptestevents]
 ==== CalConnect Test Events/Developers Forums
 
 _Note: Through CalConnect XXXII the Test Event and Developers Forum was
@@ -430,9 +432,10 @@ link:/pubdocs/CD0402%20July%202004%20CalConnect%20Interoperability%20Test%20Resu
 link:/pubdocs/CD0403%20July%202004%20CalConnect%20Interoperability%20Test%20Report.pdf[July
 2004 Interoperability Test Report].
 
-CALSCH Interoperability Testing
+=== CALSCH Interoperability Testing
 
-Prior to the formation of CalConnect, the CALSCH Working Group of the
-IETF sponsored three interoperability testing events between April 2000
-and September 2002. Please see link:interop/interop.html[CALSCH IOP
-Tests] for information about those events.
+Prior to the formation of CalConnect, the CALSCH Working Group of the IETF
+sponsored three interoperability testing events between April 2000 and September
+2002.
+
+Please see link:interop/interop[CALSCH IOP Tests] for information about those events.
