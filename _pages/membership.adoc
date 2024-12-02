@@ -9,7 +9,6 @@ type: membership
 CalConnect expresses its thanks to its members for their support for
 CalConnect and its mission and activities.
 
-[[block-member-logos]]
 [cols="1,1,1,1", options="header"]
 |===
 

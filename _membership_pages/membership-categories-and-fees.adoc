@@ -33,22 +33,19 @@ year.
 
 |Small Organizational Member < $250K revenue |$1,000
 
-|Individual^[.small]#1#^ |$500
-
-|Supporting Member^[.small]#2#^ |1/5 regular membership
-
-|Founding Member^[.small]#3#^ |$0
-
-|[.small]#1#^An individual member may only represent their
+|Individual footnote:[An individual member may only represent their
 interests or views, and may not participate or act on the behalf of any
 other person or organization, regardless of their affiliation or
-employment status +
-[.small]#2#^A supporting member (formerly dormant member) pays 1/5 the
+employment status] |$500
+
+|Supporting Member footnote:[A supporting member (formerly dormant member) pays 1/5 the
 regular membership dues for its category and cannot actively participate
 in CalConnect activities but remains on the notification and mailing
-lists +
-[.small]#3#^A Founding Member was involved in the establishment of
+lists] |1/5 regular membership
+
+|Founding Member footnote:[A Founding Member was involved in the establishment of
 CalConnect; has remained a member, and has continuously provided support
 to the organization. A Founding Member pays no membership dues; all
-other benefits and obligations of members are unchanged.# |
+other benefits and obligations of members are unchanged.] |$0
+
 |===

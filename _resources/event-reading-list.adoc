@@ -99,7 +99,7 @@ available prior to the event to all registrants.
 
 == Public calendar discovery
 
-* http://xml2rfc.tools.ietf.org/cgi-bin/xml2rfc.cgi?url=https://github.com/CalConnect/PUBLIC_DRAFTS/raw/master/collection-query/collection-query.xml&modeAsFormat=html/ascii&type=ascii
+* https://github.com/CalConnect/PUBLIC_DRAFTS/raw/master/collection-query/collection-query.xml
 
 == Scheduling controls
 
