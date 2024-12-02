@@ -1,223 +1,114 @@
----
-layout: page
-title:  Event Reading Lists
-type: resources
----
-
-== Event Reading Lists
+= Event reading lists
+:layout: page
+:title: Event Reading Lists
+:type: resources
 
 _Last Updated September 2019_
 
- 
+== Introduction
 
-[[magicdomid14]]
 The Reading Lists are primarily intended for new or first-time attendees
 or for anyone who wishes to familiarize themselves more deeply with the
 topics which will be under discussion both in the Developers Forum and
-the Conference.  
-
- 
+the Conference.
 
 The lists are updated for each event, generally by a few weeks before
 the event, although additions and changes may be made subsequently (for
 example links that were not available when the list was initially
-updated).  
-
- 
+updated).
 
 Unpublished documents, for which a link cannot be provided, will be made
-available prior to the event to all registrants. 
+available prior to the event to all registrants.
 
- 
+== Key calendaring standards
 
- 
+* RFC 5545 - iCalendar: https://tools.ietf.org/html/rfc5545
+* RFC 5546 - iTIP: https://tools.ietf.org/html/rfc5546
+* RFC 6047 - iMIP: https://tools.ietf.org/html/rfc6047
+* RFC 4791 - CalDAV: https://tools.ietf.org/html/rfc4791
+* RFC 6638 - CalDAV Scheduling: https://tools.ietf.org/html/rfc6638
 
- 
+== IETF drafts and recent standards
 
-[[magicdomid32]]
-KEY CALENDARING STANDARDS - SOME FAMILIARITY REQUIRED    
+* RFC 7808 - Time Zone Data Distribution Service: https://tools.ietf.org/html/rfc7808
+* RFC 7809 - CalDAV Time Zones by Reference: https://tools.ietf.org/html/rfc7809
+* RFC 7953 - Calendar Availability (VAVAILABILITY): https://tools.ietf.org/html/rfc7953
+* RFC 7986 - iCalendar Extensions: https://tools.ietf.org/html/rfc7986
+* Event Publication Extensions to iCalendar: https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/
+* Managed Attachments: https://datatracker.ietf.org/doc/draft-ietf-calext-caldav-attachments
+* Improved Support for iCalendar Relationships: https://datatracker.ietf.org/doc/draft-ietf-calext-ical-relations/
 
-* [#magicdomid33]#RFC 5545 - iCalendar:
-https://tools.ietf.org/html/rfc5545[[.url]#https://tools.ietf.org/html/rfc5545#]#
-* [#magicdomid34]#RFC 5546 - iTIP:
-https://tools.ietf.org/html/rfc5546[[.url]#[.url]#https://tools.ietf.org/html/rfc5546##]#
-* [#magicdomid35]#RFC 6047 - iMIP: https://tools.ietf.org/html/rfc6047#
-* [#magicdomid36]#RFC 4791 - CalDAV:
-https://tools.ietf.org/html/rfc4791#
-* [#magicdomid37]#RFC 6638 - CalDAV Scheduling:
-https://tools.ietf.org/html/rfc6638#
+== Alternative subscription models
 
- 
+* Calendar Subscription Upgrades: https://tools.ietf.org/html/draft-ietf-calext-subscription-upgrade
 
-IETF DRAFTS AND RECENT STANDARDS
+== Autodiscovery
 
-[[magicdomid41]]
-* RFC 7808 - Time Zone Data Distribution Service:
-https://tools.ietf.org/html/rfc7808
+* Aggregated Service Configuration: https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/
 
-[[magicdomid42]]
-* RFC 7809 - CalDAV Time Zones by Reference:
-https://tools.ietf.org/html/rfc7809
+== Calendar spam
 
-[[magicdomid43]]
-* [.author-p-145613]#RFC 7953 - Calendar Availability
-(#VAVAILABILIT[.author-p-145613]#Y)#:
-[.author-p-145613 .url]#https://tools.ietf.org/html/rfc7953#
+* Calendar Spam article from CalConnect website: link:/news/2017/01/30/calendar-spam
 
-[[magicdomid44]]
-* RFC 7986 -  iCalendar Extensions:
-https://tools.ietf.org/html/rfc7986[[.url]#[.url]#https://tools.ietf.org/html/rfc7986##]
+== DAV-based resource sharing
 
-[[magicdomid45]]
-* Event Publication Extensions to iCalendar:
-[.url]#https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/#
+* Discussion of issues, what CalConnect has done and is doing: https://evertpot.com/webdav-caldav-carddav-sharing/
+* WebDAV User Notifications: https://tools.ietf.org/html/draft-pot-webdav-notifications
+* WebDAV Resource Sharing: https://tools.ietf.org/html/draft-pot-webdav-resource-sharing
+* CalDAV Calendar Sharing: https://tools.ietf.org/html/draft-pot-caldav-sharing
 
-[[magicdomid46]]
-* Managed Attachments:
-https://datatracker.ietf.org/doc//draft-ietf-calext-caldav-attachments[[.u .url]#[.u .url]#https://datatracker.ietf.org/doc//draft-ietf-calext-caldav-attachments##]
+== DAV push
 
-[[magicdomid47]]
-* Improved Support for iCalendar Relationships:
-https://datatracker.ietf.org/doc/draft-ietf-calext-ical-relations/
+* PUSH Discovery and Notification Dispatch Protocol: https://tools.ietf.org/html/draft-gajda-dav-push/
 
-[[magicdomid52]]
- 
+== Developer guide
 
- 
+* CalConnect Developer's Guide (open for contributions): http://devguide.calconnect.org
 
-ALTERNATIVE SUBSCRIPTION MODELS
+== CalDAV / CardDAV / WebDAV
 
-* Calendar Subscription Upgrades: 
-https://tools.ietf.org/html/draft-ietf-calext-subscription-upgrade
+* DAV Server Information Object: http://datatracker.ietf.org/doc/draft-douglass-server-info/
 
-[[magicdomid106]]
- 
+== Categorization and event types
 
-[[magicdomid119]]
-[.author-p-145613]#AUTODISCOVERY#
+* Event Publication Extensions to iCalendar: https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/
 
-[[magicdomid167]]
-* [.author-p-145613]#Aggregated Service Configuration:
-#[.author-p-145613 .url]#https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/#
+== Consensus scheduling
 
-[[magicdomid55]]
- 
+* VPOLL: https://tools.ietf.org/html/draft-calext-vpoll-00
 
-CALENDAR SPAM
+== iMIP
 
-* Calendar Spam article from CalConnect website: 
-link:/news/2017/01/30/calendar-spam
+* RFC 6047: https://tools.ietf.org/html/rfc6047
 
- 
+== iSchedule
 
-DAV-Based Resource Sharing
+* Internet Calendar Scheduling Protocol: http://tools.ietf.org/html/draft-desruisseaux-ischedule
 
-*     Discussion of issues, what CalConnect has done and is doing: 
-https://evertpot.com/webdav-caldav-carddav-sharing/
-*     WebDAV User Notifications: 
-https://tools.ietf.org/html/draft-pot-webdav-notifications
-*     WebDAV Resource Sharing:
-https://tools.ietf.org/html/draft-pot-webdav-resource-sharing
-*     CalDAV Calendar Sharing:
-https://tools.ietf.org/html/draft-pot-caldav-sharing
+== JMAP
 
- 
+* JMAP Core: https://tools.ietf.org/html/rfc8620
+* JMAP Calendars: https://jmap.io/spec-calendars.html
+* JMAP Contacts: https://jmap.io/spec-contacts.html
 
-DAV PUSH
+== JSCalendar (New API)
 
-* PUSH Discovery and Notification Dispatch Protocol:
-https://tools.ietf.org/html/draft-gajda-dav-push/
+* JSCalendar: A JSON representation of calendar data:
+** https://tools.ietf.org/html/draft-ietf-calext-jscalendar
+** https://tools.ietf.org/html/draft-ietf-calext-jscalendar-icalendar
 
- 
-
-[[magicdomid56]]
-DEVGUIDE
-
-[[magicdomid57]]
-* CalConnect Developer's Guide (open for contributions):
-[.url]#http://devguide.calconnect.org# 
-
-[[magicdomid58]]
- 
-
-[[magicdomid59]]
-CALDAV / CARDAV / WEBDAV
-
-[[magicdomid60]]
-* DAV Server Information Object:
-[.url]#http://datatracker.ietf.org/doc/draft-douglass-server-info/#
-
-[[magicdomid61]]
- 
-
-CATEGORIZATION/EVENT-TYPES
-
-* Event Publication Extensions to iCalendar:
-https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/
-
- 
-
-CONSENSUS SCHEDULING
-
-* VPOLL:  https://tools.ietf.org/html/draft-calext-vpoll-00
-
- 
-
-IMIP
-
-*     RFC 6047 - : https://tools.ietf.org/html/rfc6047
-
- 
-
-[[magicdomid62]]
-ISCHEDULE
-
-[[magicdomid63]]
-* Internet Calendar Scheduling Protocol:
-[.url]#http://tools.ietf.org/html/draft-desruisseaux-ischedule#
-
- 
-
-JMAP
-
-* JMAP Core:  https://tools.ietf.org/html/rfc8620
-* JMAP Calendars:  https://jmap.io/spec-calendars.html
-* JMAP Contacts:  https://jmap.io/spec-contacts.html
-
- 
-
-[[magicdomid70]]
-JSCALENDAR (New API)
-
-* JSCALENDAR: A JSON representation of calendar data: 
-* https://tools.ietf.org/html/draft-ietf-calext-jscalendar
-* https://tools.ietf.org/html/draft-ietf-calext-jscalendar-icalendar
-
- 
-
-PUBLIC CALENDAR DISCOVERY
+== Public calendar discovery
 
 * http://xml2rfc.tools.ietf.org/cgi-bin/xml2rfc.cgi?url=https://github.com/CalConnect/PUBLIC_DRAFTS/raw/master/collection-query/collection-query.xml&modeAsFormat=html/ascii&type=ascii
 
- 
+== Scheduling controls
 
-SCHEDULING CONTROLS
+* CalDAV Scheduling Controls: https://tools.ietf.org/html/draft-ietf-calext-caldav-scheduling-controls
 
-* CalDAV Scheduling Controls: 
-https://tools.ietf.org/html/draft-ietf-calext-caldav-scheduling-controls
-
- 
-
-SUPPORT FOR SERIES IN ICALENDAR
+== Support for series in iCalendar
 
 * https://tools.ietf.org/html/draft-douglass-icalendar-series
 
- 
+== Additional resources
 
-[[magicdomid80]]
- 
-
-[[magicdomid81]]
-FOR ADDITIONAL READING, A MORE COMPLETE LIST OF CALENDARING AND
-SCHEDULING SPECIFICATIONS MAY BE FOUND AT
-[.url]#https://www.calconnect.org/resources/calendaring-standards#
+For additional reading, a more complete list of calendaring and scheduling specifications may be found at link:/resources/calendaring-standards[Calendaring Standards].

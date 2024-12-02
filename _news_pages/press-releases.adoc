@@ -8,29 +8,29 @@ type: news
 
 *October 30, 2018* +
 *CalConnect calls on EU to reconsider timeline for proposed seasonal
-time changes:* 
+time changes:*
 link:/news/2018-10-30-calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes].
 The full text of the Advisory Notice is available at
 link:/docs/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[Advisory
-Notice]. +
- +
+Notice].
+
 *August 6, 2012* +
 *CalConnect Announces New Diverse Technical Leadership*:
 link:/docs/20120806%20Steering%20Committee.pdf[20120806
-Steering Committee.pdf]. +
- +
+Steering Committee.pdf].
+
 *August 18, 2011* +
 *CalConnect will hold its First Ruropean Interoperability Test Event and
 Conference in Prague*:
 link:/docs/20110818%20CalConnect%20Prague%20Release.pdf[CalConnect
-Prague Release.pdf]. +
- +
+Prague Release.pdf].
+
 *October 5, 2010* +
 *Tungle Corp. Joins CalConnect*: The Calendaring and Scheduling
 Consortium has announced that Tungle Corporation has joined CalConnect:
 link:/docs/20101005-tungle.doc[Tungle Joins The
-Calendaring and Scheduling Consortium]. +
- +
+Calendaring and Scheduling Consortium].
+
 *September 13, 2010* +
 *CalConnect, OASIS Team Up on Key Smart-Grid Project*: CalConnect and
 OASIS, the Organization for the Advancement of Structured Information
@@ -41,8 +41,8 @@ see
 link:/docs/20100913-calconnect-oasis.doc[CalConnect&#44;
 OASIS&#44; Team Up on Key Smart-Grid Project]. For a PDF version see:
 link:/docs/20100913-calconnect-oasis.pdf[CalConnect&#44;
-OASIS&#44; Team Up on Key Smart-Grid Project]. +
- +
+OASIS&#44; Team Up on Key Smart-Grid Project].
+
 *July 2, 2009* +
 *CalConnect _Minutes_ to replace some press releases*: The
 link:/docs/minutes.shtml[CalConnect _Minutes_] newsletter,
@@ -54,34 +54,34 @@ a request to minutes-subscribe@calconnect.org. In the future CalConnect
 will use this newsletter, plus the
 http://calconnect.wordpress.com[CalConnect Blog], to announce new
 members, upcoming events, and regular publication of event reports, and
-issue specific press releases for individually newsworthy items. +
- +
+issue specific press releases for individually newsworthy items.
+
 *April 30, 2009* +
 *ZideOne Joins CalConnect*: The Calendaring and Scheduling Consortium
 has announced that IceWarp has joined the Consoritum:
 link:/docs/ZideOne%20Joins%20US%20release%20FINAL-2009-04-29.doc[ZideOne
-Joins CalConnect]. +
- +
+Joins CalConnect].
+
 *February 11, 2009* +
 *IceWarp Joins CalConnect*: The Calendaring and Scheduling Consortium
 has announced that IceWarp has joined the Consortium:
 link:/docs/IceWarp%20Joins%20US%20release%20FINAL.doc[IcwWarp
-Joins CalConnect]. +
- +
+Joins CalConnect].
+
 *December 18, 2008* +
 *Timezone Workshop at Microsoft*: The Calendaring and Scheduling
 Consortium has announced a one-day workshop on Timezones to be held on
 February 3, 2009, at Microsofot in Redmond, Washington, during
 CalConnect week:
 link:/docs/Timezone%20workshop%20release.doc[Timezone
-Workshop at Microsoft]. +
- +
+Workshop at Microsoft].
+
 *December 11, 2008* +
 *neutralSpace Joins CalConnect*: The Calendaring and Scheduling
 Consortium has announced that neutralSpace has joined the Consortium:
 link:/docs/neutralSpace%20Joins%20CalConnect%20v1.doc[neutralSpace
-joins CalConnect]. +
- +
+joins CalConnect].
+
 *November 24, 2008* +
 *CalConnect Holds Second Mobile Calendaring and Scheduling
 Interoperability Test Event*: CalConnect's Second Mobile Calendaring and
@@ -89,8 +89,8 @@ Scheduling Interoperability Test Event was hosted by Kerio Technologies
 in Plzen, Czech Republic, on November 4-6, 2008:
 link:/docs/CalConnect%20Holds%20Second%20Mobile.doc[CalConnect
 Holds Second Mobile Calendaring and Scheduling Interoperability Test
-Event]. +
- +
+Event].
+
 *July 28, 2008* +
 *CalConnect Announces Second Mobile Calendaring Interoperability Test
 Event*: The Calendaring and Scheduling Consortium
@@ -98,16 +98,16 @@ Event*: The Calendaring and Scheduling Consortium
 second Mobile Calendaring Interoperabilty Test Event will occur on
 November 4-6, 2008, in the Czech Republic, hosted by Kerio Technologies:
 link:/docs/080728%20CalConnect%20Mobile%20IOP%20Test%20Event.doc[CalConnect
-Mobile Interoperabiilty Test Event]. +
- +
+Mobile Interoperabiilty Test Event].
+
 *May 30, 2008* +
 *CalConnect initiates CalConnect _Minutes_ Newsletter*: CalConnect has
 initiated publication of a regular newsletter to be published thrice
 yearly, after each CalConnect event. The newsletter will contain
 information from the last CalConnect event and the period leading up to
 it, including new members, major initiatives, and the status of ongoing
-work: link:/docs/minutes.shtml[CalConnect__Minutes__]. +
- +
+work: link:/docs/minutes.shtml[CalConnect__Minutes__].
+
 *February 19, 2008* +
 *CalConnect Stages Largest Interoperability Test Event*: The Calendaring
 and Scheduling Consortium
@@ -116,32 +116,32 @@ recent CalConnect Interoperability Test Event, February 4-5, 2008, was
 its largest IOP test event ever, and incorporated the first ever
 CalConnect Mobile Calendaring Interoperabilty Test Event:
 link:/docs/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc[CalConnect
-Stages Largest Interoperabiity Test Event]. +
- +
+Stages Largest Interoperabiity Test Event].
+
 *December 10, 2007* +
 *Stockholm University Joins CalConnect*: The Calendaring and Scheduling
 Consortium (http://www.CalConnect.org[www.CalConnect.org]) has announced
 that Stockholm University has joined the membership, bringing the total
 number of participating organizations to 40:
 link:/docs/Stockholm%20University%20Joins%20CalConnect%20final.doc[Stockholm
-University Joins CalConnect] +
- +
+University Joins CalConnect]
+
 *November 1, 2007* +
 *Microsoft Joins CalConnect*: The Calendaring and Scheduling Consortium
 (http://www.CalConnect.org[www.CalConnect.org]) has announced that
 Microsoft has joined the membership, bringing the total number of
 participating organizations to 39:
 link:/docs/071101Microsoft%20Joins%20CalConnect%202.doc[Microsoft
-Joins CalConnect.doc] +
- +
+Joins CalConnect.doc]
+
 *October 16, 2007* +
 *The University of Pennsylvania Joins CalConnect*: The Calendaring and
 Scheduling Consortium (http://www.CalConnect.org[www.CalConnect.org])
 has announced that the University of Pennsylvania has joined the
 membership:
 link:/docs/071016Penn%20Joins%20CalConnect.doc[Penn
-Joins CalConnect.doc] +
- +
+Joins CalConnect.doc]
+
 *May 21, 2007* +
 *Four More Open-Standards Companies, One University Join CalConnect*:
 The Calendaring and Scheduling Consortium
@@ -150,8 +150,8 @@ Princeton University, Scalix Corporation, Sun Microsystems, Synchronica
 Plc, and Zimbra, Inc. have joined the membership, bringing the young
 organization to 35 companies, universities, and research facilities:
 link:/docs/070521fourmoreopenrev.pdf[CalConnect May
-Release]. +
- +
+Release].
+
 *March 20, 2007* +
 *CalConnect applauds publication of RFC 4791, CalDAV, by the IETF*: The
 IETF has published http://www.rfc-editor.org/rfc/rfc4791.txt,
@@ -159,16 +159,16 @@ Calendaring Extensions to WebDAV (CalDAV). The Consortium has issued a
 press release concerning the significance of CalDAV and its relationship
 to the Consortium at
 link:/docs/070320calconnectcaldavrelease.pdf[CalConnect
-CalDAV Release]. +
- +
+CalDAV Release].
+
 *February 8, 2007* +
 *CalConnect Gives Guidance to IT Staff on Impact of DST Change*:
 CalConnect has implemented advisory and vendor information about the
 potential impact of the DST change and how to deal with it at
 http://www.calconnect.org/dstdocs.shtml. The CalConnect press release is
 at link:/docs/070208edstrecommendations.pdf[DST
-Guidance]. +
- +
+Guidance].
+
 *January 2007* +
 *Interview with Gary Schwartz of R.P.I. about Bedework*: CNI and
 Educause recently interviewed Gary Schwartz, the Director of
@@ -176,8 +176,8 @@ Communications and Middleware Technologies at the Rensselaer Polytechnic
 Institute, about their Bedework open source calendar project. Listen to
 the podcast at:
 http://www.podzinger.com/results.jsp?q=bedework&s=PZSID_pod1_0_8_0003&sname=&col=en-all-pod-ep&il=en&format=xml[Gary
-Schwartz Interview]. +
- +
+Schwartz Interview].
+
 *December 14, 2006* +
 *The Benefits of iCalendar for the Mobile Industry*: The Mobile
 Technical Committee of the Consortium has released a paper documenting
@@ -188,8 +188,8 @@ link:/docs/iCalendarforthemobileindustryv1.0.pdf[The
 Benefits of iCalendar for the Mobile Industry] and the press release is
 at
 link:/docs/061214%20icalendarbenefits.pdf[Consortium
-Paper specifies how and why of iCalendar]. +
- +
+Paper specifies how and why of iCalendar].
+
 *August 7, 2006* +
 *Apple Computer Announces Membership in CalConnect:*
 http://www.apple.com[Apple Computer] has announced its membership in the
@@ -198,8 +198,8 @@ involved in the development of CalDAV and other calendaring standards,
 and today announced its CalDAV-based iCAL calendar server and an open
 source implementation of the server. The CalConnect press release is at
 link:/docs/060807applejoinscalconnect.pdf[Apple
-Computer Joins CalConnect]. +
- +
+Computer Joins CalConnect].
+
 *July 24, 2006* +
 *Federated Freebusy Demo*: Members of the Consortium succssfully
 demonstrated a proof-of-concept application which aggregated and
@@ -215,35 +215,35 @@ link:/doc/freebusydemo.pdf[Federated Freebusy
 Demo Presentation]. The aggregation technnology is based on the Bedework
 CalDAV implementation, and the intent of the Consortium is to make the
 freebusy aggregator, the connectors to non-CalDAV-based calendaring
-systems, and the web interface publicly available as open source. +
- +
+systems, and the web interface publicly available as open source.
+
 *May 21, 2006* +
 *Media Alert for May 2006 Roundtable VI and Interoperability Testing
 Event*: The media alert for the May 2006 Roundtable and IOP testing
 event was issued at the beginning of May:
 link:/docs/0605mediaalert.doc[May 2006 Media
-Alert]. +
- +
+Alert].
+
 *December 8, 2005* +
 *Media Alert for Roundtable and CalConnect Interoperability Event*: The
 media alert for the January 2006 Roundtable and CalConnect
 Interoperability Event was issued on 8 December:
 link:/docs/051208mediaalertrtiop5.pdf[Roundtable V
-Media Alert]. +
- +
+Media Alert].
+
 *November 14, 2005* +
 *Harvard Arts & Sciences Computing Services* and *New York University*
 have joined the Consortium:
 link:/docs/051114harvardascsandnyujoincalconnect.pdf[Harvard
-ASCS/NYU]. +
- +
+ASCS/NYU].
+
 *October 24, 2005* +
 *IBM and Trumba Join the Consortium*:
 link:/docs/051024ibmjoinscalconnect.pdf[IBM has
 joined the Consortium], and
 link:/docs/051024trumbajoinscalconnect.pdf[Trumba
-has joined the Consortium] +
- +
+has joined the Consortium]
+
 *August 7, 2005* +
 *Media Coverage on the Consortium and the Energy Policy Act of 2005*:
 Following the signing of the Energy Policy Act of 2005 by the President,
@@ -252,14 +252,14 @@ the Consortium, for an article that received wide distribution including
 http://www.usatoday.com/tech/news/2005-08-07-daylight-saving_x.htm[USA
 Today] and many other local and national newspapers. Dave Thewlis was
 also interviewed on several radio talk shows and a podcast on
-http://www.ddj.com/documents/s=9824/ddj050809pc/[Dr. Dobb's Journal]. +
- +
+http://www.ddj.com/documents/s=9824/ddj050809pc/[Dr. Dobb's Journal].
+
 *June 30, 2005* +
 *Roundtable III Publicity Release*: The publicity release issued by the
 Consortium following Roundtable III at Duke University, 1-3 June, 2005:
 link:/docs/050630roundtableinterop3.pdf[Roundtable/CalConnect
-Interoperability Event Publicity Release]. +
- +
+Interoperability Event Publicity Release].
+
 *June 29, 2005* +
 *DST and the Energy Policy Act of 2005*: The Consortium issued a pair of
 Advisory Notices regarding the provision in the Energy Policy Act of
@@ -269,14 +269,14 @@ link:/docs/dstcongress.pdf[Congressional Advisory] is
 intended to alert Congress as to the implications of the act with
 respect to potential changes in calendaring software. The
 link:/docs/dstadvisorynotice.pdf[DST Advisory Notice] is an
-more in-depth consideration of the issues. +
- +
+more in-depth consideration of the issues.
+
 The Consortium also issued a press release on its concerns about the
 lack of time being suggested before the extended DST change might occur.
 The CalConnect press release is at
 link:/docs/050629dstchangeuntimely.pdf[EDST Change
-Untimely] +
- +
+Untimely]
+
 *May 24, 2005* +
 *Media Alerts for Roundtable III*: Two media alerts were issued prior to
 the Roundtable and CalConnect Interoperability Event at Duke University
@@ -284,8 +284,8 @@ on 1-3 Jone 2005:
 link:/docs/050329mediaalertrtiop3.pdf[Roundtable
 III Registration] and
 link:/docs/050524mediaalertrtiop3.pdf[Roundtable
-III Attendance]. +
- +
+III Attendance].
+
 *May 23, 2005* +
 *Wall Street Journal Articles*: Article in the WSJ Career Journal:
 http://www.careerjournal.com/myc/officelife/20050523-wagstaff.html[WSJ
@@ -293,69 +293,69 @@ Career Journal Article]. This was preceeded on May 20th by a Wall Street
 Journal Online Article:
 http://online.wsj.com/article_email/article_print/0,,SB111653857974538467-IZjgINklah4nZ2rZH2Ib6WJm4,00.html[WSJ
 Online Article]; be aware that you have to have a login to WSJ Online to
-access this article. +
- +
+access this article.
+
 *May 9, 2005* +
 Posting about Calendaring and Scheduling, and the Consortium, on the
 Ferris Research blog:
 http://ferris.typepad.com/ferris_research_weblog/calendaring_scheduling/[Ferris
-Research blog posting]. +
- +
+Research blog posting].
+
 *April, 2005* +
 *IEEE Article on CalDAV*: Article on CalDAV which also talks about the
 Consortium:
 http://dsonline.computer.org/portal/site/dsonline/menuitem.9ed3d9924aeb0dcd82ccc6716bbe36ec/index.jsp?&pName=dso_level1&path=dsonline/0504&file=w2sta.xml&xsl=article.xsl&[IEEE
-CalDAV Article]. +
- +
+CalDAV Article].
+
 *February 7, 2005* +
 *e-Pro Magazine on Roundtable II and CalConnect Interoperability Event*:
 An article from e-Pro magazine on the just-completed CalConnect
 Interoperability Event and the Consortium Roundtable II in January.
 link:/docs/eproarticle.shtml[Calendaring Consortium
-Builds Momentum]. +
- +
+Builds Momentum].
+
 *February 2, 2005* +
 *eSchool News*: A fairly in-depth article with comments from interviews
 of several Members explaining the Consortium, and the issues we are
 trying to address.
 http://www.eschoolnews.com/news/showStory.cfm?ArticleID=5489&page=1[CalConnect
-aims for better electronic calendars]. +
- +
+aims for better electronic calendars].
+
 *January 18, 2005* +
 *Roundtable II and CalConnect Interoperability Event Publicity Release*:
 The publicity release issued by the Consortium following its second
 Roundtable, 11-13 January 2005, hosted by the University of Washington,
 and the companion January 11-12 2005 Interop.
 link:/docs/050111roundtable2.pdf[Roundtable II
-Publicity Release]. +
- +
+Publicity Release].
+
 *January 9, 2005* +
 *SymbianOne Newsletter*: Symbian, a Founding Member of the Consortium,
 issued its own press release on the public launch of the Consortium.
 http://www.symbianone.com/index.php?option=content&task=view&id=1311&Itemid=97[Top
 Vendors (including Symbian)&#44; Users Launch Calendaring and Scheduling
-Consortium]. +
- +
+Consortium].
+
 *Linux Business Week*: A pick-up of the Consortium public launch
 release. http://www.linuxbusinessweek.com/story/47727.htm[Oracle&#44;
-Yahoo&#44; Novell&#44; Symbian&#44; Mozilla...Yet Another Consortium]. +
- +
+Yahoo&#44; Novell&#44; Symbian&#44; Mozilla...Yet Another Consortium].
+
 *December 14, 2004* +
 *Public Launch Release*: The publicity release issued by the Consortium
 to mark its public launch.
 link:/docs/041214publiclaunch.pdf[Public Launch
-Release]. +
- +
+Release].
+
 *October 5, 2004* +
 *Roundtable Publicity Release*: The publicity release issued by the
 Consortium following the 23-24 September 2004 Roundtable on the Future
 of Interoperable Calendaring and Scheduling sponsored by the Consortium
 and hosted by Oracle.
 link:/docs/0409roundtable1.pdf[Roundtable Publicity
-Release]. +
- +
+Release].
+
 *August 20, 2004* +
 *CalConnect Interopability Event Publicity Release*: The first publicity
 release issued by the Consortium following the July 29-30 2004 Event.
 link:/docs/0407interop1.pdf[CalConnect
-Interoperability Event Publicity Release].  
+Interoperability Event Publicity Release].

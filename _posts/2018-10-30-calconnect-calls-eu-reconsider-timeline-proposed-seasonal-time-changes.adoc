@@ -4,7 +4,11 @@ title:  CalConnect calls on EU to reconsider timeline for proposed seasonal time
 date:   2018-10-30
 type: news
 excerpt:
-  The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. CalConnect shares these concerns and recommends the European Commission  extend the timelines stated in the proposal.
+  The European Commission has proposed to discontinue daylight saving time
+  (DST), effective October 2019. Several governments and organizations have
+  since expressed concerns about such a tight timeline for the far-reaching
+  change. CalConnect shares these concerns and recommends the European
+  Commission  extend the timelines stated in the proposal.
 ---
 
 == CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
@@ -29,14 +33,11 @@ least one year (12 months) after the final decision for the change has
 been made.
 
 CalConnect will host a
-https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[public
-workshop] at its
-link:/events/calconnect-xliv-february-4-8-2019[next
-conference] in Zürich in early February, and has just launched a
-link:/resources/discussion-lists/time-zone-discussion[public
-mailing list] for the discussion of best practices for planning new time
-zone changes.
+https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[public workshop] at its
+link:/events/calconnect-xliv-february-4-8-2019[next conference] in Zürich in
+early February, and has just launched a
+link:/resources/discussion-lists/time-zone-discussion[public mailing list] for
+the discussion of best practices for planning new time zone changes.
 
-The full advisory notice can be found at +
-link:/docs/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC
-Adv EU DST Advisory Notice.pdf]
+The full advisory notice can be found at
+link:/docs/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC Adv EU DST Advisory Notice.pdf].

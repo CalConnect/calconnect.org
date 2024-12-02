@@ -6,47 +6,43 @@ type: events
 
 == CalConnect Calendars
 
-=== _As of 06 June 2021_
+_As of 06 June 2021_
 
-*Please note:*  If you subscribed to any of these calendar feeds prior
-to June 2021, you must unsubscrive and resubscribe using the links
-below.  A change was made to the naming convention for icloud calendar
-subscriptions at the end of May. +
+NOTE: If you subscribed to any of these calendar feeds prior to June 2021, you
+must unsubscribe and resubscribe using the links below.  A change was made to
+the naming convention for icloud calendar subscriptions at the end of May.
 
 CalConnect maintains two major calendars, a master calendar for ongoing
-conference calls and related activities, and a conference calendar for
-each CalConnect Event's schedule. In addition, subcalendars with the
-events for an individual Technical Committee or other CalConnect
-committee may be individually subscribed to or downloaded, and a
-subcalendar for the set of infrequently scheduled calls is also
-available. +
- +
-The links below for each calendar will allow you to subscribe to the
-public shared calendars.  +
- +
-*Note Well*: Although the calendars are publicly available, you must be
-a representative of a CalConnect member to attend CalConnect conference
-calls.
+conference calls and related activities, and a conference calendar for each
+CalConnect Event's schedule. In addition, sub-calendars with the events for an
+individual Technical Committee or other CalConnect committee may be individually
+subscribed to or downloaded, and a subcalendar for the set of infrequently
+scheduled calls is also available.
 
-*_CalConnect's use of a shared calendar service does not represent an
-endorsement or recommendation of that calendaring service or vendor, or
-any other calendaring service or vendor._*
+The links below for each calendar will allow you to subscribe to the public
+shared calendars.
 
- 
+NOTE: Although the calendars are publicly available, you must be a
+representative of a CalConnect member to attend CalConnect conference calls.
 
-==== Ongoing CalConnect Conference Calls and Activities
+NOTE: CalConnect's use of a shared calendar service does not represent an
+endorsement or recommendation of that calendaring service or vendor, or any
+other calendaring service or vendor.
+
+
+
+=== Ongoing CalConnect Conference Calls and Activities
 
 "CalConnect_Calendar" is the combined master calendar containing events
-(generally recurring) for all scheduled CalConnect committee calls and
-related activities until the next CalConnect Conference. It is usually
-updated each Monday following the TCC Technical Coordinating Committee
-call, to reflect any changes to the schedule as identified at the TCC
-call. The individual committee calendars contain only those events
-relevant to that committee. +
+(generally recurring) for all scheduled CalConnect committee calls and related
+activities until the next CalConnect Conference. It is usually updated each
+Monday following the TCC Technical Coordinating Committee call, to reflect any
+changes to the schedule as identified at the TCC call. The individual committee
+calendars contain only those events relevant to that committee.
 
 [cols=",",]
 |===
-|Calendar |[.underline]#subscribe# to this calendar
+|Calendar |*subscribe* to this calendar
 
 |*CalConnect_Calendar*
 |webcal://p48-caldav.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0
@@ -58,8 +54,7 @@ relevant to that committee. +
 |webcal://p48-caldav.icloud.com/published/2/nNGX2lGFZ5oBDereT3K-O5P_aKyLimt_5SIxjG2D5l4b2PSfDbQN9CqPNvTZ1XUxvEl-sV1dFC5NN6qzL95Hk-kxSbllOqKkHUpeNd1NTUc
 
 |*MarCom*
-|link:webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAAA8d83fZoFlTR54yaPPPrCJhpSNa7s1xy3pYQ_oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE[webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAAA8d83fZoFlTR54yaPPPrCJhpSNa7s1xy3pYQ_
-oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE]
+|webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAAA8d83fZoFlTR54yaPPPrCJhpSNa7s1xy3pYQ_oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE
 
 |*TCC*
 |webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV4icYsjNN3Uzsw9x9WG0lzQ5Muq52Nshz7YO1tZsS7DYvkEUxqMImgzP44a02GGyaY
@@ -83,7 +78,7 @@ oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE]
 |webcal://p48-caldav.icloud.com/published/2/njl567QsPg-2ZtX8D79hXwIlsln3ye21rDlki3IYOAjEsU2tABEX61URHOG9u9xwjZIK09DGADOpsy6BCgPlrOjS05Q3aEgfbT40g7m02s4
 |===
 
- 
+
 
 ==== CalConnect Conference Calendar
 
@@ -91,12 +86,13 @@ oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE]
 CalConnect Event, which is comprised of both the Test Event/Developers
 Forum and the Conference. _This file may have no events defined
 following a CalConnect Conference and before the next Conference's
-schedule is defined._ +
- +
-To [.underline]#subscribe# to this calendar:
-webcal://p48-caldav.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8. +
- 
+schedule is defined._
 
-*_CalConnect's use of a shared calendar service does not represent an
+To subscribe to this calendar:
+
+* webcal://p48-caldav.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[click here].
+
+
+NOTE: CalConnect's use of a shared calendar service does not represent an
 endorsement or recommendation of that calendaring service or vendor, or
-any other calendaring service or vendor._*
+any other calendaring service or vendor.

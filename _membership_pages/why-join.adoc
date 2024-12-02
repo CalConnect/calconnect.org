@@ -35,15 +35,15 @@ made up of and led by participants from our member organizations.
 Although the original C&S standards are IETF RFCs, most of the
 calendaring and scheduling standards development and discussion in the
 last ten years have taken place in CalConnect. We maintain
-link:/about/liaisons-and-relationships[active
-liaisons] with a number of ISO Technical Committees and other standards
+link:/about/liaisons-and-relationships[active liaisons]
+with a number of ISO/IEC Technical Committees and other standards
 entities. In addition to our own standards, we are working with several
 ISO Technical Committees on joint projects and anticipate co-publication
 of standards in the future.   We have collaborated and cooperated with
 the IETF and OASIS on CalDAV, RFC 5545 (iCalendar bis), iSchedule,
 calendaring web services, XML and JSON representations of iCalendar,
 timezone services, vCard 4.0 and CardDAV, to list some of our most
-recent work. 
+recent work.
 
 In addition to regular technical conferences each year, from time to
 time we hold workshops to bring together the CalConnect membership and
@@ -53,18 +53,14 @@ and timezones.
 We know how hard it is to sell you "cold", so, instead, we would like to
 help you sell yourself. Take a look at CalConnect, especially:
 
-* Our membership - link:/membership[www.calconnect.org/membership]
-* Our mission - link:/about/goals[www.calconnect.org/about/goals]
-* Our work products
-- link:/about/major-work-projects[www.calconnect.org/about/major-work-projects]
-* Our policies - link:/about/policies[www.calconnect.org/about/policies]
-* Our partnerships
-- link:/about/liaisons-and-relationships[www.calconnect.org/about/liaisons-and-relationships]
-* Our activities
-- link:/events/events-activities[www.calconnect.org/events/events-activities]
-* Our technical committees (working groups)
-- link:/about/technical-committees[www.calconnect.org/about/technical-committees]
-* Our achievements and our story - link:/news[www.calconnect.org/news]
+* Our link:/membership[membership]
+* Our link:/about/goals[mission]
+* Our link:/major-work-projects[work products]
+* Our link:/about/policies[policies]
+* Our link:/about/liaisons-and-relationships[partnerships]
+* Our link:/events/events-activities[activities]
+* Our link:/about/technical-committees[technical committees (working groups)]
+* Our link:/news[achievements and our story]
 
 CalConnect's success, and ultimately the success of our vision of
 interoperable calendaring depend on broad, engaged, diverse, and
@@ -79,20 +75,19 @@ at the center of calendaring & scheduling today.
 
 === *Take CalConnect for a Test Drive*
 
-You can attend one CalConnect Conference as an observer, without having
-yet become a member. Refer to
-link:/events/observers[www.calconnect.org/events/observers] for
-additional details on the terms and conditions for observer
-participation.  In conjunction with our Conferences, we offer on-site
-Interoperability testing with other implementers.
+You can attend one CalConnect Conference as an observer, without having yet
+become a member. Refer to link:/events/observers[observers] for additional
+details on the terms and conditions for observer participation.  In conjunction
+with our Conferences, we offer on-site Interoperability testing with other
+implementers.
 
 If you find that enlightened self-interest compels you to become a
 member, or if you would simply like to learn more about CalConnect,
-please contact me: +
- +
+please contact me:
+
 *Mike Douglass, Executive Director, CalConnect* +
 +1 617 816 0041
 
 or
 
-contact@calconnect.org
+mailto:contact@calconnect.org[contact@calconnect.org]

@@ -13,32 +13,34 @@ CalConnect and its mission and activities.
 [cols="1,1,1,1", options="header"]
 |===
 
-| http://www.apple.com[image:/assets/images/Apple%20Inc.png[Apple]]
+| https://www.apple.com[image:/assets/images/Apple%20Inc.png[Apple]]
 | https://www.audriga.com[image:/assets/images/audriga.png[Audriga]]
 | https://www.bedework.com[image:/assets/images/bcs.png[Bedework]]
-| http://www.burbio.com[image:/assets/images/burbiologo.png[Burbio]]
+| https://www.burbio.com[image:/assets/images/burbiologo.png[Burbio]]
 
 | https://caldavsynchronizer.org[image:/assets/images/cdsyncronizer.png[CalDAV Synchronizer]]
 | https://www.cronofy.com[image:/assets/images/cronofy_logo.png[Cronofy]]
-| link:www.dhl.com[image:/assets/images/dhl_logo.gif[DHL Express]]
-| http://www.fastmail.com[image:/assets/images/FM-Logo-RGB.png[Fastmail]]
+| https://www.dhl.com[image:/assets/images/dhl_logo.gif[DHL Express]]
+| https://www.fastmail.com[image:/assets/images/FM-Logo-RGB.png[Fastmail]]
 
-| http://www.google.com[image:/assets/images/google2018.jpg[Google]]
+| https://www.google.com[image:/assets/images/google2018.jpg[Google]]
 | link:[image:/assets/images/HeyLife.png[HeyLife]]
-| http://www.jorte.com/en[image:/assets/images/jorte_logo.png[Jorte]]
+| https://www.jorte.com/en[image:/assets/images/jorte_logo.png[Jorte]]
 | https://www.m3aawg.org/[image:/assets/images/M3AAWG.png[M3AAWG]]
 
 | https://www.marketcircle.com[image:/assets/images/Marketcircle.png[Marketcircle]]
-| link:%20http://www.oasis-open.org[image:/assets/images/oasis-logo.jpg[OASIS]]
-| http://www.open-xchange.com[image:/assets/images/open-xchange.png[Open-Xchange]]
-| http://www.ribose.com[image:/assets/images/ribose_120.jpg[Ribose]]
+| https://www.oasis-open.org[image:/assets/images/oasis-logo.jpg[OASIS]]
+| https://www.open-xchange.com[image:/assets/images/open-xchange.png[Open-Xchange]]
+| https://www.ribose.com[image:/assets/images/ribose_120.jpg[Ribose]]
 
-| http://schedjoules.com[image:/assets/images/schedjoules.jpg[SchedJoules]]
-| link:%20%20http://www.universityofcalifornia.edu/[image:/assets/images/universityofcalifornia.gif[University of California]]
+| https://schedjoules.com[image:/assets/images/schedjoules.jpg[SchedJoules]]
+| https://www.universityofcalifornia.edu/[image:/assets/images/universityofcalifornia.gif[University of California]]
 | https://www.thunderbird.net[image:/assets/images/thunderbirdvl.png[Thunderbird]]
 | https://www.yahoo.com[image:/assets/images/Yahoo.png[Yahoo]]
 
-| http://www.youcanbook.me[image:/assets/images/youcanbookme.png[YouCanBook.me]]
-| link:%20http://www.zimbra.com[image:/assets/images/zimbra1.png[Zimbra]]
-| | 
+| https://www.youcanbook.me[image:/assets/images/youcanbookme.png[YouCanBook.me]]
+| https://www.zimbra.com[image:/assets/images/zimbra1.png[Zimbra]]
+|
+|
+
 |===

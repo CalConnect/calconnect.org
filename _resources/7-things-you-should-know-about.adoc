@@ -6,26 +6,39 @@ type: resources
 
 == 7 Things You Should Know About...
 
+=== General
+
 CalConnect has initiated a new serious of high-level "briefing"
 documents, modeled on the "7 Things You Should Know About" series
 developed by Educause. The goal is to familiarize the reader with a
 topic and offer enough information to understand what the topic means to
 one and why one should care. Our thanks to Educause for the inspiration.
 
-* http://www.calconnect.org/resources/7-things-you-should-know-about/abstract-calendaring-api[*7
-Things You Should Know About The Abstract Calendaring API*] +
+Watch this space for new entries; they will be announced as they become
+available.
+
+=== 7 Things You Should Know About The Abstract Calendaring API
+
+* link:/resources/7-things-you-should-know-about/abstract-calendaring-api[7 Things You Should Know About The Abstract Calendaring API]
+
 "An abstract calendaring API is a model of calendar data and the
 operations upon it that is platform-independent. It specifies the rules
 and constraints on the data elements and ways in which they can be
-created and modified." +
- 
-* http://www.calconnect.org/resources/7-things-you-should-know-about/calendar-and-contacts-sharing[*7
-Things You Should Know About Calendar and Contacts Sharing*] +
+created and modified."
+
+
+=== 7 Things You Should Know About Calendar and Contacts Sharing
+
+* link:/resources/7-things-you-should-know-about/calendar-and-contacts-sharing[7 Things You Should Know About Calendar and Contacts Sharing]
+
 "Calendar and Contacts Sharing is the process of sharing CalDAV
-calendars and CardDAV address books between users. " +
- 
-* *http://www.calconnect.org/resources/7-things-you-should-know-about/consensus-scheduling[7
-Things You Should Know About Consensus Scheduling]* +
+calendars and CardDAV address books between users. "
+
+
+=== 7 Things You Should Know About Consensus Scheduling
+
+* link:/resources/7-things-you-should-know-about/consensus-scheduling[7 Things You Should Know About Consensus Scheduling]
+
 "Consensus scheduling is the process whereby a group comes to agreement
 on when (and maybe where) to hold a meeting or carry out a task, or
 identifies the "best" time – maximizing participation, minimizing
@@ -34,10 +47,13 @@ scheduling minimizes the overhead of achieving consensus or identifying
 the most favorable time(s) by allowing the potential participants to
 observe the responses of the other voters, and to use any scheduling
 they may have to adjust their response for the benefit of the entire
-group." +
- 
-* *http://www.calconnect.org/resources/7-things-you-should-know-about/digital-travel-itineraries[7
-Things You Should Know About Digital Travel Itineraries]* +
+group."
+
+
+=== 7 Things You Should Know About Digital Travel Itineraries
+
+* link:/resources/7-things-you-should-know-about/digital-travel-itineraries[7 Things You Should Know About Digital Travel Itineraries]
+
 "Itineraries typically contain information about planned routes,
 schedules, events and tasks for a trip, often divided up into several
 "segments" to help planning. A key aspect of itineraries is that
@@ -47,17 +63,23 @@ of computer system (for example desktop computers, mobile devices, GPS
 devices, etc.) to manipulate the data, manage it and present it to users
 in many useful ways. Itineraries can often involve multiple users, and
 often involve items with a "time-based" element to them, such as when a
-travel segment is expected to start or end." +
- 
-* *http://www.calconnect.org/resources/7-things-you-should-know-about/push[7
-Things You Should Know About PUSH]* +
+travel segment is expected to start or end."
+
+
+=== 7 Things You Should Know About PUSH
+
+* link:/resources/7-things-you-should-know-about/push[7 Things You Should Know About PUSH]
+
 "Push notifications allow servers to notify clients of changes to the
 stored data in a timely manner – possibly as soon as the changes occur –
 rather than waiting for the client to ask the server about any changes
-(polling)." +
- 
-* *http://www.calconnect.org/resources/7-things-you-should-know-about/tasks[7
-Things You Should Know About Tasks]* +
+(polling)."
+
+
+=== 7 Things You Should Know About Tasks
+
+* link:/resources/7-things-you-should-know-about/tasks[7 Things You Should Know About Tasks]
+
 "A "task" is a representation of an item of work assigned to an
 individual or organization. In
 http://www.ietf.org/rfc/rfc5545.txt[RFC5545], Internet Calendaring and
@@ -67,5 +89,3 @@ calendar components, groupings of component properties and possibly
 assignment. Tasks (aka VTODO's) have been part of the iCalendar
 specification since it was adopted in 1998 as RFC 2445."
 
-Watch this space for new entries; they will be announced as they become
-available.  

@@ -298,7 +298,7 @@ CalConnect Interoperability Test Event Report].
 
 *Please Note*: In 2011 and 2012 CalConnect did not produce separate
 reports on its Interoperability Test Events as the reports were included
-in the newsletter link:minutes.shtml[CalConnect _Minutes_], which is no
+in the newsletter link:minutes[CalConnect _Minutes_], which is no
 longer published.
 
 *October 4-6, 2010*: Hosted by IBM/Lotus in conjunction with Roundtable

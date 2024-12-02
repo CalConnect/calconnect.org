@@ -55,7 +55,7 @@ Phone: +44 (0)115 993 2350
   - *Local Transit:* Nottingham has a tram system (https://www.thetram.net/tickets/one-off-tickets[Tickets Info]).
 
 == Lodging
-- https://all.accor.com/hotel/8061/index.en.shtml[Mercure Nottingham City Centre George Hotel]
+- https://all.accor.com/hotel/8061/index.en[Mercure Nottingham City Centre George Hotel]
 - https://www3.hilton.com/en/hotels/united-kingdom/hilton-nottingham-EMANOHN/index.html[Nottingham Hilton]
 - Other options nearby.
 

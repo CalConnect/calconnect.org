@@ -14,7 +14,7 @@ make a preliminary version available to other Standards Developement
 Organizations prior to formal publication.
 
 Documents made available for public review and comment are announced on
-the CalConnect http://calconnect.org/pubcommentlist.shtml[Public Review
+the CalConnect http://calconnect.org/pubcommentlist[Public Review
 and Comment Mailing List] and all comments should be posted to that
 list. This link introduces the lists and allows individuals to subscribe
 to it.

@@ -26,16 +26,18 @@ the Executive Director (e-mail below).#
 
 ==== Google Docs
 
-[.small]#CalConnect used Etherpads for several years; they were a
+CalConnect used Etherpads for several years; they were a
 lightweight collaboration tool which allowed multiple people to
 collaborate in creating and editing a document interactively and
 synchronously. In 2017 however CalConnect switched to use Google Docs
-for a simillar purpose and we maintain a Google Docs aree.  You may
+for a similar purpose and we maintain a Google Docs area.  You may
 request an invitation to the
 https://drive.google.com/drive/folders/0B-nDsRTuxMNveFNYS3pVT1ljRGc[CalConnect
-Google Docs Facility] by contacting the Executive Director.  Note that
+Google Docs Facility] by contacting the Executive Director.
+
+Note that
 you must have a Google userid and be invited to join this facility to
-make use of it.#
+make use of it.
 
 ==== Github
 
@@ -58,11 +60,11 @@ the Executive Director.#
 ==== Other Links
 
 These are largely folders in the
-https://calconnect.box.com/v/docrep[CalConnect Document Repository]. 
+https://calconnect.box.com/v/docrep[CalConnect Document Repository].
 You will need the access credentials as noted above.  Below, the desired
 folder is identified but a direct link will not work; instead enter
 using the credentials obtained from the Executive Director and navigate
-to the desired folders and contents. 
+to the desired folders and contents.
 
 * [.small]#*Member Directories* folder - Member representatives for each
 member of CalConnect, with contact information.#

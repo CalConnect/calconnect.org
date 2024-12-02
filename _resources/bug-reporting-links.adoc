@@ -8,101 +8,61 @@ type: resources
 
 _Page last updated 05 October 2015_
 
- 
+The following links and information have been contributed by vendor and open
+source or academic developer members to provide a "one stop" source for bug
+reporting for calendaring systems and applications developed by members of the
+Consortium. We will periodically check with the contributing members to ensure
+the information is as up to date as possible; however if you notice that an
+entry does not work or appears to have been changed, please notify us at
+mailto:info@calconnect.org[info@calconnect.org].
 
-The following links and information have been contributed by vendor and
-open source or academic developer members to provide a "one stop" source
-for bug reporting for calendaring systems and applications developed by
-members of the Consortium. We will periodically check with the
-contributing members to ensure the information is as up to date as
-possible; however if you notice that an entry does not work or appears
-to have been changed, please notify is at info@calconnect.org. +
- 
-
-[cols=",,,",]
+[cols="a,a,a",options="header"]
 |===
-|*Vendor* |*Product* |*Links* |*Comments*
-
-|  | | |
+|Vendor |Product |Reporting
 
 |*1&1 Internet AG* |WEB.DE Kalender, GMX Kalendar,
 http://mail.com[mail.com] Organizer, http://GMX.com[GMX.com] Organizer
-|carddavsupport@1und1.de |1&1 does not yet have an external bug tracking
-system; please use this e-mail address to report bugs related to
-contacts and CardDAV
+|1&1 does not yet have an external bug tracking system; please use this
+mailto:carddavsupport@1und1.de[e-mail address] to report bugs related to
+contacts and CardDAV.
 
-|  | | |
+|*BusyMac* |BusyCal and BusyContacts
+|BusyMac does not have a formal public-facing site for reporting/tracking bugs
+at this time. Please send any bug reports to the mailto:support@busymac.com[support e-mail address].
 
-|*BusyMac* |BusyCal and BusyContacts |support@busymac.com |BusyMac does
-not have a formal public-facing site for reporting/tracking bugs at this
-time. Please send any bug reports to the support e-mail address.
+|*CMU* |http://cyrusimap.org[Cyrus] | Report bugs https://git.cyrus.foundation/maniphest/[here]
 
-|  | | |
+|*FastMail* | http://www.fastmail.com[FastMail] |File support
+ticket at http://www.fastmail.com/help/[Fastmail Help]; will be routed to
+appropriate developer.
 
-|*CMU* |Cyrus |http://cyrusimap.org |Main page
+|*fruux* |http://sabre.io[sabre/dav]
+|
+Follow link:http://sabre.io/support/[Support] to the various trackers and support forums.
 
-|  |  |https://git.cyrus.foundation/maniphest/ |Report bugs here
+|*Milton* |Milton |File issues on https://github.com/miltonio/milton2/issues[GitHub]
 
-|  | | |
+|*Mozilla* |http://www.mozilla.org/projects/calendar/[Lightning]
+|
+https://bugzilla.mozilla.org/describecomponents.cgi?product=Calendar[Browse bugs for Lightning]
 
-|*FastMail* |FastMail |http://www.fastmail.com/help/ |File support
-ticket; will be routed to appropriate developer.
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar[File bugs for Lightning]
 
-|  | | |
+|*Open-Xchange* |https://open-xchange.com[Open-Xchange]
+|https://bugs.open-xchange.com/enter_bug.cgi?product=OX%20App%20Suite&component=DAV[Enter bugs here.]
 
-|*fruux* |sabre/dav
-|link:htp://sabre.io/support/[http://sabre.io/support/] |Follow from the
-link provided to the various trackers and support forums
+|*Oracle* |Oracle Communications Calendar Server
+|https://community.oracle.com/community/fusion_middleware/webcenter/e-mail__calendar__%26_collaboration/oracle_communications_calendar_server[Enter bugs here.]
 
-|  | | |
+|*SchedJoules* |http://www.schedjoules.com[SchedJoules] | http://www.schedjoules.com/about/contact/[Contacts page], or send mailto:support@schedjoules.com[Comments and Remarks].
 
-|*Milton* |Milton |https://github.com/miltonio/milton2/issues | 
+|*SmoothSync* | https://smoothsync.org[SmoothSync], CalDAV-Sync, CardDAV-Sync |
+Contact mailto:support@dmfs.org[support@dmfs.org] or mailto:support@smoothsync.org[support@smoothsync.org]. CalConnect Members may also e-mail Marten directly.
 
-|  | | |
+|*Zimbra* | https://www.zimbra.com[Zimbra Calendar Server]
+|
+https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Calendar%20-%20Server[Reporting CalDAV or iMIP bugs]
 
-|*Mozilla* |Lightning
-|https://bugzilla.mozilla.org/describecomponents.cgi?product=Calendar
-|Browse bugs for Lightning
+|https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Contacts%20-%20Server[Reporting CardDAV bugs]
 
-|  |  |https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar |File
-bugs for Lightning
-
-| | | |
-
-|  |  |http://www.mozilla.org/projects/calendar/ |Lightning home page
-
-|  | | |
-
-|*Open-Xchange* |Open-Xchange
-|https://bugs.open-xchange.com/enter_bug.cgi?product=OX%20App%20Suite&component=DAV
-| 
-
-|  | | |
-
-|*Oracle* |Oracle Communicatons Calendar Server
-|https://community.oracle.com/community/fusion_middleware/webcenter/e-mail__calendar__%26_collaboration/oracle_communications_calendar_server
-| 
-
-|  | | |
-
-|*SchedJoules* |SchedJoules |http://www.schedjoules.com/about/contact/
-|Reporting bugs
-
-|  |  |support@schedjoules.com |Comments and Remarks
-
-|  | | |
-
-|*SmoothSync* |SmoothSync, CalDAV-Sync, CardDAV-Sync |support@dmfs.org
-or support@smoothsync.org |CalConnect Members may also e-mail Marten
-directly
-
-|  | | |
-
-|*Zimbra* |Calendar Server
-|https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Calendar%20-%20Server
-|Reporting CalDAV or iMIP bugs
-
-|  |Contacts Server
-|https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Contacts%20-%20Server
-|Reporting CardDAV bugs
 |===
