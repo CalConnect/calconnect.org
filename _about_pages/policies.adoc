@@ -13,7 +13,7 @@ a California Nonprofit Mutual Benefit Corporation. The Consortium is a
 registered 501(c)6 Nonprofit Tax-exempt organization.  CalConnect^SM^ is
 a Service Mark of the Consortium.
 
-https://www.calconnect.org/sites/default/files/documents/TCSC%20Bylaws%20Revision%209%202020-02-21.pdf[*Bylaws*] +
+link:/sites/default/files/documents/TCSC%20Bylaws%20Revision%209%202020-02-21.pdf[*Bylaws*] +
 The Bylaws of The Calendaring and Scheduling Consortium, adopted
 February 27, 2004; amended May 16, 2005, April 4, 2008, July 25, 2008,
 July 9, 2010, April 11, 2014, August 8, 2014, April 14, 2017, November
@@ -22,7 +22,7 @@ July 9, 2010, April 11, 2014, August 8, 2014, April 14, 2017, November
 link:policies/ipr-policy[*IPR Policy*] +
 Intellectual Property Rights policy.
 
-https://www.calconnect.org/about/policies/copyright-licensing[*Copyright
+link:/about/policies/copyright-licensing[*Copyright
 and Licensing*] +
 Copyright and Licensing Information for Published Material.
 

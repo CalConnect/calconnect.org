@@ -16,13 +16,13 @@ venue. Registration for the Conference is first-come, first-served.
 Although attendance at CalConnect Conferences is generally limited to
 CalConnect member representatives, a prospective member may send one or
 more
-https://www.calconnect.org/events/events-activities/observers[Observers]
+link:/events/events-activities/observers[Observers]
 to a single Conference to determine whether or not it wishes to join.
 Observers pay the same registration fee as regular participants and may
 participate in all Conference activities, but may not vote.
 
 Additionally, organizations with which CalConnect has a liaison
-relationship may send representatives to CalConnect Conferences. 
+relationship may send representatives to CalConnect Conferences.
 Liaison representatives pay the same registration fee as regular
 participants and may participate in all CalConnect activities, but may
 not vote.
@@ -37,7 +37,7 @@ agreed with the host before the Conference is announced.
 The session schedule for the week and topical agendas for the Conference
 sessions are posted on that event's logistics page.  Each day begins
 with morning coffee at 0830-0900, followed by sessions in the morning,
-lunch at 1230-1330, and sessions in the afternoon, ending at 1730. 
+lunch at 1230-1330, and sessions in the afternoon, ending at 1730.
 Morning and afternoon breaks with refreshments are from 1030-1100 and
 1530-1600.
 
@@ -49,12 +49,12 @@ testing and joint work on projects.
 
 CalConnect may also schedule optional Tutorial sessions on calendaring
 and schedule (and related) standards and specifications on Monday
-morning if there is interest in them. 
+morning if there is interest in them.
 
 CalConnect provides morning coffee, lunch and breaks throughout the
 Conference. There is also a Welcome Reception the first evening,
 generally provided by the host, and a group dinner the evening prior to
-the last day, provided by CalConnect. 
+the last day, provided by CalConnect.
 
 Registration in advance is required for all individuals participating in
 CalConnect Conferences, although if desired, payment may be done at the

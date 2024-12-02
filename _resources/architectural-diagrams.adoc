@@ -13,7 +13,7 @@ Diagrams linked from this page are Copyright by The Calendaring and
 Scheduling Consortium whether or not any copyright statement appears on
 the diagram itself, and are made available under a Creative Commons
 license; see
-https://www.calconnect.org/about/policies/copyright-licensing[Copyright
+link:/about/policies/copyright-licensing[Copyright
 and License Information].
 
 link:/architectures/Calendaring%20Architecture.pdf[*Calendaring Service
