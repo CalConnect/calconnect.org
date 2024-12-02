@@ -1,4 +1,7 @@
-= Calconnect
+= CalConnect public website
+
+This is the source code for the CalConnect public website, hosted at
+https://www.calconnect.org.
 
 == Development
 
