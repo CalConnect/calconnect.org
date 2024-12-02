@@ -11,7 +11,7 @@ type: news
 time changes:* 
 http://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes. 
 The full text of the Advisory Notice is available at
-https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[Advisory
+link:/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[Advisory
 Notice]. +
  +
 *August 6, 2012* +

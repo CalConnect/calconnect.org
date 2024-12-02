@@ -6,15 +6,15 @@ type: about
 
 == CalConnect Major Work Projects
 
-*What we are working on now – major projects underway in CalConnect
+What we are working on now – major projects underway in CalConnect
 Technical Committees – become a member and help make these things
-happen:*
+happen.
 
 
 [[work-projects]]
 === Abstract Calendaring API
 
-*link:/7_things_api.shtml[Abstract Calendaring API]* - We need a full
+link:/7_things_api.shtml[*Abstract Calendaring API*] - We need a full
 "CRUD" (Create/Read/Update/Delete) Abstract Application Programming
 Interface and Calendaring Architecture for Calendaring and Scheduling.
 
@@ -82,7 +82,7 @@ Calendar, Yahoo!, AOL, and so forth.
 system-independent calendaring and scheduling operations APIs for web
 services - it's long past time"
 
-Calendaring (and scheduling) should be avaiable as a service on any
+Calendaring (and scheduling) should be available as a service on any
 platform with a calendaring system installed, much like middleware. To
 make this work and expose the calendaring system to other applications,
 widgets, and so forth, we need a platform-independent and
@@ -93,10 +93,11 @@ WS-Calendar below.
 
 ==== Consensus Scheduling (VPOLL)
 
-*link:/7_things_consensus_scheduling.shtml[Consensus Scheduling]
-(VPOLL)* - " TimeTrade, Doodle, WhenisGood do it, it should be
-interoperable - scheduling driven by the attendees who get to vote on
-the best times and locations for group events"
+link:/7_things_consensus_scheduling.shtml[*Consensus Scheduling (VPOLL)*]
+
+"TimeTrade, Doodle, WhenisGood do it, it should be interoperable - scheduling
+driven by the attendees who get to vote on the best times and locations for
+group events"
 
 Consensus scheduling involves using a poll-based or vote-based mechanism
 to determine the date, time, location of an event or a task. This has
@@ -140,7 +141,7 @@ images
 
 link:/tc-eventpub.shtml[TC EVENTPUB].
 
- 
+
 
 ==== iSCHEDULE
 
@@ -187,7 +188,7 @@ their WS-Calendar technical committee and our technical committees.
 
 ==== PUSH for CalDAV
 
-*link:/7_things_push.shtml[PUSH for CalDAV] (and CardDAV)* - "Extend
+link:/7_things_push.shtml[*PUSH for CalDAV (and CardDAV)*] - "Extend
 CalDAV and CardDAV with standardized support for PUSH notifications"
 
 At present CalDAV and CardDAV clients have to poll the server at regular
@@ -204,7 +205,7 @@ and clients.
 
 ==== Tasks (VTODOs)
 
-*link:/7_things_tasks.shtml[Tasks] (VTODOs)* - "Extend the functionality
+link:/7_things_tasks.shtml[*Tasks (VTODOs)*] - "Extend the functionality
 of VTODOs to support needs such as project management, smart power grids
 and business task scheduling"
 

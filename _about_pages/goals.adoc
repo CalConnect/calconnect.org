@@ -9,10 +9,10 @@ type: about
 CalConnect conducts a variety of activities and offerings in support of
 our goals Consortium as detailed below. Some of these activities are
 carried out by directly by CalConnect (such as news items), while others
-are accomplished by representatives of members in activities such as 
+are accomplished by representatives of members in activities such as
 CalConnect Conferences, Technical Committees, and so forth. T
 
-=== Promote Calendaring and Scheduling
+== Promote Calendaring and Scheduling
 
 CalConnect will promote the general awareness of interoperable
 Calendaring and Scheduling, as well as the focus on such implementations
@@ -29,12 +29,12 @@ include
 * Speaking opportunities at conferences and symposia
 * Publicity events and releases concerning Interoperability Testing
 
-=== Interoperability Testing and Conformance
+== Interoperability Testing and Conformance
 
 As of 2019, CalConnect combines testing opportunities into its regular
 conferences.
 
-=== Design and implementation of Calendaring and Scheduling Standards
+== Design and implementation of Calendaring and Scheduling Standards
 
 In addition to providing a vehicle for demonstrating that Calendaring
 and Scheduling products, applications and tools correctly implement the
@@ -51,7 +51,7 @@ user community at large for both standards and implementations
 * Other activities as proposed and conducted by Consortium members via
 Technical Committees
 
-=== Promote collaboration among members
+== Promote collaboration among members
 
 CalConnect provides a vehicle for assisting and promoting collaboration
 among its members in the area of Calendaring and Scheduling. Major areas
@@ -65,21 +65,21 @@ technologies and standards
 * Identification and quantification of new areas of Calendaring and
 Scheduling standards and implementations
 
-=== Promote the common goals of members
+== Promote the common goals of members
 
 CalConnect will establish a member forum devoted to establishing and
 promoting the common goals of members, in particular
 
- 
-
 * Establish common "messages" of the members as a basis for promotional
 materials and publicity on Calendaring and Scheduling
+
 * Provide a member forum where discussion of Calendaring and Scheduling
 between members of all types can flourish
+
 * Explore the need for and value of a regular Calendaring and Scheduling
 conference to be offered by the Consortium
 
-=== Support the common goals of members
+== Support the common goals of members
 
 CalConnect will actively help to support the common goals of its members
 as codified and agreed by its member forums and activities, so long as

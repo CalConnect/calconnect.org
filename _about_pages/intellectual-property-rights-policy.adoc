@@ -8,18 +8,18 @@ type: about
 
 _As of June 2019_
 
-*1. Introduction* +
- +
+== 1. Introduction
+
 CalConnect provides direction and influence by identifying and stating
 needs and requirements and by developing and publishing open standards
 itself,  as well as progressing specifications into appropriate other
-standards-setting organizations.  CalConnect also actively particiipates
+standards-setting organizations.  CalConnect also actively participates
 in the work of other standards bodies via liaison agreements.   As a
 proponent and developer of open standards, CalConnect has adopted a
 patent policy and IPR practices that align with major international
 standardization bodies including ISO, IEC and ITU.
 
-*2. IPR Policy and guidelines*
+== 2. IPR Policy and guidelines
 
 https://standards.calconnect.org/csd/cc-10003.html[CC/DIR 10003]
 provides the CalConnect patent policy, which mirrors closely the "Common
@@ -42,8 +42,8 @@ CalConnect Intellectual Property RIghts Policy.
 
 This alignment provides assurance to organizations and partners who work
 with CalConnect, knowing that IPR practices at CalConnect are
-international best practices. +
- +
+international best practices.
+
 It is the policy of CalConnect that no confidential material is to be
 discussed at or during CalConnect activities. All information provided
 or discussed in CalConnect activities is presumed to be public
@@ -56,8 +56,8 @@ available and will be posted on the CalConnect web site. See
 https://standards.calconnect.org/csd/cc-10006.html[CD/DIR 10006] Section
 4.1.
 
-*3. Contributions* +
- +
+== 3. Contributions
+
 The term "contribution" refers to material provided by a member of
 CalConnect during any activity, and may also refer to to material
 provided by others on a Consortium external discussion list.
@@ -72,10 +72,10 @@ use. Individuals participating in the activities of CalConnect are
 responsible for determining that material which they contribute is made
 available by their organizations in accordance with this provision.  See
 https://standards.calconnect.org/csd/cc-10006.html[CD/DIR 10006] Section
-4.2. +
- +
-*4. Copyright Provisions* +
- +
+4.2.
+
+== 4. Copyright Provisions
+
 If any part of a contribution is or may be subject to copyright, the
 contributor and his or her organization, and any other owners of any
 proprietary rights in the contribution, grant an unlimited perpetual,
@@ -86,4 +86,4 @@ to prepare derivative works that are based on or incorporate all or part
 of the contribution, the license to such derivative works to be of the
 same scope as the license of the original contribution.  See
 https://standards.calconnect.org/csd/cc-10006.html[CD/DIR 10006] Section
-5.3. 
+5.3.

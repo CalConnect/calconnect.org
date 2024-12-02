@@ -25,24 +25,24 @@ sessions.
 * link:#Workshop[Workshop]
 
 [[Adhoc]]
-=== Ad Hoc Committee
+== Ad Hoc Committee
 
 An impromptu and by intent short-lived committee formed to explore a
-possibilty or address an issue, where the duration or purpose does not
+possibility or address an issue, where the duration or purpose does not
 seem to warrant a more formal approach.  Ad Hoc Committees may also be
-formed in non-technical areas.  
+formed in non-technical areas.
 
 [[BoD]]
-=== Board of Directors
+== Board of Directors
 
-The http://about/board-directors[Board of Directors] consists of up to
+The link:/about/board-directors[Board of Directors] consists of up to
 seven elected  Directors which may be but need not be representatives of
 CalConnect Members. The Board is responsible for the governance of The
 Calendaring and Scheduling Consortium, Inc. (that is, the corporation
 itself) in accordance with the http://calconnect.org/bylaws.pdf[Bylaws].
 
 [[BOF]]
-=== [#BOF]####BOF
+== [#BOF]####BOF
 
 A BOF (Birds of a Feather) session is an informal discussion on any area
 of interest to the group or a substantial part of it. BOFs may be
@@ -61,7 +61,7 @@ formation of an Provisional Committee or other follow-on activity such
 as a link:#Workshop[Workshop].
 
 [[Conference]]
-=== CalConnect Conference
+== CalConnect Conference
 
 CalConnect holds two or three CalConnect Conferences (sometimes just
 "Conferences") each year.  Conferences are currently 4 days, either
@@ -69,35 +69,34 @@ Monday-Thursday or Tuesday-Friday.  The Conference is are open to all
 member representatives; non-members may attend as
 link:#Observer[Observers]. In some cases a Conference may also involve a
 public link:#Workshop[Workshop] which will also allow any non-member to
-participate upon registration. +
- +
-CalConnect Conferences are where link:#PC[Provisional Committees] report
-on their findings and where link:#TC[Technical Committees] report on
-their work, hold discussions and resolve outstanding issues. Conferences
-also provide an opportunity to foster new work and ideas through BOFs
-and Workshops, and a general plenary session. See
-http://calconnect.org/conferences.shtml[CalConnect Conferences] for more
-information. +
+participate upon registration.
+
+CalConnect Conferences are where link:#PC[Provisional Committees] report on
+their findings and where link:#TC[Technical Committees] report on their work,
+hold discussions and resolve outstanding issues. Conferences also provide an
+opportunity to foster new work and ideas through BOFs and Workshops, and a
+general plenary session. See link:/conferences[CalConnect Conferences] for more
+information.
 
 [[Consortium]]
-=== Consortium (The Calendaring and Scheduling Consortium)
+== Consortium (The Calendaring and Scheduling Consortium)
 
 The Calendaring and Scheduling Consortium is the full name of
-CalConnect; it is incorporated in California ias a 501(c)6 Non-Profit
+CalConnect; it is incorporated in California ias a 501 (c) 6 Non-Profit
 Corporation. CalConnect is a Service Mark of the Consortium. Generally
-the organization is simply referred to as "CalConnect". +
+the organization is simply referred to as "CalConnect".
 
-=== Interoperability Test Event
+== Interoperability Test Event
 
 As of 2019 CalConnect is not holding separate Interoperability Test
 Events.  Testing opportunities are integrated as working sessions into
-the Conferences or the day preceeding or following a Conference.  If the
+the Conferences or the day preceding or following a Conference.  If the
 demand for testing increases we will look into separate testing
-opportunities once again. +
+opportunities once again.
 
-=== Member
+== Member
 
-A http://membership[Member] of CalConnect is normally an organization
+A link:/membership[Member] of CalConnect is normally an organization
 (e.g. vendor, company, governmental organization, academic institution)
 except in the case of an Individual Member. Member Representatives are
 individuals from a member who represent their organization in CalConnect
@@ -105,57 +104,57 @@ activities. Each member has a Primary Representative who is responsible
 for the member's involvement in CalConnect, and who votes on behalf of
 the member when necessary.
 
-=== Observer
+== Observer
 
-An http://events/events-activities/observers[Observer] is an individual
+An link:/events/events-activities/observers[Observer] is an individual
 from a non-member who is attending a link:#Conference[CalConnect
 Conference] to determine whether or not his or her organization should
 become a link:#Member[member]. An organization may send one or more
-observers to a single CalConnect Conference. +
+observers to a single CalConnect Conference.
 
-=== Provisional Committee
+== Provisional Committee
 
 A Provisional Committee (or "PC") is established to explore a problem
 area, issue, or potential work area, often as a result of a BOF or
-Workshop. It is made up of representatives from interested members. +
- +
+Workshop. It is made up of representatives from interested members.
+
 A PC is normally established at the end of a Conference and intended to
 report out at the next Conference with the goal of recommending
 appropriate action to CalConnect (e.g. create a Technical Committee,
 conduct a Workshop, etc.). The work of a PC may be extended when it has
-not been able to complete its assigned task. +
+not been able to complete its assigned task.
 
-=== Roundtable
+== Roundtable
 
-Obsolete name for a link:#Conference[CalConnect Conference]. +
+Obsolete name for a link:#Conference[CalConnect Conference].
 
-=== Technical Committee (TC)
+== Technical Committee (TC)
 
-http://about/technical-committees[Technical Committees] are the
+link:/about/technical-committees[Technical Committees] are the
 technical working groups of CalConnect. A Technical Committee is
 established with a specific charter (scope of work), time frame,
 deliverables and expected schedule, and is intended to disband when its
-scope of work is completed. +
- +
+scope of work is completed.
+
 Technical Committees work in between CalConnect events, and report on
 the status of their work at each link:#Conference[CalConnect
 Conference]. The format and content of TC sessions is up to the
 Technical Committees and may include presentations, a status update,
-open discussion on outstanding issues, and so forth. +
+open discussion on outstanding issues, and so forth.
 
-=== TCC
+== TCC
 
 The Technical Coordination Committee (TCC) is a standing committee made
 up of the Chairs of all link:#TC[Technical Committees] and
 link:#PC[Provisional Committees]. The TCC is chaired by the Chair of the
 TCC and is responsible to the link:#BoD[Board of Directors] for the
-day-to-day conduct of technical work in CalConnect. +
- +
+day-to-day conduct of technical work in CalConnect.
+
 The TCC meets weekly by conference call to coordinate the activities of
 all TCs and PCs . It distributes a weekly e-mail to the membership
-identifying the next conference calls for each committee. +
+identifying the next conference calls for each committee.
 
-=== Workshop
+== Workshop
 
 A workshop is a way for CalConnect members to present issues they feel
 are important in the world of Calendaring and Scheduling and related
@@ -164,16 +163,16 @@ such problems. Unlike a link:#BOF[BOF], workshops are planned in advance
 and typically last two hours or more (in some cases they have run for an
 entire day). They typically involve some form of introductory
 presentation, followed by open discussion on the problems, and work on
-ideas on how to solve those problems. +
- +
+ideas on how to solve those problems.
+
 Workshops often lead to the creation of a link:#PC[Provisional
 Committee"] to examine the issue and scope the charter and work of a
-potential link:#TC[Technical Committee] to work in the area. +
- +
+potential link:#TC[Technical Committee] to work in the area.
+
 In some cases CalConnect holds "Public" Workshops, where additional
 publicity is given to the topic for the purpose of interesting
 non-members to participate and shape the discussion. This benefits
 CalConnect by broadening the discussion on a particular topic to include
 others who may have more detailed domain experience, and to help bring
 such experience into CalConnect itself. Such public workshops are open
-to non-members by invitation. 
+to non-members by invitation.

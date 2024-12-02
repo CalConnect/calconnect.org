@@ -51,7 +51,7 @@ changes*] +
 Press Release about CalConnect's Advisory Notice concerning the EU
 Summer Time Proposal +
  +
-https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[*CalConnect
+link:/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[*CalConnect
 Advisory Notice on EU Summer Time Proposal*] +
  +
 This document, developed shortly after the EU announcement, is an 

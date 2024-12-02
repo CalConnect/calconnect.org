@@ -27,78 +27,122 @@ President of CalConnect.
 | https://www.oasis-open.org/[image:https://www.calconnect.org/sites/default/files/documents/oasis-logo.png[Oasis Logo]]
 |===
 
+== Internet Engineering Task Force (IETF)
 
-http://www.ietf.org[IETF] - Internet Engineering Task Force
+Website: http://www.ietf.org[IETF]
 
-* Ongoing working relationship in particular with
-* https://datatracker.ietf.org/wg/calext/about/[IETF CALEXT WG] -
-Calendar Extensions Working Group
-* IETF TZDIST-bis WG - Discussions of Extensions to The Time Zone Data
-Distribution Service and Time Zone Information Forma Working Group
+Ongoing working relationship with:
 
-https://www.iso.org/[ISO] - International Organization for
-Standardization
+https://datatracker.ietf.org/wg/calext/about/[IETF CALEXT WG]:: Calendar Extensions Working Group
 
-* Contributory Liaisons with ISO Commmittees
-* Ongoing work towards joint publication
-* http://www.iso.org/committee/6935430.html[ISO/PC 317] - Consumer
-Privacy by Design
-** Category A Liaison
-* http://www.iso.org/committee/48104.html[ISO/TC 37] - Language and
-Terminology
-** Category A Liaison
-** http://www.iso.org/committee/297592.html[ISO/TC 37/SC 4] - Language
-Resource Management
-*** Category A Liaison
-** http://www.iso.org/committee/654486.html[ISO/TC 37/SC 5] -
-Translation, interpreting and related technology
-*** Category A Liaison
-* http://www.iso.org/committee/48750.html[ISO/TC 46] - Information and
-documentation
-** Category A LIaison
-** https://www.iso.org/committee/48798.html[ISO/TC 46/SC 4] - Technical
-Interoperability
-*** Category A Liaison
-** https://www.iso.org/committee/48836.html[ISO/TC 46/SC 9] -
-Identification and description
-*** Category A Liaison
-*** ISO/TC 46/SC 9/WG 15 - Bibliography working group
-**** Current work
-* http://www.iso.org/committee/53186.html[ISO/TC 154] - Processes, data
-elements and documents in commerce, industry and administration
-** Category A Liaison
-** ISO/TC 154/WG 4 - Electronic layout key
-*** Current work
-** ISO/TC 154/WG 5 - Representation of dates and times
-*** Current work
-* https://committee.iso.org/home/tc211[ISO/TC 211] - Geographic
-Information / Geomatics
-** Category A Liaison
-** http://www.isotc211.org/organizn.htm#WG7[ISO/TC 211/WG 7] -
-Information Communities
-*** Current work
-* http://www.iso.org/committee/45306.html[ISO/IEC JTC1/SC 27] - Security
-techniques
-** Category A Liaison
+IETF TZDIST-bis WG::
+Discussions of Extensions to The Time Zone Data Distribution Service and Time
+Zone Information Forma Working Group
 
-https://www.itu.int/[ITU] - International Telecommunications Union
 
-* ITU is the United Nations specialized agency for information and
-communication technologies
-* CalConnect has a External Cooperation Agreement with
-https://www.itu.int/en/ITU-T/Pages/default.aspx[ITU-T],  the
-standardization arm of ITU
+== International Organization for Standardization (ISO)
 
-https://www.m3aawg.org/[M3AAWG] - Messaging Malware Mobile Anti-Abuse
-Working Group
+Website: https://www.iso.org/[ISO]
+
+Liaison organization with ISO Committees:
+[cols="1a,2a,1a,2a", options="header"]
+|===
+| ISO Committee | Name | Type of Liaison | Work Involved
+
+| http://www.iso.org/committee/6935430.html[ISO/PC 317]
+| Consumer Privacy by Design
+| Category A Liaison
+|
+
+| http://www.iso.org/committee/48104.html[ISO/TC 37]
+| Language and Terminology
+| Category A Liaison
+|
+
+| http://www.iso.org/committee/297592.html[ISO/TC 37/SC 4]
+| Language Resource Management
+| Category A Liaison
+|
+
+| http://www.iso.org/committee/654486.html[ISO/TC 37/SC 5]
+| Translation, interpreting and related technology
+| Category A Liaison
+|
+
+| http://www.iso.org/committee/48750.html[ISO/TC 46]
+| Information and documentation
+| Category A Liaison
+|
+
+ISO/TC 46/WG 3 - Conversion of written languages
+
+* https://www.iso.org/standard/78143.html[ISO 24229:2022 Information and documentation -- Codes for written language conversion systems]
+
+| https://www.iso.org/committee/48798.html[ISO/TC 46/SC 4]
+| Technical Interoperability
+| Category A Liaison
+|
+
+| https://www.iso.org/committee/48836.html[ISO/TC 46/SC 9]
+| Identification and description
+| Category A Liaison
+|
+
+ISO/TC 46/SC 9/WG 15 - Bibliography
+
+* https://www.iso.org/standard/72642.html[ISO 690:2021 Information and documentation -- Guidelines for bibliographic references and citations to information resources]
+
+| http://www.iso.org/committee/53186.html[ISO/TC 154]
+| Processes, data elements and documents in commerce, industry and administration
+| Category A Liaison
+|
+
+ISO/TC 154/WG 4 - e-Documents
+
+ISO/TC 154/WG 5 - Representation of dates and times
+
+* https://www.iso.org/standard/70907.html[ISO 8601-1:2019 Date and time -- Representations for information interchange -- Part 1: Basic rules]
+* https://www.iso.org/standard/70908.html[ISO 8601-2:2019 Date and time -- Representations for information interchange -- Part 2: Extensions]
+* https://www.iso.org/standard/81801.html[ISO 8601-1:2019/Amd 1:2022 Date and time -- Representations for information interchange -- Part 1: Basic rules -- Amendment 1]
+* https://www.iso.org/standard/86124.html[ISO 8601-2:2019/Amd 1:2024 Date and time -- Representations for information interchange -- Part 2: Extensions -- Amendment 1]
+* https://www.iso.org/standard/77019.html[ISO 34000:2023 Date and time -- Vocabulary]
+
+| https://committee.iso.org/home/tc211[ISO/TC 211]
+| Geographic Information / Geomatics
+| Category A Liaison
+| ISO/TC 211/WG 7 - Information Communities
+
+* https://www.iso.org/standard/87753.html[ISO 19135:2024 Geographic information -- Procedures for item registration]
+
+| http://www.iso.org/committee/45306.html[ISO/IEC JTC 1/SC 27]
+| Information security, cybersecurity and privacy protection
+| Category A Liaison
+|
+
+|===
+
+
+== International Telecommunications Union (ITU)
+
+Website: https://www.itu.int/[ITU]
+
+ITU is the United Nations specialized agency for information and communication
+technologies.
+
+CalConnect has an External Cooperation Agreement with
+https://www.itu.int/en/ITU-T/Pages/default.aspx[ITU-T], the standardization arm
+of ITU.
+
+== Messaging Malware Mobile Anti-Abuse Working Group (M3AAWG)
+
+Website: https://www.m3aawg.org/[M3AAWG]
 
 * Reciprocal Membership
-* Joint development of
-https://standards.calconnect.org/csd/cc-18003.html[Best Practices
-Document on Calendar Spam]
+* Joint development of https://standards.calconnect.org/csd/cc-18003.html[Best Practices Document on Calendar Spam]
 
-http://www.oasis-open.org/[OASIS] - Organization for the Advancement of
-Structured Information Systems
+== Organization for the Advancement of Structured Information Systems (OASIS)
+
+Website: http://www.oasis-open.org/[OASIS]
 
 * Reciprocal Membership
 * Ongoing involvement with OASIS WS-CALENDAR Working Group

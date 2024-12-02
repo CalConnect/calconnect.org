@@ -106,7 +106,7 @@ https://tools.ietf.org/html/draft-ietf-calext-subscription-upgrade
 CALENDAR SPAM
 
 * Calendar Spam article from CalConnect website: 
-https://www.calconnect.org/news/2017/01/30/calendar-spam
+link:/news/2017/01/30/calendar-spam
 
  
 
