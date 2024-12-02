@@ -4,9 +4,10 @@ title: Introduction to CalConnect
 type: about
 ---
 == Introduction to CalConnect
+
 ____
 You don't need to be a member of CalConnect to _implement_ a standard.
-You need to be a member of CalConnect to _influence_ a standard. 
+You need to be a member of CalConnect to _influence_ a standard.
 ____
 
 Welcome to CalConnect^SM^. We are a non-profit partnership between
@@ -19,10 +20,10 @@ standards, developing new standards, offering interoperability testing,
 collaborating with other organizations with similar goals, and
 conducting periodic conferences where engineers and customers meet and
 interact in a collegial atmosphere.  We liaise with other major
-international standards organizations such as ISO and OASIS. 
+international standards organizations such as ISO and OASIS.
 
 Virtually every important calendaring or calendaring-related standard
-since the late 2000s has been authored, edited and/or coedited by
+since the late 2000s has been authored, edited and/or co-edited by
 members of a CalConnect Technical Committee. We invite you to learn more
 about CalConnect, and we hope you will become a participating member.
 
@@ -38,13 +39,14 @@ technologies. Our mission is to promote general understanding of and
 provide mechanisms to allow interoperable calendaring and scheduling
 methodologies, tools and applications to enter the mainstream of
 computing. An early overview presentation is available at this link:
-link:presentations/Calconnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf[CalConnect&#44;
-Calendaring Interoperability and Calendaring Standards] and a ten-year
-review at
-http://calconnect.org/presentations/CC32%20A%20History%20of%20CalConnect.pdf[An
-Anecdotal History of CalConnect].  A list of Calendaring standards,
+
+link:/presentations/Calconnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf[CalConnect&#44; Calendaring Interoperability and Calendaring Standards]
+and a ten-year review at
+link:/presentations/CC32%20A%20History%20of%20CalConnect.pdf[An Anecdotal History of CalConnect].
+
+A list of Calendaring standards,
 specifications, and standards-related activities to date may be found
-here: link:resources/calendaring-standards[Calendaring Standards].
+here: link:/resources/calendaring-standards[Calendaring Standards].
 
 CalConnect's major activities are:
 
@@ -67,21 +69,20 @@ tax-exempt mutual benefit association by the Federal government.
 
 === Background
 
-Under the auspices of the http://www.ietf.org[IETF (Internet Engineering
-Task Force)] significant work was done on Calendaring and Scheduling
+Under the auspices of the http://www.ietf.org[IETF (Internet Engineering Task Force)] significant work was done on Calendaring and Scheduling
 standards in the 1990s and early 2000s.  in recent years. CalConnect
 built upon this work, extending existing specifications and developing
 new ones, conducting interoperability testing, and by promoting the
 widespread adoption and implementation of these and future Calendaring
 and Scheduling standards and the general acceptance and use of
 interoperable Calendaring and Scheduling among the internet-using
-community.  More recently CalConnect has expanced its domain to
+community.  More recently CalConnect has expanded its domain to
 collaboration standards and technologies, in particular contacts and
 date and time management.
 
 === Membership
 
-Membership in CalConnecct is open to any organization interested in
+Membership in CalConnect is open to any organization interested in
 furthering our goals upon submission and acceptance of a membership
 application and payment of the appropriate dues. CalConnect invites
 members from
@@ -111,7 +112,7 @@ specific timeframe in which to accomplish their work.
 
 CalConnect holds two or three Conferences per year, generally spaced
 evenly through the year. These conferences consist of testing
-opportunities, working sessions, and more genereal sessions on ongoing
+opportunities, working sessions, and more general sessions on ongoing
 and new work.  CalConnect conferences are generally four days, with
 either the first or last day available for special events.
 

@@ -22,7 +22,7 @@ public. +
 
 ==== CalConnect Conferences
 
-link:/conferences.shtml[*CalConnect Conferences*] +
+link:/conferences[*CalConnect Conferences*] +
 Specific information about upcoming Conferences can be found at
 link:/events[Future Events]; generally the sessions and abstracts are
 available several weeks before each event on the event web page. The
@@ -32,10 +32,10 @@ found at link:/events/event-reports[Event Reports]
 or  the https://standards.calconnect.org/[Standards Repository/Document
 Register]. +
  +
-link:/conferencefees.shtml[*Conference Fees*] +
+link:/conferencefees[*Conference Fees*] +
 Conference Registration Fees. +
  +
-link:/conferencereg.shtml[*Conference Registration*] +
+link:/conferencereg[*Conference Registration*] +
 The Registration form for the upcoming Conference. This form is used for
 both member representatives and for observers. +
  
@@ -43,7 +43,7 @@ both member representatives and for observers. +
 === Other CalConnect Activities
 
 The technical work of CalConnect is largely done by
-link:/tcs-active.shtml[Technical Committees]. +
+link:/tcs-active[Technical Committees]. +
  +
 Any member of CalConnect may propose a Technical Committee, and nominate
 an individual to Chair the TC if it is approved. Approval of a new

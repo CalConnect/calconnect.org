@@ -16,12 +16,11 @@ Status:    Published
 Source:    CalConnect
 ....
 
-[.small]#This document is copyright ©2011 by The Calendaring and
-Scheduling Consortium and is licensed under the
-http://creativecommons.org/licenses/by/3.0/[Creative Commons 3.0
-Unported License].#
+This document is copyright ©2011 by The Calendaring and Scheduling Consortium
+and is licensed under the
+http://creativecommons.org/licenses/by/3.0/[Creative Commons 3.0 Unported License].
 
- 
+
 
 === ICALENDAR
 
@@ -222,7 +221,7 @@ also allows a single organization with multiple calendar systems (for
 example due to mergers, or different departmental requirements) to
 exchange scheduling messages between users of each system. +
  +
- 
+
 
 ==== ActiveSync/SyncML
 
@@ -240,8 +239,6 @@ being one of the classes of data supported. It is a SOAP based protocol
 introduced with Exchange 2007 which manages a proprietary data format.
 
 === REFERENCES
-
- 
 
 [1] https://datatracker.ietf.org/doc/rfc2445/ : 'Internet Calendaring
 and Scheduling Core Object Specification' +

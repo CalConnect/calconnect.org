@@ -12,37 +12,33 @@ to abide by the provisions of Consortium policies and governing
 documents as part of the Membership Agreement. Nothing in these policies
 and recommendations may contravene any provision of the Consortium
 Articles of Incorporation and Bylaws. In any conflict, the Articles of
-Incorporation and Bylaws take precedence. +
- 
+Incorporation and Bylaws take precedence.
 
-0501 Obsolete +
-link:#0502[0502 Observers at Conferences and CalConnect Interoperability
-Test Events] +
-link:#0503[0503 Status of Roundtable I Participants] +
-link:#0504[0504 Representing the Consortium at External Events] +
-link:#0505[0505 Individuals Participating on Behalf of an Institutional
-Member] +
-link:#0506[0506 Membership Agreement] +
-link:#0507[0507 Code of Conduct] +
-link:#0508[0508 Violations of the Code of Conduct] +
-link:#0509[0509 Violations of the Membership Agreement] +
-link:#0510[0510 Determination of Membership Status and Categories] +
-link:#0511[0511 Members and Subsidiary Organizations] +
-link:#0512[0512 Quorum and Approvals for TCC] +
-link:#0601[0601 Reciprocal Membership Agreements] +
-link:#0801[0801 Guest Speaker Program] +
-link:#0802[0802 Corporate Registrations] +
-link:#0803[0803 Membership Fees and Renewals] +
-0804 Obsolete +
-0805 Obsolete +
-link:#0806[0806 Venues for CalConnect Events] +
-link:#0901[0901 CalConnect-Hosted Events] +
-link:#0910[0910 Membership Mergers and Acquisitions] +
-link:#1201[1201 _Ex Officio_ Participation by Unaffiliated Directors] +
-link:#1501[1501 Co-Hosting of CalConnect Events] +
-link:#1502[1502 Sponsorship of Activities/Services of a CalConnect
-Conference or Interoperability Test Event] +
-link:#2001[2001 Expense Reimbursement for Volunteer Officers]
+* 0501 Obsolete
+* link:#0502[0502 Observers at Conferences and CalConnect Interoperability Test Events]
+* link:#0503[0503 Status of Roundtable I Participants]
+* link:#0504[0504 Representing the Consortium at External Events]
+* link:#0505[0505 Individuals Participating on Behalf of an Institutional Member]
+* link:#0506[0506 Membership Agreement]
+* link:#0507[0507 Code of Conduct]
+* link:#0508[0508 Violations of the Code of Conduct]
+* link:#0509[0509 Violations of the Membership Agreement]
+* link:#0510[0510 Determination of Membership Status and Categories]
+* link:#0511[0511 Members and Subsidiary Organizations]
+* link:#0512[0512 Quorum and Approvals for TCC]
+* link:#0601[0601 Reciprocal Membership Agreements]
+* link:#0801[0801 Guest Speaker Program]
+* link:#0802[0802 Corporate Registrations]
+* link:#0803[0803 Membership Fees and Renewals]
+* 0804 Obsolete
+* 0805 Obsolete
+* link:#0806[0806 Venues for CalConnect Events]
+* link:#0901[0901 CalConnect-Hosted Events]
+* link:#0910[0910 Membership Mergers and Acquisitions]
+* link:#1201[1201 _Ex Officio_ Participation by Unaffiliated Directors]
+* link:#1501[1501 Co-Hosting of CalConnect Events]
+* link:#1502[1502 Sponsorship of Activities/Services of a CalConnect Conference or Interoperability Test Event]
+* link:#2001[2001 Expense Reimbursement for Volunteer Officers]
 
 [[0502]]
 ==== 0502 Observers at Conferences and CalConnect Interoperability Test Events
@@ -53,8 +49,9 @@ to decide whether or not to join. At that meeting they may participate
 in any Conference activities taking place, but may not vote on any
 issues. Such attendees will pay the same registration fee as member
 representatives.
-. Representatives from a CalConnect Member [.underline]#or# non-member
-may attend a single Calconnect Interoperability Test Event as observers,
+
+. Representatives from a CalConnect Member *or* non-member
+may attend a single CalConnect Interoperability Test Event as observers,
 to give organizations who are considering participation in test events
 in the future an opportunity to understand what happens at the events
 and how to prepare for them. A separate registration fee for such
@@ -62,13 +59,14 @@ observers shall be set high enough to recover costs but not at the level
 of the participation fee. Such observers must agree to be bound by the
 Interoperability Test Event Confidentiality Agreement and a specific
 code of conduct for observers at test events.
+
 . Generally an organization may only attend one Conference and/or one
 test event as an observer. However, in unusual circumstances, the
 Executive Director and the President may together grant exceptions to
 this rule.
 
 _Feb 2005 (Revised May 2007, August 2014)_ +
-link:#top[Return to Top]
+
 
 [[0503]]
 ==== 0503 Status of Roundtable I Participants
@@ -82,7 +80,7 @@ joined the Consortium will no longer be able to participate in
 Consortium activities until they join the Consortium. +
  +
 _Feb 2005_ +
-link:#top[Return to Top]
+
 
 [[0504]]
 ==== 0504 Representing the Consortium at External Events
@@ -129,7 +127,7 @@ he or she has not been authorized to do so is a violation of the
 Consortium Code of Conduct and Membership Agreement.
 
 _Apr 2005_ +
-link:#top[Return to Top]
+
 
 [[0505]]
 ==== 0505 Individuals Participating on Behalf of an Institutional Member
@@ -157,25 +155,23 @@ purposes.
 the member's Primary Representative to the Consortium.
 
 _May 2005_ +
-link:#top[Return to Top]
+
 
 [[0506]]
 ==== 0506 Membership Agreement
 
 The Membership Agreement may be viewed at
-http://calconnect.org/mbragreement.shtml[Membership Agreement]. +
+http://calconnect.org/mbragreement[Membership Agreement]. +
  +
 _May 2005_ +
-link:#top[Return to Top]
+
 
 [[0507]]
 ==== 0507 Code of Conduct
 
-The Code of Conduct may be viewed at
-http://calconnect.org/conduct.shtml[Code of Conduct]. +
- +
+The Code of Conduct may be viewed at link:/conduct[Code of Conduct]. +
 _May 2005_ +
-link:#top[Return to Top]
+
 
 [[0508]]
 ==== 0508 Violations of the Code of Conduct
@@ -229,7 +225,7 @@ a suspension or of a request for renewal as soon as possible after the
 effective date of the recommendation.
 
 _May 2005 (revised August 2014)_ +
-link:#top[Return to Top]
+
 
 [[0509]]
 ==== 0509 Violations of the Membership Agreement
@@ -267,7 +263,7 @@ member shall be notified by a method reasonably calculated to provide
 actual notice, of the action of the Board.
 
 _May 2005_ +
-link:#top[Return to Top]
+
 
 [[0510]]
 ==== 0510 Determination of Membership Status and Categories
@@ -297,7 +293,7 @@ categories. Final decisions on membership categories and membership fees
 are made by the Board of Directors.
 
 _May 2005 (Revised August 2014, November 2018)_ +
-link:#top[Return to Top]
+
 
 [[0511]]
 ==== 0511 Members and Subsidiary Organizations
@@ -321,7 +317,7 @@ on violations of the Membership Agreement or Code of Conduct, as and if
 applicable.
 
 _May 2005 (Revised August 2014)_ +
-link:#top[Return to Top]
+
 
 [[0512]]
 ==== 0512 Quorum and Approvals for Technical Coordination Committee
@@ -342,7 +338,7 @@ the poll must be published to the TCC mailing list and placed on the
 document storage facility. +
  +
 _Jul 2005 (Revised Sep 2007, Nov 2018)_ +
-link:#top[Return to Top]
+
 
 [[0601]]
 ==== 0601 Reciprocal Membership Agreements
@@ -428,7 +424,7 @@ whether a Liaison Agreement or a Reciprocal Membership Agreement is
 better suited for the particular circumstances.
 
 _Nov 2006 (Revised August 2014)_ +
-link:#top[Return to Top]
+
 
 [[0801]]
 ==== 0801 Guest Speaker Program
@@ -488,7 +484,7 @@ may be made available via the CalConnect website along with the
 presentation materials.
 
 _Jan 2008 (Revised August 2014)_ +
-link:#top[Return to Top]
+
 
 [[0802]]
 ==== 0802 Corporate Registrations
@@ -538,7 +534,7 @@ corporate registration use for each Conference to the Board of
 Directors.
 
 _Jun 2008_ +
-link:#top[Return to Top]
+
 
 [[0803]]
 ==== 0803 Membership Fees and Renewals
@@ -580,7 +576,7 @@ any time during the year by the suporting member paying the remainder of
 the full membership fee.
 
 _Jul 2008 (Revised Apr 2013, July 2016)_ +
-link:#top[Return to Top]
+
 
 [[0806]]
 ==== 0806 Venues for CalConnect Events
@@ -617,7 +613,7 @@ necessary to holding the event in the best location for the projected
 participants, both members and non-members.
 
 _Dec 2008_ +
-link:#top[Return to Top]
+
 
 [[0901]]
 ==== 0901 CalConnect-Hosted Events
@@ -650,7 +646,7 @@ consideration, and if possible (i.e. there are no even tentative hosts
 for the event) five or six months in advance.
 
 _May 2009_ +
-link:#top[Return to Top]
+
 
 [[0910]]
 ==== 0910 Membership Mergers and Acquisitions
@@ -683,7 +679,7 @@ organization retains its original legal entity status, no action is
 required.
 
 _October 2009_ +
-link:#top[Return to Top]
+
 
 [[1201]]
 ==== 1201 _Ex Officio_ Participation in CalConnect by Unaffiliated Directors
@@ -708,7 +704,7 @@ Director, the privileges of this _ex officio_ participation no longer
 obtain.
 
 _August 2012 (revised January 2014)_ +
-link:#top[Return to Top]
+
 
 [[1501]]
 ==== 1501 Co-Hosting of CalConnect Events
@@ -750,8 +746,8 @@ which must not use any promotional, qualitative, comparative or call to
 action language to accompany a post-event announcement. +
  +
 
-_August 2015_  
-link:#top[Return to Top]
+_August 2015_
+
 
 [[2001]]
 ==== 2001 Expense Reimbursement for Volunteer Officers

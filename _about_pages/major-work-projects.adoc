@@ -14,7 +14,7 @@ happen.
 [[work-projects]]
 === Abstract Calendaring API
 
-link:/7_things_api.shtml[*Abstract Calendaring API*] - We need a full
+link:/7_things_api[*Abstract Calendaring API*] - We need a full
 "CRUD" (Create/Read/Update/Delete) Abstract Application Programming
 Interface and Calendaring Architecture for Calendaring and Scheduling.
 
@@ -22,7 +22,7 @@ An Abstract Calendaring API from which fully compliant interfaces can be
 created will enable "Calendaring as a Platform" -- that is, any process
 running on a system can use the API to perform calendar and scheduling
 oeprations against any calendaring and scheduling implmentation running
-on that system. link:/tc-api.shtml[TC API].
+on that system. link:/tc-api[TC API].
 
 ==== Autodiscovery
 
@@ -36,7 +36,7 @@ service proficers, and is even more difficult when one acquires a new
 smartphone. We are working on a new standard protocol to specify how to
 automatically discover and set up internet standards-based services such
 as e-mail, calendaring, address book, etc. which can be implemented in a
-single, easy to use user interface. link:/tc-autodiscovery.shtml[TC
+single, easy to use user interface. link:/tc-autodiscovery[TC
 AUTODISCOVERY].
 
 ==== CalDAV Alarms
@@ -49,7 +49,7 @@ Sharing calendars and tasks across multiple devices is great - having
 the alarms go off on all of them isn't. This extension to CalDAV (the
 standard calendar service protocol) will allow for effective user
 management of alarms, including choosing which device(s) should enable
-each alarm, and the form of the alarm. link:/tc-caldav.shtml[TC CALDAV].
+each alarm, and the form of the alarm. link:/tc-caldav[TC CALDAV].
 
 ==== CalDAV Attachments
 
@@ -61,17 +61,17 @@ mechanism to allow clients to store and manage attachments associated
 with a meeting (e.g. copy of a presentation, agenda,...) on a CalDAV
 server. Beyond the basic storage aspect, the server also becomes
 responsible for ensuring that only attendees of a meeting have access to
-those attachments. link:/tc-caldav.shtml[TC CALDAV].
+those attachments. link:/tc-caldav[TC CALDAV].
 
 ==== Calendars and Contacts Sharing
 
 *Calendars and Contacts Sharing* - "Sharing calendars and contacts
 between users, on the same system or across systems"
 
-link:/tc-sharing.shtml[TC SHARING] is working on sharing calendars anc
+link:/tc-sharing[TC SHARING] is working on sharing calendars anc
 contacts between users on a CalDAV and/or CardDAV system by
 rationalizing and extending current informal specifications.
-link:/tc-fsc.shtml[TC FSC] (Federated Shared Calendars) is working on
+link:/tc-fsc[TC FSC] (Federated Shared Calendars) is working on
 sharing calendars and hopefully contacts across calendaring system, e.g
 being able to share between multiple systems such as iCloud, Google
 Calendar, Yahoo!, AOL, and so forth.
@@ -93,7 +93,7 @@ WS-Calendar below.
 
 ==== Consensus Scheduling (VPOLL)
 
-link:/7_things_consensus_scheduling.shtml[*Consensus Scheduling (VPOLL)*]
+link:/7_things_consensus_scheduling[*Consensus Scheduling (VPOLL)*]
 
 "TimeTrade, Doodle, WhenisGood do it, it should be interoperable - scheduling
 driven by the attendees who get to vote on the best times and locations for
@@ -105,7 +105,7 @@ been implemented by several vendors in their own systems but should be
 available and interoperable within mainstream scheduling. VPOLL is an
 additional iCalendar and iTIP component designed to allow the
 implementation of consensus scheduling with any system and client.
-link:/tc-freebusy.shtml[TC FREEBUSY].
+link:/tc-freebusy[TC FREEBUSY].
 
 ==== Developer's Guides
 
@@ -115,7 +115,7 @@ materials for iCalendar and potentially other APIs such as CalDAV.
 The lack of useful developer's guides and other documentation about
 iCalendar, CalDAV, and other specifications is a problem for all current
 and would-be developers in calendaring and scheduling.
-link:/tc-devguide.shtml[TC DEVGUIDE] has been formed to address this
+link:/tc-devguide[TC DEVGUIDE] has been formed to address this
 lack by creating a "cookbook" guide and other supporting materials for
 iCalendar and potentially other APIs such as CalDAV.
 
@@ -139,7 +139,7 @@ support
 
 images
 
-link:/tc-eventpub.shtml[TC EVENTPUB].
+link:/tc-eventpub[TC EVENTPUB].
 
 
 
@@ -155,7 +155,7 @@ emails. iSchedule provides a system-independent server-to-server
 mechanism to allow inter-system scheduling and ultimately "ad hoc"
 scheduling - the ability to schedule a meeting or appointment with
 anybody with a calendar and a calendar server, regardless of what system
-they are on. link:/tc-ischedule.shtml[TC ISCHEDULE].
+they are on. link:/tc-ischedule[TC ISCHEDULE].
 
 ==== Non-Gregorian Calendars
 
@@ -188,7 +188,7 @@ their WS-Calendar technical committee and our technical committees.
 
 ==== PUSH for CalDAV
 
-link:/7_things_push.shtml[*PUSH for CalDAV (and CardDAV)*] - "Extend
+link:/7_things_push[*PUSH for CalDAV (and CardDAV)*] - "Extend
 CalDAV and CardDAV with standardized support for PUSH notifications"
 
 At present CalDAV and CardDAV clients have to poll the server at regular
@@ -205,7 +205,7 @@ and clients.
 
 ==== Tasks (VTODOs)
 
-link:/7_things_tasks.shtml[*Tasks (VTODOs)*] - "Extend the functionality
+link:/7_things_tasks[*Tasks (VTODOs)*] - "Extend the functionality
 of VTODOs to support needs such as project management, smart power grids
 and business task scheduling"
 
@@ -213,7 +213,7 @@ The VTODO component of iCalendar must be extended to offer functionality
 for new use cases such as the smart grid, project management, and
 business task scheduling, in a way that allow a calendaring system to
 manage the data and calendaring clients to display and change it.
-link:/tc-tasks.shtml[TC TASKS] is working on extending iCalendar in
+link:/tc-tasks[TC TASKS] is working on extending iCalendar in
 areas such as project managment, WS Human Task, and smart grid energy
 management.
 
@@ -231,7 +231,7 @@ information was put in the event. Having a separate, online timezone
 service which can be queried at any time will allow timezone information
 to be included by reference in events, rather than embedded in them, and
 ensure correct interpretation of dates and times even if the information
-changes. link:/tc-timezone.shtml[TC TIMEZONE].
+changes. link:/tc-timezone[TC TIMEZONE].
 
 ==== VAVAILABILITY
 
@@ -245,7 +245,7 @@ meetings (As opposed to "busy" when they already have a meeting
 scheduled, or "free" when nothing is scheduled). VAVAILABILITY will also
 allow the implementation of "office hours" applications, in particular
 for academic institutions, and has significant use also in the smart
-grid work being undertaken by OASIS. link:/tc-freebusy.shtml[TC
+grid work being undertaken by OASIS. link:/tc-freebusy[TC
 FREEBUSY].
 
 ==== vCard Resources
@@ -258,6 +258,6 @@ In keeping with the goal of TC RESOURCE to develop recommendations for
 seamless interoperable resource scheduling, we have been working on
 defining how such resources should be represented. RFC 6350 defines the
 vCard format which allows the electronic capture and exchange of
-information on users, devices, and more. link:/tc-resource.shtml[TC
+information on users, devices, and more. link:/tc-resource[TC
 RESOURCE] is working on an extension of the vCard RFC to include all
 required information for representing calendaring resources.

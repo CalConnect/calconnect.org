@@ -16,7 +16,7 @@ of Directors based on the following criteria:
 
 . Conference Attendance
 . Conference Participation
-. Interoperabilty Test Event (IOP) Attendance
+. Interoperability Test Event (IOP) Attendance
 . Interoperability Test Event Participation
 . Service
 . Technical Committee Participation

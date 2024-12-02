@@ -9,19 +9,23 @@ type: membership
 As part of submitting the Membership Application Form, a prospective
 member of CalConnect agrees to comply with the following provisions.
 
+
 . We agree to support the goals of the Consortium and participate in its
 activities as appropriate for our organization.
+
 . We agree to abide by the relevant provisions of the Bylaws and such
 governing and process documents as are adopted by the Consortium.
+
 . We will pay our membership renewal fee promptly each year when
 assessed unless we terminate our membership or the Consortium disbands.
+
 . We agree to familiarize our representatives with the Consortium
 link:code-conduct[Code of Conduct], ensure that our representatives in
 Consortium activities behave in a collegial and professional fashion in
 accordance with the Consortium Code of Conduct, and agree to remove or
 replace offending individuals if their conduct makes it necessary.
 
-Also note Policy http://calconnect.org/policies.shtml#0803[0803
+Also note Policy http://calconnect.org/policies#0803[0803
 Membership Fees and Renewals] pertaining to the due dates for membership
 fees and renewals and actions taken by the Consortium upon extended
 non-payment of such fees.

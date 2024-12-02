@@ -9,33 +9,33 @@ type: events
 <ul class="calconnect-events">
 
     {% assign sorted_events = site.events | sort: 'revdate' | reverse %}
-    
+
     <!-- Loop through sorted events -->
     {% for event in sorted_events %}
-        
+
         <!-- Convert event date and current date to Unix timestamp for comparison -->
         {% assign event_date = event.date | date: "%s" %}
         {% assign current_date = "now" | date: "%s" %}
-        
+
         <!-- Display only upcoming events -->
         {% if event_date > current_date %}
-        
+
             <li class="views-row">
-                
+
                 <!-- Event Image -->
                 <div class="views-field views-field-field-image">
                     <div class="field-content">
                         <a href="{{ event.url }}">
-                            <img 
-                                typeof="foaf:Image" 
-                                class="img-responsive" 
-                                src="{{ event.image }}" 
-                                width="557" height="300" 
+                            <img
+                                typeof="foaf:Image"
+                                class="img-responsive"
+                                src="{{ event.image }}"
+                                width="557" height="300"
                                 alt="Event Image">
                         </a>
                     </div>
                 </div>
-                
+
                 <!-- Event Title -->
                 <div class="views-field views-field-title">
                     <span class="field-content">
@@ -44,14 +44,14 @@ type: events
                         </a>
                     </span>
                 </div>
-                
+
                 <!-- Event Host Information -->
                 <div class="views-field views-field-body">
                     <div class="field-content">
                         <p>{{ event.host_info }}</p>
                     </div>
                 </div>
-                
+
             </li>
         {% endif %}
     {% endfor %}

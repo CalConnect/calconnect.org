@@ -4,13 +4,17 @@ title:  CalConnect joins the Metaverse Standards Forum
 date:   2022-08-02
 type: news
 excerpt:
-  On the occasion of his recent retirement, we pay tribute to Dave for his very special contributions as a founder and Executive Director of the Calendaring & Scheduling Consortium.
+  CalConnect is now a principal member of the Metaverse Standards Forum, with
+  our standards used ubiquitously and our mandate extending to the metaverse.
 ---
 
 == CalConnect joins the Metaverse Standards Forum
 
-CalConnect is now a principal member of the Metaverse Standards Forum. CalConnect standards are used ubiquitously and our mandate extends to the metaverse.
+CalConnect is now a principal member of the Metaverse Standards Forum.
+CalConnect standards are used ubiquitously and our mandate extends to the
+metaverse.
 
-We are proud to be the first group of SDOs that prioritises the need of standards in the metaverse.
+We are proud to be the first group of SDOs that prioritises the need of
+standards in the metaverse.
 
 We look forward to the creation of an interoperable metaverse inclusive to all.

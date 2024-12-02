@@ -7,12 +7,12 @@ type: events
 == CalConnect Event Registration & Payment Options
 
 The CalConnect Virtual Conference May 2022 will be  be four days
-(Monday--Thursday May 109-12). .  Each day is planned for three hours
-although Friday will be flexible in terms of time and sessions.  .
+(Monday - Thursday May 09-12).  Each day is planned for three hours
+although Friday will be flexible in terms of time and sessions.
 
 In addition to a variety of sessions, we plan to arrange working
 sessions on Monday and Thursday afternoons for testing opportunities and
-for other joint efforts. 
+for other joint efforts.
 
 We will contact people after they register to determine if they are
 interested in testing, and to agree in advance on testing areas, such as
@@ -21,40 +21,38 @@ test requests from TCs to confirm application behavior.
 
 The Virtual Conference is open to members and non-members.
 
- 
-
 === Registration
 
-* link:event-registration-payment/standard-conference-registration-form[Conference
-Registration]: Register from one to six people for the CalConnect
-Conference, with a choice of payment options.  _Not available for
-non-members._
-* link:event-registration-payment/quick-conference-registration-form[Conference
-Quick Registration]: Register one person for the CalConnect Conference
-and pay immediately via PayPal or credit card.  _May be used by members
-and non-members._
+* link:event-registration-payment/standard-conference-registration-form[Conference Registration]: Register from one to six people for the CalConnect
+Conference, with a choice of payment options.
+_Not available for non-members._
+
+* link:event-registration-payment/quick-conference-registration-form[Conference Quick Registration]: Register one person for the CalConnect Conference
+and pay immediately via PayPal or credit card.  _May be used by members and non-members._
 
 === Payment Options
 
 * *Immediate online payment by credit card:* Available for single
 registrations for a CalConnect Conference (see "Quick Registration"
 above).
+
 * *Payment following receipt of invoice:* After receiving your
 registration we will send you a invoice, which can be paid by
+
 ** calling us with credit card details
+
 ** Paypal
-** Within the US, pay with credit card via the form at
-https://app.autobooks.co/pay/the-calendaring-and-schedulingconsortium
-** sending us a check or money order ^1^
-** Bank-to-bank electronic funds transfer (automatic wire transfer) ^2^
+
+** Within the US, pay with credit card via the form at https://app.autobooks.co/pay/the-calendaring-and-schedulingconsortium
+
+** sending us a check or money order footnote:[Checks or money orders *must* be payable in U.S. dollars but may be drawn on foreign banks.]
+
+** Bank-to-bank electronic funds transfer (automatic wire transfer) footnote:[CalConnect does not accept payments via electronic funds transfer for amounts less than US $1,000 due to the transfer fees imposed by the banks at both ends.]
+
 * *Payment at meeting:* Present your credit card at the Conference to
 pay for your registration.
 
 In all cases once your invoice has been paid, you will receive a paid
-invoice for your records__.__
+invoice for your records.
 
-_^1^ Checks or money orders [.underline]#must# be payable in U.S.
-dollars but may be drawn on foreign banks._ +
-_^2^ CalConnect does not accept payments via electronic funds transfer
-for amounts less than US $1,000 due to the transfer fees imposed by the
-banks at both ends._
+_
