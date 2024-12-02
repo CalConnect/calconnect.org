@@ -40,8 +40,9 @@ Incorporation and Bylaws take precedence.
 * link:#1502[1502 Sponsorship of Activities/Services of a CalConnect Conference or Interoperability Test Event]
 * link:#2001[2001 Expense Reimbursement for Volunteer Officers]
 
-[[0502]]
-==== 0502 Observers at Conferences and CalConnect Interoperability Test Events
+
+[#0502]
+=== 0502 Observers at Conferences and CalConnect Interoperability Test Events
 
 . Representatives from a prospective member (an organization considering
 membership) may attend a single meeting of the Consortium as observers,
@@ -65,11 +66,10 @@ test event as an observer. However, in unusual circumstances, the
 Executive Director and the President may together grant exceptions to
 this rule.
 
-_Feb 2005 (Revised May 2007, August 2014)_ +
+_Feb 2005 (Revised May 2007, August 2014)_
 
-
-[[0503]]
-==== 0503 Status of Roundtable I Participants
+[#0503]
+=== 0503 Status of Roundtable I Participants
 
 Organizations that participated in the September 2004 Roundtable, that
 are actively involved in Consortium activities, and that are actively
@@ -77,13 +77,12 @@ working to join the Consortium but have not yet joined, may continue to
 participate until 14 June 2005, six months after the public launch of
 the Consortium. As of 14 June, any such organizations that have not yet
 joined the Consortium will no longer be able to participate in
-Consortium activities until they join the Consortium. +
- +
-_Feb 2005_ +
+Consortium activities until they join the Consortium.
 
+_Feb 2005_
 
-[[0504]]
-==== 0504 Representing the Consortium at External Events
+[#0504]
+=== 0504 Representing the Consortium at External Events
 
 . The Consortium may be represented at external (non-Consortium) events
 by any Director or Officer of the Consortium for the purpose of
@@ -126,11 +125,10 @@ Misrepresentation by an individual as speaking for the Consortium when
 he or she has not been authorized to do so is a violation of the
 Consortium Code of Conduct and Membership Agreement.
 
-_Apr 2005_ +
+_Apr 2005_
 
-
-[[0505]]
-==== 0505 Individuals Participating on Behalf of an Institutional Member
+[#0505]
+=== 0505 Individuals Participating on Behalf of an Institutional Member
 
 . For Consortium purposes, "member employee", "member participant" or
 "member representative" means an individual whom an institutional
@@ -154,27 +152,25 @@ purposes.
 . All such requests must be initiated by, or subsequently authorized by,
 the member's Primary Representative to the Consortium.
 
-_May 2005_ +
+_May 2005_
 
-
-[[0506]]
-==== 0506 Membership Agreement
+[#0506]
+=== 0506 Membership Agreement
 
 The Membership Agreement may be viewed at
-http://calconnect.org/mbragreement[Membership Agreement]. +
- +
-_May 2005_ +
+http://calconnect.org/mbragreement[Membership Agreement].
 
+_May 2005_
 
-[[0507]]
-==== 0507 Code of Conduct
+[#0507]
+=== 0507 Code of Conduct
 
-The Code of Conduct may be viewed at link:/conduct[Code of Conduct]. +
-_May 2005_ +
+The Code of Conduct may be viewed at link:/conduct[Code of Conduct].
 
+_May 2005_
 
-[[0508]]
-==== 0508 Violations of the Code of Conduct
+[#0508]
+=== 0508 Violations of the Code of Conduct
 
 . Violations of the Code of Conduct on the part of an individual will be
 brought to the attention of the Board of Directors.
@@ -224,11 +220,10 @@ notified, by a method reasonably calculated to provide actual notice, of
 a suspension or of a request for renewal as soon as possible after the
 effective date of the recommendation.
 
-_May 2005 (revised August 2014)_ +
+_May 2005 (revised August 2014)_
 
-
-[[0509]]
-==== 0509 Violations of the Membership Agreement
+[#0509]
+=== 0509 Violations of the Membership Agreement
 
 . A member has agreed to abide by the Membership Agreement by completing
 and submitting the Membership Application of the Consortium and agreeing
@@ -262,11 +257,10 @@ final.
 member shall be notified by a method reasonably calculated to provide
 actual notice, of the action of the Board.
 
-_May 2005_ +
+_May 2005_
 
-
-[[0510]]
-==== 0510 Determination of Membership Status and Categories
+[#0510]
+=== 0510 Determination of Membership Status and Categories
 
 . An organization's membership category is generally determined from the
 list of membership categories established by the Consortium. If a
@@ -292,11 +286,10 @@ category and its relative membership fee as compared to other membership
 categories. Final decisions on membership categories and membership fees
 are made by the Board of Directors.
 
-_May 2005 (Revised August 2014, November 2018)_ +
+_May 2005 (Revised August 2014, November 2018)_
 
-
-[[0511]]
-==== 0511 Members and Subsidiary Organizations
+[#0511]
+=== 0511 Members and Subsidiary Organizations
 
 . Individuals from subsidiary organizations of a parent Member
 organization may participate in Consortium activities as representatives
@@ -316,11 +309,10 @@ positions contrary to the parent member, etc.)
 on violations of the Membership Agreement or Code of Conduct, as and if
 applicable.
 
-_May 2005 (Revised August 2014)_ +
+_May 2005 (Revised August 2014)_
 
-
-[[0512]]
-==== 0512 Quorum and Approvals for Technical Coordination Committee
+[#0512]
+=== 0512 Quorum and Approvals for Technical Coordination Committee
 
 Quorum for a meeting of the TCC is required to approve a document for
 publication or the establishment of a new Technical Committee. Quorum
@@ -335,20 +327,19 @@ meeting. If a quorum is not available at that meeting, the discussion
 and a trial consensus shall be taken. Following the meeting, the Chair
 of the TCC shall conduct the approval poll via e-mail. The results of
 the poll must be published to the TCC mailing list and placed on the
-document storage facility. +
- +
-_Jul 2005 (Revised Sep 2007, Nov 2018)_ +
+document storage facility.
 
+_Jul 2005 (Revised Sep 2007, Nov 2018)_
 
-[[0601]]
-==== 0601 Reciprocal Membership Agreements
+[#0601]
+=== 0601 Reciprocal Membership Agreements
 
 This policy sets out the considerations for the Consortium in agreeing
 to and establishing a Reciprocal Membership Agreement with another
 organization. Before agreeing to reciprocal membership, the Consortium
 should consider whether such membership, or a liaison agreement, is more
-appropriate for the relationship being considered. +
- +
+appropriate for the relationship being considered.
+
 Broadly, a Liaison Agreement is more appropriate for a standing
 relationship where an individual or individuals participate in both
 organizations and may act as a liaison. The primary purpose for such a
@@ -423,11 +414,10 @@ organization, the Consortium and that organization will determine
 whether a Liaison Agreement or a Reciprocal Membership Agreement is
 better suited for the particular circumstances.
 
-_Nov 2006 (Revised August 2014)_ +
+_Nov 2006 (Revised August 2014)_
 
-
-[[0801]]
-==== 0801 Guest Speaker Program
+[#0801]
+=== 0801 Guest Speaker Program
 
 . The guest speaker program allows CalConnect to invite individuals who
 have made significant contributions to or are experts in calendaring and
@@ -483,11 +473,10 @@ invitee, or if agreeable recording the actual address. Such recordings
 may be made available via the CalConnect website along with the
 presentation materials.
 
-_Jan 2008 (Revised August 2014)_ +
+_Jan 2008 (Revised August 2014)_
 
-
-[[0802]]
-==== 0802 Corporate Registrations
+[#0802]
+=== 0802 Corporate Registrations
 
 Corporate Registrations allow a consortium member to purchase
 "corporate" registrations for a CalConnect Conference, where the badge
@@ -496,8 +485,8 @@ who wish to attend different sessions but individually can not attend an
 entire Conference. The primary goal is for members in the immediate area
 of a Conference to allow employees a chance to attend a session or two
 of particular interest; however non-local members may purchase corporate
-registrations if desired. +
- +
+registrations if desired.
+
 CalConnect values the in-depth participation of its regular participants
 at each Conference. The goal of corporate registrations is to increase
 the breadth of participation without sacrificing the current depth. In
@@ -533,11 +522,10 @@ and purposes. To that end, the Executive Director will report on
 corporate registration use for each Conference to the Board of
 Directors.
 
-_Jun 2008_ +
+_Jun 2008_
 
-
-[[0803]]
-==== 0803 Membership Fees and Renewals
+[#0803]
+=== 0803 Membership Fees and Renewals
 
 . Membership in the Consortium requires the payment of a yearly
 membership fee, based upon the anniversary of the member's joining the
@@ -575,11 +563,10 @@ participate in Consortium activities. Full membership may be restored at
 any time during the year by the suporting member paying the remainder of
 the full membership fee.
 
-_Jul 2008 (Revised Apr 2013, July 2016)_ +
+_Jul 2008 (Revised Apr 2013, July 2016)_
 
-
-[[0806]]
-==== 0806 Venues for CalConnect Events
+[#0806]
+=== 0806 Venues for CalConnect Events
 
 . Initially CalConnect attempted to hold its meetings alternately on the
 east and west coasts of the United States. This has not worked well due
@@ -612,11 +599,10 @@ occurs, hosting by a member, while desirable, may be subordinated if
 necessary to holding the event in the best location for the projected
 participants, both members and non-members.
 
-_Dec 2008_ +
+_Dec 2008_
 
-
-[[0901]]
-==== 0901 CalConnect-Hosted Events
+[#0901]
+=== 0901 CalConnect-Hosted Events
 
 . CalConnect encourages its members to host CalConnect events whenever
 possible, based upon our participants' preference for meetings at member
@@ -645,11 +631,10 @@ Board of Directors no less than four months prior to the event under
 consideration, and if possible (i.e. there are no even tentative hosts
 for the event) five or six months in advance.
 
-_May 2009_ +
+_May 2009_
 
-
-[[0910]]
-==== 0910 Membership Mergers and Acquisitions
+[#0910]
+=== 0910 Membership Mergers and Acquisitions
 
 . When a CalConnect member organization merges with another
 organization, or is acquired by or acquires another organization, the
@@ -678,11 +663,10 @@ membership transfer application must be executed.
 organization retains its original legal entity status, no action is
 required.
 
-_October 2009_ +
+_October 2009_
 
-
-[[1201]]
-==== 1201 _Ex Officio_ Participation in CalConnect by Unaffiliated Directors
+[#1201]
+=== 1201 _Ex Officio_ Participation in CalConnect by Unaffiliated Directors
 
 This Policy allows _ex officio_ participation in CalConnect activities
 by Directors who are not otherwise affiliated with CalConnect, except in
@@ -703,25 +687,24 @@ of a member organization, as an Individual Member, or ceases to be a
 Director, the privileges of this _ex officio_ participation no longer
 obtain.
 
-_August 2012 (revised January 2014)_ +
+_August 2012 (revised January 2014)_
 
-
-[[1501]]
-==== 1501 Co-Hosting of CalConnect Events
+[#1501]
+=== 1501 Co-Hosting of CalConnect Events
 
 A CalConnect Event may be co-hosted by two members, or by a member and a
 non-member, subject to approval in advance by the Board of Directors. A
 proposal for co-hosting must be submitted to the Board of Directors as
 far in advance as possible, and may be submitted as part of or in
-advance of a proposal to host a specific event. +
- +
+advance of a proposal to host a specific event.
+
 In the case of co-hosting the associated complimentary two registrations
 for the Conference, and the complimentary two registrations for the
 Interoperability Testing, may be shared between the co-hosts as they
 wish.
 
-[[1502]]
-==== 1502 Sponsorship of Activities/Services of a CalConnect Conference or Interoperability Test Event
+[#1502]
+=== 1502 Sponsorship of Activities/Services of a CalConnect Conference or Interoperability Test Event
 
 Specific activities/services of a CalConnect event, or parts of same,
 such as catering, dinner, venue, etc. may be sponsored by either members
@@ -729,13 +712,13 @@ or non-members of CalConnect, subject to approval in advance by the
 Board of Directors. A proposal for such sponsorship(s) must be submitted
 to the Board of Directors in advance of the event, by the host(s) or
 with the approval of the host(s), and must include the specific
-activities/services proposed for sponsorship. +
- +
+activities/services proposed for sponsorship.
+
 In no instance may any sponsorship result in monies being transferred to
 or paid to CalConnect; any financial provisions must be made between the
 sponsor and the provider(s) of the specific activities/services being
-sponsored. +
- +
+sponsored.
+
 CalConnect will acknowledge the sponsorship, as appropriate or
 practicable, during the event. Additionally CalConnect will acknowledge
 the sponsorship on the CalConnect web site in the program/agenda (
@@ -743,14 +726,12 @@ sponsored by , and in any post event items we might post to the
 CalConnect web site of blog. The sponsor may submit up to 100 words of
 “boilerplate”, a factual statement about what their company offers,
 which must not use any promotional, qualitative, comparative or call to
-action language to accompany a post-event announcement. +
- +
+action language to accompany a post-event announcement.
+
 
 _August 2015_
-
-
-[[2001]]
-==== 2001 Expense Reimbursement for Volunteer Officers
+[#2001]
+=== 2001 Expense Reimbursement for Volunteer Officers
 
 1. CalConnect will reimburse up to 50% of the actual or average
 expenses, whichever is less, incurred by the Chair of the TCC and the
@@ -768,12 +749,13 @@ be eligible for the reimbursement under the above rules
 
 2. In cases where low registration numbers may result in
 CalConnect losing money on an event, the Board may take remedial actions
-to ensure a successful meeting within our budget +
- +
+to ensure a successful meeting within our budget
+
 3. The average expense cost is determined by averaging the expenses
 for an officer to attend the last 12 CalConnect events, plus the
 registration fee for the events, and will set by the Board of Directors
 each year at its January meeting.
 
-_January 2020_ +
+_January 2020_
+
 link:#top[Return to Top]

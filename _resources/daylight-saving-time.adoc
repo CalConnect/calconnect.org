@@ -1,8 +1,8 @@
+---
 layout: page
 title: Daylight saving time and time zones
 type: resources
 ---
-
 = Daylight saving time and time zones
 
 == General interest

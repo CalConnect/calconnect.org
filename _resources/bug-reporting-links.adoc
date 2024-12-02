@@ -20,7 +20,7 @@ mailto:info@calconnect.org[info@calconnect.org].
 |===
 |Vendor |Product |Reporting
 
-|*1&1 Internet AG* |WEB.DE Kalender, GMX Kalendar,
+|*1&1 Internet AG* |https://WEB.DE[WEB.DE] Kalender, http://GMX.com[GMX] Kalendar,
 http://mail.com[mail.com] Organizer, http://GMX.com[GMX.com] Organizer
 |1&1 does not yet have an external bug tracking system; please use this
 mailto:carddavsupport@1und1.de[e-mail address] to report bugs related to
@@ -30,7 +30,7 @@ contacts and CardDAV.
 |BusyMac does not have a formal public-facing site for reporting/tracking bugs
 at this time. Please send any bug reports to the mailto:support@busymac.com[support e-mail address].
 
-|*CMU* |http://cyrusimap.org[Cyrus] | Report bugs https://git.cyrus.foundation/maniphest/[here]
+|*CMU* |http://cyrusimap.org[Cyrus] | https://git.cyrus.foundation/maniphest/[Report bugs]
 
 |*FastMail* | http://www.fastmail.com[FastMail] |File support
 ticket at http://www.fastmail.com/help/[Fastmail Help]; will be routed to
@@ -40,13 +40,13 @@ appropriate developer.
 |
 Follow link:http://sabre.io/support/[Support] to the various trackers and support forums.
 
-|*Milton* |Milton |File issues on https://github.com/miltonio/milton2/issues[GitHub]
+|*Milton* |https://github.com/miltonio/milton2[Milton] |File issues on https://github.com/miltonio/milton2/issues[GitHub]
 
-|*Mozilla* |http://www.mozilla.org/projects/calendar/[Lightning]
+|https://www.mozilla.org[*Mozilla*] |http://www.mozilla.org/projects/calendar/[Lightning]
 |
 https://bugzilla.mozilla.org/describecomponents.cgi?product=Calendar[Browse bugs for Lightning]
 
-https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar[File bugs for Lightning]
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar[Report bugs for Lightning]
 
 |*Open-Xchange* |https://open-xchange.com[Open-Xchange]
 |https://bugs.open-xchange.com/enter_bug.cgi?product=OX%20App%20Suite&component=DAV[Enter bugs here.]
@@ -61,8 +61,8 @@ Contact mailto:support@dmfs.org[support@dmfs.org] or mailto:support@smoothsync.o
 
 |*Zimbra* | https://www.zimbra.com[Zimbra Calendar Server]
 |
-https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Calendar%20-%20Server[Reporting CalDAV or iMIP bugs]
+https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Calendar%20-%20Server[Report CalDAV or iMIP bugs]
 
-|https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Contacts%20-%20Server[Reporting CardDAV bugs]
+https://bugzilla.zimbra.com/enter_bug.cgi?product=ZCS&component=Contacts%20-%20Server[Report CardDAV bugs]
 
 |===
