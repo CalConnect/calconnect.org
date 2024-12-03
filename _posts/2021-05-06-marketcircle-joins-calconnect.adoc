@@ -1,0 +1,15 @@
+---
+layout: page
+title:  Marketcircle joins CalConnect
+date:   2021-05-06
+type: news
+category: Member-News
+excerpt:
+    Marketcircle, based in Markham, Ontario, Canada, creates CRM software for small businesses.
+    They offer Calendar Client software that implements IMIP/ITIP, as well as a CalDAV service. 
+---
+
+Posted May 6, 2021
+
+Marketcircle, based in Markham, Ontario, Canada, creates CRM software for small businesses.
+They offer Calendar Client software that implements IMIP/ITIP, as well as a CalDAV service. 
