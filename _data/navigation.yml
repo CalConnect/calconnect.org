@@ -116,7 +116,7 @@ resources:
         url: /resources/discussion-lists
       - page: Public Review
         url: /resources/public-review
-news:
+news: &news_content
   - title: 
     subfolderitems:
       - page: Latest News
@@ -127,6 +127,25 @@ news:
         url: /news/press-releases
       - page: Media Resources
         url: /news/media-resources
+  - title: Categories
+    subfolderitems:
+      - page: Announcements
+        url: /news/announcements
+      - page: Current Events
+        url: /news/current-events
+      - page: General Information
+        url: /news/general-information
+      - page: Member Focus
+        url: /news/member-focus
+        active: true
+      - page: Member News
+        url: /news/member-news
+      - page: Press Releases
+        url: /news/press-releases
+      - page: Special Focus
+        url: /news/special-focus
+      - page: The World of Calendaring
+        url: /news/the-world-of-calendaring
   - title: Blog Roll
     subfolderitems:
       - page: CalConnect News
@@ -139,3 +158,4 @@ news:
         url: http://calendarservermigration.blogspot.com/
       - page: The Calendar Swamp
         url: http://calendarswamp.blogspot.com/
+category: *news_content
