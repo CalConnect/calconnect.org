@@ -3,6 +3,7 @@ layout: page
 title:  CalConnect joins the Metaverse Standards Forum
 date:   2022-08-02
 type: news
+category: Special-Focus
 excerpt:
   CalConnect is now a principal member of the Metaverse Standards Forum, with
   our standards used ubiquitously and our mandate extending to the metaverse.

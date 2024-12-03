@@ -3,6 +3,7 @@ layout: page
 title:  CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
 date:   2018-10-30
 type: news
+category: General-Information
 excerpt:
   The European Commission has proposed to discontinue daylight saving time
   (DST), effective October 2019. Several governments and organizations have

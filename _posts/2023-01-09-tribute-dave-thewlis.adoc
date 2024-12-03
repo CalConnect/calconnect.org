@@ -3,6 +3,7 @@ layout: page
 title: A Tribute to Dave Thewlis
 date: 2022-01-09
 type: news
+category: Announcements
 excerpt:
   On the occasion of his recent retirement, we pay tribute to Dave for his very
   special contributions as a founder and Executive Director of the Calendaring &
