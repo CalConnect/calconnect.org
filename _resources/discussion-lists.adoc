@@ -39,11 +39,11 @@ all participants that agree to and adhere to the rules of use.
 URL: link:/resources/discussion-lists/sysadmin-list[Calendaring and Scheduling Sysadmin List]
 
 The Calendaring and Scheduling Admin Mailing List
-(caladmin-l@lists.calconnect.org) exists to foster discussion about all
-aspects of calendaring and scheduling system administration and
-management. This includes, but is not limited to, C&S platforms and
-applications, emerging C&S standards, message flows, access control,
-unsolicited or bulk agenda invitations (SPCAL), account management,
+(mailto:caladmin-l@lists.calconnect.org[caladmin-l@lists.calconnect.org]) exists
+to foster discussion about all aspects of calendaring and scheduling system
+administration and management. This includes, but is not limited to, C&S
+platforms and applications, emerging C&S standards, message flows, access
+control, unsolicited or bulk agenda invitations (SPCAL), account management,
 virus vectors, disaster recovery, and interactions with closely related
 collaborative technologies.
 
