@@ -18,6 +18,5 @@ material making use of the CalConnect Logo.
 The CalConnect Logo is Copyright © by The Calendaring and Scheduling
 Consortium, Inc.
 
-image:/assets/images/calconnectlogo.jpg[CalConnect Logo: calconnectlogo.jpg (433x54)]
-
-image:/assets/images/calconnectlogo.gif[CalConnect Logo: calconnectlogo.gif (400x50)]
+The logos are available on CalConnect's
+https://github.com/CalConnect/branding[branding repository at GitHub].
