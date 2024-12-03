@@ -31,6 +31,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 collections:
   events:
@@ -51,7 +52,7 @@ collections:
     permalink: /events/:title
   posts:
     output: true
-    permalink: /news/:year-:month-:day-:title/
+    permalink: /news/:categories/:year-:month-:day-:title/
   pages:
     output: true
     permalink: /:name/
@@ -74,3 +75,9 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll-archives:
+  enabled: [ categories ]
+  layout: category
+  permalinks:
+    category: /news/:name/
