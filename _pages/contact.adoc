@@ -34,7 +34,7 @@ http://www.fastmail.com[www.fastmail.com]
 |Executive Director & Test Event Manager
 |
 *Mike Douglass*, Spherical Cow Group +
-link:mailto:﻿mike.douglass@calconnect.org?subject=CalConnect%20Contact[﻿mike.douglass@calconnect.org]
+mailto:mike.douglass@calconnect.org?subject=CalConnect%20Contact[mike.douglass@calconnect.org]
 http://www.sphericalcowgroup.com[www.sphericalcowgroup.com] +
 +1 617 816 0041
 
