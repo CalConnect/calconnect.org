@@ -64,7 +64,7 @@ layout: default
                                                 
                                                 <!-- Nested Subfolder Items -->
                                                 {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
-                                                <ul class="menu nav">
+                                                <ul class="menu nav {% if entry.url != page.url %}hide{% endif %}">
                                                     {% for subentry in entry.subsubfolderitems %}
                                                         <li class="leaf">
                                                             <a href="{{ subentry.url }}">{{ subentry.page }}</a>
