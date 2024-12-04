@@ -15,12 +15,13 @@ about:
         url: /about/major-work-projects
       - page: Policies
         url: /about/policies
-      - page: Policies and Procedures
-        url: /about/policies-and-procedures
-      - page: Copyright and Licensing
-        url: /about/copyright-and-licensing
-      - page: Intellectual Property Rights Policy
-        url: /about/intellectual-property-rights-policy
+        subsubfolderitems:
+          - page: Policies and Procedures
+            url: /about/policies-and-procedures
+          - page: Copyright and Licensing
+            url: /about/copyright-and-licensing
+          - page: Intellectual Property Rights Policy
+            url: /about/intellectual-property-rights-policy
       - page: Board of Directors
         url: /about/board-directors
       - page: Liaisons and Relationships
