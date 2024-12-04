@@ -2,6 +2,7 @@
 layout: page
 title: Copyright and Licensing for Published Material
 type: about
+permalink: /about/policies/copyright-and-licensing
 ---
 
 == Copyright and Licensing for Published Material

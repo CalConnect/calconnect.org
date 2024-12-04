@@ -2,6 +2,7 @@
 layout: page
 title: Intellectual Property Rights Policy
 type: about
+permalink: /about/policies/intellectual-property-rights-policy
 ---
 
 == Intellectual Property Rights Policy
