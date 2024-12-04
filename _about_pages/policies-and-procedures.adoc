@@ -2,6 +2,7 @@
 layout: page
 title: Policies and Procedures
 type: about
+permalink: /about/policies/policies-and-procedures
 ---
 
 == Policies and Procedures

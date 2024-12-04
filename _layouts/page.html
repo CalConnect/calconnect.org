@@ -64,13 +64,20 @@ layout: default
                                                 
                                                 <!-- Nested Subfolder Items -->
                                                 {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
-                                                <ul class="menu nav {% if entry.url != page.url %}hide{% endif %}">
+                                                    {% assign is_current_subitem = false %}
                                                     {% for subentry in entry.subsubfolderitems %}
-                                                        <li class="leaf">
-                                                            <a href="{{ subentry.url }}">{{ subentry.page }}</a>
-                                                        </li>
+                                                        {% if subentry.url == page.url %}
+                                                            {% assign is_current_subitem = true %}
+                                                        {% endif %}
                                                     {% endfor %}
-                                                </ul>
+                                                    
+                                                    <ul class="menu nav {% if entry.url != page.url and is_current_subitem == false %}hide{% endif %}">
+                                                        {% for subentry in entry.subsubfolderitems %}
+                                                            <li class="leaf">
+                                                                <a href="{{ subentry.url }}">{{ subentry.page }}</a>
+                                                            </li>
+                                                        {% endfor %}
+                                                    </ul>
                                                 {% endif %}
                                             </li>
                                         {% endfor %}
@@ -78,6 +85,7 @@ layout: default
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
+                    
                     </div>
                 </section>
             </div>
