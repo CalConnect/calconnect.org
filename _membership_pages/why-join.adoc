@@ -3,8 +3,7 @@ layout: page
 title:  Why Become a Member of CalConnect?
 type: membership
 ---
-
-== Why Become a Member of CalConnect?
+= Why Become a Member of CalConnect?
 
 This page is a "cold call" to ask you to consider joining CalConnect. As
 you have already found your way to this web page, we think there is a
@@ -73,7 +72,7 @@ product, help drive the standards, or simply get to know the people
 driving calendaring & scheduling today, CalConnect is the organization
 at the center of calendaring & scheduling today.
 
-=== *Take CalConnect for a Test Drive*
+== Take CalConnect for a Test Drive
 
 You can attend one CalConnect Conference as an observer, without having yet
 become a member. Refer to link:/events/observers[observers] for additional

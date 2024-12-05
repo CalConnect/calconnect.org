@@ -3,11 +3,11 @@ layout: page
 title: Technical Committees and Provisional Committees
 type: about
 ---
-== Technical committees and provisional committees
+= Technical committees and provisional committees
 
 _Last Updated October 2020_
 
-=== General
+== General
 
 Technical Committees are the technical working groups of CalConnect. A Technical
 Committee is established with a specific charter (scope of work), time frame,
@@ -40,101 +40,112 @@ offer a Chair for a new TC (or PC).
 For Closed Technical Committees please see link:/about/technical-committees/closed-tcs[Closed Technical Committees].
 
 
-=== Technical Coordination Committee (TCC)
+== Technical Coordination Committee (TCC)
 
 Details: https://public.calconnect.org/charter/charter-TCC/[Technical Coordination Committee (TCC)]
 
-The TCC consists of the Chairs of the active Technical Committees and Provisional Committees, and functions as an ongoing status and coordination group for the Technical Committees under the guidance of the Board of Directors or its representative. The Chair of the TCC is appointed by the Board upon recommendation by the Chairs of the Technical Committees and after a periodic call to the membership for volunteers. The TCC meets by conference call and electronically on a regular basis as determined by the committee, generally weekly, to ensure that TC activities are monitored and guided as necessary. The TCC is also responsible for final approval for publication of Technical Committee documents which have passed Last Call status, and with planning for upcoming CalConnect events.
+The TCC consists of the Chairs of the active Technical Committees and
+Provisional Committees, and functions as an ongoing status and coordination
+group for the Technical Committees under the guidance of the Board of Directors
+or its representative. The Chair of the TCC is appointed by the Board upon
+recommendation by the Chairs of the Technical Committees and after a periodic
+call to the membership for volunteers. The TCC meets by conference call and
+electronically on a regular basis as determined by the committee, generally
+weekly, to ensure that TC activities are monitored and guided as necessary. The
+TCC is also responsible for final approval for publication of Technical
+Committee documents which have passed Last Call status, and with planning for
+upcoming CalConnect events.
 
-=== Technical committees
+== Technical committees
 
-==== TC-API: Abstract API for calendaring and scheduling
+=== TC-API: Abstract API for calendaring and scheduling
 
 Details: https://public.calconnect.org/charter/charter-TC-API/[TC-API Charter]
 
 Develop an Abstract API for Calendaring and Scheduling.
 
-==== TC-AUTODISCOVERY: Service autodiscovery
+=== TC-AUTODISCOVERY: Service autodiscovery
 
 Details: https://public.calconnect.org/charter/charter-TC-AUTODISCOVERY/[TC-AUTODISCOVERY Charter]
 
 Autodiscovery of services based on internet standard protocols.
 
-==== TC-CALENDAR: Calendar improvements and extensions
+=== TC-CALENDAR: Calendar improvements and extensions
 
 Details: https://public.calconnect.org/charter/charter-TC-CALENDAR/[TC-CALENDAR Charter]
 
 Improvements and extensions to iCalendar, CalDAV, and iTIP transports, including but not limited to: iCalendardiff/patch, more compact recurrences, extensions to tasks, consensus scheduling, best current practices for iMIP, and iTIP over HTTP (iSchedule).
 
-==== TC-CALSPAM: Calendar spam prevention
+=== TC-CALSPAM: Calendar spam prevention
 
 Details: https://public.calconnect.org/charter/charter-TC-CALSPAM/[TC-CALSPAM Charter]
 
 The TC aims to understand the current and potential usage of calendar systems as a vector for delivering undesired information; devise measures and best practices for developers and operators of those systems to ensure legitimate usage.
 
-==== TC-CLIENT: Calendar client perspective
+=== TC-CLIENT: Calendar client perspective
 
 Details: https://public.calconnect.org/charter/charter-TC-CLIENT/[TC-CLIENT Charter]
 
 TC-CLIENT strives to put an emphasis on the calendar client perspective and to bring together developers of calendar clients and those interested in client-related topics.
 
-==== TC-DATETIME: Date and time standards
+=== TC-DATETIME: Date and time standards
 
 Details: https://public.calconnect.org/charter/charter-TC-DATETIME/[TC-DATETIME Charter]
 
 TC-DATETIME is the home for all date and time related work undertaken in CalConnect and between CalConnect and external liaison organizations.
 
-==== TC-DEVGUIDE: Developer guides
+=== TC-DEVGUIDE: Developer guides
 
 Details: https://public.calconnect.org/charter/charter-TC-DEVGUIDE/[TC-DEVGUIDE Charter]
 
 Develop "cookbook" and supporting materials on how to use iCalendar and potentially other APIs such as CalDAV.
 
-==== TC-LOCALIZATION: Localization standards
+=== TC-LOCALIZATION: Localization standards
 
 Details: https://public.calconnect.org/charter/charter-TC-LOCALIZATION/[TC-LOCALIZATION Charter]
 
 Enable standardization of localization technologies and approaches, and topics relevant to the usage of localization.
 
-==== TC-PUBLISH: Document publication
+=== TC-PUBLISH: Document publication
 
 Details: https://public.calconnect.org/charter/charter-TC-PUBLISH/[TC-PUBLISH Charter]
 
 Develop and maintain CalConnect document requirements and publication processes for CalConnect Standards and other public documents.
 
-==== TC-PUSH: Push notifications
+=== TC-PUSH: Push notifications
 
 Details: https://public.calconnect.org/charter/charter-TC-PUSH/[TC-PUSH Charter]
 
 Define a generic framework for push notifications within CalDAV (and CardDAV).
 
-==== TC-SHARING: Resource sharing
+=== TC-SHARING: Resource sharing
 
 Details: https://public.calconnect.org/charter/charter-TC-SHARING/[TC-SHARING Charter]
 
 Extend the existing caldav-sharing and caldav-notifications specifications to support address books and other resource types.
 
-==== TC-STREAMING: Calendar data streaming
+=== TC-STREAMING: Calendar data streaming
 
 Details: https://public.calconnect.org/charter/charter-TC-STREAMING/[TC-STREAMING Charter]
 
 Define and document a streaming protocol for calendar data.
 
-==== TC-TESTER: Testing framework
+=== TC-TESTER: Testing framework
 
 Details: https://public.calconnect.org/charter/charter-TC-TESTER/[TC-TESTER Charter]
 
 Generalize and extend capabilities of the CalDAV/CardDAV Tester.
 
-==== TC-VCARD: Contact information standards
+=== TC-VCARD: Contact information standards
 
 Details: https://public.calconnect.org/charter/charter-TC-VCARD/[TC-VCARD Charter]
 
 Extend VCARD standards to support world-wide address formats and new capabilities.
 
-=== Ad-hoc committees
 
-==== iCal4J development
+== Ad-hoc committees
+
+=== iCal4J development
 
 Develop a CalConnect version of iCal4J usable by all members and drive back into
 the mainline iCal4J.

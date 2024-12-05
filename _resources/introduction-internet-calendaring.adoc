@@ -4,7 +4,7 @@ title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
 
-== An Introduction to Internet Calendaring and Scheduling
+= An Introduction to Internet Calendaring and Scheduling
 
 ....
 CALCONNECT DOCUMENT CD 1012
@@ -21,40 +21,39 @@ and is licensed under the
 http://creativecommons.org/licenses/by/3.0/[Creative Commons 3.0 Unported License].
 
 
+== ICALENDAR
 
-=== ICALENDAR
-
-==== History
+=== History
 
 The iCalendar specification was first produced by the IETF in 1998 as
-RFC 2445 [1]. Since then it has become the dominant standard for
+RFC 2445 <<ref1>>. Since then it has become the dominant standard for
 calendar data interchange on the internet and between devices (desktop
 computers, mobile phones etc). The specification was revised in 2009 as
-RFC 5545 [4]. +
- +
-Alongside iCalendar is the iTIP specification (RFC 2446 [2] and revised
-as RFC 5546 [5]) that defines how iCalendar is used to carry out
+RFC 5545 <<ref4>>.
+
+Alongside iCalendar is the iTIP specification (RFC 2446 <<ref2>> and revised
+as RFC 5546 <<ref5>>) that defines how iCalendar is used to carry out
 scheduling operations (for example, how an organizer can invite
 attendees to a meeting and receive their replies). This forms the basis
 for email-based scheduling using iMIP (the specification that describes
-how to use iTIP with email) (RFC 2447 [3]) and revised as RFC 6047
-[12]). iCalendar itself is a text-based data format. However, an XML
+how to use iTIP with email) (RFC 2447 <<ref3>>) and revised as RFC 6047
+<<ref12>>). iCalendar itself is a text-based data format. However, an XML
 format is also available, providing a one-to-one mapping to the text
-format (RFC 6321 [7]). +
- +
+format (RFC 6321 <<ref7>>).
+
 iCalendar data files typically have a .ics file name extension. Most
 desktop calendar clients can import or export iCalendar data, or
 directly access such data over the Internet using a variety of
 protocols.
 
-==== Data Model
+=== Data Model
 
 The iCalendar data format has a well defined data model. "iCalendar
 objects" encompass a set of "iCalendar components" each of which
 contains a set of "iCalendar properties" and possibly other
 sub-components. An iCalendar property consists of a name, a set of
-optional parameters (specified as "key-value" pairs) and a value. +
- +
+optional parameters (specified as "key-value" pairs) and a value.
+
 iCalendar components include:
 
 * "VEVENT" which represents an event
@@ -91,7 +90,7 @@ important part of the iCalendar specification is the semantics of the
 calendaring model that it represents. The use of text or XML to encode
 those is secondary.
 
-==== Scheduling
+=== Scheduling
 
 The iTIP specification defines how iCalendar objects are exchanged in
 order to accomplish the key task needed to schedule events or tasks. An
@@ -108,36 +107,36 @@ whether they want to attend the meeting or not.
 iTIP supports other types of scheduling messages, for example, to cancel
 meetings, add new instances to a repeating meeting, etc.
 
-==== Extensibility
+=== Extensibility
 
 iCalendar was designed to be extensible, allowing for new components,
 properties and parameters to be defined as needed. A registry exists to
 maintain the list of standard extensions with references to their
 definitions to ensure anyone can use them and work well with others.
 
-==== WS-Calendar
+=== WS-Calendar
 
-WS-Calendar [13], jointly developed by The Calendaring and Scheduling
+WS-Calendar <<ref13>>, jointly developed by The Calendaring and Scheduling
 Consortium and OASIS, is one such extension to iCalendar. It is intended
 to provide a data model sufficient for the needs of the NIST Smart Grid
 Interoperability Standards. Many of these extensions to iCalendar also
 appear to be of use in project management, financial management, and
 other areas focused primarily on scheduling _per se_.
 
-=== CALENDAR DATA ACCESS AND EXCHANGE PROTOCOLS
+== CALENDAR DATA ACCESS AND EXCHANGE PROTOCOLS
 
-==== Internet Calendar Downloads
+=== Internet Calendar Downloads
 
 Calendar data can be downloaded from a web server via a web browser and
 then imported directly into an iCalendar aware client. Alternatively,
 calendar data could be retrieved in some other fashion from the Internet
 (e.g., sent via email as an attachment) and then imported into a
-calendar client. +
- +
+calendar client.
+
 This solution works well for calendar data that is not likely to change
 over time (for example the list of national holidays for the next year).
 
-==== Internet Calendar Subscriptions
+=== Internet Calendar Subscriptions
 
 An Internet calendar subscription is simply an iCalendar data file made
 available on a web server. However, rather than using a web browser to
@@ -148,36 +147,36 @@ regular basis for updates to the calendar data, and then update their
 own cached copy of it. This allows calendar data that changes over time
 to be kept synchronized.
 
-==== CalDAV
+=== CalDAV
 
-CalDAV is a calendar access protocol and is defined in RFC 4791 [6]. The
+CalDAV is a calendar access protocol and is defined in RFC 4791 <<ref6>>. The
 protocol is based on WebDAV which is an extension to HTTP that provides
-enhanced capabilities for document management on web servers. +
- +
+enhanced capabilities for document management on web servers.
+
 CalDAV is used in a variety of different environments, ranging from very
 large internet service providers, to large and small corporations or
-institutions, and to small businesses and individuals. +
- +
+institutions, and to small businesses and individuals.
+
 CalDAV clients include desktop applications, mobile devices and
 browser-based solutions. It can also be used by "applets", for example,
-a web page panel that displays a user's upcoming events. +
- +
+a web page panel that displays a user's upcoming events.
+
 One of the key aspects of CalDAV is its data model. Simply put, it
 defines a "calendar home" for each calendar user, within which any
 number of "calendars" can be created. Each "calendar" can contain any
 number of iCalendar objects representing individual events, tasks or
 journal entries. This data model ensures that clients and servers can
-interoperate well. +
- +
+interoperate well.
+
 In addition to providing simple operations to read, write and delete
 calendar data, CalDAV provides a querying mechanism to allow clients to
 fetch calendar data matching specific criteria. This is commonly used by
 clients to do "time-range" queries, i.e., find the set of events that
-occur within a given start/end time period. +
- +
+occur within a given start/end time period.
+
 CalDAV also supports access control allowing for features such as
-delegated calendars and calendar sharing. +
- +
+delegated calendars and calendar sharing.
+
 CalDAV also specifies how scheduling operations can be done using the
 protocol, rather than, for example, sending scheduling messages via
 email. Whilst it uses the semantics of the iTIP protocol, it simplifies
@@ -187,9 +186,9 @@ process the receipt of scheduling messages. Scheduling can be done with
 other users on the CalDAV server or with calendar users on other systems
 (via some form of "gateway").
 
-==== CalWS-REST
+=== CalWS-REST
 
-CalWS-REST[10] is a RESTful web services calendar access application
+CalWS-REST <<ref10>> is a RESTful web services calendar access application
 programming interface developed by The Calendaring and Scheduling
 Consortium and the OASIS organization, to be used as part of the OASIS
 WS-Calendar standard. It provides a programing interface to access and
@@ -198,7 +197,7 @@ services programming environment. It follows a similar data model to
 CalDAV and has been designed to co-exist with a CalDAV service offering
 the same data.
 
-==== CalWS-SOAP
+=== CalWS-SOAP
 
 CalWS-SOAP (under development) is a SOAP web services calendar access
 application programming interface still under development by The
@@ -207,9 +206,9 @@ as part of the OASIS WS-Calendar standard. As with CalWS-REST, it
 follows a similar model to CalDAV and provides slightly more features
 than the current CalWS-REST protocol.
 
-==== iSchedule
+=== iSchedule
 
-iSchedule [11] is a protocol to allow scheduling between users on
+iSchedule <<ref11>> is a protocol to allow scheduling between users on
 different calendaring systems and across different internet domains. It
 transports iTIP scheduling messages using HTTP between servers. Servers
 use DNS and various security mechanisms to determine the authenticity of
@@ -219,68 +218,51 @@ with many different systems. This allows organizations with different
 calendar systems to exchange scheduling messages with each other, and
 also allows a single organization with multiple calendar systems (for
 example due to mergers, or different departmental requirements) to
-exchange scheduling messages between users of each system. +
- +
+exchange scheduling messages between users of each system.
 
 
-==== ActiveSync/SyncML
+=== ActiveSync/SyncML
 
-ActiveSync [8] and SyncML [9] are technologies that allow multiple
+ActiveSync <<ref8>> and SyncML <<ref9>> are technologies that allow multiple
 devices to synchronize data with a server, with calendar data being one
 of the classes of data supported. These have typically been used for
 mobile devices with a broad spectrum of capabilities, but most often in
 "smart" phones.
 
-==== Exchange Web Services (EWS)
+=== Exchange Web Services (EWS)
 
-Exchange Web Services [14] is another technology that allow multiple
+Exchange Web Services <<ref14>> is another technology that allow multiple
 devices to synchronize data with an Exchange server, with calendar data
 being one of the classes of data supported. It is a SOAP based protocol
 introduced with Exchange 2007 which manages a proprietary data format.
 
-=== REFERENCES
+[bibliography]
+== References
 
-[1] https://datatracker.ietf.org/doc/rfc2445/ : 'Internet Calendaring
-and Scheduling Core Object Specification' +
- +
-[2] https://datatracker.ietf.org/doc/rfc2446/ : 'iCalendar
-Transport-Independent Interoperability Protocol' +
- +
-[3] https://datatracker.ietf.org/doc/rfc2447/ : 'iCalendar Message-Based
-Interoperability Protocol' +
- +
-[4] https://datatracker.ietf.org/doc/rfc5545/ : 'Internet Calendaring
-and Scheduling Core Object Specification' +
- +
-[5] https://datatracker.ietf.org/doc/rfc5546/ : 'iCalendar
-Transport-Independent Interoperability Protocol' +
- +
-[6] https://datatracker.ietf.org/doc/rfc4791/ : 'Calendaring Extensions
-to WebDAV' +
- +
-[7] https://datatracker.ietf.org/doc/rfc6321/ : 'xCal: The XML format
-for iCalendar' +
- +
-[8] http://msdn.microsoft.com/en-us/library/aa913903.aspx : ActiveSync +
- +
-[9]
-http://www.openmobilealliance.org/tech/affiliates/syncml/syncmlindex.html
-: SyncML +
- +
-[10]
-http://www.calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf
-: 'Restful Web Services Protocol for Calendaring' +
- +
-[11] http://tools.ietf.org/id/draft-desruisseaux-ischedule-01.txt :
-'Internet Calendar Scheduling Protocol' +
- +
-[12] https://datatracker.ietf.org/doc/rfc6047/ : 'iCalendar
-Message-Based Interoperability Protocol' +
- +
-[13]
-http://docs.oasis-open.org/ws-calendar/ws-calendar-spec/v1.0/cs01/ws-calendar-spec-v1.0-cs01.html
-: 'OASIS WS-Calendar 1.0' +
- +
-[14]
-http://msdn.microsoft.com/en-us/library/dd877045%28v=exchg.140%29.aspx :
-'Exchange Web Services'     +
+* [[[ref1,1]]] https://datatracker.ietf.org/doc/rfc2445/[Internet Calendaring and Scheduling Core Object Specification]
+
+* [[[ref2,2]]] https://datatracker.ietf.org/doc/rfc2446/[iCalendar Transport-Independent Interoperability Protocol]
+
+* [[[ref3,3]]] https://datatracker.ietf.org/doc/rfc2447/[iCalendar Message-Based Interoperability Protocol]
+
+* [[[ref4,4]]] https://datatracker.ietf.org/doc/rfc5545/[Internet Calendaring and Scheduling Core Object Specification]
+
+* [[[ref5,5]]] https://datatracker.ietf.org/doc/rfc5546/[iCalendar Transport-Independent Interoperability Protocol]
+
+* [[[ref6,6]]] https://datatracker.ietf.org/doc/rfc4791/[Calendaring Extensions to WebDAV]
+
+* [[[ref7,7]]] https://datatracker.ietf.org/doc/rfc6321/[xCal: The XML format for iCalendar]
+
+* [[[ref8,8]]] http://msdn.microsoft.com/en-us/library/aa913903.aspx[ActiveSync]
+
+* [[[ref9,9]]] http://www.openmobilealliance.org/tech/affiliates/syncml/syncmlindex.html[SyncML]
+
+* [[[ref10,10]]] link:/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[Restful Web Services Protocol for Calendaring]
+
+* [[[ref11,11]]] http://tools.ietf.org/id/draft-desruisseaux-ischedule-01.txt[Internet Calendar Scheduling Protocol]
+
+* [[[ref12,12]]] https://datatracker.ietf.org/doc/rfc6047/[iCalendar Message-Based Interoperability Protocol]
+
+* [[[ref13,13]]] http://docs.oasis-open.org/ws-calendar/ws-calendar-spec/v1.0/cs01/ws-calendar-spec-v1.0-cs01.html[OASIS WS-Calendar 1.0]
+
+* [[[ref14,14]]] http://msdn.microsoft.com/en-us/library/dd877045%28v=exchg.140%29.aspx[Exchange Web Services]

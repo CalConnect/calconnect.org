@@ -3,7 +3,7 @@ layout: page
 title: Introduction to CalConnect
 type: about
 ---
-== Introduction to CalConnect
+= Introduction to CalConnect
 
 ____
 You don't need to be a member of CalConnect to _implement_ a standard.
@@ -31,7 +31,7 @@ If you have any questions, please use the contact form, or e-mail us
 directly at
 mailto:contact@calconnect.org?subject=Contact%20from%20Introduction%20page[contact@calconnect.org].
 
-=== Overview
+== Overview
 
 CalConnect is focused on the interoperable exchange of calendaring and
 scheduling information between dissimilar programs, platforms, and
@@ -67,7 +67,7 @@ Nonprofit Mutual Benefit Corporation, at the beginning of 2004 as The
 Calendaring and Scheduling Consortium, and is recognized as a 501(C)6
 tax-exempt mutual benefit association by the Federal government.
 
-=== Background
+== Background
 
 Under the auspices of the http://www.ietf.org[IETF (Internet Engineering Task Force)] significant work was done on Calendaring and Scheduling
 standards in the 1990s and early 2000s.  in recent years. CalConnect
@@ -80,7 +80,7 @@ community.  More recently CalConnect has expanded its domain to
 collaboration standards and technologies, in particular contacts and
 date and time management.
 
-=== Membership
+== Membership
 
 Membership in CalConnect is open to any organization interested in
 furthering our goals upon submission and acceptance of a membership
@@ -98,7 +98,7 @@ technology evolution
 * Standards-setting organizations
 * Interested individuals
 
-=== Technical Committees and oversight
+== Technical Committees and oversight
 
 The technical affairs and direction of the Consortium is directed by the
 Technical Coordination Committee, which is comprised of the chairs of
@@ -108,7 +108,7 @@ necessary, open to all members of CalConnect and headed by chairs from
 members. Technical Committees will have a well-focused charter and a
 specific timeframe in which to accomplish their work.
 
-=== CalConnect Events
+== CalConnect Events
 
 CalConnect holds two or three Conferences per year, generally spaced
 evenly through the year. These conferences consist of testing
@@ -116,7 +116,7 @@ opportunities, working sessions, and more general sessions on ongoing
 and new work.  CalConnect conferences are generally four days, with
 either the first or last day available for special events.
 
-=== Work Products
+== Work Products
 
 Work in progress is restricted to CalConnect members. However, all
 completed work products are intended to be publicly and freely available

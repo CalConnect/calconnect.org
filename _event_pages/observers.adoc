@@ -3,11 +3,9 @@ layout: page
 title: Observers
 type: events
 ---
-
-== Observers
+= Observers
 
 _Current as of February 2019_
-
 
 At CalConnect Conferences, observers are individuals from an
 organization which is not a member of the CalConnect, attending to
@@ -16,7 +14,7 @@ organization to join. Generally, an organization can only attend one
 CalConnect Conference as an Observer.
 
 
-=== Information about Previous CalConnect Events
+== Information about Previous CalConnect Events
 
 Information about each CalConnect Conference (and former
 Interoperability Test Events) is published shortly after each event in
@@ -38,7 +36,7 @@ find copies of the newsletters at link:/minutes[CalConnect Minutes]. The
 newsletter ceased publication in 2012.
 
 
-==== Observers at a CalConnect Conference
+== Observers at a CalConnect Conference
 
 Attendance and participation at a CalConnect Conference is generally
 limited to representatives of members of CalConnect. However, a

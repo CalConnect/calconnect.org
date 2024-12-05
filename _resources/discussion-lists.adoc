@@ -3,8 +3,7 @@ layout: page
 title:  CalConnect Public Discussion Lists
 type: resources
 ---
-
-== CalConnect Public Discussion Lists
+= CalConnect Public Discussion Lists
 
 _Last updated 18 October 2018_
 
@@ -19,7 +18,7 @@ subscription requests must be approved to be activated. Only subscribers
 may post to lists, or receive postings from the list. However, the list
 archives are publicly available even for closed public lists._
 
-=== Calendar and Scheduling Developer List
+== Calendar and Scheduling Developer List
 
 URL: link:discussion-lists/developers-list[Calendar and Scheduling Developer List]
 
@@ -34,7 +33,7 @@ scheduling system developers, and others working on calendaring-related
 and scheduling-related projects. However, the list is open to any and
 all participants that agree to and adhere to the rules of use.
 
-=== Calendaring and Scheduling Sysadmin List
+== Calendaring and Scheduling Sysadmin List
 
 URL: link:/resources/discussion-lists/sysadmin-list[Calendaring and Scheduling Sysadmin List]
 
@@ -51,7 +50,7 @@ The primary audience and expected participants are calendaring and
 scheduling system administrators. However, the list is open to any and
 all participants that agree to and adhere to the rules of use.
 
-=== Public Review and Comment List
+== Public Review and Comment List
 
 link:discussion-lists/public-review-and-comment[Public Review and Comment List]
 
@@ -73,7 +72,7 @@ offering suggestions on a proposed standard or other document; however
 the list is open to any and all participants that agree to and adhere to
 the rules of use.
 
-=== Time Zone Discussion List
+== Time Zone Discussion List
 
 link:/resources/discussion-lists/time-zone-discussion[*Time Zone Discussion List*]
 

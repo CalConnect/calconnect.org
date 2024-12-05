@@ -3,10 +3,9 @@ layout: page
 title: Event Reports
 type: events
 ---
+= Event Reports
 
-== Event Reports
-
-=== General
+== General
 
 NOTE: As of CalConnect XLIII (September 2018) separate conferences and test
 events/developers forums were discontinued and a single multi-day event covering
@@ -14,34 +13,28 @@ sessions of all types was instituted. Therefore there will be no Test
 Event/Developers Forum reports after CalConnect XLII, and the "CalConnect
 Conference" report will cover all activities at the event.
 
-* link:#conferences[CalConnect Conferences]
-* link:#ioptestevents[CalConnect Test Events/Developers Forums]
+* <<conferences>>
+* <<ioptestevents>>
 
 [#conferences]
-=== CalConnect Conferences
+== CalConnect Conferences
 
-link:/sites/default/files/documents/conference46rpt.pdf[*CalConnect
-Conference XLVI*] (October 7-10 2019). +
+link:/pubdocs/conference46rpt.pdf[*CalConnect Conference XLVI*] (October 7-10 2019). +
 Hosted by Fastmail, Philadelphia, Pennsylvania USA
 
-link:/sites/default/files/documents/conference45rpt.pdf[*CalConnect
-Conference XLV*] (June 3-6 2019). +
+link:/pubdocs/conference45rpt.pdf[*CalConnect Conference XLV*] (June 3-6 2019). +
 Hosted by Youcanbook.me, Bedford, United Kingdom
 
-link:/sites/default/files/documents/conference44rpt.pdf[*CalConnect
-Conference XLIV*] (February 05-08 2019). +
+link:/pubdocs/conference44rpt.pdf[*CalConnect Conference XLIV*] (February 05-08 2019). +
 Hosted by Google, Zürich, Switzerland
 
-link:/sites/default/files/documents/conference43rpt.pdf[*CalConnect
-Conference XLIII*] (September 24-27 2018). +
+link:/pubdocs/conference43rpt.pdf[*CalConnect Conference XLIII*] (September 24-27 2018). +
 Hosted by 1&1, Karlsruhe, Germany
 
-link:/sites/default/files/conference42rpt.pdf[*CalConnect
-Conference XLII*] (June 6-8 2018). +
+link:/pubdocs/conference42rpt.pdf[*CalConnect Conference XLII*] (June 6-8 2018). +
 Hosted by Jorte, Tokyo, Japan
 
-link:/pubdocs/conference41rpt.pdf[*CalConnect Conference
-XLI*] (January 31 - February 02 2018). +
+link:/pubdocs/conference41rpt.pdf[*CalConnect Conference XLI*] (January 31 - February 02 2018). +
 Hosted by Oath, Sunnyvale, California
 
 link:/pubdocs/conference40rpt.pdf[*CalConnect Conference XL*] (September
@@ -203,19 +196,19 @@ link:/pubdocs/roundtable1rpt.pdf[*Roundtable I*] (September 23-24
 2004). +
 Hosted by Oracle Corporation in Montreal, Canada. This was the
 invitation-only meeting held during the formation of the Consortium and
-prior to its first member meeting. +
+prior to its first member meeting.
 
 
 [#ioptestevents]
-==== CalConnect Test Events/Developers Forums
+=== CalConnect Test Events/Developers Forums
 
-_Note: Through CalConnect XXXII the Test Event and Developers Forum was
-called the Interoperability Test Event or Interop_
+NOTE: Through CalConnect XXXII the Test Event and Developers Forum was
+called the Interoperability Test Event or Interop.
 
 *Jun 04-06, 2018*: Hosted by Jorte in Tokyo, Japan, as part of
 CalConnect XLII. +
 Please refer to
-link:/sites/default/files/ioptestevent42rpt.pdf[June
+link:/pubdocs/ioptestevent42rpt.pdf[June
 2018 CalConnect Test Event / Developers Forum Report].
 
 *Jan 29-31, 2018*: Hosted by Oath in Sunnyvale, California, as part of
@@ -257,7 +250,7 @@ CalConnect Interoperability Test Event Report].
 *Sep 28-30, 2015*: Hosted by Gershon Janssen as part of CalConnect
 XXXIV. +
 Please refer to link:/pubdocs/ioptestevent34rpt.pdf[September 2015
-CalConnect Interoperability Test Event Report]. +
+CalConnect Interoperability Test Event Report].
 
 *May 18-20, 2015*: Hosted by 1&1 as part of CalConnect XXXIII. +
 Please refer to link:/pubdocs/ioptestevent33rpt.pdf[May 2015 CalConnect
@@ -432,7 +425,7 @@ link:/pubdocs/CD0402%20July%202004%20CalConnect%20Interoperability%20Test%20Resu
 link:/pubdocs/CD0403%20July%202004%20CalConnect%20Interoperability%20Test%20Report.pdf[July
 2004 Interoperability Test Report].
 
-=== CALSCH Interoperability Testing
+== CALSCH Interoperability Testing
 
 Prior to the formation of CalConnect, the CALSCH Working Group of the IETF
 sponsored three interoperability testing events between April 2000 and September

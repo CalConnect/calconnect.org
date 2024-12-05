@@ -30,7 +30,6 @@ endorsement or recommendation of that calendaring service or vendor, or any
 other calendaring service or vendor.
 
 
-
 === Ongoing CalConnect Conference Calls and Activities
 
 "CalConnect_Calendar" is the combined master calendar containing events

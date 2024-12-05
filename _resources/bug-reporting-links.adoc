@@ -3,8 +3,7 @@ layout: page
 title:  Calendaring Systems Bug Reporting
 type: resources
 ---
-
-== Calendaring Systems Bug Reporting
+= Calendaring Systems Bug Reporting
 
 _Page last updated 05 October 2015_
 

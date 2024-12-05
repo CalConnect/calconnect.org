@@ -1,5 +1,5 @@
 about:
-  - title: 
+  - title:
     subfolderitems:
       - page: Introduction
         url: /about
@@ -62,7 +62,7 @@ about:
       - page: History
         url: /about/history
 membership:
-  - title: 
+  - title:
     subfolderitems:
       - page: CalConnect Members
         url: /membership
@@ -87,7 +87,7 @@ membership:
       - page: Distinguished Service Award
         url: /membership/distinguished-service-award
 events:
-  - title: 
+  - title:
     subfolderitems:
       - page: Upcoming Events
         url: /events
@@ -110,7 +110,7 @@ events:
       - page: Calendars
         url: /events/calendars
 resources:
-  - title: 
+  - title:
     subfolderitems:
       - page: Resources
         url: /resources
@@ -139,19 +139,19 @@ resources:
       - page: Event Reading Lists
         url: /resources/event-reading-list
       - page: Event Reports
-        url: https://www.calconnect.org/events/event-reports
+        url: /events/event-reports
       - page: Member Services and Resources
         url: /resources/member-services-and-resources
       - page: Patent Information Database
         url: https://standards.calconnect.org/patents/
       - page: Presentations
-        url: https://www.calconnect.org/news/presentations
+        url: /news/presentations
       - page: Public Discussion Lists
         url: /resources/discussion-lists
       - page: Public Review
         url: /resources/public-review
 news: &news_content
-  - title: 
+  - title:
     subfolderitems:
       - page: Latest News
         url: /news

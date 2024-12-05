@@ -3,10 +3,9 @@ layout: page
 title:  7 Things You Should Know About...
 type: resources
 ---
+= 7 Things You Should Know About...
 
-== 7 Things You Should Know About...
-
-=== General
+== General
 
 CalConnect has initiated a new serious of high-level "briefing"
 documents, modeled on the "7 Things You Should Know About" series
@@ -17,7 +16,7 @@ one and why one should care. Our thanks to Educause for the inspiration.
 Watch this space for new entries; they will be announced as they become
 available.
 
-=== 7 Things You Should Know About The Abstract Calendaring API
+== 7 Things You Should Know About The Abstract Calendaring API
 
 * link:/resources/7-things-you-should-know-about/abstract-calendaring-api[7 Things You Should Know About The Abstract Calendaring API]
 
@@ -27,7 +26,7 @@ and constraints on the data elements and ways in which they can be
 created and modified."
 
 
-=== 7 Things You Should Know About Calendar and Contacts Sharing
+== 7 Things You Should Know About Calendar and Contacts Sharing
 
 * link:/resources/7-things-you-should-know-about/calendar-and-contacts-sharing[7 Things You Should Know About Calendar and Contacts Sharing]
 
@@ -35,7 +34,7 @@ created and modified."
 calendars and CardDAV address books between users. "
 
 
-=== 7 Things You Should Know About Consensus Scheduling
+== 7 Things You Should Know About Consensus Scheduling
 
 * link:/resources/7-things-you-should-know-about/consensus-scheduling[7 Things You Should Know About Consensus Scheduling]
 
@@ -50,7 +49,7 @@ they may have to adjust their response for the benefit of the entire
 group."
 
 
-=== 7 Things You Should Know About Digital Travel Itineraries
+== 7 Things You Should Know About Digital Travel Itineraries
 
 * link:/resources/7-things-you-should-know-about/digital-travel-itineraries[7 Things You Should Know About Digital Travel Itineraries]
 
@@ -66,7 +65,7 @@ often involve items with a "time-based" element to them, such as when a
 travel segment is expected to start or end."
 
 
-=== 7 Things You Should Know About PUSH
+== 7 Things You Should Know About PUSH
 
 * link:/resources/7-things-you-should-know-about/push[7 Things You Should Know About PUSH]
 
@@ -76,7 +75,7 @@ rather than waiting for the client to ask the server about any changes
 (polling)."
 
 
-=== 7 Things You Should Know About Tasks
+== 7 Things You Should Know About Tasks
 
 * link:/resources/7-things-you-should-know-about/tasks[7 Things You Should Know About Tasks]
 

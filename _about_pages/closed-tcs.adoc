@@ -4,8 +4,9 @@ title: Closed technical committees
 type: about
 permalink: about/technical-committees/closed-tcs
 ---
+= Closed Technical Committees
 
-== Closed Technical Committees
+_As of October 2015_
 
 Technical Committees are the technical working groups of the Consortium. A
 Technical Committee is established with a specific charter (scope of work), time
@@ -20,13 +21,13 @@ Information about currently active Technical Committees may be found at
 link:/about/technical-committees[Active Technical Committees].
 
 
-== Closed Technical Committees as of October 2015
+== CALSCALE Ad Hoc
 
-=== CALSCALE Ad Hoc
 
 RSCALE for iCalendar: Recurrences in non-Gregorian calendars (included in Closed TCs due to its duration and contributions)
 
-=== TC-CALDAV
+== TC-CALDAV
+
 
 TC-CALDAV was chartered to develop CalDAV and related specifications including but not limited to submitting specifications to the IETF to become internet standards. It was also responsible for producing test cases for CalDAV testing at the Interoperability Test Events.
 
@@ -47,45 +48,52 @@ Work products included:
 * RFC 6578 Collection Synchronization for WebDAV
 * WebDAV Current Principal Extension
 
-=== TC-DSI
+== TC-DSI
+
 TC-DSI (Download/Subscription/Import) was chartered to define, establish and promote a general, standard way for calendar import and subscription services to be presented and/or accessed.
 
 After exploratory work CalConnect concluded that parts of this TC's charter were outside the scope or capabilities of CalConnect. The parts of the TC's charter which were in scope were folded into TC-EVENTPUB.
 
-=== TC-EVENTPUB
+== TC-EVENTPUB
+
 TC-EVENTPUB was chartered to establish standards and best practices for the event publication community. Public events tend to be outwards facing, managed, and consumed by multiple and diverse clients. The TC was to focus on the unique aspects of events and their required field structures intended for public audiences. These fields are meant to enable event categorization and search in an open yet standardized way, and enable easy discovery of events in local areas or other areas of interest. Finally, the TC was to define, establish and promote a general, standard way for calendar import and subscription services to be presented and/or accessed.
 
 TC-EVENTPUB was closed in 2017 and responsibility for its outstanding specifications (Support for iCalendar Relationships (with TC-TASKS), V-event URI: An URI Scheme for Events, and Event Publishing Extensions to iCalendar) transferred to the new TC-CALENDAR.
 
-=== TC-FREEBUSY
+== TC-FREEBUSY
+
 The FREEBUSY Technical Committee was originally chartered to collaborate with The Open Group on their "Federated FREEBUSY Vendor Challenge", to produce a working, standards-based solution, using current products, to the problem of determining a mutually agreeable time for online meetings spanning many timezones. This concentrated on the delivery of freebusy information across platforms and systems.
 
 Subsequent experience demonstrated that freebusy information is inadequate for this purpose and the committee concentrated on other solutions, such as identifying available times through VAVAILABILITY and a standardization of the popular consensus scheduling approach taken by services such as Doodle and Timetrade, in order to integrate those capabilities into mainstream calendaring and scheduling and enable interoperability.
 
 TC-FREEBUSY was closed in 2017 and responsibility for its outstanding specification (VPOLL) transferred to the new TC-CALENDAR.
 
-=== TC-FSC
+== TC-FSC
+
 The Federated Shared Calendars Technical Committee was chartered to examine the problem of allowing people to share individual calendars between different calendaring systems and to propose a solution. To that end the committee was to identify the requirements for such sharing, develop a protocol for such sharing, and define mechanisms that can be implemented jointly by calendaring systems such as x and y (e.g. iCloud and Google).
 
 A goal of the work was to avoid any requirement for creating a userid on the originating system to allow an invitee to share a calendar.
 
 TC-FSC was closed in 2017 and its goals and potential work program transferred to TC-SHARING.
 
-=== TC-IMIP
+== TC-IMIP
+
 iMIP (RFC 6047) defines how iCalendar based scheduling is done using email messages to transport the iCalendar data. iMIP has been in use for quite some time and is the only standards-based solution for scheduling between different calendar systems and service providers. However, interoperability problems do exist in iMIP causing scheduling messages to be not automatically delivered, or fail to be recognized. Since iMIP will likely continue to be used for quite some time, it is imperative that these interoperability issues be identified and fixed.
 
 TC-IMIP was tasked with identifying and categorizing problems in the use of iMIP in existing calendaring and scheduling products and services. As issues are found, their impact should be considered and where appropriate, fixes proposed to address the problem. Given the current wide deployment of iMIP, changes to the protocol need to be carefully managed to prevent adding more interoperability problems.
 
 In 2017 TC-IMIP was closed and its program of work transferred to TC-CALENDAR.
 
-=== TC-ISCHEDULE
+== TC-ISCHEDULE
+
 TC-ISCHEDULE was established to develop a proposal for the Internet Scheduling Protocol (iSchedule) which specified a binding from the iCalendar Transport-Independent Interoperability Protocol (iTIP) to the HyperText Transfer Protocol (HTTP).
 
 The specification was developed and successfully demonstrated multiple times at CalConnect events, however difficulties arose with identification and authorization issues between servers not in well-defined federated or enterprise environments. The basic iSchedule protocol has been implemented by several organizations.
 
 In 2017 TC-ISCHEDULE was closed and responsibility for the iSchedule specification was transferred to TC-CALENDAR for progression.
 
-=== TC-MOBILE
+== TC-MOBILE
+
 TC-MOBILE was chartered to develop recommendations for open standards-based calendaring on mobile devices.
 
 The TC originally focused on pushing mobile device vendors to adopt iCalendar, the current version of the standard, instead of the obsolete vCalendar. Subsequent focus was on restrictions on calendaring interoperability imposed by mobile device limitations, the development of a Mobile Interoperability Test Suite, and conducting three Mobile Interoperability Test Events. The TC was closed when capacity, speed, and calendaring capabilities on mobile devices (in particular "smart phones") reached the point where consideration of mobile calendaring converged into the larger discussions about calendaring and scheduling in general.
@@ -100,7 +108,8 @@ Work products included:
 * November 2008 CalConnect Mobile Interoperability Test Report
 * May 2010 TC MOBILE Interoperability Test Event Report
 
-=== TC-RECURR
+== TC-RECURR
+
 TC-RECURR (Recurrence) was chartered to develop a problem statement and recommendations for simplification of recurrence rules for the IETF CALSIFY working group which led to the revisions of iCalendar, iTIP and iMIP.
 
 Work products included:
@@ -108,12 +117,14 @@ Work products included:
 * Results from First Recurrence Questionnaire[Results from First Recurrence Questionnaire]
 * iCalendar Recurrence Problems and Recommendations[iCalendar Recurrence Problems and Recommendations]
 
-=== TC-RESOURCE
+== TC-RESOURCE
+
 Scheduling of resources plays an important role in the calendaring and scheduling world. TC-RESOURCE was established to develop generalized seamless resource scheduling between any client and any server. The TC developed several specifications (vCard Representation of Resources, Schema for Representing Resources for C&S Services, Objectclass Property for vCard, Scheduleable Objectclass property for vCard), largely based upon extensions to VCARD4, but the lack of adoption of VCARD4 ultimately led to the progress of the specifications stalling.
 
 In 2017, TC-RESOURCE was closed and responsibility for its outstanding specifications was transferred to TC-VCARD.
 
-=== TC-TASKS
+== TC-TASKS
+
 TC-TASKS was chartered to extend the functionality of the iCalendar and specifically VTODO object model to provide enhanced support for tasks including needs such as project management, smart power grids and business task scheduling, in a way that allows a calendaring system to manage the data and calendaring clients to display and change it.
 
 The approach taken was to survey existing task management standards in particular WS-HumanTask and WS-Calendar and to incorporate elements from these into the iCalendar standards which are required for the communication of task scheduling information and execution of tasks by a participant.
@@ -124,7 +135,8 @@ The Technical Committee produced a Task Architecture[Task Architecture] which wa
 
 In 2017 TC-TASKS was closed and responsibility for its outstanding specification at the IETF transferred to TC-CALENDAR.
 
-=== TC-TIMEZONE (original and reactivation)
+== TC-TIMEZONE (original and reactivation)
+
 TC-TIMEZONE was chartered to develop problem statements and recommendations for VTIMEZONE and recommendations for a TIMEZONE Registry and TIMEZONE service.
 
 During the course of TC-TIMEZONE's initial work, the proposal for and adoption of Extended Daylight Savings Time by the United States Congress led to the formation of the DST Ad Hoc Committee within. After TC-TIMEZONE finished its original scope of work and closed, the DST Ad Hoc continued with its work of reporting on the implications of EDST and links, advisories and changes for organizations affected by EDST. The work of the DST Ad Hoc is reported as part of TC-TIMEZONE.
@@ -146,7 +158,8 @@ Work products included:
 * Time Zone Data Distribution Service (RFC 7808)
 * Calendaring Extensions to WebDAV (CalDAV): Time Zones by Reference (RFC 7809)
 
-=== TC-USECASE
+== TC-USECASE
+
 TC-USECASE was chartered to develop use cases and recommendations for areas of calendaring on behalf of Technical Committees, in particular from the perspective of the user community. In particular its early work focused on the concept of a "Minimum Interoperable Subset" - the minimum set of functionality which must interoperate between two separate implementations to allow an organization deploying both implementations to successfully function. TC-USECASE also developed and published the first version of the Calendaring and Scheduling Glossary of Terms. TC-USECASE was closed in 2013 and its mandate assigned to the CalConnect Steering Committee.
 
 Work products included:
@@ -159,7 +172,8 @@ Work products included:
 * A Recommendation for Minimum Interoperability of Resource Information
 * Calendaring and Scheduling Glossary of Terms (Version 2)
 
-=== TC-XML
+== TC-XML
+
 TC-XML was chartered to develop a two-way reference mapping of iCalendar to XML (and later to JSON), abd to develop a core abstract calendaring API and web services bindings for that API.
 
 TC-XML developed both XML and JSON representations for iCalendar data, respectively xCal and jCal, and produced drafts published at the IETF (xCal is now RFC 6321, jCal is in final review). In addition, TC-XML supported an ongoing liaison with OASIS and worked with them on SOAP and Rest API's for calendaring, as part of the "smart grid" work by the OASIS WS-Calendar technical committee. The SOAP and Rest API's have been published as CalConnect documents and also incorporated into the OASIS WS-Calendar specification. Additional IETF drafts have been produced for new properties used by that work, and are being used by other TCs (e.g. TC-TASKS) and will progress at the IETF along with the other TC's work.

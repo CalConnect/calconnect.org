@@ -3,8 +3,7 @@ layout: page
 title:  Architectural and Related Diagrams
 type: resources
 ---
-
-== Architectural and Related Diagrams
+= Architectural and Related Diagrams
 
 This page links to architectural and other related diagrams for
 Calendaring and Scheduling.
@@ -15,11 +14,11 @@ the diagram itself, and are made available under a Creative Commons
 license; see
 link:/about/policies/copyright-licensing[Copyright and License Information].
 
-link:/architectures/Calendaring%20Architecture.pdf[*Calendaring Service Architecture*]:
+* link:/architectures/Calendaring%20Architecture.pdf[*Calendaring Service Architecture*]:
 A high-level architectural diagram of the calendaring
 and scheduling environment, from
 link:/about/technical-committees/tc-api[TC API].
 
-link:/architectures/Task%20Architecture%201.0.pdf[*Task Architecture*]:
+* link:/architectures/Task%20Architecture%201.0.pdf[*Task Architecture*]:
 Overall architecture for Tasks (VTODOs) in a calendaring and scheduling
 environment, from link:/about/technical-committees/tc-tasks[TC TASKS].

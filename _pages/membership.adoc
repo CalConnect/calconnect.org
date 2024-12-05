@@ -5,41 +5,41 @@ type: membership
 ---
 :page-liquid:
 
-== Members of CalConnect
+= Members of CalConnect
 
 CalConnect expresses its thanks to its members for their support for
 CalConnect and its mission and activities.
 
+// Member logos
 ++++
-<div id="block-member-logos" class=" block-views">
-    <div class="view view-membership-list">
-        <div class="view-content">
-            {% assign members = site.data.members.list %}
-            
-            <!-- Check if members exist -->
-            {% if members %}
-                {% for item in members %}
-                    {% if item.subfolderitems %}
-                        {% for entry in item.subfolderitems %}
-                            <div class="views-row">
-                                <div class="views-field views-field-field-image">
-                                    <div class="field-content">
-                                        <a href="{{ entry.url }}" title="{{ entry.name }}">
-                                            <img src="{{ entry.logo }}" alt="{{ entry.name }}" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endfor %}
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-        </div>
-    </div>
-</div>
+<div id="block-member-logos" class="block-views">
+  <div class="view view-membership-list">
+    <div class="view-content">
+      {% assign members = site.data.members %}
 
+      <!-- Check if members exist -->
+      {% if members %}
+        {% for entry in members %}
+        <div class="views-row">
+          <div class="views-field views-field-field-image">
+            <div class="field-content">
+              <a href="{{ entry.url }}" title="{{ entry.name }}">
+                <img src="{{ entry.logo }}" alt="{{ entry.name }}" class="img-responsive">
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</div>
+++++
+
+// Google Map of member locations
+++++
 <div id="block-member-map" class="block block-block ">
-    <h2 class="block-title">Member Locations</h2>
-    <p><iframe height="480" src="https://www.google.com/maps/d/embed?mid=zAGk0uNAIT6I.kclz4fyHsOsk&amp;hl=en" width="100%"></iframe></p>
+  <h2 class="block-title">Member Locations</h2>
+  <p><iframe height="480" src="https://www.google.com/maps/d/embed?mid=zAGk0uNAIT6I.kclz4fyHsOsk&amp;hl=en" width="100%"></iframe></p>
 </div>
 ++++

@@ -37,7 +37,6 @@ and related documents using
 http://www.rddl.org/[Resource Directory Description Language].
 
 
-
 ==== Other Code Artifacts
 
 None at present.
