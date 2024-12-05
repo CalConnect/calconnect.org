@@ -85,6 +85,30 @@ layout: default
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
+
+                        {% assign members = site.data.members.list %}
+                        
+                        <!-- Check if members exists -->
+                        {% if members and page.url == '/membership/' %}
+                            {% for item in members %}
+                                
+                                <!-- Submenu Title -->
+                                {% if item.title %}
+                                    <h3>{{ item.title }}</h3>
+                                {% endif %}
+                                
+                                <!-- Subfolder Items -->
+                                {% if item.subfolderitems and item.subfolderitems[0] %}
+                                    <ul class="menu nav membership-list">
+                                        {% for entry in item.subfolderitems %}
+                                            <li class="leaf">
+                                                {{ entry.name }}
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
                     
                     </div>
                 </section>
