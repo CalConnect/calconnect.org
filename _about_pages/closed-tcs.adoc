@@ -2,6 +2,7 @@
 layout: page
 title: Closed technical committees
 type: about
+permalink: about/technical-committees/closed-tcs
 ---
 
 == Closed Technical Committees
