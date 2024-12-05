@@ -996,3 +996,13 @@ ul.action-links {
     height: 132px;
   }
 }
+
+.membership-list {
+  padding-left: 1em;
+  margin-left: 1em;
+}
+
+.membership-list li {
+  display: list-item;
+  list-style: circle !important;
+}

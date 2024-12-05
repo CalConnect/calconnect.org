@@ -3,43 +3,43 @@ layout: page
 title:  Members of CalConnect
 type: membership
 ---
+:page-liquid:
 
 == Members of CalConnect
 
 CalConnect expresses its thanks to its members for their support for
 CalConnect and its mission and activities.
 
-[cols="1,1,1,1", options="header"]
-|===
+++++
+<div id="block-member-logos" class=" block-views">
+    <div class="view view-membership-list">
+        <div class="view-content">
+            {% assign members = site.data.members.list %}
+            
+            <!-- Check if members exist -->
+            {% if members %}
+                {% for item in members %}
+                    {% if item.subfolderitems %}
+                        {% for entry in item.subfolderitems %}
+                            <div class="views-row">
+                                <div class="views-field views-field-field-image">
+                                    <div class="field-content">
+                                        <a href="{{ entry.url }}" title="{{ entry.name }}">
+                                            <img src="{{ entry.logo }}" alt="{{ entry.name }}" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</div>
 
-| https://www.apple.com[image:/assets/images/Apple%20Inc.png[Apple]]
-| https://www.audriga.com[image:/assets/images/audriga.png[Audriga]]
-| https://www.bedework.com[image:/assets/images/bcs.png[Bedework]]
-| https://www.burbio.com[image:/assets/images/burbiologo.png[Burbio]]
-
-| https://caldavsynchronizer.org[image:/assets/images/cdsyncronizer.png[CalDAV Synchronizer]]
-| https://www.cronofy.com[image:/assets/images/cronofy_logo.png[Cronofy]]
-| https://www.dhl.com[image:/assets/images/dhl_logo.gif[DHL Express]]
-| https://www.fastmail.com[image:/assets/images/FM-Logo-RGB.png[Fastmail]]
-
-| https://www.google.com[image:/assets/images/google2018.jpg[Google]]
-| link:[image:/assets/images/HeyLife.png[HeyLife]]
-| https://www.jorte.com/en[image:/assets/images/jorte_logo.png[Jorte]]
-| https://www.m3aawg.org/[image:/assets/images/M3AAWG.png[M3AAWG]]
-
-| https://www.marketcircle.com[image:/assets/images/Marketcircle.png[Marketcircle]]
-| https://www.oasis-open.org[image:/assets/images/oasis-logo.jpg[OASIS]]
-| https://www.open-xchange.com[image:/assets/images/open-xchange.png[Open-Xchange]]
-| https://www.ribose.com[image:/assets/images/ribose_120.jpg[Ribose]]
-
-| https://schedjoules.com[image:/assets/images/schedjoules.jpg[SchedJoules]]
-| https://www.universityofcalifornia.edu/[image:/assets/images/universityofcalifornia.gif[University of California]]
-| https://www.thunderbird.net[image:/assets/images/thunderbirdvl.png[Thunderbird]]
-| https://www.yahoo.com[image:/assets/images/Yahoo.png[Yahoo]]
-
-| https://www.youcanbook.me[image:/assets/images/youcanbookme.png[YouCanBook.me]]
-| https://www.zimbra.com[image:/assets/images/zimbra1.png[Zimbra]]
-|
-|
-
-|===
+<div id="block-member-map" class="block block-block ">
+    <h2 class="block-title">Member Locations</h2>
+    <p><iframe height="480" src="https://www.google.com/maps/d/embed?mid=zAGk0uNAIT6I.kclz4fyHsOsk&amp;hl=en" width="100%"></iframe></p>
+</div>
+++++
