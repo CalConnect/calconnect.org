@@ -11,6 +11,39 @@ about:
         url: /about/structure
       - page: Technical Committees
         url: /about/technical-committees
+        subsubfolderitems:
+          - page: TCC Technical Coordination Committee
+            url: https://public.calconnect.org/charter/charter-TCC/
+          - page: TC-API
+            url: https://public.calconnect.org/charter/charter-TC-API/
+          - page: TC-AUTODISCOVERY
+            url: https://public.calconnect.org/charter/charter-TC-AUTODISCOVERY/
+          - page: TC-CALENDAR
+            url: https://public.calconnect.org/charter/charter-TC-CALENDAR/
+          - page: TC-CALSPAM
+            url: https://public.calconnect.org/charter/charter-TC-CALSPAM/
+          - page: TC-CLIENT
+            url: https://public.calconnect.org/charter/charter-TC-CLIENT/
+          - page: TC-DATETIME
+            url: https://public.calconnect.org/charter/charter-TC-DATETIME/
+          - page: TC-DEVGUIDE
+            url: https://public.calconnect.org/charter/charter-TC-DEVGUIDE/
+          - page: TC-LOCALIZATION
+            url: https://public.calconnect.org/charter/charter-TC-LOCALIZATION/
+          - page: TC-PUBLISH
+            url: https://public.calconnect.org/charter/charter-TC-PUBLISH/
+          - page: TC-PUSH
+            url: https://public.calconnect.org/charter/charter-TC-PUSH/
+          - page: TC-SHARING
+            url: https://public.calconnect.org/charter/charter-TC-SHARING/
+          - page: TC-STREAMING
+            url: https://public.calconnect.org/charter/charter-TC-STREAMING/
+          - page: TC-TESTER
+            url: https://public.calconnect.org/charter/charter-TC-TESTER/
+          - page: TC-VCARD
+            url: https://public.calconnect.org/charter/charter-TC-VCARD/
+          - page: Closed TCs
+            url: /about/technical-committees/closed-tcs
       - page: Major Work Projects
         url: /about/major-work-projects
       - page: Policies
