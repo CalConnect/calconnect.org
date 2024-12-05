@@ -31,4 +31,4 @@ evolution
 
 * Organizations interested in participation in standards development
 within CalConnect and via our liaisons with other international
-standards organizations such as ISO
+standards organizations such as ISO.

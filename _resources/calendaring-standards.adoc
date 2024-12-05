@@ -3,8 +3,9 @@ layout: page
 title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
+= An Introduction to Internet Calendaring and Scheduling
 
-== An Introduction to Internet Calendaring and Scheduling
+:toc:
 
 ....
 CALCONNECT DOCUMENT CD 1104
@@ -16,7 +17,7 @@ Status:    Published
 Source:    CalConnect
 ....
 
-=== Introduction
+== Introduction
 
 This page provides links, titles, and very brief abstracts of
 Calendaring and Calendaring-related (e.g. WebDAV, vCard) standards,
@@ -25,578 +26,509 @@ subdivided in turn to base standards, additions and extensions, and work
 in progress. Entries are alphabetical by title within section. The
 material linked is largely but not entirely IETF and CalConnect.
 
-*All items that are work products of CalConnect are identified on the
-title line by* _*CalConnect*_.
-
+*All items that are work products of CalConnect are identified on the title line by*
+*CalConnect*.
 
 We would appreciate additions and corrections to the list; please send
 any recommendations to
 mailto:info@calconnect.org?subject=Standards%20Recommendations[Standards Recommendations to CalConnect]
 
-
-
 NOTE: The Date of Publication at the masthead reflects the most
 recent additions or changes to the page.
 
-
-
-[cols="^,^,^,^,^,^,^",]
-|===
-|*Index and Links* | | | | | |
-
-|link:#General[General] |link:#iCalendar[iCalendar]
-|link:#CalDAV[CalDAV] |link:#vCard[vCard] |link:#CardDAV[CardDAV]
-|link:#WebDAV[WebDAV] |link:#Related[Related]
-|===
-
-
-
-
-'''''
-
 [[General]]
-==== General
+== General
 
-link:/CD1012_Intro_Calendaring[*An Introduction to Internet
-Calendaring*]
-_This CalConnect guide introduces internet calendaring and the major
+* link:/CD1012IntroCalendaring[*An Introduction to Internet Calendaring*]
+This CalConnect guide introduces internet calendaring and the major
 standards and specifications related to calendaring and scheduling.
-*_CalConnect_*_
+*CalConnect*
 
-https://devguide.calconnect.org/[*Calendaring and Scheduling Glossary of
-Terms*]
-_A Glossary of Calendaring and Scheduling Terms.  *_CalConnect_*_
-
-
-'''''
+* https://devguide.calconnect.org/[*Calendaring and Scheduling Glossary of Terms*]
+A Glossary of Calendaring and Scheduling Terms.
+*CalConnect*
 
 [[iCalendar]]
-==== iCalendar
+== iCalendar
 
-===== Base Standards
+=== Base Standards
 
-https://tools.ietf.org/html/rfc7953[*Calendar Availability RFC 7953*]
-_This document specifies a new iCalendar calendar component
+* https://tools.ietf.org/html/rfc7953[*Calendar Availability RFC 7953*]
+This document specifies a new iCalendar calendar component
 VAVAILABILITY that allows the publication of available and unavailable
 time periods associated with a calendar user. This component can be used
 in standard iCalendar free-busy lookups, including iTIP free-busy
 requests, to generate repeating blocks of available or busy time with
-exceptions as needed.  _CalConnect__
+exceptions as needed.
+*CalConnect*
 
-http://www.ietf.org/rfc/rfc5545.txt[*Internet Calendaring and Scheduling
-Core Object Specification (iCalendar) RFC 5545*]
-_iCalendar is the core data schema for calendaring information. This is
-the new version and obsoletes RFC2445.  *CalConnect input*_
+* https://tools.ietf.org/html/rfc5545[*Internet Calendaring and Scheduling Core Object Specification (iCalendar) RFC 5545*]
+iCalendar is the core data schema for calendaring information. This is
+the new version and obsoletes RFC2445.
+*CalConnect input*
 
-http://www.ietf.org/rfc/rfc5546.txt[*iCalendar Transport-Independent
-Interoperability Protocol (iTIP) - Scheduling Events&#44; BusyTime&#44;
-To-dos and Journal Entries RFC 5546*]
-_Specifies the mechanisms for calendaring event interchange between
+* https://tools.ietf.org/html/rfc5546[*iCalendar Transport-Independent Interoperability Protocol (iTIP) - Scheduling Events, BusyTime&#44; To-dos and Journal Entries RFC 5546*]
+Specifies the mechanisms for calendaring event interchange between
 calendar servers. This is the new version and obsoletes RFC2446.
-*_CalConnect input_*_
+*CalConnect input*
 
-http://www.ietf.org/rfc/rfc6047.txt[*iCalendar Message-Based
-Interoperability Protocol (iMIP) RFC 6047*]
-_Specifies how to exchange calendaring data via e-mail. This is the new
-version and obsoletes RFC2447._
+* https://tools.ietf.org/html/rfc6047[*iCalendar Message-Based Interoperability Protocol (iMIP) RFC 6047*]
+Specifies how to exchange calendaring data via e-mail. This is the new
+version and obsoletes RFC2447.
+*CalConnect*
 
-http://tools.ietf.org/html/rfc6321[*xCal: The XML format for iCalendar
-RFC 6321*]
-_This specification defines a format for representing iCalendar data in
+* http://tools.ietf.org/html/rfc6321[*xCal: The XML format for iCalendar RFC 6321*]
+This specification defines a format for representing iCalendar data in
 XML. More specifically, is to define an XML format that allows iCalendar
 data to be converted to XML, and then back to iCalendar, without losing
 any semantic meaning in the data. Anyone creating XML calendar data
 according to this specification will know that their data can be
-converted to a valid iCalendar representation as well.  *CalConnect*_
+converted to a valid iCalendar representation as well.
+*CalConnect*
 
-http://tools.ietf.org/html/rfc6868[*Parameter Value Encoding in
-iCalendar and vCard RFC 6868*]
-_This specification defines an extension to iCalendar and vCard data
+* http://tools.ietf.org/html/rfc6868[*Parameter Value Encoding in iCalendar and vCard RFC 6868*]
+This specification defines an extension to iCalendar and vCard data
 formats to allow parameter values to include certain characters
-forbidden by the existing specifications._
+forbidden by the existing specifications.
+*CalConnect*
 
-*http://tools.ietf.org/html/rfc7265[jCal: The JSON Format for iCalendar
-RFC 7265]*
-_This specification defines "jCal", a JSON format for iCalendar data.
+* http://tools.ietf.org/html/rfc7265[*jCal: The JSON Format for iCalendar RFC 7265*]
+This specification defines "jCal", a JSON format for iCalendar data.
 The iCalendar data format is a text format for capturing and exchanging
 information normally stored within a calendaring and scheduling
 application, for example, tasks and events. JSON is a lightweight,
 text-based, language-independent data interchange format commonly used
-in Internet applications.  *CalConnect*_
+in Internet applications.
+*CalConnect*
 
-https://tools.ietf.org/html/rfc7986[*New Properties for iCalendar RFC
-7986*]
-__This document defines a set of new properties for iCalendar data.
-*CalConnect*__
+* https://tools.ietf.org/html/rfc7986[*New Properties for iCalendar RFC 7986*]
+This document defines a set of new properties for iCalendar data.
+*CalConnect*
 
-https://datatracker.ietf.org/doc/rfc7529/[*Non-Gregorian Recurrence
-Rules in iCalendar RFC 7529*]
-_This document defines how non-Gregorian recurrence rules can be
-specified in iCalendar data. *CalConnect*_
+* https://datatracker.ietf.org/doc/rfc7529/[*Non-Gregorian Recurrence Rules in iCalendar RFC 7529*]
+This document defines how non-Gregorian recurrence rules can be
+specified in iCalendar data.
+*CalConnect*
 
-===== Additions and Extensions
+=== Additions and Extensions
 
-http://calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-Rest
-RESTful Web Services Protocol for Calendaring*]
-_This document, developed by the XML Technical Committee, specifies a
+* http://calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-Rest RESTful Web Services Protocol for Calendaring*]
+This document, developed by the XML Technical Committee, specifies a
 RESTful web services protocol for calendaring operations. This protocol
 has been contributed to OASIS WS-CALENDAR as a component of the
-WS-CALENDAR Specification under development by OASIS. * CalConnect*_
+WS-CALENDAR Specification under development by OASIS.
+*CalConnect*
 
-http://calconnect.org/pubdocs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-SOAP
-SOAP Web Servicies Protocol for Calendaring*]
-_This document, developed by the XML Technical Committee, specifies a
+* http://calconnect.org/pubdocs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-SOAP SOAP Web Servicies Protocol for Calendaring*]
+This document, developed by the XML Technical Committee, specifies a
 SOAP web services protocol for calendaring operations. This protocol has
 been contributed to OASIS WS-CALENDAR as a component of the WS-CALENDAR
-Specification under development by OASIS.  *CalConnect*_
+Specification under development by OASIS.
+*CalConnect*
 
-http://calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf[*Freebusy
-Read URL*]
-_This proposal, developed by the Freebusy Technical Committee, defines a
+* http://calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf[*Freebusy Read URL*]
+This proposal, developed by the Freebusy Technical Committee, defines a
 standardized form of Freebusy Read URL to improve interoperability
 between client and server implementations, while extending functionality
-and utility through the use of optional parameters. *CalConnect*_
+and utility through the use of optional parameters.
+*CalConnect*
 
-http://microformats.org/wiki/hcalendar[*hCalendar 1.0 microformat*]
-_hCalendar is a simple, open, distributed calendaring and events format,
+* http://microformats.org/wiki/hcalendar[*hCalendar 1.0 microformat*]
+hCalendar is a simple, open, distributed calendaring and events format,
 using a 1:1 representation of standard iCalendar (RFC2445) VEVENT
-properties and values in semantic HTML or XHTML._
+properties and values in semantic HTML or XHTML.
 
-http://www.ietf.org/rfc/rfc5333.txt[*IANA Registration of Enumservices
-for Internet Calendaring RFC 5333*]
-_This document registers Enumservices for Internet calendaring.
+* https://tools.ietf.org/html/rfc5333[*IANA Registration of Enumservices for Internet Calendaring RFC 5333*]
+This document registers Enumservices for Internet calendaring.
 Specifically, this document focuses on Enumservices for scheduling with
 iMIP (iCalendar Message-Based Interoperability Protocol) and for
 accessing Internet calendaring information with CalDAV (Calendaring
-Extensions to WebDAV)._
+Extensions to WebDAV).
 
-===== Work in Progress
+=== Work in Progress
 
-https://datatracker.ietf.org/doc/draft-ietf-calext-subscription-upgrade/[*Calendar
-Subscription Upgrades*]
-_This specification introduces an approach to allow subscribers to
-calendar feeds to upgrade to a more performant protocol  *CalConnect*_
+* https://datatracker.ietf.org/doc/draft-ietf-calext-subscription-upgrade/[*Calendar Subscription Upgrades*]
+This specification introduces an approach to allow subscribers to
+calendar feeds to upgrade to a more performant protocol
+*CalConnect*
 
-https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/[*Event
-Publication Extensions to iCalendar*]
-_This specification introduces a number of new iCalendar properties
+* https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/[*Event Publication Extensions to iCalendar*]
+This specification introduces a number of new iCalendar properties
 which are of particular use for event publishers and in social
-networking.  *CalConnect*_
+networking.
+*CalConnect*
 
-https://datatracker.ietf.org/doc/draft-ietf-calext-ical-relations/[*Improved
-Support for Icalendar Relationships*]
-_This specification updates RELATED-TO and introduces new iCalendar
+* https://datatracker.ietf.org/doc/draft-ietf-calext-ical-relations/[*Improved Support for Icalendar Relationships*]
+This specification updates RELATED-TO and introduces new iCalendar
 properties LINK and RELATED-ID to allow better linking and grouping of
-iCalendar components and related data.  *CalConnect*_
+iCalendar components and related data.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-desruisseaux-ischedule[*Internet
-Calendar Scheduling Protocol (iSchedule)*]
-_This document defines the Internet Calendar Scheduling Protocol
+* http://tools.ietf.org/html/draft-desruisseaux-ischedule[*Internet Calendar Scheduling Protocol (iSchedule)*]
+This document defines the Internet Calendar Scheduling Protocol
 (iSchedule), which is a binding from the iCalendar Transport-
 independent Interoperability Protocol (iTIP) to the Hypertext Transfer
 Protocol (HTTP) to enable interoperability between calendaring and
-scheduling systems over the Internet.  *CalConnect*_
+scheduling systems over the Internet.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-cal-resource-schema/[*Schema for
-representing resources for calendaring and scheduling services*]
-_This specification describes a schema for representing resources for
+* http://tools.ietf.org/html/draft-cal-resource-schema/[*Schema for representing resources for calendaring and scheduling services*]
+This specification describes a schema for representing resources for
 calendaring and scheduling. A resource in the scheduling context is any
 shared entity that can be scheduled by a calendar user, but does not
-control its own attendance status.  *CalConnect*_
+control its own attendance status.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-douglass-icalendar-series[*Support for
-Series in iCalendar*]
+* https://tools.ietf.org/html/draft-douglass-icalendar-series[*Support for Series in iCalendar*]
 This specification updates [RFC5545] by defining a new repeating set of
 events known as a series.  This differs from recurrences in that each
 instance is a separate entity with a parent relationship to a specified
-template entity..  *_CalConnect_*
+template entity.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-apthorp-ical-tasks[*Task Extensions to
-iCalendar*]
-_This document defines extensions to the Internet Calendaring and
+* https://tools.ietf.org/html/draft-apthorp-ical-tasks[*Task Extensions to iCalendar*]
+This document defines extensions to the Internet Calendaring and
 Scheduling Core Object Specification (iCalendar) to provide improved
-status tracking, scheduling and specification of tasks.  *CalConnect*_
+status tracking, scheduling and specification of tasks.
+*CalConnect*
 
-https://datatracker.ietf.org/doc/draft-ietf-calext-valarm-extensions/[*VALARM
-Extensions for iCalendar*]
-_This document defines a set of extensions to the iCalendar VALARM
+* https://datatracker.ietf.org/doc/draft-ietf-calext-valarm-extensions/[*VALARM Extensions for iCalendar*]
+This document defines a set of extensions to the iCalendar VALARM
 component to enhance use of alarms and improve interoperability between
-clients and servers.  *CalConnect*_
+clients and servers.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-calconnect-vobject-i18n/[*vObject
-Internationalization*]
-_This document specifies mechanisms for the internationalization of
-vObject content and its realization in vFormat.   *CalConnect*_
+* http://tools.ietf.org/html/draft-calconnect-vobject-i18n/[*vObject Internationalization*]
+This document specifies mechanisms for the internationalization of
+vObject content and its realization in vFormat.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-calconnect-vobject-vformat/[*The
-vObject Model and vFormat Syntax*]
-_This document specifies the vObject data model and its corresponding
+* http://tools.ietf.org/html/draft-calconnect-vobject-vformat/[*The vObject Model and vFormat Syntax*]
+This document specifies the vObject data model and its corresponding
 syntax vFormat. vObject represents the generalized data model, and
 vFormat the generalized data format, of the following specifications and
-fully covers them.   *CalConnect*_
+fully covers them.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-york-vpoll/[*VPOLL: Consensus
-Scheduling Component for iCalendar*]
-_This specification introduces a new iCalendar component which allows
+* http://tools.ietf.org/html/draft-york-vpoll/[*VPOLL: Consensus Scheduling Component for iCalendar*]
+This specification introduces a new iCalendar component which allows
 for consensus scheduling, that is voting on a number of alternative
-meeting or task alternatives.  *CalConnect*_
-
-
-'''''
+meeting or task alternatives.
+*CalConnect*
 
 [[CalDAV]]
-==== CalDAV
+== CalDAV
 
-===== Base Standards
+=== Base Standards
 
-http://www.ietf.org/rfc/rfc4791.txt[*Calendaring Extensions to WebDAV
-(CalDAV) RFC 4791*]
-_This document defines extensions to the Web Distributed Authoring and
+* https://tools.ietf.org/html/rfc4791[*Calendaring Extensions to WebDAV (CalDAV) RFC 4791*]
+This document defines extensions to the Web Distributed Authoring and
 Versioning (WebDAV) protocol to specify a standard way of accessing,
 managing, and sharing calendaring and scheduling information based on
 the iCalendar format. This document defines the "calendar-access"
-feature of CalDAV.  *CalConnect input*_
+feature of CalDAV.
+*CalConnect input*
 
-http://www.ietf.org/rfc/rfc6638.txt[*Scheduling Extensions to CalDAV RFC
-6638*]
-_This document defines extensions to the Calendaring Extensions to
+* https://tools.ietf.org/html/rfc6638[*Scheduling Extensions to CalDAV RFC 6638*]
+This document defines extensions to the Calendaring Extensions to
 WebDAV (CalDAV) "calendar-access" feature to specify a standard way of
 performing scheduling operations with iCalendar-based calendar
 components. This document defines the "calendar-auto-schedule" feature
-of CalDAV.  *CalConnect*_
+of CalDAV.
+*CalConnect*
 
-===== Additions and Extensions
+=== Additions and Extensions
 
-https://www.rfc-editor.org/rfc/rfc8607.txt[*CalDAV Managed Attachments
-RFC8607*]
-_This specification adds an extension to the Calendaring Extensions to
+* https://www.rfc-editor.org/rfc/rfc8607.txt[*CalDAV Managed Attachments RFC8607*]
+This specification adds an extension to the Calendaring Extensions to
 WebDAV (CalDAV) to allow attachments associated with iCalendar data to
-be stored and managed on the server.  *CalConnect*_
+be stored and managed on the server.
+*CalConnect*
 
-https://www.rfc-editor.org/rfc/rfc7809.txt[*CalDAV: Time Zones by
-Reference RFC 7809*]
-_This document defines an extension to the CalDAV calendar access
+* https://www.rfc-editor.org/rfc/rfc7809.txt[*CalDAV: Time Zones by Reference RFC 7809*]
+This document defines an extension to the CalDAV calendar access
 protocol to allow clients and servers to exchange iCalendar data without
-the need to send full time zone data.  *CalConnect*_
+the need to send full time zone data.
+*CalConnect*
 
-http://tools.ietf.org/html/rfc6764[*Locating CalDAV and CardDAV Services
-RFC 6764*]
-_This specification describes how DNS SRV records, DNS TXT records and
+* http://tools.ietf.org/html/rfc6764[*Locating CalDAV and CardDAV Services RFC 6764*]
+This specification describes how DNS SRV records, DNS TXT records and
 well-known URIs can be used together or separately to locate Calendaring
 Extensions to WebDAV (CalDAV) or vCard Extensions to WebDAV (CardDAV)
-services.  *CalConnect input*_
+services.
+*CalConnect input*
 
-===== Work in Progress
+=== Work in Progress
 
-https://tools.ietf.org/html/draft-pot-caldav-sharing[*CalDAV: Calendar
-Sharing*]
-_This specification defines sharing calendars between users on a CalDAV
-system.  *CalConnect*_
+* https://tools.ietf.org/html/draft-pot-caldav-sharing[*CalDAV: Calendar Sharing*]
+This specification defines sharing calendars between users on a CalDAV
+system.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-gondwana-caldav-scheduling-controls[*CalDAV
-Extension for scheduling controls*]
-_This document adds headers to control and restrict the scheduling
+* https://tools.ietf.org/html/draft-gondwana-caldav-scheduling-controls[*CalDAV Extension for scheduling controls*]
+This document adds headers to control and restrict the scheduling
 behaviour of CalDAV servers when updating calendaring resources.
-*CalConnect*_
+*CalConnect*
 
-http://tools.ietf.org/html/draft-daboo-caldav-extensions[*Collected
-Extensions to CalDAV*]
-_This document defines a set of extensions to the CalDAV calendar access
-protocol.*  CalConnect*_
+* http://tools.ietf.org/html/draft-daboo-caldav-extensions[*Collected Extensions to CalDAV*]
+This document defines a set of extensions to the CalDAV calendar access
+protocol.
+*CalConnect*
 
-_Also see link:#WebDAV[Webdav]_
+Also see <<WebDAV>>.
 
-
-'''''
 
 [[vCard]]
-==== vCard
+== vCard
 
-===== Base Standards
+=== Base Standards
 
-http://www.rfc-editor.org/rfc/rfc6350.txt[*vCard Format Specification
-RFC 6350*]
-_This document defines the vCard data format for representing and
+* http://www.rfc-editor.org/rfc/rfc6350.txt[*vCard Format Specification RFC 6350*]
+This document defines the vCard data format for representing and
 exchanging a variety of information about individuals and other entities
 (e.g., formatted and structured name and delivery addresses, email
 address, multiple telephone numbers, photograph, logo, audio clips,
 etc.). This is the new version and obsoletes RFCs 2425, 2426, and 4770,
-and updates RFC 2739._
+and updates RFC 2739.
+// *CalConnect*
 
-http://www.rfc-editor.org/rfc/rfc6351.txt[*xCard: vCard XML
-Representation RFC 6351*]
-_This document defines the XML schema of the vCard data format._
+* http://www.rfc-editor.org/rfc/rfc6351.txt[*xCard: vCard XML Representation RFC 6351*]
+This document defines the XML schema of the vCard data format.
+// *CalConnect*
 
-http://www.rfc-editor.org/rfc/rfc6473.txt[*vCard KIND:application RFC
-6473*]
-_This document defines a value of "application" for the vCard KIND
+* http://www.rfc-editor.org/rfc/rfc6473.txt[*vCard KIND:application RFC 6473*]
+This document defines a value of "application" for the vCard KIND
 property so that vCards can be used to represent software
-applications._
+applications.
 
-http://www.rfc-editor.org/rfc/rfc8605.txt[*vCard Format Extensions:
-ICANN Extensions for the Registration Data Access Protocol (RDAP)vRFC
-8605*]
-_This document defines extensions to the vCard data format for
+* http://www.rfc-editor.org/rfc/rfc8605.txt[*vCard Format Extensions: ICANN Extensions for the Registration Data Access Protocol (RDAP) RFC 8605*]
+This document defines extensions to the vCard data format for
 representing and exchanging contact information used to implement the
 Internet Corporation for Assigned Names and Numbers (ICANN) operational
-profile for the Registration Data Access Protocol (RDAP)_
+profile for the Registration Data Access Protocol (RDAP)
 
-http://www.rfc-editor.org/rfc/rfc6474.txt[*vCard Format Extensions :
-place of birth&#44; place and date of death RFC 6474*]
-_The base vCard 4.0 specification defines a large number of properties,
+* http://www.rfc-editor.org/rfc/rfc6474.txt[*vCard Format Extensions: place of birth, place and date of death RFC 6474*]
+The base vCard 4.0 specification defines a large number of properties,
 including date of birth. This specification adds three new properties to
-vCard 4.0, for place of birth, place of death, and date of death._
+vCard 4.0, for place of birth, place of death, and date of death.
 
-https://www.rfc-editor.org/rfc/rfc6715.txt[*vCard Format extension :
-represent vCard extensions defined by the Open Mobile Alliance (OMA)
-Converged Address Book (CAB) group RFC 6715*]
-_This document defines extensions to the vCard data format for
+* https://www.rfc-editor.org/rfc/rfc6715.txt[*vCard Format extension : represent vCard extensions defined by the Open Mobile Alliance (OMA) Converged Address Book (CAB) group RFC 6715*]
+This document defines extensions to the vCard data format for
 representing and exchanging certain contact information. The properties
 covered here have been defined by the Open Mobile Alliance Converged
 Address Book group, in order to synchronize, using OMA Data
 Synchronization, important contact fields that were not already defined
-in the base vCard 4.0 specification._
+in the base vCard 4.0 specification.
 
-https://www.rfc-editor.org/rfc/rfc6869.txt[*vCard KIND:device RFC
-6869*]
-_This document defines a value of "device" for the vCard KIND property
+* https://www.rfc-editor.org/rfc/rfc6869.txt[*vCard KIND:device RFC 6869*]
+This document defines a value of "device" for the vCard KIND property
 so that the vCard format can be used to represent computing devices such
 as appliances, computers, or network elements (e.g., a server, router,
-switch, printer, sensor, or phone)._
+switch, printer, sensor, or phone).
 
-http://tools.ietf.org/html/rfc6868[*Parameter Value Encoding in
-iCalendar and vCard RFC 6868*]
-_This specification defines an extension to iCalendar and vCard data
+* http://tools.ietf.org/html/rfc6868[*Parameter Value Encoding in iCalendar and vCard RFC 6868*]
+This specification defines an extension to iCalendar and vCard data
 formats to allow parameter values to include certain characters
-forbidden by the existing specifications.  *CalConnect*_
+forbidden by the existing specifications.
+*CalConnect*
 
-https://www.rfc-editor.org/rfc/rfc7095.txt[*jCard: The JSON format for
-vCard RFC 7095*]
-_This specification defines "jCard", a JSON format for vCard data.
-*CalConnect*_
+* https://www.rfc-editor.org/rfc/rfc7095.txt[*jCard: The JSON format for vCard RFC 7095*]
+This specification defines "jCard", a JSON format for vCard data.
+*CalConnect*
 
-===== Additions and Extensions
+=== Additions and Extensions
 
-http://www.ietf.org/rfc/rfc2739.txt[*Calendar Attributes for vCard and
-LDAP RFC 2739*]
-_This memo defines three mechanisms for obtaining a URI to a user's
+* https://tools.ietf.org/html/rfc2739[*Calendar Attributes for vCard and LDAP RFC 2739*]
+This memo defines three mechanisms for obtaining a URI to a user's
 calendar and free/busy time. These include manual transfer of the
 information, personal data exchange using the vCard format, and
-directory lookup using the LDAP protocol._
+directory lookup using the LDAP protocol.
 
-http://microformats.org/wiki/hcard[*hCard 1.0 microformat*]
-_hCard is a simple, open, distributed format for representing people,
+* http://microformats.org/wiki/hcard[*hCard 1.0 microformat*]
+hCard is a simple, open, distributed format for representing people,
 companies, organizations, and places, using a 1:1 representation of
-vCard (RFC2426) properties and values in semantic HTML or XHTML._
+vCard (RFC2426) properties and values in semantic HTML or XHTML.
 
-===== Work in Progress
+=== Work in Progress
 
-http://tools.ietf.org/html/draft-daboo-vcard-service-type[*vCard Service
-Type Parameter*]
-_This document defines a "Service Type" parameter for use on various
+* http://tools.ietf.org/html/draft-daboo-vcard-service-type[*vCard Service Type Parameter*]
+This document defines a "Service Type" parameter for use on various
 vCard properties to help clients distinguish between different types of
 communication services that may be using the same protocol, yet are
-distinct._
+distinct.
+*CalConnect*
 
-https://datatracker.ietf.org/doc/draft-ietf-vcarddav-social-networks/[*vCard
-Format Extension : To Represent the Social Network Information of an
-Individual*]
-_This document defines an extension to the vCard data format for
-representing and exchanging a variety of social network information._
+* https://datatracker.ietf.org/doc/draft-ietf-vcarddav-social-networks/[*vCard Format Extension: To Represent the Social Network Information of an Individual*]
+This document defines an extension to the vCard data format for
+representing and exchanging a variety of social network information.
 
-https://datatracker.ietf.org/doc/draft-yevstifeyev-vcarddav-version/[*Registration
-of vCard VERSION Property Values*]
-_This document registers the existing vCard VERSION property values with
-IANA and contains some provisions on its generic syntax and use._
+* https://datatracker.ietf.org/doc/draft-yevstifeyev-vcarddav-version/[*Registration of vCard VERSION Property Values*]
+This document registers the existing vCard VERSION property values with
+IANA and contains some provisions on its generic syntax and use.
 
-https://datatracker.ietf.org/doc/draft-cal-resource-vcard/[*vCard
-representation of resources for calendaring and scheduling services*]
-_This specification describes the vCard representation of resources for
+* https://datatracker.ietf.org/doc/draft-cal-resource-vcard/[*vCard representation of resources for calendaring and scheduling services*]
+This specification describes the vCard representation of resources for
 calendaring and scheduling. A resource in the scheduling context is any
 shared entity that can be scheduled by a calendar user, but does not
-control its own attendance status.  *CalConnect*_
+control its own attendance status.
+*CalConnect*
 
-http://datatracker.ietf.org/doc/draft-vcard-objectclass[*Objectclass
-property for vCard*]
-_This specification describes a new property for vCard Format
+* http://datatracker.ietf.org/doc/draft-vcard-objectclass[*Objectclass property for vCard*]
+This specification describes a new property for vCard Format
 Specification (RFC6350) to allow the specification of objectclasses.
-*CalConnect*_
+*CalConnect*
 
-http://datatracker.ietf.org/doc/draft-vcard-schedulable[*Schedulable
-Objectclass for vCard*]
-_This specification describes a new property objectclass value for the
-vCard object class property defined in
-http://datatracker.ietf.org/doc/draft-vcard-objectclass[draft-vcard-objectclass]
-allowing schedulable entities to be marked as such.  *CalConnect*_
-
-
-'''''
+* http://datatracker.ietf.org/doc/draft-vcard-schedulable[*Schedulable Objectclass for vCard*]
+This specification describes a new property objectclass value for the
+vCard object class property defined in http://datatracker.ietf.org/doc/draft-vcard-objectclass[draft-vcard-objectclass]
+allowing schedulable entities to be marked as such.
+*CalConnect*
 
 [[CardDAV]]
-==== CardDAV
+== CardDAV
 
-===== Base Standards
+=== Base Standards
 
-http://www.rfc-editor.org/rfc/rfc6352.txt[*CardDAV: vCard Extensions to
-Web Distributed Authoring and Versioning (WebDAV) RFC 6352*]
-_This document defines extensions to the Web Distributed Authoring and
+* http://www.rfc-editor.org/rfc/rfc6352.txt[*CardDAV: vCard Extensions to Web Distributed Authoring and Versioning (WebDAV) RFC 6352*]
+This document defines extensions to the Web Distributed Authoring and
 Versioning (WebDAV) protocol to specify a standard way of accessing,
 managing, and sharing contact information based on the vCard format.
-*CalConnect*_
+*CalConnect*
 
-===== Additional and Extensions
+=== Additional and Extensions
 
-===== Work in Progress
+=== Work in Progress
 
-https://tools.ietf.org/html/draft-pot-carddav-sharing/[*CardDAV Address
-Book Sharing*]
-_This specification sharing address books between users on a CardDAV
-system.  *CalConnect*_
+* https://tools.ietf.org/html/draft-pot-carddav-sharing/[*CardDAV Address Book Sharing*]
+This specification sharing address books between users on a CardDAV
+system.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-daboo-carddav-directory-gateway/[*CardDAV
-Directory Gateway Extension*]
-_This document defines an extension to the vCard Extensions to WebDAV
+* http://tools.ietf.org/html/draft-daboo-carddav-directory-gateway/[*CardDAV Directory Gateway Extension*]
+This document defines an extension to the vCard Extensions to WebDAV
 (CardDAV) protocol that allows a server to expose a directory as a
-read-only address book collection.  *CalConnect*_
+read-only address book collection.
+*CalConnect*
 
-_Also see link:#WebDAV[Webdav]_
-
-
-'''''
+Also see <<WebDAV>>
 
 [[WebDAV]]
-==== WebDAV
+== WebDAV
 
-===== Base Standards
+=== Base Standards
 
-http://www.ietf.org/rfc/rfc4918.txt[*HTTP Extensions for Web Distributed
-Authoring and Versioning (WebDAV) RFC 4918*]
-_Web Distributed Authoring and Versioning (WebDAV) consists of a set of
+* https://tools.ietf.org/html/rfc4918[*HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV) RFC 4918*]
+Web Distributed Authoring and Versioning (WebDAV) consists of a set of
 methods, headers, and content-types ancillary to HTTP/1.1 for the
 management of resource properties, creation and management of resource
 collections, URL namespace manipulation, and resource locking (collision
-avoidance)._
+avoidance).
 
-https://tools.ietf.org/html/rfc5397[*WebDAV Current Principal Extension
-RFC 5397*]
-_This specification defines a new WebDAV property that allows clients to
+* https://tools.ietf.org/html/rfc5397[*WebDAV Current Principal Extension RFC 5397*]
+This specification defines a new WebDAV property that allows clients to
 quickly determine the principal corresponding to the current
-authenticated user._
+authenticated user.
 
-===== Additional and Extensions
+=== Additional and Extensions
 
-http://www.ietf.org/rfc/rfc5842.txt[*Binding Extensions to WebDAV RFC
-4842*]
-_This specification defines bindings, and the BIND method for creating
+* https://tools.ietf.org/html/rfc5842[*Binding Extensions to WebDAV RFC 4842*]
+This specification defines bindings, and the BIND method for creating
 multiple bindings to the same resource. Creating a new binding to a
 resource causes at least one new URI to be mapped to that resource.
 Servers are required to ensure the integrity of any bindings that they
-allow to be created._
+allow to be created.
 
-http://www.ietf.org/rfc/rfc6578.txt[*Collection Synchronization for
-WebDAV RFC 6578*]
-_This specification defines an extension to WebDAV that allows efficient
-synchronization of the contents of a WebDAV collection.  *CalConnect*_
+* https://tools.ietf.org/html/rfc6578[*Collection Synchronization for WebDAV RFC 6578*]
+This specification defines an extension to WebDAV that allows efficient
+synchronization of the contents of a WebDAV collection.
+*CalConnect*
 
-http://www.ietf.org/rfc/rfc5689.txt[*Extended MKCOL for Web Distributed
-Authoring and Versioning (WebDAV) RFC 5689*]
-_This specification extends the Web Distributed Authoring and Versioning
+* https://tools.ietf.org/html/rfc5689[*Extended MKCOL for Web Distributed Authoring and Versioning (WebDAV) RFC 5689*]
+This specification extends the Web Distributed Authoring and Versioning
 (WebDAV) MKCOL (Make Collection) method to allow collections of
 arbitrary resourcetype to be created and to allow properties to be set
-at the same time._
+at the same time.
 
-http://www.ietf.org/rfc/rfc4331.txt[*Quota and Size Properties for
-Distributed Authoring and Versioning (DAV) Collections RFC 4331*]
-_This document discusses the properties and minor behaviors needed for
+* https://tools.ietf.org/html/rfc4331[*Quota and Size Properties for Distributed Authoring and Versioning (DAV) Collections RFC 4331*]
+This document discusses the properties and minor behaviors needed for
 clients to interoperate with quota (size) implementations on WebDAV
-repositories._
+repositories.
 
-http://www.ietf.org/rfc/rfc8144.txt[*Use of the Prefer Header Field in
-Web Distributed Authoring and Versioning (WebDAV) RFC 8144*]
-_This specification defines how the HTTP Prefer header can be used by a
+* https://tools.ietf.org/html/rfc8144[*Use of the Prefer Header Field in Web Distributed Authoring and Versioning (WebDAV) RFC 8144*]
+This specification defines how the HTTP Prefer header can be used by a
 WebDAV client to request that certain behaviors be implemented by a
-server while constructing a response to a successful request._
-*_CalConnect_*
+server while constructing a response to a successful request.
+*CalConnect*
 
-http://www.ietf.org/rfc/rfc5995.txt[*Using POST to Add Members to WebDAV
-Collectons RFC 5995*]
-_This specification defines a discovery mechanism through which servers
+* https://tools.ietf.org/html/rfc5995[*Using POST to Add Members to WebDAV Collections RFC 5995*]
+This specification defines a discovery mechanism through which servers
 can advertise support for POST requests with the aforementioned "add
-collection member" semantics._
+collection member" semantics.
 
-http://www.ietf.org/rfc/rfc3253.txt[*Versioning Extensions to WebDAV RFC
-3253*]
-_This document specifies a set of methods, headers, and resource types
+* https://tools.ietf.org/html/rfc3253[*Versioning Extensions to WebDAV RFC 3253*]
+This document specifies a set of methods, headers, and resource types
 that define the WebDAV (Web Distributed Authoring and Versioning)
-versioning extensions to the HTTP/1.1 protocol._
+versioning extensions to the HTTP/1.1 protocol.
 
-http://www.ietf.org/rfc/rfc5323.txt[*Web Distributed Authoring and
-Versioning (WebDAV) SEARCH RFC 5323*]
-_This document specifies a set of methods, headers and properties
+* https://tools.ietf.org/html/rfc5323[*Web Distributed Authoring and Versioning (WebDAV) SEARCH RFC 5323*]
+This document specifies a set of methods, headers and properties
 composing WebDAV SEARCH, an application of the HTTP/1.1 protocol to
-efficiently search for DAV resources based upon a set of client-
-supplied criteria._
+efficiently search for DAV resources based upon a set of client-supplied
+criteria.
 
-http://www.ietf.org/rfc/rfc3744.txt[*WebDAV Access Control Protocol RFC
-3744*]
-_This specification extends the Web Distributed Authoring and Versioning
+* https://tools.ietf.org/html/rfc3744[*WebDAV Access Control Protocol RFC 3744*]
+This specification extends the Web Distributed Authoring and Versioning
 (WebDAV) Protocol to support the server-side ordering of collection
-members._
+members.
 
-http://www.ietf.org/rfc/rfc5397.txt[*WebDAV Current Principal Extension
-RFC 5397*]
-_This specification defines a new WebDAV property that allows clients to
+* https://tools.ietf.org/html/rfc5397[*WebDAV Current Principal Extension RFC 5397*]
+This specification defines a new WebDAV property that allows clients to
 quickly determine the principal corresponding to the current
-authenticated user._
+authenticated user.
 
-http://www.ietf.org/rfc/rfc3648.txt[*WebDAV Ordered Collections Protocol
-RFC 3648*]
-_This specification extends the Web Distributed Authoring and Versioning
+* https://tools.ietf.org/html/rfc3648[*WebDAV Ordered Collections Protocol RFC 3648*]
+This specification extends the Web Distributed Authoring and Versioning
 (WebDAV) Protocol to support the server-side ordering of collection
-members._
+members.
 
-===== Work in Progress
+=== Work in Progress
 
-http://datatracker.ietf.org/doc/draft-douglass-server-info/[*DAV Server
-Information Object*]
-_This specification describes a new XML object that can be retrieved
+* http://datatracker.ietf.org/doc/draft-douglass-server-info/[*DAV Server Information Object*]
+This specification describes a new XML object that can be retrieved
 from hosts to discover services, features and limits for that host or
-domain.  *CalConnect*_
+domain.
+*CalConnect*
 
-*https://tools.ietf.org/html/draft-gajda-dav-push/[Push Discovery and
+** https://tools.ietf.org/html/draft-gajda-dav-push/[Push Discovery and
 Notification Dispatch Protocol]*
-_This specification defines a framework and protocols for a push
+This specification defines a framework and protocols for a push
 notification system that allows clients, application servers and push
 notification servers to interact with each other in a standardized
-manner.  *CalConnect*_
+manner.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-pot-webdav-notifications[*WebDAV: User
-Notifications*]
-_This specification defines an extension to WebDAV that allows the
-server to provide notifications to users.  *CalConnect*_
+* https://tools.ietf.org/html/draft-pot-webdav-notifications[*WebDAV: User Notifications*]
+This specification defines an extension to WebDAV that allows the
+server to provide notifications to users.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-pot-webdav-resource-sharing[*WebDAV
-Resource Sharing*]
-_This specification defines an extension to WebDAV that enables the
-sharing of resources between users on a WebDAV server.  *CalConnect*_
-
-
-'''''
+* https://tools.ietf.org/html/draft-pot-webdav-resource-sharing[*WebDAV Resource Sharing*]
+This specification defines an extension to WebDAV that enables the
+sharing of resources between users on a WebDAV server.
+*CalConnect*
 
 [[Related]]
-==== Related
+== Related
 
-===== Base Standards
+=== Base Standards
 
-http://www.ietf.org/rfc/rfc3339.txt[*Date and Time on the Internet:
-Timestamps RFC 3339*]
-_This document defines a date and time format for use in Internet
+* https://tools.ietf.org/html/rfc3339[*Date and Time on the Internet: Timestamps RFC 3339*]
+This document defines a date and time format for use in Internet
 protocols that is a profile of the ISO 8601 standard for representation
-of dates and times using the Gregorian calendar._
+of dates and times using the Gregorian calendar.
 
-https://tools.ietf.org/html/rfc6557[*Procedures for Maintaining the Time
-Zone Database RFC 6557*]
-_Time zone information serves as a basic protocol element in protocols,
+* https://tools.ietf.org/html/rfc6557[*Procedures for Maintaining the Time Zone Database RFC 6557*]
+Time zone information serves as a basic protocol element in protocols,
 such as the calendaring suite and DHCP. The Time Zone (TZ) Database
 specifies the indices used in various protocols, as well as their
 semantic meanings, for all localities throughout the world. This
@@ -608,65 +540,63 @@ submit proposed updates, how decisions for inclusion of those updates
 are made, and the selection of a designated expert by and for the time
 zone community. The intent of this memo is, to the extent possible, to
 document existing practice and provide a means to ease succession of the
-database maintainers._
+database maintainers.
 
-https://www.rfc-editor.org/rfc/rfc7808.txt[*Time Zone Data Distribution
-Service RFC 7808*]
-__This document defines a time zone data distribution service that
+* https://www.rfc-editor.org/rfc/rfc7808.txt[*Time Zone Data Distribution Service RFC 7808*]
+This document defines a time zone data distribution service that
 allows reliable, secure and fast delivery of time zone data to client
 systems such as calendaring and scheduling applications or operating
-systems.  *CalConnect*__
+systems.
+*CalConnect*
 
-https://www.rfc-editor.org/rfc/rfc8536.txt[*The Time Zone Information
-Format (TZif) RFC 8536*]
-_This document defines the Time Zone Information File Format for
+* https://www.rfc-editor.org/rfc/rfc8536.txt[*The Time Zone Information Format (TZif) RFC 8536*]
+This document defines the Time Zone Information File Format for
 representing and exchanging time zone information, independent of any
 particular service or protocol.  A MIME media type for this format is
-also defined._  *_CalConnect_*
+also defined.
+*CalConnect*
 
-===== Additions and Extensions
+=== Additions and Extensions
 
-===== Work in Progress
+=== Work in Progress
 
-https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/[*Automated
-Service Configuration*]
-_This specification describes how clients can discover multiple services
+* https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/[*Automated Service Configuration*]
+This specification describes how clients can discover multiple services
 to configure themselves with a minimum of user-provided information, as
 short as possible sequence of queries and with a minimum of overhead for
-administrators of the services.  *_CalConnect_*_
+administrators of the services.
+*CalConnect*
 
-https://tools.ietf.org/html/draft-ietf-calext-jscalendar/[*JSCalendar: A
-JSON representation of calendar data*]
-_This specification defines a data model and JSON representation of
+* https://tools.ietf.org/html/draft-ietf-calext-jscalendar/[*JSCalendar: A JSON representation of calendar data*]
+This specification defines a data model and JSON representation of
 calendar data that can be used for storage and data exchange in a
 calendaring and scheduling environment. It aims to be an alternative to
 the widely deployed iCalendar data format and to be unambiguous,
-extendable and simple to process.  *_CalConnect_*_
+extendable and simple to process.
+*CalConnect*
 
-https://datatracker.ietf.org/doc/draft-stepanek-jscontact/[*JSContact: A
-JSON representation of addressbook data*]
-_This specification defines a data model and JSON representation of
+* https://datatracker.ietf.org/doc/draft-stepanek-jscontact/[*JSContact: A JSON representation of addressbook data*]
+This specification defines a data model and JSON representation of
 contact information that can be used for data storage and exchange in
-address book or directory applications.  *_CalConnect_*_
+address book or directory applications.
+*CalConnect*
 
-http://tools.ietf.org/html/draft-murchison-tzdist-geolocate-01[*The Time
-Zone Data Distribution Service (TZDIST) Geolocate Extension*]
-_This document defines an extension to the Time Zone Data Distribution
+* http://tools.ietf.org/html/draft-murchison-tzdist-geolocate-01[*The Time Zone Data Distribution Service (TZDIST) Geolocate Extension*]
+This document defines an extension to the Time Zone Data Distribution
 Service (RFC 7808) to allow a client to determine the correct timezone
-for a geographic point location using a 'geo' URI (RFC 5870)._
-*_CalConnect_*
+for a geographic point location using a 'geo' URI (RFC 5870).
+*CalConnect*
 
-http://tools.ietf.org/html/draft-douglass-timezone-xml/[*Timezone XML
-Specification*]
-_This specification describes a format for describing timezone
-information for software and services.  *CalConnect*_
+* http://tools.ietf.org/html/draft-douglass-timezone-xml/[*Timezone XML Specification*]
+This specification describes a format for describing timezone
+information for software and services.
+*CalConnect*
 
-http://docs.oasis-open.org/ws-calendar/ws-calendar/v1.0/ws-calendar-1.0-spec.html[*WS-Calendar*]
-_WS-Calendar is an OASIS cross-domain standard for passing schedule and
-interval information between and within services  *CalConnect input* _
+* http://docs.oasis-open.org/ws-calendar/ws-calendar/v1.0/ws-calendar-1.0-spec.html[*WS-Calendar*]
+WS-Calendar is an OASIS cross-domain standard for passing schedule and
+interval information between and within services
+*CalConnect input*
 
-'''''
 
-
-Translation to Bulgarian: Please see
+NOTE: Translation to Bulgarian: Please see
 http://www.fatcow.com/edu/calendaring-standards-bl/.

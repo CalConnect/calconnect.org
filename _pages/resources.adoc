@@ -3,12 +3,11 @@ layout: page
 title:  CalConnect Resources
 type: resources
 ---
-
-== CalConnect Resources
+= CalConnect Resources
 
 _Last Updated June 2019_
 
-=== Introductory Information
+== Introductory Information
 
 * link:/resources/introduction-internet-calendaring[*An Introduction to Internet Calendaring*]: Introduction to the major calendaring &
 scheduling standards and data exchange protocols

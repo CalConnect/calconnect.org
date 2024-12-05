@@ -16,30 +16,30 @@ Articles of Incorporation and Bylaws. In any conflict, the Articles of
 Incorporation and Bylaws take precedence.
 
 * 0501 Obsolete
-* link:#0502[0502 Observers at Conferences and CalConnect Interoperability Test Events]
-* link:#0503[0503 Status of Roundtable I Participants]
-* link:#0504[0504 Representing the Consortium at External Events]
-* link:#0505[0505 Individuals Participating on Behalf of an Institutional Member]
-* link:#0506[0506 Membership Agreement]
-* link:#0507[0507 Code of Conduct]
-* link:#0508[0508 Violations of the Code of Conduct]
-* link:#0509[0509 Violations of the Membership Agreement]
-* link:#0510[0510 Determination of Membership Status and Categories]
-* link:#0511[0511 Members and Subsidiary Organizations]
-* link:#0512[0512 Quorum and Approvals for TCC]
-* link:#0601[0601 Reciprocal Membership Agreements]
-* link:#0801[0801 Guest Speaker Program]
-* link:#0802[0802 Corporate Registrations]
-* link:#0803[0803 Membership Fees and Renewals]
+* <<0502>>
+* <<0503>>
+* <<0504>>
+* <<0505>>
+* <<0506>>
+* <<0507>>
+* <<0508>>
+* <<0509>>
+* <<0510>>
+* <<0511>>
+* <<0512>>
+* <<0601>>
+* <<0801>>
+* <<0802>>
+* <<0803>>
 * 0804 Obsolete
 * 0805 Obsolete
-* link:#0806[0806 Venues for CalConnect Events]
-* link:#0901[0901 CalConnect-Hosted Events]
-* link:#0910[0910 Membership Mergers and Acquisitions]
-* link:#1201[1201 _Ex Officio_ Participation by Unaffiliated Directors]
-* link:#1501[1501 Co-Hosting of CalConnect Events]
-* link:#1502[1502 Sponsorship of Activities/Services of a CalConnect Conference or Interoperability Test Event]
-* link:#2001[2001 Expense Reimbursement for Volunteer Officers]
+* <<0806>>
+* <<0901>>
+* <<0910>>
+* <<1201>>
+* <<1501>>
+* <<1502>>
+* <<2001>>
 
 
 [#0502]

@@ -1,7 +1,9 @@
+---
+layout: page
+title: Event Reading Lists
+type: resources
+---
 = Event reading lists
-:layout: page
-:title: Event Reading Lists
-:type: resources
 
 _Last Updated September 2019_
 

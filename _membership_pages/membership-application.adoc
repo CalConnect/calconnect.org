@@ -3,8 +3,7 @@ layout: page
 title:  Membership Application Form
 type: membership
 ---
-
-== Membership Application Form
+= Membership Application Form
 
 Please fill out this application form as completely as possible. You will have a
 choice of payment options including check/money order, electronic funds

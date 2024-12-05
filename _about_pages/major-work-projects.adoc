@@ -3,14 +3,13 @@ layout: page
 title: CalConnect Major Work Projects
 type: about
 ---
-
 == CalConnect Major Work Projects
 
 What we are working on now – major projects underway in CalConnect
 Technical Committees – become a member and help make these things
 happen.
 
-=== Abstract Calendaring API
+== Abstract Calendaring API
 
 link:/7_things_api[*Abstract Calendaring API*] - We need a full
 "CRUD" (Create/Read/Update/Delete) Abstract Application Programming
@@ -22,7 +21,7 @@ running on a system can use the API to perform calendar and scheduling
 operations against any calendaring and scheduling implementation running
 on that system. link:/tc-api[TC API].
 
-==== Autodiscovery
+== Autodiscovery
 
 *Autodiscovery* - "One-stop setup for devices and new service providers
 for calendaring, e-mail, etc. based on internet standard protocols"
@@ -36,7 +35,7 @@ automatically discover and set up internet standards-based services such
 as e-mail, calendaring, address book, etc. which can be implemented in a
 single, easy to use user interface. link:/tc-autodiscovery[TC AUTODISCOVERY].
 
-==== CalDAV Alarms
+== CalDAV Alarms
 
 *CalDAV Alarms* - "Extend alarm support to allow for cross-device
 dismissal, proximity triggers based on location, default alarms in
@@ -48,7 +47,7 @@ standard calendar service protocol) will allow for effective user
 management of alarms, including choosing which device(s) should enable
 each alarm, and the form of the alarm. link:/tc-caldav[TC CALDAV].
 
-==== CalDAV Attachments
+== CalDAV Attachments
 
 *CalDAV Attachments* - "Extend the calendaring server to manage
 attachments"
@@ -60,7 +59,7 @@ server. Beyond the basic storage aspect, the server also becomes
 responsible for ensuring that only attendees of a meeting have access to
 those attachments. link:/tc-caldav[TC CALDAV].
 
-==== Calendars and Contacts Sharing
+== Calendars and Contacts Sharing
 
 *Calendars and Contacts Sharing* - "Sharing calendars and contacts
 between users, on the same system or across systems"
@@ -73,7 +72,7 @@ sharing calendars and hopefully contacts across calendaring system, e.g
 being able to share between multiple systems such as iCloud, Google
 Calendar, Yahoo!, AOL, and so forth.
 
-==== CalWS-REST and CalWS-SOAP
+== CalWS-REST and CalWS-SOAP
 
 *CalWS-REST and CalWS-SOAP* - "We need to (finally) provide platform and
 system-independent calendaring and scheduling operations APIs for web
@@ -88,7 +87,7 @@ CalS-SOAP provide both RESTful and SOAPy web service implementations of
 this API. The work is being done in partnership with OASIS; see OASIS
 WS-Calendar below.
 
-==== Consensus Scheduling (VPOLL)
+== Consensus Scheduling (VPOLL)
 
 link:/7_things_consensus_scheduling[*Consensus Scheduling (VPOLL)*]
 
@@ -104,7 +103,7 @@ additional iCalendar and iTIP component designed to allow the
 implementation of consensus scheduling with any system and client.
 link:/tc-freebusy[TC FREEBUSY].
 
-==== Developer's Guides
+== Developer's Guides
 
 *Developer's Guides* - Create a "cookbook" guide and other supporting
 materials for iCalendar and potentially other APIs such as CalDAV.
@@ -116,7 +115,7 @@ link:/tc-devguide[TC DEVGUIDE] has been formed to address this
 lack by creating a "cookbook" guide and other supporting materials for
 iCalendar and potentially other APIs such as CalDAV.
 
-==== Event Publishing Extensions
+== Event Publishing Extensions
 
 *Event Publishing Extensions* - "Calendaring standards need to support
 the rich environment of Web 2.0 (and beyond) for the publication of
@@ -137,7 +136,7 @@ See link:/tc-eventpub[TC EVENTPUB].
 
 
 
-==== iSCHEDULE
+== iSCHEDULE
 
 *iSCHEDULE* - "We need server to server scheduling between dissimilar
 systems - we have had client to server scheduling for a long time"
@@ -151,7 +150,7 @@ scheduling - the ability to schedule a meeting or appointment with
 anybody with a calendar and a calendar server, regardless of what system
 they are on. link:/tc-ischedule[TC ISCHEDULE].
 
-==== Non-Gregorian Calendars
+== Non-Gregorian Calendars
 
 *Non-Gregorian Calendars* - "Establish a way for recurrences to work
 with non-Gregorian calendar systems, in particular lunar/solar
@@ -166,7 +165,7 @@ this point the draft has been submitted to the IETF and the discussion
 is expected to continue on IETF mailing lists; we are not sure what
 further work will be done within CalConnect.
 
-==== OASIS WS-Calendar
+== OASIS WS-Calendar
 
 *OASIS WS-Calendar* - "Working with OASIS to develop their new
 WS-Calendar standard (scheduling for the Smart Grid), based on xCal,
@@ -180,7 +179,7 @@ services API for calendaring) protocols developed by CalConnect. OASIS
 and CalConnect maintain reciprocal memberships and liaisons between
 their WS-Calendar technical committee and our technical committees.
 
-==== PUSH for CalDAV
+== PUSH for CalDAV
 
 link:/7_things_push[*PUSH for CalDAV (and CardDAV)*] - "Extend
 CalDAV and CardDAV with standardized support for PUSH notifications"
@@ -197,7 +196,7 @@ technologies that can be used when no other PUSH method is available. To
 help implementers we will provide guidelines to PUSH support on servers
 and clients.
 
-==== Tasks (VTODOs)
+== Tasks (VTODOs)
 
 link:/7_things_tasks[*Tasks (VTODOs)*] - "Extend the functionality
 of VTODOs to support needs such as project management, smart power grids
@@ -211,7 +210,7 @@ link:/tc-tasks[TC TASKS] is working on extending iCalendar in
 areas such as project managment, WS Human Task, and smart grid energy
 management.
 
-==== Timezone service and registry
+== Timezone service and registry
 
 *Timezone service and registry* - "Full timezone support via dynamic
 server calls rather than embedding timezone information in events - no
@@ -227,7 +226,7 @@ to be included by reference in events, rather than embedded in them, and
 ensure correct interpretation of dates and times even if the information
 changes. link:/tc-timezone[TC TIMEZONE].
 
-==== VAVAILABILITY
+== VAVAILABILITY
 
 *VAVAILABILITY* - "New iCalendar component to describe availability, to
 'condition' freebusy lookup and scheduling (e.g. you may be 'free' at 3
@@ -242,7 +241,7 @@ for academic institutions, and has significant use also in the smart
 grid work being undertaken by OASIS. link:/tc-freebusy[TC
 FREEBUSY].
 
-==== vCard Resources
+== vCard Resources
 
 *vCard Resources* - "Define the vCard representation of calendaring
 resources to ease the discovery and scheduling of resources between any

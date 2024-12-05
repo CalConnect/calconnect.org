@@ -4,116 +4,109 @@ layout: default
 
 <div class="main-container container">
 
-    <!-- Page Header -->
-    <header role="banner" id="page-header">
-    </header> <!-- /#page-header -->
+  <!-- Page Header -->
+  <header role="banner" id="page-header">
+  </header> <!-- /#page-header -->
 
-    <div class="row">
+  <div class="row">
 
-        <!-- Main Content Section -->
-        <section class="col-sm-9">
+    <!-- Main Content Section -->
+    <section class="col-sm-9">
 
-            <!-- Breadcrumbs -->
-            <ol class="breadcrumb">
-                {% include breadcrumbs.html %}
-            </ol>
+      <!-- Breadcrumbs -->
+      <ol class="breadcrumb">
+        {% include breadcrumbs.html %}
+      </ol>
 
-            <!-- Anchor for Main Content -->
-            <a id="main-content"></a>
+      <!-- Anchor for Main Content -->
+      <a id="main-content"></a>
 
-            <!-- Page Title -->
-            <h1 class="page-header"></h1>
+      <!-- Page Title -->
+      <h1 class="page-header"></h1>
 
-            <!-- Dynamic Content Region -->
-            <div class="region region-content">
-                {{ content }}
-            </div>
+      <!-- Dynamic Content Region -->
+      <div class="region region-content">
+        {{ content }}
+      </div>
+    </section>
+
+    <!-- Sidebar Section -->
+    <aside class="col-sm-3" role="complementary">
+
+      <!-- Sidebar Region -->
+      <div class="region region-sidebar-second">
+
+        <!-- Submenu Block -->
+        <section id="block-submenu" class="block block-menu-block">
+
+          <!-- Sidebar Title -->
+          <h2 class="block-title">{{ page.type }}</h2>
+
+          <!-- Dynamic Navigation Menu -->
+          <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
+            {% assign navigation = site.data.navigation[page.type] %}
+
+            <!-- Check if navigation exists -->
+            {% if navigation %}
+              {% for item in navigation %}
+
+                <!-- Submenu Title -->
+                {% if item.title %}
+                  <h3>{{ item.title }}</h3>
+                {% endif %}
+
+                <!-- Subfolder Items -->
+                {% if item.subfolderitems and item.subfolderitems[0] %}
+                  <ul class="menu nav">
+                    {% for entry in item.subfolderitems %}
+                      <li class="leaf">
+                        <a href="{{ entry.url }}">{{ entry.page }}</a>
+
+                        <!-- Nested Subfolder Items -->
+                        {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
+                          {% assign is_current_subitem = false %}
+                          {% for subentry in entry.subsubfolderitems %}
+                            {% if subentry.url == page.url %}
+                              {% assign is_current_subitem = true %}
+                            {% endif %}
+                          {% endfor %}
+
+                          <ul class="menu nav {% if entry.url != page.url and is_current_subitem == false %}hide{% endif %}">
+                            {% for subentry in entry.subsubfolderitems %}
+                              <li class="leaf">
+                                <a href="{{ subentry.url }}">{{ subentry.page }}</a>
+                              </li>
+                            {% endfor %}
+                          </ul>
+                        {% endif %}
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% assign members = site.data.members %}
+
+            <!-- Check if members exists -->
+            {% if members and page.url == '/membership/' %}
+              <!-- Submenu Title -->
+              <h3>Member List</h3>
+
+              <!-- Subfolder Items -->
+              {% if members[0] %}
+              <ul class="menu nav membership-list">
+                {% for entry in members %}
+                <li class="leaf">{{ entry.name }}</li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            {% endif %}
+
+          </div>
         </section>
+      </div>
+    </aside> <!-- /#sidebar-second -->
 
-        <!-- Sidebar Section -->
-        <aside class="col-sm-3" role="complementary">
-
-            <!-- Sidebar Region -->
-            <div class="region region-sidebar-second">
-
-                <!-- Submenu Block -->
-                <section id="block-submenu" class="block block-menu-block">
-                    
-                    <!-- Sidebar Title -->
-                    <h2 class="block-title">{{ page.type }}</h2>
-
-                    <!-- Dynamic Navigation Menu -->
-                    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
-                        {% assign navigation = site.data.navigation[page.type] %}
-                        
-                        <!-- Check if navigation exists -->
-                        {% if navigation %}
-                            {% for item in navigation %}
-                                
-                                <!-- Submenu Title -->
-                                {% if item.title %}
-                                    <h3>{{ item.title }}</h3>
-                                {% endif %}
-                                
-                                <!-- Subfolder Items -->
-                                {% if item.subfolderitems and item.subfolderitems[0] %}
-                                    <ul class="menu nav">
-                                        {% for entry in item.subfolderitems %}
-                                            <li class="leaf">
-                                                <a href="{{ entry.url }}">{{ entry.page }}</a>
-                                                
-                                                <!-- Nested Subfolder Items -->
-                                                {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
-                                                    {% assign is_current_subitem = false %}
-                                                    {% for subentry in entry.subsubfolderitems %}
-                                                        {% if subentry.url == page.url %}
-                                                            {% assign is_current_subitem = true %}
-                                                        {% endif %}
-                                                    {% endfor %}
-                                                    
-                                                    <ul class="menu nav {% if entry.url != page.url and is_current_subitem == false %}hide{% endif %}">
-                                                        {% for subentry in entry.subsubfolderitems %}
-                                                            <li class="leaf">
-                                                                <a href="{{ subentry.url }}">{{ subentry.page }}</a>
-                                                            </li>
-                                                        {% endfor %}
-                                                    </ul>
-                                                {% endif %}
-                                            </li>
-                                        {% endfor %}
-                                    </ul>
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-
-                        {% assign members = site.data.members.list %}
-                        
-                        <!-- Check if members exists -->
-                        {% if members and page.url == '/membership/' %}
-                            {% for item in members %}
-                                
-                                <!-- Submenu Title -->
-                                {% if item.title %}
-                                    <h3>{{ item.title }}</h3>
-                                {% endif %}
-                                
-                                <!-- Subfolder Items -->
-                                {% if item.subfolderitems and item.subfolderitems[0] %}
-                                    <ul class="menu nav membership-list">
-                                        {% for entry in item.subfolderitems %}
-                                            <li class="leaf">
-                                                {{ entry.name }}
-                                            </li>
-                                        {% endfor %}
-                                    </ul>
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-                    
-                    </div>
-                </section>
-            </div>
-        </aside> <!-- /#sidebar-second -->
-
-    </div>
+  </div>
 </div>

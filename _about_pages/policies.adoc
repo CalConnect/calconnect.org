@@ -3,51 +3,51 @@ layout: page
 title: Policies and Related Materials
 type: about
 ---
-== Policies and related materials
+= Policies and related materials
 
-=== Articles of incorporation
+== Articles of incorporation
 
 Details: link:/docs/incorporation.pdf[Articles of Incorporation]
 
 The Articles of Incorporation of The Calendaring and Scheduling Consortium, incorporated in the State of California on 1 January 2004 as a California Nonprofit Mutual Benefit Corporation. The Consortium is a registered 501(c)6 Nonprofit Tax-exempt organization. CalConnect^SM^ is a Service Mark of the Consortium.
 
-=== Bylaws
+== Bylaws
 
 Details: link:/docs/TCSC%20Bylaws%20Revision%209%202020-02-21.pdf[Bylaws]
 
 The Bylaws of The Calendaring and Scheduling Consortium, adopted February 27, 2004; amended May 16, 2005, April 4, 2008, July 25, 2008, July 9, 2010, April 11, 2014, August 8, 2014, April 14, 2017, November 15, 2019, and February 21, 2020.
 
-=== Intellectual property rights policy
+== Intellectual property rights policy
 
 Details: link:policies/ipr-policy[Intellectual Property Rights Policy]
 
 Intellectual Property Rights policy.
 
-=== Copyright and licensing
+== Copyright and licensing
 
 Details: link:/about/policies/copyright-licensing[Copyright and Licensing Information]
 
 Copyright and Licensing Information for Published Material.
 
-=== Policies and procedures
+== Policies and procedures
 
 Details: link:policies/policies-and-procedures[Policies, Procedures and Recommendations]
 
 Policies, Procedures and Recommendations.
 
-=== Membership agreement
+== Membership agreement
 
 Details: link:/membership/membership-agreement[Membership Agreement]
 
 The Membership Agreement of CalConnect. Prospective members must agree to comply with the Membership Agreement as a prerequisite to joining the Consortium.
 
-=== Code of conduct
+== Code of conduct
 
 Details: link:/membership/code-conduct[Code of Conduct]
 
 The Code of Conduct for member representatives (individuals representing members of the Consortium while engaged in Consortium activities). This code also governs observers (see below) at a CalConnect event.
 
-=== Observers at CalConnect events
+== Observers at CalConnect events
 
 Details: link:/events/events-activities/observers[Observers at CalConnect Events]
 

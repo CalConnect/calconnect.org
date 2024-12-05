@@ -4,7 +4,7 @@ title:  Member Services and Resources
 type: resources
 ---
 
-== Member Services and Resources
+= Member Services and Resources
 
 This is a list of external services and resources used by CalConnect
 Technical Committees and other activities, and available to Member
@@ -14,7 +14,7 @@ resource, either by establishing or authorizing a userid for an external
 service, or gaining access to the Document Repository.  See the bottom
 of this page for contact information.
 
-=== Document Repository
+== Document Repository
 
 NOTE: As of August 2016, CalConnect has replaced our old OWL
 repository with a https://calconnect.box.com/v/docrep[CalConnect area on BOX].
@@ -25,7 +25,7 @@ you will require the current URL and password for the CalConnect
 Document Repository area in Box. The URL and password are available from
 the Executive Director (e-mail below).
 
-==== Google Docs
+== Google Docs
 
 CalConnect used Etherpads for several years; they were a
 lightweight collaboration tool which allowed multiple people to
@@ -33,14 +33,13 @@ collaborate in creating and editing a document interactively and
 synchronously. In 2017 however CalConnect switched to use Google Docs
 for a similar purpose and we maintain a Google Docs area.  You may
 request an invitation to the
-https://drive.google.com/drive/folders/0B-nDsRTuxMNveFNYS3pVT1ljRGc[CalConnect
-Google Docs Facility] by contacting the Executive Director.
+https://drive.google.com/drive/folders/0B-nDsRTuxMNveFNYS3pVT1ljRGc[CalConnect Google Docs Facility]
+by contacting the Executive Director.
 
-Note that
-you must have a Google userid and be invited to join this facility to
-make use of it.
+NOTE: You must have a Google user account and be invited to join this facility
+to make use of it.
 
-==== Github
+== Github
 
 CalConnect uses Github for in-progress specifications, the
 development of our Developer's Guide, and other purposes. We do not host
@@ -50,7 +49,7 @@ https://github.com/CalConnect[CalConnect public area of Github]. To have
 access to the private sections, you must have (or create) an id on
 Github and ask the Executive Director to give you access.
 
-==== Slack
+== Slack
 
 CalConnect uses Slack, a well-known collaboration tool, for
 chat support during Test Events and conferences, among other purposes.
@@ -58,7 +57,7 @@ You may request an invitation to the
 https://calconnect.slack.com/[CalConnect Slack] community by contacting
 the Executive Director.
 
-==== Other Links
+== Other Links
 
 These are largely folders in the
 https://calconnect.box.com/v/docrep[CalConnect Document Repository].
@@ -79,7 +78,7 @@ reports from Interoperability Test Events (discontinued in 2011 in favor
 of preserving the TC-IOPTEST-TESTING-NOTES etherpad used for recording
 testing resuls and problems during Interoperability Test Events)
 
-* *CalConnect Logos*  - The CalConnect Logo in gif and jpg
+* *CalConnect Logos* - The CalConnect Logo in gif and jpg
 formats for use by Members
 
 * *Board of Directors* folder - Articles of Incorporations,
@@ -90,7 +89,7 @@ Directors
 Director
 
 * https://oldlistarchives.calconnect.org/[*Old List Archives*] - Archives of Mailman Discussion Lists up to November 2016.  You must
-obtain login creditials from the Executive Director to access these
+obtain login credentials from the Executive Director to access these
 archives.
 
 If you encounter any problems, please contact the Executive Director at

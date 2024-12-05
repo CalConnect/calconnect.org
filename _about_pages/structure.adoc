@@ -3,8 +3,9 @@ layout: page
 title: Structure of CalConnect
 type: about
 ---
+= Structure of CalConnect
 
-== Structure of CalConnect
+== General
 
 CalConnect is incorporated in the State of California as a 501 (c) 6
 Nonprofit Mutual Benefit Corporation. The affairs of the Corporation are
@@ -17,7 +18,7 @@ The day-to-day affairs of the Consortium are managed by the Executive
 Director, who is responsible to the Board of Directors for the
 management of CalConnect
 
-=== Technical Coordination Committee (TCC)
+== Technical Coordination Committee (TCC)
 
 The TCC consists of the Chairs of the active Technical Committees and
 Provisional Committes, and functions as an ongoing status and
@@ -32,7 +33,7 @@ s also responsible for final approval for publication of Technical
 Committee documents which have passed Last Call status, and with
 planning for upcoming CalConnect events.
 
-=== Technical Committees (TCs)
+== Technical Committees (TCs)
 
 Any member of the Consortium may propose a Technical Committee, and
 nominate an individual to lead the TC if it is approved. Approval of a

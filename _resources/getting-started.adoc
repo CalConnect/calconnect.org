@@ -4,7 +4,7 @@ title: Getting started at CalConnect activities
 type: resources
 ---
 
-== Getting started at CalConnect activities
+= Getting started at CalConnect activities
 
 The Getting Started pages are intended for individuals who are new to
 CalConnect and have not yet attended a CalConnect event or become
@@ -15,9 +15,9 @@ may be interested in building a CalDAV or CardDAV server.
 We are extremely interested in comments and recommendations for changes
 or additions to these pages, especially from new participants who have
 just made use of them. Please send any comments or suggestions to
-mailto:Dave.Thewlis@calconnect.org?subject=Getting%20Started%20comments[Comments on Getting Started pages].
+mailto:info@calconnect.org?subject=Getting%20Started%20comments[Comments on Getting Started pages].
 
-=== Getting started at the CalConnect interoperability test event
+== Getting started at the CalConnect interoperability test event
 
 Details: link:getting-started/interop[Getting Started at the CalConnect Interoperability Test Event]
 
@@ -27,7 +27,7 @@ called an IOP Test Event or an Interop). Its purpose is to allow you to
 prepare for the event and understand in advance what to expect and how
 to maximize the value of your participation.
 
-=== Getting started at the CalConnect conference
+== Getting started at the CalConnect conference
 
 Details: link:getting-started/conference[Getting Started at the CalConnect Conference]
 
@@ -36,7 +36,7 @@ Conference, sometimes just called the Conference. Its purpose is to
 allow you to prepare for the event and understand in advance what to
 expect and how to maximize the value of your participation.
 
-=== Getting started with CalDAV and CardDAV
+== Getting started with CalDAV and CardDAV
 
 Details: link:getting-started/caldav-and-carddav[Starter List of CalDAV and CardDAV Standards and Specifications]
 
