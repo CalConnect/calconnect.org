@@ -21,7 +21,7 @@ jobs:
     - name: Build site
       env:
         JEKYLL_ENV: production
-      run: make _site
+      run: bundle exec jekyll build
 
     - name: Link Checker
       uses: lycheeverse/lychee-action@v1.2.0
