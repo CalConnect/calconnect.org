@@ -2,10 +2,9 @@
 title: Timezone service and registry
 ---
 
-*Timezone service and registry* - "Full timezone support via dynamic
-server calls rather than embedding timezone information in events - no
-more having event times wrong when timezones change and your software
-isn't updated"
+"Full timezone support via dynamic server calls rather than embedding timezone
+information in events - no more having event times wrong when timezones change
+and your software isn't updated"
 
 Traditionally calendar entries coded in iCalendar have had to include
 timezone information to allow interpretation of the date and time of an
@@ -14,4 +13,6 @@ information was put in the event. Having a separate, online timezone
 service which can be queried at any time will allow timezone information
 to be included by reference in events, rather than embedded in them, and
 ensure correct interpretation of dates and times even if the information
-changes. link:/tc-timezone[TC TIMEZONE].
+changes.
+
+Details: link:/tc-timezone[TC TIMEZONE].

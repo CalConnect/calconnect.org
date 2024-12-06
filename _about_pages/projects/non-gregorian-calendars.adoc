@@ -2,9 +2,8 @@
 title: Non-Gregorian Calendars
 ---
 
-*Non-Gregorian Calendars* - "Establish a way for recurrences to work
-with non-Gregorian calendar systems, in particular lunar/solar
-calendars"
+"Establish a way for recurrences to work with non-Gregorian calendar systems, in
+particular lunar/solar calendars"
 
 We have established the CALSCALE Ad Hoc committee to develop a draft
 proposal for supporting recurrences for non-gregorian calendars via the

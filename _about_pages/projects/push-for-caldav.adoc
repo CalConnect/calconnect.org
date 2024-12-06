@@ -2,8 +2,7 @@
 title: PUSH for CalDAV
 ---
 
-link:/7_things_push[*PUSH for CalDAV (and CardDAV)*] - "Extend
-CalDAV and CardDAV with standardized support for PUSH notifications"
+"Extend CalDAV and CardDAV with standardized support for PUSH notifications"
 
 At present CalDAV and CardDAV clients have to poll the server at regular
 intervals to check for changes. To provide a close to "real time" user
@@ -16,3 +15,5 @@ will specify a generic PUSH protocol based on existing WebDAV
 technologies that can be used when no other PUSH method is available. To
 help implementers we will provide guidelines to PUSH support on servers
 and clients.
+
+Details: link:/7_things_push[*PUSH for CalDAV (and CardDAV)*]

@@ -2,15 +2,16 @@
 title: VAVAILABILITY
 ---
 
-*VAVAILABILITY* - "New iCalendar component to describe availability, to
-'condition' freebusy lookup and scheduling (e.g. you may be 'free' at 3
-a.m. but you aren't available for a meeting)"
+"New iCalendar component to describe availability, to 'condition' freebusy
+lookup and scheduling (e.g. you may be 'free' at 3 a.m. but you aren't available
+for a meeting)"
 
 VAVAILABILITY is a new component for iCalendar which allows an
-indivdiual to specify when they are available to be scheduled for
+individual to specify when they are available to be scheduled for
 meetings (As opposed to "busy" when they already have a meeting
 scheduled, or "free" when nothing is scheduled). VAVAILABILITY will also
 allow the implementation of "office hours" applications, in particular
 for academic institutions, and has significant use also in the smart
-grid work being undertaken by OASIS. link:/tc-freebusy[TC
-FREEBUSY].
+grid work being undertaken by OASIS.
+
+Details: link:/tc-freebusy[TC FREEBUSY]

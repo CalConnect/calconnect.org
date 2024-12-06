@@ -2,8 +2,6 @@
 title: Consensus Scheduling (VPOLL)
 ---
 
-link:/7_things_consensus_scheduling[*Consensus Scheduling (VPOLL)*]
-
 "TimeTrade, Doodle, WhenisGood do it, it should be interoperable - scheduling
 driven by the attendees who get to vote on the best times and locations for
 group events"
@@ -15,3 +13,5 @@ available and interoperable within mainstream scheduling. VPOLL is an
 additional iCalendar and iTIP component designed to allow the
 implementation of consensus scheduling with any system and client.
 link:/tc-freebusy[TC FREEBUSY].
+
+Details: link:/7_things_consensus_scheduling[*Consensus Scheduling (VPOLL)*]
