@@ -567,7 +567,7 @@ body.node-type-webform .field-name-field-image img {
   margin: 0 0 1em 0;
   padding: 1em;
 }
-#calconnect-audience-boxes li.last {
+#calconnect-audience-boxes li:last-child {
   margin-right: 0;
 }
 #calconnect-audience-boxes li ul {
@@ -589,7 +589,7 @@ body.node-type-webform .field-name-field-image img {
   width: 40px;
   margin: 0 0 6px 0;
 }
-#calconnect-audience-boxes h3 {
+#calconnect-audience-boxes b {
   float: left;
   margin: 0 0 6px 5px;
   width: 75%;

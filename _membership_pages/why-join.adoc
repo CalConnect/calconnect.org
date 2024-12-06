@@ -5,34 +5,40 @@ type: membership
 ---
 = Why Become a Member of CalConnect?
 
-+++
-<ul id="calconnect-audience-boxes">
-  <li class="first">
-      <img src="/assets/images/glyphGears.png">
-      <h3>Developers</h3>
-       <ul>
-         <li>How do I implement?</li>
-         <li>How do I test?</li>
-       </ul>
-  </li>
-  <li>
-      <img src="/assets/images/glyphGroup.png">
-      <h3>Product Managers</h3>
-       <ul>
-         <li>How do I improve my product?</li>
-         <li>How do I involve my developers?</li>
-       </ul>
-  </li>
-  <li class="last">
-      <img src="/assets/images/glyphCheck.png">
-      <h3>Standards Community</h3>
-       <ul>
-         <li>How do I influence?</li>
-         <li>How do I inform?</li>
-       </ul>
-  </li>
-</ul>
-+++
+[#calconnect-audience-boxes]
+* {blank}
++
+--
+image::/assets/images/glyphGears.png[]
+
+*Developers*
+
+* How do I implement?
+* How do I test?
+--
+
+* {blank}
++
+--
+image::/assets/images/glyphGroup.png[]
+
+*Product Managers*
+
+* How do I improve my product?
+* How do I involve my developers?
+--
+
+* {blank}
++
+--
+image::/assets/images/glyphCheck.png[]
+
+*Standards Community*
+
+* How do I influence?
+* How do I inform?
+--
+
 
 This page is a "cold call" to ask you to consider joining CalConnect. As
 you have already found your way to this web page, we think there is a
