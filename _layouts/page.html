@@ -97,7 +97,10 @@ layout: default
               {% if members[0] %}
               <ul class="menu nav membership-list">
                 {% for entry in members %}
-                <li class="leaf">{{ entry.name }}</li>
+                <li class="leaf">
+                  {{ entry.name }}
+                  {% if entry.type == "individual" %} (Individual member){% endif %}
+                </li>
                 {% endfor %}
               </ul>
               {% endif %}

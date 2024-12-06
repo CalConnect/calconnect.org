@@ -20,6 +20,9 @@ CalConnect and its mission and activities.
       <!-- Check if members exist -->
       {% if members %}
         {% for entry in members %}
+        {% if entry.type == "individual" %}
+        {% continue %}
+        {% endif %}
         <div class="views-row">
           <div class="views-field views-field-field-image">
             <div class="field-content">
