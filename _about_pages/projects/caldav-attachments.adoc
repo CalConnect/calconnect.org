@@ -1,0 +1,13 @@
+---
+title: CalDAV Alarms
+---
+
+*CalDAV Attachments* - "Extend the calendaring server to manage
+attachments"
+
+This CalDAV extension will provide an interoperable and efficient
+mechanism to allow clients to store and manage attachments associated
+with a meeting (e.g. copy of a presentation, agenda,...) on a CalDAV
+server. Beyond the basic storage aspect, the server also becomes
+responsible for ensuring that only attendees of a meeting have access to
+those attachments. link:/tc-caldav[TC CALDAV].

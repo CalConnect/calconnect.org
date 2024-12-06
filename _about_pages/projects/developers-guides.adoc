@@ -1,0 +1,13 @@
+---
+title: Developer's Guides
+---
+
+*Developer's Guides* - Create a "cookbook" guide and other supporting
+materials for iCalendar and potentially other APIs such as CalDAV.
+
+The lack of useful developer's guides and other documentation about
+iCalendar, CalDAV, and other specifications is a problem for all current
+and would-be developers in calendaring and scheduling.
+link:/tc-devguide[TC DEVGUIDE] has been formed to address this
+lack by creating a "cookbook" guide and other supporting materials for
+iCalendar and potentially other APIs such as CalDAV.

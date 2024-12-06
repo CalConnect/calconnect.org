@@ -1,0 +1,15 @@
+---
+title: OASIS WS-Calendar
+---
+
+*OASIS WS-Calendar* - "Working with OASIS to develop their new
+WS-Calendar standard (scheduling for the Smart Grid), based on xCal,
+CalWS-REST and CalWS-SOAP"
+
+We are working with OASIS (the Organization for the Advancement of
+Structured Information Systems) to develop their WS-Calendar standard.
+It was original intended for the exchange of power information for the
+smart grid, and is based on xCal (iCalendar in XML) and CalWS (web
+services API for calendaring) protocols developed by CalConnect. OASIS
+and CalConnect maintain reciprocal memberships and liaisons between
+their WS-Calendar technical committee and our technical committees.
