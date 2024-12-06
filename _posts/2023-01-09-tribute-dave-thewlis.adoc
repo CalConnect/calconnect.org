@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Tribute to Dave Thewlis
-date: 2022-01-09
+date: 2023-01-09
 type: news
 category: Announcements
 excerpt:
@@ -12,11 +12,8 @@ excerpt:
 
 == A Tribute to Dave Thewlis
 
-
-image:/assets/images/DaveThewlis-01.jpg[Dave
-Thewlis on phone,width=657,height=553]
-
-Father Time managing his calendar?
+.Father Time managing his calendar?
+image:/assets/images/DaveThewlis-01.jpg[Dave Thewlis on phone,width=657,height=553]
 
 In November 2004, Esther Dyson posted this photo to Flickr, with a
 caption of _“Father Time managing his calendar?”_ adding, _“Well, sort
