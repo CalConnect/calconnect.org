@@ -1,6 +1,11 @@
 ---
+layout: page
 title: PUSH for CalDAV
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== PUSH for CalDAV
 
 "Extend CalDAV and CardDAV with standardized support for PUSH notifications"
 

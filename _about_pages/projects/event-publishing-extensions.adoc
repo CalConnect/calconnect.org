@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Event Publishing Extensions
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Event Publishing Extensions
 
 "Calendaring standards need to support the rich environment of Web 2.0 (and
 beyond) for the publication of public events - rich text, participants and image

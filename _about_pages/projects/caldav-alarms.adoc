@@ -1,6 +1,11 @@
 ---
+layout: page
 title: CalDAV Alarms
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== CalDAV Alarms
 
 "Extend alarm support to allow for cross-device dismissal, proximity triggers
 based on location, default alarms in CalDAV"

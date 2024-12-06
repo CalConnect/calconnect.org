@@ -1,6 +1,11 @@
 ---
+layout: page
 title: CalWS-REST and CalWS-SOAP
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== CalWS-REST and CalWS-SOAP
 
 "We need to (finally) provide platform and system-independent calendaring and
 scheduling operations APIs for web services - it's long past time"

@@ -1,6 +1,11 @@
 ---
+layout: page
 title: iSCHEDULE
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== iSCHEDULE
 
 "We need server to server scheduling between dissimilar systems - we have had
 client to server scheduling for a long time"

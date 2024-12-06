@@ -1,6 +1,11 @@
 ---
+layout: page
 title: OASIS WS-Calendar
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== OASIS WS-Calendar
 
 "Working with OASIS to develop their new WS-Calendar standard (scheduling for
 the Smart Grid), based on xCal, CalWS-REST and CalWS-SOAP"

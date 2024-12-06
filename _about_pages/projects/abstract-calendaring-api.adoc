@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Abstract Calendaring API
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Abstract Calendaring API
 
 We need a full "CRUD" (Create/Read/Update/Delete) Abstract Application
 Programming Interface and Calendaring Architecture for Calendaring and
