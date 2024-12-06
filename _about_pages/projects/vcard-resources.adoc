@@ -2,9 +2,8 @@
 title: vCard Resources
 ---
 
-*vCard Resources* - "Define the vCard representation of calendaring
-resources to ease the discovery and scheduling of resources between any
-calendar client and server"
+"Define the vCard representation of calendaring resources to ease the discovery
+and scheduling of resources between any calendar client and server"
 
 In keeping with the goal of TC RESOURCE to develop recommendations for
 seamless interoperable resource scheduling, we have been working on
@@ -13,3 +12,5 @@ vCard format which allows the electronic capture and exchange of
 information on users, devices, and more. link:/tc-resource[TC RESOURCE]
 is working on an extension of the vCard RFC to include all
 required information for representing calendaring resources.
+
+Details: link:/tc-resource[TC RESOURCE]

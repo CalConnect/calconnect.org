@@ -2,9 +2,8 @@
 title: OASIS WS-Calendar
 ---
 
-*OASIS WS-Calendar* - "Working with OASIS to develop their new
-WS-Calendar standard (scheduling for the Smart Grid), based on xCal,
-CalWS-REST and CalWS-SOAP"
+"Working with OASIS to develop their new WS-Calendar standard (scheduling for
+the Smart Grid), based on xCal, CalWS-REST and CalWS-SOAP"
 
 We are working with OASIS (the Organization for the Advancement of
 Structured Information Systems) to develop their WS-Calendar standard.

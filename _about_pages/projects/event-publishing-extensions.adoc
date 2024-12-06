@@ -2,9 +2,9 @@
 title: Event Publishing Extensions
 ---
 
-*Event Publishing Extensions* - "Calendaring standards need to support
-the rich environment of Web 2.0 (and beyond) for the publication of
-public events - rich text, participants and image support"
+"Calendaring standards need to support the rich environment of Web 2.0 (and
+beyond) for the publication of public events - rich text, participants and image
+support"
 
 Events for publication require more and richer information than
 conventional meeting events. CalConnect is working on defining some new
@@ -13,8 +13,8 @@ properties:
 * structured locations - perhaps as vCards
 * participants - for example, the team, audience, principal performer,
 contacts
-* rich and locale-specific descriptions - allows html and multi-language
+* rich and locale-specific descriptions - allows HTML and multi-language
 support
 * images
 
-See link:/tc-eventpub[TC EVENTPUB].
+Details: link:/tc-eventpub[TC EVENTPUB]
