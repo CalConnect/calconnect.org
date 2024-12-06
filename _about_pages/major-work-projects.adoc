@@ -17,17 +17,12 @@ happen:*
         <div class="field field-name-body field-type-text-with-summary field-label-hidden">
             <div class="field-items">
                 <div class="field-item" property="content:encoded">
-                    <ul id="work-project-controls">
-                        <li class="expand">Expand All</li>
-                        <li class="contract">Contract All</li>
-                    </ul>
                     <div id="work-projects">
                         {% assign projects = site.about_pages | where_exp: "page", "page.path contains '/projects/'" %}
                         {% for project in projects %}
-                            <h3>{{ project.title }}</h3>
-                            <div style="display: none;">
-                                {{ project.content | asciidocify }}
-                            </div>
+                            <a href="{{ project.url }}">
+                                <h3>{{ project.title }}</h3>
+                            </a>
                         {% endfor %}
                     </div>
                     <p>&nbsp;</p>
