@@ -1,6 +1,11 @@
 ---
+layout: page
 title: VAVAILABILITY
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== VAVAILABILITY
 
 "New iCalendar component to describe availability, to 'condition' freebusy
 lookup and scheduling (e.g. you may be 'free' at 3 a.m. but you aren't available

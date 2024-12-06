@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Tasks (VTODOs)
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Tasks (VTODOs)
 
 "Extend the functionality of VTODOs to support needs such as project management,
 smart power grids and business task scheduling"

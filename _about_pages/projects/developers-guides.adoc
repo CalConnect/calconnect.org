@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Developer's Guides
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Developer's Guides
 
 Create a "cookbook" guide and other supporting
 materials for iCalendar and potentially other APIs such as CalDAV.

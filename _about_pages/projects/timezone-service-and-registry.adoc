@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Timezone service and registry
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Timezone service and registry
 
 "Full timezone support via dynamic server calls rather than embedding timezone
 information in events - no more having event times wrong when timezones change

@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Non-Gregorian Calendars
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Non-Gregorian Calendars
 
 "Establish a way for recurrences to work with non-Gregorian calendar systems, in
 particular lunar/solar calendars"

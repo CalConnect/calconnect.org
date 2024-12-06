@@ -1,6 +1,11 @@
 ---
+layout: page
 title: CalDAV Attachments
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== CalDAV Attachments
 
 "Extend the calendaring server to manage attachments"
 

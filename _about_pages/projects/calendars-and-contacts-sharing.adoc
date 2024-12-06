@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Calendars and Contacts Sharing
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Calendars and Contacts Sharing
 
 "Sharing calendars and contacts between users, on the same system or across
 systems"

@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Consensus Scheduling (VPOLL)
+type: about
+permalink: /about/major-work-projects/:title
 ---
+
+== Consensus Scheduling (VPOLL)
 
 "TimeTrade, Doodle, WhenisGood do it, it should be interoperable - scheduling
 driven by the attendees who get to vote on the best times and locations for
