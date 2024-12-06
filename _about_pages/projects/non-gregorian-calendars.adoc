@@ -1,0 +1,16 @@
+---
+title: Non-Gregorian Calendars
+---
+
+*Non-Gregorian Calendars* - "Establish a way for recurrences to work
+with non-Gregorian calendar systems, in particular lunar/solar
+calendars"
+
+We have established the CALSCALE Ad Hoc committee to develop a draft
+proposal for supporting recurrences for non-gregorian calendars via the
+CALSCALE parameter in iCalendar and an RSCALE extension to RRULE. The
+goal is to allow clients supporting non-gregorian calendars to create
+recurring events without having to implement non-standard mechanisms. At
+this point the draft has been submitted to the IETF and the discussion
+is expected to continue on IETF mailing lists; we are not sure what
+further work will be done within CalConnect.

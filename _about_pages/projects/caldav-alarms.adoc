@@ -1,0 +1,13 @@
+---
+title: CalDAV Alarms
+---
+
+*CalDAV Alarms* - "Extend alarm support to allow for cross-device
+dismissal, proximity triggers based on location, default alarms in
+CalDAV"
+
+Sharing calendars and tasks across multiple devices is great - having
+the alarms go off on all of them isn't. This extension to CalDAV (the
+standard calendar service protocol) will allow for effective user
+management of alarms, including choosing which device(s) should enable
+each alarm, and the form of the alarm. link:/tc-caldav[TC CALDAV].

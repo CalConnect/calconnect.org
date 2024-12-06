@@ -1,0 +1,15 @@
+---
+title: Autodiscovery
+---
+
+*Autodiscovery* - "One-stop setup for devices and new service providers
+for calendaring, e-mail, etc. based on internet standard protocols"
+
+Currently there is no simple, "one-stop" way to set up a collection of
+internet standard services such as e-mail, calendaring, and so forth.
+This is an issue when someone starts with a new organization or changes
+service providers, and is even more difficult when one acquires a new
+smartphone. We are working on a new standard protocol to specify how to
+automatically discover and set up internet standards-based services such
+as e-mail, calendaring, address book, etc. which can be implemented in a
+single, easy to use user interface. link:/tc-autodiscovery[TC AUTODISCOVERY].

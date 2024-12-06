@@ -1,0 +1,16 @@
+---
+title: CalWS-REST and CalWS-SOAP
+---
+
+*CalWS-REST and CalWS-SOAP* - "We need to (finally) provide platform and
+system-independent calendaring and scheduling operations APIs for web
+services - it's long past time"
+
+Calendaring (and scheduling) should be available as a service on any
+platform with a calendaring system installed, much like middleware. To
+make this work and expose the calendaring system to other applications,
+widgets, and so forth, we need a platform-independent and
+system-independent API for calendaring operations. CalWS-REST and
+CalS-SOAP provide both RESTful and SOAPy web service implementations of
+this API. The work is being done in partnership with OASIS; see OASIS
+WS-Calendar below.

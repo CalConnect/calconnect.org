@@ -1,0 +1,15 @@
+---
+title: Tasks (VTODOs)
+---
+
+link:/7_things_tasks[*Tasks (VTODOs)*] - "Extend the functionality
+of VTODOs to support needs such as project management, smart power grids
+and business task scheduling"
+
+The VTODO component of iCalendar must be extended to offer functionality
+for new use cases such as the smart grid, project management, and
+business task scheduling, in a way that allow a calendaring system to
+manage the data and calendaring clients to display and change it.
+link:/tc-tasks[TC TASKS] is working on extending iCalendar in
+areas such as project managment, WS Human Task, and smart grid energy
+management.

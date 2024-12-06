@@ -1,0 +1,15 @@
+---
+title: iSCHEDULE
+---
+
+*iSCHEDULE* - "We need server to server scheduling between dissimilar
+systems - we have had client to server scheduling for a long time"
+
+Scheduling a meeting between co-workers on a single calendaring system
+has been available for a long time, but trying to schedule with people
+on different calendar servers has only be available by hooking it onto
+emails. iSchedule provides a system-independent server-to-server
+mechanism to allow inter-system scheduling and ultimately "ad hoc"
+scheduling - the ability to schedule a meeting or appointment with
+anybody with a calendar and a calendar server, regardless of what system
+they are on. link:/tc-ischedule[TC ISCHEDULE].
