@@ -1,0 +1,369 @@
+---
+layout: page
+name: CalConnect XXVIII - September 23-27, 2013
+host_info: Hosted by DHL, Prague, Czech Republic
+date: 2013-09-23
+image: /assets/images/DHLPrague.jpg
+---
+:page-liquid:
+
+== CalConnect XXVIII - September 23-27, 2013
+
+=== CalConnect Interoperability Test Event - September 23-25 +
+CalConnect Roundtable XXVIII - September 25-27
+
+[[intro]]
+image:{{'/assets/images/DHLPrague.jpg' | relative_url }}[DHL
+Prague,width=550,height=366]
+
+Monday, September 23, 2013 to Friday, September 27, 2013
+
+Recent Changes:
+
+Downloadable/subscribable schedule available; location address correction +
+_04 September 2013_
+
+CalConnect XXVIII, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Prague, Czech Republic Monday-Friday, September 23-27, 2013, hosted by http://www.dhl.com[DHL]. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday September 23-24, and Wednesday morning September 25, ending at noon. The Roundtable will begin with lunch at 12:00 on Wednesday September 25, and last until 18:00 Friday September 27. +
+ +
+ An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled on Wednesday morning the 25th for first-time attendees. +
+ +
+ We are planning to offer Workshops on *Calendaring and Travel Itineraries* and *Federated Shared Calendars* on Thursday and Friday mornings as part of the Roundtable. More information about the workshops will be announced as soon as possible. +
+ +
+*CalConnect Interoperability Test Event*: At this meeting, we expect both regular interoperability testing and mobile device testing against remote servers. A participating organization may register for either or both for a single registration fee, but should be aware that they may require additional individuals to participate in both activities. +
+ +
+ The Interoperability Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1309.shtml[CalConnect Interoperability Test Event September 2013] for current information. Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You do not need finished or polished code to participate in the Interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*Roundtable XXVIII:* The Roundtable Technical Conference/Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. In addition, workshops and symposia will be offered Thursday and Friday mornings the 26th and 27th. +
+ +
+ Friday afternoon's final sessions will be the Technical Committee wrap-up and the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+Please see http://www.learn4good.com/travel/czech_republic_visa.htm#req for information about visas required, etc.
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Event. You may register at any time once registration has been announced and the registration pages are available. +
+ +
+*Special Registration Fees for first-time attendees*: For CalConnect XXVIII, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the Roundtable Technical Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Roundtable Technical Conference but enter $600 as the amount for the Interoperability Test Event, and $0 for the Roundtable, for each person being registered.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Roundtable will take place at DHL's Prague Facility, located at V Parku 2308/10, Prague 4, 148 00, Czech Republic. The facility is a 5 minute walk from the Chodov metro station on Line C. It is only 15 minutes by subway from any major point of the city. For more information click on http://www.dpp.cz[www.dpp.cz]. +
+ +
+ For a map of Prague showing the location of the Conference Hotel and the DHL facility, see http://goo.gl/maps/hDRHV[].
+
+[[transportation]]
+Transportation
+
+*Airport Information:* Prague is served by http://www.prg.aero/en/[Ruzyne], Prague International Airport. Direct connections are available from most European cities and some connections from North America, mostly from the East Coast. Additionally, low-cost airlines such as Easyjet and Ryanair serve Prague from smaller airports in Europe and the U.K. +
+ +
+*Ground Transportation:* See http://www.prg.aero/en/parking-transport/transport/public-transit/[Public Transit] for information about public transportation options. A good alternative is the Airport Express which takes you to the Museum stop on the Metro "C" line which is two Metro stops from the Vysehrad stop, next door to the conference hotel (the Corinthia, see below). +
+ +
+ If you wish you may request a hotel transfer from the airport as part of booking your hotel room (see below). This can be for 1-4 people, and costs CKZ 750. It will be billed to your hotel room. +
+ +
+ If you prefer to make your own arrangements, DHL recommends the Umbrella Travel limosine service, which may be booked online in advance: http://www.umtf.eu/en/objednavky/[Umbrella Travel]. The price from the airport to the Corinthia Towers hotel is CZK 700 (about $35); from the airport to the DHL office is CZK 800. You may pay the taxi with a credit card if you wish. When you order a car, you should say you are from DHL. Also the driver will hold a "DHL" sign in the arriving hall. +
+ +
+ Taxis are also available at the airport for individuals or small groups.
+
+[[lodging]]
+Lodging
+
+The conference hotel for this event is the Corinthia Hotel Prague http://corinthia.com/en/Prague/home/[]. +
+ +
+http://corinthia.com/en/Prague/home/[Corinthia Hotel Prague] +
+ Kongresov¡ 1 +
+ Prague 4, 140 69 +
+ Czech Republic +
+ Tel: +420 261 191 111 +
+ Fax: +420 261 225 011 +
+ E-mail: mailto:prague@corinthia.com[prague@corinthia.com] +
+ +
+ We are offered a special rate of 85 euros/night exclusive of VAT for a single room (about $130 inclusive of VAT) or 100 euros/night for a double room. Breakfast and free wifi are included. In order to receive our special rate please book your room online at this link: https://prague.corinthia.cz/en/xdhl230913.asp[]. The booking form will also allow you to request an airport-hotel transfer for 1-4 people for CZK 750. You must request this at the time of booking your room. +
+ +
+ Our special rate and room block expires on **31 August**; after that date the room rate and room block are no longer guaranteed. You may still be able to book a room at the hotel at their regular rate by going to their home page. +
+ +
+*Traveling between the conference hotel and the DHL Facility:* The easiest way is to use the Metro. Both the hotel and the DHL facility are on the "C" line. The hotel is next door to the Vyserad Metro station. DHL is four stops away on the "C" line, at the Chodov station. Metro tickets and passes are avalable at the hotel.
+
+[[test-schedule]]
+Test Event Schedule
+
+The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. As is our custom for European events, Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
+ +
+_This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._
+
+[cols=3]
+|===
+3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
+
+.<a| *Monday 23 September* +
+ 0830-1000 Interop Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 Interop Testing +
+ 1200-1300 Lunch +
+ 1300-1530 Interop Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Interop Testing +
+ +
+ 1930-2130 Interop Dinner +
+ _U FLECKU +
+http://www.ufleku.cz/_
+.<a| *Tuesday 24 September* +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 Testing +
+ 1200-1300 Lunch +
+ 1300-1430 BOF or Testing +
+ 1300-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+.<a| *Wednesday 25 September* +
+ 0830-1000 Interop Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 Interop Testing +
+ 1130-1200 Wrap-up +
+ 1200 End of Interoperability Testing +
+ +
+ 1200-1300 Lunch^1^ 
+
+3+| 
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. As is our custom for European events, Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
+ +
+_This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._
+
+[cols=3]
+|===
+3+.<| *ROUNDTABLE XXVII*
+
+3+.<| 
+.<a| *Wednesday 25 September* +
+ 1100-1200 Introduction to CalConnect^3^ +
+ 1200-1300 Opening Lunch^1^ +
+ 1300-1445 Opening +
+ 1445-1500 TC IOPTEST Reports +
+ 1500-1530 TC AUTODISCOVERY +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC XML +
+ 1700-1800 Host Session - DHL +
+ +
+ 1800-2000 Welcome Reception^4^ +
+_On Site_
+.<a| *Thursday 26 September* +
+ 0830-1000 Workshop: Travel Itineraries and Calendaring +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 TC TASKS +
+ 1200-1300 Lunch +
+ 1300-1430 TC CALDAV +
+ 1430-1530 TC TIMEZONE +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC EVENTPUB +
+ 1700-1800 CALSCALE Ad Hoc +
+ +
+ 1930-2200 Group Dinner^6^ +
+ _U MODRE KACHNICKY II +
+http://www.umodrekachnicky.cz/en/retro/welcome_
+.<a| *Friday 27 September* +
+ 0830-1000 Workshop: Federated Shared Calendars +
+ 1000-1030 Break and Refreshments +
+ 1030-1115 BOF: PUSH for CalDAV +
+ 1115-1200 BOF: Expanding the CalConnect Remit +
+ 1200-1300 Lunch +
+ 1300-1430 TC ISCHEDULE +
+ 1430-1530 TC RESOURCE +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC FREEBUSY +
+ 1700-1730 TC Wrapup +
+ 1730-1800 CalConnect Plenary +
+ 1800 Close of Meeting
+
+3+| 
+3+.<a| +
+^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
+^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
+^4^All Roundtable and/or Interoperability Test Events participants are invited to the Wednesday evening reception +
+^6^All Roundtable participants are invited to the group dinner on Thursday +
+ +
+ +
+ Lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees. 
+
+|===
+ +
+
+[[agendas]]
+==== Topical Agendas:
+
+[cols=2]
+|===
+.<a| +
+*CALSCALE Ad Hoc* Thu 1700-1800 +
+ TBA +
+ +
+*Opening* Wed 1300-1445 +
+ 1. Welcome and Logistics +
+ 2. Introductions +
+ 3. New Member presentations +
+ 4. General CalConnect Discussions +
+ 4.1 Overview of next few days +
+ 4.2 Restructuring the Steering Committee +
+ 4.3 Reporting on and leveraging our completed standards/specs +
+ +
+*TC AUTODISCOVERY* Wed 1500-1530 +
+ TBA +
+ +
+*TC CALDAV* Thu 1400-1530 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. Progress and Status Update +
+ 2.1 IETF +
+ 2.2 CalConnect +
+ 3. Open Discussions +
+ 3.1 Managed Attachments +
+ 3.2 Scheduling Object Drafts +
+ 3.3 Calendar Sharing & Notifications +
+ 4. Review and Update Charter and Milestones +
+ 5. Moving Forward +
+ 5.1 Plan of Action +
+ 5.2 Next Conference Call +
+ +
+*TC EVENTPUB* Thu 1600-1700 +
+ 1.Work and accomplishments +
+ 2. iCalendar extensions RFC +
+ 2.1 Review of changes +
+ 2.2 TZID on VALUE=DATE properties - should we add it? +
+ 2.3 Event coloring +
+ 2.4 IETF status +
+ 3. Review Rich Text and Multi-Language Support Specification +
+ 3.1 Review of changes +
+ 3.2 GROUP Parameter +
+ 3.3 IETF status +
+ 4. Charter and milestones +
+ 5. Going Forward +
+ 5.1 Next steps +
+ 5.2 Next call +
+ +
+*TC FREEBUSY* Fri 1600-1700 +
+ 1. Work and accomplishments +
+ 2. VPOLL RFC +
+ 3. Interop test report +
+ 4. Update charter and milestones +
+ 5. Moving Forward +
+ 5.1 Plan of Action +
+ 5.2 Next Conference Call +
+ +
+*TC IOPTEST* Wed 1445-1500 +
+ Review of IOP test findings
+.<a| +
+*TC iSCHEDULE* Fri 1300-1430 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. Open Discussions +
+ 2.1 Work with the IETF +
+ 2.2 Calendar User Addresses and iSchedule +
+ 3. Review and Update Charter and Milestones +
+ 4. Moving Forward +
+ 4.1 Plan of Action +
+ 4.2 Next Conference Calls +
+ +
+*TC RESOURCE* Fri 1430-1530 +
+ 1. Introduction +
+ 1.1 TC Charter +
+ 1.2 Accomplishments +
+ 2 Resource RFC status +
+ 2.1 OBJECTCLASS draft +
+ 2.2 Schedulable draft +
+ 2.3 Resource vCard draft +
+ 3. Open Discussions +
+ 3.1 Exposing more detailed information about an account through CalDAV +
+ 3.2 Improve efficiency in searching for the right resource to schedule +
+ 4. Future of TC +
+ 4.1 Next conference calls +
+ +
+*TC TASKS* Thu 1030-1200 +
+ 1. Introduction +
+ 1.a Recap Charter +
+ 2. Progress since last Roundtable +
+ 2.1 Relationship draft +
+ 2.1.1 Three types of relationships +
+ 2.2 Task extensions draft +
+ 2.2.1 task specific data +
+ 2.3 Interop findings +
+ 3. Next steps +
+ 3.1 Protocol impacts +
+ 4. Review and Update Charter and Milestones +
+ +
+ +
+**TC TIMEZONE**Thu 1430-1530 +
+ 1. Introduction +
+ 1.1 Background to the work +
+ 2. Interop report +
+ 3. Timezone Service Specification +
+ 4. Timezones by reference in CalDAV +
+ 5. Publishing the specification +
+ 6. Timezone Registries +
+ 7. Review of charter and milestones +
+ 8. Next steps +
+ +
+*TC XML* Wed 1600-1700 +
+ 1. Introduction +
+ 1.1 Summary +
+ 2. jCal & jCard: iCalendar and vCard in JSON +
+ 2.1 IETF Status +
+ 2.2 Remaining issues +
+ 3 Interop test results +
+ 4. Review of charter and milestones +
+ 5. Moving Forward +
+ 5.1 Future of TC-XML +
+ 5.2 Next conference calls
+
+|===
+
+ +
+ +
+
+[[bofs]]
+==== BOFs and Workshops
+
+===== Scheduled
+
+*Travel Itineraries and Calendaring (Workshop)* Fri 0830-1000 +
+ Booking travel is often done online using digital tools. These tools frequently generate a schedule of "events" covering different "pieces" of the itinerary - typically including time-based components. Many websites offer to export that as calendar data, however the "quality" of the data is poor, and often disjoint and not easily integrated with other tools, such as 3rd-party travel apps on mobile devices. In some cases old versions of VCALENDAR are used, in others iCalendar is used, but is missing or has inaccurate timezone data. Plus the full potential of what iCalendar could offer is missing. This workshop aims to outline the problems associated with digitial itinerary calendar data, and show how iCalendar could be a powerful solution to help improve the overall user experience. +
+ +
+*Federated Shared Calendars (Workshop)* Fri 0830-1000 +
+ This workshop will address issues related to how users can share calendars between different calendar systems. This includes both direct iTIP style scheduling via iSchedule, as well as subscribed calendaring sharing. The goal is to propose solutions to improve the user experience in this area. +
+ +
+*Native CalDAV Support for PUSH* Fri 1030-1115 +
+ PUSH is a "missing feature" in CalDAV and some server vendors have come up with proprietary solutions. This BOF will discuss a proposal on how to accomplish PUSH with WebDAV technology in a standardized way. +
+ +
+*Expanding the CalConnect Remit* Fri 1115-1200 +
+ CalConnect has made significant progress in its original goals of setting and evolving Calendaring & Scheduling standards and promoting interoperability and this work must continue. In recent years we have seen an explosion of new entrants in our field, in particular smaller vendors of calendaring and related products, and vendors targeted at specific end user groups (business, education, productivity) who are in direct contact with end users. CalConnect may need to expand what it does, how it positions itself and how it explains what it provides to better meet their needs and the needs of their users, the growing world of calendaring & scheduling consumers.
+
+ +
+ +
+
+===== Unscheduled
+
+*CalDAV Tester group test fest* - Monday during Interoperability Test Event +
+ +
+*Timezones by Reference and eTAG Behavior* - during Interoperability Test Event +
+ +
+ +
+ Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found. +
+ +
+ +
+ 

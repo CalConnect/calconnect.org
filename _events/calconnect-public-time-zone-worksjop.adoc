@@ -1,0 +1,67 @@
+---
+layout: page
+name: CalConnect Public Time Zone Workshop
+host_info: Tuesday February 05 at CalConnect XLIV Zürich
+date: 2019-02-05
+image: /assets/images/world-time-zone-map.jpg
+---
+:page-liquid:
+
+== CalConnect Public Time Zone Workshop
+
+=== February 05, 2019 - 1:30 pm to 5:30 pm (arrival 1:30-2:00, workshop 2:00-5:30, Reception 5:30-7:30)
+
+=== Google Zürich Europaallee campus, Lagerstrasse 100, Meeting Room Heidi, 2nd Floor.
+
+[[intro]]
+image:{{'/assets/images/world-time-zone-map.jpg' | relative_url }}[
+,width=650,height=350]
+
+Tuesday, February 05, 2019
+
+The Public Time Zone Workshop will be Tuesday February 5th from 13:30 to 17:30 at the Google facility at Lagerstrasse 100, Meeting Room "Heidi", 2nd floor..
+
+This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our http://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[news release].
+
+The workshop is *open to the public* but you *must register in advance* as space will be limited. There is *no fee* to attend the workshop.
+
+Attendees are invited to stay for a Welcome Reception following the workshop.
+
+Please register for this event at https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[]. CalConnect conference attendees *are requested to register* *for this workshop* via the eventbrite link in addition to registering for the conference itself.
+
+
+
+*Purpose*:
+
+Work towards mitigating the effect of tz (such as DST) changes in the future in an increasingly technology-dependent and interconnected world
+
+*Goals:*
+
+Collect known and anticipated issues, data not anecdotes. +
+ Develop guidance and best practices for people, governments, organizations on how to deal with it, what could go wrong if not done correctly +
+ Identify technologies and methodologies, existing or practical to develop and implement that could ease tz change transitions, e.g. TZDIST, Apple and ?Google? variants
+
+*Content (proposed):*
+
+Presentation about the EU proposal and possible political consequences +
+ Presentation on TZDIST and variants and what they do (and dont do) +
+ Open discussion on known and anticipated issues +
+ Guidance and best practices (separate discussions on vendors, consumers, governments?)
+
+*Possible Participants:*
+
+Representatives from governments, industries affected by tz changes (travel, financial, health, device manufacturers, etc.), organizations deploying tz data, organizations maintaining and updating tz data.
+
+More information will be posted as planning continues.
+
+[[registration]]
+
+[[location]]
+
+[[transportation]]
+
+[[lodging]]
+
+[[test-schedule]]
+
+[[conference-schedule]]
