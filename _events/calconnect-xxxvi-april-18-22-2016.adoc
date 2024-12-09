@@ -1,0 +1,521 @@
+---
+layout: page
+name: CalConnect XXXVI - April 18-22, 2016
+host_info: Hosted by Ribose and OGCIO, Hong Kong
+date: 2016-04-18
+image: /assets/images/HongKong_0.jpg
+---
+:page-liquid:
+
+== CalConnect XXXVI - April 18-22, 2016
+
+=== CalConnect Interoperability Test Event - Monday-Tuesday +
+link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url }}[CalConnect Public Day] at http://www.itfest.hk/template?series=2&id=141&lang=en#[Hong Kong ITFest] - Wednesday +
+CalConnect Conference - Thursday-Friday
+
+[[intro]]
+image:{{'/assets/images/HongKong_0.jpg' | relative_url }}[Hong
+Kong,width=800,height=402]
+
+Join us for CalConnect XXXVI Hong Kong, April 18-22 2016
+
+Monday, April 18, 2016 to Friday, April 22, 2016
+
+webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+April 12, 2016 - link to map of Cyberport showing the location of our meeting room added to the Location section
+
+April 4, 2016 - The Saturday tours have been combined into a single trip.
+
+March 21, 2016 - Full information for the https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[CalConnect Public Day] on wednesday April 20th has been added in its own event page.
+
+March 15 & 20, 2016 - Full Test Event Schedue added; Conference schedule updated and some sessions rearranged.
+
+March 9, 2016 - Test Event list of Developer Discussion Topics has been revised and expanded with descriptions of the topics and issues to be discussed.
+
+March 3, 2016 - The Conference Schedule has been added to the Conference Section. A link to registration for the Public Day added to the Registration section of this page. Information about the optional Tours on Saturday has been provided.
+
+CalConnect XXXVI, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Hong Kong on April 18-22, 2016, hosted byhttp://www.ribose.com[Ribose]andhttp://www.ogcio.gov.hk/[OGCIO]. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday April 18-19. Wednesday April 20 will be an https://www.itfest.hk/template?series=2&id=141&lang=en#[all-day Public Event] hosted by CalConnect at the https://www.itfest.hk/template[Hong Kong ITFest]. The Conference will be Thursday and Friday, April 21-22. +
+ +
+*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*CalConnect Public Day:* The Public Day is Wednesday April 20 at the Hong Kong Convention Centre. The schedule for the day is available at https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[]. Please see:https://www.itfest.hk/template?series=2&id=141&lang=en# for more information about the Hong Kong ITFEST and the Public Day.
+
+*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome. +
+ +
+ The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+Hong Kong does not require visas. Your (valid) passport is sufficient. There are plenty of cash tills (Automated Teller Machines/ATMs) in arrivals from which you can draw HK dollars. As of mid-November the exchange rate is approximately 7.75 HK dollars to 1 US dollar.
+
+Conference Details
+
+Morning coffee and rolls, lunch, and morning and afternoon breaks will be served to all participants in the Test Event and Conference and are included in your registration fees. The Monday and Thursday group dinners are hosted by CalConnect.
+
+Dress at all CalConnect events is casual to business casual.
+
+==== Optional Tours following the CalConnect event
+
+For information about the two optional tours on Saturday after the close of the CalConnect event please see https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday-23-april-2016[https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday...].
+
+=== CalConnect XXXVI Sponsors
+
+CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
+
+image::/sites/default/files/media/sponsor-logos3.png[""]
+==== Hosts
+
+* http://www.ribose.com/[Ribose]
+* http://www.ogcio.gov.hk/en/[The Office of the Government Chief Information Officer (OGCIO)]
+==== Commercial Sponsor
+
+* http://www.bsigroup.com/en-US/[British Standards Institution]
+==== Venue Sponsors
+
+* https://www.cyberport.hk/en[Cyberport]
+* http://www.hku.hk/[The University of Hong Kong]
+==== Supporting Organizations
+
+* https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
+ Hon. Charles Mok, JP, Legislative Councillor (IT)]
+* http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
+* http://www.vtc.edu.hk[Vocational Training Council (VTC)]
+* https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
+* https://cloudsecurityalliance.org/[Cloud Security Alliance (CSA)]
+* http://www.lscm.hk/[Hong Kong R&D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM)]
+* http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
+* http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
+* http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
+==== Special thanks to
+
+* https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
+* http://www.cad.gov.hk/english/home.html[Civil Aviation Department]
+* http://www.mtr.com.hk/en/customer/tourist/index.php[Mass Transit Railways (MTR)]
+* http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
+
+
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the test event and/or the conference. Note that you must register separately for the interoperabilty test event and for the conference, however you may request a single invoice and payment. 
+
+We recommend booking your hotel accommodations as soon as possible. Not only will hotels be filling up quickly, the three hotels offering special rates (see below) will start to reduce their room blocks beginning in mid-February.
+
+
+
+*Registration for the Public Day* is not required for CalConnect participants. If you wish to attend the Public Day **but are no**t attending the CalConnect Test Event or Conference, you may register at: https://www.itfest.hk/template?series=46&id=141&lang=en.%C2%A0[https://www.itfest.hk/template?series=46&id=141&lang=en.] CalConnect Participants who wish to attend other ITFEST events may also register at https://www.itfest.hk/template?series=46&id=141&lang=en[].
+
+
+
+[[location]]
+Location
+
+The Interoperability Test Event (April 18-19) and the Conference (April 21-22) will take place in Cyberport 3, Training Rooms 1-3, at Cyberport, an IT incubator and meeting facillity about 20 minutes from Central Hong Kong. The Wednesday April 20 Public Event will be at the Hong Kong Convention Cente, Room S221, in Central Hong Kong. The Tuesday evening HKU Seminar will be at the Hong Kong University campus in the KK Leung Building, Room KK201.
+
+This map shows the location of Training Rooms 1-3 (Location "S" in Cyberport 3) at the far end of the Cyberport complex from the Le Meridien Hotel (maybe a 5 minute walk).
+
+https://www.cyberport.hk/en/about_cyberport/about_cyberport_map
+
+
+
+
+
+[[transportation]]
+Transportation
+
+*Airport Information:* Hong Kong is served by http://www.hongkongairport.com[Hong Kong International Airport], on the island of Chek Lap Kok. Direct flights are available from many international destinations. +
+ +
+*Ground Transportation:* +
+ +
+ The Airport Express train runs from the airport to (Central) Hong Kong Terminal every 12 minutes and costs about $100 Hong Kong dollars; it takes about 25 minutes. From there if you are going to the Le Meridien hotel they offer an hourly shuttle, or you can take a taxi for about $90 HK. +
+ +
+ A taxi from the airport directly to Cyberport takes about 45 minutes and costs about $380 Hong Kong dollars.  Uber is illegal in Hong Kong.
+
+[[lodging]]
+Lodging
+
+Three hotels are offering room blocks and a special rate for CalConnect attendees, the Mandarin Oriental and Landmark Mandarin Oriental in Central Hong Kong, and Le M©ridien at the Cyberport (where our event is located). You may book at any of these hotels immediately, but you must do it via telephone, or by filling out a reservation form and faxing it to the hotel. Please note that the special rate is available from two days prior to two days after our event; that is between 16 and 24 April 2016. +
+ +
+ All hotel fees are inclusive of internet and offer a choice of king/double beds and smoking/nonsmoking rooms. +
+ +
+ Additionally, we have identified three additional hotels within a 10 minute taxi ride which may have availability. +
+ +
+ +
+http://www.starwoodhotels.com/lemeridien/property/overview/index.html?propertyID=1826&language=en_US[*Le M©ridien Cyberport*] +
+ Cyberport 1, 100 Cyberport Road, Hong Kong +
+ +852 2980 7788 +
+ +
+ 30 Smart rooms, 10 Deluxe Ocean. $1,280 / $1,780; plus 10% service charge. Buffet breakfast charged separately at $150+10%/person. +
+ +
+ Room block: 20 released at 60 days, 10 more at 45 days, and the remaining 10 at 30 days. However the CalConnect rate will still be offered if they have availability up to the week of the event. +
+ +
+ Cancellation policy: before 17 March 1 night charged; after 17 March full booked period charged. +
+ +
+ To book contact: +
+ Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridien.com[wency.au@lemeridien.com] +
+ +852 2980 7812 (Monday to Friday (0900  1800hrs)) +
+ Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._) +
+ +
+ +
+http://www.mandarinoriental.com/landmark/[*The Landmark Mandarin Oriental*] +
+ 15 Queen's Road Central, Hong Kong +
+ +852 2132 0188 +
+ +
+ L450 room for HK $3,700 including breakfast for two; plus 10%Q service fee. +
+ +
+ Room block: 20 rooms until 60 days out; 10 rooms until 30 days out; block released 30 days out. +
+ +
+ Cancellation policy: Before 17 March no penalty; after 17 March full booked period charged. +
+ +
+ To book contact their reservation Hotline: +852 2820 4202 +
+ Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mahkg-reservations@mohg.com] +
+ +
+ +
+http://www.mandarinoriental.com/hongkong/?htl=MOHKG&eng=google&src=local[The Mandarin Oriental Hong Kong] +
+ +
+ 5 Connaught Road Central, Hong Kong +
+ +852 2522 0111 +
+ +
+ Superior room HK $3,600 including breakfast, $HK $3,350 without breakfast; plus 10% service charge. +
+ +
+ Room block: 10 rooms until 60 days out; 5 rooms until 30 days out; block released 30 days out. +
+ +
+ Cancellation policy: before 17 March no penalty; after 17 March 1 night charged. +
+ +
+ To book contact their reservation Hotline: +852 2820 4202 +
+ Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mohkg-reservations@mohg.com] +
+ Or download this http://calconnect.org/mandarinorientalbookingform.pdf[booking form], fill out and fax to the number provided on the form. +
+ +
+ +
+*Other Area Hotels* +
+ +
+ The Ovolo Aberdeen Harbor (12 minutes by taxi): +
+http://www.ovolohotels.com/en/hotels/hongkong/ovolo-aberdeen-harbour/ +
+ +
+ Hotel Jen (11 mins) which is opened by Shangri-La: +
+https://www.hoteljen.com/hongkong/westerndistrict/about/ +
+ +
+ L'hotel which is quite new (10 mins): +
+http://www.lhotelgroup.com/en/hotel/lhotel-island-south/Home +
+ +
+ Ovolo Southside (12 mins): +
+http://www.ovolohotels.com/en/hotels/hongkong/ovolo-southside/ +
+ +
+ +
+ In general Cyberport is far from tourist areas so there are not many choices around.
+
+[[test-schedule]]
+Test Event Schedule
+
+The April 18-19 2016 CalConnect Interoperability Test Event will take place as part of CalConnect XXXVI, hosted by Ribose and OGCIO in Cyberport, Hong Kong. The test event consists of actual desting, and developer discussions of in-depth technical issues.
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+==== CALCONNECT INTEROPERABILITY TEST EVENT
+
+a| *Monday 18 April* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and/or Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and/or Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and/or Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and/or Discussions +
+ +
+ 1830-2030 Test Event Dinner +
+_(Delaney Irish Pub, Cyberport Arcade)_
+a| *Tuesday 19 April* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and/or Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and/or Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and/or Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and/or Discussions
+| 
+
+|===
+*Please Note:* It is our intention to make this Interoperability Test Event as useful as possible for members and non-members. To this end we welcome suggestions from interested parties on what they might want to test, and with whom.Tuesday late afternoon is the Seminar at Hong Kong University, 1700-1900; some people may need to leave early in order to participate in the Seminar.Wednesday will be our Public Day at the Convention Center in Central Hong Kong; we encourage everyone to attend the Public Day and participate or offer support. We expect to offer transportation to and from the Convention Center on Wednesday.
+
+Test Event Agenda
+
+==== _Updated 23 February 2016_
+
+
+==== Specific Areas for testing as identified by participants
+
+[[magicdomid61]]
+CalDAV in general
+
+[[magicdomid62]]
+CalDAV TESTER
+
+[[magicdomid63]]
+iMIP/iTIP
+
+ITIP/CalDAVSharing
+
+Managed Attachments
+
+[[magicdomid64]]
+SHARING
+
+[[magicdomid65]]
+Server Information document
+
+[[magicdomid66]]
+WebDAV PUSH
+
+[[magicdomid67]]
+Simultaneous support of Apple sharing spec and new standards-based sharing specs
+
+
+
+==== Technical Topics for Developers' Discussions
+[[magicdomid80]]
+[[magicdomid83]]
+The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
+
+[[magicdomid84]]
+These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
+
+[[magicdomid85]]
+
+
+[[magicdomid86]]
+The schedule for these discussions will be decided on during the 2 days and is very flexible. Topics so far include:
+
+[[magicdomid87]]
+
+
+[[magicdomid88]]
+API:
+
+* Discuss and decide further details of the data model for the protocol
+* Types of multi-instance events other than recurrences and representation of such "compound events" - nested components or relationships.
+
+[[magicdomid92]]
+PATCH/DIF/Compaction
+
+[[magicdomid93]]
+
+* We can talk about the use cases for patching and more compact representations. This may be part of the API doscussions
+
+[[magicdomid95]]
+DEVGUIDE
+
+[[magicdomid96]]
+
+* working session (develop/edit pages and examples)
+
+[[magicdomid98]]
+Sharing and scheduling
+
+* Sharing causes some paticular problems foir scheduling. We'll talk about solutions
+* Also scheduling with multiple organizers or no organizer
+* New properties to define default organizer calendar user address
+* Suppressing scheduling when (re)loading calendars - e.g. after restore
+
+[[magicdomid104]]
+IMIP
+
+[[magicdomid105]]
+
+* interoperability problems and possible solutions, workarounds, best practices
+
+[[magicdomid107]]
+VJOURNAL:
+
+[[magicdomid108]]
+
+* Who uses it? Why isn't it used more
+* "STATUS:ARCHIVED" hide it from your list of notes, but still storing it somewhere for future retrieval
+
+[[magicdomid111]]
+Managed attachments:
+
+[[magicdomid112]]
+
+* upload attachment before a new event is uploaded. Background: a client is implemented as a sync-adapter and runs asynchronously in the background usually some time after an event/task/journal has been created by a user.
+
+[[magicdomid114]]
+"wipe trigger":
+
+[[magicdomid115]]
+
+* in a corporate environment it might be a requirement to be able to remotely remove synced data (of a specific account) from a device. At present, the only way is to return empty collections (or no collections at all), but that usually affects all clients of that user (unless they use different logins, which is probably not common). Also it doesn't work if the device can't sync for whatever reason. There is no 100% reliable solution, but the current situation can certainly be improved. In times of BYOD and it's even more important that there is a standardized solution that works with all clients.
+
+
+
+==== Baseline Testing
+Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
+
+* CalDAV testing:
++
+
+** Access (basic operations of CalDAV)
+** Scheduling
+** Sync report (depth: 1 on home collection)
+** Mobile
+** Sharing
+** Prefer Header
+* Managed Attachments
+* iSchedule:
++
+
+** Server discovery
+** DKIM security
+* Timezones:
++
+
+** Service Protocol
+** Timezones by Reference
+* Calendar Alarms:
++
+
+** Snooze
+** Default alarms
+* VPOLL support in clients and servers
+* VAVAILABILITY support in clients and servers
+* Autodiscovery protocol
+* Non-gregorian calendar recurrences via RRULE and RSCALE
+* iCalendar:
++
+
+** Rich text and other new properties (and hashing)
+* iMIP
+* iTIP
+* jCal, the JSON format for iCalendar - libraries and servers
+* xCal, the XML format for iCalendar
+* Enhanced VTODO support
+* CardDAV testing:
++
+
+** Generic
+** Sync report
+** Mobile
+** vCard 4
+ +
+
+==== Who May Participate or Observe
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+==== Registration
+Please see link:events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* link:event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
++
+: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* link:event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
++
+: Register one to six people as
++
+link:events-activities/observers[observers]
++
+for the CalConnect Interoperability Test Event.
+
+==== Interoperability Event Scenarios
+If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+[[conference-schedule]]
+Conference Schedule
+
+The Conference takes place all day Thursday and Friday April 21-22.
+
+==== CALCONNECT XXXVI CONFERENCE SCHEDULE AND AGENDA
+
+[cols=2]
+|===
+2+| *Thursday 21 April*
+
+| 0800-0830 | Coffee & Rolls
+| 0830-0915
+a| Conference Opening and Introduction +
+_Welcome by OGCIO, Logistics, Test Event Reports, Introductions, Technical Committee activity since last event, Report on CalConnect specifications status at the IETF_
+
+| 0915-0945 | Host Sessions (Ribose, OGCIO)
+| 0945-1030
+a| IMIP current issues +
+_There are a number of problems with the current iMIP model and implementations, leading to interoperability issues. We will discuss the issues and some possible solutions. TC IMIP._
+
+| 1030-1100 | Break and refreshments
+| 1100-1230
+a| API - A new representation for calendar data +
+_The API Technical Committee is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. This session will review the current status of the effort and consider outstnading issues_. TC API.
+
+| 1230-1330 | Lunch
+| 1330-1400 | Review of discussions carried over from Developers' Discussions during Test Event
+| 1400-1500
+a| DEVGUIDE Developers' Guide to Calendaring +
+_We are working on a developers' guide to calendaring in the form of a wiki. This session will provide explanations of the data model and examples using various libraries, and encourage internal and external participation in enhancing and improving the Guide. TC DEVGUIDE._
+
+| 1500-1530
+a| CALDAV Current Topics +
+_We will review recent extensions to CalDAV such as supporting the new JSON API data format and discuss whether there are issues we have not anticipated. TC CALDAV._
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| The Travel Industry and Calendaring and Scheduling +
+_We will discuss how calendar data can be augmented with information to help present itineraries and enable better use by applications._ 
+
+| 1700-1800
+a| New-/non-member presentations +
+_Introductory presentations from new members or non-members at their first CalConnect event._
+
+| 1830-2130
+a| Conference Dinner +
+_Luk Yu Tea House, 24-26 Stanley Street, Central.Party name is "Tse"._ 
+
+2+| *Friday 22 April*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930
+a| RSCALE +
+_RSCALE is an extension to iCalendar to support non-Gregorian recurrence rules in iCalendar data. In particular this allows the specification of data such as religious events and birthdays._
+
+| 0930-1030
+a| DAV-Based resource sharing +
+_We will review the progress made in redefining CalDAV sharing as a DAV-based standard resource sharing specification with CalDAV and CardDAV extensions. TC SHARING._
+
+| 1030-1100 | Break and refreshments
+| 1100-1130
+a| PATCH/DIFF/COMPACT for iCalendar data +
+_A new proposed mechanism by which calendar data can be updated in place rather than the current GET/PUT full replacement approach. In many cases this will result in a significant decrease in data transferred._
+
+| 1130-1200
+a| Calendar Extensions: Scoped Attendees (Private/Protected/Public) +
+_This proposal would allow attendees to send private information to the organizer or optionally broadcast to the group.It definesparameterprefixes to identifya value as private or public.._
+
+| 1200-1230
+a| Sponsor Presentation +
+_British Standards Institute_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| Categorization/Event Types and Structured Data +
+_Being able to categorize events in a standardized manner will help in aggregation and allow applications to discover events of interest. TC EVENTPUB._
+
+| 1430-1530
+a| Alternative Subscription Models +
+_Current subscriptions usually involve clients downloading an .ics file at certain intervals. We will discuss some alternative approaches including a mechanism by which clients can "upgrade" to a better connection, for example a CalDAV subset.. TC CALDAV._
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| Technical Committee Futures and CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
+
+| 1700 | Close of CalConnect XXXVI.
+
+|===

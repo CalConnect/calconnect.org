@@ -1,0 +1,176 @@
+---
+layout: page
+name: CalConnect Virtual Conference 2020
+host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+date: 2020-10-12
+image: /assets/images/CalConnectEventTBD_0.jpg
+---
+:page-liquid:
+
+== CalConnect Virtual Conference 2020
+
+[[intro]]
+image:{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0,width=800,height=530]
+
+CalConnect Virtual Conference October 12-15 2020
+
+Monday, October 12, 2020 to Thursday, October 15, 2020
+
+Recent Changes:
+
+08 Sep 2020 - Initial post.
+
+16 Sep 2020 - Schedule updated.
+
+*Introduction*
+
+This CalConnect Virtual Conference will be held via Zoom the week of October 12-16, 2020. Our goal is to present a set of compelling sessions on issues CalConnect members are currently facing and working on.
+
+The conference will be conducted on the North America Eastern time zone (UTC-5) and will take place Monday through Wednesday from 11:00 to 14:00 EST. Thursday and possibly Friday, which will have sessions at times convenient for our Far East and Australia colleages presenting the sessions, will be from 01:00 to 04:00 EST (this schedule may be adjusted as needed).
+
+The conference is organized by day with each day having a list of sessions and session topics. At this time we are not going to assign a specific time for each session within the 3-hour period, however we expect that most sessions will be no more than an hour including a question or discussion period and a short break. Insofar as possible sessions will be scheduled to begin on the top of the hour. All sessions will be recorded and available after the fact to registrants who were unable to be on a specific session.
+
+We also plan to offer interoperability testing during or adjacent to the Virtual Conference. More details on this will be available when people register.
+
+The Virtual Conferences will be open to members and non-members. You must register in advance and pay the registration fee for the conference prior to October 09. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]
+
+[[registration]]
+Registration Information
+
+Registration will open in early September; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. See the registration pages linked above for more information. Registrants will be sent the access information the week prior to the Virtual Conference.
+
+[[location]]
+Location
+
+Via Zoom. URL and access credentials will be provided to all registered attendees before the Virtual Conference.
+
+[[transportation]]
+
+[[lodging]]
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT VIRTUAL CONFERENCE 2020
+
+==== *Please notify us if you have any requests or recommendations for schedule additions or for schedule rearrangements to allow you to attend specific sessions. If you are a CalConnect Member Representative please consider joining our Event Planning calls on alternate Tuesdays -- the CalConnect mailing list is notified the day before of the each call.*
+
+_This schedule will be updated as new information is available. Please check back periodically. _
+
+_PLEASE NOTE:_
+
+_*All times shown are in North American Eastern Time Zone*_
+
+_*We will have a 10 minute scheduled break each hour, generally close to or at the top of the hour*_
+
+*Monday 12 October 2020 - 1100-1400 Eastern - CalConnect Opening, Testing and Certification*
+
+* *CalConnect Welcome and Plenary*
++
+ 
++
+
+** TC Status
+** Report from Board, next steps
+** Plans for Nottingham and beyond
+* *Calendaring, Public Events and Higher education*
++
+
+** _Details pending_
+* *Testing and Certification*
++
+
+** _CalDAV tester improvements and client support_
+** _Automated testing of calendar clients_
+** _CalConnect Certification discussion - should CalConnect offer certification of calendar serviers and/or clients_
+* *Interoperability Testing opportunity*
+
+
+
+*Tuesday 13 October 2020 - 1100-1400 Eastern - CALENDAR and CalDAV*
+
+* *Calendar Privacy and encrypted CalDAV*
++
+
+** _ISO Privacy work, discussion of CalConnect focus_
+* *Calendar data model and data portability*
++
+
+** _Presentation and discussion_
+* *DMARC and iMIP constraints and incompatibilities*
++
+
+** _Some IMIP use cases are currenly prohibited by DMARC. Can we resolve this issue?_
+* *TC-CALENDAR Review*
++
+
+** Server-side subscriptions
++
+
+*** _What if anything is implemented. What is needed?_
+** VPOLL
++
+
+*** _Status and next steps; current issues_
+** iCalendar Series
++
+
+*** _Status and next steps; current issues_
+** Subscription Upgrade and enhanced GET
++
+
+*** _Any interest from clients? Is this a chicken and egg issue?_
+** Calendar Sharing issues and Scheduling
++
+
+*** Owner vs organizer
+*** Secretary mode vs team mode
+*** Is there a universal solution? Have services providers implemented their own?
+
+
+
+*Wednesday 14 October 2020 - 1100-1400 Eastern - CALENDAR CLIENTS*
+
+* *TC-DEVGUIDE*
++
+
+** _Latest changes and next steps_
+* *TC-CLIENT working session and moving forward*
++
+
+** Pending details
+* *Calendar Clients and real world product interoperability*
++
+
+** _Pending details_
+* *Autodiscovery and PUSH*
++
+
+** _Status of drafts; determine interest in moving forward or closing the work_
+
+
+
+*Thursday/Friday 15/16 October 2020 0100-0400 Eastern - Australasia Day*
+
+* *TC-VCARD and ISO/TC 211*
++
+
+** _Pending details_
+* *TC-DATETIME and ISO/TC 154*
++
+
+** _Pending details_
+* *Joint Session with ISO/TC 154/WG 5*
++
+
+** _Details and exact date/time to be announced; to be determined by Chair and may not fall during the times allotted this day. Participants will be notified of the date and time._
+* *Joint Session with IETF CALEXT - JMAP AND JSCalendar/JSContacts working session*
++
+
+** _Details and exact date/time to be announced; to be determined by Chair and may not fall during the times allotted this day. Participants will be notified of the date and time._
+
+
+
+*Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

@@ -1,0 +1,294 @@
+---
+layout: page
+name: CalConnect XLIV - February 4-8, 2019
+host_info: Hosted by Google, Zürich, Switzerland
+date: 2019-02-04
+image: /assets/images/Zurich_0.jpg
+---
+:page-liquid:
+
+== CalConnect XLIV - February 4-8, 2019
+
+[[intro]]
+image:{{'/assets/images/Zurich_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Zurich_0,width=800,height=500]
+
+CalConnect XLIV in Zurich, Switzerland, hosted by Google
+
+Monday, February 04, 2019 to Friday, February 08, 2019
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+29 Jan 2019 Additional schedlule adjustments
+
+22 Jan 2019 Schedule adjustments; Conference calendar .ics file created.
+
+21 Jan 2019 Location section updated with inormation about gaining access to the building, getting your badge, and finding the meeting room Schedule updated to include information about Thursday Conference dinner.
+
+15 Jan 2019 Updated Conference Schedule and Sessions; added link to Testing Plans to Introduction
+
+19 Dec 2018 First Draft of Conference Schedule and Sessions added
+
+27 Nov 2018 Additional Hotel (Hotel Z¼ri) added to Lodging section.
+
+22 Nov 2018 Meeting location updated to include street address.
+
+CalConnect XLIV will be held in Zurich, Switzerland, the week of February 4-8 2019, hosted by Google in Zurich, Switzerland (see the Location tab on this page). In addition to our usual conference, we will host an Open Codefest on Monday February 4th prior to the conference, and a Public Workshop on Time Zones on Tuesday afternoon during the conference.
+
+*CalConnect Public Codefest:* *Monday February 4th* will be an all day (0900-1730) Open Codefest / Hackathon taking place at the Google facility. This event is open to the public but you *must* register in advance. Note that catering will *not* be provided. There is *no fee* for the Codefest. You may register for this event at https://www.eventbrite.com/e/calendar-and-scheduling-developer-day-zurich-tickets-51512514317[]. CalConnect conference attendees **must register separatel**y to attend the Codefest.
+
+*CalConnect Public Time Zone Workshop:* The Time Zone Workshop will be *Tuesday February 5th* from 13:30 to 17:30 at the Google facility. This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our http://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[news release]. The workshop is open to the public but you *must* register in advance. There is no fee to attend the workshop. Attendees are invited to stay for a Welcome Reception following the workshop. More information will be provided as planning continues. Please register for this event at https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[]. CalConnect conference attendees *are requested to register* for this workshop via the eventbrite link in addition to registering for the conference itself (see below).
+
+*CalConnect XLIV Conference:* The conference will be *Tuesday-Friday February 5-8* at the Google facility. This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. Note that the "track" organization at the September 2018 event will not be used; we will organize sessions for best fit and relevance. Additional changes to the structure and format will be made in accordance with feedback from the previous "one time" event in Karlsruhe. CalConnect XLIV is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the confernce at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][].
+
+**Interoperability Testing at CalConnect XLIV: **If you are interested in or planning to test at this event, please visit this document: https://docs.google.com/document/d/1E69fx_ZGdSTj1S6rOW2kz1DXcGJgW86j61RRYiHj5y4/edit[TESTING PLANS]. On that page you should provide name, e-mail address, organization, what you want to test (e.g. CalDAV basic, Autodiscovery, etc.) and (if possible) who you want to test with. If you cannot access the page please e-mail mailto:dave.thewlis@calconnect.org?subject=Testing%20Request[Test Request] with the above information (and to let us know you dont have access).
+
+This will help us to plan for and organize testing, and also encourage other organizations attending the event to test.
+
+International Visitors
+
+U.S. citizens and those of many other countries do not require a visa to enter Switzerland, although a passport will be needed. For more information please see https://www.swissinfo.ch/eng/society/entering-switzerland-who-needs-a-visa/42177294[]. https://www.hotelstgotthard.ch/en/
+
+Conference Details
+
+We will begin each day at 0830 (rather than 0800 as in the past) with coffee and tea.. The first session will be at 0900. The default end for each day is now 1730.
+
+Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast prior to arriving at the venue.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XLIV; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
+
+[[location]]
+Location
+
+CalConnect XLIV and related events will be held at the Google Zurich Europaallee campus, Building H, Lagerstrasse 100, which is about 5 minutes from the Zurich Central Train Station. We will be in *Meeting Room Heidi* *on the 2nd Floor*.
+
+Come to the main door of 100 Lagerstrasse on the SE corner. There is a "door bell" which will give you access to the building. Go to the second floor and check in with Reception to get your badge. The meeting room is right next to Reception.
+
+Please see this map of central Zurich and the area of the Central Train Station: https://www.google.com/maps/d/edit?hl=en&mid=1Zxtd71LX8a5DuPugkT3U4LcMkjJ-tBAh&ll=47.3763806765764%2C8.528456845368964&z=16[]__.__
+
+[[transportation]]
+Transportation
+
+If you travel by air, the easiest connection is via https://www.zurich-airport.com/[Zurich International Airport (ZRH)].
+
+From the airport, the easiest way to get to central Zurich is by train; there is a direct train to the Zurich central train station every 5-10 minutes which takes about 10-15 minutes. Fare is from 3.40 CHF.
+
+You may also use the EuroAirport train from Basel-Mulhouse-Freiburg (MLH/SL/EAP) which takes about 1.5 hours.
+
+Train connections are also plentiful from nearby countries such as Germany, France, Italy and Austria.
+
+
+
+
+
+[[lodging]]
+Lodging
+
+Google does not have a corporate rate at local hotels, so please book your hotel directly. Four choices are shown below in order of increasing distance from the venue.
+
+The Conference Hotel is the 24hours Hotel Langstrasse, across the street from the meeting venue: +
+http://www.25hours-hotels.com/en/hotels/zurich/langstrasse[25hours Hotel Langstrasse] +
+ Langstrasse 150 +
+ Zurich, 08004 Switzerland +
+ +41-44-5765000 +
+mailto:langstrasse@25hours-hotels.com[langstrasse@25hours-hotels.com] +
+ For early February 2019, a room with breakfast for Sunday through Friday is about 225 CHF inclusive per night.
+
+Several blocks from the venue, east of the central train station: +
+https://www.hotelstgotthard.ch/en/[Hotel St. Gotthard] +
+ Bahnhofstrasse 87 +
+ Zurich 8001 Switzerland +
+ +41 (0) 44 227 77 00 +
+ For early February 2019, a room with breakfast for Sunday through Friday is about 246 CHF inclusive per night
+
+About a mile from the venue on the far side of the central train station (tram service is available): +
+https://byfassbind.com/hotel/zuri/[Hotel Z¼ri by Fassbind] +
+ Heinrichstrasse 254 +
+ Zurich 8005, Switzerland +
+ +41 44 44 8 18 18 +
+ For early February 2019, a room with breakfast for Sunday through Friday is about 140 CHF inclusive per night
+
+About a mile from the venue: +
+https://www.motel-one.com/en/hotels/zurich/hotel-zurich/[Motel One Zurich] +
+ Stockerstrasse 61 +
+ 8002 Zurich, Switzerland +
+ 41 44 226 77 00 +
+ For early February 2019, a room with breakfast for Sunday through Friday is about 180 CHF per night (unclear if inclusive).
+
+This hotel is at the airport and has a tram (#10) which leaves every 8 minutes and takes about half an hour to the Central Train Station: +
+https://www.galahotels.com/en/Hotel/switzerland_217/zurich_20528/novotel_zurich_airport_messe_1825453?gclid=CjwKCAjw9sreBRBAEiwARroYm-5ETXGmlp4lSzFWMv51nJ7d5KYxgAmQpJm0VcrIAs05R7GljZlGxRoCLzYQAvD_BwE[Novotel Zurich Airport Messe] +
+ Lindbergh-Platz 1 +
+ 8152 Opfikon, Switzerland +
+ +41 44 829 90 00 +
+ For early February 2019, a room with breakfast for Sunday through Friday is about 127 CHF inclusive per night
+
+
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT XLIV
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[*Subscribe*] to this calendar.
+
+Please Note: The schedule and content may be altered during the course of the event as circumstances dictate or new issues arise to be covered.
+
+**Session Types: **A = Admin; G = General; T = Technical; W = Working (Testing, Joint Work, Workshop, Lab)
+
+[cols="1,9"]
+|===
+2+| *Tuesday 5 February 2019*
+
+| 0830-0900 | Coffee and Tea
+| ____0900-0930 
+a| *A* Conference Opening +
+_Welcome, logistics, introductions, review of schedule for week_ 
+
+| 0930-1000
+a| *A* Reports on CalConnect Activities +
+_TC activities, liaison activities, report from the Board_
+
+| 1000-1030
+a| *A* New and Non-Member Presentations +
+_Short introductions to new/non members attending_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130 | *A* Host Session
+| 1130-1230 | *W* Testing; Joint Work; meetups
+| 1130-1230
+a| *A* Introduction to CalConnect Q&A (if needed) +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| *W* Workshop preparation +
+_Arrival, greetings, seating, etc._ 
+
+| 1400-1530 | *W* Public Time Zone Workshophttps://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052
+| 1530-1600 | Break and refreshments
+| 1600-1730 | *W* Time Zone Workshop (continued)
+| 1730-1930
+a| Welcome Reception +
+_TBD_ 
+
+2+| *Wednesday 6 February 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-1000
+a| *G* Follow-on to Time Zone Workshop +
+_Issues identified, next steps for TC-DATETIME, To Dos for CalConnect_
+
+| 1000-1030
+a| *G* Introduction and discussion on microformats +
+_Should we address microformats such as hCalendar? Formal profile for iCalendar/JSCalendar?_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1115
+a| *T* iCalendar Boolean Parameters +
+_Yes/No, True/False, Both? To Dos: test, audit specs, Best Practices document_
+
+| 1115-1145
+a| *G* Client Representation of multi-timezone data +
+_Problems with displaying multiple timezones for data_
+
+| 1145-1230
+a| *G* CalSPAM and Abuse Audit Draft +
+_Feedback from publishing the document and how to move on_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| *T* JSContacts - JSON Representation for Contacts +
+_Current representation of contacts in JSContact; discussion on changes and additions_
+
+| 1430-1530
+a| *G* Internationalization / Localization +
+_Status on I18N in iCalender and JSCalendar; multilingual support; next steps_
+
+| 1530-1600 | Break and refreshments
+| 1600-1730
+a| *G* Public Calendars Discovery/Subscription/Sharing +
+_Presentation and discussion of additions to CalDAV to support discovery of and subscription to public calendars_
+
+2+| *Thursday 7 February 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0930
+a| *G* Developers Guide +
+_Current status; new hosting option; suggestions for content; request for content_
+
+| 0930-1030
+a| *T* "Party Crashing" specification +
+_Uninvited attendees, how to deal with and manage, moving forward_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130
+a| *A* CalConnect Standards Activities and Liaisons +
+_Update on CalConnect standards activities and liaisons with external SDOs_
+
+| 1130-1230
+a| *G* ISO Date and Time Standards Update +
+_ISO 8601-1 and -2, vocabulary, time zones (ISO 34001, 002, 003)_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| *T* VCARD, TC211, ISO 19160 Update +
+_Status of ongoing work, structured name Interchange, digital addressing registry_
+
+| 1430-1530
+a| *G* CalConnect/ISO Joint Work +
+_Metanorma document meta-model ISO 36001_
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| *G* Moving forward with Metanorma and Asciidoc/Asciidoctor +
+_No standardized format, difficult to use; should CalConnect standardize? Optional: Authoring CalConnect Standards_
+
+| 1700-1730
+a| *G* Privacy by Design and ISO PC 317 +
+_Report on ISO/PC 317 meeting; CalConnect input to process_
+
+| 1915-2130
+a| Conference Dinner +
+_https://www.zeughauskeller.ch/home[Zeughauskeller Zurich], Bahnhofstrasse 28 A_ 
+
+2+| *Friday 8 February 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-1000
+a| *T* Delayed/stalled drafts at IETF +
+_Moving forward with resurrecting or discarding, updating and publishing_
+
+| 1000-1030
+a| *T* VPOLL moving forward +
+_Reorganize draft, second poll mode, iTIP, JSON/JSCalendar extension_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130
+a| *G* Revisit vEvent URL schema extension +
+_Reactivate? Updates needed? Next steps? Move to publish?_
+
+| 1130-1200 | *G* BOF: TBD
+| 1200-1210 | *A* Technical Committee Directions for period to CalConnect XLV
+| 1210-1230
+a| *T* CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+| 1230-1330 | Lunch
+| 1330-1530
+a| *W* Working Sessions and Testing +
+_CalDAV Tester, DevGuide, Joint Testing_
+
+| 1530-1600 | Break and refreshments
+| 1600-1730 | *W* Working Sessions and Testing
+| 1730 | Close of CalConnect XLIV
+
+|===
+
+
+
+
+
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

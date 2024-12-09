@@ -1,0 +1,400 @@
+---
+layout: page
+name: CalConnect XXXVII - September 12-16, 2016
+host_info: Hosted by dmfs GmbH, Dresden, developers of SmoothSync.
+date: 2016-09-12
+image: /assets/images/Dresden.jpg
+---
+:page-liquid:
+
+== CalConnect XXXVII - September 12-16, 2016
+
+=== CalConnect Developers' Forum - Monday-Wednesday +
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/Dresden.jpg' | relative_url }}[CalConnect
+XXXVII in Dresden, Germany hosted by dmfs,width=800,height=533]
+
+CalConnect XXXVII in Dresden, September 12-16 2016, hosted by dmfs
+
+Monday, September 12, 2016 to Friday, September 16, 2016
+
+webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+4 August 2016 - Detailed Conference Schedule and Topics added
+
+17 August 2016 - Event Reading Lists updated for CalConnect XXXVII at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]
+
+23 August 2016 - Event week calendar .ics file published
+
+08 September 2016 - Minor schedule revisions to Conference
+
+CalConnect XXXVII, consisting of a CalConnect Developers' Forum (Interoperability Testing and technical discussions of specifications and issues) and a CalConnect Conference (Members Meeting) will be held in Dresden on September 12-16, 2016, hosted by dmfs, makers of http://smoothsync.org[SmoothSync].
+
+The Developers' Forum will take place all day Monday and Tuesday September 12-13, and Wednesday morning, ending before lunch. The Conference will open following lunch on Wednesday, and will run through Thursday and Friday.
+
+*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxvii-september-12-16-2016#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
+
+_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
+*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+
+The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
+
+ +
+
+
+
+International Visitors
+
+In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure , please see http://www.germany-visa.org/[German VISA Information.]
+
+Conference Details
+
+Breakfast is included with your room at the Schloss. Morning coffee, lunch, and morning and afternoon breaks will be served to all participants in the Developers' Forum and Conference and are included in your registration fees. The Monday and Thursday group dinners are hosted by CalConnect. The Wednesday Reception is hosted by dmfs GmbH (SmoothSync), our hosts for CalConnect XXXVII.
+
+Dress at all CalConnect events is casual to business casual.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the developers' forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
+
+
+
+[[location]]
+Location
+
+The Developers' Forum/Test Event (September 12-14) and the Conference (September 14-16) will be held at http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany. Schloss Eckberg is also the conference hotel for CalConnect XXXVII. The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss: https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en
+
+The meeting room will be in the conference facility of the Schloss and will be announced closer to the event. +
+ 
+
+[[transportation]]
+Transportation
+
+*Airport Information:* Dresden is served by http://www.dresden-airport.de/homepage.html[Dresden International Airport]. Service is offered between Dresden and several European destinations, largely German (however Zurich is also served). Dresden does not offer any intercontinental flights at this time, so if you are coming from another continent you will have to transfer or shift transortation modes.
+
+Unfortunately, Schloss Eckberg does not at this time offer a shuttle service, but are contemplating one (we have been advised to check with them later this summer). If they do institute a shuttle service we will update this page with more information.
+
+*Taxi service*: a taxi to or from the airport costs about ¬25. Please be aware that taxi drivers usually only accept cash, and there is no Uber service in Dresden.
+
+*Public Transportation:* Travel between the airport and the hotel may easily be done by a combination of train and tram. Please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000617&destinationid=33000296[]. The trams cost ¬2.30; there are ticket machines in the tram, but you need coins to get a ticket. There is no ticket machine on the train from the airport, but there is one in the station. Optionally you may purchase a week ticket for ¬21, which is also valid for the train to and from the airport; you may purchase this ticket at the airport station when you arrive.
+
+The trams also offer a convenient way to get getween the Schloss and the city; please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000296&destinationid=33000003[].
+
+[[lodging]]
+Lodging
+
+Our conference hotel and meeting venue is http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany.
+
+The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss:
+
+https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en[https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en.]
+
+The venue is surrounded by a park and across the street is a forest, which is nice for the runners amongst us. As noted the venue is not located in the center of the city, but there is a tram to the center every 10 minutes; it takes about 20 minutes between the venue and the center.
+
+We are offered a conference room rate, inclusive of breakfast each morning, either in the Kavaliershaus (a separate hotel building) at ¬93 per night, or in the Castle itself at a rate of ¬143 per night.
+
+In order to obtain our conference rate, you *must book either by telephone at +49 351 8099-0 or by e-mail to i mailto:info@schloss-eckberg.de[nfo@schloss-eckberg.de]*. When booking you will need to provide the following information:
+
+* Full name and address
+* E-mail address
+* Conference Code: CalConnect
+* Arrival and departure dates
+* Arrival time if after 6:00 p.m.
+* Room preference (in Castle or Kavaliershaus; single or double) (there is no extra charge for a double room)
+* Credit Card information (if you are not comfortable sending this via e-mail you can call them instead, or after doing e-mail for the rest of the booking)
+
+Check-in is after 3:00 p.m.; Departure is by 11:00 a.m.
+
+*Lodging Tax:* The City of Dresden charges a lodging tax; see http://www.dresden.de/media/pdf/infoblaetter/07_Infoblatt_Gaeste_EN.pdf[]. However business travelers may apply for a refund or, if the professional nature of the trip can be declared beforehand, the lodging facility will not charge the tax.
+
+**If you are staying at the Conference Hotel, you will not be charged the lodging tax**, our host has arranged this already with the Schloss.
+
+*If you are _not_ staying at the Schloss* and wish to avoid the lodging tax, please download and complete this form and bring it with you:
+
+[[file-86]]
+=== 
+
+. application/pdf
+image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf[Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf]
+
+
+
+
+
+
+
+[[test-schedule]]
+Test Event Schedule
+
+The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+==== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+
+a| *Monday 12 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1430-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1915-2130 Test Event Dinner (TBA)
+a| *Tuesday 13 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+a| *Wednesday 14 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 Testing +
+ 1130-1200 Wrap-up +
+ 1200 End of IOP Testing+
+ 1230-1330 Lunch
+
+|===
+
+
+Test Event Agenda
+
+Specific Areas for testing as identified by participants
+
+Current specific testing areas include
+
+* Sharing
+* CalDAV
+* CardDAV
+* iMIP
+* API <--> iCalendar
+* Calendar publication and subscription models
+
+==== Technical Topics for Developers' Discussions
+
+[[magicdomid80]]
+
+[[magicdomid83]]
+The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
+
+[[magicdomid84]]
+These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
+
+[[magicdomid85]]
+
+
+[[magicdomid86]]
+The schedule for these discussions will be decided on during the 2.5days and is very flexible.
+
+
+
+Current discussion topics include
+
+* vPoll
+* Syncing Collections
+* Subscription models and their relation to sharing
+* TC API work
+
+==== Please see the Reading List for the Developer's Forum at
+
+==== Baseline Testing
+Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
+
+* CalDAV testing:
++
+
+** Access (basic operations of CalDAV)
+** Scheduling
+** Sync report (depth: 1 on home collection)
+** Mobile
+** Sharing
+** Prefer Header
+* Managed Attachments
+* iSchedule:
++
+
+** Server discovery
+** DKIM security
+* Timezones:
++
+
+** Service Protocol
+** Timezones by Reference
+* Calendar Alarms:
++
+
+** Snooze
+** Default alarms
+* VPOLL support in clients and servers
+* VAVAILABILITY support in clients and servers
+* Autodiscovery protocol
+* Non-gregorian calendar recurrences via RRULE and RSCALE
+* iCalendar:
++
+
+** Rich text and other new properties (and hashing)
+* iMIP
+* iTIP
+* jCal, the JSON format for iCalendar - libraries and servers
+* xCal, the XML format for iCalendar
+* Enhanced VTODO support
+* CardDAV testing:
++
+
+** Generic
+** Sync report
+** Mobile
+** vCard 4
+
+==== Who May Participate or Observe
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+==== Registration
+Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
++
+: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
++
+: Register one to six people as
++
+link:{{'/events/observers' | relative_url }}[observers]
++
+for the CalConnect Interoperability Test Event.
+
+==== Interoperability Event Scenarios
+If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+
+
+[[conference-schedule]]
+Conference Schedule
+
+==== CALCONNECT XXXVII CONFERENCE
+
+[cols=2]
+|===
+2+| *Wednesday 14 September*
+
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| Conference Opening +
+_Welcome, Logistics, Introductions, Test Event Reports, Technical Committee activity since last CalConnect event, Conference Schedule Review_
+
+| 1430-1500
+a| New Member and Non-Member Presentations +
+_Introductory presentations from new members or non-members at their first CalConnect event._
+
+| 1500-1530
+a| Categorization and Event Types +
+_Being able to categorize events in a standardized manner will help in aggregation and allow applications to discover events of interest. This session will discuss the use of DMOS categorization. TC EVENTPUB._
+
+| 1530-1600 | Break and Refreshments
+| 1600-1700
+a| iSCHEDULE +
+_Are we prepared and determined enough to drive iSchedule to warrant the work that needs to happen in CalConnect and the IETF. TC ISCHEDULE._
+
+| 1700-1800 | Topics from Developer's Forum
+| 1800-2000
+a| Welcome Reception +
+_On Premises_
+
+2+| *Thursday 15 September*
+| 0800-0830 | Coffee & Rolls
+| 0830-0900
+a| CalConnect Specifications at the IETF +
+_Status of specifications and open discussion with an IETF representative_
+
+| 0900-0930
+a| Calendaring Developer's Guide +
+_The guide has recently been published at http://devguide.calconnect.org[]. This session will discuss how to attract authors to provide additional content, as well as identify important areas of content to develop. TC DEVGUIDE._
+
+| 0930-1030
+a| iMIP Current Issues +
+_There are a number of problems with the current iMIP model and implementations, leading to interoperability issues. We will discuss the issues, possible solutions, and identify best practices for the Developer's Guide. TC IMIP._
+
+| 1030-1100 | Break and refreshments
+| 1100-1230
+a| API - A new representation for Calendar Data +
+_The API Technical Committee is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. This session will review the current status of the effort and consider otustanding issues. TC API_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| DAV-Based Resource Sharing +
+_We will review the progress made in redefining CalDAV Sharing as a DAV-based standard resource sharing specification with CalDAV and CardDAV extensions. TC SHARING._ 
+
+| 1430-1530
+a| Alternative Subsciption Models +
+_Current subscriptions usually involve clients downloading an .ics file at cdertain intervals. We will discuss alternative approaches including a mechanism by which clients can "upgrade" to a better connection, e.g. a CalDAV subset. TC CALDAV._
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| CalDAV Current Topics +
+_We will review recent extensions to CalDAV such as supporting the new JSON API data format and discuss possible unanticipated issues. TC CALDAV._ 
+
+| 1700-1800
+a| Open Discussion: The Future of Calendaring and CalConnect +
+_Topics will include CalConnect in Asia, Calendaring augmenting other phenomena in your life (e.g. Tesla), Calendaring and the Internet of Things, Time-related initiatives external to CalConnect, and others._
+
+| 1915-2200
+a| Conference Dinner +
+_Restaurant http://www.lingnerterrassen.de/restaurant.htm[Lingnerterassen] (2 minute walk, in Lingerschloss)_
+
+2+| *Friday 16 September*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930
+a| Review of iCalendar Extensions and VAVAILABILITY specifications +
+_Review and encourage use of new iCalendar features defined in iCalendar Extensions and VAVAILABILITY specifications_
+
+| 0930-1000
+a| Provisional Committee on Security and Privacy +
+_Review charter, goals, progress and status of PC SEC and encourage more participation_
+
+| 1000-1030
+a| Provisional Committee on visual vCard (vCard data in QRCODEs) +
+_Review charter, goals, progress and status of PC QR and encourage more participation_
+
+| 1030-1100 | Break and refreshments
+| 1100-1200
+a| PATCH/DIFF/COMPACT for iCalendar data +
+_A new proposed mechanism by which calendar data can be updated in place rather than the current GET/PUT full replacement approach. In many cases this will result in a significant decrease in data transferred._ 
+
+| 1200-1230
+a| AUTODISCOVERY +
+_Review of the automated service discovery specification for standards-based implementations plus next steps and possible implementations_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| BOF (Birds of a Feather) Discussions +
+_TBD_
+
+| 1430-1445 | Technical Committee Directions for period to CalConnect XXXVIII
+| 1445-1530
+a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
+
+| 1530 | Close of CalConnect XXXVII
+
+|===
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

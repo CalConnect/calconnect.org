@@ -1,0 +1,383 @@
+---
+layout: page
+name: CalConnect XXXVIII - February 13-17, 2017
+host_info: Hosted by the University of California, Irvine in Irvine, California.
+date: 2017-02-13
+image: /assets/images/UCIrvine_0.jpg
+---
+:page-liquid:
+
+== CalConnect XXXVIII - February 13-17, 2017
+
+=== CalConnect Interoperability Test Event and Developers Forum - Monday-Wednesday +
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/UCIrvine_0.jpg' | relative_url }}[University
+of California, Irvine,width=800,height=600]
+
+CalConnect XXXVIII, February 13-17, 2017 - University of California, Irvine
+
+Monday, February 13, 2017 to Friday, February 17, 2017
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+8 November 2016 - Logistics information about venue, conference hotel, travel, etc. added.
+
+30 November 2016 - Corrected the special UC Irvine hote rate.
+
+14 December 2016 - Conference agenda and sessions posted; Developers' Forum and Test Event discussion topics and testing areas updated.
+
+19 January 2017 - Conference agenda and sessions updated.
+
+23 January 2017 - Conference Schedule .ics file added
+
+02 February 2017 - Test Event testing areas and discussion topics updated
+
+07 February 2017 - Meeting rooms for Test Event and Conference added to title of agenda and schedule for each
+
+CalConnect XXXVIII, consisting of a CalConnect Interoperability Test Event and Developers Forum, and a CalConnect Conference, will be held in Irvine, California, on February 13-17, 2017, hosted by the http://www.uci.edu[University of California, Irvine].
+
+*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxviiI-february%2013-17-2017#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually, so check back periodically).
+
+_Please Note: You donotneed finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
+*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+
+The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
+ 
+
+Conference Details
+
+Breakfast is included with your room at the Conference Hotel, Hotel Irvine, if you booked with the CalConnect/UCI rate. Morning coffee and rolls, lunch, and morning and afternoon breaks will be served to all participants in the Developers' Forum and Conference and are included in your registration fees. The Monday and Thursday group dinners are hosted by CalConnect. The Wednesday Reception is hosted by UC Irvine, our hosts for CalConnect XXXVIII.
+
+Dress at all CalConnect events is casual to business casual.
+
+[[registration]]
+Registration Information
+
+Please seehttp://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+
+[[location]]
+Location
+
+CalConnect XXXVIII will be held in the Student Center building, A, 311 W Peltason Dr, Irvine, CA 92697 The Test Event (Monday, Tuesday, and Wednesday morning) will be in Aliso Beach B (room A309) on the third floor. The Conference (Wednesday afternoon, Thursday and Friday) will be in Pacific Ballroom A (room G118A) on the first (ground) floor. More information about the conference center is at http://conferencecenter.uci.edu/event-facilities/conference-center/[Conference Center]. See https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489919,-117.8421662,15z/data=!4m5!3m4!1s0x0:0x54a63a5775b1ff92!8m2!3d33.6489919!4d-117.8421662[UCI Student Center] for a map of the area.
+
+The Student Center Parking Structure is located on the corner of West Peltason Drive and Pereira Drive across from the Student Center. Parking is $10 for one day. For directions and other information, see http://www.parking.uci.edu/maps/imap.cfm?autolaunch=true&action=findLots&lotId=36&kioskId=9&pt=V&pid=G3&pl=1&b=1&ik=1&cs=0&zw=0&pd=1[Parking Structure].
+
+
+
+[[transportation]]
+Transportation
+
+The nearest airport to UC Irvine is http://www.ocair.com/[John Wayne Airport] (SNA), less than five miles from UC Irvine and close to the conference hotel. Although the airport is called international, travelers from Europe or Asia will almost certainly have to arrive at http://www.lawa.org/welcomeLAX.aspx[Los Angeles Interanational Airport] (LAX) in order to pass customs. Los Angeles International is about a 45 minute drive from UC Irvine (be warned that in heavy traffic it can take quite a bit longer). Alternatively foreign travelers can arrive at a more distant airport, such as San Francisco, and transfer to a short flight to John Wayne Airport.
+
+Public transportation and rental cars are available at both airports. Additionally, our conference hotel offers a shuttle service between John Wayne Airport and the hotel (see hotel information below).
+
+If you have a rental car you will be able to drive to and from the meeting venue, parking in the Student Center Parking Structure for a fee (see Location above).
+
+The conference hotel offers a shuttle service between the hotel and UC Irvine, which must be booked in advance. Nearer to the event we will see if it is practical to arrange for a group shuttle in the morning and evening.
+
+[[lodging]]
+Lodging
+
+The Conference Hotel is the http://www.hotelirvine.com[Hotel Irvine], 17900 Jamboree Road, Irvine, California 92614, 888-230-4452. Hotel Irvine is a large business-oriented hotel within a few miles from both John Wayne Airport and UC Irvine.
+
+We are offered a *special UC Irvine* rate of $119 for Friday and Saturday nights, $159 for Sunday-Thursday nights. The rate also includes breakfast, wifi throughout the hotel, etc. To obtain this rate, book your stay directly on http://http://www.hotelirvine.com/ucihttp://www.hotelirvine.com/uci/, by calling reservations at 949-225-6750 or emailing a dedicated reservationist at mailto:reservations@hotelirvine.com[reservations@hotelirvine.com].
+
+*Please note*: if you book via http://www.hotelirvine.com/uci/ , be sure to select the "BOOK YOUR STAY" option to be offered the UCI rate. Alternatively you can use the booking code CR20258.
+
+*Airport Shuttle Service:* The shuttle leaves Hotel Irvine every 30 minutes beginning at 5:00am until 11:00pm. Pick up and John Wayne Airport (SNA) is every 15 and 45 of the hour. Last pick up is at 11:15pm. The airport will open at 5:30am and the last plane will land at 11:00pm. Shuttle pick up and drop off is located at the ground transportation center near baggage claim between Terminal A & B. No reservation is required or needed for this shuttle service. +
+ +
+*Hotel Irvine Commuter Shuttle Service:* This service is included in the UCI rate and runs from 6:30am-10:30am and 3:00pm-7:00pm from Monday-Friday. This service does require a 48 hour reservation to guarantee the transfer. The HI commuter can be arranged by emailing them directly at mailto:hicommuter@hotelirvine.com[hicommuter@hotelirvine.com].
+
+_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._ +
+ 
+
+
+
+
+
+[[test-schedule]]
+Test Event Schedule
+
+The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+==== CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS' FORUM - Room Aliso B (A309), 3rd Floor
+
+a| *Monday 13 February* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1430-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1915-2100 Test Event Dinner (TBA)
+a| *Tuesday 14 February* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing +
+ 1030-1100 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+a| *Wednesday 15 February* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1030-1100 Break and Refreshments +
+ 1130-1130 Testing +
+ 1130-1200 Wrap-up +
+ 1200 End of IOP Testing+
+ 1230-1330 Lunch
+
+|===
+
+
+Test Event Agenda
+
+Specific Areas for testing as identified by participants
+Current specific testing areas include
+
+* Sharing
+* CalDAV
+* CardDAV
+* iMIP
+* ical4j (in particular CalConnect fork if created)
+* API <--> iCalendar
+* Calendar publication and subscription models
+* TESTER (extended CalDAV Tester)
+* DAV server discovery
+* JCAL
+* XCAL
+
+==== Technical Topics for Developers' Discussions
+
+[[magicdomid80]]
+
+[[magicdomid83]]
+The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
+
+[[magicdomid84]]
+These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
+
+[[magicdomid85]]
+
+
+[[magicdomid86]]
+The schedule for these discussions will be decided on during the 2.5days and is very flexible.
+
+
+
+Current discussion topics include
+
+* Developers Guide - target audience, next topics to be documented
+* iMIP Best Practices
+* CalConnect ical4j
+* TC API (start work on contacts?)
+* Replacement for Titanpad
+* Review and update/remove/relocate Testing Resources materail from website
+* Exchange/Outlook approach to issues we are addressing in the standards
+* Preparation for Calendar Spam session
+* Recommendations on alternative to Titanpad
+
+==== Please see the Reading List for the Developer's Forum at
+
+==== Baseline Testing
+Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
+
+* CalDAV testing:
++
+
+** Access (basic operations of CalDAV)
+** Scheduling
+** Sync report (depth: 1 on home collection)
+** Mobile
+** Sharing
+** Prefer Header
+* Managed Attachments
+* iSchedule:
++
+
+** Server discovery
+** DKIM security
+* Timezones:
++
+
+** Service Protocol
+** Timezones by Reference
+* Calendar Alarms:
++
+
+** Snooze
+** Default alarms
+* VPOLL support in clients and servers
+* VAVAILABILITY support in clients and servers
+* Autodiscovery protocol
+* Non-gregorian calendar recurrences via RRULE and RSCALE
+* iCalendar:
++
+
+** Rich text and other new properties (and hashing)
+* iMIP
+* iTIP
+* jCal, the JSON format for iCalendar - libraries and servers
+* xCal, the XML format for iCalendar
+* Enhanced VTODO support
+* CardDAV testing:
++
+
+** Generic
+** Sync report
+** Mobile
+** vCard 4
+
+==== Who May Participate or Observe
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that non-members pay a 25% surchange on the Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+==== Registration
+Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
++
+: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
++
+: Register one to six people as
++
+link:{{'/events/observers' | relative_url }}[observers]
++
+for the CalConnect Interoperability Test Event.
+
+==== Interoperability Event Scenarios
+If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+
+[[conference-schedule]]
+Conference Schedule
+
+==== CALCONNECT XXXVIII CONFERENCE - Room Pacific A (G118A), 1st Floor
+_As of January 18 2017._*Theme session titles are**highlighted*.
+
+[cols=2]
+|===
+2+| *Wednesday 15 February*
+
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._
+
+| 1230-1330 | Lunch
+| 1330-1445
+a| Conference Opening +
+_Welcome, Logistics, Introductions, Test Event Reports, Technical Committee activity since last CalConnect event, IETF Liaison, Conference Schedule Review_
+
+| 1445-1500
+a| New Member and Observer Presentations +
+_Introductory presentations from new members or observers at their first CalConnect event._
+
+| 1500-1530
+a| Categorization and Event Types +
+_Being able to categorize events in a standardized manner will help in aggregation and allow applications to discover events of interest. This session will discuss the use of DMOS categorization. TC EVENTPUB._
+
+| 1530-1600 | Break and Refreshments
+| 1600-1730
+a| *TC VCARD, ISO TC 211, and ISO 19160* +
+_This session will review the charter, goals and problems facing the evolution of VCARD envisioned by the TC; report on the establishment of a liaison with ISO TC 211; and review ISO 19160 and its applicability to the work of the TC. Discussion will focus on the issues the TC may face in incorporating ISO 19160 elements into VCARD, and how (and if) expanded structured address formats can be made backward compatible. TC VCARD._
+
+| 1730-1800
+a| Topics from Developer's Forum +
+_The Developer's Guide, CalConnect ical4j progress and direction, iMIP techniques._
+
+| 1800-2000
+a| Welcome Reception +
+_On Premises_
+
+2+| *Thursday 16 February*
+| 0800-0830 | Coffee & Rolls
+| ____0830-0915 
+a| Calendaring Developer's Guide +
+_The guide is published at http://devguide.calconnect.org[]. This session will present and discuss the bigger picture of the DEVGUIDE being a resource for the outside world, and who we think the recipients should be in order to shape the content. TC DEVGUIDE._
+
+| 0915-1030
+a| Calendaring Interoperability Issues Today +
+_There are a number of problems with the current iMIP model and implementations, leading to interoperability issues. We will discuss the issues including standardizing interactions between service, iMIP and iTIP current issues, and some possible solutions. Calendar spam will be addressed in the following session._
+
+| 1030-1100 | Break and refreshments
+| 1100-1230
+a| *Calendar Spam and potential best practices* +
+_One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events._ 
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| API Progress Report +
+_TC API is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. We will report on where the work stands now and what the next steps are in an overall contenxt. Existing implementations of the API will be presented. TC API._ 
+
+| 1430-1500
+a| Alternative Subsciption Models +
+_Current subscriptions usually involve clients downloading an .ics file at certain intervals. We will discuss alternative approaches including a mechanism by which clients can "upgrade" to a better connection, e.g. a CalDAV subset. TC CALDAV._
+
+| 1500-1530
+a| Sharing Progress +
+_Review the status of the sharing specifications and explore next steps, in particular a brief discussion of stumbling blocks such as identity and trust issues. TC SHARING, TC CALDAV._
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| Improvement and extension of iCalendar +
+_We will review proposed extensions such as RDATE and EXDATE formats; VPATCH and VINSTANCE; and support for intervals and "gluons" from WS-Calendar._ 
+
+| 1700-1800
+a| Open Discussion: The CalConnect Organization +
+_Why are you a member of CalConnect and what does this mean for the future for you and CalConnect? How can we improve as an organization? Tools and tooling? Revised fee structure?_
+
+| 1915-2130
+a| Conference Dinner +
+_TBA_
+
+2+| *Friday 17 February*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930
+a| Review of iCalendar Extensions and VAVAILABILITY specifications +
+_Review and encourage use of new iCalendar features defined in iCalendar Extensions and VAVAILABILITY specifications_
+
+| 0930-1000
+a| Provisional Committee on Security and Privacy +
+_Review charter, goals, progress and status of PC SEC and encourage more participation. PC SEC._
+
+| 1000-1030
+a| Status of TC TESTER +
+_Review the planned extension of CalDAV tester includng proposed capabilities and features. TC TESTER._
+
+| 1030-1100 | Break and refreshments
+| 1100-1230
+a| Open Discussion: The Future of Calendaring +
+_Potential areas of work in the future such as settings to allow the user to take control of what is happening (add all, add none); calendaring augmenting other phenomena in your life; calendaring and the Internet of Things; related areas such as time-related initiatives external to CalConnect._ 
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| BOF (Birds of a Feather) Discussions +
+_TBD_
+
+| 1430-1445 | Technical Committee Directions for period to CalConnect XXXIX
+| 1445-1530
+a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
+
+| 1530 | Close of CalConnect XXXVIII
+
+|===
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

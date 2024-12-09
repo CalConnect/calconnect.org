@@ -1,0 +1,303 @@
+---
+layout: page
+name: CalConnect XX - February 7-11 2011
+host_info: Hosted by The University of California, Berkeley
+date: 2011-02-07
+image: /assets/images/UCBerkeley.jpg
+---
+:page-liquid:
+
+== CalConnect XX - February 7-11 2011
+
+
+=== CalConnect Interoperability Test Events - 7-9 February +
+CalConnect Roundtable XX - 9-11 February
+
+[[intro]]
+image:{{'/assets/images/UCBerkeley.jpg' | relative_url }}[The
+University of California, Berkeley,width=800,height=590]
+
+Monday, February 07, 2011 to Friday, February 11, 2011
+
+Recent Changes:
+
+*Information is current to January 20, 2011* +
+_Minor schedule changes, topical agendas, schedule .ics file available_
+
+CalConnect XX, consisting of CalConnect Interoperability Test Event, a Mobile Calendaring Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held in Berkeley, California on Monday-Friday, February 7-11, 2011, hosted by http://www.berkeley.edu[The University of California, Berkeley]. +
+ +
+ The Interoperability Test Events will take place in parallel all day Monday and Tuesday February 7-8, and Wednesday morning February 9, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 9th, and last through early afternoon Friday the 11th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 9th if we have first-time attendees.
+
+*CalConnect Interoperability Test Events*: At this meeting, we will host both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel). +
+ +
+ The IOP Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1102.shtml[CalConnect Interoperability Test Event February 2011] or http://calconnect.org/miop1102.shtml[Mobile Calendaring Interoperability Test Event February 2011] for current information. Check back often as this will be updated as more information becomes available. +
+ +
+ You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
+ +
+*Roundtable XX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.  
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Roundtable will take place in Barrows Hall, Room 60, on the University of California, Berkeley Campus in Berkeley, California. Please see http://www.berkeley.edu/map/maps/DE45.html for a map of the UC Berkeley Campus. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00049104b2078dc8b7146&ll=37.870754,-122.265344&spn=0.009604,0.022724&z=16[Downtown Berkeley and UC Campus] for a map of the Berkeley downtown area and the campus, showing the location of the conference hotel, restaurants, and meeting venue. +
+ +
+*Parking:* Parking is generally not available on campus and we do NOT recommend having a car at all as the conference hotel is within easy walking distance of the meeting venue. The hotel does offer valet parking with a nearby garage, or you can make your own arrangements with the garage. +
+ +
+_If you are local to the San Francisco Bay Area and will be commuting to the event rather than staying in Berkeley, we strongly recommend you take BART to the Downtown Berkeley station, only two blocks from campus._
+
+[[transportation]]
+Transportation
+
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
+ +
+ The nearest airport is Oakland International; however San Francisco International is likely to be more convenient as there is direct BART (rapid transit) service from the airport itself to 1/2 block from the conference hotel (from Oakland, there is a short shuttle bus ride from the airport to the nearest BART station). San Jose is substantially further away and less convenient to Berkeley. +
+ +
+*Ground Transportation:* We strongly recommend taking http://www.bart.gov[BART], the Bay Area Rapid Transit, from either San Francisco or Oakland airport to Berkeley. http://www.bart.gov/guide/airport/index.aspx[BART Airport Connections] provides specific information on flying into and leaving from these airports. The http://www.bart.gov/stations/index.aspx[Downtown Berkeley] BART Station is 1/2 block from the hotel. _If you arrive at San Francisco International, take the AirTrain to the BART station at Garage G. Take the Pittsburg/Bay Point train and change at the 19th Street Oakland station to the Richmond train to Downtown Berkeley If you arrive at Oakland International, take the Air Bart shuttle to the BART station and take a Richmond train to Downtown Berkeley._ +
+ +
+ If for some reason you must drive, information on rental cars and shuttles are available on all three airport websites, and the hotel offers a parking arrangement with a nearbly parking garage. However as noted above, you will not be able to park on the UC Campus.
+
+[[lodging]]
+Lodging
+
+The Shattuck Plaza hotel is the Conference Hotel for this meeting. It is extremely close to the venue on the UC Berkeley campus, and very close to a BART station as noted above. It is also the only practical hotel within walking distance. The hotel is offering CalConnect a special rate of 17% below the lowest available rate at the time of booking. Please note that there are none of the regular business hotels within several miles, and few other options at all in Berkeley. +
+ +
+*Conference Hotel:* +
+*Shattuck Plaza Hotel* +
+ 2086 Allston Way +
+ Berkeley, California 94704 +
+ (9510 845-7300 +
+http://www.hotelshattuckplaza.com/ +
+ When reserving your room, by phone ask for the "CalConnect Conference" rate. If you are booking online, after choosing the date range click on "Preferred/Corporate Accounts" and enter "calconnect20" as your booking code. +
+ +
+ The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event  so book early and save!
+
+[[test-schedule]]
+Test Event Schedule
+
+The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
+ +
+ A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectConference.ics[CalConnectConference.ics].
+
+[cols=3]
+|===
+3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT* - Room 60, Barrows Hall
+
+.<a| *Monday 7 February* +
+ 0800-0830 Opening Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1530 Testing +
+ 1530-1600 Break +
+ 1600-1800 Testing +
+ +
+ 1900-2100 IOP Test Dinner +
+_TBD_
+.<a| *Tuesday 8 February* +
+ 0800-0830 Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1530 Testing +
+ 1530-1600 Break +
+ 1600-1800 Testing
+.<a| *Wednesday 9 February* +
+ 0800-0830 Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1200 Testing +
+ 1200-1230 Wrap-up +
+ 1230 End of IOP Testing +
+ +
+ 1230-1330 Lunch/Opening^1^
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
+ +
+ A downloadable iCalendar.ics file with the entire schedule is also available athttp://calconnect.org/CalConnectConference.ics[CalConnectConference.ics].
+
+[cols=3]
+|===
+3+.<| *ROUNDTABLE XX* - Room 60 Barrows Hall
+
+3+.<| 
+.<a| *Wednesday 9 February* +
+ 1000-1200 User Special Interest Group^2^ +
+ 1100-1200 Introduction to CalConnect^3^ +
+ 1230-1330 Lunch/Opening +
+ 1315-1330 IOP Test Report +
+ 1330-1500 TC MOBILE +
+ 1500-1530 Break +
+ 1530-1700 TC XML +
+ 1700-1800 USIG Presentation: UC Berkeley +
+ +
+ 1815-2030 Welcome Reception^4^ +
+_Toll Room, Alumni House, UC Campus_
+.<a| *Thursday 10 February* +
+ 0800-0830 Breakfast +
+ 0830-0930 TC FREEBUSY +
+ 0930-1000 TC RESOURCE +
+ 1000-1030 Break +
+ 1030-1200 BOF: Contacts +
+ 1200-1300 Lunch +
+ 1300-1400 TC CALDAV +
+ 1400-1500 TC iSCHEDULE +
+ 1500-1600 TC EVENTPUB +
+ 1600-1630 Break +
+ 1630-1800 Steering Committee^5^ +
+ +
+ 1915-2130 Group Dinner^6^ +
+_Hotel Shattuck Plaza_
+.<a| *Friday 11 February* +
+ 0800-0830 Breakfast +
+ 0830-0930 TC DSI +
+ 0930-1030 TC USECASE +
+ 1030-1100 Break +
+ 1100-1200 TC TIMEZONE +
+ 1200-1230 TC Wrapup +
+ 1230-1330 Working Lunch +
+ 1300-1400 CalConnect Plenary Session +
+ 1400 Close of Meeting
+
+3+| 
+3+.<a| +
+^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
+^2^The User Special Interest Group will meet in a separate room to be identified later. +
+^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
+^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
+^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
+^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00 +
+ +
+ +
+ Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+
+|===
+
++
+[[agendas]]
+==== Topical Agendas:
+
+[cols=2]
+|===
+.<a| +
+*Contacts BOF* Thu 1030-1200 +
+ 1. Introduction +
+ 2. State of CardDAV and vCard v4 +
+ - IETF status +
+ - Enumeration of current/planned products +
+ - Interop status +
+ 3. Other key technologies (Portable Contacts) +
+ 4. Contact sharing, "always in sync" presentation +
+ 5. Discussion +
+ 6. Way forward +
+ +
+*TC CALDAV* Thu 1300-1400 +
+ 1. Overview +
+ 1.1 Charter +
+ 2. Progress and Status Update +
+ 2.1 IETF +
+ 2.2 CalConnect +
+ 3. Open Discussions +
+ 3.1 Managed Attachments +
+ 3.3 Attendee Modifications +
+ 4. Moving Forward +
+ 4.1 Plan of Action +
+ 4.2 Next Conference Calls +
+ +
+*TC DSI* Thu 0930-1100 +
+ 1. Problem statement +
+ Icon design progress +
+ - How will we promote the use of the icon? +
+ Next steps +
+ - Demo of Javascript proof-of-concept +
+ You can help! +
+ - Details on skills needed for next steps +
+ +
+*TC EVENTPUB* Thu 1500-1600 +
+ 1. Discussion of recently submitted internet draft +
+  and possible enhancement +
+ 2. Pathways and roadblocks to event publication +
+ 3. New technologies relevant to event publication +
+ 4. Standardized filtering to avoid too many events +
+ 5. Next steps +
+ +
+*TC FREEBUSY* Thu 0830-0930 +
+ 1. Review of the TC +
+ 2. Quick review of vpoll +
+ 3. Updates from the last roundtable for vpoll +
+ 4. Discussion: iTIP message flow for vpoll
+.<a| +
+*TC IOPTEST* Wed 1315-1330 +
+ Review of IOP test participant findings +
+ +
+*TC iSCHEDULE* Thu 1400-1500 +
+ 1. Overview +
+ 1.1 Charter +
+ 2. Progress and Status Update +
+ 3. Open Discussions +
+ 3.1 Discovery +
+ 3.2 Error Responses +
+ 3.3 Broadcasting Attendee Updates +
+ 3.4 Attachments +
+ 4. Moving Forward +
+ 4.1 Plan of Action +
+ 4.2 Next Conference Calls +
+ +
+*TC MOBILE* Wed 1330-1500 +
+ 1. Discussion of Mobile Calendaring IOP Test Event +
+ 2. Improving the user mobile calendaring experience: +
+ - How can CalConnect help +
+ 3. Discussion of mobile calendar modes: +
+ - ActiveSync, CalDAV, SyncML +
+ +
+*TC RESOURCE* Thu 0930-1000 +
+ 1. Update on TC work to date +
+ 2. Status of Resource Schema draft +
+ 3. Discussion on CalDAV/CardDAV integration points +
+ 3. TC Future +
+ +
+*TC TIMEZONE* Fri 1100-1200 +
+ 1. Update on the timezones spec +
+ 2. Timezones by reference - do clients need the spec? +
+ 3. Timezones and DATE values. +
+ 4. Plans for the next 4 months +
+ 5. Next call +
+ +
+*TC USECASE* Fri 0930-1030 +
+ 1. Discussion and vote on publication of Glossary 2.0 +
+ 2. Next steps and future work +
+ +
+*TC XML* Wed 1530-1700 +
+ 1. Introduction 2. State of the Icalendar in XML (xCal) Internet Draft +
+ 3. Presentation on work for SmartGrid +
+ 4. Calendaring in a SOAPy world +
+ 5. Discussion +
+ 6. Next steps
+
+|===
+
++
+ 
+
+==== Scheduled BOFs
+
+Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.

@@ -1,7 +1,7 @@
 ---
 layout: page
 name: CalConnect Virtual Conference Spring 2022
-host_info: Hosted by CalConnect and conducted entirely via Zoom.
+host_info: Hosted by CalConnect and conducted entirely via Zoom. 
 date: 2022-05-09
 image: /assets/images/CalConnectEventTBD_0.jpg
 ---
@@ -11,81 +11,116 @@ image: /assets/images/CalConnectEventTBD_0.jpg
 
 image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
 
-== Event Details
-- *Dates:* Monday, May 9 – Friday, May 13, 2022
-- *Location:* Virtual (via Zoom)
-- *Host:* CalConnect
+CalConnect Virtual Conference Spring 2022
 
-=== Recent Changes
-- 20-Jan-2022: Updated to reflect intent of holding multiple Virtual Conferences or days in Spring 2022.
-- 03-Mar-2022: Schedule updated to reflect current planning for sessions.
-- 19-Mar-2022: Registration opened.
+Monday, May 09, 2022 to Friday, May 13, 2022
 
-== Introduction
-CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning will evolve, potentially following the model of the Autumn 2021 Virtual Conference or CalendarFest.
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
 
-- *Platform:* Zoom. Access credentials will be provided upon registration.
+Recent Changes:
 
-== Registration Information
-- *Fee:* Free for CalConnect members. Observer fees may apply for non-members.
-- *Details & Registration:* link:{{'/events/event-registration-payment' | relative_url }}[Registration Page].
+20 Jan 2022 - Updated to reflect intent of holding multiple Virtual Conferences or days in the Spring of 2022
 
-== Location and Logistics
-*Venue:*
-The conference will be held virtually via Zoom. Credentials and links will be sent to registered participants ahead of the event.
+03 March 2022 - Schedule updated to reflect current planning for sessios
 
-*Schedule and Timezone:*
-- All sessions will follow Eastern North America (UTC-4, daylight saving time).
+19 March 2022 - Registration opened
 
-== Conference Schedule
-_All times are Eastern North America (UTC-4)._
+*Introduction*
 
-=== Monday, May 9, 2022
-[cols="20%,80%",options="header"]
+CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning has not yet begun as of mid-January but we hope to have a schedule developed over the next few weeks. These may follow the model we used for the Autumn 2021 Virtual Conference, or the related CalendarFest or specialized one-day in-depth topics.
+
+
+
+[[registration]]
+Registration Information
+
+See link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][Event Registration]
+
+[[location]]
+Location
+
+Via Zoom. URL and access credentials will be provided to all registered attendees before the Virtual Conferencess.
+
+[[transportation]]
+
+[[lodging]]
+
+[[test-schedule]]
+Test Event Schedule
+
+To be announced.
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT VIRTUAL CONFERENCE MAY 2022
+
+_This schedule will be updated as needed prior to May_
+
+*All times shown are Eastern North America UTC-4 (daylight saving time)*
+
+[cols="1,9"]
 |===
-| Time | Session
-| 10:30–14:30 | Open discussion or specific topic (details forthcoming).
-|===
+2+| *Monday 09 May 2022*
 
-=== Tuesday, May 10, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 11:00–11:30 | Intros and Familiarization - Introductions & welcome to newcomers.
-| 11:30–12:00 | Conference Welcome & Plenary - TC Status, Board Reports, Plans for Autumn 2022.
-| 12:00–13:00 | Implementing JSCalendar - Reports from Bedework & Fastmail.
-| 13:00–14:00 | Fractional Date/Time in iCalendar and JSCalendar.
-| 14:00–14:30 | Chat Time.
-|===
+| 1030-1430
+a| *Open discussion or specific topic* +
+_- More information forthcoming_
 
-=== Wednesday, May 11, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 10:45–11:00 | Chat Time.
-| 11:00–12:00 | Avoiding pitfalls with DMARC and iMIP - Guidelines and recommendations.
-| 12:00–12:45 | TC-CALENDAR REVIEW - Ongoing work and current drafts (Relations, Alarms, Event Publication).
-| 12:45–13:30 | VPOLL Review - Revisiting VPOLL post Relations RFC publication.
-| 13:30–14:00 | BoF (Birds of a Feather session).
-| 14:00–14:30 | Chat Time.
-|===
+2+| *Tuesday 10 May 2022*
+| 1100-1130
+a| *Intros and Familiarization* +
+ _- Quick discussion on Zoom and tools +
+ - Introductions and welcome to newcomers_
 
-=== Thursday, May 12, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 09:00–17:00 | Open day for scheduling ad hoc meetings.
-|===
+| ____1130-1200 
+a| *Conference Welcome and Plenary* +
+ _- TC Status +
+ - Report from Board, next steps +
+ - Plans for Autumn 2022 and beyond_ 
 
-=== Friday, May 13, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 01:00–02:00 | TC-LOCALIZATION, TC-VCARD and ISO/TC 211 - Presentations and discussions.
-| 02:00–03:00 | TC-DATETIME and ISO/TC 154 WG 5 - Presentations and discussions.
-| 03:00–04:30 | JMAP and JSCalendar/JSContacts Joint Session - Joint call with IETF CALEXT and JMAP WGs.
-|===
+| 1200-1300
+a| *Implementing JSCalendar* +
+_- Report on implementing JSCalendar in Bedework and Fastmail_
 
-== Additional Information
-- Contact for inquiries: [info@calconnect.org](mailto:info@calconnect.org).
-- Updates will be shared on the official website and mailing list.
+| 1300-1400
+a| *Fractional date/time in iCalendar and JSCalendar* +
+_- Supporting subsecond intervals in iCalendar and JSCalendar_
+
+| 1400-1430 | *Chat Time*
+2+| *Wednesday 11 May 2022*
+| 1045-1100 | *Chat Time*
+| 1100-1200
+a| *Avoiding pitfalls with DMARC and iMIP* +
+_Some clients have known problems handling DMARC and iMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these prolems._ 
+
+| 1200-1245
+a| *TC-CALENDAR REVIEW* +
+ _Review of ongoing work; status of current draft specifications including +
+ - Relations +
+ - Alarms +
+ - Event Publication_
+
+| 1245-1330
+a| *Review of the current status of VPOLL* +
+_Having the relations RFC published it is time to review VPOLL again_ 
+
+| 1330-1400 | *BoF*
+| 1400-1430 | *Chat Time*
+2+| *Thursday 12 May 2022 - Open Day for scheduling*
+2+| *Friday 13 May 2022*
+| 0100-0200
+a| *TC-LOCALIZATION, TC-VCARD and ISO/TC 211* +
+_Presentations and discussion_
+
+| 0200-0300
+a| *TC-DATETIME and ISO/TC 154 WG 5* +
+_Presentations and discussion_
+
+| 0300-0430
+a| *JMAP and JSCalendar/JSContacts Joint Session with IETF CALEXT and JMAP WGs* +
+_Joint public working group call with IETF CALEXT and JMAP working groups_
+
+|  | 
+
+|===

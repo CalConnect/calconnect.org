@@ -1,0 +1,425 @@
+---
+layout: page
+name: CalConnect Public Day - Hong Kong IT Fest
+host_info: Wednesday, April 20, 2016 - All Day
+date: 2016-05-20
+image: /assets/images/public_day_logo_0.jpg
+---
+:page-liquid:
+
+== CalConnect Public Day - Hong Kong IT Fest
+
+=== Public Event at the Hong Kong International ITFest +
+Wednesday, April 20, 2016 - All Day
+
+==== CalConnect, the Calendaring & Scheduling conference, invites you to attend our all-day Public Event at the Hong Kong International ITFest at the Hong Kong Convention and Exhibition Centre.
+
+image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/public_day_logo_0, width=800, height=464]
+
+CalConnect Public Day at Hong Kong IT Fest, April 20, 2016
+
+On behalf of our conference hosts  Hong Kongs Office of the Government Chief Information Officer and Hong Kong-based Ribose, our first member organization in the Asia Pacific, CalConnect, the Calendaring & Scheduling conference invites you to attend our all-day https://www.itfest.hk/template?series=2&id=141&lang=en[Public Event at the Hong Kong International ITFest], on April 20th, at the Hong Kong Convention and Exhibition Centre.
+
+At the Public Day on April 20th, you will hear from Hong Kongs CIO, Ir Allen Yeung, and CalConnect officials, but most importantly, you will hear from CalConnects member representatives themselves, including our Asia/Pacific members, on the work they have been doing, the state of Calendaring & Scheduling (C&S) standards, how to incorporate these standards into your IT, how link:/membership[CalConnect membership] could benefit your organization, and the future of Calendaring & Scheduling (C&S). You will also have opportunities to meet and talk with our members, those developing tomorrows C&S products and standards, and learn how you can participate in and influence this work.
+
+In addition to the free Public Day, CalConnect permits first time attendees to register for our link:/events/calconnect-xxxvi-april-18-22-2016[members-only Interop (Developers event) and our Conference, CalConnect XXXVI], to be held immediately prior to, and after the Public Day.
+
+==== Background
+
+CalConnect, the Calendaring & Scheduling Consortium, is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools. Our focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our link:/about/technical-committees[Technical Committees,] we advance the state of interoperable calendaring and of interoperable scheduling. Although CalConnect is not a formal standards body, over the last five years, most of the Calendaring standards development and discussion have taken place in CalConnect. link:/membership[Our membership] includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities.
+
+CalConnect held its first conference and interoperability event in 2005, our first European conference 2011 in the Czech Republic, and now we are holding our link:/events/calconnect-xxxvi-april-18-22-2016[36th conference April 18-22 2016], in the Asia/Pacific region, in Hong Kong.
+
+CalConnect is not only coming to Hong Kong to talk to you, but also to listen to you, to better understand Asia/Pacific IT, Asia Pacific culture, Asia Pacific standards, and to better understand how to serve Asia/Pacific IT, government, and businesses. We cannot achieve our goals of truly interoperable calendaring and scheduling without the participation of the Asia/Pacific region, home to more than half the worlds people. Please join us in Hong Kong as the next step toward making that goal a reality.
+
+On behalf of CalConnect, OGCIO, and Ribose,
+
+Gary Schwartz, President, https://www.calconnect.org[The Calendaring & Scheduling Consortium] (CalConnect) +
+ Ir. Allen Yeung, CIO http://www.ogcio.gov.hk/[OGCIO] +
+ Ronald Tse, CEO, https://www.ribose.com/home[Ribose]
+
+[[file-80]]
+=== 
+
+image::/assets/images/ribose_120.jpg[OGCIO, Ribose, CalConnect,744,212]
+
+[[registration]]
+Registration Information
+
+http://www.itfest.hk/template?series=2&id=141&lang=en#[Registration] for the CalConnect Public Day is found on the IT Fest website at: +
+http://www.itfest.hk/template?series=2&id=141&lang=en#
+
+http://www.itfest.hk/template?series=2&id=141&lang=en#[Register]
+
+[[location]]
+Location
+
+The CalConnect Public Day will be held at theHong Kong Convention and Exhibition Centre on April 20 during International IT Fest 2016.
+
+==== Meeting Room S221 +
+ Hong Kong Convention and Exhibition Centre +
+ 1 Harbour Road, Wan Chai, Hong Kong +
+ Wednesday, April 20, 2016
+
+https://www.hkcec.com/sites/all/themes/hkcec/templates/venue_panorama/HKCEC_s221/S221.html[Panoramic view of Meeting Room S221]
+
+[[transportation]]
+Transportation
+
+=== CalConnect Public Day Participants
+
+* 
+==== dmfs GmbH (CalConnect member) +
+
+http://smoothsync.org[image::/assets/images/SmoothSyncLogo.jpg[SmoothSync]] +
+
+dmfs, formerly SmoothSync, is the developer of the Android apps: CardDAV-Sync a CardDAV client to synchronize contacts, CalDAV-Sync, a CalDAV client to synchronize events and tasks, and Contact Editor Pro, a contacts editor. +
+
+http://dmfs.org +
+
+mailto:marten@dmfs.org[marten@dmfs.org] +
+
+*Marten Gajda* +
+
+is a software engineer who serves as CEO at dmfs GmbH, and CTO at SchedJoules. +
+
+mailto:marten@dmfs.org[marten@dmfs.org]
+* 
+==== Eventable (CalConnect member) +
+
+http://www.eventable.com[image::/assets/images/eventable-logo.jpg[Eventable]] +
+
+Eventable is a marketing automation platform built for the calendar. We help brands engage their audiences via any calendar, enabling them to promote everything from sports schedules to retail sales to TV programming. Eventable drives timely action through the same calendars that consumers already use every day. +
+
+http://www.eventable.com +
+
+*Sameen Karim* +
+
+is the CoFounder and CEO of Eventable. Sameen studied computer science at the University of California, Berkeley, where he also founded the company after winning the Haas Business School startup competition. He has been involved with calendaring for over six years, and previously founded feedCal, an intelligent scheduling utility. +
+
+mailto:sameen@eventable.com[sameen@eventable.com]
+* 
+==== FastMail (CalConnect member) +
+
+http://www.fastmail.com[image::/assets/images/fastmail.png[FastMail]] +
+
+FastMail provides professional email, calendars and contacts hosting for companies and discerning individuals around the world. FastMail is not just a recognised leader in the space but also gives back to the community, contributing heavily to the development of the widely used opensource Cyrus groupware server, and driving development of the new JMAP protocol for faster, more robust data sync. +
+
+http://www.fastmail.com +
+
+*Bron Gondwana* +
+
+has been with FastMail since 2004, through ownership changes and is now a Director of the company. started a rewrite of the core Cyrus IMAPd, and has worked Murchison from CMU on integrating calendaring and contact into the open source server. Bron shares his time between operations, software development and representing the company conferences. For variety, Bron also teaches group fitness classes sings in choir. +
+
+mailto:brong@fastmail.fm[brong@fastmail.fm] +
+
+*Neil Jenkins* +
+
+is a Director at FastMail, and has been at FastMail for over 10 years. He currently leads the development of FastMail's web interface, and is the editor behind the new JMAP protocol which offers faster, more robust access to your mail and calendars your computer, tablet and mobile. Neil also sings in a choir, normally the same one as Bron. +
+
+mailto:neilj@fastmail.fm[neilj@fastmail.fm]
+* 
+==== fruux (CalConnect member) +
+
+http://www.fruux.com[image::/assets/images/fruux_logo.png[fruux GmbH]] +
+
+Fruux is a unified, crossplatform contacts and calendaring system. We developed sabre/dav, the most popular open source implementation of CardDAV and CalDAV. Developers and companies around the globe use sabre/dav to deliver sync functionality to millions of users. +
+
+http://fruux.com +
+
+**Evert Pot** +
+
+, Fruuxs co-founder and CTO, is a software engineer. +
+
+mailto:evert@fruux.com[evert@fruux.com]
+* 
+==== Gershon Janssen (CalConnect individual member) +
+
+*Gershon Janssen* +
+
+is an independent Architect and Standards Professional, focusing on Architecture, Cloud, Identity Management, Privacy and Data Security. +
+
+mailto:gershonjanssen@qroot.com[gershonjanssen@qroot.com]
+* 
+==== Google (CalConnect member) +
+
+http://www.google.com[image::/assets/images/google_40wht.gif[Google, Inc.]] +
+
+Google is an international tech company specializing in internet-related services and products. The companys mission is to organize the worlds information and make it universally accessible and useful. One of the Google's focus areas is productivity tools, such as Google Calendar.. +
+
+http://www.google.com +
+
+*Iskander Akishev* +
+
+s a Software Engineer who has been working on the Google Calendar API team for the last 1.5 years. The team develops and maintains several APIs for external developers to integrate and interoperate with Google Calendar, one of which is the CalDAV protocol implementation. +
+
+mailto:akishev@google.com[akishev@google.com]
+* 
+==== Jorte (CalConnect member) +
+
+http://www.jorte.com/en[image::/assets/images/jorte_logo.png[Jorte]] +
+
+Jorte provides an Android calendar and organizer application that fully manages your schedule. With over 27 million downloads from around the world, Jorte is an application that combines the ease of use of a paper organizer with the handiness of a smartphone. +
+
+http://www.jorte.com +
+
+mailto:info@jorte.co.jp[info@jorte.co.jp] +
+
+*Masakazu Nishimoto* +
+
+is Chairman of the Board of Jorte. +
+
+mailto:nishimoto@jorte.co.jp[nishimoto@jorte.co.jp] +
+
+*Kevin Korpi* +
+
+mailto:kevin@jorte.com[kevin@jorte.com]
+* 
+==== Kerio Technologies (CalConnect member) +
+
+http://www.kerio.com[image::/assets/images/kerio_signature.gif[Kerio Technologies]] +
+
+Kerio provides safe, simple, and secure business productivity solutions, such as winning email, UTM/firewall, VoIP, and collaboration solutions to more than 60,000 businesses and millions of users globally. Kerio is headquartered in San Jose, California with offices in the United Kingdom, the Czech Republic, Russia, Australia, and Brazil. +
+
+http://www.kerio.com +
+
+*Tomas Hnetila* +
+
+is co-founder of Kerio. +
+
+mailto:thnetila@kerio.com[thnetila@kerio.com]
+* 
+==== Open-Xchange (CalConnect member) +
+
+http://www.open-xchange.com[image::/assets/images/open-xchange.png[Open-Xchange]] +
+
+Open-Xchange (OX) provides open, customizable, cloud-based products which enable service providers to offer their customers scalable, self-branded services  via a customer engagement platform +
+
+*Martin Herfurth* +
+
+works for Open-Xchange. +
+
+mailto:martin.herfurth@open-xchange.com[martin.herfurth@open-xchange.com] +
+
+*Tobials Friedrich* +
+
+works for Open-Xchange. +
+
+mailto:tobias.friedrich@open-xchange.com[tobias.friedrich@open-xchange.com]
+* 
+==== Oracle (CalConnect member) +
+
+http://www.oracle.com[image::/assets/images/oracle_sig_clr.gif[Oracle Corporation]] +
+
+Oracle offers a comprehensive and fully integrated stack of cloud applications, platform services, and engineered systems, including Oracle Communications Suite Calendar and Address Book Server. +
+
+http://www.oracle.com +
+
+*Arnaud Quillaud* +
+
+is Architect and Lead Developer for Oracle Communications Suite Calendar and Address Book Server. He is co-editor of RFC 6578, Collection Synchronization for Web Distributed Authoring and Versioning (WebDAV). +
+
+mailto:Arnaud.Quillaud@oracle.com[Arnaud.Quillaud@oracle.com]
+* 
+==== Philipp Kewisch (CalConnect individual member) +
+
+*Philipp Kewisch* +
+
+is Senior Add-ons Technical Editor at Mozilla. Previously he served as Senior Software Developer and Lightning (calendar) project manager. +
+
+mailto:mozilla@kewis.ch[mozilla@kewis.ch]
+* 
+==== Rensselaer Polytechnic Institute (RPI) (CalConnect member) +
+
+http://www.rpi.edu[image::/assets/images/rpiseal_100.gif[Rensselaer Polytechnic Institute (RPI)]] +
+
+Rensselaer Polytechnic Institute is the oldest technological university in the English-speaking world. Bedework, the open source enterprise calendaring system was developed at RPI. +
+
+http://www.apereo.org/projects/bedework[www.apereo.org/projects/bedework] +
+
+http://www.rpi.edu +
+
+*Gary Schwartz* +
+
+is Director of Communications & Middleware Technologies at Rensselaer Polytechnic Institute (RPI), and has years experience in Higher Ed IT, first as a programmer, and subsequently in IT management. He holds a B.S. in Computer and Applied Mathematics. His present responsibilities at Rensselaer include centralized email, directory, web services, mobile devices, identity management and middleware. For ten years, he served as Chair of the Bedework Steering Committee. He has served as president of CalConnect for the past 8 years. +
+
+mailto:schwag@rpi.edu[schwag@rpi.edu]
+* 
+==== Ribose (CalConnect member) +
+
+http://www.ribose.com[image::/assets/images/ribose_120.jpg[Ribose Inc.]] +
+
+Ribose is an online social collaboration platform that connects you with friends, family, co-workers, and communities in a new way. Our platform lets you focus on the task at hand while keeping you and your team on the same page. +
+
+http://www.ribose.com +
+
+*Ronald Tse* +
+
+is the founder of Ribose, and was awarded a bachelor's degree in Computer Science and Biology (magna cum laude), master's degree in Computer Science from Brown University. He previously worked on highly-scalable distributed systems at Brown and MIT, and currently serves on CSAs International Standardization Council and represents Hong Kong at ISO/IECs JTC1/SC27. +
+
+mailto:tse@ribose.com[tse@ribose.com] +
+
+*Peter Tam* +
+
+leads application development in Ribose with almost decade of software engineering experience. He is a lead auditor of (ISO/IEC 27001), EMS (ISO 14001) and EnMS (ISO 50001). Peter received his bachelor's degree from the Hong Kong University Science and Technology in Computer Science. +
+
+mailto:peter.tam@ribose.com[peter.tam@ribose.com]
+* 
+==== Schedjoules (CalConnect member) +
+
+http://schedjoules.com[image::/assets/images/schedjoules.jpg[SchedJoules]] +
+
+SchedJoules is the world's most comprehensive managed public calendar service. The quality and quantity of our content (560k public calendars), the number of supported languages (16), the ease of implementation on all major platforms with the available API and SDKs and the passionate editorial and customer support are just a few of the reasons to get started with SchedJoules. Our clients range from end-users, indie developers to mid-size and multinational listed companies in different industries. +
+
+https://schedjoules.com +
+
+mailto:hello@schedjoules.com[hello@schedjoules.com] +
+
+*Rutger Geelen* +
+
+is CEO of SchedJoules and board member (CFO) of CalConnect. He has masters degree in economics with a post certified public accountant. He is passionate about solving the calendar mess out there. Rutger is an avid long distance runner lives in Amsterdam. +
+
+mailto:rutgergeelen@schedjoules.com[rutgergeelen@schedjoules.com] +
+
+https://nl.linkedin.com/in/rutgergeelen
+* 
+==== Spherical Cow Group (SCG) (CalConnect member) +
+
+http://www.sphericalcowgroup.com[image::/assets/images/spherical-cow-group-logo.png[Spherical Cow Group]] +
+
+Spherical Cow Group (SCG) provides calendaring and identity management consulting services for enterprises, higher education, research, and virtual organizations. We focus on open source tools and community standards, and can assist with architecture and design, implementation and development, training, and project management. Why Spherical Cow? We make complex problems simple. +
+
+http://www.sphericalcowgroup.com +
+
+mailto:info@sphericalcowgroup.com[info@sphericalcowgroup.com] +
+
+*Benn Oshrin* +
+
+is the managing partner for SCG. Benn has been with various aspects of IT in higher education for two decades, including affiliations with Columbia, Rutgers, and Yale Universities. Benn now specializes in Identity Management and systems architecture, is the architect for the COmanage Project, a collaboration management platform funded by the National Science Foundation Internet2. +
+
+mailto:benno@sphericalcowgroup.com[benno@sphericalcowgroup.com] +
+
+**Mike Douglass** +
+
+, a software developer, is the lead architect and developer for Bedework, the open source, enterprise calendaring system. Mike is the editor or co-editor of many calendaring scheduling standards, and serves as CalConnects Interop manager. In 2014, Mike was the recipient of the CalConnect Distinguished Service Award. +
+
+mailto:mikeadouglass@gmail.com[mikeadouglass@gmail.com]
+* 
+==== Software AG (CalConnect member) +
+
+http://www.softwareag.com[image::/assets/images/sofwareag.gif[Software AG]] +
+
+Software AG empowers customers to innovate, differentiate and win in the digital world. Its products help companies combine existing systems on-premise and in the cloud into a single platform to optimize and digitize their businesses. The combination of process management, data integration and real-time analytics in one Digital Business Platform enables customers to drive operational efficiency, modernize their systems and optimize processes for smarter decision-making. +
+
+http://www.softwareag.com +
+
+*Peter Brosi* +
+
+is a Senior. Solution Consultant at Software AG. +
+
+mailto:peter.brosi@softwareag.com[peter.brosi@softwareag.com]
+* 
+==== Cronofy (Observer organization) +
+
+Cronofy provides a unified calendar API to allow application developers to integrate their apps and services with Google, Apple, Exchange and many other calendar services. With Cronofy, developers dont have to worry which calendar service their customers have chosen. They can just focus on leveraging the rich, two-way calendar interaction provided to augment their service and embed their offering deep within their customers lives. +
+
+http://www.cronofy.com +
+
+mailto:hello@cronofy.com[hello@cronofy.com] +
+
+*Adam Bird* +
+
+- CEO Adam is Founder and CEO of Cronofy, the unified calendar He's a highly technical and experienced technology entrepreneur with a passion for continuous improvement that pervades aspect of his life. +
+
+mailto:adam@cronofy.com[adam@cronofy.com] +
+
+*Garry Shutler* +
+
+- CTO Garry is Cronofy's CTO, a software developer whos allergic to mediocrity. He's tackled many challenges that involve scale, highly sensitive data, and where a high degree of accuracy high level of availability is paramount.
+* 
+==== CalConnect +
+
+CalConnect, the Calendaring & Scheduling Consortium, is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools. Our focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our technical committees, we advance the state of interoperable calendaring and of interoperable scheduling. Although CalConnect is not a formal standards body, over the last five years, most of the calendaring standards development and discussion have taken place in CalConnect. +
+
+http://www.calconnect.org +
+
+mailto:contact@calconnect.org[contact@calconnect.org] +
+
+*Dave Thewlis* +
+
+is a co-founder of CalConnect, served on the initial Board of Directors, and served as the first President. Dave has served as Executive Director of CalConnect since CalConnects inception, and continues to serve CalConnect in that capacity, and as Secretary of the corporation. In 2015, Dave was a recipient of the CalConnect Distinguished Service Award. Prior to CalConnect, Dave was a systems programmer and technical manager at Kaiser Permanente, and served as Vice President and Chief Standards Officer for SHARE, when it was the largest IBM user group. In 1994, Dave founded DCTA Inc, a consulting firm.
+
+mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org]
+
+[[lodging]]
+Lodging
+
+[[test-schedule]]
+Test Event Schedule
+
+=== CalConnect Public Day Sponsors
+
+CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
+
+image::/assets/images/sponsor-logos3.png[""]
+==== Hosts
+
+* http://www.ribose.com/[Ribose]
+* http://www.ogcio.gov.hk/en/[The Office of the Government Chief Information Officer (OGCIO)] +
+
+==== Commercial Sponsor
+
+* http://www.bsigroup.com/en-US/[British Standards Institution]
+
+==== Venue Sponsors
+
+* https://www.cyberport.hk/en[Cyberport]
+* http://www.hku.hk/[The University of Hong Kong]
+
+==== Supporting Organizations
+
+* https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
+ Hon. Charles Mok, JP, Legislative Councillor (IT)]
+* http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
+* http://www.vtc.edu.hk[Vocational Training Council (VTC)]
+* https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
+* https://cloudsecurityalliance.org/[Cloud Security Alliance (CSA)]
+* http://www.lscm.hk/[Hong Kong R&D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM)]
+* http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
+* http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
+* http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
+
+==== Special thanks to
+
+* https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
+* http://www.cad.gov.hk/english/home.html[Civil Aviation Department]
+* http://www.mtr.com.hk/en/customer/tourist/index.php[Mass Transit Railways (MTR)]
+* http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CalConnect Public Day Schedule as of 21 March 2016
+
+[cols=3]
+|===
+| *Time* | *Session* | *Description*
+
+| 08:30 | Registration | 
+| 09:00 | Opening Ceremony & sponsor photos | 
+| 09:30 | Opening Remarks | CalConnect and their Hong Kong-based hosts, OGCIO, and CalConnect member organization Ribose, welcome and introduction
+| 10:15 | Keynote by CalConnect | Calendaring & Scheduling  One World, One Calendar
+| 10:45 | <Break> | 
+| 11:15 | CalConnect and the Asia/Pacific Region | CalConnect Asia/Pacific-based organization share their experience as CalConnect members, and the important role Asia/Pacific companies can play bringing us One World/ One Calendar.
+| 12:00 | Calendaring & Scheduling as a service  CalConnect for Business | CalConnect member organizations discuss the business case for Calendaring & Scheduling, participation in CalConnect, and the Return On Investment (ROI) for C&S standards.
+| 12:45 | <Lunch> | 
+| 14:00 | Calendaring & Scheduling for software developers | Calendaring & Scheduling software development is rewarding, but it can be challenging. CalConnect software developers will discuss how standards and interoperability benefit them, and what CalConnect is doing to make standards-based software development easier.
+| 14:45 | Calendaring & Scheduling Standards Roundtable/Panel | Calendaring & Scheduling stands cover a wide range  data formats, data transport, and different functional areas. We will discuss what has been done, what still needs to be done, and how you can benefit from participating in this work.
+| 15:30 | <Break> | 
+| 16:00
+a| Calendaring & Scheduling Grand ChallengesConference wrap-up
+| Since CalConnect was founded 11 years ago, the world, and the world of technology have changed significantly. We will discuss how these changes will impact calendaring and scheduling, and how calendaring and scheduling will impact the work.
+
+| 17:00 Mixer |  | Social opportunity for CalConnect members and A/P attendees to meet and talk.
+
+|===
