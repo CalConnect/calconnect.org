@@ -1,0 +1,118 @@
+---
+layout: page
+name: CalConnect XIII - October 6-10 2008
+host_info: Hosted by Yahoo/Zimbra, Santa Clara, California
+date: 2008-10-06
+image: /assets/images/Yahoo.jpg
+---
+
+== CalConnect XIII - October 6-10, 2008
+
+image::link/assets/images/Yahoo.jpg[Yahoo!, 750, 444]
+
+== Event Details
+- *Dates:* Monday, October 6 – Friday, October 10, 2008
+- *Location:* Yahoo! Mission College Campus, 2821 Mission College Blvd, Santa Clara, CA 95054, USA
+- *Host:* Yahoo!
+
+== Introduction
+CalConnect XIII is composed of two key events: 
+- The CalConnect Interoperability (IOP) Test Event, held from Monday to Wednesday morning.
+- The CalConnect Roundtable (Members Meeting), starting Wednesday at 12:30 PM.
+
+- *Timing:* Sessions begin daily at 08:00 and end at 17:30.
+- *Dress Code:* Casual to business casual.
+
+== Registration Information
+- *Fee:* 
+  - IOP Test Event: $395
+  - Roundtable: $395
+- *Details & Registration:* link:/events/event-registration-payment[Registration Page]
+
+== Location and Attractions
+*Venue:*
+Yahoo! Mission College Campus  
+2821 Mission College Blvd, Santa Clara, CA 95054  
+Phone: +1 408-349-5300  
+
+*Nearby Attractions:*
+- California's Great America (Amusement Park)
+- Levi's Stadium (Home of the San Francisco 49ers)
+- Shopping at the Great Mall of the Bay Area.
+
+*Transportation:*
+- *Closest Airport:* San Jose Mineta International Airport (SJC)
+- *Alternative Airports:* San Francisco International (SFO), Oakland International (OAK)
+- *Ground Transportation:* Shuttle services and rental cars available at all airports.
+
+== Lodging
+- **Holiday Inn Santa Clara-Great America**  
+  4200 Great America Parkway, Santa Clara, CA 95054  
+  Phone: +1 408-235-8900
+
+- **Hyatt Regency Santa Clara**  
+  5101 Great America Parkway, Santa Clara, CA 95054  
+  Phone: +1 408-200-1234
+
+- **Marriott Santa Clara**  
+  2700 Mission College Blvd, Santa Clara, CA 95054  
+  Phone: +1 408-988-1500
+
+== Conference Schedule
+_All times are PST._
+
+=== Monday, October 6, 2008
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 08:00–09:00 | Registration & Breakfast
+| 09:00–10:30 | IOP Testing – Session 1
+| 10:30–12:00 | IOP Testing – Session 2
+| 12:00–13:00 | *Lunch*
+| 13:00–15:00 | IOP Testing – Session 3
+| 15:00–17:00 | IOP Testing – Session 4
+|===
+
+=== Tuesday, October 7, 2008
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 08:00–09:00 | Breakfast
+| 09:00–10:30 | IOP Testing – Session 5
+| 10:30–12:00 | IOP Testing – Session 6
+| 12:00–13:00 | *Lunch*
+| 13:00–15:00 | IOP Testing – Session 7
+| 15:00–17:00 | IOP Testing – Session 8
+|===
+
+=== Wednesday, October 8, 2008
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 08:00–09:00 | Breakfast
+| 09:00–12:00 | IOP Testing – Final Session
+| 12:30–13:30 | Roundtable Opening – Welcome & Introductions
+| 13:30–15:00 | Technical Committee Sessions
+| 15:00–17:00 | Birds of a Feather (BOF) Sessions
+|===
+
+=== Thursday, October 9, 2008
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 08:00–09:00 | Breakfast
+| 09:00–10:30 | TC Mobile – Session 1
+| 10:30–12:00 | TC Timezone – Session 2
+| 12:00–13:00 | *Lunch*
+| 13:00–14:30 | TC XML – Session 3
+| 14:30–17:00 | TC Freebusy – Session 4
+|===
+
+=== Friday, October 10, 2008
+[cols="20%,80%",options="header"]
+|===
+| Time | Session
+| 08:00–09:00 | Breakfast
+| 09:00–11:00 | Plenary Session – Wrap-up and Future Directions
+| 11:00–12:00 | Closing Remarks & Adjourn
+|===
