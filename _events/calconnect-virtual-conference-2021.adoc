@@ -1,8 +1,8 @@
 ---
 layout: page
 name: CalConnect Virtual Conference 2021
-host_info: Hosted by CalConnect and conducted entirely via Zoom.
-date: 2022-04-16
+host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+date: 2021-04-12
 image: /assets/images/CalConnectEventTBD_0.jpg
 ---
 :page-liquid:

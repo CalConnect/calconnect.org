@@ -1,0 +1,128 @@
+---
+layout: page
+name: CalConnect XIV - February 2-6 2009
+host_info: Hosted by Microsoft, Redmond, Washington
+date: 2009-02-02
+image: /assets/images/MicrosoftRedmond.jpg
+---
+
+== CalConnect XIV - February 2-6, 2009
+Microsoft, Redmond, Washington
+
+image::/assets/images/MicrosoftRedmond.jpg[Microsoft, Redmond, Washington, width=800, height=533]
+
+== Event Overview
+
+CalConnect XIV includes:
+- *CalConnect Interoperability Test Event*: February 2–5, 2009
+- *CalConnect Roundtable XIV (Members Meeting)*: February 4–6, 2009
+
+[.date-display-range]
+Monday, February 2, 2009 to Friday, February 6, 2009
+
+*Recent Changes:*  
+_Information current to January 22, 2009_  
+- Schedule Change Updates
+- Dinner Locations
+
+CalConnect XIV is hosted by link:https://web.archive.org/web/20090126053702/http://www.microsoft.com/[Microsoft].  
+The IOP Testing will occur Monday to Wednesday morning, followed by the Roundtable starting Wednesday lunch through Friday afternoon.  
+
+[NOTE]
+====
+You do *not* need finished or polished code to participate in the IOP testing. Early testing with other participants can assist in debugging and development.
+====
+
+*Key Highlights:*
+- *CalConnect Interoperability Test Event*: For members and non-members (participants or observers).
+- *Roundtable XIV*: Includes presentations, technical committee sessions, BOFs (Birds of a Feather sessions), and the Plenary meeting.
+
+=== Schedule Overview
+
+==== CalConnect Interoperability Test Event
+[cols="34%,33%,33%", options="header"]
+|===
+| *Monday 2 February* | *Tuesday 3 February* | *Wednesday 4 February*
+
+| 08:00–08:30 Opening Breakfast +
+08:30–10:00 Testing +
+10:00–10:30 Break +
+10:30–12:30 Testing +
+12:30–13:30 Lunch +
+13:30–15:30 Testing +
+15:30–16:00 BOFs/Break +
+16:00–18:00 Testing +
+19:00–20:30 IOP Test Dinner (Desert Fire Grill)
+
+| 08:00–08:30 Breakfast +
+08:30–10:00 Testing +
+10:00–10:30 Break +
+10:30–12:30 Testing +
+12:30–13:30 Lunch +
+13:30–15:30 Testing +
+15:30–16:00 Break +
+16:00–18:00 Testing
+
+| 08:00–08:30 Breakfast +
+08:30–10:00 Testing +
+10:00–10:30 Break +
+10:30–12:00 Testing +
+12:00–12:30 Wrap-up +
+12:30 End of IOP Testing +
+12:30–13:30 Lunch
+|===
+
+==== Roundtable XIV
+[cols="34%,33%,33%", options="header"]
+|===
+| *Wednesday 4 February* | *Thursday 5 February* | *Friday 6 February*
+
+| 11:00–12:00 Introduction to CalConnect (optional) +
+12:30–13:30 Lunch/Opening +
+13:30–14:30 "Dog Food" Session +
+14:30–15:30 TC Timezone Workshop Report +
+15:30–16:00 Break +
+16:00–17:00 Calendaring Standards Roadmap +
+17:00–18:00 Guest Speaker: Ben Fortuna +
+18:00–19:30 Welcome Reception (hosted by Microsoft)
+
+| 08:00–08:30 Breakfast +
+08:30–09:30 TC MOBILE +
+09:30–10:00 BOF +
+10:00–10:30 Break +
+10:30–12:30 TC CALDAV +
+12:30–13:30 Lunch +
+13:30–15:00 TC iSCHEDULE +
+15:00–16:00 TC FREEBUSY +
+16:15–17:15 CalConnect: Contributing to the World Wide Calendar +
+17:15–18:00 Steering Committee +
+19:30–21:30 Group Dinner (Maggiano's Little Italy)
+
+| 08:00–08:30 Breakfast +
+08:30–09:30 TC EVENTPUB +
+09:30–10:30 TC XML +
+10:30–11:00 Break +
+11:00–12:00 TC USECASE +
+12:00–12:30 TC Wrap-up +
+12:30–14:00 Plenary Session +
+14:00 Close of Meeting
+|===
+
+=== Registration Information
+For registration and payment options, visit:
+link:https://web.archive.org/web/20090126053702/http://calconnect.org/regtypes.shtml[Registration and Payment Options]
+
+=== Location
+The event will take place in Building 40, Room 1261 ("Constance") on the main Microsoft campus in Redmond, Washington.
+
+=== Lodging
+Below are some nearby hotels:  
+- *Marriott Redmond Town Center*, 7401 164th Ave NE, Redmond, WA 98052  
+- *Fairfield Inn Bellevue*, 14595 NE 29th Place, Bellevue, WA 98007  
+- *Silver Cloud Inn Redmond*, 2122 152nd Ave NE, Redmond, WA 98052  
+
+For a full list, refer to the event page.
+
+=== Transportation
+- Airport: link:https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/[Sea-Tac International Airport]
+- Ground Transportation: link:https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/ground/index.shtml[Sea-Tac Ground Transportation]
