@@ -1,0 +1,52 @@
+---
+layout: page
+name: CalConnect Public Day - Hong Kong IT Fest
+host_info: Wednesday, April 20, 2016 - All Day
+date: 2016-05-20
+image: /assets/images/public_day_logo_0.jpg
+---
+
+== CalConnect Public Day - Hong Kong IT Fest
+
+=== Public Event at the Hong Kong International ITFest +
+Wednesday, April 20, 2016 - All Day
+
+==== About the Event
+
+image:/assets/images/public_day_logo_0.jpg[https://www.calconnect.org/sites/default/files/events/public_day_logo_0, width=800, height=464]
+
+On behalf of our conference hosts – Hong Kong’s Office of the Government Chief Information Officer and Hong Kong-based Ribose – CalConnect invites you to attend our all-day event at the Hong Kong International ITFest on April 20th, 2016. The event will be held at the Hong Kong Convention and Exhibition Centre.
+
+=== Key Highlights
+
+* Keynote by Hong Kong’s CIO, Ir. Allen Yeung.
+* Updates on Calendaring & Scheduling standards.
+* Insights into CalConnect membership and its benefits.
+* Networking with CalConnect members and developers.
+
+=== Background
+
+CalConnect, the Calendaring & Scheduling Consortium, is a partnership between vendors and users of calendaring tools. It promotes interoperability and advances the development of standards through its Technical Committees. While not a formal standards body, CalConnect has been a hub for calendaring standards discussions over the past five years.
+
+=== Event Location
+
+Meeting Room S221 +
+Hong Kong Convention and Exhibition Centre +
+1 Harbour Road, Wan Chai, Hong Kong +
+Wednesday, April 20, 2016
+
+[https://www.hkcec.com/sites/all/themes/hkcec/templates/venue_panorama/HKCEC_s221/S221.html[View Meeting Room S221]]
+
+=== Registration Information
+
+Registration is available on the IT Fest website: +
+http://www.itfest.hk/template?series=2&id=141&lang=en[Register Here]
+
+=== Sponsors and Hosts
+
+==== Hosts
+* http://www.ribose.com/[Ribose]
+* http://www.ogcio.gov.hk/en/[The Office of the Government Chief Information Officer (OGCIO)]
+
+==== Commercial Sponsor
+* http://www.bsigroup.com/en-US/[British Standards Institute (BSI)]

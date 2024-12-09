@@ -1,0 +1,15 @@
+---
+layout: page
+name: Upcoming Virtual Events Planned
+host_info:
+date: 2024-11-14
+image: /assets/images/CalConnectEventTBD_0.jpg
+---
+
+== Upcoming Virtual Events Planned
+
+image::/assets/images/CalConnectEventTBD_0.jpg[]
+
+CalConnect will host some one or two day virtual events on specific topics. Any suggestions on appropriate topics are welcome. We have currently in mind:
+
+
