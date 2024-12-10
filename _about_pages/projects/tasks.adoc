@@ -4,6 +4,7 @@ title: Tasks (VTODOs)
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == Tasks (VTODOs)
 
@@ -14,8 +15,8 @@ The VTODO component of iCalendar must be extended to offer functionality
 for new use cases such as the smart grid, project management, and
 business task scheduling, in a way that allow a calendaring system to
 manage the data and calendaring clients to display and change it.
-link:/tc-tasks[TC TASKS] is working on extending iCalendar in
+link:{{'/tc-tasks' | relative_url }}[TC TASKS] is working on extending iCalendar in
 areas such as project management, WS Human Task, and smart grid energy
 management.
 
-Details: link:/7_things_tasks[*Tasks (VTODOs)*]
+Details: link:{{'/7_things_tasks' | relative_url }}[*Tasks (VTODOs)*]

@@ -3,6 +3,7 @@ layout: page
 title:  CalConnect Public Review Documents
 type: resources
 ---
+:page-liquid:
 
 = CalConnect Public Review Documents
 
@@ -14,13 +15,13 @@ make a preliminary version available to other Standards Development
 Organizations prior to formal publication.
 
 Documents made available for public review and comment are announced on
-the CalConnect link:/pubcommentlist[Public Review and Comment Mailing List] and
+the CalConnect link:{{'/pubcommentlist' | relative_url }}[Public Review and Comment Mailing List] and
 all comments should be posted to that list. This link introduces the lists and
 allows individuals to subscribe to it.
 
 CalConnect Public Review documents are made available with the
 understanding that they are in-progress documents and cannot be taken as
 final versions. To see the full disclaimer please refer to
-link:/documents/disclaimerreview.pdf[Public Review Document Disclaimer]
+link:{{'/documents/disclaimerreview.pdf' | relative_url }}[Public Review Document Disclaimer]
 
 There are no documents in public review at this time.

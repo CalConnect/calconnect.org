@@ -5,10 +5,11 @@ host_info: Hosted by Cronofy in Nottingham, United Kingdom
 date: 2019-08-23
 image: /assets/images/nottingham1.jpg
 ---
+:page-liquid:
 
 == CalConnect Nottingham November 2022
 
-image::/assets/images/nottingham1.jpg[Nottingham, U.K.,750,404]
+image::{{'/assets/images/nottingham1.jpg' | relative_url }}[Nottingham, U.K.,750,404]
 
 == Event Details
 - *Dates:* Monday, November 14 – Wednesday, November 16, 2022
@@ -31,13 +32,13 @@ CalConnect Nottingham 2022 will be hosted in Nottingham, UK, at the *Antenna Med
 - *Fee:*
   - In-person: $650 (members and observers)
   - Virtual: $150
-- *Details & Registration:* link:/events/event-registration-payment[Registration Page]
+- *Details & Registration:* link:{{'/events/event-registration-payment' | relative_url }}[Registration Page]
 
 == Location and Attractions
 *Venue:*
-https://antenna.uk.com/[Antenna Media Centre]  
-9A Beck Street, Nottingham NG1 1EQ  
-Phone: +44 (0)115 993 2350  
+https://antenna.uk.com/[Antenna Media Centre]
+9A Beck Street, Nottingham NG1 1EQ
+Phone: +44 (0)115 993 2350
 
 *Nearby Attractions:*
 - Nottingham Castle and the City of Caves (https://www.visit-nottinghamshire.co.uk/things-to-do/city-of-caves-p354851[Explore here]).

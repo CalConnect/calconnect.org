@@ -3,13 +3,15 @@ layout: page
 title:  Why Become a Member of CalConnect?
 type: membership
 ---
+:page-liquid:
+
 = Why Become a Member of CalConnect?
 
 [#calconnect-audience-boxes]
 * {blank}
 +
 --
-image::/assets/images/glyphGears.png[]
+image::{{'/assets/images/glyphGears.png' | relative_url }}[]
 
 *Developers*
 
@@ -20,7 +22,7 @@ image::/assets/images/glyphGears.png[]
 * {blank}
 +
 --
-image::/assets/images/glyphGroup.png[]
+image::{{'/assets/images/glyphGroup.png' | relative_url }}[]
 
 *Product Managers*
 
@@ -31,7 +33,7 @@ image::/assets/images/glyphGroup.png[]
 * {blank}
 +
 --
-image::/assets/images/glyphCheck.png[]
+image::{{'/assets/images/glyphCheck.png' | relative_url }}[]
 
 *Standards Community*
 
@@ -69,7 +71,7 @@ made up of and led by participants from our member organizations.
 Although the original C&S standards are IETF RFCs, most of the
 calendaring and scheduling standards development and discussion in the
 last ten years have taken place in CalConnect. We maintain
-link:/about/liaisons-and-relationships[active liaisons]
+link:{{'/about/liaisons-and-relationships' | relative_url }}[active liaisons]
 with a number of ISO/IEC Technical Committees and other standards
 entities. In addition to our own standards, we are working with several
 ISO Technical Committees on joint projects and anticipate co-publication
@@ -87,14 +89,14 @@ and timezones.
 We know how hard it is to sell you "cold", so, instead, we would like to
 help you sell yourself. Take a look at CalConnect, especially:
 
-* Our link:/membership[membership]
-* Our link:/about/goals[mission]
-* Our link:/major-work-projects[work products]
-* Our link:/about/policies[policies]
-* Our link:/about/liaisons-and-relationships[partnerships]
-* Our link:/events/events-activities[activities]
-* Our link:/about/technical-committees[technical committees (working groups)]
-* Our link:/news[achievements and our story]
+* Our link:{{'/membership' | relative_url }}[membership]
+* Our link:{{'/about/goals' | relative_url }}[mission]
+* Our link:{{'/major-work-projects' | relative_url }}[work products]
+* Our link:{{'/about/policies' | relative_url }}[policies]
+* Our link:{{'/about/liaisons-and-relationships' | relative_url }}[partnerships]
+* Our link:{{'/events/events-activities' | relative_url }}[activities]
+* Our link:{{'/about/technical-committees' | relative_url }}[technical committees (working groups)]
+* Our link:{{'/news' | relative_url }}[achievements and our story]
 
 CalConnect's success, and ultimately the success of our vision of
 interoperable calendaring depend on broad, engaged, diverse, and
@@ -110,7 +112,7 @@ at the center of calendaring & scheduling today.
 == Take CalConnect for a Test Drive
 
 You can attend one CalConnect Conference as an observer, without having yet
-become a member. Refer to link:/events/observers[observers] for additional
+become a member. Refer to link:{{'/events/observers' | relative_url }}[observers] for additional
 details on the terms and conditions for observer participation.  In conjunction
 with our Conferences, we offer on-site Interoperability testing with other
 implementers.

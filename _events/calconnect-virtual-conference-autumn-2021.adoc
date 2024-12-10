@@ -1,14 +1,15 @@
 ---
 layout: page
 name: CalConnect Virtual Conference Spring 2022
-host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2022-05-09
 image: /assets/images/CalConnectEventTBD_0.jpg
 ---
+:page-liquid:
 
 == CalConnect Virtual Conference Spring 2022
 
-image::/assets/images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference Spring 2022,800,530]
+image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
 
 == Event Details
 - *Dates:* Monday, May 9 – Friday, May 13, 2022
@@ -21,13 +22,13 @@ image::/assets/images/CalConnectEventTBD_0.jpg[CalConnect Virtual Conference Spr
 - 19-Mar-2022: Registration opened.
 
 == Introduction
-CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning will evolve, potentially following the model of the Autumn 2021 Virtual Conference or CalendarFest. 
+CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning will evolve, potentially following the model of the Autumn 2021 Virtual Conference or CalendarFest.
 
 - *Platform:* Zoom. Access credentials will be provided upon registration.
 
 == Registration Information
 - *Fee:* Free for CalConnect members. Observer fees may apply for non-members.
-- *Details & Registration:* link:/events/event-registration-payment[Registration Page].
+- *Details & Registration:* link:{{'/events/event-registration-payment' | relative_url }}[Registration Page].
 
 == Location and Logistics
 *Venue:*

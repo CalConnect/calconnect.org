@@ -3,6 +3,7 @@ layout: page
 title:  Is CalConnect Right for You? Are You Right for CalConnect?
 type: membership
 ---
+:page-liquid:
 = Is CalConnect Right for You? Are You Right for CalConnect?
 
 Recently (August 2013), we welcomed Ribose as the newest CalConnect
@@ -17,7 +18,7 @@ succeed, cannot meet its mission, with only the "really big players",
 the "really small players", or only the "really anything-else
 players".
 
-As we note on our link:/whyjoin[Why Join] page,
+As we note on our link:{{'/why-join' | relative_url }}[Why Join] page,
 
 ____
 We are a partnership between vendors of calendaring & scheduling systems

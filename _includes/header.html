@@ -1,8 +1,8 @@
 <header id="navbar" role="banner">
     <div id="navbar-inner" class="navbar container">
         <div class="navbar-header">
-            <a class="logo navbar-btn pull-left" href="/" title="Home">
-                <img src="/assets/images/logo-white.svg" alt="Home">
+            <a class="logo navbar-btn pull-left" href="{{'/' | relative_url }}" title="Home">
+                <img src="{{'/assets/images/logo-white.svg' | relative_url }}" alt="Home">
             </a>
 
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -16,12 +16,12 @@
         <div class="navbar-collapse collapse">
             <nav role="navigation">
                 <ul class="menu nav navbar-nav">
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/membership">Membership</a></li>
-                    <li><a href="/events">Events</a></li>
-                    <li><a href="/news" title="">News</a></li>
-                    <li><a href="/resources">Resources</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="{{'/about' | relative_url}}">About</a></li>
+                    <li><a href="{{'/membership' | relative_url}}">Membership</a></li>
+                    <li><a href="{{'/events' | relative_url}}">Events</a></li>
+                    <li><a href="{{'/news' | relative_url}}" title="">News</a></li>
+                    <li><a href="{{'/resources' | relative_url}}">Resources</a></li>
+                    <li><a href="{{'/contact' | relative_url}}">Contact</a></li>
                 </ul>
             </nav>
         </div>

@@ -3,13 +3,15 @@ layout: page
 title: Daylight saving time and time zones
 type: resources
 ---
+:page-liquid:
+
 = Daylight saving time and time zones
 
 == General interest
 
 === CalConnect time zone discussion public mailing list
 
-Details: link:/resources/discussion-lists/time-zone-discussion[CalConnect Time Zone Discussion Public Mailing List]
+Details: link:{{'/resources/discussion-lists/time-zone-discussion' | relative_url }}[CalConnect Time Zone Discussion Public Mailing List]
 
 CalConnect has implemented this public discussion list, intended for discussion
 on timezones, especially in calendaring and scheduling. A particular focus is on
@@ -46,14 +48,14 @@ calendaring and scheduling applications or operating systems.
 
 === CalConnect calls on EU to reconsider timeline for proposed seasonal
 time changes
-Details: link:/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes]
+Details: link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes]
 
 Press Release about CalConnect's Advisory Notice concerning the EU Summer Time
 Proposal.
 
 === CalConnect advisory notice on EU summer time proposal
 
-Details: link:/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CalConnect Advisory Notice on EU Summer Time Proposal]
+Details: link:{{'/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[CalConnect Advisory Notice on EU Summer Time Proposal]
 
 This document, developed shortly after the EU announcement, is an Advisory
 Notice expressing concern about the amount of time before the proposal would
@@ -64,7 +66,7 @@ governments to prepare for the impact.
 
 === CalConnect EDST reflections and recommendations
 
-Details: link:/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf[CalConnect EDST Reflections and Recommendations]
+Details: link:{{'/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url }}[CalConnect EDST Reflections and Recommendations]
 
 This document, prepared by the CalConnect DST Ad Hoc Committee, reflects on the
 impact of the Extended Daylight Savings Time change to the start of DST in the
@@ -74,7 +76,7 @@ management in the future.
 
 === Extended daylight saving time review and considerations
 
-Details: link:/resources/daylight-saving-time/extended-daylight-saving-time-review-and-considerations[Extended Daylight Saving Time Review and Considerations]
+Details: link:{{'/resources/daylight-saving-time/extended-daylight-saving-time-review-and-considerations' | relative_url }}[Extended Daylight Saving Time Review and Considerations]
 
 This document provides a review of the Daylight Saving Time changes and the
 potential impact of this change on computer systems and devices. It is intended
@@ -83,7 +85,7 @@ who may need to make necessary updates to their systems.
 
 === Extended daylight saving time links, advisories and changes
 
-Details: link:/resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes[Extended Daylight Saving Time Links, Advisories and Changes]
+Details: link:{{'/resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes' | relative_url }}[Extended Daylight Saving Time Links, Advisories and Changes]
 
 This document is a compilation of links to vendor-provided advisories, technical
 notes, change documents, and the like. Its primary purpose is to try and
@@ -101,7 +103,7 @@ Please send references and URLs to:
 
 === Extended daylight saving time advisory notice
 
-Details: link:/pubdocs/CD0514%20DST%20Advisory%20Notice.pdf[Extended Daylight Saving Time Advisory Notice]
+Details: link:{{'/pubdocs/CD0514%20DST%20Advisory%20Notice.pdf' | relative_url }}[Extended Daylight Saving Time Advisory Notice]
 
 This document, developed just prior to the signing of the Energy Policy Act into
 law, was an advisory intended to explain the impact of the Act's proposed

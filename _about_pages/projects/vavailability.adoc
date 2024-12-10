@@ -4,6 +4,7 @@ title: VAVAILABILITY
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == VAVAILABILITY
 
@@ -19,4 +20,4 @@ allow the implementation of "office hours" applications, in particular
 for academic institutions, and has significant use also in the smart
 grid work being undertaken by OASIS.
 
-Details: link:/tc-freebusy[TC FREEBUSY]
+Details: link:{{'/tc-freebusy' | relative_url }}[TC FREEBUSY]
