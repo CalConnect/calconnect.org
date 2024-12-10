@@ -25,7 +25,7 @@ link:/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Cal
 link:/docs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf[CalWS-SOAP SOAP Web Services Protocol for Calendar] +
 https://datatracker.ietf.org/doc/draft-ietf-jcardcal-jcal[jCal: The JSON Format for iCalendar (IETF Draft)]
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

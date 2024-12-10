@@ -28,7 +28,7 @@ CalConnect established the CALSCALE Ad Hoc Committee, to define a mechanism to a
 
 At this point several calendar servers have implemented RSCALE support, and our interoperability testing has determined that those which have not yet implemented it will (correctly) ignore the RSCALE statement when they encounter it. Therefore, this set of example RRULES link://tests/rscale_golden.txt has been provided to allow new implementations to ensure their compliance with the interpretation of RSCALE by existing calendar servers for the major non-Gregorian calendars in use. &nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

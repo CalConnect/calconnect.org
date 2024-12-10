@@ -20,7 +20,7 @@ ____
 
 This document introduces Tasks in the Calendaring context, and discusses the work that CalConnect and TC TASKS is doing to broaden the capabilities of this major iCalendar component to support a wider range of scenarios, such as project management, smart power grids and business task scheduling. &nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

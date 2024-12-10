@@ -16,7 +16,7 @@ As noted on Andrew McMillan s blog at http://andrew.mcmillan.net.nz/blog/davical
 
 The Freebusy Read URL Proposal may be found at link:/docs/CD0903%20Freebusy%20Read%20URL.pdf[Proposal for Freebusy Read URL].
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

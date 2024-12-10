@@ -46,7 +46,7 @@ Calendar data has to exist across language and locale boundaries. Many places re
 
 This session will examine the event publication process with a specific view of how to create calendar data to ensure optimally interoperability with the plethora of calendar user agents that exist today. In particular, we will pay attention to issues such as timezone information, recurring events, referencing external data (such as tickets, ancillary locations  e.g. parking, etc). Our goal is to put together a CalConnect white paper outlining best practices for publishing calendar data either directly to end users or on the web.
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

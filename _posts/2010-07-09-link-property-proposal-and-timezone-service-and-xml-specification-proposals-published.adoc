@@ -18,7 +18,7 @@ The TIMEZONE Technical Committee has published _Timezone Service Protocol_ and _
 
 CalConnect Proposals are experimental specifications which may be submitted to the IETF or other standards bodies for progression to become standards.&nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

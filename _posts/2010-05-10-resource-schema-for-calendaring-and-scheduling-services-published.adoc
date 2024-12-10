@@ -16,7 +16,7 @@ TC RESOURCE has published its __Schema for representing resources for calendarin
 
 CalConnect Proposals are experimental specifications which may be submitted to the IETF or other standards bodies for progression to become standards.
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

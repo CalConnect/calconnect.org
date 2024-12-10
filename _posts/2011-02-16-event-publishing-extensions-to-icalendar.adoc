@@ -14,7 +14,7 @@ Posted February 16, 2011
 
 The EVENTPUB Technical Committee has published a new CalConnect proposal, link://CD1101%20Eventpub%20iCalendar%20Extensions.shtml[Event Publishing Extensions to iCalendar]. The proposal&nbsp;has been submitted to the IETF as an Internet Draft.&nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

@@ -35,7 +35,7 @@ _These sessions will discuss how recurrences can be implemented for non-Gregoria
 *1145-1230 Sending invitations through other means than e-mail* +
 _E-mail is often not the primary vehicle for messaging among people Instant messaging and other services should be considered as a way to deliver invitations and notifications. New mime types are a possible solution._
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 
