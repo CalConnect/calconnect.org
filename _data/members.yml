@@ -1,91 +1,91 @@
 ---
 - name: Apple Inc.
   url: http://www.apple.com
-  logo: /assets/images/Apple%20Inc.png
+  logo: /assets/images/logo_apple.png
   type: corporate
 - name: audriga
   url: https://www.audriga.com
-  logo: /assets/images/audriga.svg
+  logo: /assets/images/logo_audriga.svg
   type: corporate
 - name: Bedework Commercial Services
   url: https://www.bedework.com
-  logo: /assets/images/bcs.png
+  logo: /assets/images/logo_bcs.png
   type: corporate
 - name: Burbio
   url: http://www.burbio.com
-  logo: /assets/images/burbiologo.png
+  logo: /assets/images/logo_burbiologo.png
   type: corporate
 - name: CalDav Synchronizer
   url: https://caldavsynchronizer.org
-  logo: /assets/images/cdsyncronizer.png
+  logo: /assets/images/logo_cdsyncronizer.png
   type: corporate
 - name: Cronofy
   url: https://www.cronofy.com
-  logo: /assets/images/cronofy_logo.svg
+  logo: /assets/images/logo_cronofy.svg
   type: corporate
 - name: DHL Express
   url: http://www.dhl.com
-  logo: /assets/images/dhl_logo.svg
+  logo: /assets/images/logo_dhl.svg
   type: corporate
 - name: Fastmail
   url: http://www.fastmail.com
-  logo: /assets/images/fast_mail.svg
+  logo: /assets/images/logo_fastmail.svg
   type: corporate
 - name: Google, Inc.
   url: http://www.google.com
-  logo: /assets/images/google2018.png
+  logo: /assets/images/logo_google.png
   type: corporate
 - name: HeyLife
   url:
-  logo: /assets/images/HeyLife.png
+  logo: /assets/images/logo_heylife.png
   type: corporate
 - name: Jorte
   url: http://www.jorte.com/en
-  logo: /assets/images/jorte_logo.png
+  logo: /assets/images/logo_jorte.png
   type: corporate
 - name: M3AAWG - Messaging Malware Mobile Anti-Abuse Working Group
   url: https://www.m3aawg.org/
-  logo: /assets/images/M3AAWG.png
+  logo: /assets/images/logo_M3AAWG.png
   type: corporate
 - name: Marketcircle
   url: https://www.marketcircle.com
-  logo: /assets/images/Marketcircle.png
+  logo: /assets/images/logo_marketcircle.png
   type: corporate
 - name: OASIS - Organization for the Advancement of Structured Information Systems
   url: http://www.oasis-open.org
-  logo: /assets/images/oasis-logo.jpg
+  logo: /assets/images/logo_oasis.jpg
   type: corporate
 - name: Open-Xchange
   url: http://www.open-xchange.com
-  logo: /assets/images/open-xchange.png
+  logo: /assets/images/logo_open_xchange.png
   type: corporate
 - name: Ribose Inc.
   url: http://www.ribose.com
-  logo: /assets/images/ribose_120.jpg
+  logo: /assets/images/logo_ribose.jpg
   type: corporate
 - name: SchedJoules
   url: http://schedjoules.com
-  logo: /assets/images/schedjoules.png
+  logo: /assets/images/logo_schedjoules.png
   type: corporate
 - name: The University of California
   url: http://www.universityofcalifornia.edu/
-  logo: /assets/images/universityofcalifornia.gif
+  logo: /assets/images/logo_universityofcalifornia.gif
   type: corporate
 - name: Thunderbird
   url: https://www.thunderbird.net
-  logo: /assets/images/thunderbird.svg
+  logo: /assets/images/logo_thunderbird.svg
   type: corporate
 - name: Yahoo!
   url: https://www.yahoo.com
-  logo: /assets/images/Yahoo.svg
+  logo: /assets/images/logo_yahoo.svg
   type: corporate
 - name: Youcanbook.me
   url: http://www.youcanbook.me
-  logo: /assets/images/youcanbookme.svg
+  logo: /assets/images/logo_youcanbookme.svg
   type: corporate
 - name: Zimbra
   url: http://www.zimbra.com
-  logo: /assets/images/zimbra1.png
+  logo: /assets/images/logo_zimbra.png
   type: corporate
 - name: Elie Roux
   url:
