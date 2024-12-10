@@ -18,7 +18,7 @@ As ActiveSync is broadly implemented upon mobile devices, many of which support 
 
 Microsoft is a member of CalConnect, and we have in the past conducted ActiveSync-based interoperability testing between multiple servers and devices using ActiveSync. While CalConnect is unlikely to figure as part of the EAS program, we expect that our interoperability testing and link://publications/mobilecalendartestsuitev1.1.pdf[Mobile Calendaring Interoperability Test Suite] will provide a useful adjunct to EAS participants in the futre in validating their complex calendaring interactions. &nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

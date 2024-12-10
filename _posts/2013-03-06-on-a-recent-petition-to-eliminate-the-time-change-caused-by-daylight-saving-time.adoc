@@ -35,7 +35,7 @@ A change to the DST rules today would have a far broader effect than five years 
 
 Within CalConnect, after EDST went into effect we realized that much of the impact of the change was due to actual timezone definition data being resident in systems. In link:/docs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf[EDST Reflections and Recommendations], published in April of 2007, we offered some recommendations. Much of our subsequent focus in the area of timezones has been towards a http://tools.ietf.org/html/draft-douglass-timezone-service/[Timezone Service protocol], which would allow systems and devices connected to the internet, calendaring and others, to obtain timezone information when needed rather than having it embedded in the systems themselves, and thus would not have to be modified to accommodate changes in DST definitions. Whether such a protocol can be in widespread use in time for any future DST change is questionable, but ultimately the adoption of such a mechansim will go a long way towards shielding users from the effects of DST transition changes.
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

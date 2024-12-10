@@ -18,7 +18,7 @@ The goal of this TC is to better protect users from receiving undesired informat
 
 More information about TC CALSPAM may be found at https://github.com/CalConnect/CALSPAM/blob/master/readme.md[Charter].
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

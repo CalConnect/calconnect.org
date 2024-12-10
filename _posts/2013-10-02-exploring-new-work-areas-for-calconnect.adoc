@@ -38,7 +38,7 @@ The Itinerary Ad Hoc was established at a previous Roundtable and has been explo
 
 *A PUSH notification is a signal from a server to a client that data has changed on the server, probably due to some activity not directly caused by the client receiving the push notification. Push notifications can provide an immediate signal that data has changed on the server, and thus avoid the need for clients to regularly poll the server looking for changes. This provides an overall better user experience, as well as potentially reducing server loads and lowering client power usage. &nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

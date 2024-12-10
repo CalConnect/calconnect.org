@@ -18,7 +18,7 @@ This specification introduces a new iCalendar component (VPOLL) which allows f
 
 Consensus Scheduling is the subject of a workshop at CalConnect XXVI next week: https://calconnect.wordpress.com/2012/12/13/calconnect-consensus-scheduling-workshop-january-30-2013-at-calconnect-roundtable-xxvi/[Consensus Scheduling Workshop at CalConnect XXVI]. For more about Consensus Scheduling, see also link://7_things_consensus_scheduling.shtml[7 Things You Should Know About Consensus Scheduling].
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

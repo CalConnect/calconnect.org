@@ -28,7 +28,7 @@ The full advisory notice can be found at
 . application/pdf
 image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC Adv EU DST Advisory Notice.pdf]
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

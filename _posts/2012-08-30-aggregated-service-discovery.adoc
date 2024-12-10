@@ -32,7 +32,7 @@ Consider a new employee at Widget Enterprises. The employee needs to configu
 This protocol is intended to allow discovery of services based on internet standard protocols, and should be based on existing technology and protocols to the extent possible, to ease the adoption of the new autodiscovery mechanism by developers.&nbsp;
 ____
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

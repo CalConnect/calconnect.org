@@ -24,7 +24,7 @@ Clients were tested in part to see what the effect on them would be of receiving
 
 We will expand our timezone service protocol in TC TIMEZONE over the next months, and we expect additional implementations and testing at the next Interoperability Test Event in Prague this October.&nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

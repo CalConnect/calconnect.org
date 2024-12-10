@@ -14,7 +14,7 @@ Posted April 21, 2010
 
 Doug Day has provided an iCalendar Validator which will validate calendaring data against the iCalendar (RFC 5545) standard. See http://icalvalid.cloudapp.net/[].&nbsp;
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

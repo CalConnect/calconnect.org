@@ -20,7 +20,7 @@ TC PUSH will define methods to advertise/discover PUSH protocols supported by a 
 
 See more about TC PUSH and its Charter and proposed deliverables at link://tc-push.shtml[].
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

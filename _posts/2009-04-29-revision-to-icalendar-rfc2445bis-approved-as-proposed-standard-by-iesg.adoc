@@ -18,7 +18,7 @@ The approved version of RFC 2445bis may be found at http://www.ietf.org/internet
 
 A complete list of all changes from RFC 2445 to the bis version may be found at http://tools.ietf.org/wg/calsify/draft-ietf-calsify-rfc2445bis/draft-ietf-calsify-rfc2445bis-10.changes.html[].
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 

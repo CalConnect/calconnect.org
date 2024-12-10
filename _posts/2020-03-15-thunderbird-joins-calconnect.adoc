@@ -15,7 +15,7 @@ image::link:/assets/images/thunderbird-logo.png[Thunderbird,220,217]
 
 CalConnect welcomes https://www.thunderbird.net[Thunderbird], developer of the Thunderbird mail and calendar client.&nbsp; The Thunderbird project is now operating from MZLA Technologies Corporation in Mountain View, California, and is a wholly owned subsidiary of the Mozilla Foundation:&nbsp; https://blog.thunderbird.net/2020/01/thunderbirds-new-home/
 
-https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
 
 Categories:&nbsp;
 
