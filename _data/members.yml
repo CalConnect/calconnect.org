@@ -5,7 +5,7 @@
   type: corporate
 - name: audriga
   url: https://www.audriga.com
-  logo: /assets/images/audriga.png
+  logo: /assets/images/audriga.svg
   type: corporate
 - name: Bedework Commercial Services
   url: https://www.bedework.com
@@ -21,7 +21,7 @@
   type: corporate
 - name: Cronofy
   url: https://www.cronofy.com
-  logo: /assets/images/cronofy_logo.png
+  logo: /assets/images/cronofy_logo.svg
   type: corporate
 - name: DHL Express
   url: http://www.dhl.com
