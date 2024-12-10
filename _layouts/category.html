@@ -2,7 +2,12 @@
 layout: page
 ---
 
-<h2>{{ page.title | replace: '-', ' ' | pretty }}</h2>
+<h2>
+    {% assign words = page.title | replace: '-', ' ' | split: ' ' %}
+    {% for word in words %}
+      {{ word | capitalize }}
+    {% endfor %}
+</h2>
 
 <!-- Retrieve and sort posts by 'revdate' in descending order -->
 {% assign sorted_posts = page.posts | sort: 'revdate' %}
