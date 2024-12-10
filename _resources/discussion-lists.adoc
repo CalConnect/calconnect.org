@@ -22,7 +22,7 @@ archives are publicly available even for closed public lists._
 
 == Calendar and Scheduling Developer List
 
-URL: link:discussion-lists/developers-list[Calendar and Scheduling Developer List]
+URL: link:{{'/resources/discussion-lists/developers-list' | relative_url }}[Calendar and Scheduling Developer List]
 
 CalConnect has implemented this public discussion list, intended for
 discussion on calendaring and scheduling developers' issues and
@@ -54,7 +54,7 @@ all participants that agree to and adhere to the rules of use.
 
 == Public Review and Comment List
 
-link:discussion-lists/public-review-and-comment[Public Review and Comment List]
+URL: link:{{'/resources/:discussion-lists/public-review-and-comment' | relative_url}}[Public Review and Comment List]
 
 Completed CalConnect documents, including CalConnect Standards, are published
 and made generally available via the

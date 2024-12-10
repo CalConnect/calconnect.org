@@ -21,11 +21,12 @@ formed in non-technical areas.
 [#BoD]
 == Board of Directors
 
-The link:{{'/about/board-directors' | relative_url }}[Board of Directors] consists of up to
-seven elected  Directors which may be but need not be representatives of
-CalConnect Members. The Board is responsible for the governance of The
-Calendaring and Scheduling Consortium, Inc. (that is, the corporation
-itself) in accordance with the http://calconnect.org/bylaws.pdf[Bylaws].
+The link:{{'/about/board-directors' | relative_url }}[Board of Directors]
+consists of up to seven elected  Directors which may be but need not be
+representatives of CalConnect Members. The Board is responsible for the
+governance of The Calendaring and Scheduling Consortium, Inc. (that is, the
+corporation itself) in accordance with the
+link:{{'/docs/bylaws.pdf' | relative_url}}[Bylaws].
 
 [#BOF]
 == BOF

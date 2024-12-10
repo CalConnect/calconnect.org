@@ -22,7 +22,7 @@ for more information about CalConnect licenses.
 
 === Schemas
 
-==== link:code-artifacts/icalendar-xml-schema[*iCalendar in XML Schema*]
+Details: link:{{'/code-artifacts/icalendar-xml-schema' | relative_url}}[*iCalendar in XML Schema*]
 
 This schema set is intended to provide a full, accurate and extensible
 schema for iCalendar (RFC 5545) as embodied in xCal: iCalendar in XML

@@ -19,7 +19,7 @@ mailto:info@calconnect.org?subject=Getting%20Started%20comments[Comments on Gett
 
 == Getting started at the CalConnect interoperability test event
 
-Details: link:getting-started/interop[Getting Started at the CalConnect Interoperability Test Event]
+Details: link:{{'/resources/getting-started/interop' | relative_url}}[Getting Started at the CalConnect Interoperability Test Event]
 
 This page is intended for individuals who have not previously
 participated in (or observed) an Interoperability Test Event (also
@@ -29,7 +29,7 @@ to maximize the value of your participation.
 
 == Getting started at the CalConnect conference
 
-Details: link:getting-started/conference[Getting Started at the CalConnect Conference]
+Details: link:{{'/resources/getting-started/conference' | relative_url}}[Getting Started at the CalConnect Conference]
 
 This page is intended for individuals who have not attended a CalConnect
 Conference, sometimes just called the Conference. Its purpose is to
@@ -38,7 +38,7 @@ expect and how to maximize the value of your participation.
 
 == Getting started with CalDAV and CardDAV
 
-Details: link:getting-started/caldav-and-carddav[Starter List of CalDAV and CardDAV Standards and Specifications]
+Details: link:{{'/resources/getting-started/caldav' | relative_url}}-and-carddav[Starter List of CalDAV and CardDAV Standards and Specifications]
 
 This has been renamed "Starter List of CalDAV and CardDAV Standards and
 Specifications" to more accurately reflect its contents. The link above
