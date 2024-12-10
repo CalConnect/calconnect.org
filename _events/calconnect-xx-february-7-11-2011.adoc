@@ -13,7 +13,7 @@ image: /assets/images/UCBerkeley.jpg
 CalConnect Roundtable XX - 9-11 February
 
 [[intro]]
-image:/assets/images/UCBerkeley.jpg[The
+image:{{'/assets/images/UCBerkeley.jpg' | relative_url }}[The
 University of California, Berkeley,width=800,height=590]
 
 [.date-display-range]#[.date-display-start]#Monday, February 07, 2011#

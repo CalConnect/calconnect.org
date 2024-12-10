@@ -13,7 +13,7 @@ CalConnect Roundtable XXVII - June 5-7
 
 
 [[intro]]
-image:/assets/images/UWiscMadison.jpg[The
+image:{{'/assets/images/UWiscMadison.jpg' | relative_url }}[The
 University of Wisconsin, Madison,width=604,height=453]
 
 [.date-display-range]#[.date-display-start]#Monday, June 03, 2013# to

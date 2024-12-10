@@ -12,7 +12,7 @@ image: /assets/images/cologne.jpg
 CalConnect Conference - Wednesday-Friday
 
 [[intro]]
-image:/assets/images/cologne.jpg[CalConnect
+image:{{'/assets/images/cologne.jpg' | relative_url }}[CalConnect
 XL in Cologne, Germany, September 25-29, 2017, hosted by
 Open-Xchange,width=741,height=576]
 
@@ -55,9 +55,9 @@ and will run through Thursday and Friday.
 
 *Test Event and Developers Forum:* Open to both members and non-members
 as participants or as
-link://events/observers[observers];
+link:{{'//events/observers' | relative_url}}[observers];
 please see
-link:/events/calconnect-xl-september-25-29-2017#test-schedule[Test
+link:{{'/events/calconnect-xl-september-25-29-2017#test-schedule' | relative_url}}[Test
 Event]  for both basic  information about the event and for the schedule
 and agenda  (this will be developed gradually over the summer, so check
 back periodically).
@@ -88,7 +88,7 @@ http://href=%22http://www.germany-visa.org[German VISA Information].
 Registration Information 
 
 Registration is now open for CalConnect XL; please see
-link:/events/event-registration-payment[Registration Page]
+link:{{'/events/event-registration-payment' | relative_url}}[Registration Page]
 for the developers forum/test event and/or the conference. Note that you
 must register separately for the forum/test event and for the
 conference, however you may request a single invoice and payment.
@@ -315,7 +315,7 @@ work on basic set of tests at event
 
  
 
-==== Please see the Reading List for the event at link:/resources/event-reading-list[Event Reading List].  The list contains URLs to all standards, drafts and specifications to be discussed or tested.
+==== Please see the Reading List for the event at link:{{'/resources/event-reading-list' | relative_url}}[Event Reading List].  The list contains URLs to all standards, drafts and specifications to be discussed or tested.
 
 ==== Baseline Testing 
 
@@ -378,7 +378,7 @@ CalConnect members receive a substantial discount on their
 Interoperability Test Event registration fee.
 
 Any vendor or organization wishing to
-link:/events/observers [oberve][observe]
+link:{{'/events/observers [oberve]' | relative_url}}[observe]
 the Interoperability Test Event is welcome whether or not they are a
 CalConnect. Note that an organization, member or not, may only observe
 one Test Event. 
@@ -386,7 +386,7 @@ one Test Event.
 ==== Registration
 
 Please see
-link:/events/interoperability-test-events/participation-and-observer-fees[CalConnect
+link:{{'/events/interoperability-test-events/participation-and-observer-fees' | relative_url}}[CalConnect
 Interoperability Test Event Registration Fees] for information about
 event registration fees. Please choose one of the following registration
 methods:
@@ -395,10 +395,10 @@ methods:
 Interoperability Test Event Participant Registration]: Register one to
 six people as participants for the CalConnect Interoperability Test
 Event, with a choice of payment options.
-* link:/events/event-registration-payment[CalConnect
+* link:{{'/events/event-registration-payment' | relative_url}}[CalConnect
 Interoperability Test Event Observer Registration]: Register one to six
 people
-as link:/events/observers [oberve][observers] for
+as link:{{'/events/observers [oberve]' | relative_url}}[observers] for
 the CalConnect Interoperability Test Event.
 
 ==== Interoperability Event Scenarios

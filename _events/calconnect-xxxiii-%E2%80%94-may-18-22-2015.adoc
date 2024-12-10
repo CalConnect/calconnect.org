@@ -12,7 +12,7 @@ image: /assets/images/Bucharest.jpg
 CalConnect Conference - Wednesday-Friday
 
 [[intro]]
-image:/assets/images/Bucharest.jpg[Skytower
+image:{{'/assets/images/Bucharest.jpg' | relative_url }}[Skytower
 in Bucharest, Romania,width=800,height=420]
 
 Skytower in Bucharest, Romania

@@ -12,7 +12,7 @@ image: /assets/images/Amsterdam.jpg
 CalConnect Conference - Wednesday-Friday
 
 [[intro]]
-image:/assets/images/Amsterdam.jpg[Amsterdam,
+image:{{'/assets/images/Amsterdam.jpg' | relative_url }}[Amsterdam,
 The Netherlands,width=800,height=531]
 
 CalConnect XXXIV in Amsterdam, The Netherlands

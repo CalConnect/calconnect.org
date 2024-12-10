@@ -12,7 +12,7 @@ image: /assets/images/UCIrvine_0.jpg
 CalConnect Conference - Wednesday-Friday
 
 [[intro]]
-image:/assets/images/UCIrvine_0.jpg[University
+image:{{'/assets/images/UCIrvine_0.jpg' | relative_url }}[University
 of California, Irvine,width=800,height=600]
 
 CalConnect XXXVIII, February 13-17, 2017 - University of California,
@@ -50,9 +50,9 @@ http://www.uci.edu[University of California&#44; Irvine].
 
 *Developers' Forum and Interoperability Test Event*: The Developers'
 Forums are open to both members and non-members as participants or
-as link:/events/observers [oberve][observers];
+as link:{{'/events/observers [oberve]' | relative_url}}[observers];
 please see
-link:/events/calconnect-xxxviiI-february%2013-17-2017#test-schedule[Test
+link:{{'/events/calconnect-xxxviiI-february%2013-17-2017#test-schedule' | relative_url}}[Test
 Event] for both basic  information about the event and for the schedule
 and agenda  (this will be developed gradually, so check back
 periodically).
@@ -67,7 +67,7 @@ decisions._
 technical and higher-level topics, informal BOFs (Birds of a Feather
 sessions), plus additional sessions and committee meetings. All
 attending member representatives
-and link:/events/observers [oberve][observers] are
+and link:{{'/events/observers [oberve]' | relative_url}}[observers] are
 welcome.
 
 The last session on Friday afternoon will be the full Plenary meeting of
@@ -307,7 +307,7 @@ website
 * Preparation for Calendar Spam session
 * Recommendations on alternative to Titanpad
 
-==== Please see the Reading List for the Developer's Forum at link:/resources/event-reading-list[Event Reading List]
+==== Please see the Reading List for the Developer's Forum at link:{{'/resources/event-reading-list' | relative_url}}[Event Reading List]
 
 ==== Baseline Testing 
 
@@ -370,7 +370,7 @@ non-members pay a 25% surchange on the Interoperability Test Event
 registration fee.
 
 Any vendor or organization wishing to
-link:/events/observers [oberve][observe]
+link:{{'/events/observers [oberve]' | relative_url}}[observe]
 the Interoperability Test Event is welcome whether or not they are a
 CalConnect. Note that an organization, member or not, may only observe
 one Test Event. 
@@ -378,19 +378,19 @@ one Test Event.
 ==== Registration
 
 Please see
-link:/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect
+link:{{'/events/events-activities/interoperability-test-events/participation-and-observer-fees' | relative_url}}[CalConnect
 Interoperability Test Event Registration Fees] for information about
 event registration fees. Please choose one of the following registration
 methods:
 
-* link:/events/event-registration-payment [Registration]/interop-participant-registration[CalConnect
+* link:{{'/events/event-registration-payment [Registration]/interop-participant-registration' | relative_url}}[CalConnect
 Interoperability Test Event Participant Registration]: Register one to
 six people as participants for the CalConnect Interoperability Test
 Event, with a choice of payment options.
-* link:/events/event-registration-payment [Registration]/interop-observer-registration[CalConnect
+* link:{{'/events/event-registration-payment [Registration]/interop-observer-registration' | relative_url}}[CalConnect
 Interoperability Test Event Observer Registration]: Register one to six
 people
-as link:/events/observers [oberve][observers] for
+as link:{{'/events/observers [oberve]' | relative_url}}[observers] for
 the CalConnect Interoperability Test Event.
 
 ==== Interoperability Event Scenarios

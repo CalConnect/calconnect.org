@@ -8,7 +8,7 @@ image: /assets/images/BedfordUK_0.jpg
 
 == CalConnect XLV - June 3-7, 2019
 
-image::/assets/images/BedfordUK_0.jpg[]
+image::{{'/assets/images/BedfordUK_0.jpg' | relative_url }}[]
 
 == Event Details
 - *Dates:* Monday, June 03, 2019 – Friday, June 07, 2019
@@ -27,7 +27,7 @@ image::/assets/images/BedfordUK_0.jpg[]
 == Introduction
 CalConnect XLV will be held in Bedford, United Kingdom, the week of June 3-7 2019, hosted by You Can Book Me.  In addition to our regular conference  Monday-Thursday, we will have an open format working day on Friday at a different location.
 
-The conference will be Monday-Thursday June 3-6 at the event venue (Bedford Centre Hotel).  This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions.  CalConnect XLV is open to members, and to non-members as observers.  You must register in advance and pay the registration fee for the conference. Please register for the conference at link:/events/event-registration-payment[Registration Page].
+The conference will be Monday-Thursday June 3-6 at the event venue (Bedford Centre Hotel).  This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions.  CalConnect XLV is open to members, and to non-members as observers.  You must register in advance and pay the registration fee for the conference. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url}}[Registration Page].
 
 Interoperability Testing at CalConnect XLV:  We will contact all those who register for CalConnect XLV as to their testing interests.  There will be time scheduled Monday morning to initiate testing plans and agree on partners. 
 
@@ -39,7 +39,7 @@ At this time (late March 2019) Citizens of the United States, European Union nat
 HOWEVER the situation with the U.K. regarding international travel is currently fluid due to the possibility of "Brexit" which may take place prior to our event.  We will provide more current information as soon as possible after any event affecting international travel and will announce it on this web page and to the CalConnect membership. 
 
 == Registration Information
-Registration is now open for CalConnect XLV; please see link:/events/event-registration-payment[Registration Page] to register.  There is only one registration and one payment per person for the entire event.
+Registration is now open for CalConnect XLV; please see link:{{'/events/event-registration-payment' | relative_url}}[Registration Page] to register.  There is only one registration and one payment per person for the entire event.
 
 == Location and Attractions
 CalConnect XLV will take place June 3-7 2019 at the Bedford Centre Hotel, 2 St. Mary's lane, Bedford, United Kingdom.  Signs to the meeting room will be posted at the hotel. 
@@ -220,7 +220,7 @@ CalConnect.
 Liaisons +
 _Update on CalConnect standards activities and liaisons with external
 SDOs. 
-link:/about/liaisons-and-relationships[[.small]#_https://www.calconnect.org/about/liaisons-and-relationships_#] 
+link:{{'/about/liaisons-and-relationships[' | relative_url}}[.small]#_https://www.calconnect.org/about/liaisons-and-relationships_#] 
 https://datatracker.ietf.org/wg/calext/documents/[[.small]#_https://datatracker.ietf.org/wg/calext/documents/_#]_#
 
 |[.small]#1030-1100# |[.small]#Break and Refreshments#

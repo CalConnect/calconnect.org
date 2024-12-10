@@ -13,7 +13,7 @@ Public Workshop Introduction to Calendaring and to Scheduling - Wednesday aftern
 CalConnect Conference - Wednesday-Friday
 
 [[intro]]
-image:/assets/images/Seattle.jpg[Seattle,
+image:{{'/assets/images/Seattle.jpg' | relative_url }}[Seattle,
 WA,width=800,height=416]
 
 CalConnect XXXIX in Seattle, June 12-16 2017, Hosted by Tandem
@@ -54,9 +54,9 @@ https://www.tandemcal.com/[Tandem].
 *Developers' Forum and Interoperability Test Event*: The Developers'
 Forums and Test Events are open to both members and non-members as
 participants or as
-link:/events/observers [oberve][observers];
+link:{{'/events/observers [oberve]' | relative_url}}[observers];
 please see
-link:/events/clone-calconnect-xxxix-june-12-16-2017#test-schedule[Test
+link:{{'/events/clone-calconnect-xxxix-june-12-16-2017#test-schedule' | relative_url}}[Test
 Event] for basic  information about the event and for the schedule and
 agenda  (this will be developed gradually, so check back periodically).
 
@@ -67,7 +67,7 @@ development, especially in identifying red herrings and wrong
 decisions._
 
 *Public Workshop:* A
-link:/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle[public
+link:{{'/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle' | relative_url}}[public
 workshop&#44; Introduction to Calendaring and to Scheduling], Wednesday
 afternoon 14 June from 14:00 to 18:00.
 
@@ -75,7 +75,7 @@ afternoon 14 June from 14:00 to 18:00.
 technical and higher-level topics, informal BOFs (Birds of a Feather
 sessions), plus additional sessions and committee meetings. All
 attending member representatives and
-link:/events/observers [oberve][observers]
+link:{{'/events/observers [oberve]' | relative_url}}[observers]
 are welcome.
 
 The last session on Friday afternoon will be the full Plenary meeting of
@@ -268,7 +268,7 @@ include
 * XCAL
 
 Please see the Reading List for the Developer's Forum at
-link:/resources/event-reading-list[Event Reading List]
+link:{{'/resources/event-reading-list' | relative_url}}[Event Reading List]
 
 ==== Baseline Testing 
 
@@ -331,7 +331,7 @@ non-members pay a 25% surchange on the Interoperability Test Event
 registration fee.
 
 Any vendor or organization wishing to
-link:/events/observers [oberve][observe]
+link:{{'/events/observers [oberve]' | relative_url}}[observe]
 the Interoperability Test Event is welcome whether or not they are a
 CalConnect. Note that an organization, member or not, may only observe
 one Test Event. 
@@ -339,19 +339,19 @@ one Test Event.
 ==== Registration
 
 Please see
-link:/events/interoperability-test-events/participation-and-observer-fees[CalConnect
+link:{{'/events/interoperability-test-events/participation-and-observer-fees' | relative_url}}[CalConnect
 Interoperability Test Event Registration Fees] for information about
 event registration fees. Please choose one of the following registration
 methods:
 
-* link:/events/event-registration-payment [Registration]/interop-participant-registration[CalConnect
+* link:{{'/events/event-registration-payment [Registration]/interop-participant-registration' | relative_url}}[CalConnect
 Interoperability Test Event Participant Registration]: Register one to
 six people as participants for the CalConnect Interoperability Test
 Event, with a choice of payment options.
-* link:/events/event-registration-payment [Registration]/interop-observer-registration[CalConnect
+* link:{{'/events/event-registration-payment [Registration]/interop-observer-registration' | relative_url}}[CalConnect
 Interoperability Test Event Observer Registration]: Register one to six
 people
-as link:/events/observers [oberve][observers] for
+as link:{{'/events/observers [oberve]' | relative_url}}[observers] for
 the CalConnect Interoperability Test Event.
 
 ==== Interoperability Event Scenarios
@@ -386,7 +386,7 @@ _Welcome, Logistics, Introductions_# |
 |[.small]#1400-1530# |[.small]#Public Workshop - Introduction to
 Calendaring and to Scheduling +
 _Please see
-link:/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle[Public
+link:{{'/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle' | relative_url}}[Public
 Workshop at CalConnect XXXIX] for details._# |
 
 |[.small]#1530-1600# |[.small]#Break and Refreshments# |

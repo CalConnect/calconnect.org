@@ -8,7 +8,7 @@ image: /assets/images/CalConnectEventTBD_0.jpg
 
 == Upcoming Virtual Events Planned
 
-image::/assets/images/CalConnectEventTBD_0.jpg[]
+image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[]
 
 CalConnect will host some one or two day virtual events on specific topics. Any suggestions on appropriate topics are welcome. We have currently in mind:
 

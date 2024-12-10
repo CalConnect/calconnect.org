@@ -12,7 +12,7 @@ image: /assets/images/Chattanooga.jpg
 CalConnect Roundtable Technical Conference - 3-5 October
 
 [[intro]]
-image:/assets/images/Chattanooga.jpg[Zürich,
+image:{{'/assets/images/Chattanooga.jpg' | relative_url }}[Zürich,
 Switzerland,width=800,height=566]
 
 [.date-display-range]#[.date-display-start]#Monday, October 01, 2012# to

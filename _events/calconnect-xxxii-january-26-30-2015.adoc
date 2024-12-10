@@ -13,7 +13,7 @@ CalConnect 10th Anniversary Celebration - Wednesday +
 CalConnect Conference - Thursday-Friday
 
 [[intro]]
-image:/assets/images/SanJoseCA.jpg[San
+image:{{'/assets/images/SanJoseCA.jpg' | relative_url }}[San
 Jose, California,width=800,height=600]
 
 [.date-display-range]#[.date-display-start]#Monday, January 26, 2015# to

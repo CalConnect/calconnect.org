@@ -13,7 +13,7 @@ CalConnect Roundtable XVI - 7-9 October
 
 
 [[intro]]
-image:/assets/images/AppleCupertino_0.jpg[Apple,
+image:{{'/assets/images/AppleCupertino_0.jpg' | relative_url }}[Apple,
 Inc., Cupertino, California,width=800,height=557]
 
 [.date-display-range]#[.date-display-start]#Monday, October 05, 2009# to

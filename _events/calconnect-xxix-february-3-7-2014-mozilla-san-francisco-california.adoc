@@ -12,7 +12,7 @@ image: /assets/images/SanFranciscoCA.jpg
 CalConnect Roundtable Technical Conference XXIX - February 5-7
 
 [[intro]]
-image:/assets/images/SanFranciscoCA.jpg[San
+image:{{'/assets/images/SanFranciscoCA.jpg' | relative_url }}[San
 Francisco, CA,width=800,height=564]
 
 [.date-display-range]#[.date-display-start]#Monday, February 03, 2014#

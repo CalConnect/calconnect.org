@@ -12,7 +12,7 @@ image: /assets/images/DHLPrague.jpg
 CalConnect Roundtable XXVIII - September 25-27
 
 [[intro]]
-image:/assets/images/DHLPrague.jpg[DHL
+image:{{'/assets/images/DHLPrague.jpg' | relative_url }}[DHL
 Prague,width=550,height=366]
 
 [.date-display-range]#[.date-display-start]#Monday, September 23, 2013#

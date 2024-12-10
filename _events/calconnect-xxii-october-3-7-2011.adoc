@@ -12,7 +12,7 @@ image: /assets/images/Prague.jpg
 CalConnect Roundtable Technical Conference - 5-7 October
 
 [[intro]]
-image:/assets/images/Prague.jpg[Prague,
+image:{{'/assets/images/Prague.jpg' | relative_url }}[Prague,
 Czech Republic,width=800,height=533]
 
 [.date-display-range]#[.date-display-start]#Monday, October 03, 2011# to

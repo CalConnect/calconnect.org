@@ -13,7 +13,7 @@ Wednesday, April 20, 2016 - All Day
 
 ==== About the Event
 
-image:/assets/images/public_day_logo_0.jpg[https://www.calconnect.org/sites/default/files/events/public_day_logo_0, width=800, height=464]
+image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[width=800, height=464]
 
 On behalf of our conference hosts – Hong Kong’s Office of the Government Chief Information Officer and Hong Kong-based Ribose – CalConnect invites you to attend our all-day event at the Hong Kong International ITFest on April 20th, 2016. The event will be held at the Hong Kong Convention and Exhibition Centre.
 
@@ -35,11 +35,12 @@ Hong Kong Convention and Exhibition Centre +
 1 Harbour Road, Wan Chai, Hong Kong +
 Wednesday, April 20, 2016
 
-[https://www.hkcec.com/sites/all/themes/hkcec/templates/venue_panorama/HKCEC_s221/S221.html[View Meeting Room S221]]
+https://www.hkcec.com/sites/all/themes/hkcec/templates/venue_panorama/HKCEC_s221/S221.html[View Meeting Room S221]
 
 === Registration Information
 
-Registration is available on the IT Fest website: +
+Registration is available on the IT Fest website:
+
 http://www.itfest.hk/template?series=2&id=141&lang=en[Register Here]
 
 === Sponsors and Hosts

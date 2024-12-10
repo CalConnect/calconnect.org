@@ -12,7 +12,7 @@ image: /assets/images/OracleRedwoodShores.jpg
 CalConnect Roundtable XV - 3-5 June
 
 [[intro]]
-image:/assets/images/OracleRedwoodShores.jpg[Oracle,
+image:{{'/assets/images/OracleRedwoodShores.jpg' | relative_url }}[Oracle,
 Redwood Shores, California,width=800,height=534]
 
 [.date-display-range]#[.date-display-start]#Monday, June 01, 2009# to

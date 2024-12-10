@@ -27,7 +27,7 @@ CalConnect XIII is composed of two key events:
 - *Fee:* 
   - IOP Test Event: $395
   - Roundtable: $395
-- *Details & Registration:* link:/events/event-registration-payment[Registration Page]
+- *Details & Registration:* link:{{'/events/event-registration-payment' | relative_url}}[Registration Page]
 
 == Location and Attractions
 *Venue:*

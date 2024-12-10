@@ -9,7 +9,7 @@ image: /assets/images/Karlsruhe.jpg
 == CalConnect XLIII - September 24-27, 2018
 
 [[intro]]
-image:/assets/images/Karlsruhe.jpg[https://www.calconnect.org/sites/default/files/events/Karlsruhe,width=656,height=305]
+image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Karlsruhe,width=656,height=305]
 
 CalConnect XLIII in Karlsruhe, Germany, hosted by 1&1
 

@@ -13,7 +13,7 @@ image: /assets/images/Zurich.jpg
 CalConnect Roundtable Technical Conference - 3-5 October
 
 [[intro]]
-image:/assets/images/Zurich.jpg[Zürich,
+image:{{'/assets/images/Zurich.jpg' | relative_url }}[Zürich,
 Switzerland,width=800,height=566]
 
 [.date-display-range]#[.date-display-start]#Monday, October 01, 2012# to

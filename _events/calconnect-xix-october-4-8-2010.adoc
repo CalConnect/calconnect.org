@@ -12,12 +12,12 @@ image: /assets/images/CalConnectEventTBD_0.jpg
 CalConnect Roundtable XIX - 6-8 October
 
 [[intro]]
-image:/assets/images/CalConnectEventTBD_0.jpg[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0,width=800,height=530]
+image:{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[width=800,height=530]
 
 [.date-display-range]#[.date-display-start]#Monday, October 04, 2010# to
 [.date-display-end]#Friday, October 08, 2010##
 
-Recent Changes: 
+Recent Changes:
 
 *Information is current through September 17, 2010* +
 _Exchanged FREEBUSY and USECASE Sessions_
@@ -63,7 +63,7 @@ open to all participants. This session will include report-outs from all
 Technical Committees, and establishment of future goals and directions
 for the Consortium.
 
-International Visitors 
+International Visitors
 
 International visitors who are not U.S. Citizens or hold a valid U.S.
 passport should acquaint themselves with any changes in U.S. travel and
@@ -78,19 +78,19 @@ Invitation can be issued. +
 Please be aware that Boston Logan is an International Airport and offers
 direct arrivals from and departures to international locations.
 Manchester is a regional airport and does not offer customs and
-immigration services.  
+immigration services.
 
 [[registration]]
-Registration Information 
+Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment
 Options] to choose your registration type and payment option for the
 Roundtable and/or the CalConnect Interoperability Test Events. Note that
 you must register separately for the Roundtable and for the Test
-Events.You may register at any time for the next events. 
+Events.You may register at any time for the next events.
 
 [[location]]
-Location 
+Location
 
 The Interoperability Test Event and the Roundtable will take place at
 the IBM/Lotus campus at 550 King Street, Littleton, Massachusetts. We
@@ -109,10 +109,10 @@ are no dedicated or reserved parking areas. +
 *Hotel Shuttles and Walking:* The hotels do not have shuttles, and are a
 bit more than 2 miles from the IBM building. This means that walking is
 doable but a bit more than people may want to undertake. Carpooling with
-those who have autos is probably the best alternative. 
+those who have autos is probably the best alternative.
 
 [[transportation]]
-Transportation 
+Transportation
 
 *Airport Information:* Littleton is served by both Boston's
 http://www.massport.com/logan/[Boston Logan International Airport], and
@@ -136,7 +136,7 @@ from the hotels. See
 http://www.mbta.com/schedules_and_maps/rail/lines/stations/?stopId=105.
 
 [[lodging]]
-Lodging 
+Lodging
 
 IBM has recommended the following hotels in the area which also offer
 special rates for visitors to IBM.
@@ -172,7 +172,7 @@ us. The room block will expire in early September but the IBM rate
 should still be offered if rooms are available.
 
 [[test-schedule]]
-Test Event Schedule 
+Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday
 and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on
@@ -180,7 +180,7 @@ Wednesday and runs until early afternoon on Friday. +
  +
 A downloadable iCalendar.ics file with the entire schedule is also
 available for download or subscription; please see the links at the top
-of this page.  
+of this page.
 
 [width="100%",cols="34%,33%,33%",]
 |===
@@ -216,13 +216,13 @@ _http://www.indiapalacenh.com[India Palace]_ +
 1200-1230 Wrap-up +
 1230 End of IOP Testing +
  +
-1230-1330 Lunch/Opening^1^  
+1230-1330 Lunch/Opening^1^
 |===
 
- 
+
 
 [[conference-schedule]]
-Conference Schedule 
+Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday
 and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on
@@ -230,7 +230,7 @@ Wednesday and runs until early afternoon on Friday. +
  +
 A downloadable iCalendar.ics file with the entire schedule is also
 available for download or subscription; please see the links at the top
-of this page.  
+of this page.
 
 [width="100%",cols="34%,33%,33%",]
 |===

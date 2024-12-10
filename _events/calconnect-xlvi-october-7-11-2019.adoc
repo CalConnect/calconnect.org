@@ -9,7 +9,7 @@ image: /assets/images/Philadelphia-Skyline%201.jpg
 == CalConnect XLVI - October 7-11, 2019
 
 [[intro]]
-image:/assets/images/Philadelphia-Skyline%201.jpg[https://www.calconnect.org/sites/default/files/events/Philadelphia-Skyline%201,width=700,height=394]
+image:{{'/assets/images/Philadelphia-Skyline%201.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Philadelphia-Skyline%201,width=700,height=394]
 
 CalConnect XLVI in Philadelphia, Pennsylvania, hosted by FastMail
 
@@ -42,7 +42,7 @@ conference and technical sessions.  CalConnect XLVI is open to members,
 and to non-members as observers.  You must register in advance and pay
 the registration fee for the conference. Please register for the
 conference at
-link:/events/event-registration-payment [Registration].
+link:{{'/events/event-registration-payment ' | relative_url}}[Registration].
 
 Testing Interests:  We will contact all those who register for
 CalConnect XLVI as to their testing interests.  There will be time
@@ -81,7 +81,7 @@ All CalConnect activites are business casual to casual attire.
 Registration Information 
 
 Registration is now open for CalConnect XLVI; please see
-link:/events/event-registration-payment [Registration] to
+link:{{'/events/event-registration-payment ' | relative_url}}[Registration] to
 register.  There is only one registration and one payment per person for
 the entire event.
 
@@ -335,7 +335,7 @@ HTTP resource rather than email for iTIP messages._#
 Liaisons +
 _Update on CalConnect standards activities and liaisons with external
 SDOs. 
-link:/about/liaisons-and-relationships[[.small]#_https://www.calconnect.org/about/liaisons-and-relationships_#]_#
+link:{{'/about/liaisons-and-relationships[' | relative_url}}[.small]#_https://www.calconnect.org/about/liaisons-and-relationships_#]_#
 
 |[.small]#1630-1730# |[.small]#Integrating Liaison Activities into
 CalConnect +

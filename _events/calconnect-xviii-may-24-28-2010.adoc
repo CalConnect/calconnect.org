@@ -12,7 +12,7 @@ image: /assets/images/CarnegieMellon.jpg
 CalConnect Roundtable XVIII - 26-28 May
 
 [[intro]]
-image:/assets/images/CarnegieMellon.jpg[Carnegie
+image:{{'/assets/images/CarnegieMellon.jpg' | relative_url }}[Carnegie
 Mellon University, Pittsburgh, Pennsylvania,width=800,height=600]
 
 [.date-display-range]#[.date-display-start]#Monday, May 24, 2010# to

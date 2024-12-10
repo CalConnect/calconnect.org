@@ -21,7 +21,7 @@ University of Hong Kong, K.K. Leung Building, Room KK102
 === Introduction
 
 [[intro]]
-image:/assets/images/hku-academic-event.jpg[https://www.calconnect.org/sites/default/files/events/hku-academic-event,width=800,height=598]
+image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/hku-academic-event,width=800,height=598]
 
 CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong
 Kong for our first members conference to be held in the Asia/Pacific
@@ -30,7 +30,7 @@ Region.  +
 To celebrate this special event, with our Hong Kong host organizations,
 OGCIO and Ribose (http://ribose.com/[ribose.com]), we are holding two
 additional events,
-link:/events/calconnect-public-day-hong-kong-it-fest[a
+link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url}}[a
 public day (Wednesday&#44; April 20&#44; 2016)] at the
 https://www.itfest.hk/template?series=2&id=141&lang=en[Hong Kong
 International ITFest], and a seminar at https://www.hku.hk[The
@@ -55,14 +55,14 @@ the CalConnect presenters. +
 Although CalConnect is not a formal standards body, over the last five
 years, most of the Calendaring standards development and discussion have
 taken place in CalConnect. Our
-link:/membership[membership] includes some of the
+link:{{'/membership' | relative_url}}[membership] includes some of the
 world's largest software development organizations, as well as emergent
 vendors and startups, end user organizations, interested individuals,
 and research universities. +
  +
 CalConnect is  very excited to be coming to Hong Kong for our
 link:/events/calconnect-public-day-hong-kong-it-fest
-link:/events/calconnect-xxxvi-april-18-22-2016[36th
+link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[36th
 Conference], and we are equally excited to be able to share and discuss
 our work with the students and faculty at Hong Kong University.  +
  +
@@ -72,7 +72,7 @@ https://www.calconnect.org/ +
 link:/email-announce/20160420-calconnect-hkitfest.html +
 link:/events/calconnect-public-day-hong-kong-it-fest +
 link:/events/calconnect-public-day-hong-kong-it-fest + 
-link:/events/calconnect-xxxvi-april-18-22-2016[https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016]
+link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016]
 
  +
 We look forward to speaking with you on April 19th. +
@@ -91,7 +91,7 @@ CalConnect wishes to recognize, and to thank, our hosts, sponsors, and
 supporting organizations, who are collaborating with us on CalConnect
 XXXVI, our first event in the Asia /Pacific region.
 
-image:/sites/default/files/media/sponsor-logos3.png[/sites/default/files/media/sponsor-logos3]
+image:{{'/sites/default/files/media/sponsor-logos3.png' | relative_url }}[/sites/default/files/media/sponsor-logos3]
 
 ==== Hosts
 
