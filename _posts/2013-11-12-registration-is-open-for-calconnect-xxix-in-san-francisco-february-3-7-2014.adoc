@@ -9,7 +9,6 @@ excerpt: REGISTRATION IS OPEN FOR CALCONNECT XXIX, FEBRUARY 3-7, 2014, HOSTED BY
 
 == REGISTRATION IS OPEN FOR CALCONNECT XXIX IN SAN FRANCISCO, FEBRUARY 3-7, 2014
 
-[[node-187]]
 Posted November 12, 2013 
 
 REGISTRATION IS OPEN FOR CALCONNECT XXIX, FEBRUARY 3-7, 2014, HOSTED BY MOZILLA IN SAN FRANCISCO, CALIFORNIA
@@ -18,7 +17,7 @@ As usual, Monday and Tuesday all day and Wednesday morning will be the CalConnec
 
 *General Information:*
 
-Logistics information for this event may be found at link://calconnect29.shtml including venue, travel, hotel, and other planning information. The session schedule is available; the agenda slots will be assigned and topical agendas will be posted closer to the event. The meeting venue will be at Mozilla s San Francisco facility, 2 Harrison Street, San Francisco.
+Logistics information for this event may be found at link:/calconnect29 including venue, travel, hotel, and other planning information. The session schedule is available; the agenda slots will be assigned and topical agendas will be posted closer to the event. The meeting venue will be at Mozilla s San Francisco facility, 2 Harrison Street, San Francisco.
 
 The Conference Hotel is the Shattuck Plaza Hotel in Berkeley; due to extremely expensive hotel prices in San Francisco, we will be using BART (Bay Area Rapid Transit system) to commute to and from San Francisco each morning and evening (the hotel is 1/2 block from a BART station; Mozilla is about a kilometer from a BART station). Please note that you need to book your via the link on the CalConnect logistics page for this event to receive the CalConnect rate. Also note that the room block ends as of 3 January 2014  so if you are planning to come I encourage you to get your room reserved soon!
 
@@ -32,17 +31,8 @@ In addition to our regular Technical Committee sessions, we will expect to recei
 
 *About the Interoperability Test Event:*
 
-The information page for the Interoperability Test event is at link://iop1402.shtml[]. Please see this page for the current list of areas we plan to test; it will be updated regularly as testing registrations and requests are received. In addition, participants may have other areas they wish to test and we will be happy to include them in our planning; the test event registration form provides a place to indicate what you want to test. n all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
+The information page for the Interoperability Test event is at link:{{'/iop1402' | relative_url}}[]. Please see this page for the current list of areas we plan to test; it will be updated regularly as testing registrations and requests are received. In addition, participants may have other areas they wish to test and we will be happy to include them in our planning; the test event registration form provides a place to indicate what you want to test. n all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
 
 We invite you to join us in San Francisco at Mozilla for CalConnect XXIX.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

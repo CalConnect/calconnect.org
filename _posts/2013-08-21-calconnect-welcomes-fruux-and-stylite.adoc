@@ -9,24 +9,11 @@ excerpt: CalConnect welcomes fruux GMBH and Stylite AG as members of The Calenda
 
 == CalConnect Welcomes fruux and Stylite
 
-[[node-193]]
 Posted August 21, 2013 
 
 CalConnect welcomes fruux GMBH and Stylite AG as members of The Calendaring and Scheduling Consortium.
 
 http://www.fruux.com[fruux], based in MÃ¼nster, Germany, offers a multi-platform, multi-device unified contacts/calendaring system. fruux is also behind sabre/dav, a popular open source implementation of WebDAV, CalDAV and CardDAV.
 
-http://www.egroupware.org/[Stylite], based in Kirchheimbolanden, Germany, offers EGoupware, an open source team collaboration suite. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
+http://www.egroupware.org/[Stylite], based in Kirchheimbolanden, Germany, offers EGoupware, an open source team collaboration suite.
 

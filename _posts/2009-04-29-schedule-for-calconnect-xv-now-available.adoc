@@ -4,23 +4,15 @@ title: Schedule for CalConnect XV now available
 date: 2009-04-29
 type: news
 categories: announcements current-events
-excerpt: The schedule for CalConnect XV (June 1-5 2009) is now available on the CalConnect website, at link://calconnect15.shtml#schedule or as a downloadable iCalendar file at link://CalConnectXV.ics.
+excerpt: The schedule for CalConnect XV (June 1-5 2009) is now available on the CalConnect website, at link:/calconnect15#schedule or as a downloadable iCalendar file at link:/CalConnectXV.ics.
 ---
 
 == Schedule for CalConnect XV now available
 
-[[node-339]]
-Posted April 29, 2009 
+Posted April 29, 2009
 
-The schedule for CalConnect XV (June 1-5 2009) is now available on the CalConnect website, at link://calconnect15.shtml#schedule or as a downloadable iCalendar file at link://CalConnectXV.ics[].
+The schedule for CalConnect XV (June 1-5 2009) is now available on the CalConnect website, at link:{{'/calconnect15#schedule' | relative_url}}[] or as a downloadable iCalendar file at link:{{'/CalConnectXV.ics' | relative_url}}[].
 
-The CalConnect week is divided into an Interoperability Test Event, all day Monday and Tuesday, plus Wednesday morning, and a CalConnect Roundtable, beginning with lunch on Wednesday and running to midafternoon on Friday. CalConnect XV will be hosted by Oracle Corporation in Redwood Shores; for more information refer to link://calconnect15.shtml[].
+The CalConnect week is divided into an Interoperability Test Event, all day Monday and Tuesday, plus Wednesday morning, and a CalConnect Roundtable, beginning with lunch on Wednesday and running to midafternoon on Friday. CalConnect XV will be hosted by Oracle Corporation in Redwood Shores; for more information refer to link:{{'/calconnect15' | relative_url}}[].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
 

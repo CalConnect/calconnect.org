@@ -9,10 +9,9 @@ excerpt: Our first European conference was last October, hosted by Kerio Technol
 
 == CalConnect is returning to Europe: October 1-5, 2012, Zürich, Switzerland, hosted by Google
 
-[[node-228]]
-Posted August 24, 2012 
+Posted August 24, 2012
 
-Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, link://calconnect25.shtml[CalConnect XXV] will take place in ZÃ¼rich, Switzerland on October 1-5, 2012  less than six weeks from now, hosted by http://www.google.com[Google].
+Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, link:{{'/calconnect25' | relative_url}}[CalConnect XXV] will take place in ZÃ¼rich, Switzerland on October 1-5, 2012  less than six weeks from now, hosted by http://www.google.com' | relative_url}}[Google].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect member meeting without having to incur the travel costs and time of coming to North America.
 
@@ -22,7 +21,7 @@ European companies were among CalConnect s earliest members members, and as stan
 
 *Overview*
 
-Our venue will be Google s ZÃ¼rich campus at Brandschenkestrasse 110, 8002 ZÃ¼rich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google s campus. Full information about the conference may be found at link://calconnect25.shtml[CalConnect XXV] including the week s schedules, registration, and logistics information including accommodation.
+Our venue will be Google s ZÃ¼rich campus at Brandschenkestrasse 110, 8002 ZÃ¼rich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google s campus. Full information about the conference may be found at link:{{'/calconnect25' | relative_url}}[CalConnect XXV] including the week s schedules, registration, and logistics information including accommodation.
 
 Monday, Tuesday, and Wednesday morning, October 1-3, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, October 3-5, will be the Technical Conference (Roundtable) which will include workshops, symposia, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
@@ -30,7 +29,7 @@ We are delighted to announce that Google, our host, will be actively participati
 
 *Registration and Fees*
 
-You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link://regtypes.shtml[Registration and Fees] for more information and registration forms.
+You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms.
 
 Special Fees for This Event: $350 U.S. per person for non-members to cover either the Interoperability Test Event, the Technical Conference, or both. (Non-members may always participate in the Interoperability Test Events, although the registration fee is usually greater for non-members), and may attend a single Roundtable as observers to determine if they are interested in joining CalConnect. CalConnect is also offering a special Interoperability Test Event fee of $350 for one person for non-vendor members of CalConnect.
 
@@ -38,12 +37,12 @@ We encourage you to register as soon as possible. Upon registration you will be 
 
 *Who and What is CalConnect?*
 
-We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link://mbrlist.shtml[CalConnect Members]. Learn more about CalConnect at our link://[website] and our https://calconnect.wordpress.com/[blog], and from our newsletter link://minutes.shtml[CalConnect Minutes], published after each CalConnect Technical Conference (Roundtable). You can find out more about membership in CalConnect at link://membership.shtml[CalConnect Membership].
+We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}, and from our newsletter link:/minutes[CalConnect Minutes], published after each CalConnect Technical Conference (Roundtable). You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
 *What is CalConnect currently focused on?*
 
-You may find brief descriptions of the current work items of our Technical Committees at link://currentwork.shtml[Current Work]. +
- +
+You may find brief descriptions of the current work items of our Technical Committees at link:{{'/currentwork' | relative_url}}[Current Work].
+
 *Questions and Feedback:*
 
 Please contact us at mailto:contact@calconnect.org[contact@calconnect.org] with questions or feedback.
@@ -58,7 +57,7 @@ Please join us in ZÃ¼rich!
 
 *More Information:*
 
-More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link://calconnect25.shtml#schedule[CalConnect XXV Schedule]. The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link://calconnect25.shtml[CalConnect XXV].
+More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link:{{'/calconnect25#schedule' | relative_url}}[CalConnect XXV Schedule]. The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link:{{'/calconnect25' | relative_url}}[CalConnect XXV].
 
 *Interoperability Testing*
 
@@ -67,16 +66,16 @@ The Interoperability Testing will take place Monday and Tuesday, October 1-2, pl
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. As of today we will definitely plan to test the following areas:
 
 iSchedule +
- iCalendar/iMIP/iTIP and iMIP gateways +
- CalDAV access +
- CalDAV calendar sharing and notifications +
- CalDAV scheduling, including implicit scheduling +
- CardDAV +
- The new Timezone Service Protocol +
- CalWS, the Web Services protocol for calendaring** +
- If there is interest, synchronization testing for mobile clients in general
+iCalendar/iMIP/iTIP and iMIP gateways +
+CalDAV access +
+CalDAV calendar sharing and notifications +
+CalDAV scheduling, including implicit scheduling +
+CardDAV +
+The new Timezone Service Protocol +
+CalWS, the Web Services protocol for calendaring** +
+If there is interest, synchronization testing for mobile clients in general
 
-Please see link://iop1210.shtml[CalConnect XXV IOP Test Event] for more information.
+Please see link:{{'/iop1210' | relative_url}}[CalConnect XXV IOP Test Event] for more information.
 
 **CalWS is being developed in part to support of the WS Calendar specification from OASIS as part of the NIST Smart Grid initiative; however it is a general implementation of calendaring and scheduling operations via web services. CalWS testing is dependent upon at least two implementations participating.
 
@@ -85,22 +84,22 @@ Please see link://iop1210.shtml[CalConnect XXV IOP Test Event] for more informat
 Thursday and Friday mornings will be dedicated to four 90 minute symposia and workshops, which are included in the Roundtable Registration. We have not finalized the subjects as yet but the areas under discussion include:
 
 Improving the web calendaring experience for end users +
- Best practices for publishing iCalendar data to ensure optimum interoperability +
- Internationalization/Localization for Calendaring data +
- Calendaring Futures and CalConnect directions
+Best practices for publishing iCalendar data to ensure optimum interoperability +
+Internationalization/Localization for Calendaring data +
+Calendaring Futures and CalConnect directions
 
-The link://calconnect25.shtml#schedule[CalConnect XXV Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified. +
- +
+The link:{{'/calconnect25#schedule' | relative_url}}[CalConnect XXV Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified. +
+
 *Roundtable (Technical Conference)*
 
 At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXV Schedule. The schedule includes
 
 Opening and introduction to CalConnect +
- Report from the Interoperability Test Event +
- Technical Committee sessions for all CalConnect TCs +
- Opportunities for BOFs (birds of a feather discussions) +
- Final wrapup and summary of all Technical Committee sessions +
- CalConnect Plenary Session
+Report from the Interoperability Test Event +
+Technical Committee sessions for all CalConnect TCs +
+Opportunities for BOFs (birds of a feather discussions) +
+Final wrapup and summary of all Technical Committee sessions +
+CalConnect Plenary Session
 
 The conference will conclude no later than 18:00 on Friday, October 5th.
 
@@ -112,13 +111,4 @@ There will be a dinner for all Interoperability Test Event participants on Monda
 
 Your registration to the Interoperability Test Event or the Roundtable Technical Conference includes lunch and morning and afternoon refreshments for the period of the event, plus the reception Wednesday evening. In addition, registration to the test event includes the Monday evening IOP test event dinner, and registration to the technical conference includes the Thursday evening Roundtable dinner. Please note that breakfast is not included as it is generally included with your hotel package.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

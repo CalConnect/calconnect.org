@@ -9,7 +9,6 @@ excerpt: The Roundtable technical conference is going well. We have 20 participa
 
 == CalConnect Roundtable as of Thursday afternoon 6 October
 
-[[node-246]]
 Posted October 6, 2011 
 
 The Roundtable technical conference is going well. We have 20 participants which for our very first full CalConnect event in Europe is pretty respectable, and this includes four non-member organizations (ARC Informatique, DHL, Intel open source lab, and Stylite AG.
@@ -19,13 +18,6 @@ We moved the regular Technical Committee sessions to the afternoon to allow peop
 Friday morning we is a workshop on Tasks (VTODOs) and how iCalendar should be extended to support new requirements such as project management, energy scheduling, and so forth. And we will have a BOF on CalConnect Internationally, to discuss how CalConnect can make itself more accessible and available to international members (in particular Europe, at the moment). I ve heard some good ideas so far and look forward to the group discussion, as it will certainly inform CalConnect s decisions about going forward internationally.
 
 Dave Thewlis +
- CalConnect Executive Director
+CalConnect Executive Director
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

@@ -9,18 +9,10 @@ excerpt: As noted on Andrew McMillan’s blog at http://andrew.mcmillan.net.nz/b
 
 == DAViCal implements CalConnect’s Proposal for Freebusy Read URL
 
-[[node-332]]
 Posted July 1, 2009 
 
 As noted on Andrew McMillan s blog at http://andrew.mcmillan.net.nz/blog/davical_097_released Since DAViCal has always had Freebusy URLs, and in fact accepted a couple of simple parameters in them already it turned out to be a simple matter to provide these standardised ones as well. This change was included in http://wiki.davical.org/w/Release_Notes/0.9.7[DAViCal 0.9.7]¦.
 
-The Freebusy Read URL Proposal may be found at link:/docs/CD0903%20Freebusy%20Read%20URL.pdf[Proposal for Freebusy Read URL].
+The Freebusy Read URL Proposal may be found at link:{{'/docs/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Proposal for Freebusy Read URL].
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

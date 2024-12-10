@@ -9,7 +9,6 @@ excerpt: It’s now only four weeks until CalConnect XXXVIII at UC Irvine - and 
 
 == Only four weeks to CalConnect XXXVIII at University of California Irvine
 
-[[node-429]]
 Posted January 16, 2017 
 
 It s now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases.&nbsp;
@@ -29,13 +28,13 @@ https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017#confere
 1600-1700 on Wednesday, 15 February:
 
 *TC VCARD, ISO TC 211, and ISO 19160* +
- This session will review the charter, goals and problems facing the evolution of VCARD envisioned by the TC; report on the establishment of a liaison with ISO TC 211; and review ISO 19160 and its applicability to the work of the TC.&nbsp; Discussion will focus on the issues the TC may face in incorporating ISO 19160 elements into VCARD, and how (and if) expanded structured address formats can be made backward compatible. TC VCARD.
+This session will review the charter, goals and problems facing the evolution of VCARD envisioned by the TC; report on the establishment of a liaison with ISO TC 211; and review ISO 19160 and its applicability to the work of the TC. Discussion will focus on the issues the TC may face in incorporating ISO 19160 elements into VCARD, and how (and if) expanded structured address formats can be made backward compatible. TC VCARD.
 
 +
 *1100-1230 on Thursday, 16 February:*
 
 *Calendar Spam and potential best practices* +
- One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations.&nbsp; Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events.
+One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events.
 
 &nbsp;
 
@@ -45,15 +44,4 @@ As always, non-members may attend a CalConnect Conference as https://www.calconn
 
 Please join us in Irvine!
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
 

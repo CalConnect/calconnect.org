@@ -9,7 +9,6 @@ excerpt: CalConnect, the Calendaring & Scheduling Consortium (link:/), will hold
 
 == CalConnect Consensus Scheduling Workshop – January 30, 2013, at CalConnect Roundtable XXVI
 
-[[node-218]]
 Posted December 13, 2012 
 
 CalConnect, the Calendaring & Scheduling Consortium (link:/), will hold an open Workshop on Consensus Scheduling in conjunction with its member meeting, Roundtable XXVI, on Wednesday afternoon, 30 January, 2013, at Oracle Corporation in Santa Clara.
@@ -25,12 +24,12 @@ Attendees are invited to attend the CalConnect Roundtable as observers, or to co
  2. Participants lightning talks and discussion  vendors, experience as a user, user requirements or wishlists, etc. +
  3. Review of existing products +
  4. Review of CalConnect proposal +
- &nbsp; &nbsp; a. Use cases (what is in scope, out of scope) +
- &nbsp; &nbsp; b. Technical solution  VPOLL +
- &nbsp; &nbsp; c. Interaction with CalDAV +
+   a. Use cases (what is in scope, out of scope) +
+   b. Technical solution  VPOLL +
+   c. Interaction with CalDAV +
  5. Conclusion  what to do from here +
- &nbsp; &nbsp; a. How to further promote the VPOLL work +
- &nbsp; &nbsp; b. VPOLL testing at the next Interoperability Test Event
+   a. How to further promote the VPOLL work +
+   b. VPOLL testing at the next Interoperability Test Event
 
 *Venue:*
 
@@ -42,33 +41,21 @@ The workshop will be held from 1:30 to 5:30 Wednesday afternoon, January 30th. W
 
 *Registration and information:*
 
-To register for the workshop only, please see&nbsp;link://workshopreg.shtml[]. To register for the CalConnect Roundtable and/or Interoperability Test Event, please see&nbsp;link://regtypes.shtml[].
+To register for the workshop only, please see&nbsp;link:{{'/workshopreg' | relative_url}}[]. To register for the CalConnect Roundtable and/or Interoperability Test Event, please see&nbsp;link:{{'/regtypes' | relative_url}}[].
 
-Logistics information for the workshop and for the CalConnect event: link://calconnect26.shtml[].
+Logistics information for the workshop and for the CalConnect event: link:{{'/calconnect26' | relative_url}}[].
 
 *More About Consensus Scheduling*
 
-Consensus scheduling is the process whereby a group comes to agreement on when (and maybe where) to hold a meeting or carry out a task, by identifying the best time or location to help maximize participation and minimize inconvenience. &nbsp;Consensus scheduling minimizes&nbsp;the overhead of achieving consensus or identifying the most favorable time(s) by allowing the potential participants to observe the responses of the other voters, and to adjust their response for the benefit of the entire group. This has significant benefits over traditional group scheduling methods which typically involve the exchange of many messages between participants, each trying to come to agreement. &nbsp;
-
+Consensus scheduling is the process whereby a group comes to agreement on when (and maybe where) to hold a meeting or carry out a task, by identifying the best time or location to help maximize participation and minimize inconvenience. &nbsp;Consensus scheduling minimizes&nbsp;the overhead of achieving consensus or identifying the most favorable time(s) by allowing the potential participants to observe the responses of the other voters, and to adjust their response for the benefit of the entire group. This has significant benefits over traditional group scheduling methods which typically involve the exchange of many messages between participants, each trying to come to agreement.
 Although there are a variety of&nbsp;consensus scheduling products and services available, it is not available in most full featured calendaring products, especially enterprise products. Consensus scheduling is not part of calendaring and scheduling standards, and each site and service provides different features and functionality, provides&nbsp;custom integrations with a subset of other calendaring and scheduling services and products, and has differing requirements for user access  authentication and authorization. As some people prefer one consensus service over the others, participants in many formal and/or informational groups may&nbsp;have to register and/or use many different services or sites in the course of their professional and personal activities.
 
 CalConnect has for some time been working on developing a consensus scheduling solution that builds on the internet calendar standards of iCalendar and iTIP (the traditional solution to standards-based calendaring and scheduling). &nbsp;CalConnect s approach creates a new iCalendar component, VPOLL, and defines an iTIP process by which polls can be sent to participants and votes collected from them. &nbsp;CalConnect s work also looks at how this process can be integrated with calendaring system, such as those built on the standard CalDAV calendar server protocol, with the goal of providing more automation for voting and streamlining the decision process for voters.
 
-Please see&nbsp;link://7_things_consensus_scheduling.shtml&nbsp;for a further introduction to consensus scheduling and why it matters to calendaring and&nbsp;scheduling.
+Please see&nbsp;link:/7_things_consensus_scheduling&nbsp;for a further introduction to consensus scheduling and why it matters to calendaring and&nbsp;scheduling.
 
 *Previous CalConnect Workshops:*
 
 CalConnect has previously held workshops on vCard, Timezones, Contacts, and Tasks (VTODOs).
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

@@ -9,26 +9,16 @@ excerpt: On May 24-26, 2010, CalConnect will hold its third Mobile Calendaring I
 
 == Third Mobile Calendaring IOP Test Event May 24-26 2010
 
-[[node-306]]
-Posted March 19, 2010 
+Posted March 19, 2010
 
 On May 24-26, 2010, CalConnect will hold its third Mobile Calendaring Interoperability Test Event, as part of CalConnect XVIII at Carnegie Mellon University. This event will be focused on mobile device synchronization with ActiveSync. We invite all CalConnect members and non-members with an interest in testing ActiveSync client and/or server implementations to participate in this event.
 
 The event will be hosted by the TC MOBILE technical committee. The primary focus will be calendaring synchronization, in particular recurring events and meeting invites, with a secondary focus on other areas such as contacts and emails as time permits.
 
-The link:/docs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite.pdf[Mobile Calendaring Interoperability Test Suite] will be used as the source for specific tests for the testing areas of interest.
+The link:{{'/docs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite.pdf' | relative_url}}[Mobile Calendaring Interoperability Test Suite] will be used as the source for specific tests for the testing areas of interest.
 
-Logistics and planning information may be found at link://calconnect18.shtml[CalConnect XVIII] and link://miop1005.shtml[Mobile Calendaring IOP Test Event May 2010].
+Logistics and planning information may be found at link:{{'/calconnect18' | relative_url}}[CalConnect XVIII] and link:{{'/miop1005' | relative_url}}[Mobile Calendaring IOP Test Event May 2010].
 
 Please contact us at mailto:Dave.Thewlis@calconnect.org[CalConnect] or at +1 707 840 9391 if you would like more information about this event.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

@@ -9,7 +9,6 @@ excerpt: CalConnect is honored to announce that Cyrus Daboo of Apple is the thir
 
 == Cyrus Daboo of Apple Third Recipient of CalConnect Distinguished Service Award
 
-[[node-192]]
 Posted September 26, 2013 
 
 CalConnect is honored to announce that Cyrus Daboo of Apple is the third recipient of the CalConnect Service Award. The award was presented at CalConnect XXVIII on September 25, 2013.
@@ -26,15 +25,4 @@ Cyrus is one of the few people who seem somehow to actually manage not just to b
 
 Thank you, Cyrus, for your long service and outstanding contributions to CalConnect and interoperable calendaring.&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

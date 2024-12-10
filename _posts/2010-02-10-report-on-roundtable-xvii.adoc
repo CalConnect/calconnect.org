@@ -9,18 +9,8 @@ excerpt: A brief report on CalConnect Roundtable XVII and the associated Interop
 
 == Report on Roundtable XVII
 
-[[node-310]]
 Posted February 10, 2010 
 
-A brief report on CalConnect Roundtable XVII and the associated Interoperability Test Event, held February 1-5, 2010, at the University of California at Irvine, has been posted at link://roundtable17rpt.shtml[Roundtable XVII].
+A brief report on CalConnect Roundtable XVII and the associated Interoperability Test Event, held February 1-5, 2010, at the University of California at Irvine, has been posted at link:{{'/roundtable17rpt' | relative_url}}[Roundtable XVII].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

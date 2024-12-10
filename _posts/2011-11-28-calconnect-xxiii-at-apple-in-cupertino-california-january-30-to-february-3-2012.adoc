@@ -9,26 +9,16 @@ excerpt: CalConnect XXIII will be the week of January 30 to February 3, 2012, at
 
 == CalConnect XXIII at Apple in Cupertino California – January 30 to February 3, 2012
 
-[[node-242]]
-Posted November 28, 2011 
+Posted November 28, 2011
 
 CalConnect XXIII will be the week of January 30 to February 3, 2012, at Apple in Cupertino, California. As usual, the first 2.5 days (Monday, Tuesday, and Wednesday morning) will be devoted to the Interoperability Test Event; the Roundtable Technical Conference will start with lunch on Wednesday, and continue until mid-afternoon on Friday.
 
 Registration is now open for both the IOP Test Event and the Roundtable Technical Conference; see the logistics page referenced below.
 
-Logistics and registration information may be found at link://calconnect23.shtml[link://calconnect23.shtml] including a general schedule for the week: a more specific schedule with the slots for the various TC sessions will be posted in mid-December, and topical agendas for the sessions should be available before mid-January.
+Logistics and registration information may be found at link:{{'/calconnect23' | relative_url}}[calconnect23] including a general schedule for the week: a more specific schedule with the slots for the various TC sessions will be posted in mid-December, and topical agendas for the sessions should be available before mid-January.
 
 More information about the Interoperability Test Event will be posted to this blog shortly; in addition to the regular interoperability testing, it will feature two implementation BOFs, one on updating iCalendar files (DIF versus replace) and one on Audo-Discovery and provisioning.
 
 For more information please contact Dave Thewlis at dave.thewlis at calconnect.org.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

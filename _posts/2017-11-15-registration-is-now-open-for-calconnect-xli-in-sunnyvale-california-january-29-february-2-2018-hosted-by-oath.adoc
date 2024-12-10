@@ -9,32 +9,20 @@ excerpt: The CalConnect XLI web page is located at https://www.calconnect.org/ev
 
 == Registration is now open  for CalConnect XLI in Sunnyvale, California, January 29 - February 2, 2018, hosted by Oath
 
-[[node-458]]
 Posted November 15, 2017 
 
-The _CalConnect XLI_ web page is located at https://www.calconnect.org/events/calconnect-xli-winter-2018&nbsp; and contains lodging information, airport and transfer information, meeting venue, etc.&nbsp;
+The _CalConnect XLI_ web page is located at https://www.calconnect.org/events/calconnect-xli-winter-2018 and contains lodging information, airport and transfer information, meeting venue, etc.&nbsp;
 
-The&nbsp; meeting venue is at 700 First Avenue, Building E, Sunnyvale, California 94089 (note:&nbsp; the building is likely to still have the Yahoo sign). There is free parking available.
+The meeting venue is at 700 First Avenue, Building E, Sunnyvale, California 94089 (note: the building is likely to still have the Yahoo sign). There is free parking available.
 
-The conference hotel is https://www.theplazasuites.com/[The Plaza Suites Silicon Valley] which is a few miles from the meeting venue.&nbsp; There are no hotels within walking distance of the meeting venue, and the conference hotel is the most reasonable in terms of cost we could identify.&nbsp;
+The conference hotel is https://www.theplazasuites.com/[The Plaza Suites Silicon Valley] which is a few miles from the meeting venue. There are no hotels within walking distance of the meeting venue, and the conference hotel is the most reasonable in terms of cost we could identify.&nbsp;
 
 The hotel may be booked immediately, see https://www.calconnect.org/events/calconnect-xli-winter-2018#lodging for more information and information. We advise you to book early to avoid cost increases as the event becomes nearer.
 
-The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon.&nbsp; The Conference will begin Wednesday after lunch and run through Friday mid-afternoon.&nbsp;
+The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon. The Conference will begin Wednesday after lunch and run through Friday mid-afternoon.&nbsp;
 
 We will be posting detailed schedules and agendas on the event web page once they are available, and expect that they may evolve over time.
 
 Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

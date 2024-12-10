@@ -9,7 +9,6 @@ excerpt: Although I promised in my most recent posting, “Read Any Good Timezon
 
 == “The Times, They Are a-Changin”
 
-[[node-269]]
 Posted January 26, 2011 
 
 Although I promised in my most recent posting, Read Any Good Timezones Lately, that I had left the topic of timezones behind, an editorial in the January 23, 2011 New York Times, Time Banditry, leads me to renege on that short-lived promise.
@@ -41,19 +40,10 @@ http://www.publications.parliament.uk/pa/cm201011/cmbills/007/11007.i-i.html
 
 CalConnect s technical work in timezones: +
 http://calconnect.org/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf +
-http://calconnect.org/CD1007%20Timezone%20Service.shtml +
-http://calconnect.org/CD1008%20Timezone%20XML.shtml
+http://calconnect.org/CD1007%20Timezone%20Service +
+http://calconnect.org/CD1008%20Timezone%20XML
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

@@ -9,18 +9,8 @@ excerpt: CalConnect welcomes ZeeZide GmbH as a member of the Consortium. ZeeZide
 
 == CalConnect Welcomes ZeeZide
 
-[[node-136]]
 Posted February 5, 2015 
 
 CalConnect welcomes http://www.zeezide.com[ZeeZide GmbH] as a member of the Consortium. ZeeZide, based in Magdeburg, Germany, is a software development company interested in interoperability testing and standards.&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-news[Member News]
 

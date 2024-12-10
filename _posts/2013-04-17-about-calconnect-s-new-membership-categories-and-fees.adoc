@@ -9,7 +9,6 @@ excerpt: Earlier this week, we announced new membership categories and interoper
 
 == About CalConnect’s New Membership Categories and Fees
 
-[[node-204]]
 Posted April 17, 2013 
 
 Earlier this week, we announced new membership categories and interoperability test event fees. We have been discussing and shaping these changes, the first since CalConnect was established in 2005, for the past 6 months. We want to share with our members and non-members alike what motivated these changes, and what we hope they will accomplish.
@@ -43,19 +42,6 @@ All this amounts to increasing our engagement with the wider world of calendarin
 On behalf of the CalConnect Board of Directors,
 
 Gary Schwartz +
- President
+President
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

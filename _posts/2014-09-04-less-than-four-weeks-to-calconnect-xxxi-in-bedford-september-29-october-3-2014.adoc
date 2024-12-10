@@ -9,10 +9,9 @@ excerpt: We’re within four weeks of the next CalConnect event, which will be h
 
 == Less than Four Weeks to CalConnect XXXI in Bedford, September 29 – October 3, 2014
 
-[[node-169]]
 Posted September 4, 2014 
 
-We re within four weeks of the next CalConnect event, which will be hosted by Youcanbook.me in Bedford, England; here s a link to the original blog post about this event: http://wp.me/prYbR-co[CalConnect XXXI Blog Post] and here s the link to the actual CalConnect web page for the event: link://calconnect31.shtml[CalConnect XXXI].
+We re within four weeks of the next CalConnect event, which will be hosted by Youcanbook.me in Bedford, England; here s a link to the original blog post about this event: http://wp.me/prYbR-co[CalConnect XXXI Blog Post] and here s the link to the actual CalConnect web page for the event: link:{{'/calconnect31' | relative_url}}[CalConnect XXXI].
 
 During the TC FREEBUSY session Thursday morning at 1100-1200, we will have a demonstration of *inter-system consensus scheduling*. The demo will feature multiple clients running on different servers (and implementations) performing consensus scheduling, based on VPOLL, iSCHEDULE, and jCAL.
 
@@ -32,17 +31,5 @@ For example, a company might setup a group for a specific project that a number 
 
 The purpose of this workshop is to discuss how automatic management of group attendees and group sharees could be achieved on a CalDAV server and, in more general terms, via iTIP. We will examine different use cases, or modes, of group scheduling and sharing with a view to addressing concerns of scalability in particular.
 
-Non-members are welcome to attend a single CalConnect Conference as an link://observer.shtml[Observer] so please consider joining us, especially if you have an interest in either or both of these areas, in addition to the areas we re link://currentwork.shtml[currently working in]. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+Non-members are welcome to attend a single CalConnect Conference as an link:{{'/observer' | relative_url}}[Observer] so please consider joining us, especially if you have an interest in either or both of these areas, in addition to the areas we re link:{{'/currentwork' | relative_url}}[currently working in].
 

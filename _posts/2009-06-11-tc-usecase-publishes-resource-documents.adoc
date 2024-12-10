@@ -9,22 +9,14 @@ excerpt: TC RESOURCE has published three documents related to resources in calen
 
 == TC USECASE publishes Resource documents
 
-[[node-334]]
 Posted June 11, 2009 
 
 TC RESOURCE has published three documents related to resources in calendaring and scheduling.
 
-* *link:/docs/CD0905%20State%20of%20Resource%20Interoperability.pdf[State of Resource Interoperability for Calendaring, Groupware, and Project Management]*
-* *link:/docs/CD0906%20Use%20Cases%20for%20Resources.pdf[Use Cases for Resources]*
-* *link:/docs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information.pdf[A Recommendation for Minimum Interoperability of Resource Information]*
+* *link:{{'/docs/CD0905%20State%20of%20Resource%20Interoperability.pdf' | relative_url}}[State of Resource Interoperability for Calendaring, Groupware, and Project Management]*
+* *link:{{'/docs/CD0906%20Use%20Cases%20for%20Resources.pdf' | relative_url}}[Use Cases for Resources]*
+* *link:{{'/docs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information.pdf' | relative_url}}[A Recommendation for Minimum Interoperability of Resource Information]*
 
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
 

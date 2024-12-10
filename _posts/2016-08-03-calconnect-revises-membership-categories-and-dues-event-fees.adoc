@@ -8,40 +8,26 @@ excerpt: In April 2013 we introduced the emergent vendor category for aspiring m
 ---
 == CalConnect Revises Membership Categories and Dues, Event Fees
 
-[[node-406]]
 Posted August 3, 2016 
 
 In April 2013 we introduced the emergent vendor category for aspiring members. The introduction met our objectives, which were to encourage membership and to increase participation at CalConnect events. There are now 11 members who went through or are in these categories. Nevertheless, there is room for further improvement. One side of those improvements concerns the fee structure. We have made the fee structure simpler and updated membership and conference fees. +
- +
+
 *Emergent Vendor Categories* +
- We replaced all the emergent vendor categories and merged them in one single "All other organizational members" category with a general first year 50% discount, applicable to all new members of any category on their first year s membership fee, as well as a 50% discount for any event registration fees during that first year period. +
- +
+We replaced all the emergent vendor categories and merged them in one single "All other organizational members" category with a general first year 50% discount, applicable to all new members of any category on their first year s membership fee, as well as a 50% discount for any event registration fees during that first year period. +
+
 *Other Categories* +
- Most of the non-vendor other organizational categories have no members and/or don t need special treatment. Consequently, we merged all of the following categories into the All other organizational members category: Commercial Vendor revenue < $5M; Customer Organization or Company including government agencies; Not-for-Profit Open Source Development Organization; Not-for-Profit Customer Organization; Academic Institution; and Standards-Setting organizations. &nbsp; +
- +
- The yearly membership fee for this new, simpler "All other organizational members" category is $ 3000. +
- +
+Most of the non-vendor other organizational categories have no members and/or don t need special treatment. Consequently, we merged all of the following categories into the All other organizational members category: Commercial Vendor revenue < $5M; Customer Organization or Company including government agencies; Not-for-Profit Open Source Development Organization; Not-for-Profit Customer Organization; Academic Institution; and Standards-Setting organizations. 
+The yearly membership fee for this new, simpler "All other organizational members" category is $ 3000. +
+
 *Individual Member* +
- The Individual Member category remains unchanged with a yearly membership fee of $500. +
- +
+The Individual Member category remains unchanged with a yearly membership fee of $500. +
+
 *Conference Event fees (after CalConnect XXXVII in September)* +
- We changed the ways we charge for the Developers Forum / Test Event. Instead of charging $1800 for the first 2 attendees from the same organization, we will charge $1000 per attendee. To cover increasing conference charges paid by CalConnect we have raised the per person conference fees. As of December 31, 2016 event fees will be as follows: +
- Conference registration fee: $450 ($495 for late registration) +
- Developer s forum registration fee: $1000 per registrant for the first two participants and $250 per registration for any additional participants.
+We changed the ways we charge for the Developers Forum / Test Event. Instead of charging $1800 for the first 2 attendees from the same organization, we will charge $1000 per attendee. To cover increasing conference charges paid by CalConnect we have raised the per person conference fees. As of December 31, 2016 event fees will be as follows: +
+Conference registration fee: $450 ($495 for late registration) +
+Developer s forum registration fee: $1000 per registrant for the first two participants and $250 per registration for any additional participants.
 
 +
- You can find the new conference fee structure https://www.calconnect.org/membership-categories-and-fees[here].&nbsp; The event registration fee changes will be made after CalConnect XXXVII next month. +
- &nbsp;
+You can find the new conference fee structure https://www.calconnect.org/membership-categories-and-fees[here]. The event registration fee changes will be made after CalConnect XXXVII next month. +
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
 

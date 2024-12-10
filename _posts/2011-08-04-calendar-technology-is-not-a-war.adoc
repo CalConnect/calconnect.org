@@ -9,7 +9,6 @@ excerpt: Several days ago the New York Times ran an article about paper versus e
 
 == Calendar Technology is not a “War”
 
-[[node-253]]
 Posted August 4, 2011 
 
 Several days ago the New York Times ran an article about paper versus electronic calendars which suggested a war between paper versus electronic calendars: http://www.nytimes.com/2011/07/31/fashion/calendar-wars-pit-electronics-against-paper.html?pagewanted=1&_r=2[].
@@ -23,7 +22,7 @@ The point is that individuals, households and groups can and will choose the met
 When we started CalConnect in 2005, I expressed the vision of the organization as
 
 ____
-Our vision of the future is not only interoperable calendaring, but ubiquitous interoperable calendaring.&nbsp; Calendaring shouldand canbe as ubiquitous as electronic mail.
+Our vision of the future is not only interoperable calendaring, but ubiquitous interoperable calendaring. Calendaring shouldand canbe as ubiquitous as electronic mail.
 ____
 
 Actually, of course, calendaring has been pretty near ubiquitous for many years, long before electronic mail or computers, so in a sense I missed the real point, which wasn t calendaring by itself, but calendaring and scheduling.
@@ -35,24 +34,13 @@ Scheduling has been done via computer technology for at least forty years (anyon
 It s the interoperable part that is difficult, and why CalConnect was started. But it really is the point. Pamela Taylor, one of our Board members, made the point succinctly and pithily:
 
 ____
-Being able to schedule meetings with my work group is important.&nbsp; But being able to schedule an appointment with my hair stylist could change the world.
+Being able to schedule meetings with my work group is important. But being able to schedule an appointment with my hair stylist could change the world.
 ____
 
 In other words, fully self-service from her personal electronic calendar: ad hoc scheduling with virtually anyone else who has an electronic calendar. That really could change the world!
 
 Dave Thewlis +
- Executive Director +
- CalConnect  The Calendaring and Scheduling Consortium
+Executive Director +
+CalConnect  The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

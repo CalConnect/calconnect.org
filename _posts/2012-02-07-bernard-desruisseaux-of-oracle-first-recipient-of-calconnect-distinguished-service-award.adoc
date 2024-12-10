@@ -9,14 +9,13 @@ excerpt: CalConnect is honored to announce that Bernard Desruisseaux of Oracle w
 
 == Bernard Desruisseaux of Oracle first recipient of CalConnect Distinguished Service Award
 
-[[node-237]]
 Posted February 7, 2012 
 
 CalConnect is honored to announce that Bernard Desruisseaux of Oracle was the first recipient of the CalConnect Distinguished Service Award.
 
-The CalConnect Distinguished Service Award was created by the Board of Directors early in 2011 to recognize individuals who have given extraordinary and/or exemplary service to CalConnect and to interoperable calendaring more generally.&nbsp; At CalConnect XXIII last week, CalConnect announced that Bernard Desruisseaux of Oracle was the first recipient of the award.
+The CalConnect Distinguished Service Award was created by the Board of Directors early in 2011 to recognize individuals who have given extraordinary and/or exemplary service to CalConnect and to interoperable calendaring more generally. At CalConnect XXIII last week, CalConnect announced that Bernard Desruisseaux of Oracle was the first recipient of the award.
 
-Bernard has been active in CalConnect since its founding in 2004: he was one of the original Oracle team at the very first IOP test event, and helped to host the original CalConnect Roundtable in Montreal in 2004.&nbsp; He has chaired TC CalDAV and TC iSCHEDULE since their inception.&nbsp; In addition, he served on ad hoc committees and was most recently Oracle s representative to the Steering Committee.&nbsp; Bernard has authored, edited, and contributed to numerous IETF and CalConnect specifications.&nbsp; He has recommended possible new members to us and us to them.&nbsp; Bernard has attended almost every Roundtable, and most of the interoperability test events, up to this year, when his job responsibilities have drawn him away from direct involvement in CalConnect.
+Bernard has been active in CalConnect since its founding in 2004: he was one of the original Oracle team at the very first IOP test event, and helped to host the original CalConnect Roundtable in Montreal in 2004. He has chaired TC CalDAV and TC iSCHEDULE since their inception. In addition, he served on ad hoc committees and was most recently Oracle s representative to the Steering Committee. Bernard has authored, edited, and contributed to numerous IETF and CalConnect specifications. He has recommended possible new members to us and us to them. Bernard has attended almost every Roundtable, and most of the interoperability test events, up to this year, when his job responsibilities have drawn him away from direct involvement in CalConnect.
 
 Bernard s integrity, collegiality and comradeship, and his great technical knowledge, contributed to his ability to support the work of CalConnect, and to balance the interests and obligations of his employer with that of the greater good of the IT community and interoperable calendaring.
 
@@ -24,15 +23,4 @@ On behalf of CalConnect and the CalConnect Board of Directors.
 
 Dave Thewlis, Executive Director
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

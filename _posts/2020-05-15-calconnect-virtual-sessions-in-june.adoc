@@ -9,52 +9,40 @@ excerpt: Updated June 10 to merge Monday 22 June session into Wednesday June 24 
 
 == CalConnect Virtual Sessions in June
 
-[[node-524]]
 Posted May 15, 2020 
 
 _Updated June 10 to merge Monday 22 June session into Wednesday June 24 session_
 
-CalConnect will be offering the sessions listed below as virtual sessions via Zoom.&nbsp; These sessions are also open to the public interested in the topics and learning more about CalConnect.&nbsp; Each session will be no longer than an hour.&nbsp; The scheduled times have been chosen to be practical for as many people as possible who have expressed interest in the topic.&nbsp;
+CalConnect will be offering the sessions listed below as virtual sessions via Zoom. These sessions are also open to the public interested in the topics and learning more about CalConnect. Each session will be no longer than an hour. The scheduled times have been chosen to be practical for as many people as possible who have expressed interest in the topic.&nbsp;
 
-We will distribute access credentials for the sessions to all member representatives in advance of the sessions.&nbsp; If you are not a member representative but are interested in a session please send an e-mail to mailto:admin@calconnect.org?subject=Request%20to%20attend%20Virtual%20Sessions[Virtual Sessions] indicating which session(s) you wish to attend and we will send you access credentials prior to the session.&nbsp;
+We will distribute access credentials for the sessions to all member representatives in advance of the sessions. If you are not a member representative but are interested in a session please send an e-mail to mailto:admin@calconnect.org?subject=Request%20to%20attend%20Virtual%20Sessions[Virtual Sessions] indicating which session(s) you wish to attend and we will send you access credentials prior to the session.&nbsp;
 
 *Monday June 15 - Caching of CalDAV/CardDAV responses* +
 _Discussion of proper/recommended response "freshness" and Cache-Control directives_ +
- &nbsp;&nbsp;&nbsp; 0900 Pacific, 1200 Eastern, 1800 CET
+ &nbsp;&nbsp; 0900 Pacific, 1200 Eastern, 1800 CET
 
 *Tuesday June 16 - Determining the subset of CalDAV features actually used by clients* +
 _Some features in the CalDAV specification are not widely implemented or used. This results in implementers of new clients putting work into features that are unnecessary or don't work.This session will be a discussion during which we can identify features that should be deprecated. We may also be able to define a minimum usable profile. This should result in at least a page in the developers guide and possibly an RFC._ +
- &nbsp;&nbsp; 0900 Pacific, 1200 Eastern, 1800 CET
+ &nbsp; 0900 Pacific, 1200 Eastern, 1800 CET
 
-*Wednesday June 17 - Joint session with IETF JMAP Working Group:&nbsp; Update on JMAP protocols and extensions* +
+*Wednesday June 17 - Joint session with IETF JMAP Working Group: Update on JMAP protocols and extensions* +
 _Introduction and concepts. JMAP is the basis for the new calendar and contact protocols._ +
- &nbsp;&nbsp;&nbsp; 0600 Pacific, 0900 Eastern,1500 CET, 2300 Melbourne
+ &nbsp;&nbsp; 0600 Pacific, 0900 Eastern,1500 CET, 2300 Melbourne
 
-*Thursday June 18 - Joint session with IETF CALEXT Working group:&nbsp; Status of CalConnect drafts at IETF* +
+*Thursday June 18 - Joint session with IETF CALEXT Working group: Status of CalConnect drafts at IETF* +
 _This will be a virtual session with CALEXT WG participants and will be conducted as an IETF virtual WG meeting with public participation_. Public documents (e.g. at the IETF or in our public github) will be discussed, as will privacy issues relating to calendar issues. The rules of discussion will be announced at the beginning of the session. An agenda will be published in advance and minutes will be available. +
- &nbsp;&nbsp;&nbsp; 0900 Eastern, 1500 CET, 2300 Melbourne
+ &nbsp;&nbsp; 0900 Eastern, 1500 CET, 2300 Melbourne
 
 *Monday June 22 - No Session; merged into Wednesday June 24 session*
 
 *Tuesday June 23 - Update and discussion on TC-VCARD and ISO TC 211 work* +
 _Status of ongoing work, structured name Interchange, digital addressing registry._ +
- &nbsp;&nbsp;&nbsp; 0800 Eastern, 1400 CET, 2000 Hong Kong, 2200 Melbourne&nbsp;
+ &nbsp;&nbsp; 0800 Eastern, 1400 CET, 2000 Hong Kong, 2200 Melbourne&nbsp;
 
 *Wednesday June 24 - Joint session with ISO/TC 154/WG 5; Update and discussion on TC-DATETIME and ISO TC154 work* +
-_Reference time scales, date/time representation, vocabulary,&nbsp; ISO 8601-1 and -2._ +
- &nbsp;&nbsp;&nbsp; 0800 Eastern, 1400 CET, 2000 Hong Kong, 2200 Melbourne
+_Reference time scales, date/time representation, vocabulary, ISO 8601-1 and -2._ +
+ &nbsp;&nbsp; 0800 Eastern, 1400 CET, 2000 Hong Kong, 2200 Melbourne
 
-The Virtual Sessions appear on the CalConnect Master Calendar and on a dedicated Virtual Sessions calendar.&nbsp; You may subscribe to the master calendar at http://webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0[webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0] or the Virtual Sessions calendar at http://webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0[webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0.]
+The Virtual Sessions appear on the CalConnect Master Calendar and on a dedicated Virtual Sessions calendar. You may subscribe to the master calendar at http://webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0[webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0] or the Virtual Sessions calendar at http://webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0[webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0.]
 
-
-
-Categories:&nbsp;
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/current-events[Current Events]
-
-link:/news/announcements[Announcements]
 

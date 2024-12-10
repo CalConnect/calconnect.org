@@ -4,29 +4,17 @@ title: Only 10 days to CalConnect XLIII in Karlsruhe September 24-27
 date: 2018-09-14
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: It’s only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1!  If you are  thinking about coming, it’s time to register:  link://events/event-registration-payment.   Please note that non-members can come as observers and participate in the entire meeting. 
+excerpt: It’s only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1!  If you are  thinking about coming, it’s time to register:  link:/events/event-registration-payment.   Please note that non-members can come as observers and participate in the entire meeting. 
 ---
 
 == Only 10 days to CalConnect XLIII in Karlsruhe September 24-27
 
-[[node-488]]
 Posted September 14, 2018 
 
-It s only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1!&nbsp; If you are&nbsp; thinking about coming, it s time to register:&nbsp; link://events/event-registration-payment[].&nbsp;&nbsp; Please note that non-members can come as observers and participate in the entire meeting.&nbsp;
+It s only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1! If you are thinking about coming, it s time to register: link:{{'/events/event-registration-payment' | relative_url}}[].&nbsp; Please note that non-members can come as observers and participate in the entire meeting.&nbsp;
 
-There is also a one-day registration: link://events/event-one-day-registration - check out the schedule of sessions at link://events/calconnect-xliii-september-2018#conference-schedule to choose a day most interesting to you.
+There is also a one-day registration: link:/events/event-one-day-registration - check out the schedule of sessions at link:/events/calconnect-xliii-september-2018#conference-schedule to choose a day most interesting to you.
 
 Hope we see you in Karlsruhe!
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

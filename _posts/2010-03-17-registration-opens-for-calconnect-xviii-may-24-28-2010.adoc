@@ -9,18 +9,8 @@ excerpt: Registration is now open for CalConnect XVIII, May 24-28, 2010, at Carn
 
 == Registration opens for CalConnect XVIII May 24-28 2010
 
-[[node-307]]
 Posted March 17, 2010 
 
-Registration is now open for CalConnect XVIII, May 24-28, 2010, at Carnegie Mellon University in Pittsburg, Pennsylvania. This week will include both a regular and a mobile calendaring interoperability test event, and a Roundtable (members  meeting). Please see link://calconnect18.shtml[CalConnect XVIII] for logistics and registration information.
+Registration is now open for CalConnect XVIII, May 24-28, 2010, at Carnegie Mellon University in Pittsburg, Pennsylvania. This week will include both a regular and a mobile calendaring interoperability test event, and a Roundtable (members  meeting). Please see link:{{'/calconnect18' | relative_url}}[CalConnect XVIII] for logistics and registration information.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

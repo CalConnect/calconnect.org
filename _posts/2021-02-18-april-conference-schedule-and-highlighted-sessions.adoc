@@ -9,7 +9,6 @@ excerpt: The preliminary schedule for our April 2021 Virtual Conference is now a
 
 == April Conference Schedule and Highlighted Sessions
 
-[[node-543]]
 Posted February 18, 2021 
 
 The *preliminary schedule* for our April 2021 Virtual Conference is now available at https://www.calconnect.org/events/calconnect-virtual-conference-2021#conference-schedule[https://www.calconnect.org/events/calconnect-virtual-conference-2021#conference-schedule.]
@@ -20,20 +19,11 @@ The *preliminary schedule* for our April 2021 Virtual Conference is now availabl
  - Report on implementing JSCalendar in Bedework and Fastmail
 
 *Tuesday 13 April 1100-1200:* *DMARC and iMIP Constraints and Incompatibilities* +
- There are known issues with iMip and DMARC. For example, forwarding of invitations and sending on behalf of another user. We will outline the problems and possibly suggest solutions.
+There are known issues with iMip and DMARC. For example, forwarding of invitations and sending on behalf of another user. We will outline the problems and possibly suggest solutions.
 
-*Wednesday 1100-1200:*&nbsp; *Calendaring, Public Events and Higher Education* +
- A discussion on the calendar issues facing higher ed institutions. These include resource management and event publication.
+*Wednesday 1100-1200:* *Calendaring, Public Events and Higher Education* +
+A discussion on the calendar issues facing higher ed institutions. These include resource management and event publication.
 
-*PLEASE NOTE:*&nbsp; *We are very interested in suggestions and proposals for additional sessions from members and non-members alike.* Please send any ideas, suggestions or proposals to mailto:contact@calconnect.org?subject=Session%20proposal%20for%20April[contact@calconnect.org].
+*PLEASE NOTE:* *We are very interested in suggestions and proposals for additional sessions from members and non-members alike.* Please send any ideas, suggestions or proposals to mailto:contact@calconnect.org?subject=Session%20proposal%20for%20April[contact@calconnect.org].
 
-
-
-Categories:&nbsp;
-
-link:/news/special-focus[Special Focus]
-
-link:/news/current-events[Current Events]
-
-link:/news/announcements[Announcements]
 

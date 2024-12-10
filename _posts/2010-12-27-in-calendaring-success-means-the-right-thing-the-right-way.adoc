@@ -9,7 +9,6 @@ excerpt: CalConnect, as you learn from our web site, link:/, “is focused on th
 
 == In calendaring, success means the right thing, the right way!
 
-[[node-273]]
 Posted December 27, 2010 
 
 CalConnect, as you learn from our web site, link:/, is focused on the interoperable exchange of calendaring and scheduling information between dissimilar programs, platforms, and technologies. The Consortium s mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing.
@@ -33,15 +32,6 @@ Calendaring standards and formats are just a means to an end  making our events 
 It is well worth your while to run through the exercise of exporting your public events, and importing them into the more widely used calendaring systems to ensure that you have, indeed, done the right thing the right way.
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

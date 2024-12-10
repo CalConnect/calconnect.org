@@ -9,22 +9,8 @@ excerpt: Today the IETF published xCal, the iCalendar in XML specification, as R
 
 == xCal – iCalendar in XML – published as RFC6321
 
-[[node-252]]
 Posted August 8, 2011 
 
 Today the IETF published xCal, the iCalendar in XML specification, as RFC 6321  http://tools.ietf.org/html/rfc6321[]. CalConnect congratulates the authors of the specification, and our XML Technical Committee, for their hard work and perseverance.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

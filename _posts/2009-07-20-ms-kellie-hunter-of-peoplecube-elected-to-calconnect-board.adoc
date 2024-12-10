@@ -9,16 +9,8 @@ excerpt: Ms. Kellie Hunter of PeopleCube has been elected to the CalConnect Boar
 
 == Ms. Kellie Hunter of PeopleCube elected to CalConnect Board
 
-[[node-330]]
 Posted July 20, 2009 
 
-Ms. Kellie Hunter of PeopleCube has been elected to the CalConnect Board of Directors and has assumed the position of Chief Financial Officer. The new Board of Directors makeup and officer appointments may be found at link://directors.shtml[CalConnect Board of Directors].
+Ms. Kellie Hunter of PeopleCube has been elected to the CalConnect Board of Directors and has assumed the position of Chief Financial Officer. The new Board of Directors makeup and officer appointments may be found at link:{{'/directors' | relative_url}}[CalConnect Board of Directors].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
 

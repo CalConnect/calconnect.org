@@ -3,14 +3,13 @@ layout: page
 title: Only 4 weeks to CalConnect XVII
 date: 2010-01-03
 type: news
-categories: 
+categories:
 excerpt: It is now only 4 weeks (28 days) to CalConnect XVII, February 1-5 at the University of California at Irvine, and only 12 days until Early Registration (for the Roundtable) ends on the 15th. After that the registration fee will increase from $350 to $395.
 ---
 
 == Only 4 weeks to CalConnect XVII
 
-[[node-314]]
-Posted January 3, 2010 
+Posted January 3, 2010
 
 It is now only 4 weeks (28 days) to CalConnect XVII, February 1-5 at the University of California at Irvine, and only 12 days until Early Registration (for the Roundtable) ends on the 15th. After that the registration fee will increase from $350 to $395.
 
@@ -20,7 +19,5 @@ The logistics page (see below) will be updated shortly with the actual schedule 
 
 This Interoperability Test Event will actually be comprised of both a regular IOP Test Event (we expect to be doing CardDAV testing in addition to iCalendar and CalDAV testing) and a Mobile Calendaring IOP Test Event primarily focused on calendaring via synchronization (ActiveSync and SyncML).
 
-Please see link://calconnect17.shtml for logistics and planning information, plus link://regtypes.shtml[registration links]. For more information specifically about the Mobile Interop including the testing schedule, see link://miop1002.shtml[]. &nbsp;
-
-
+Please see link:{{'/calconnect17' | relative_url}} for logistics and planning information, plus link:{{'/regtypes' | relative_url}}[registration links]. For more information specifically about the Mobile Interop including the testing schedule, see link:{{'/miop1002' | relative_url}}[].
 

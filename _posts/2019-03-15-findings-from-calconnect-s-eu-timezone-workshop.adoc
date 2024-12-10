@@ -9,7 +9,6 @@ excerpt: CalConnect held a timezone workshop on February 5th 2019, in conjunctio
 
 == Findings from CalConnect's EU Timezone workshop
 
-[[node-503]]
 Posted March 15, 2019 
 
 CalConnect held a timezone workshop on February 5th 2019, in conjunction with its meeting in Zurich. This workshop was initiated to discuss the EU's proposal allowing member states the option to select permanently remain on either "Standard Time" or "Summer Time", addressing issues of governance and challenges of technical implementation. Workshop attendees represented a number of major vendors and the https://www.iana.org/time-zones[IANA tz database].&nbsp;
@@ -26,15 +25,12 @@ Updates to timezone information are commonly distrubted by copying timezone data
 
 Given the lack of structured formats and rigorous propagation mechanisms, much of the work in tracking changes and additions is a volunteer effort. These issues led to the development of the Time Zone Data Distribution Standard (https://tools.ietf.org/rfc/rfc7808.txt[RFC 7808]) and Time Zone Information Format (https://tools.ietf.org/rfc/rfc8536.txt[RFC 8536]) standards. However, these standards have yet to be meaningfully adopted.
 
-In a previous https://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[statement released 2018-10-30], CalConnect urges the EU to provide a transition period of at least one year (12 months) following a final decision.&nbsp; This guidance draws upon CalConnect's extensive work during the United States debate of 2005-2008 regarding changes to the Daylight Saving Time start and end dates, and the lessons learned from that transition.
+In a previous https://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[statement released 2018-10-30], CalConnect urges the EU to provide a transition period of at least one year (12 months) following a final decision. This guidance draws upon CalConnect's extensive work during the United States debate of 2005-2008 regarding changes to the Daylight Saving Time start and end dates, and the lessons learned from that transition.
 
 A complete account of CalConnect's 2019 meeting in Zurich is available at https://standards.calconnect.org/csd/csd-report-conference-44.html[standards.calconnect.org].
 
-CalConnect, The Calendaring & Scheduling Consortium, is comprised of technology vendors and end-user organizations focused on the areas of date and time, calendaring, and scheduling.&nbsp; It pursues the wide availability of truly interoperable collaboration tools through the use of open standards.
+CalConnect, The Calendaring & Scheduling Consortium, is comprised of technology vendors and end-user organizations focused on the areas of date and time, calendaring, and scheduling. It pursues the wide availability of truly interoperable collaboration tools through the use of open standards.
 
 
-
-Categories:&nbsp;
-
-link:/taxonomy/term/17[Press Releases]
+link:{{'/taxonomy/term/17' | relative_url}}[Press Releases]
 

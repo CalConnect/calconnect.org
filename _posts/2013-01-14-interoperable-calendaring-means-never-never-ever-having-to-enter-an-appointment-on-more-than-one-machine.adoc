@@ -9,7 +9,6 @@ excerpt: In the context of CalConnect’s mission, to advance interoperable cale
 
 == Interoperable Calendaring means never, never, ever having to enter an appointment on more than one machine
 
-[[node-215]]
 Posted January 14, 2013 
 
 In the context of CalConnect s mission, to advance interoperable calendaring & scheduling in practical and useful ways, one of our major activities is to promote open-standards based calendaring and scheduling to the general public as well as the information technology industry. From time to time, we receive unsolicited help in bringing our message to the general public, such as David Pogue s column in last week s New York Times, Bringing the Calendar Up to Date (http://www.nytimes.com/2013/01/08/technology/personaltech/mixing-and-matching-to-create-the-near-perfect-digital-calendar-state-of-the-art.html?pagewanted=all).
@@ -22,7 +21,7 @@ There is more to interoperable calendaring and scheduling than just entering eve
 
 However, Pogue s almost parenthetical aside goes to the heart of a lot of it, and a lot of what CalConnect is doing today. Although CalConnect is not a formal standards development organization, virtually every important calendaring or calendaring-related standard over the last five years has been authored, edited and/or coedited by members of a CalConnect Technical Committee.
 
-And our link://currentwork.shtml[work in progress], in areas such as open, interoperable server to server scheduling (iSCHEDULE), standardized data representations in XML and (now) JSON, calendaring web services (in collaboration with OASIS in the context of the NIST Smart Gird initiative), timezone services, improved sharing of calendars and contacts, calendar alarms and attachments, extensions to provide richer expression of public events on the web, to name some of the areas our technical committees are working in.
+And our link:{{'/currentwork' | relative_url}}[work in progress], in areas such as open, interoperable server to server scheduling (iSCHEDULE), standardized data representations in XML and (now) JSON, calendaring web services (in collaboration with OASIS in the context of the NIST Smart Gird initiative), timezone services, improved sharing of calendars and contacts, calendar alarms and attachments, extensions to provide richer expression of public events on the web, to name some of the areas our technical committees are working in.
 
 Whereas many of these features exist today in some products, the implementations are proprietary, or work across only selected products. This is also true in another area we are working on, consensus scheduling, which is the process whereby a group comes to agreement on when (and maybe where) to hold a meeting or carry out a task, or identifies the best time  maximizing participation, minimizing inconvenience, to schedule an event or perform a task. Consensus scheduling minimizes the overhead of achieving consensus or identifying the most favorable time(s) by allowing the potential participants to observe the responses of the other voters, and to use any scheduling flexibility they may have to adjust their response for the benefit of the entire group.
 
@@ -38,15 +37,6 @@ http://chronicle.com/blogs/profhacker/scheduling-101-a-few-updates-and-announcem
 CalConnect is truly a partnership between vendors of calendaring and scheduling systems and tools, and users of those tools¦ Although neither David Pogue, nor the New York Times, are members of CalConnect, a situation easily rectified, articles such as these not only help inform the general public, the users of these tools, but also inform the discussion and work of CalConnect and its members, and ultimately, new open standards (or changes to existing standards), and the resulting products which we will be using in the future.
 
 Gary Schwartz +
- President, CalConnect, The Calendaring and Scheduling Consortium
+President, CalConnect, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

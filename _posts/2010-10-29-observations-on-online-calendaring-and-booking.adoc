@@ -9,8 +9,7 @@ excerpt: A recent (October 25th) post in the CalendarReview blog, “Online cale
 
 == Observations on “Online calendaring and booking”
 
-[[node-276]]
-Posted October 29, 2010 
+Posted October 29, 2010
 
 A recent (October 25th) post in the CalendarReview blog, Online calendaring and online booking, discusses connecting user-based interfaces (such as shopfronts , customer-to-business incarnations, and the not yet pervasive appointment search engines) and booking or calendaring systems, to provide for generalized booking for medical appointments, tennis courts, auto repair, etc. The author, a developer at ClickBook, goes on to say he has developed a draft document for a web-service based API, and concludes with I don t know if this issue has been raised at CalConnect, but it should.
 
@@ -23,15 +22,6 @@ CalConnect would be delighted to see more direct involvement from organizations 
 We would welcome their membership and participation in our technical work, and in participation in our interoperability test events. Don t just speculate about what CalConnect is doing  be an active participant in what CalConnect is doing.
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

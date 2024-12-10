@@ -9,7 +9,6 @@ excerpt: CalConnect held its thirty-first Conference and Interoperability Test E
 
 == Observations from CalConnect XXXI in Bedford, United Kingdom
 
-[[node-166]]
 Posted October 20, 2014 
 
 CalConnect held its thirty-first Conference and Interoperability Test Event the week of September 29  October 3, hosted by http://ga.youcanbook.me[Youcanbook.me] in Bedford, United Kingdom.
@@ -31,20 +30,20 @@ In the weeks immediately preceding CalConnect XXXI, two organizations joined Cal
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
-* link://tc-freebusy.shtml[TC FREEBUSY]
+* link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY]
 +
 provided a live demo of a VPOLL (consensus scheduling) client, and expects to be able to demonstrate multiple clients and servers at the next CalConnect Event featuring multiple implementations each on its own server via iSCHEDULE (server-server scheduling).
-* link://tc-fsc.shtml[TC FSC]
+* link:{{'/tc-fsc' | relative_url}}[TC FSC]
 +
 (Federated Shared Calendars) and
 +
-link://tc-sharing.shtml[TC SHARING]
+link:{{'/tc-sharing' | relative_url}}[TC SHARING]
 +
 (Contacts and Calendar Sharing for CalDAV and CardDAV) were formed from the Contacts Sharing and FSC Provisional Committees at the end of the last event, and offered their first sessions as Technical Committees at this event.
 
 *Trending  Interoperability testing*
 
-The interoperability testing was very successful, with 15 participants onsite from 9 members; additionally 4 people from 3 members attended the test event remotely. As always much testing of various CalDAV features. Some new implicit scheduling implementations testing against clients. TC IOPTEST will start building a list of areas to test next time immediately  starting early may help to provide some specific implementation goals. In particular we hope to have initial implementations of the PUSH specifications being developed by TC PUSH.. A more detailed accounting of the interoperability testing is available at link://eventreports.shtml#ioptestevents[CalConnect Interoperability Test Event Reports].
+The interoperability testing was very successful, with 15 participants onsite from 9 members; additionally 4 people from 3 members attended the test event remotely. As always much testing of various CalDAV features. Some new implicit scheduling implementations testing against clients. TC IOPTEST will start building a list of areas to test next time immediately  starting early may help to provide some specific implementation goals. In particular we hope to have initial implementations of the PUSH specifications being developed by TC PUSH.. A more detailed accounting of the interoperability testing is available at link:{{'/eventreports#ioptestevents' | relative_url}}[CalConnect Interoperability Test Event Reports].
 
 *Trending  Special Events*
 
@@ -56,9 +55,9 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 
 *Published documents* :
 
-* link://conference31rpt.shtml[Report on CalConnect Conference XXXI]
-* link://7_things_api.shtml[7 Things You Should Know About the Abstract Calendaring API]
-* link://starterlistcaldavcarddav.shtml[Updated Starter List of CalDAV and CardDAV Standards and Specifications]
+* link:{{'/conference31rpt' | relative_url}}[Report on CalConnect Conference XXXI]
+* link:{{'/7_things_api' | relative_url}}[7 Things You Should Know About the Abstract Calendaring API]
+* link:{{'/starterlistcaldavcarddav' | relative_url}}[Updated Starter List of CalDAV and CardDAV Standards and Specifications]
 
 *CalConnect internet drafts adopted for progression via IETF Working Groups*:
 
@@ -78,7 +77,7 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 
 *Trending  Organizationally*
 
-Mike Douglass of Rensselaer Polytechnic Institute was the fifth recipient of the link://dsa.shtml[CalConnect Distinguished Service Award]. Mr. Douglass has been active in CalConnect since 2005, and currently serves as the Chair of TC EVENTPUB, TC IOPTEST, TC TIMEZONE, and the co-Chair of TC FREEBUSY, in addition to being the CalConnect Interoperability Test Manager since 2011.
+Mike Douglass of Rensselaer Polytechnic Institute was the fifth recipient of the link:{{'/dsa' | relative_url}}[CalConnect Distinguished Service Award]. Mr. Douglass has been active in CalConnect since 2005, and currently serves as the Chair of TC EVENTPUB, TC IOPTEST, TC TIMEZONE, and the co-Chair of TC FREEBUSY, in addition to being the CalConnect Interoperability Test Manager since 2011.
 
 *Wrapping it all together*
 
@@ -86,13 +85,4 @@ CalConnect wishes to again thank Youcanbook.me for helping to make CalConnect XX
 
 The next CalConnect event will take place January 26-30, 2015 in San Jose, California,hosted by http://www.kerio.com[Kerio Technologies]. We ll be posting more information about this event going forward, and we invite you to join us and learn more about what we are doing moving forward.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

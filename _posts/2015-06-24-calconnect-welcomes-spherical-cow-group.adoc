@@ -9,18 +9,8 @@ excerpt: CalConnect welcomes Spherical Cow Group to the Consortium. Spherical Co
 
 == CalConnect Welcomes Spherical Cow Group
 
-[[node-129]]
 Posted June 24, 2015 
 
 CalConnect welcomes http://sphericalcowgroup.com[Spherical Cow Group] to the Consortium. Spherical Cow Group, based in New York, NY, is an IT consultancy particularly around calendaring and identity management.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/member-news[Member News]
 

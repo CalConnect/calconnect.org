@@ -9,8 +9,7 @@ excerpt: We are excited and very pleased to announce our first full CalConnect c
 
 == CalConnect is coming to Europe this October
 
-[[node-250]]
-Posted August 12, 2011 
+Posted August 12, 2011
 
 We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies  if you want a chance to do interoperability testing against other implementations  if traveling to North America to do so hasn t been practical  here s your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
 
@@ -24,21 +23,21 @@ European companies were among CalConnect s founding members in 2005; as standard
 
 Our venue is the http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza] in Prague. Prague (Praha  the name of the city in Czech), the Capital City of the Czech Republic, is known as the pearl of Europe; it is one of the most beautiful and unspoiled cities in Europe. For six centuries it has remained nearly untouched by war, leaving intact stunning examples from the Romanesque, Gothic, Renaissance, Baroque, and Rococo architectural styles. Prague is one of Europes most charming and affordable destinations.
 
-Full information about the conference may be found at link://calconnect22.shtml[CalConnect XXII] including schedules, registration, and logistics information.
+Full information about the conference may be found at link:{{'/calconnect22' | relative_url}}[CalConnect XXII] including schedules, registration, and logistics information.
 
 The first 2.5 days (Monday, Tuesday, the morning of Wednesday) will be our Interoperability Test Event. The last 2.5 days (Wednesday afternoon, Thursday and Friday) will be our Technical Conference (Roundtable) which will include workshops, symposia, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
 *Registration and Fees*
 
-You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link://regtypes.shtml[Registration and Fees] for more information and registration forms. +
- +
+You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms. +
+
 *Special Fees for This Event:* $350 U.S. per person to non-members to cover either the Interoperability Test Event, the Roundtable Technical Conference, or both. Non-members may always participate in the Interoperability Test Events, and may attend a single Roundtable as observers to determine if they are interested in joining CalConnect. CalConnect is also offering a special Interoperability Test Event fee of $350 for one person for non-vendor members of CalConnect.
 
 We encourage you to register as soon as possible. Upon registration you will be invoiced for the amount due. However, you may choose to pay later, up to the week of the event, if it is more convenient.
 
 *Who and What is CalConnect?*
 
-As stated above, we are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link://mbrlist.shtml[CalConnect Members]. Learn more about CalConnect at our link://[website] and our https://calconnect.wordpress.com/[blog], and from our newsletter link://minutes.shtml[CalConnect Minutes], published after each CalConnect Roundtable (conference), in particular the latest newsletter reviewing link://minutes/CalConnect%20Minutes%20Jun2011.pdf[CalConnect XXI] in May at NASA Ames. You can find out more about membership in CalConnect at link://membership.shtml[CalConnect Membership].
+As stated above, we are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}[blog], and from our newsletter link:/minutes[CalConnect Minutes], published after each CalConnect Roundtable (conference), in particular the latest newsletter reviewing link:/minutes/CalConnect%20Minutes%20Jun2011.pdf[CalConnect XXI] in May at NASA Ames. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
 *Questions and Feedback:*
 
@@ -48,11 +47,10 @@ In particular, if you are interested in the Interoperability Test event and woul
 
 Please join us in Prague!
 
--
 
 *More Information:*
 
-More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link://calconnect22.shtml#schedule[CalConnect XXII Schedule]. The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link://calconnect22.shtml[CalConnect XXII].
+More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link:{{'/calconnect22#schedule' | relative_url}}[CalConnect XXII Schedule]. The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link:{{'/calconnect22' | relative_url}}[CalConnect XXII].
 
 *Interoperability Testing*
 
@@ -61,17 +59,17 @@ The Interoperability Testing will take place Monday and Tuesday, October 3-4, pl
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. Some of the areas we expect to be testing include:
 
 iCalendar/iMIP/iTIP testing +
- CalDAV, including implicit scheduling +
- CardDAV +
- CalDAV/CardDAV SRV discovery and well-known URI +
-link:/docs/CD0903%20Freebusy%20Read%20URL.pdf[Freebusy Read URL] protocol +
- The new https://datatracker.ietf.org/doc/draft-douglass-timezone-service/[Timezone Service Protocol] +
+CalDAV, including implicit scheduling +
+CardDAV +
+CalDAV/CardDAV SRV discovery and well-known URI +
+link:{{'/docs/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Freebusy Read URL] protocol +
+The new https://datatracker.ietf.org/doc/draft-douglass-timezone-service/[Timezone Service Protocol] +
 http://tools.ietf.org/html/rfc6321[xCal, the XML format for iCalendar] +
- CalWS, the link:/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[Web Services protocol for calendaring]** +
- Mobile CalDAV client/server testing +
- If there is interest, synchronization testing for mobile clients in general
+CalWS, the link:{{'/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url}}[Web Services protocol for calendaring]** +
+Mobile CalDAV client/server testing +
+If there is interest, synchronization testing for mobile clients in general
 
-Please see link://iop1110.shtml[CalConnect XXII IOP Test Event] for more information.
+Please see link:{{'/iop1110' | relative_url}}[CalConnect XXII IOP Test Event] for more information.
 
 **The existing REST specification will also have a SOAP version published before October. CalWS is being developed in support of the WS Calendar specification from OASIS as part of the NIST Smart Grid initiative; however it is a general implementation of calendaring and scheduling operations via web services.
 
@@ -81,39 +79,27 @@ Please see link://iop1110.shtml[CalConnect XXII IOP Test Event] for more informa
 Thursday and Friday mornings will be dedicated to four 1.5 hour workshops and symposia. The workshops are included in the Roundtable Registration. We have not finalized the subjects as yet but the areas under discussion include:
 
 Introduction and overview of calendaring and scheduling standards and specifications +
- Technical overview of CalDAV and the CalDAV standards with Q&A with the author(s) +
- Tasks/VTODOs  extensions needed to calendaring standards to more fully support tasks, project management applications, and so forth (follow-on to workshop at our May event at NASA) +
- VAVAILABILITY, consensus scheduling and Office Hours +
- CalWS (web services protocol for calendaring)  technical overview and workshop
+Technical overview of CalDAV and the CalDAV standards with Q&A with the author(s) +
+Tasks/VTODOs  extensions needed to calendaring standards to more fully support tasks, project management applications, and so forth (follow-on to workshop at our May event at NASA) +
+VAVAILABILITY, consensus scheduling and Office Hours +
+CalWS (web services protocol for calendaring)  technical overview and workshop
 
-The link://calconnect22.sthml#schedule[CalConnect XXII Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified.
+The link:{{'/calconnect22.sthml#schedule' | relative_url}}[CalConnect XXII Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified.
 
 *Roundtable (Technical Conference*)
 
-At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as shown in the link://calconnect22.sthml#schedule[CalConnect XXII Schedule]. The schedule includes
+At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as shown in the link:{{'/calconnect22.sthml#schedule' | relative_url}}[CalConnect XXII Schedule]. The schedule includes
 
 Opening and introduction to CalConnect +
- Report from the Interoperability Test Event +
- Technical Committee sessions for all CalConnect TCs +
- Opportunities for BOFs (birds of a feather discussions) +
- Final wrapup and summary of all Technical Committee sessions +
- CalConnect Plenary Session
+Report from the Interoperability Test Event +
+Technical Committee sessions for all CalConnect TCs +
+Opportunities for BOFs (birds of a feather discussions) +
+Final wrapup and summary of all Technical Committee sessions +
+CalConnect Plenary Session
 
 The conference will conclude no later than 18:00 on Friday, October 7th.
 
 *Social Events*:
 
-There will be a dinner for all Interoperability Test Event participants on Monday Evening, a Reception on Wednesday evening (at the hotel) for all participants in either the Test Event and/or the Technical Conference, and a dinner for all Technical Conference participants on Thursday evening. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
+There will be a dinner for all Interoperability Test Event participants on Monday Evening, a Reception on Wednesday evening (at the hotel) for all participants in either the Test Event and/or the Technical Conference, and a dinner for all Technical Conference participants on Thursday evening.
 

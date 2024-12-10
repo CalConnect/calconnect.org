@@ -9,7 +9,6 @@ excerpt: CalConnect is now a principal member of the Metaverse Standards Forum. 
 
 == CalConnect joins the Metaverse Standards Forum
 
-[[node-557]]
 Posted August 2, 2022 
 
 CalConnect is now a principal member of the https://metaverse-standards.org/[Metaverse Standards Forum]. CalConnect standards are used ubiquitously and our mandate extends to the metaverse.
@@ -18,9 +17,4 @@ We are proud to be the first group of SDOs that prioritises the need of standard
 
 We look forward to the creation of an interoperable metaverse inclusive to all.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
 

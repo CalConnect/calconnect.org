@@ -4,18 +4,17 @@ title: Only three weeks to CalConnect XXXV January 11-15 2016
 date: 2015-12-17
 type: news
 categories: announcements current-events
-excerpt: Well, actually it’s a few days more than three weeks. BUT the point is, if you’re planning to come to AOL in Palo Alto for CalConnect XXXV, it’s time to register and make your arrangements. Info about CalConnect XXXV can be found at link://calconnect35.shtml; registration info is at link://regtypes.shtml .
+excerpt: Well, actually it’s a few days more than three weeks. BUT the point is, if you’re planning to come to AOL in Palo Alto for CalConnect XXXV, it’s time to register and make your arrangements. Info about CalConnect XXXV can be found at link:/calconnect35; registration info is at link:/regtypes .
 ---
 
 == Only three weeks to CalConnect XXXV January 11-15 2016
 
-[[node-54]]
 Posted December 17, 2015 
-image::link:/assets/images/AOLPaloAlto-02.jpg[AOL Palo Alto,480,360]
+image::link:{{'/assets/images/AOLPaloAlto-02.jpg' | relative_url}}[AOL Palo Alto,480,360]
 
 AOL Palo Alto
 
-Well, actually it s a few days more than three weeks. BUT the point is, if you re planning to come to AOL in Palo Alto for CalConnect XXXV, it s time to register and make your arrangements. Info about CalConnect XXXV can be found at link://calconnect35.shtml[]; registration info is at link://regtypes.shtml .
+Well, actually it s a few days more than three weeks. BUT the point is, if you re planning to come to AOL in Palo Alto for CalConnect XXXV, it s time to register and make your arrangements. Info about CalConnect XXXV can be found at link:{{'/calconnect35' | relative_url}}[]; registration info is at link:/regtypes .
 
 Early registration will end on 27 December for the conference; as of 28 December it will go up to $395.
 
@@ -23,11 +22,4 @@ Remember, you can come to a CalConnect conference as an observer to decide if yo
 
 See you in Palo Also!
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
 

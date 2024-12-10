@@ -4,27 +4,17 @@ title: CalConnect Blog Superceded by New Website News Feed
 date: 2016-02-28
 type: news
 categories: announcements current-events special-focus
-excerpt: We have superceded our old blog, calconnect.wordpress.com, with the news feed from our new website, www.calconnect.org/news.  We've also put a redirect in on the old blog site so anyone with a bookmark to the old blog will wind up on the new news feed.  In the process, virtually all of the old blog entries have been ported into the new site so you can still reference old blog entries.
+excerpt: We have superceded our old blog, calconnect.wordpress.com, with the news feed from our new website, www.calconnect.org/news.
 ---
 
 == CalConnect Blog Superceded by New Website News Feed
 
-[[node-357]]
-Posted February 28, 2016 
+Posted February 28, 2016
 
-We have superceded our old blog, calconnect.wordpress.com, with the news feed from our new website, link://news.%C2%A0[www.calconnect.org/news.&nbsp;] We've also put a redirect in on the old blog site so anyone with a bookmark to the old blog will wind up on the new news feed.&nbsp; In the process, virtually all of the old blog entries have been ported into the new site so you can still reference old blog entries.
-
-&nbsp;
+We have superceded our old blog, calconnect.wordpress.com, with the news feed from our new website, link:{{'/news' | relative_url}}[www.calconnect.org/news]. We've also put a redirect in on the old blog site so anyone with a bookmark to the old blog will wind up on the new news feed. In the process, virtually all of the old blog entries have been ported into the new site so you can still reference old blog entries.
 
 &nbsp;
 
+&nbsp;
 
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

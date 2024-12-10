@@ -9,7 +9,6 @@ excerpt: CalConnect was founded almost 10 years ago as a collaboration between c
 
 == Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 – Agenda & Participants
 
-[[node-179]]
 Posted May 12, 2014 
 
 CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
@@ -18,7 +17,7 @@ We are using the recent VA Scheduling System Contest as a jump point to explore 
 
 Please note that this information is current as of Monday 12 May 2014. We expect that there may be additions and changes to the participant list and possibly to the presenters or panelists.
 
-The workshop is open to the public by advance registration. To register please see link://workshopreg.shtml[CalConnect Workshop Registration]. Lunch will be served at 1230; the CalConnect Conference will open at 13:30 and the workshop will begin at 14:15 as noted below. For more information about the location and other details please see link://calconnect30.shtml[CalConnect Conference].
+The workshop is open to the public by advance registration. To register please see link:{{'/workshopreg' | relative_url}}[CalConnect Workshop Registration]. Lunch will be served at 1230; the CalConnect Conference will open at 13:30 and the workshop will begin at 14:15 as noted below. For more information about the location and other details please see link:{{'/calconnect30' | relative_url}}[CalConnect Conference].
 
 *Agenda and Schedule (Workshop Only)*
 
@@ -70,17 +69,4 @@ MediSked, LLC provides human service software solutions specifically for non-med
 
 Ken Rubin, HP Enterprise Services
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

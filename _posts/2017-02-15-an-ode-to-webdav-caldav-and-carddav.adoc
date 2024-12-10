@@ -9,10 +9,9 @@ excerpt: HostingAdvice.com has just published an excellent feature on the origin
 
 == An Ode to WebDAV, CalDAV and CardDAV
 
-[[node-433]]
 Posted February 15, 2017 
 
-HostingAdvice.com has just published an excellent feature on the origins and evolution of&nbsp; WebDAV, CalDAV and CardDAV, and the activites and work of webdav.org, and also of CalConnect in furthering WebDAV and related specifications and extensions.
+HostingAdvice.com has just published an excellent feature on the origins and evolution of WebDAV, CalDAV and CardDAV, and the activites and work of webdav.org, and also of CalConnect in furthering WebDAV and related specifications and extensions.
 
 http://www.hostingadvice.com/blog/webdav-caldav-carddav/[An Ode to WebDAV, CalDAV, and CardDAV: The Origins of a Secure, Dynamic, and Interactive Web]
 
@@ -20,17 +19,4 @@ http://www.hostingadvice.com/blog/webdav-caldav-carddav/[An Ode to WebDAV, CalDA
 
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

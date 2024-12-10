@@ -9,10 +9,9 @@ excerpt: Our first three European conferences, in 2011, 2012, and 2013, were ver
 
 == CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe this autumn
 
-[[node-171]]
-Posted July 17, 2014 
+Posted July 17, 2014
 
-Our first three European conferences, in 2011, 2012, and 2013, were very successful, and our European colleagues encouraged us to return again this autumn. Therefore, link://calconnect31.shtml[CalConnect XXXI] will take place in Bedford, United Kingdom, on September 29  October 3, 2014, hosted by https://ga.youcanbook.me/[Youcanbook.me].
+Our first three European conferences, in 2011, 2012, and 2013, were very successful, and our European colleagues encouraged us to return again this autumn. Therefore, link:{{'/calconnect31' | relative_url}}[CalConnect XXXI] will take place in Bedford, United Kingdom, on September 29  October 3, 2014, hosted by https://ga.youcanbook.me/' | relative_url}}[Youcanbook.me].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect event without having to incur the travel costs and time of coming to North America.
 
@@ -22,15 +21,15 @@ European companies were among CalConnect s earliest members, and as standards an
 
 *Overview*
 
-Our venue will be http://www.thehigginsbedford.org.uk/[The Higgins Art Gallery and Museum] in Bedford, located on Castle Lane, Bedford, Mk40 3XD United Kingdom. The Higgins is a short walk from the Conference Hotel, http://www.bedfordswanhotel.co.uk/[The Bedford Swan], and other accommodation alternatives, All events of the CalConnect week, September 29  October 3, except for the Monday Test Event dinner, the Wednesday Reception, and the Thursday Conference dinner will take place at the Higgins. Full information about the conference may be found at link://calconnect31.shtml[CalConnect XXXI] including the week s schedules, registration, and logistics information.
+Our venue will be http://www.thehigginsbedford.org.uk/[The Higgins Art Gallery and Museum] in Bedford, located on Castle Lane, Bedford, Mk40 3XD United Kingdom. The Higgins is a short walk from the Conference Hotel, http://www.bedfordswanhotel.co.uk/[The Bedford Swan], and other accommodation alternatives, All events of the CalConnect week, September 29  October 3, except for the Monday Test Event dinner, the Wednesday Reception, and the Thursday Conference dinner will take place at the Higgins. Full information about the conference may be found at link:{{'/calconnect31' | relative_url}}[CalConnect XXXI] including the week s schedules, registration, and logistics information.
 
-Bedford is about 50 miles north of London; we recommend European travelers who arrive by air to arrive at Luton Airport (north of London) as it is nearest. Travelers from further away will probably arrive at London Heathrow or London Gatwick. Information on getting from the airports to Bedford is available via the link://calconnect31.shtml[CalConnect XXXI] page.
+Bedford is about 50 miles north of London; we recommend European travelers who arrive by air to arrive at Luton Airport (north of London) as it is nearest. Travelers from further away will probably arrive at London Heathrow or London Gatwick. Information on getting from the airports to Bedford is available via the link:{{'/calconnect31' | relative_url}}[CalConnect XXXI] page.
 
 Monday, Tuesday, and Wednesday morning, September 29  October 1, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, October 1-3, will be the Calconnect Conference which will include workshops, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
 *Registration and Fees*
 
-You must register separately for the Interoperability Test Event and the CalConnect Conference. Please see link://regtypes.shtml[Registration and Fees] for more information and registration forms.
+You must register separately for the Interoperability Test Event and the CalConnect Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms.
 
 Special Registration Fee for This Event: $600 USD per person for first-time non-members to cover both the Interoperability Test Event and the CalConnect Conference.
 
@@ -38,18 +37,18 @@ We encourage you to register as soon as possible. Upon registration you will be 
 
 *Conference Hotel*
 
-Our conference hotel is http://www.bedfordswanhotel.co.uk/[The Bedford Swan Hotel], The Embankment, Bedford. You may book the hotel directly from its website. There is no fixed rate and the rates will probably rise as we get closer to the event, so we recommend booking as soon as you know your travel plans. A list of alternative accommodations is linked from the link://calconnect31.shtml[CalConnect XXXI] web page, should the Swan not be available or you prefer different arrangements.
+Our conference hotel is http://www.bedfordswanhotel.co.uk/[The Bedford Swan Hotel], The Embankment, Bedford. You may book the hotel directly from its website. There is no fixed rate and the rates will probably rise as we get closer to the event, so we recommend booking as soon as you know your travel plans. A list of alternative accommodations is linked from the link:{{'/calconnect31' | relative_url}}[CalConnect XXXI] web page, should the Swan not be available or you prefer different arrangements.
 
 
 
 +
 *Who and What is CalConnect?*
 
-We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link://mbrlist.shtml[CalConnect Members]. Learn more about CalConnect at our link://[website] and our https://calconnect.wordpress.com/[blog]. Find out about our previous events from our link://eventreports.shtml[Event Reports] and from posts on our blog. You can find out more about membership in CalConnect at link://membership.shtml[CalConnect Membership].
+We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}. Find out about our previous events from our link:/eventreports[Event Reports] and from posts on our blog. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
 *What is CalConnect currently focused on?*
 
-You may find brief descriptions of the current work items of our Technical Committees at link://currentwork.shtml[Current Work].
+You may find brief descriptions of the current work items of our Technical Committees at link:{{'/currentwork' | relative_url}}[Current Work].
 
 *Questions and Feedback:*
 
@@ -62,14 +61,14 @@ You are also welcome to contact me directly with questions and suggestions.
 Please join us in Bedford!
 
 mailto:dave.thewlis@calconnect.org[Dave Thewlis] +
- Executive Director +
- The Calendaring and Scheduling Consortium
+Executive Director +
+The Calendaring and Scheduling Consortium
 
 
 
 *More Information:*
 
-More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link://calconnect31.shtml#schedule[CalConnect XXXI Schedule] (at this early date the schedule is an outline; we have not yet assigned time slots to specific sessions. This should happen in the next few weeks.) The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link://calconnect31.shtml[CalConnect XXXI].
+More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link:{{'/calconnect31#schedule' | relative_url}}[CalConnect XXXI Schedule] (at this early date the schedule is an outline; we have not yet assigned time slots to specific sessions. This should happen in the next few weeks.) The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link:{{'/calconnect31' | relative_url}}[CalConnect XXXI].
 
 *Interoperability Testing*
 
@@ -93,12 +92,12 @@ The exact testing scenarios will be decided based on who is coming and what (and
 * If there is interest, synchronization testing for mobile clients in general
 * Informal workshop on the CalDAV Tester Test Suite
 
-Please see link://iop1409.shtml[CalConnect XXXI Interoperability Test Event] for more information.
+Please see link:{{'/iop1409' | relative_url}}[CalConnect XXXI Interoperability Test Event] for more information.
 
 +
 *Technical Workshops and Symposia*
 
-Thursday and Friday mornings will be dedicated to workshops and symposia, which are included in the Conference Registration. The specific events are in the early planning stages; the link://calconnect31.shtml#schedule[CalConnect XXXI Schedule] will reflect more detail as soon as we have it.
+Thursday and Friday mornings will be dedicated to workshops and symposia, which are included in the Conference Registration. The specific events are in the early planning stages; the link:{{'/calconnect31#schedule' | relative_url}}[CalConnect XXXI Schedule] will reflect more detail as soon as we have it.
 
 *CalConnect Conference*
 
@@ -122,17 +121,5 @@ There will be a dinner for all Interoperability Test Event participants on Monda
 
 *Meals*
 
-Your registration to the Interoperability Test Event or the Conference includes lunch and morning and afternoon refreshments for the period of the event, plus the reception Wednesday evening. In addition, registration to the test event includes the Monday evening IOP test event dinner, and registration to the technical conference includes the Thursday evening Conference. Please note that breakfast is not included as it is generally included with your hotel package. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+Your registration to the Interoperability Test Event or the Conference includes lunch and morning and afternoon refreshments for the period of the event, plus the reception Wednesday evening. In addition, registration to the test event includes the Monday evening IOP test event dinner, and registration to the technical conference includes the Thursday evening Conference. Please note that breakfast is not included as it is generally included with your hotel package.
 

@@ -9,7 +9,6 @@ excerpt: Patricia Egen passed away on September 15, 2020.
 
 == Patricia Egen, An Appreciation
 
-[[node-533]]
 Posted September 18, 2020 
 
 Patricia Egen passed away on September 15, 2020.
@@ -24,13 +23,4 @@ Pat served as CalConnect s first manager of Interoperability Testing, enacting t
 
 CalConnect remembers Pat fondly. We extend our condolences and best wishes to her family.
 
-
-
-Categories:&nbsp;
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/announcements[Announcements]
 

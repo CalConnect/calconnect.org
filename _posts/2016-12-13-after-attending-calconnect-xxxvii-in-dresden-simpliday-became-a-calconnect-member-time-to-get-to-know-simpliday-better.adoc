@@ -9,17 +9,16 @@ excerpt: With main base in Malmö, South Sweden we started for almost 2 years ag
 
 == After attending CalConnect  XXXVII in Dresden Simpliday became a CalConnect member. Time to get to know Simpliday better.
 
-[[node-427]]
-Posted December 13, 2016 
+Posted December 13, 2016
 
 === What problem are you solving?
 
 With main base in MalmÃ¶, South Sweden we started for almost 2 years ago on a mission to fix the broken experience of getting through the day using your mobile.
 
 Scheduling a meeting was a time-consuming project and the feeling of control over your day was nowhere to be found. That s what it looked like when we started Simpliday. For a lot of people, that s still the case. +
- +
- So we gave ourselves a task  we need to fix it! +
- We believed there had to be another way to go, other than grey lists on dull backgrounds. An approach that seemed to be the world standard at the time.
+
+So we gave ourselves a task  we need to fix it! +
+We believed there had to be another way to go, other than grey lists on dull backgrounds. An approach that seemed to be the world standard at the time.
 
 ==== What does your team look like?
 
@@ -28,13 +27,13 @@ With our continuously growing multidisciplinary Swedish-Syrian-Romanian-Mexican-
 ==== Why did you join CalConnect?
 
 In conjunction with the 2016 CalConnect XXXVII Conference in Dresden this year, our Co-founder & CTO Sebastian Mutsson shared our thoughts and work on the All-In-One Calendar and stated our ambitions regarding the future development of the user experience  all based on today s chaotic everyday for the users. In connection to this, we were offered to become members of the organization and is now one of 26 members worldwide. +
- +
- For us, this is an acknowledgment of that our theories have a bearing, and at the same time it makes it easier for us to develop innovative calendaring and scheduling solutions. *As a member, we can discuss one-to-one with the best experts in the world*  the individuals who co-participated and wrote parts of the calendar protocols to begin with.
+
+For us, this is an acknowledgment of that our theories have a bearing, and at the same time it makes it easier for us to develop innovative calendaring and scheduling solutions. *As a member, we can discuss one-to-one with the best experts in the world*  the individuals who co-participated and wrote parts of the calendar protocols to begin with.
 
 &nbsp;
 
 About Simpliday +
- Simpliday was started in 2014 in Sweden by co-founders Johan Gunnars and Sebastian Mutsson who saw a need for a more productive and attractive calendar than the iPhone's native iCalendar. Thus, Simpliday was born to bring busy individuals -- whether they be goal-chasing entrepreneurs, parents, students, grandparents, or anyone seeking a less stressful schedule -- a calendar app that helps them get things done with an app that is customizable and beautiful. Simpliday launched in the U.S. in 2016, seeking to change the world standard of a calendar with grey lists and grey backgrounds.
+Simpliday was started in 2014 in Sweden by co-founders Johan Gunnars and Sebastian Mutsson who saw a need for a more productive and attractive calendar than the iPhone's native iCalendar. Thus, Simpliday was born to bring busy individuals -- whether they be goal-chasing entrepreneurs, parents, students, grandparents, or anyone seeking a less stressful schedule -- a calendar app that helps them get things done with an app that is customizable and beautiful. Simpliday launched in the U.S. in 2016, seeking to change the world standard of a calendar with grey lists and grey backgrounds.
 
 &nbsp;
 
@@ -43,18 +42,9 @@ About Simpliday +
 ==== Where can we find you online?
 
 Web: http://www.simpliday.com/[http://www.simpliday.com] +
- iTunes US store: https://itunes.apple.com/us/app/simpliday-all-in-one-calendar/id979859196?l=sv&ls=1&mt=8 +
- Twitter: https://twitter.com/Simpliday +
- FB: https://www.facebook.com/simpliday/ +
- Linkedin: https://www.linkedin.com/company/simpliday
+iTunes US store: https://itunes.apple.com/us/app/simpliday-all-in-one-calendar/id979859196?l=sv&ls=1&mt=8 +
+Twitter: https://twitter.com/Simpliday +
+FB: https://www.facebook.com/simpliday/ +
+Linkedin: https://www.linkedin.com/company/simpliday
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

@@ -4,17 +4,16 @@ title: Registration is open for CalConnect XXI May 23-27 at NASA Ames Research C
 date: 2011-04-05
 type: news
 categories: announcements current-events general-information
-excerpt: Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA Ames Research Center, Moffett Field, Mountain View, California. Please see link://calconnect21.shtml for logistics and registration information.
+excerpt: Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA Ames Research Center, Moffett Field, Mountain View, California. Please see link:/calconnect21 for logistics and registration information.
 ---
 
 == Registration is open for CalConnect XXI May 23-27 at NASA Ames Research Center
 
-[[node-263]]
 Posted April 5, 2011 
 
-Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA Ames Research Center, Moffett Field, Mountain View, California. Please see link://calconnect21.shtml for logistics and registration information.
+Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA Ames Research Center, Moffett Field, Mountain View, California. Please see link:/calconnect21 for logistics and registration information.
 
-As usual, we will be conducting an Interoperability Test Event Monday-Wednesday, May 23-25. Information about the Test Event is at link://iop1105.shtml[]. The Roundtable Members  Meeting will be Wednesday-Friday May 25-27.
+As usual, we will be conducting an Interoperability Test Event Monday-Wednesday, May 23-25. Information about the Test Event is at link:{{'/iop1105' | relative_url}}[]. The Roundtable Members  Meeting will be Wednesday-Friday May 25-27.
 
 We will be conducting a Workshop on Tasks on Wednesday afternoon during the Roundtable from 1:30 to 3:30. This workshop is open to non-CalConnect members, and you do not have to register for the Roundtable to attend; however you do need to register for the workshop. See the logistics page noted above for more information. NASA will also offer a tour of the Ames Rsearch Center on Friday afternoon following the close of our meeting.
 
@@ -26,13 +25,4 @@ The Conference Hotel will be the Sheraton Sunnyvale, which is very close to NASA
 
 We will be announcing additional and special sessions of interest as more material becomes available. We expect to set the actual schedule for TC sessions by mid-month and announce the topical agendas early in May.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

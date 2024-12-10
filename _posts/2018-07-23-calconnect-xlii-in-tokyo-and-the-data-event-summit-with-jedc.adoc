@@ -9,9 +9,8 @@ excerpt: After Ribose in Hong Kong in 2016, Jorte hosted CalConnect's second Asi
 
 == CalConnect XLII in Tokyo and the Data Event Summit with JEDC
 
-[[node-483]]
 Posted July 23, 2018 
-image::link:/assets/images/dataeventsummit.jpg["",480,360]
+image::link:{{'/assets/images/dataeventsummit.jpg' | relative_url}}["",480,360]
 
 After Ribose in Hong Kong in 2016, https://www.jorte.com/[Jorte] hosted CalConnect's https://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018[second Asian conference] in Tokyo.
 
@@ -29,13 +28,4 @@ Rutger Geelen
 
 President, CalConnect
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

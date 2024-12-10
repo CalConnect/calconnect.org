@@ -9,14 +9,13 @@ excerpt: The CalConnect XXXIX web page is located at https://www.calconnect.org/
 
 == Registration is now open  for CalConnect XXXIX Seattle, Washington, June 12-16, 2017, hosted by Tandem
 
-[[node-438]]
 Posted April 12, 2017 
 
-The CalConnect XXXIX web page is located at https://www.calconnect.org/events/calconnect-xxxix-june-12-16-2017&nbsp; and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.&nbsp;
+The CalConnect XXXIX web page is located at https://www.calconnect.org/events/calconnect-xxxix-june-12-16-2017 and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.&nbsp;
 
-The&nbsp; meeting venue is http://www.galvanize.com/campuses/seattle-pioneer-square/[Galvanize Pioneer Square], 111 S. Jackson Street at First Avenue, Seattle, Washington 98104, in the Pioneer Square district of Seattle.&nbsp; It is a close walk from the International/Chinatown Bay C Light Rail Station, and about half a mile from the conference hotel. The Conference Hotel is the http://www.alexishotel.com/[Kimpton Alexis Seattle], at 1007 First Avenue at Madison.&nbsp; Please seen the event web page (link above) for more information.
+The meeting venue is http://www.galvanize.com/campuses/seattle-pioneer-square/[Galvanize Pioneer Square], 111 S. Jackson Street at First Avenue, Seattle, Washington 98104, in the Pioneer Square district of Seattle. It is a close walk from the International/Chinatown Bay C Light Rail Station, and about half a mile from the conference hotel. The Conference Hotel is the http://www.alexishotel.com/[Kimpton Alexis Seattle], at 1007 First Avenue at Madison. Please seen the event web page (link above) for more information.
 
-The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon.&nbsp; The Conference will begin Wednesday after lunch and run through Friday afternoon.&nbsp;
+The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon. The Conference will begin Wednesday after lunch and run through Friday afternoon.&nbsp;
 
 We are hoping to offer a public half-day workshop on Wednesday afternoon for local developers, focussed on an Introduction to Calendaring.
 
@@ -24,13 +23,4 @@ We will be posting schedules and agenda as soon as possible on the event web pag
 
 Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

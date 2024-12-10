@@ -9,7 +9,6 @@ excerpt: See http://blog.symbian.org/2010/02/25/%EF%BB%BF%EF%BB%BFcaldav-support
 
 == Update: CalDAV Support for Symbian
 
-[[node-308]]
 Posted February 26, 2010 
 
 See http://blog.symbian.org/2010/02/25/%EF%BB%BF%EF%BB%BFcaldav-support-for-symbian-a-contribution-by-sun-microsystems/[].
@@ -18,15 +17,4 @@ The CalDAV contribution by Sun Microsystems (now a wholly-owned subsidiary of Or
 
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-news[Member News]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 
