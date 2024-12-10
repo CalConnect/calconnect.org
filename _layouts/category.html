@@ -10,7 +10,7 @@ layout: page
 </h2>
 
 <!-- Retrieve and sort posts by 'revdate' in descending order -->
-{% assign sorted_posts = page.posts | sort: 'revdate' %}
+{% assign sorted_posts = page.posts | sort: 'date' | reverse %}
 
 <!-- Iterate through each sorted post -->
 {% for post in sorted_posts %}
