@@ -1,0 +1,47 @@
+---
+layout: page
+title: Interoperability Testing at CalConnect XXIV May 21-23 2012
+date: 2012-03-19
+type: news
+categories: announcements current-events special-focus
+excerpt: At the upcoming CalConnect XXIV event we will as usual be offering an Interoperability Test Event all day Monday and Tuesday May 21-22, and Wednesday morning the 23rd. At this event we will be testing the following
+---
+
+== Interoperability Testing at CalConnect XXIV May 21-23 2012
+
+[[node-234]]
+Posted March 19, 2012 
+
+At the upcoming link://calconnect24.shtml[CalConnect XXIV] event we will as usual be offering an Interoperability Test Event all day Monday and Tuesday May 21-22, and Wednesday morning the 23rd. At this event we *will be testing* the following:
+
+¢ CalDAV Access +
+ ¢ CalDAV Scheduling, including Implicit Scheduling +
+ ¢ iMIP and iMIP Gateways +
+ ¢ CardDAV +
+ ¢ Timezone Service Protocol and Timezones by Reference
+
+This list will be updated as additional testing areas are identified and requested by two or more testing organizations.
+
+We *may be testing* the following if two or more testing organizations express interest:
+
+* iSchedule
+* Web Services (CalWS REST and CalWS SOAP)
+
+In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
+
+Additionally, we are planning on special BOF sessions on Shared Address Books and CalDAV Test Suites during the Interoperability Test Event:
+
+The information page for the Interoperability Test event is at link://iop1205.shtml[]. A short description of the BOFs at the test event will be added to this page in early April.
+
+Please note that the Interoperability Test Event registration fee for non-vendor members is now $350 per person. Test Event registration fees for vendor members and for non-members remain unchanged at $1795 and $2795 respectively for the first two participants, and $150 per additional participant.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+

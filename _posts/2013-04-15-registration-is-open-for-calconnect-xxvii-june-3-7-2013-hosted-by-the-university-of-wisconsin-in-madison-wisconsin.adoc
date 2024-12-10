@@ -1,0 +1,44 @@
+---
+layout: page
+title: REGISTRATION IS OPEN FOR CALCONNECT XXVII, JUNE 3-7, 2013, HOSTED BY THE UNIVERSITY OF WISCONSIN IN MADISON, WISCONSIN
+date: 2013-04-15
+type: news
+categories: announcements current-events general-information
+excerpt: REGISTRATION IS OPEN FOR CALCONNECT XXVII, JUNE 3-7, 2013, HOSTED BY THE UNIVERSITY OF WISCONSIN IN MADISON, WISCONSIN
+---
+
+== REGISTRATION IS OPEN FOR CALCONNECT XXVII, JUNE 3-7, 2013, HOSTED BY THE UNIVERSITY OF WISCONSIN IN MADISON, WISCONSIN
+
+[[node-206]]
+Posted April 15, 2013 
+
+REGISTRATION IS OPEN FOR CALCONNECT XXVII, JUNE 3-7, 2013, HOSTED BY THE UNIVERSITY OF WISCONSIN IN MADISON, WISCONSIN
+
+As usual, Monday and Tuesday all day and Wednesday morning will be the Interoperability Test Event; Wednesday afternoon, Thursday, and Friday will be the CalConnect Roundtable Technical Conference.
+
+*General Information:*
+
+Logistics information for this event may be found at h https://www.calconnect.org/calconnect27.shtml[ttp://www.calconnect.org/calconnect27.shtml] including travel, preliminary hotel, and other planning information. The session schedule is available; the topical agendas will be posted closer to the event. The meeting venue will be the Union South Building, 1308 West Dayton Street, Madison, Wisconsin 53706. The actual room(s) will be announced shortly before the event. The Conference Hotel is the http://doubletree3.hilton.com/en/hotels/wisconsin/doubletree-by-hilton-hotel-madison-MSNDTDT/index.html[Doubletree Madison] hotel, 525 West Johnson Street, Madison, approximately eight blocks from the Union South building. Our rate is $149/night inclusive of internet, plus tax; the special rate ends on May 13  after that rooms may be available but the rate is no longer guaranteed.
+
+I encourage you to register early as early registration helps us with event planning and logistics, in addition to restaurant reservations. (Please remember that you need not pay when you register; if desired you may wait until the event and pay by credit card.
+
+*About the Roundtable:*
+
+The schedule for TC Sessions is set although there may be minor changes if needed. Early registration for the Roundtable will be $350 through 17 May 2013, and $395 thereafter. Another reason to register early: you won t forget and miss the early registration deadline. Please note that the early registration about applies so long as you register <= 17 May, even if you don't actually pay until the event.
+
+*About the Interoperability Test Event:*
+
+The information page for the Interoperability Test event is at link://iop1306.shtml[]. Please see this page for the current list of areas we plan to test; it will be updated regularly as testing registrations and requests are received. In addition, participants may have other areas they wish to test and we will be happy to include them in our planning; the test event registration form provides a place to indicate what you want to test. n all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
+
+Please note that Interoperability Test Event Fees have changed slightly  see link://iopfees.shtml[Interoperability Test Event Fees].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

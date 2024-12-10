@@ -1,0 +1,86 @@
+---
+layout: page
+title: Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 – Agenda & Participants
+date: 2014-05-12
+type: news
+categories: announcements current-events general-information special-focus the-world-of-calendaring
+excerpt: CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
+---
+
+== Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 – Agenda & Participants
+
+[[node-179]]
+Posted May 12, 2014 
+
+CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
+
+We are using the recent VA Scheduling System Contest as a jump point to explore importance of open calendaring & scheduling standards with respect to healthcare IT, and what changes/additions to these same standards would facilitate healthcare IT for patients, providers, and software developers.
+
+Please note that this information is current as of Monday 12 May 2014. We expect that there may be additions and changes to the participant list and possibly to the presenters or panelists.
+
+The workshop is open to the public by advance registration. To register please see link://workshopreg.shtml[CalConnect Workshop Registration]. Lunch will be served at 1230; the CalConnect Conference will open at 13:30 and the workshop will begin at 14:15 as noted below. For more information about the location and other details please see link://calconnect30.shtml[CalConnect Conference].
+
+*Agenda and Schedule (Workshop Only)*
+
+1415-1530 Workshop on VA Scheduling System: Part 1  Presentations
+
+14151430 Gary Schwartz Welcome and Contextualizing the workshop
+
+14301450 Wes Turner Intro to Vista and OSEHRA s role in the VA Scheduling contest
+
+14501530 Dr. William Smith Intro to Medred; How+why they got involved in the VA Scheduling Contest; the Health e-Time contest entry
+
+1530-1600 Break and Refreshments
+
+1600-1800 Workshop on VA Scheduling System: Part 2  Panel Discussion
+
+*Panelists*  Dr. William Smith (Medred); Mike Henderson (OSEHRA); William Cox (Cox Software Architects); Toby Considine (TC9); Ken Rubin (HP Enterprise Services); Doug Golub (MediSked); Wilfredo SÃ¡nchez Vega (CalConnect)
+
+*Moderator*  Scott Mace (CalConnect director, Senior Editor  Technology at HealthLeaders Media)
+
+The purpose of the panel discussion is to engage the CalConnect membership with the panelists in a meaningful discussion of healthcare scheduling needs and requirements in the context of calendaring and scheduling standards and interoperability. Out of this discussion we are hoping to learn, at a functional level, what does Healthcare have today in C&S, and what does HealthCare need in C&S that they do not have today, and what Healthcare will need tomorrow.
+
+In turn, out of that discussion should come better understanding, and hopefully some C&S collaborations between CalConnect members, CalConnect TC s, and the Healthcare industry. In particular we hope to identify needs well enough to determine whether to initiate work in this area, and hopefully additional organizations to participate in the work and in CalConnect.
+
+1800-2000 Welcome Reception
+
+The scheduling of the reception immediately after the Workshop is not accidental. It is intended as an informal, and more social opportunity to continue the engaged interaction and participation we anticipate that the Workshop will engender. We are investigating the options for demos of recent CalConnect work in scheduling.
+
+*Panelists (as of Monday 12 May 2014)*
+
+William K. Smith, MD, Leader of the winning team, Health e-Time, Chairman and CEO MedRed
+
+Founded in 2004, MedRed, LLC is a medical informatics software company with offices in Washington, DC and Frederick, MD. MedRed s patent pending Balto Smart form system allows patients and healthcare providers to capture and access the most accurate and up-to-date medical information and knowledge. MedRed clinical tools are used to help manage everyday and emergency healthcare needs. MedRed accomplishes this by employing state of the art technologies to ensure patient confidentiality, providing timely and accurate medical information and state-of-the-art clinical decision support at the point of care. Medred is a corporate member of OSEHRA.
+
+Mike Henderson, Director, Open Source Product Management for OSEHRA
+
+OSEHRA, the Open Source Electronic Health Record Alliance, is a nonprofit organization dedicated to accelerating innovation in electronic health record software and related technology. Founded in 2011, the organization supports an open, collaborative community of users, developers, and researchers engaged in advancing electronic health record software and related health information technology. OSEHRA hosts software repositories for numerous open source software applications including the Department of Veterans Affairs  VistA electronic health record.
+
+William Cox, Principal, Cox Software Architects LLC
+
+Bill is a leader in smart grid interoperability and in commercial and open source software definition, specification, design and development, and has done significant work in OASIS, ebXML, the Java Community Process, the Obect Management Group, and the IEEE, and is active in the OASIS WS-Calendar committee
+
+Toby Considine, President, TC9
+
+Toby is the Chair of the OASIS WS-Calendar and oBIX committees and the editor of the EMIX and ENergyInteoperation Technical Committees. He is active in smart grid interoperability and the GridWise Architectural Council and heavily involved in energy management and smart buildings. Toby was a member of the teams that developed the national smart grid roadmap and are expediting its development.
+
+Doug Golub, MediSked
+
+MediSked, LLC provides human service software solutions specifically for non-medical home- and community-based provider agencies funded through Medicaid Waivers.
+
+Ken Rubin, HP Enterprise Services
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

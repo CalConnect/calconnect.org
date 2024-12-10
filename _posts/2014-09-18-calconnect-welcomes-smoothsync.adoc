@@ -1,0 +1,28 @@
+---
+layout: page
+title: CalConnect Welcomes SmoothSync
+date: 2014-09-18
+type: news
+categories: announcements current-events general-information member-news
+excerpt: CalConnect welcomes SmoothSync as a member of the Consortium. SmoothSync, based in Dresden, Germany, offers a synchronization tool for Android apps syncing with iCloud and Yahoo.
+---
+
+== CalConnect Welcomes SmoothSync
+
+[[node-168]]
+Posted September 18, 2014 
+
+CalConnect welcomes http://smoothsync.org/test[SmoothSync] as a member of the Consortium. SmoothSync, based in Dresden, Germany, offers a synchronization tool for Android apps syncing with iCloud and Yahoo.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+

@@ -1,0 +1,49 @@
+---
+layout: page
+title: Highlighted Sessions at the CalConnect XXXIII Conference in Bucharest
+date: 2015-04-27
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: CalConnect XXXIII consists of an Interoperability Test Event Monday through Wednesday noon May 18-20, and a CalConnect Conference Wednesday afternoon through Friday May 20-22. The schedule for the entire week may be seen at CalConnect XXXIII Conference Schedule.
+---
+
+== Highlighted Sessions at the CalConnect XXXIII Conference in Bucharest
+
+[[node-131]]
+Posted April 27, 2015 
+
+CalConnect XXXIII consists of an Interoperability Test Event Monday through Wednesday noon May 18-20, and a CalConnect Conference Wednesday afternoon through Friday May 20-22. The schedule for the entire week may be seen at link://calconnect33.shtml#schedule[CalConnect XXXIII Conference Schedule].
+
+We would like to draw your attention to a few highlighted conference sessions:
+
+*Wednesday May 20:*
+
+*1445-1530 Embedding Calendar Data in Media (QRCODE, Data URI)* +
+_Using QRCODE and Data URIs to make calendar data available without networking_ +
+ +
+*Thursday May 21:*
+
+*0900-0945 Changes to the scheduling model* +
+_The current enterprise-meeting-oriented scheduling model does not address all scheduling needs, e.g. multiple organizers or no oganizer are common models that are not supported. This session will explore additional scheduling models that should be added to the existing standards._
+
+*1600-1630 Calendaring Systems in General (solar, luni-solar, etc.) +
+ 1630-1700 RSCALE: Non-Gregorian Recurrence Rules in iCalendar* +
+_These sessions will discuss how recurrences can be implemented for non-Gregorian calendaring systems using the RSCALE iCalendar extension, and will explore non-Gregorian calendaring systems from an historical perspective, in particular those involved in digital calendar today or in the near future._
+
+*Friday May 22:*
+
+*1145-1230 Sending invitations through other means than e-mail* +
+_E-mail is often not the primary vehicle for messaging among people Instant messaging and other services should be considered as a way to deliver invitations and notifications. New mime types are a possible solution._
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

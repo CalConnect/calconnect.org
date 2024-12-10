@@ -1,0 +1,36 @@
+---
+layout: page
+title: CalConnect XXI; Timezones by Reference
+date: 2011-06-01
+type: news
+categories: current-events special-focus the-world-of-calendaring
+excerpt: This post could also be titled “Doing Something about Timezones”. The biggest problem (from CalConnect’s perspective) with the change in 2007 to Extended Daylight Savings Time was the widespread problems with updating (or failing to update) several hundred million desktop systems, servers, and so forth with the new start/stop dates for DST in the U.S.. The results were widespread and messy; just in calendaring, many thousands of scheduled events were off by an hour across people’s calendars. And although EDST was an isolated phenomenon in the U.S., in some countries the start/stop dates for Daylight Savings time change every year, often with very little notice.
+---
+
+== CalConnect XXI: Timezones by Reference
+
+[[node-257]]
+Posted June 1, 2011 
+
+This post could also be titled Doing Something about Timezones. The biggest problem (from CalConnect s perspective) with the change in 2007 to Extended Daylight Savings Time was the widespread problems with updating (or failing to update) several hundred million desktop systems, servers, and so forth with the new start/stop dates for DST in the U.S.. The results were widespread and messy; just in calendaring, many thousands of scheduled events were off by an hour across people s calendars. And although EDST was an isolated phenomenon in the U.S., in some countries the start/stop dates for Daylight Savings time change every year, often with very little notice.
+
+The core problem is that for most implementations timezone data is embedded in one way or another; in calendar scheduling it is even embedded in the event data. While the timezone id is necessary, having the data itself included is a recipe for disaster  and there is no obvious fix other than removing the timezone data and making it available via an internet access.
+
+That s what CalConnect finally concluded: timezone data should be available from timezone servers across the internet rather than embedded into systems, somewhat analogous to Network Time Protocol. With timezone servers, the only thing actually neded in the scheduling data would be a timezone id.
+
+As a result, CalConnect s TIMEZONE Technical Committee developed a Timezone Service Protocol, now an internet draft at the IETF at http://tools.ietf.org/html/draft-douglass-timezone-service/[]. This protocol was first tested at the Interoperability Test Event this last week at CalConnect XXI at NASA Ames. Two timezone server implementations were tested, along with several clients, and the preliminary results were very encouraging.
+
+Clients were tested in part to see what the effect on them would be of receiving event information with only a timezone id and without actual timezone data embedded, as this will affect the ease of implementing timezone servers and Timezones by Reference going forward.
+
+We will expand our timezone service protocol in TC TIMEZONE over the next months, and we expect additional implementations and testing at the next Interoperability Test Event in Prague this October.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

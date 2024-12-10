@@ -1,0 +1,82 @@
+---
+layout: page
+title: Timezones and how they get that way
+date: 2010-11-04
+type: news
+categories: general-information special-focus the-world-of-calendaring
+excerpt: With this weekend’s transition in the U.S. from Daylight Saving Time to Standard Time, let’s resume the discussion of timezones we started in a posting earlier this month on this blog, “Shifting Time Zones on Online Calendars – A CalConnect Perspective”. One of the way stations in our journey to understanding the issues raised in David Pogue’s New York Times’ posting of October 13th, “Shifting Time Zones on Online Calendars” is understanding timezones at a high level.
+---
+
+== Timezones and how they get that way
+
+[[node-275]]
+Posted November 4, 2010 
+
+With this weekend s transition in the U.S. from Daylight Saving Time to Standard Time, let s resume the discussion of timezones we started in a posting earlier this month on this blog, Shifting Time Zones on Online Calendars  A CalConnect Perspective. One of the way stations in our journey to understanding the issues raised in David Pogue s New York Times  posting of October 13th, Shifting Time Zones on Online Calendars is understanding timezones at a high level.
+
+For at least the last 200 years, people have been grappling with non-interoperable systems of weights and measures when necessity demanded greater interoperability. Len Adler s The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World is the (surprisingly) fascinating story of the effort to establish and standardize the length of the meter. As Adler writes,
+
+____
+Measures in the eighteenth century not only differed from nation to nation, but within nations as well. This diversity obstructed communication and commerce, and hindered the rational administration of the state. It also made it difficult for the savants to compare their results with those of their colleagues. One Englishman, traveling through France on the eve of the Revolution, found the diversity there a torment. In France, he complained, the infinite perplexity of the measures exceeds all comprehension. They differ not only in every province, but in every district and almost every town¦. Contemporaries estimated that under the cover of some eight hundred names, the Ancien RÃ©gime of France employed a staggering 250,000 different units of weights and measures.
+____
+
+Dava Sobel s Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time, hyperbole aside, recounts the difficulties of keeping accurate time at sea in the context of the Britain s Longitude Prize, which was established by Parliament in the early 18th century. Accurate timekeeping would also establish the relative difference in time from an unknown position at sea with a fixed well-known point, in this case, Greenwich, England. A similar issue of relative time obtains with timezones.
+
+Time is the most ethereal of our measures, and, perhaps, the one people have the most intimate, personal, and complex relationship with. Attempts to measure and manipulate time have evoked strong emotions and reactions, and the relatively brief history of timezones is no different.
+
+While the history of timezones lacks the adventure and drama of the meter and of longitude, what it does have in common is that a successful resolution not only required a workable technical solution, but it also required, at least in equally large measures, successful political and cultural solutions.
+
+In The Economics of Time Zones, a 2005 paper by Wharton School Professor Matthew W. White, White writes,
+
+____
+¦ although small towns along a specific railroad line sometimes followed the railway s time standard, most communities and cities followed their longstanding local sun time standard. By one estimate, in the 1870s there were some 8,000 individual local time conventions being kept by towns and communities across the nation.
+____
+
+Timeszones were adopted (but not legislated) by many localities in 1883 under a system devised by U.S. railroads, Standard Railway Time System. The United States formally adopted timezones by a congressional act in 1918, with much of the rest of the world following suit in the next decade or so.
+
+As for timezones themselves, the earth can be divided into 24 areas, each covering 15° of longitude, which correspond to the 24 hours it takes the earth to complete one rotation. Because local time in one area differs from local time in another, a convention of defining geo-political regions called timezones has arisen whereby a particular region decides to settle on a single local time standard, even though solar noon does not occur simultaneously at each meridian within the timezone.
+
+From a proposal of The International Meridian Conference (October 1884 , Washington, D.C.) , locating the prime (0th) meridian as passing through Greenwich, England, local time in each timezone, by default, is computed as a positive or negative offset from Greenwich Mean time (GMT), which is now officially called Universal Co-ordinated Time (UTC) . In actuality, local time may, and sometimes does, deviate from this convention. For example, although the continental United States and mainland China are each just about the same distance from east to west, the United States has the expected four timezones across its breadth, while China observes a single timezone.
+
+Similarly, countries differ in how they observe transitions from standard time to daylight saving time (DST), or whether to observe these transitions at all. Localities may change their observance of local time and/or daylight saving time, which means that in order to understand local time one has to consult the historical record of the conventions observed in that locality. Some countries observe DST transitions on a variable annual schedule. In Spring Forward  The Annual Madness of Daylight Saving Time, a surprisingly enjoyable history of DST in the United States, Michael Downing notes that as late of 1965, almost 50 years after DST was first introduced in the United States, the DST practices in the individual states ran the gamut from participating, not participating, partial participation, and to daylight in reverse, an out of phase form of observance.
+
+In addition to dividing the planet into timezones, the other conventions necessary to coordinate time globally came out of The International Meridian Conference  the length of the day, where the day begins and ends (180 degrees from the prime meridian, often referred to as the International Date Line), and when each day begins and ends at 0000 and 2400 respectively, colloquially referred to as midnight. Prior to standard time, the new day would often begin/end at solar noon. (Even today, however, some non-Gregorian calendaring systems use times other than midnight for the start of the new day.)
+
+Additionally, mechanisms were invented to synchronize time within and across timezones. In the 19th century, the telegraph and the short-lived time-balls, among others were used. Today, national governmental standards bodies and others use the Internet, radio signals, and other mechanisms to disseminate time information.
+
+To round out the timezone picture, we will simply note that nautical standard times, nautical standard timezones and the nautical date line, are observed at sea outside of territorial waters.
+
+As you have may have already inferred, there is no one or no single organization in charge of timezones (with the exception of nautical time), just as there is no one in charge of the Internet. However, just as in the case of the Internet, although there is no one in charge, there are many standards, and other scientific and governmental agencies which play an important role in ensuring the system is practical, functional, and (largely) interoperable.
+
+In the United States, The Time and Frequency Division of NIST, the National Institute of Standards and Technology, ¦ maintains the standard for frequency and time interval for the United States, provides official time to the United States, and ¦, notes in their excellent FAQ that NIST is an agency of the United States Department of Commerce, and is not involved in the administration of time zones. And, just as in the rest of the world, timezones and DST transitions are honored not strictly by meridian, but by political and natural boundaries, geographic features, natural and man-made, and by other local considerations.
+
+So, although timezones are a relatively new invention, the history of how they are observed and implemented has changed frequently, and continues to change even now. In a future post, we will start to explore what this means in the context of David Pogue s Online Calendars.
+
+The following references were consulted in preparation of this posting:
+
+* Web 
++
+http://www.nist.gov
++
+,
++
+http://www.wikipedia.com
++
+,
++
+link:/
+* Books, articles: Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time  Dava Sobel; The Economics of Time Zones  Matthew W. White; The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World  Len Adler; Spring Forward  The Annual Madness of Daylight Saving Time  Michael Downing
+
+Gary Schwartz +
+ President, The Calendaring and Scheduling Consortium
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

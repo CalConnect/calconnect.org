@@ -1,0 +1,36 @@
+---
+layout: page
+title: CalConnect to submit New Work Item Proposal to ISO/TC 211
+date: 2017-06-12
+type: news
+categories: announcements current-events special-focus
+excerpt: CalConnect, which is working on extensions to the vCard standard used for digital contact exchange, has been invited by ISO/TC 211 to submit a NWIP (new work item proposal) for a machine-readable encoding of ISO 19160 address profiles.
+---
+
+== CalConnect to submit New Work Item Proposal to ISO/TC 211
+
+[[node-443]]
+Posted June 12, 2017 
+
+CalConnect, which is working on extensions to the vCard standard used for digital contact exchange, has been invited by ISO/TC 211 to submit a NWIP (new work item proposal) for a machine-readable encoding of ISO 19160 address profiles.
+
+Currently, every country utilizes different addressing standards causing inconsistency and interoperability problems in international addressing usage.
+
+ISO/TC 211, the international committee in charge of geographic addressing standards, has developed the first address profile standard intended to harmonize international addresses, called ISO 19160. The address profile standard defines rules for the input and rendering of geographical addresses, allowing geographic address providers, such as national postal bodies, to define their own localized address formats that are internationally compatible. Usage of ISO 19160 address profiles can improve quality of data entered, which in turn allows for better address usage, such as for postal delivery.
+
+CalConnect, as a Category A Liaison Member of ISO/TC 211, has been working closely with ISO/TC 211 and related stakeholders, including the Universal Postal Union and national postal bodies, on an automated mechanism to apply ISO 19160 address profiles for software. This encoding is expected to be utilized by addressing software in contact exchange, e-commerce facilitation, postal services and in the logistics industry, and most likely will be incorporated into the next generation of the vCard standard.
+
+We would like to especially thank the support given by ISO/TC 211's members, especially Serena Coetzee and Chair Christina WasstrÃ¶m for taking this forward.
+
+This matter will be reported and discussed at CalConnect&nbsp; XXXIX in Seattle happening this week.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+

@@ -1,0 +1,26 @@
+---
+layout: page
+title: Member News Announcements
+date: 2009-04-13
+type: news
+categories: announcements general-information member-news
+excerpt: The CalConnect Blog will be publishing short announcements from our members about significant news and events in the calendaring space. This may include but will not be limited to product announcements, and the intent is to try and provide a useful feed for calendaring-related information to interested parties. These posts will consist of short summaries and links to actual documents, press releases, blogs, and so forth.  
+---
+
+== Member News Announcements
+
+[[node-345]]
+Posted April 13, 2009 
+
+The CalConnect Blog will be publishing short announcements from our members about significant news and events in the calendaring space. This may include but will not be limited to product announcements, and the intent is to try and provide a useful feed for calendaring-related information to interested parties. These posts will consist of short summaries and links to actual documents, press releases, blogs, and so forth. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+

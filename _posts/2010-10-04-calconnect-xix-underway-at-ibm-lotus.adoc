@@ -1,0 +1,26 @@
+---
+layout: page
+title: CalConnect XIX underway at IBM/Lotus
+date: 2010-10-04
+type: news
+categories: announcements current-events general-information
+excerpt: CalConnect XIX is underway at IBM/Lotus in Littleton, MA. Today, tomorrow and Wednesday morning are the interoperability test event; Wednesday-Friday will be Roundtable XIX. Our thanks to IBM/Lotus for hosting this event.
+---
+
+== CalConnect XIX underway at IBM/Lotus
+
+[[node-283]]
+Posted October 4, 2010 
+
+CalConnect XIX is underway at IBM/Lotus in Littleton, MA. Today, tomorrow and Wednesday morning are the interoperability test event; Wednesday-Friday will be Roundtable XIX. Our thanks to IBM/Lotus for hosting this event.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

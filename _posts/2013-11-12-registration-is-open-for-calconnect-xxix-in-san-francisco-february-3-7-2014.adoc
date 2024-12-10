@@ -1,0 +1,48 @@
+---
+layout: page
+title: REGISTRATION IS OPEN FOR CALCONNECT XXIX IN SAN FRANCISCO, FEBRUARY 3-7, 2014
+date: 2013-11-12
+type: news
+categories: announcements current-events general-information
+excerpt: REGISTRATION IS OPEN FOR CALCONNECT XXIX, FEBRUARY 3-7, 2014, HOSTED BY MOZILLA IN SAN FRANCISCO, CALIFORNIA
+---
+
+== REGISTRATION IS OPEN FOR CALCONNECT XXIX IN SAN FRANCISCO, FEBRUARY 3-7, 2014
+
+[[node-187]]
+Posted November 12, 2013 
+
+REGISTRATION IS OPEN FOR CALCONNECT XXIX, FEBRUARY 3-7, 2014, HOSTED BY MOZILLA IN SAN FRANCISCO, CALIFORNIA
+
+As usual, Monday and Tuesday all day and Wednesday morning will be the CalConnect Interoperability Test Event; Wednesday afternoon, Thursday, and Friday will be the CalConnect Conference.
+
+*General Information:*
+
+Logistics information for this event may be found at link://calconnect29.shtml including venue, travel, hotel, and other planning information. The session schedule is available; the agenda slots will be assigned and topical agendas will be posted closer to the event. The meeting venue will be at Mozilla s San Francisco facility, 2 Harrison Street, San Francisco.
+
+The Conference Hotel is the Shattuck Plaza Hotel in Berkeley; due to extremely expensive hotel prices in San Francisco, we will be using BART (Bay Area Rapid Transit system) to commute to and from San Francisco each morning and evening (the hotel is 1/2 block from a BART station; Mozilla is about a kilometer from a BART station). Please note that you need to book your via the link on the CalConnect logistics page for this event to receive the CalConnect rate. Also note that the room block ends as of 3 January 2014  so if you are planning to come I encourage you to get your room reserved soon!
+
+I also encourage you to register early as early registration helps us with event planning and logistics, in addition to restaurant reservations. (Please remember that you need not pay when you register; if desired you may wait until the event and pay by credit card.)
+
+*About the Conference:*
+
+The overall schedule for sessions has been set although the actual assignment of slots will be made next month. Early registration for the conference will be $350 through 17 January 2014, and $395 thereafter. Another reason to register early: you won t forget and miss the early registration deadline. Please note that the early registration about applies so long as you register <= 17 January, even if you don't actually pay until the event.
+
+In addition to our regular Technical Committee sessions, we will expect to receive the reports of several Ad Hoc Committees (short-term working groups) established to explore specific new areas of possible work, including Calendaring APIs, Federated Shared Calendars, and a generic PUSH facility for CalDAV. New Technical Committees for some or all of the new areas may be instantiated before or at this meeting.
+
+*About the Interoperability Test Event:*
+
+The information page for the Interoperability Test event is at link://iop1402.shtml[]. Please see this page for the current list of areas we plan to test; it will be updated regularly as testing registrations and requests are received. In addition, participants may have other areas they wish to test and we will be happy to include them in our planning; the test event registration form provides a place to indicate what you want to test. n all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
+
+We invite you to join us in San Francisco at Mozilla for CalConnect XXIX.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

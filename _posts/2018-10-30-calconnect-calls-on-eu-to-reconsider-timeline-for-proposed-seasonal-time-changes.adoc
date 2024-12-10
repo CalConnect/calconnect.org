@@ -1,0 +1,44 @@
+---
+layout: page
+title: CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
+date: 2018-10-30
+type: news
+categories: special-focus general-information current-events press-releases announcements
+excerpt: The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. CalConnect shares these concerns and recommends the European Commission  extend the timelines stated in the proposal.
+---
+
+== CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
+
+[[node-494]]
+Posted October 30, 2018 
+
+The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. link:/[CalConnect] shares these concerns and recommends the European Commission&nbsp; extend the timelines stated in the proposal.
+
+CalConnect is intimately aware of potential repercussions of such a change with short notice. We are comprised of technology vendors and end-user organizations focused on the areas of date and time, calendaring, and scheduling, as well as time zone issues.
+
+Practical experience from similar changes in the past indicates that such changes pose serious risks to the accuracy of stored time-related data and schedules (such as meetings, appointments, flights and transit schedules). Therefore, we recommend providing a transition period of at least one year (12 months) after the final decision for the change has been made.
+
+CalConnect will host a https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[public workshop] at its link://events/calconnect-xliv-february-4-8-2019[next conference] in ZÃ¼rich in early February, and has just launched a link://resources/discussion-lists/time-zone-discussion[public mailing list] for the discussion of best practices for planning new time zone changes.
+
+The full advisory notice can be found at
+
+[[file-163]]
+=== 
+
+. application/pdf
+image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC Adv EU DST Advisory Notice.pdf]
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/special-focus[Special Focus]
+
+link:/news/general-information[General Information]
+
+link:/news/current-events[Current Events]
+
+link:/taxonomy/term/17[Press Releases]
+
+link:/news/announcements[Announcements]
+

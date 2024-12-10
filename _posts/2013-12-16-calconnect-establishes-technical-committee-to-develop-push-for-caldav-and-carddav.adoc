@@ -1,0 +1,34 @@
+---
+layout: page
+title: CalConnect establishes technical committee to develop PUSH for CalDAV (and CardDAV)
+date: 2013-12-16
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: TC PUSH was formed to extend CalDAV and CardDAV with standardized support for PUSH notifications.
+---
+
+== CalConnect establishes technical committee to develop PUSH for CalDAV (and CardDAV)
+
+[[node-185]]
+Posted December 16, 2013 
+
+TC PUSH was formed to extend CalDAV and CardDAV with standardized support for PUSH notifications.
+
+At present CalDAV and CardDAV clients have to poll the server at regular intervals to check for changes. To provide a close to real time user experience and present updates and notifications almost immediately to the user, a client has to poll at a high frequencies, possibly at the expense of higher consumption of resources like bandwidth and traffic, processing time and battery power.
+
+TC PUSH will define methods to advertise/discover PUSH protocols supported by a server. In addition it will specify a generic PUSH protocol based on existing WebDAV technologies that can be used when no other PUSH method is available. To help implementers TC PUSH will provide guidelines to PUSH support on servers and clients.
+
+See more about TC PUSH and its Charter and proposed deliverables at link://tc-push.shtml[].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

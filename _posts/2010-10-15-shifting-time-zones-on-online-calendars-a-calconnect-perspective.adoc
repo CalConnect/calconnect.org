@@ -1,0 +1,49 @@
+---
+layout: page
+title: Shifting Time Zones on Online Calendars – A CalConnect Perspective
+date: 2010-10-15
+type: news
+categories: general-information special-focus the-world-of-calendaring
+excerpt: Earlier this week, David Pogue’s posting (http://pogue.blogs.nytimes.com/2010/10/13/shifting-time-zones-on-online-calendars/) “Shifting Time Zones on Online Calendars Appeared on the New York Times web site. For the last 10 years, Pogue has been writing the Times’ “Personal Tech” column, and is perhaps the most influential tech writer in the U.S.
+---
+
+== Shifting Time Zones on Online Calendars – A CalConnect Perspective
+
+[[node-281]]
+Posted October 15, 2010 
+
+Earlier this week, David Pogue s posting (http://pogue.blogs.nytimes.com/2010/10/13/shifting-time-zones-on-online-calendars/) Shifting Time Zones on Online Calendars Appeared on the New York Times web site. For the last 10 years, Pogue has been writing the Times  Personal Tech column, and is perhaps the most influential tech writer in the U.S.
+
+In the context of CalConnect, Pogue s article, which appeared under the subhead of Making an appointment in one time zone does not mean your calendar will remind you at the right time if you travel to another time zone-unless you adjust a setting, is both gratifying and vexing.
+
+It is gratifying in that it validates the mission and work of CalConnect, namely, The Calendaring and Scheduling Consortium is focused on the interoperable exchange of calendaring and scheduling information between dissimilar programs, platforms, and technologies. The Consortium s mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing.
+
+It is vexing in that it clearly demonstrates that after five years of very productive, collaborative work by the member organizations of CalConnect in calendaring and scheduling, with special attention to time zones, our work is not quite done. CalConnect has largely focused, to date, on the underlying infrastructure for calendaring and scheduling  the protocols and standards. It is now time to exploit these new capabilities in ways that directly benefit the end users of our calendaring products.
+
+The Shifting Time Zones article consisted of a reader s recounting a very common problem  entering appointments in one time zone when they need to be interpreted or understood in another time zone.
+
+The dozen or so comments posted in response to the story reveal some (but not all) of the complexity of the situation, that people have different use cases (or contexts), different preferences, and finally that many people have different preferences themselves depending on which context they find themselves in.
+
+The article does not fully plumb the depths of the issues associated with time zones, including, the etiology of time zones  where do they come from and how to they get that way, the different ways we can represent time  floating time, UTC  universal time, local time, interoperability (common interpretation) of time zone data and values across all computing environments and applications, the politics of time zones, how the comments and other marginalia in the Olson Time Zone database also represent a brief history of time, and perhaps most importantly, doing all this in a way that ultimately facilitates the activities of our daily lives.
+
+CalConnect has published three public documents on various aspects of time zones (http://calconnect.org/recommendations.shtml), most recently in October of 2007, when the first changes to U.S. Daylight Saving Time in 40 years, The U.S. Energy Policy Act of 2005 (EPACT 2005), among its many, many provisions, amended the Uniform Time Act of 1966 by changing the start and end dates of daylight saving time (DST) in the US. This change affected the daily lives of all U.S. citizens, and many people living outside the U.S., in both anticipated and unanticipated ways.
+
+CalConnect s Time Zones Technical Committee recently published link://CD1007%20Timezone%20Service.shtml[Time Zone Service Protocol] and link://CD1008%20Timezone%20XML.shtml[Timezone XML Specification], submitted to the IETF as Internet Drafts. CalConnect has been talking with IANA (Internet Assigned Numbers Authority) and the time zone community on providing a new home for time zone data. Time zones play a significant role in CalConnect s collaboration with OASIS (Organization for the Advancement of Structured Information Standards) on a web service API for calendaring, work resulting from our involvement with the SmartGrid s requirements for scheduling.
+
+So when the band, Chicago, asked in 1969, Does anybody really know what time it is? Does anybody really care about time?, we can answer now, some 40 years later, We re getting closer  most people now know most of the time what time it really is, and thanks to David Pogue, we know that yes, everybody really does care about time.
+
+In large part through the work of CalConnect, we have made great strides in the underlying infrastructure for calendaring and scheduling  the protocols and standards. We now need to focus more of our attention on exposing these new capabilities to the end users of our calendaring systems.
+
+Gary Schwartz +
+ President, The Calendaring and Scheduling Consortium
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

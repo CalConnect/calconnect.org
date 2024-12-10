@@ -1,0 +1,26 @@
+---
+layout: page
+title: Cronofy Joins CalConnect
+date: 2016-04-27
+type: news
+categories: announcements current-events member-news
+excerpt: CalConnect welcomes Cronofy as a member of the consortium.  Cronofy, based in Nottingham, United Kingdom, provides a unified calendar API to allow application developers to integrate their apps and services with calendar services. 
+---
+
+== Cronofy Joins CalConnect
+
+[[node-391]]
+Posted April 27, 2016 
+
+CalConnect welcomes https://www.cronofy.com[Cronofy] as a member of the consortium.&nbsp; Cronofy, based in Nottingham, United Kingdom, provides a unified calendar API to allow application developers to integrate their apps and services with calendar services.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/member-news[Member News]
+

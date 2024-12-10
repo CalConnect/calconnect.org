@@ -1,0 +1,30 @@
+---
+layout: page
+title: Cal-WS Web Services API draft available for Public Review
+date: 2010-05-19
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: CalConnect and the XML Technical Committee have made the in-progress work document, Cal-WS Web Services API for Calendaring and Scheduling, available for 30-day Public Review and Comment. This work has been undertaken in conjunction with the NIST Smart Grid Standards Roadmap effort and with OASIS and the OASIS WS-Calendar Technical Committee.
+---
+
+== Cal-WS Web Services API draft available for Public Review
+
+[[node-299]]
+Posted May 19, 2010 
+
+CalConnect and the XML Technical Committee have made the in-progress work document, __Cal-WS Web Services API for Calendaring and Scheduling__, available for 30-day Public Review and Comment. This work has been undertaken in conjunction with the NIST Smart Grid Standards Roadmap effort and with OASIS and the OASIS WS-Calendar Technical Committee.
+
+Please see link://publicreviewdocuments.shtml[Public Review Documents] for more information, a link to the Cal-WS draft, and information on how to sign up for the Public Review and Comment mailing list. The public review period will end on June 17, 2010.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

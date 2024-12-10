@@ -1,0 +1,26 @@
+---
+layout: page
+title: CalConnect Welcomes Jorte
+date: 2015-05-04
+type: news
+categories: announcements general-information member-news
+excerpt: CalConnect welcomes Jorte to the Consortium. Jorte Inc, based in Tokyo Japan, is a software development company focused on the Jorte app and its affiliate services.
+---
+
+== CalConnect Welcomes Jorte
+
+[[node-130]]
+Posted May 4, 2015 
+
+CalConnect welcomes http://www.jorte.com/en[Jorte] to the Consortium. Jorte Inc, based in Tokyo Japan, is a software development company focused on the Jorte app and its affiliate services.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+

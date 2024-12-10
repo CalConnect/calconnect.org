@@ -1,0 +1,55 @@
+---
+layout: page
+title: Symposia and Workshops at CalConnect XXII in Prague
+date: 2011-09-01
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 6th and 7th. These sessions are covered by your Roundtable Conference registration fee and are open to all registered participants.
+---
+
+== Symposia and Workshops at CalConnect XXII in Prague
+
+[[node-249]]
+Posted September 1, 2011 
+
+In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 6th and 7th. These sessions are covered by your Roundtable Conference registration fee and are open to all registered participants.
+
+The Symposia Chairs, presenters and discussion leaders will be principal authors of key calendaring and scheduling specifications such as CalDAV, xCal, and CalWS, and are major contributors to leading calendaring and scheduling applications.
+
+_Update: The workshop on locations has been eliminated as the material will be covered in other places, and we have scheduled time for a BOF (Birds of a Feather) session._
+
+*The Evolution of Internet Calendaring Standards (Thursday 0830-1000)*
+
+An introduction and overview of Internet Calendaring Standards at a protocol level. This presentation will cover the major internet calendaring and scheduling standards and related standards, including iCalendar, CalDAV, CardDAV, iSchedule, xCal (iCalendar in XML), and CalWS (Calendaring for Web Services, both REST and SOAP specifications). We will also touch on new capabilities such as VAVAILABILITY and consensus scheduling. The goal of this session is to provide an overall functional understanding of the major calendaring and scheduling standards and their relationship to one another, and to solicit feedback from current and future implementers in regard to problems and issues they would like to see resolved.
+
+*Integrating Internet Calendaring Standards into products and services (Thursday 1030-1200*)
+
+An architectural view of the internet calendaring standards discussed in the earlier session, focused on how to select architectural pieces and put them together to meet your needs. We will examine a model product or device which would use calendaring data for its function, as a means of determining what standards are relevant, how to select the right parts, and how to put the architectural model together to solve the needs of the device. The goal of this session is to give its participants a base and grounding in the ways in which the standards form an overall architecture and how to structure the use of them in devices which use calendaring data or participate in calendaring and scheduling in some fashion. Time will be reserved for people to discuss their own implementations and problems they have encountered.
+
+*Workshop on Tasks/vTODOs (Friday 0830-1000)*
+
+iCalendar offers both events and tasks (VTODOs) for basic task management such as PIMs. However there is increasing interest in using iCalendar tasks in more advanced applications such as project management. What requirements must be met and what extensions are required to iCalendar to address the needs of an emerging set of more diverse and capable products? The goal of this session is to identify these needs and help CalConnect determine whether and how to address them by defining the necessary extensions. This session is a follow-on to an initial discussion at the last CalConnect meeting in May; the slides from that discussion may be found at link:/docs/Tasks%20Workshop.pdf[Tasks Workshop May 2011].
+
+*CalConnect Internationally  Next steps (Friday 1030-1115)*
+
+What are our next steps for CalConnect Internationally, in Europe or elsewhere? What sort of meetings or conferences would be most useful, and how frequent? What can CalConnect do to make it more practical for people based in other countries to participate in CalConnect technical committees? The goal of this session is to provide concrete guidance for CalConnect in planning for its future and hopefully your +
+ involvement.
+
+*BOB (Birds of a Feather) Sessions (Friday 1115-1200)*
+
+What are we not talking about or addressing that concerns you? Here s a chance to propose topics of interest and get a discussion going that may lead to future CalConnect work. &nbsp;
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

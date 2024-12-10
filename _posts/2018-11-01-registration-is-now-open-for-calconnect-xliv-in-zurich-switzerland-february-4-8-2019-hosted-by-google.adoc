@@ -1,0 +1,40 @@
+---
+layout: page
+title: Registration is now open  for CalConnect XLIV in Zurich, Switzerland, February 4-8, 2019, hosted by Google
+date: 2018-11-01
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: The CalConnect XLIV web page is located at link://events/calconnect-xliv-february-4-8-2019 and contains lodging information, airport and transfer information, meeting venue, schedule, etc.  The page also offers preliminary information about an Open Codefest on Monday 4 February and a Public Workshop on Time Zones on Tuesday afternoon 5 February,
+---
+
+== Registration is now open  for CalConnect XLIV in Zurich, Switzerland, February 4-8, 2019, hosted by Google
+
+[[node-495]]
+Posted November 1, 2018 
+
+The CalConnect XLIV web page is located at link://events/calconnect-xliv-february-4-8-2019 and contains lodging information, airport and transfer information, meeting venue, schedule, etc.&nbsp; The page also offers preliminary information about an https://www.eventbrite.com/e/calendar-and-scheduling-developer-day-zurich-tickets-51512514317[Open Codefest] on Monday 4 February and a https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[Public Workshop on Time Zones] on Tuesday afternoon 5 February,
+
+The&nbsp; *meeting venue* is in Building H, part of the Google facilities in central ZÃ¼rich near the central Train Station.&nbsp; The conference hotel is the http://www.25hours-hotels.com/en/hotels/zurich/langstrasse[25hours Hotel Langstrasse], a very short walk from the Central Train Station and across the street from our meeting venue.&nbsp; Three other hotels are also referenced in the link://events/calconnect-xliv-february-4-8-2019#lodging[Lodging] section of the web page.&nbsp; All hotels may be booked immediately.&nbsp; A map of the central area is linked from the link://events/calconnect-xliv-february-4-8-2019#location[Location] section of the web page.
+
+*link://events/calconnect-xliv-february-4-8-2019[CalConnect XLIV]* follows the new conference format which was trialed at our last event in Karlsruhe.&nbsp;&nbsp; CalConnect XLIV itself will be four days (Tuesday through Friday), and brings together, as a single event and with a single fee, our traditional conference and technical sessions.&nbsp; Note that the "track" organization at the September 2018 event will not be used; we will organize sessions for best fit and relevance.
+
+Please see the introduction on the link://events/calconnect-xliv-february-4-8-2019[CalConnect XLIV web page] for a fuller description of the event and information about the Open Codefest and the Time Zone Workshop.
+
+The schedule for the four days is currently under development and will be posted in the link://events/calconnect-xliv-february-4-8-2019#conference-schedule[CalConnect XLIV Schedule] as we get closer to the event, so please check periodically.&nbsp;
+
+Fees and Registration Options:&nbsp; The registration fee for the full four-day event is $950 (late registration is $1050).&nbsp; We are also offering a trial one-day registration fee of $400 (late registration $475).&nbsp;&nbsp; Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.&nbsp;
+
+As always, please let us know if you have any questions.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

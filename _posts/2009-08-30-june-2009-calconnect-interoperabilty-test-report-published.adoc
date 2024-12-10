@@ -1,0 +1,26 @@
+---
+layout: page
+title: June 2009 CalConnect Interoperabilty Test Report Published
+date: 2009-08-30
+type: news
+categories: announcements general-information
+excerpt: The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in June 2009. See June 2009 CalConnect Interoperabilty Test Report.
+---
+
+== June 2009 CalConnect Interoperabilty Test Report Published
+
+[[node-325]]
+Posted August 30, 2009 
+
+The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in June 2009. See link:/docs/CD0909%20June%202009%20CalConnect%20Interoperability%20Test%20Report.pdf[June 2009 CalConnect Interoperabilty Test Report].
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+

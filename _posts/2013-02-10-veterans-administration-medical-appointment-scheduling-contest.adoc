@@ -1,0 +1,43 @@
+---
+layout: page
+title: Veterans’ Administration Medical Appointment Scheduling Contest
+date: 2013-02-10
+type: news
+categories: announcements general-information the-world-of-calendaring
+excerpt: As some of our members already know, the United State Veterans Health Administration has announced a ‘VA Medical Appointment Scheduling Contest” (http://vascheduling.challenge.gov/) to
+---
+
+== Veterans’ Administration Medical Appointment Scheduling Contest
+
+[[node-213]]
+Posted February 10, 2013 
+
+As some of our members already know, the United State Veterans Health Administration has announced a VA Medical Appointment Scheduling Contest (http://vascheduling.challenge.gov/) to
+
+¦encourage development of systems that help Veterans schedule appointments to receive care from the Veterans Health Administration and to reduce risks in the future procurement and deployment of those systems¦The goal of this contest is to encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration. VA also seeks to obtain information which will allow it to reduce the risks inherent in procurement and deployment of a replacement medical scheduling product.
+
+In the course of learning more about this contest, we ran across these references which may be of interest to our membership and others interested in calendaring and scheduling:
+
+http://vascheduling.challenge.gov/ +
+http://vascheduling.challenge.gov/updates/663 +
+http://www.osehra.org/wiki/mdws-scheduling-vha-innovations-sandbox +
+http://vascheduling.challenge.gov/updates/647 +
+http://vascheduling.challenge.gov/forum_topics +
+http://vascheduling.challenge.gov/updates/649 +
+http://osehra.org/group/mdws +
+http://en.wikipedia.org/wiki/VistA +
+http://www.osehra.org/discussion/roger-baker-va-cio-refactoring +
+http://www.osehra.org/blog/cio-va-roger-baker-vista-open-source-initiative-memo
+
+Although we have reached out to the VA to learn more about the role of calendaring systems in this challenge, CalConnect is not affiliated in any way with this contest or the VA.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

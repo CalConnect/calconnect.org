@@ -1,0 +1,26 @@
+---
+layout: page
+title: Topical Agendas for Technical Committees at Roundtable XV
+date: 2009-05-11
+type: news
+categories: announcements current-events general-information
+excerpt: The Topical Agendas for the Technical Committee sessions at the upcoming Roundtable XV have been published and are on the logistics page for CalConnect XV at Topical Agendas. An agenda is also provided for the Shared Calendar Workshop on Wednesday afternoon. The workshop is intended to start addressing how shared, public, and group calendars are being implemented and how to provide for them in the standards, to avoid calendaring clients having to have separate implementations for each provider.  
+---
+
+== Topical Agendas for Technical Committees at Roundtable XV
+
+[[node-338]]
+Posted May 11, 2009 
+
+The Topical Agendas for the Technical Committee sessions at the upcoming Roundtable XV have been published and are on the logistics page for CalConnect XV at link://calconnect15.shtml#agendas[Topical Agendas]. An agenda is also provided for the Shared Calendar Workshop on Wednesday afternoon. The workshop is intended to start addressing how shared, public, and group calendars are being implemented and how to provide for them in the standards, to avoid calendaring clients having to have separate implementations for each provider. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

@@ -1,0 +1,46 @@
+---
+layout: page
+title: Aggregated Service Discovery
+date: 2012-08-30
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: CalConnect’s AUTODISCOVERY Technical Committee has submitted the initial draft of a specification on Aggregated Service Discovery for clients and mobile devices to the IETF.
+---
+
+== Aggregated Service Discovery
+
+[[node-227]]
+Posted August 30, 2012 
+
+CalConnect s link://tc-autodiscovery.shtml[AUTODISCOVERY] Technical Committee has submitted the initial draft of a specification on https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/[Aggregated Service Discovery] for clients and mobile devices to the IETF.
+
+____
+This specification describes how clients can discover multiple services to configure themselves with a minimum of user-provided information, as short as possible sequence of queries and with a minimum of overhead for administrators of the services.
+____
+
+From the Charter of TC AUTODISCOVERY:
+
+____
+*Background* +
+ There are currently various systems in place for discovery and configuration of individual protocols, but the process can often require a series of requests using different protocols to discover all of the details needed to set up the various client services which an individual might use to interact with an organisation or provision a new device.
+
+Consider a new employee at Widget Enterprises. The employee needs to configure his e-mail program to use IMAP + TLS on port 143 against mail.widget.com, he needs to send mail on port 8557 via TLS+SMTP to smtp.widget.com, his calendar is on port 8443 at https://caldav.widget.com:8443/calendar/, and so forth. Some of these things can be discovered relatively easily, but the combination of DNS queries (including SRV lookups, certificate checking, and http requests) is complex; furthermore, some things cannot be discovered readily at all. Similarly, an individual acquiring a new smartphone and wishing to configure services such as e-mail, calendar and perhaps address book faces this experience with far less knowledge and ability to cope with the complexity.
+
+*Charter* +
+ TC AUTODISCOVERY will define and produce a standard protocol which will allow discovery of a variety of services in as few HTTP requests as possible, allowing developers to simplify the user interface in client software, and in particular in multi-function client software such as a combined e-mail and calendar client, or a multi-function device such as a smartphone.
+
+This protocol is intended to allow discovery of services based on internet standard protocols, and should be based on existing technology and protocols to the extent possible, to ease the adoption of the new autodiscovery mechanism by developers.&nbsp;
+____
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,28 @@
+---
+layout: page
+title: CalConnect Artifacts Repository and iCalendar in XML (RFC 6321) Schema
+date: 2011-08-10
+type: news
+categories: announcements general-information special-focus the-world-of-calendaring
+excerpt: CalConnect has established a code artifacts repository as a place to publish code artifacts such as schema. The first schema set published is the iCalendar in XML Schema (xCal) developed with and in support of the OASIS WS-Calendar effort.    
+---
+
+== CalConnect Artifacts Repository and iCalendar in XML (RFC 6321) Schema
+
+[[node-251]]
+Posted August 10, 2011 
+
+CalConnect has established a link://artifacts.shtml[code artifacts repository] as a place to publish code artifacts such as schema. The first schema set published is the link://artifacts/ical-art.shtml[iCalendar in XML Schema] (xCal) developed with and in support of the OASIS WS-Calendar effort. &nbsp; &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

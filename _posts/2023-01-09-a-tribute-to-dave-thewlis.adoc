@@ -3,7 +3,7 @@ layout: page
 title: A Tribute to Dave Thewlis
 date: 2023-01-09
 type: news
-category: Announcements
+categories: the-world-of-calendaring special-focus announcements
 excerpt:
   On the occasion of his recent retirement, we pay tribute to Dave for his very
   special contributions as a founder and Executive Director of the Calendaring &
@@ -12,6 +12,9 @@ excerpt:
 :page-liquid:
 
 == A Tribute to Dave Thewlis
+
+[[node-559]]
+Posted January 9, 2023 
 
 .Father Time managing his calendar?
 image:{{'/assets/images/DaveThewlis-01.jpg' | relative_url }}[Dave Thewlis on phone,width=657,height=553]
@@ -168,4 +171,3 @@ that patiently and effectively for years, and really made calendar
 standards work happen and then help those standards take root. Thank
 you for your strong and lasting impact.
 ____
-

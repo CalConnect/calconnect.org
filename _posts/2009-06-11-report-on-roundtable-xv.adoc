@@ -1,0 +1,24 @@
+---
+layout: page
+title: Report on Roundtable XV
+date: 2009-06-11
+type: news
+categories: announcements general-information
+excerpt: A brief report on Roundtable XV, hosted by Oracle in Redwood Shores, California, on June 3-5, 2009, has been posted on the CalConnect website, together with a bit of information about the colocated CalConnect Interoperability Test Event.   
+---
+
+== Report on Roundtable XV
+
+[[node-333]]
+Posted June 11, 2009 
+
+A brief report on link://roundtable15rpt.shtml[Roundtable XV], hosted by Oracle in Redwood Shores, California, on June 3-5, 2009, has been posted on the CalConnect website, together with a bit of information about the colocated CalConnect Interoperability Test Event. &nbsp;&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+

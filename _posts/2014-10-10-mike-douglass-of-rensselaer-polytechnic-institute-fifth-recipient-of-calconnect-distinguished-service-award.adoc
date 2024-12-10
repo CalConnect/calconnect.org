@@ -1,0 +1,36 @@
+---
+layout: page
+title: Mike Douglass of Rensselaer Polytechnic Institute Fifth Recipient of CalConnect Distinguished Service Award
+date: 2014-10-10
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: At CalConnect XXXI, hosted by Youcanbook.me in Bedford, United Kingdom, Mike Douglass of Rensselaer Polytechnic Institute was honored as our 5th recipient of the Distinguished Service Award.
+---
+
+== Mike Douglass of Rensselaer Polytechnic Institute Fifth Recipient of CalConnect Distinguished Service Award
+
+[[node-167]]
+Posted October 10, 2014 
+
+At CalConnect XXXI, hosted by Youcanbook.me in Bedford, United Kingdom, Mike Douglass of Rensselaer Polytechnic Institute was honored as our 5th recipient of the Distinguished Service Award.
+
+Mike became active in CalConnect in 2005 when Rensselaer Polytechnic Institute joined CalConnect, and has remained intensely involved ever since. He is an engaged participant and presenter at CalConnect conferences. He has attended every event RPI joined CalConnect, save for one he reluctantly missed while recuperating from major surgery  but he did call in when he could!
+
+Mike actively participates in nearly every Technical committee, chairing many of them  EVENTPUB, IOPTEST, TIMEZONE, XML, and co-chairing FREEBUSY. He has authored or co-authored several specifications and internet drafts, including CalWS-REST and CalWS-SOAP, Event Publication Extensions to iCalendar, Improved Support for iCalendar Relationships, Objectclass Property for vCard, Timezone Service Protocol, and working with the OASIS WS Calendar Committee, WS-Calendar.
+
+Finally, Mike has been the Interoperability Test Event Manager since 2011, when the Board made it into a volunteer position, and oversees the test event while conducting his own testing and helping others.
+
+CalConnect thanks Mike for his long and varied service to CalConnect and his many contributions to our success.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

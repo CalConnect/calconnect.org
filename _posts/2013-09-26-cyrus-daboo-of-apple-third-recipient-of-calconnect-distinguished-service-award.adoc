@@ -1,0 +1,40 @@
+---
+layout: page
+title: Cyrus Daboo of Apple Third Recipient of CalConnect Distinguished Service Award
+date: 2013-09-26
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: CalConnect is honored to announce that Cyrus Daboo of Apple is the third recipient of the CalConnect Service Award. The award was presented at CalConnect XXVIII on September 25, 2013.
+---
+
+== Cyrus Daboo of Apple Third Recipient of CalConnect Distinguished Service Award
+
+[[node-192]]
+Posted September 26, 2013 
+
+CalConnect is honored to announce that Cyrus Daboo of Apple is the third recipient of the CalConnect Service Award. The award was presented at CalConnect XXVIII on September 25, 2013.
+
+Cyrus earned his Doctorate in Physics from Cambridge University in the U.K.. and moved to the United States after working as a Research Associate at Cambridge in the mid-1990s. In the U.S. he founded his own firm and developed Mulberry, a calendaring and e-mail client adopted largely in the academic sector, which he eventually made an open source project.
+
+Cyrus became involved with calendaring and scheduling in the process, and with the IETF. He was one of the original authors of the CalDAV standard, and was involved in the establishment of CalConnect, as he attended the original formation meeting in Montreal in 2004. His firm, Isamet, became one of the founding members of CalConnect and Cyrus has been at, and involved in, every CalConnect event.
+
+In early 2006 Cyrus went to Apple, where he has been responsible for Apple s iCal Server and the open source Darwin Calendar Server. Cyrus has been extremely active in CalConnect since before he went to Apple, and has continued his activities as author and editor of many standards and specifications. He has served as Chair of TC CHAIRS for all but two years since 2006, and has served as Apple s Steering Committee representative since Apple became a member of the Steering Committee.
+
+Cyrus has been active and effective not just in authoring and progressing specification and standards, but broader areas involving CalConnect, including identifying new work areas, conducting workshops and sessions, and helping to progress our work. He is an exemplar of collegiality, willing to work with and help anyone, and never condescending, but treating all as colleagues.
+
+Cyrus is one of the few people who seem somehow to actually manage not just to be in multiple places at once, but to work effectively in those places, and has been one of the primary drivers of CalConnect s success, as well as of CalDAV, CardDAV, and the other standards he has been instrumental in authoring and progressing. Cyrus is one of the thought leaders of CalConnect, thinking about and speaking to what we can do better and how we can do it. If there are any close to indispensable people in the calendaring and scheduling world, Cyrus is certainly one of them, and he has remained a stalwart support of CalConnect from the beginning.
+
+Thank you, Cyrus, for your long service and outstanding contributions to CalConnect and interoperable calendaring.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

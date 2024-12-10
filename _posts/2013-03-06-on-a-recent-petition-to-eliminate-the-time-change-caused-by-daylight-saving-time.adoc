@@ -1,0 +1,49 @@
+---
+layout: page
+title: On a recent petition to eliminate the time change caused by Daylight Saving Time
+date: 2013-03-06
+type: news
+categories: announcements general-information special-focus the-world-of-calendaring
+excerpt: A petition has been initiated on the White House petition site to eliminate the twice-yearly time shift caused by Daylight Saving Time, either by eliminating it completely or imposing it all year.
+---
+
+== On a recent petition to eliminate the time change caused by Daylight Saving Time
+
+[[node-207]]
+Posted March 6, 2013 
+
+A petition has been initiated on the https://petitions.whitehouse.gov/petition/eliminate-bi-annual-time-change-caused-daylight-savings-time/ShChxpKh[White House petition site] to eliminate the twice-yearly time shift caused by Daylight Saving Time, either by eliminating it completely or imposing it all year.
+
+CalConnect has no stance either for or against the suggestion itself. However, we strongly advise that any decision to change the current DST rules be made long in advance to allow enough time for the necessary changes to software and computer systems which accommodate DST.
+
+In 2005, Congress decided to change the start and end dates of Daylight Saving Time to provide three more weeks of DST in March, and one more week at the end of the year; so called Extended Daylight Saving Time. This was signed into law as the Energy Policy Act of 2005. CalConnect submitted an link:/docs/CD0514%20DST%20Advisory%20Notice.pdf[Advisory document]shortly before the EDST legislation was signed, recommending as much time as possible because the scope of the change was so broad and affected so much. In that document we noted:
+
+____
+Anything that keeps a calendar, including cell phones, is potentially affected. Many embedded environmental systems such as building management systems, time-lock control, work-shift and time clocks, may also be affected. It is also not clear whether other countries that currently share the +
+ same timezone and DST definitions as the US will adopt the new definitions at the same time, or stay with the current ones. This has serious impact for cross-border commerce as for two months in the year, regions of the US will have a local time one hour different than similar regions in other countries.
+____
+
+The law allowed 18 months before the new rules went into effect in March of 2007. During that time, CalConnect published a link://dstreview.shtml[Review and Considerations] document and followed it with a set of link://dstlinks.shtml[Links, Advisories and Changes], noting:
+
+____
+This document is a compilation of links to vendor-provided advisories, technical notes, change documents, and the like. Its primary purpose is to try and consolidate in one place links to references for Calendaring and Scheduling systems and major underlying operating systems, but links for related products and services will be provided when possible.
+____
+
+In the event, the actual change in 2007 caused considerable disruption, much of it in the Calendaring and Scheduling area due to necessary fixes and patches either not being distributed in time, or not being applied to the C&S systems.
+
+A change to the DST rules today would have a far broader effect than five years ago, and of course far broader than calendaring and scheduling. The effect on areas as diverse as financial, travel, logistics and shipping, and in particular embedded systems, is likely to be extremely disruptive, and would spread even to the level of intelligent thermostats in the home. The impact can only be mitigated by serious and early attention on the part of the builders and vendors of any software, firmware and devices which accommodate DST, and a similar diligence on the part of the customers owning the software and devices.
+
+Within CalConnect, after EDST went into effect we realized that much of the impact of the change was due to actual timezone definition data being resident in systems. In link:/docs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf[EDST Reflections and Recommendations], published in April of 2007, we offered some recommendations. Much of our subsequent focus in the area of timezones has been towards a http://tools.ietf.org/html/draft-douglass-timezone-service/[Timezone Service protocol], which would allow systems and devices connected to the internet, calendaring and others, to obtain timezone information when needed rather than having it embedded in the systems themselves, and thus would not have to be modified to accommodate changes in DST definitions. Whether such a protocol can be in widespread use in time for any future DST change is questionable, but ultimately the adoption of such a mechansim will go a long way towards shielding users from the effects of DST transition changes.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

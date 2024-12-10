@@ -1,0 +1,30 @@
+---
+layout: page
+title: Two CalConnect Specifications have become IETF RFCs (proposed standards)
+date: 2016-04-02
+type: news
+categories: announcements special-focus the-world-of-calendaring
+excerpt: The IETF has announced that two CalConnect specifications submitted to the IETF have been approved and published as RFCs (proposed standards).
+---
+
+== Two CalConnect Specifications have become IETF RFCs (proposed standards)
+
+[[node-387]]
+Posted April 2, 2016 
+
+The IETF has announced that two CalConnect specifications submitted to the IETF have been approved and published as RFCs (proposed standards).
+
+RFC 7808, Time Zone Data Distribution Service https://www.rfc-editor.org/rfc/rfc7808.txt and RFC 7809 CalDAV Time Zones By Reference&nbsp; https://www.rfc-editor.org/rfc/rfc7809.txt were developed by the TIMEZONE Technical Committee.&nbsp; Following submission to the IETF they were subsequently adopted by the IETF TZDIST workng group and progressed to final submission.&nbsp;
+
+CalConnect contratulates everyone who participated in TC TIMEZONE over the years, and everyoine who participated in the TZDIST Working Group at the IETF.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

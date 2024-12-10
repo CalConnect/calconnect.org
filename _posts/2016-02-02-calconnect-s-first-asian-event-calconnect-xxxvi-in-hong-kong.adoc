@@ -1,0 +1,36 @@
+---
+layout: page
+title: CalConnect's first Asian event;  CalConnect XXXVI in Hong Kong
+date: 2016-02-02
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: Registration is now open for CalConnect's first event in Asia  CalConnect XXXVI, April 18-22 2016, in Hong Kong, hosted by Ribose and OGCIO (the Office of the Government Chief Information Officer).
+---
+
+== CalConnect's first Asian event:  CalConnect XXXVI in Hong Kong
+
+[[node-143]]
+Posted February 2, 2016 
+
+Registration is now open for CalConnect's first event in Asia:&nbsp; https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[CalConnect XXXVI], April 18-22 2016, in Hong Kong, hosted by http://www.ribose.com/[Ribose] and http://www.ogcio.gov.hk/[OGCIO] (the Office of the Government Chief Information Officer).
+
+CalConnect XXXVI will be a first for us in other ways:&nbsp; in addition to being our first Asian event, it will be our first CalConnect as part of a larger event, Hong Kong's https://www.itfest.hk/template[2016 ITFEST].&nbsp; This three-week series of programs, sessions, forums and other IT-related programming will include a https://www.itfest.hk/template?series=2&id=141&lang=en#[CalConnect Public Day] on Wednesday the 20th, and a CalConnect Seminar Tuesday evening at Hong Kong University.&nbsp;
+
+Our regular event schedule will be modified to enable us to offer the Public Day:&nbsp; Monday and Tuesday will be the Interoperability Test Event, Wednesday the Public Day, Thursday and Friday will be the conference.&nbsp;&nbsp;
+
+CalConnect's Asia/Pacific presence has begun to grow, with members in Hong Kong, Japan, and Australia, and it is our intent that CalConnect XXXVI will be the first, but by no means the only, CalConnect event in Asia.&nbsp;
+
+We encourage CalConnect members to join us in Hong Kong, and we encourage non-members to join us as http://\calconnect.org/observer.shtml[observers] at our conference, and perhaps to observe -- or participate -- in the interoperability test event.&nbsp; For mroe information about the event venue (Cyberport), hotels, registration information, and schedule, please see https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[CalConnect XXXVI].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,30 @@
+---
+layout: page
+title: TC USECASE publishes Resource documents
+date: 2009-06-11
+type: news
+categories: announcements general-information
+excerpt: TC RESOURCE has published three documents related to resources in calendaring and scheduling.
+---
+
+== TC USECASE publishes Resource documents
+
+[[node-334]]
+Posted June 11, 2009 
+
+TC RESOURCE has published three documents related to resources in calendaring and scheduling.
+
+* *link:/docs/CD0905%20State%20of%20Resource%20Interoperability.pdf[State of Resource Interoperability for Calendaring, Groupware, and Project Management]*
+* *link:/docs/CD0906%20Use%20Cases%20for%20Resources.pdf[Use Cases for Resources]*
+* *link:/docs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information.pdf[A Recommendation for Minimum Interoperability of Resource Information]*
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+

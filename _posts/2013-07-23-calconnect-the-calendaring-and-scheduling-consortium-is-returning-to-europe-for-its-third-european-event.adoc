@@ -1,0 +1,127 @@
+---
+layout: page
+title: CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe for its third European event
+date: 2013-07-23
+type: news
+categories: announcements current-events general-information
+excerpt: Our first two European conferences, in 2011 and 2012, were very successful, and our European colleagues attendees encouraged us to return again this autumn. Therefore, CalConnect XXVIII will take place in Prague, Czech Republic, on September 23-27, 2013, hosted by DHL.
+---
+
+== CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe for its third European event
+
+[[node-196]]
+Posted July 23, 2013 
+
+Our first two European conferences, in 2011 and 2012, were very successful, and our European colleagues attendees encouraged us to return again this autumn. Therefore, link://calconnect28.shtml[CalConnect XXVIII] will take place in Prague, Czech Republic, on September 23-27, 2013, hosted by http://www.dhl.com[DHL].
+
+We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect event without having to incur the travel costs and time of coming to North America.
+
+link:/[CalConnect] is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
+
+European companies were among CalConnect s earliest members members, and as standards and interoperability are both central to CalConnect s mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for our first regular CalConnect conference in Europe in 2011. This autumn s event in Prague is one which we hope will continue with even greater European participation in CalConnect s interoperable calendaring and scheduling projects.
+
+*Overview*
+
+Our venue will be the DHL facility in Prague, located at V Parku 2308/4117, Prague 4, 148 00, Czech Republic. The facility is a 5 minute walk from the Chodov metro station on Line C. All events of the CalConnect week, September 23-27, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place at the DHL facility. Full information about the conference may be found at link://calconnect28.shtml[CalConnect XXVIII] including the week s schedules, registration, and logistics information including accommodation.
+
+Monday, Tuesday, and Wednesday morning, September 23-25, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, September 25-27, will be the Technical Conference (Roundtable) which will include workshops, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
+
+*Registration and Fees*
+
+You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link://regtypes.shtml[Registration and Fees] for more information and registration forms.
+
+Special Registration Fee for This Event: $600 U.S. per person for first-time non-members to cover both the Interoperability Test Event and the Roundtable Technical Conference.
+
+We encourage you to register as soon as possible. Upon registration you will be invoiced for the amount due. However, you may choose to pay later, including at the event, if it is more convenient.
+
+*Conference Hotel*
+
+Our conference hotel is the http://corinthia.com/en/Prague/home/[Corinthia Hotel] in Prague. We have a block of rooms and a special rate of 85 Euros/night exclusive of VAT. The special rate is available through 31 August. More information including a link to the booking form for this event may be found on the logistics page: +
+link://calconnect28.shtml#hotel .
+
+*Who and What is CalConnect?*
+
+We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at CalConnect Members. Learn more about CalConnect at our website and our blog. You can find out more about membership in CalConnect at link://membership.shtml[CalConnect Membership].
+
+*What is CalConnect currently focused on?*
+
+You may find brief descriptions of the current work items of our Technical Committees at link://currentwork.shtml[Current Work].
+
+*Questions and Feedback:*
+
+Please contact us at mailto:contact@calconnect.org[contact@calconnect.org] with questions or feedback.
+
+In particular, if you are interested in the Interoperability Test event and would like to suggest specific areas of testing, or potential participants, we want to know. If you have specific areas of interest or topics which you would like to see addressed in the workshops and symposia, please let us know about that as well! Also, feel free to send this e-mail on to others who you feel might be interested, or contact us and ask us to invite them as well.
+
+You are also welcome to contact me directly with questions and suggestions; see my Signature block at the end of this E-mail
+
+Please join us in Prague!
+
+Dave Thewlis +
+ Executive Director +
+ The Calendaring and Scheduling Consortium
+
+
+
+*More Information:*
+
+More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link://calconnect28.shtml#schedule[CalConnect XXVIII Schedule]. The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link://calconnect28.shtml[CalConnect XXVIII].
+
+*Interoperability Testing*
+
+The Interoperability Testing will take place Monday and Tuesday, October 1-2, plus Wednesday morning the 3rd. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow testing pairs where you will get a chance to test with everyone in the course of event.
+
+The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. As of today we will definitely plan to test the following areas:
+
+CalDAV +
+ iCalendar/iMIP/iTIP and iMIP gateways +
+ iSchedule +
+ VPOLL +
+ Autodiscovery protocol +
+ CALSCALE (non-gregorian calendar recurrences via RRULE and RSCALE) +
+ CardDAV +
+ The new Timezone Service Protocol +
+ CalWS, the Web Services protocol for calendaring** +
+ If there is interest, synchronization testing for mobile clients in general
+
+Please see link://iop1309.shtml[CalConnect XXVIII IOP Test Event] for more information.
+
+**CalWS is being developed iin part to support of the WS Calendar specification from OASIS as part of the NIST Smart Grid initiative; however it is a general implementation of calendaring and scheduling operations via web services. CalWS testing is dependent upon at least two implementations participating.
+
+*Technical Workshops*
+
+Thursday and Friday mornings will be dedicated to workshops, which are included in the Roundtable Registration. We are currently planning workshops on Calendaring and Travel Itineraries, and on Federated Shared Calendars. Additional workshops may be offered.
+
+The CalConnect XXVIII Schedule will be updated with the topics and speakers for the workshops as they are identified.
+
+*Roundtable (Technical Conference)*
+
+At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXVIII Schedule. The schedule includes
+
+Opening and introduction to CalConnect +
+ Report from the Interoperability Test Event +
+ Technical Committee sessions for all CalConnect TCs +
+ Opportunities for BOFs (birds of a feather discussions) +
+ Final wrapup and summary of all Technical Committee sessions +
+ CalConnect Plenary Session
+
+The conference will conclude no later than 18:00 on Friday, October 5th.
+
+*Social Events:*
+
+There will be a dinner for all Interoperability Test Event participants on Monday Evening, a Reception on Wednesday evening for all participants in either the Test Event and/or the Technical Conference, and a dinner for all Technical Conference participants on Thursday evening.
+
+*Meals*
+
+Your registration to the Interoperability Test Event or the Roundtable Technical Conference includes lunch and morning and afternoon refreshments for the period of the event, plus the reception Wednesday evening. In addition, registration to the test event includes the Monday evening IOP test event dinner, and registration to the technical conference includes the Thursday evening Roundtable dinner. Please note that breakfast is not included as it is generally included with your hotel package. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

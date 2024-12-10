@@ -1,0 +1,28 @@
+---
+layout: page
+title: Jorte Press Release about CalConnect XLII and JEDC
+date: 2018-05-29
+type: news
+categories: 
+excerpt: Jorte, our host for CalConnect XLII in Tokyo next week, has issued a press release about CalConnect XLII and the Digital Calendaring Summit with JEDC, the Japan Event Data Consortium.  A very free translation into English of an earlier draft of the press release is available at
+---
+
+== Jorte Press Release about CalConnect XLII and JEDC
+
+[[node-475]]
+Posted May 29, 2018 
+
+http://www.jorte.com/en[Jorte], our host for link://events/.calconnect-xlii-june-04-08-2018[CalConnect XLII] in Tokyo next week, has issued a https://news.biglobe.ne.jp/economy/0528/atp_180528_0139083724.html[press release] about CalConnect XLII and the Digital Calendaring Summit with JEDC, the Japan Event Data Consortium.&nbsp; A very free translation into English of an earlier draft of the press release is available at
+
+[[file-145]]
+=== 
+
+. application/pdf
+image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/JortePressRelease-redrafted-v2.1.pdf[JortePressRelease-redrafted-v2.1.pdf.]
+
+&nbsp;
+
+CalConnect welcomes the opportunity to meet with the JEDC and discuss the issues of standardization of digital event data in Japan.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+

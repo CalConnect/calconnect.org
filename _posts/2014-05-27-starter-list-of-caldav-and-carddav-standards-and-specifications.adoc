@@ -1,0 +1,36 @@
+---
+layout: page
+title: Starter List of CalDAV and CardDAV Standards and Specifications
+date: 2014-05-27
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: CalConnect recently published a Starter List of CalDAV and CardDAV Standards and Specifications, a list of specifications and protocols recommended to people getting started with developing a CalDAV and/or CardDAV server but not yet fully conversant with the specs. The list is divided by major topic (HTTP, CalDAV, etc.) and each spec is identified by a short description indicating what it is and what it is used for in this context.
+---
+
+== Starter List of CalDAV and CardDAV Standards and Specifications
+
+[[node-178]]
+Posted May 27, 2014 
+
+CalConnect recently published a link://starterlistcaldavcarddav.shtml[Starter List of CalDAV and CardDAV Standards and Specifications], a list of specifications and protocols recommended to people getting started with developing a CalDAV and/or CardDAV server but not yet fully conversant with the specs. The list is divided by major topic (HTTP, CalDAV, etc.) and each spec is identified by a short description indicating what it is and what it is used for in this context.
+
+This page may be found in the link://resources.shtml[RESOURCES] section of the CalConnect website; see the link://developers.shtml[Developer Resources] entry in the sidebar.
+
+We are planning to publish a comprehensive CalDAV and CardDAV Protocol Reference List in the near future as a complement to this Getting Started list; the link://CD1104_Calendaring_Standards.shtml[Index to Calendaring and Scheduling Standards] may also be of use.
+
+_Note: The page was originally called Getting Started with CalDAV and CardDAV but we changed the name to more accurately reflect the content. The old Getting Started link is aliased to the Starter List page._
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

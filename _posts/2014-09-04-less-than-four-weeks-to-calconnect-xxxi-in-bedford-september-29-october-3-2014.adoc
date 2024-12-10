@@ -1,0 +1,48 @@
+---
+layout: page
+title: Less than Four Weeks to CalConnect XXXI in Bedford, September 29 – October 3, 2014
+date: 2014-09-04
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: We’re within four weeks of the next CalConnect event, which will be hosted by Youcanbook.me in Bedford, England; here’s a link to the original blog post about this event CalConnect XXXI Blog Post and here’s the link to the actual CalConnect web page for the event
+---
+
+== Less than Four Weeks to CalConnect XXXI in Bedford, September 29 – October 3, 2014
+
+[[node-169]]
+Posted September 4, 2014 
+
+We re within four weeks of the next CalConnect event, which will be hosted by Youcanbook.me in Bedford, England; here s a link to the original blog post about this event: http://wp.me/prYbR-co[CalConnect XXXI Blog Post] and here s the link to the actual CalConnect web page for the event: link://calconnect31.shtml[CalConnect XXXI].
+
+During the TC FREEBUSY session Thursday morning at 1100-1200, we will have a demonstration of *inter-system consensus scheduling*. The demo will feature multiple clients running on different servers (and implementations) performing consensus scheduling, based on VPOLL, iSCHEDULE, and jCAL.
+
+In addition to our regular sessions during the conference, we have two workshops planned to see if we should consider undertaking work in these areas. If so the outcome would be the establishment of Provisional Committees for one or both to explore the scope further and recommend a way forward to CalConnect.
+
+*Workshop: History and Comments feeds in iCalendar Thursday 0830-1000:*
+
+In shared calendar environments, in particular, it is useful to know who changed an event or task, when the change was made, and what those changes were. Whilst a sophisticated versioning system could cover that, a lightweight approach may be better. In addition, users often want to be able to comment publicly or privately on an event or task, generating a stream of comments that can be reviewed (rather than just having the last comment visible as is typically the case today).
+
+The purpose of this workshop is to discuss each of these issues in more depth with the goal of determining possible solutions to these problems. Consideration will be made for scalability, useability, and the desire not to reinvent the wheel wherever possible.
+
+*Workshop: Groups Sharing and Scheduling Friday 0830-1000:*
+
+Much of the focus of scheduling and sharing of calendar data has been for use by individuals. However, in many enterprise and social environments, individuals often have a common purpose that can be represented by placing those related individuals into a group. When groups exist, it would be convenient to be able to schedule or share data with all members of the group, and have changes to the group membership over time impact the scheduling and sharing states.
+
+For example, a company might setup a group for a specific project that a number of individuals are working one. A team meeting for project members is scheduled every week. When a new team member arrives, they are added to the group. At that point it would be convenient if they were also automatically added as an attendee of the weekly team meeting. Similarly, if an individual is no longer associated with the project and removed from the group, they should be automatically removed as an attendee of the team meeting.
+
+The purpose of this workshop is to discuss how automatic management of group attendees and group sharees could be achieved on a CalDAV server and, in more general terms, via iTIP. We will examine different use cases, or modes, of group scheduling and sharing with a view to addressing concerns of scalability in particular.
+
+Non-members are welcome to attend a single CalConnect Conference as an link://observer.shtml[Observer] so please consider joining us, especially if you have an interest in either or both of these areas, in addition to the areas we re link://currentwork.shtml[currently working in]. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

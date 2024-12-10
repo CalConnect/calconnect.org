@@ -1,0 +1,70 @@
+---
+layout: page
+title: CalConnect Workshop on Tasks – Wednesday May 25, 2011
+date: 2011-04-27
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 25 May, at NASA Ames, Mountain View, California.
+---
+
+== CalConnect Workshop on Tasks – Wednesday May 25, 2011
+
+[[node-260]]
+Posted April 27, 2011 
+
+CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 25 May, at NASA Ames, Mountain View, California.
+
+*Background:*
+
+Over the last few years there have been more and more applications developed that allow users to manage tasks or to-do lists. In particular, with the ever increasing use of smart phones, there are now a plethora of smart phone apps that allow users to manage their task lists. Many of those offer an option to synchronize the task list with desktop computers or the cloud. However, in many cases a proprietary synchronization protocol is used with non-standard data formats.
+
+Tasks (VTODOs) are a part of iCalendar and thus part of CalConnect s focus. In 2007 our USECASE Technical Committee developed a use case document on tasks based on a review of existing products, with the goal of identifying commonality of properties and establishing a minimum set needed for interoperability.
+
+Since that time the potential applicability of VTODOs has expanded into areas such as project management, and energy/price scheduling in the work being done towards the national Smart Grid effort, with a concomitant increase in needed properties and flexibility.
+
+The aim of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and CalDAV may be needed to support the key features that application developers require.
+
+*Proposed Agenda*:
+
+1. Introduction +
+ 2. Review of current task based applications and services +
+ 3. Introduction to tasks in iCalendar and CalDAV. +
+ 4. Examination of key use cases  where do iCalendar and CalDAV fall short? +
+ 5. Conclusions  what is needed to support a standards-based task management system, what can CalConnect do to help?
+
+*Who may participate:*
+
+Participation in the workshop is open to interested individuals, regardless of whether or not they work for CalConnect members, or are otherwise registered for the CalConnect Roundtable or interoperability test event. (Participants in the CalConnect Roundtable are automatically registered for the workshop.)
+
+No fee will be charged for attending the workshop; however you will need to register in advance, and space is limited.
+
+*Venue:*
+
+The meeting will be held in the NASA Ames Conference Center, 500 Severyns Road, NASA Ames Research Center, Moffett Field, Mountain View, California.
+
+*Non-U.S. Residents please note*: NASA Ames is a government installation and there are some special restrictions on access to the NASA Ames Research Center. U.S. Citizens and permanent residents may gain access by presenting their driver s license and (if not a U.S. citizen) green card. However, visitors to the U.S. who are not permanent residents will require an invitation from NASA which must be arranged well in advance. If you are planning to attend the workshop (or any part of CalConnect week) and have not already made these arrangements *please contact us immediately at: mailto:contact@calconnect.org[contact@calconnect.org]*.
+
+*Schedule:*
+
+The workshop will be held from 1:30 to 4:00 Wednesday afternoon, May 25th, at the NASA Ames Conference Center, as the first item of business at the CalConnect Roundtable. There will be a break and refreshments from 4:00 to 4:30, followed by a presentation by NASA and an evening Reception. Workshop attendees are invited to stay for the NASA presentation and the following reception beginning at 5:30.
+
+*Registration and information:*
+
+To register for the workshop only, please see link://workshopreg.shtml[].
+
+To register for the CalConnect Roundtable and/or Interoperability Test Event, please see link://regtypes.shtml[].
+
+For more information and logistics including the location of the Conference Center, please see link://calconnect21.shtml[].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

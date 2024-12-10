@@ -1,0 +1,28 @@
+---
+layout: page
+title: Resource Schema for calendaring and scheduling services published
+date: 2010-05-10
+type: news
+categories: announcements general-information special-focus
+excerpt: TC RESOURCE has published its Schema for representing resources for calendaring and scheduling services, and the proposal has been submitted to the IETF as an Internet Draft. Please see Resource Schema. This proposal describes a schema for representing resources for calendaring and scheduling. A resource in the scheduling context is any shared entity that can be scheduled by a calendar user, but does not control its own attendance status.
+---
+
+== Resource Schema for calendaring and scheduling services published
+
+[[node-300]]
+Posted May 10, 2010 
+
+TC RESOURCE has published its __Schema for representing resources for calendaring and scheduling services__, and the proposal has been submitted to the IETF as an Internet Draft. Please see link://CD1003%20Resource%20Schema.shtml[Resource Schema]. This proposal describes a schema for representing resources for calendaring and scheduling. A resource in the scheduling context is any shared entity that can be scheduled by a calendar user, but does not control its own attendance status.
+
+CalConnect Proposals are experimental specifications which may be submitted to the IETF or other standards bodies for progression to become standards.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

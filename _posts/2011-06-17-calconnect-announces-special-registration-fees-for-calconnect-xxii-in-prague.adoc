@@ -1,0 +1,31 @@
+---
+layout: page
+title: CalConnect announces special registration fees for CalConnect XXII in Prague
+date: 2011-06-17
+type: news
+categories: announcements current-events special-focus
+excerpt: CalConnect has announced special reduced registration fees for some participants in the upcoming CalConnect XXII event, hosted by Kerio Technologies in Prague, Czech Republic on October 3-7, 2011. The special rates are
+---
+
+== CalConnect announces special registration fees for CalConnect XXII in Prague
+
+[[node-254]]
+Posted June 17, 2011 
+
+CalConnect has announced special reduced registration fees for some participants in the upcoming CalConnect XXII event, hosted by Kerio Technologies in Prague, Czech Republic on October 3-7, 2011. The special rates are:
+
+* Non-members may register one person for the Interoperability Test Event, the Roundtable members meeting (as an observer), or both, for a single fee of $350.
+* Members who are not calendaring vendors may register one person for the Interoperability Test Event for $350.
+
+For more information please see link://calconnect22.shtml[CalConnect XXII] or contact CalConnect via or website by e-mail at mailto:contact@calconnect.org[contact@calconnect.org].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+

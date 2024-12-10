@@ -1,0 +1,26 @@
+---
+layout: page
+title: Nokia Corporation joins CalConnect
+date: 2010-01-11
+type: news
+categories: announcements general-information member-news
+excerpt: I am delighted to announce that Nokia Corporation has joined The Calendaring and Scheduling Consortium.
+---
+
+== Nokia Corporation joins CalConnect
+
+[[node-312]]
+Posted January 11, 2010 
+
+I am delighted to announce that http://www.nokia.com/about-nokia[Nokia] Corporation has joined The Calendaring and Scheduling Consortium.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+

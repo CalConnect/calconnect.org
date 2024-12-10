@@ -1,0 +1,32 @@
+---
+layout: page
+title: Making Digital Calendars Smarter
+date: 2013-05-02
+type: news
+categories: general-information member-news the-world-of-calendaring
+excerpt: Earlier this week, Jason Snell posted an article on Macworld titled Why Aren’t Digital Calendars Smarter?. From CalConnect’s perspective it is particularly notable that, although many of Jason’s suggestions have been implemented in one product or another, they are not common features across many products, and certainly not standardized. Even when a function is implemented in more than one product, there is usually not much commonality in how it’s done and how it looks.
+---
+
+== Making Digital Calendars Smarter
+
+[[node-203]]
+Posted May 2, 2013 
+
+Earlier this week, Jason Snell posted an article on Macworld titled http://www.macworld.com/article/2036158/why-aren-t-digital-calendars-smarter-.html[Why Aren t Digital Calendars Smarter?]. From CalConnect s perspective it is particularly notable that, although many of Jason s suggestions have been implemented in one product or another, they are not common features across many products, and certainly not standardized. Even when a function is implemented in more than one product, there is usually not much commonality in how it s done and how it looks.
+
+In some of these areas, CalConnect is already working to provide standards-based mechanisms which can be used to implement these and other capabilities in an interoperable way. For example, meeting overload could be a logical extension to VAVAILABILITY, which allows you to control when you are available to be scheduled, and vary when you are available by who is trying to schedule with you. Travel time and locality are both related to work we are scoping on Travel Itineraries and will be discussing at our next meeting in June. We have started looking at regenerating tasks (Why is this a surprise?), and extending the capabilities of tasks is a variety of ways.
+
+For those interested, a list of what we re currently doing is at link://currentwork.shtml[CalConnect Major Work Projects].
+
+Jason has also identified some things we hadn t thought of, and which we will look at adding to our future plans. Our thanks to him for an interesting and thought-provoking article. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

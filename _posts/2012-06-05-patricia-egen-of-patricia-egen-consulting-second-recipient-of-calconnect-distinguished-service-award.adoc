@@ -1,0 +1,38 @@
+---
+layout: page
+title: Patricia Egen of Patricia Egen Consulting Second Recipient of CalConnect Distinguished Service Award
+date: 2012-06-05
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: CalConnect is honored to announce that Patricia Egen, of Patricia Egen Consulting and the founder of CalConnect, is the second recipient of the CalConnect Service Award. The award was presented at CalConnect XXIV on May 24th, 2012.
+---
+
+== Patricia Egen of Patricia Egen Consulting Second Recipient of CalConnect Distinguished Service Award
+
+[[node-232]]
+Posted June 5, 2012 
+
+CalConnect is honored to announce that Patricia Egen, of Patricia Egen Consulting and the founder of CalConnect, is the second recipient of the CalConnect Service Award. The award was presented at CalConnect XXIV on May 24th, 2012.
+
+Pat has been involved with calendaring and scheduling for many years, and was responsible for a mainframe calendaring system, yes  such things really existed, some years ago. She became a champion for users and interoperability long ago, leading to her involvement in calendaring and scheduling standards in the IETF, which took over the original calendaring specification and established the CALSCH Working Group to move forward with calendaring standards. Pat became co-chair of CALSCH in 1999, and she organized the initial interoperability testing efforts.
+
+When work on calendaring standards, CAP, iCalendar, iTIP and iMIP, stalled in the IETF in the early 2000s, Pat realized the need for a separate organization or entity to somehow jump start the calendaring effort, and set out to find other like-minded individuals to work on, and establish, what would later become CalConnect, starting with the first CalConnect Roundtable in Montreal in 2004, hosted by Oracle. Pat became the Interoperability Test Manager for CalConnect for the inaugural CalConnect event in January of 2005, and managed every interoperability test event until late 2011, when the press of business and schedule necessitated passing that responsibility on.
+
+During the nearly seven years that Pat served in this position, in addition to running the interoperability test event, she compiled and published the post-event reports. Pat has served as a Director of CalConnect since its inception, most recently as Chair of the Board of Directors. Pat has also served on the Steering Committee since its inception. Pat was the chair of TC IOPTEST since its inception, and has participated when her schedule permitted in the work of other technical committees.
+
+As Pat s own business grows and prospers, she has less time to be actively involved with CalConnect, but she has always had, and retains, a strong interest in the purpose, the work, and goals of CalConnect, and remains a passionate supporter of CalConnect and of interoperable calendaring and scheduling. With this award, we recognize Pat for the seminal role she played in the creation of CalConnect, and for service in many different roles over the last eight years. However, the Patricia Egen story has another aspect, that of a tireless advocate of the customer s and user s needs in calendaring and scheduling, who unceasingly supported that perspective in discussions with vendors and customer members of CalConnect, reminding all of us of the many ways we can contribute with the unique skills and perspectives each of us has. Perhaps this thought, attributed to Margaret Mead, sums it up best, Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.
+
+Thank you Pat, for your commitment to changing the calendaring world.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

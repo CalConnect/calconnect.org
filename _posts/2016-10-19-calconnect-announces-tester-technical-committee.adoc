@@ -1,0 +1,28 @@
+---
+layout: page
+title: CalConnect Announces TESTER Technical Committee
+date: 2016-10-19
+type: news
+categories: announcements general-information special-focus the-world-of-calendaring
+excerpt: A new Technical Committee, TC TESTER, has been formed to improve testing tools  for CalDAV and CardDAV.  The TC is building on the CalDAV Tester from the Apple Darwin site, making it less vendor-specific and defining smaller sets of tests to target specific features, provide a quick regression test, or allow exclusion or inclusion of individual tests. New tests can then be developed in parallel with the creation or extension of standards.  A  long term possibility could be to evolve the new tools into a reference client for CalDAV and CardDAV servers. See https://www.calconnect.org/about/technical-committees/tc-tester.
+---
+
+== CalConnect Announces TESTER Technical Committee
+
+[[node-418]]
+Posted October 19, 2016 
+
+A new Technical Committee, TC TESTER, has been formed to improve testing tools&nbsp; for CalDAV and CardDAV.&nbsp; The TC is building on the CalDAV Tester from the Apple Darwin site, making it less vendor-specific and defining smaller sets of tests to target specific features, provide a quick regression test, or allow exclusion or inclusion of individual tests. New tests can then be developed in parallel with the creation or extension of standards.&nbsp; A&nbsp; long term possibility could be to evolve the new tools into a reference client for CalDAV and CardDAV servers. See https://www.calconnect.org/about/technical-committees/tc-tester[].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

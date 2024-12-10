@@ -1,0 +1,42 @@
+---
+layout: page
+title: Registration is open for CalConnect XXXIV in Amsterdam 28 September – 2 October 2015
+date: 2015-07-30
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: Registration is now open and hotel reservations may be made for CalConnect XXXIV in Amsterdam, The Netherlands, Sep 28 – Oct 2 2015, hosted by Gershon Janssen.
+---
+
+== Registration is open for CalConnect XXXIV in Amsterdam 28 September – 2 October 2015
+
+[[node-127]]
+Posted July 30, 2015 
+
+Registration is now open and hotel reservations may be made for CalConnect XXXIV in Amsterdam, The Netherlands, Sep 28  Oct 2 2015, hosted by Gershon Janssen.
+
+The CalConnect XXXIV web page is located at link://calconnect34.shtml and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc.
+
+The conference hotel is The Motel One Amsterdam-RAI which is brand new (it opens in mid August) and doesn t have a web page yet. Our host, Gershon Janssen, has arranged a special room rate of about â¬110 per night at the hotel (this is an average for a single room; prices Sunday-Tuesday are much higher than Wednesday-Friday). We have a room block of 20 rooms which will expire 1 September after which no guarantees of price or availability.
+
+The hotel is about 800 meters from the venue, http://www.rosarium.net/[The Rosarium Amsterdam]. We will be at the Rosarium for the entire week.
+
+Please note that, to obtain the special CalConnect rate, you cannot book online; the event web page offers an e-mail address or a telephone number which you may contact to request a booking, referring to the CalConnect group code. The hotel will call back as needed or e-mail you to confirm particulars including a credit card if you wish to guarantee the booking.
+
+If you wish to make alternative hotel arrangements, please be aware that due to a large medical convention in the same area of Amsterdam the same week. hotel rooms are pretty limited, and it would be wise to book as soon as possible.
+
+A schedule and conference program is posted on the CalConnext XXXIV link://calconnect34.shtml#schedule[web page]. The interoperability test event will take place Monday, Tuesday, and Wednesday morning, as usual; the Conference will be Wednesday afternoon through Friday. Our format will follow that of our last meeting: most Conference sessions will be higher-level strategy and cross-TC, with some specific very detailed discussions held during break-outs in the interoperability test event. We expect that the schedule and program will evolve over time, so check the web page periodically.
+
+Hope to see you in Amsterdam for CalConnect XXXIV; please contact us with any questions.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,26 @@
+---
+layout: page
+title: CalConnect Minutes from Roundtable XVI
+date: 2009-11-15
+type: news
+categories: announcements general-information
+excerpt: CalConnect Minutes is the CalConnect newsletter published after each CalConnect Roundtable. Each edition contains information from the previous Roundtable and IOP Test Event plus articles and guest contributions. It is intended for CalConnect members and for others interested in CalConnect and in calendaring and scheduling.
+---
+
+== CalConnect Minutes from Roundtable XVI
+
+[[node-319]]
+Posted November 15, 2009 
+
+CalConnect _Minutes_ is the CalConnect newsletter published after each CalConnect Roundtable. Each edition contains information from the previous Roundtable and IOP Test Event plus articles and guest contributions. It is intended for CalConnect members and for others interested in CalConnect and in calendaring and scheduling.
+
+The current edition of CalConnect _Minutes_ is available at link://minutes/CalConnect%20Nov%202009.pdf[CalConnect Minutes Roundtable XVI].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+

@@ -1,0 +1,30 @@
+---
+layout: page
+title: Registration is open for CalConnect XV, June 1-5, 2009
+date: 2009-03-20
+type: news
+categories: announcements
+excerpt: Registration is now open for CalConnect XV comprised of Roundtable XV and a CalConnect Interoperability Test Event, hosted by Oracle in Redwood Shores, California, on June 1-5, 2009.
+---
+
+== Registration is open for CalConnect XV, June 1-5, 2009
+
+[[node-351]]
+Posted March 20, 2009 
+
+*Registration is now open* for CalConnect XV comprised of Roundtable XV and a CalConnect Interoperability Test Event, hosted by Oracle in Redwood Shores, California, on June 1-5, 2009.
+
+Please see link://calconnect15.shtml[CalConnect XV] for logistics information and links to registration for the Roundtable and for the CalConnect Interoperability Test Event. We will meet in the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores.
+
+If you are planning on participating in the CalConnect Interoperability Test Event, it begins with breakfast on Monday morning the 1st at 08:00 and runs to noon on Wednesday the 3rd. As usual the Roundtable will begin with lunch at 12:30 on Wednesday the 3rd and run until early Friday afternoon the 5th.
+
+A general schedule of events is provided on the logistics page; the final schedule of TC sessions, together with topical agendas, will be available by mid-May.&nbsp;
+
+See you at Oracle in June!
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
