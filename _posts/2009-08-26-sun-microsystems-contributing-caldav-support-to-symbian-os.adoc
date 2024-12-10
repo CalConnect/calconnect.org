@@ -9,16 +9,8 @@ excerpt: Sun Microsystems has committed to providing CalDAV support for the Symb
 
 == Sun Microsystems contributing CalDAV support to Symbian OS
 
-[[node-326]]
 Posted August 26, 2009 
 
 Sun Microsystems has committed to providing CalDAV support for the Symbian OS, thus providing direct support for CalDAV servers on mobile devices running the Symbian OS. See http://developer.symbian.org/wiki/index.php/CalDav[].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/member-news[Member News]
 

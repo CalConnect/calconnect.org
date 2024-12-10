@@ -9,14 +9,13 @@ excerpt: CalConnect held its thirty-second Conference (XXXII) and Interoperabili
 
 == Observations from CalConnect XXXII in San Jose, California
 
-[[node-134]]
 Posted February 19, 2015 
 
 CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by http://www.kerio.com[Kerio Technologies] in San Jose, California. This event was also the Tenth Anniversary of CalConnect s first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
 
 The week led off with the Interoperability Test Even on Monday. The event had 24 participants from 14 organizations.
 
-On Wednesday afternoon, we offered a link://tenthanniversary.shtml[special program] for our Tenth Anniversary with 49 people in attendance, including twelve who came only for the celebration, plus 34 registered participants at CalConnect XXXII, which was held Thursday and Friday. We took this opportunity to leverage this milestone conference as a first step in reprogramming our conferences to be more engaging, more interactive, and more accessible to those not directly involved in the work or topic being presented. We augmented our traditional technical content with panel discussions, invited speakers, and special presentations, looking to transform attendees into active participants. Overall, the results of this initial effort were well received.
+On Wednesday afternoon, we offered a link:{{'/tenthanniversary' | relative_url}}[special program] for our Tenth Anniversary with 49 people in attendance, including twelve who came only for the celebration, plus 34 registered participants at CalConnect XXXII, which was held Thursday and Friday. We took this opportunity to leverage this milestone conference as a first step in reprogramming our conferences to be more engaging, more interactive, and more accessible to those not directly involved in the work or topic being presented. We augmented our traditional technical content with panel discussions, invited speakers, and special presentations, looking to transform attendees into active participants. Overall, the results of this initial effort were well received.
 
 Here s what s trending from CalConnect XXXII:
 
@@ -37,7 +36,7 @@ Presently, over one third of CalConnect s membership is international (not based
 
 *Trending Ã¢ Interoperability Testing*
 
-The test event was extremely successful, with 24 participants from 14 organizations, including one non-member company. As always there was much testing of CalDAV features, including new and under development capabilities such as CalDAV PUSH, Calendar/ Contact Sharing and VPOLL. Unlike recent test events we saw a lot of iMIP testing including much testing against Microsoft Exchange. We also conducted BOF sessions on CalDAV PUSH, the possibility of QR codes for Calendar URIs, and a focus session on the CalDAV Tester Suite for new users. A more detailed accounting of the test event is available at link://eventreports.shtml#ioptestevents[CalConnect Interoperability Test Event Reports].
+The test event was extremely successful, with 24 participants from 14 organizations, including one non-member company. As always there was much testing of CalDAV features, including new and under development capabilities such as CalDAV PUSH, Calendar/ Contact Sharing and VPOLL. Unlike recent test events we saw a lot of iMIP testing including much testing against Microsoft Exchange. We also conducted BOF sessions on CalDAV PUSH, the possibility of QR codes for Calendar URIs, and a focus session on the CalDAV Tester Suite for new users. A more detailed accounting of the test event is available at link:{{'/eventreports#ioptestevents' | relative_url}}[CalConnect Interoperability Test Event Reports].
 
 *Trending  Special Events: CalConnect Tenth Anniversary Celebration*
 
@@ -56,7 +55,7 @@ CalConnect is currently working on seventeen specifications intended for the IET
 
 Non-Gregorian Recurrence Rules in iCalendar https://datatracker.ietf.org/doc/draft-ietf-calext-rscale/ +
 _This document defines how non-Gregorian recurrence rules can be specified in iCalendar data._ +
- +
+
 *STATUS: working group last call (TZDIST)*
 
 Time Zone Data Distribution Service https://datatracker.ietf.org/doc/draft-ietf-tzdist-service/ +
@@ -95,21 +94,11 @@ _This specification defines an extension to WebDAV that enables the sharing of r
 *Trending Ã¢ Organizationally*
 
 Pamela Taylor, one of the original Directors of CalConnect and who served on the +
- Board of Directors until last year, and Dave Thewlis, the Executive Director of CalConnect who has also served on the Board of Directors from CalConnect \ s inception, were honored with the link://dsa.shtml[CalConnect Distinguished Service Award].
+Board of Directors until last year, and Dave Thewlis, the Executive Director of CalConnect who has also served on the Board of Directors from CalConnect \ s inception, were honored with the link:{{'/dsa' | relative_url}}[CalConnect Distinguished Service Award].
 
 *Wrapping it all together*
 
 CalConnect wishes to again thank Kerio Technologies for helping to make CalConnect XXXII such a productive and enjoyable week, and to the organizations and individuals who participated in the event and in the Tenth Anniversary Celebration.
 
-The next CalConnect event will take place May 18-22, 2015, in Bucharest, Romania, hosted by http://www.1und1.de[1and1]. We ll be posting more information about this event going forward, and we invite you to join us and learn more about what we are doing  and participate in the work going forward. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+The next CalConnect event will take place May 18-22, 2015, in Bucharest, Romania, hosted by http://www.1und1.de[1and1]. We ll be posting more information about this event going forward, and we invite you to join us and learn more about what we are doing  and participate in the work going forward.
 

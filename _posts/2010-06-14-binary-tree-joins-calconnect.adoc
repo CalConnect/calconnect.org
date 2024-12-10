@@ -9,20 +9,7 @@ excerpt: The Calendaring and Scheduling Consortium is delighted to announce that
 
 == Binary Tree Joins CalConnect
 
-[[node-297]]
 Posted June 14, 2010 
 
-The Calendaring and Scheduling Consortium is delighted to announce that http://binarytree.com[Binary Tree] has joined CalConnect. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
+The Calendaring and Scheduling Consortium is delighted to announce that http://binarytree.com[Binary Tree] has joined CalConnect.
 

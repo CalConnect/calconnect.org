@@ -9,24 +9,12 @@ excerpt: FastMail joined CalConnect three years ago to become involved with and 
 
 == What FastMail is up to at CalConnect
 
-[[node-459]]
 Posted December 26, 2017 
 
 https://fastmail.com[FastMail] joined CalConnect three years ago to become involved with and to help shape and improve Calendaring. They have been consistently active and one of our most involved members, and are having a significant effect on the direction and content of specifications and standards.
 
-Recently, they posted this article on their news site, and have given us permission to link to it:&nbsp; https://blog.fastmail.com/2017/12/04/calconnect/
+Recently, they posted this article on their news site, and have given us permission to link to it: https://blog.fastmail.com/2017/12/04/calconnect/
 
 Our thanks to FastMail for their involvement and contributions, and for providing more information about CalConnect and how it has helped them advance towards their goals.&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

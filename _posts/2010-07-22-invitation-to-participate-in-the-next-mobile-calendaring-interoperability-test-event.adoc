@@ -9,12 +9,11 @@ excerpt: RECENT UPDATE as of 7 September 2010 Based on the responses we received
 
 == Invitation to participate in the next Mobile Calendaring Interoperability Test Event
 
-[[node-290]]
 Posted July 22, 2010 
 
 RECENT UPDATE as of 7 September 2010: Based on the responses we received, the Mobile Calendaring Interoperability Test Event will not be held in October, but at the following CalConnect event, which will be February 7-11 2011 at the University of California at Berkeley. Thanks to all who responded. +
  - +
- At the last CalConnect event in May, we held our third Mobile Calendaring Interoperability Test event, focused on ActiveSync technologies. The event was a great success. Participating organizations were Icewarp, Mailsite, Microsoft, Nokia, Notify Technology, and Synchronica. Between these six participants, four servers and four clients were tested. Interest was expressed at the event in having another mobile calendaring IOP test event soon, perhaps as soon as the next CalConnect in October at IBM/Lotus in Littleton, MA.
+At the last CalConnect event in May, we held our third Mobile Calendaring Interoperability Test event, focused on ActiveSync technologies. The event was a great success. Participating organizations were Icewarp, Mailsite, Microsoft, Nokia, Notify Technology, and Synchronica. Between these six participants, four servers and four clients were tested. Interest was expressed at the event in having another mobile calendaring IOP test event soon, perhaps as soon as the next CalConnect in October at IBM/Lotus in Littleton, MA.
 
 If we are going to have a Mobile test event in October we will need to start the planning very soon, so TC MOBILE has requested that I contact the CalConnect membership and other possibly interested parties\*\* with the goal of determining the interest in participating in such an event in October. *Note that at this point we are trying to determine \*possible interest\* and are NOT seeking commitments*.
 
@@ -36,13 +35,4 @@ If you are possibly interested please copy the section below, paste it into an e
 
 *Please reply NO LATER than Tuesday 3 August as we must make the decision on the TC MOBILE call on August 4 as to whether to go ahead with an October event!*
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

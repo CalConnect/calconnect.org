@@ -9,7 +9,6 @@ excerpt: We have several sessions planned for the CalConnect Conference in Amste
 
 == Highlighted Sessions at CalConnect XXIV in Amsterdam
 
-[[node-126]]
 Posted September 16, 2015 
 
 We have several sessions planned for the CalConnect Conference in Amsterdam (September 30  October 2) that we feel are of special interest and should be highlighted:
@@ -49,15 +48,6 @@ _How RSCALE allows non-Gregorian recurrences to be specified as part of iCalenda
 *Publishing events with QRCODE and data URI* +
 _Formulate an approach to publishing events within the limitations of QRCODEs and data URIs; develop rules for publishing recurrences and instances._
 
-For the complete schedule of the CalConnect Conference please see link://calconnect34.shtml#schedule[].
+For the complete schedule of the CalConnect Conference please see link:{{'/calconnect34#schedule' | relative_url}}[].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

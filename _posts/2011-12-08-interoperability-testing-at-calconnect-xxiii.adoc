@@ -9,7 +9,6 @@ excerpt: Our next Interoperability Testing Event will be at CalConnect XXIII, Ja
 
 == Interoperability Testing at CalConnect XXIII
 
-[[node-240]]
 Posted December 8, 2011 
 
 Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
@@ -39,17 +38,8 @@ Additionally, we are offering two special BOF sessions during the the Interopera
 
 These BOFs will be focused on implementation issues of interest to calendar developers. Monday will be on Updating versus Replacement of Calendar Data; Tuesday will be on Auto-discovery and Account Provisioning.
 
-The information page for the Interoperability Test event is at link://iop1201.shtml[]. For a short descripttion of the BOFs at the test event please see link://iop1201.shtml#bofs[].
+The information page for the Interoperability Test event is at link:{{'/iop1201' | relative_url}}[]. For a short descripttion of the BOFs at the test event please see link:{{'/iop1201#bofs' | relative_url}}[].
 
-For general information and logistics about CalConnect XXIII, please see link://calconnect23.shtml[].
+For general information and logistics about CalConnect XXIII, please see link:{{'/calconnect23' | relative_url}}[].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

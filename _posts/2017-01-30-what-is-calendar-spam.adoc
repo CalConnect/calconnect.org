@@ -9,9 +9,8 @@ excerpt: Around last year’s Black Friday calendar spam was bothering many user
 
 == What is Calendar spam?
 
-[[node-431]]
 Posted January 30, 2017 
-image::link:/assets/images/CalendarSpam_iPhone.PNG["",480,270]
+image::link:{{'/assets/images/CalendarSpam_iPhone.PNG' | relative_url}}["",480,270]
 
 Spam event in calendar
 
@@ -64,20 +63,11 @@ As this also being a common topic with mail and calendaring involved, united eff
 Thomas SchÃ¤fer is chair of TC chairs at CalConnect and is affiliated with 1&1 Internet AG in Germany (also offering international service like mail.com and gmx.com), where he has nearly 20 years of experience in working on email and calendaring services.
 
 
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
-
 Tags:&nbsp;
 
-link:/tags/calendar[calendar]
+link:{{'/tags/calendar' | relative_url}}[calendar]
 
-link:/tags/spam[spam]
+link:{{'/tags/spam' | relative_url}}[spam]
 
-link:/tags/mail[mail]
+link:{{'/tags/mail' | relative_url}}[mail]
 

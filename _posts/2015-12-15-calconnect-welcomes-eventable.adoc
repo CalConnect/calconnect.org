@@ -9,7 +9,6 @@ excerpt: CalConnect welcomes Eventable as a member of the Consortium. Eventable,
 
 == CalConnect Welcomes Eventable
 
-[[node-53]]
 Posted December 15, 2015 
 
 CalConnect welcomes http://www.eventable.com[Eventable] as a member of the Consortium. Eventable, based in New York City, makes it easy for any organization to send and share events on the web.&nbsp;

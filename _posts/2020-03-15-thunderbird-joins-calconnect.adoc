@@ -9,21 +9,9 @@ excerpt: CalConnect welcomes Thunderbird, developer of the Thunderbird mail and 
 
 == Thunderbird Joins CalConnect
 
-[[node-521]]
 Posted March 15, 2020 
-image::link:/assets/images/thunderbird-logo.png[Thunderbird,220,217]
+image::link:{{'/assets/images/thunderbird-logo.png' | relative_url}}[Thunderbird,220,217]
 
-CalConnect welcomes https://www.thunderbird.net[Thunderbird], developer of the Thunderbird mail and calendar client.&nbsp; The Thunderbird project is now operating from MZLA Technologies Corporation in Mountain View, California, and is a wholly owned subsidiary of the Mozilla Foundation:&nbsp; https://blog.thunderbird.net/2020/01/thunderbirds-new-home/
+CalConnect welcomes https://www.thunderbird.net[Thunderbird], developer of the Thunderbird mail and calendar client. The Thunderbird project is now operating from MZLA Technologies Corporation in Mountain View, California, and is a wholly owned subsidiary of the Mozilla Foundation: https://blog.thunderbird.net/2020/01/thunderbirds-new-home/
 
-
-
-Categories:&nbsp;
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/announcements[Announcements]
 

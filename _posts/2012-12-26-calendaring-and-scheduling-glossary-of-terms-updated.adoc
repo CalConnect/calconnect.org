@@ -9,18 +9,7 @@ excerpt: Version 2.1 of the Calendaring and Scheduling Glossary of Terms has bee
 
 == Calendaring and Scheduling Glossary of Terms Updated
 
-[[node-217]]
 Posted December 26, 2012 
 
-Version 2.1 of the link://CD1102%20Glossary.shtml[Calendaring and Scheduling Glossary of Terms] has been published. Version 2.1 adds 20 new terms including Autodiscovery, Consensus Scheduling, Event Publication, Managed Attachment, Timezone Service, VAVAILABILITY and VPOLL. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+Version 2.1 of the link:{{'/CD1102%20Glossary' | relative_url}}[Calendaring and Scheduling Glossary of Terms] has been published. Version 2.1 adds 20 new terms including Autodiscovery, Consensus Scheduling, Event Publication, Managed Attachment, Timezone Service, VAVAILABILITY and VPOLL.
 

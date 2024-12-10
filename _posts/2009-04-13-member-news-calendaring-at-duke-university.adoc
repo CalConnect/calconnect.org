@@ -9,7 +9,6 @@ excerpt: During the past year, calendaring has taken hold on the campus at Duke 
 
 == Member News – Calendaring at Duke University
 
-[[node-344]]
 Posted April 13, 2009 
 
 During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they re doing, the following are stories about their calendaring efforts.
@@ -24,11 +23,4 @@ http://news.duke.edu/2009/03/mobileinternal.html Duke introduces customized appl
 
 http://www.oit.duke.edu/web-multimedia/web/calendar/ Website provides Duke departments and calendar admins with tools for generating and consuming RSS and XML files of events from its calendars.
 
-
-
-Categories:&nbsp;
-
-link:/news/member-news[Member News]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

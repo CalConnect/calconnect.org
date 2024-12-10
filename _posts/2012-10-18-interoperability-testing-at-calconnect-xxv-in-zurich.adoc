@@ -9,7 +9,6 @@ excerpt: This was a relatively large session with 22 on-site participants, 14 fr
 
 == Interoperability Testing at CalConnect XXV in Zurich
 
-[[node-223]]
 Posted October 18, 2012 
 
 This was a relatively large session with 22 on-site participants, 14 from Europe, representing the following organizations/implementations:
@@ -50,15 +49,6 @@ In addition there were many issues raised when testing the basic CalDAV and Card
 As ever, the benefits of working together in one room to discover and fix interoperability issues were enormous. Most of the participants test remotely during the year but these sessions provide a much more productive environment. Many participants were staying for the following Roundtable and took the opportunity to continue testing quietly with each other.
 
 Mike Douglass, Rensselaer Polytechnic Institute +
- CalConnect Interoperability Test Event Manager
+CalConnect Interoperability Test Event Manager
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
 

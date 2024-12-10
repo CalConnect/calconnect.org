@@ -9,26 +9,12 @@ excerpt: CalConnect’s first conference was held in January 2005 so the upcomin
 
 == CalConnect Celebrates its Tenth Anniversary in January 2015!
 
-[[node-139]]
 Posted November 17, 2014 
 
 CalConnect s first conference was held in January 2005 so the upcoming 32nd conference will be our tenth anniversary meeting  and we re planning a celebration!
 
-We invite those active in Calendaring & Scheduling, or with a strong interest in this and related fields, to join us in celebrating our Tenth Anniversary at the http://hoteldeanza.com[Hotel De Anza] in *San Jose, California on Wednesday, January 28th, 2015* for lunch, the afternoon program, and an evening reception. Please see link://tenthanniversary.shtml[Tenth Anniversary Celebration] for more information.
+We invite those active in Calendaring & Scheduling, or with a strong interest in this and related fields, to join us in celebrating our Tenth Anniversary at the http://hoteldeanza.com[Hotel De Anza] in *San Jose, California on Wednesday, January 28th, 2015* for lunch, the afternoon program, and an evening reception. Please see link:{{'/tenthanniversary' | relative_url}}[Tenth Anniversary Celebration] for more information.
 
-The Celebration will take place during link://calconnect32.shtml[CalConnect XXXII], hosted by http://www.kerio.com[Kerio Technologies] in San Jose California, on January 26-30, 2015; registration is now open for CalConnect XXXII. You don t have to be registered for CalConnect XXXII to come to the Celebration, but we d love to have you stay for the Conference.
+The Celebration will take place during link:{{'/calconnect32' | relative_url}}[CalConnect XXXII], hosted by http://www.kerio.com' | relative_url}}[Kerio Technologies] in San Jose California, on January 26-30, 2015; registration is now open for CalConnect XXXII. You don t have to be registered for CalConnect XXXII to come to the Celebration, but we d love to have you stay for the Conference.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

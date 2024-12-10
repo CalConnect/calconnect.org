@@ -9,7 +9,6 @@ excerpt: CalConnect holds three IOP test events and Roundtables (members’ meet
 
 == CalConnect XX a great success
 
-[[node-268]]
 Posted February 11, 2011 
 
 CalConnect holds three IOP test events and Roundtables (members  meeting) each year, and last week it was hosted by the University of California, Berkeley. The interoperability test event featured two mobile CalDAV calendars, one from Andrew McMillan for Android (aCal) and one from Nokia, plus a new Project Management tool from The Omni Group, OmniPlan, implemented as a CalDAV client.
@@ -24,17 +23,7 @@ A few highlights from the Roundtable:
 * Progress on VPOLL, a new extension to iCalendar to support Doodle-like group scheduling within mainline calendaring and scheduling systems, was presented.
 * Shel Waggener s presentation on Calendaring at a Public University, mentioned above, highlights the need for calendaring to become inclusive (i.e. broader than enterprise orientation to involve people outside an organization), and resonated strongly with us as it focused on many issues which are being discussed, and addressed, in CalConnect.
 
-Next up: CalConnect XXI will be May 23-27 at NASA Ames in Mountain View. &nbsp;
-
+Next up: CalConnect XXI will be May 23-27 at NASA Ames in Mountain View.
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

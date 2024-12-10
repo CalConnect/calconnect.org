@@ -9,12 +9,11 @@ excerpt: Registration is now open and hotel reservations may be made for CalConn
 
 == Registration is open for CalConnect XXXV at AOL in Palo Alto, California, January 11-15, 2016
 
-[[node-56]]
 Posted November 3, 2015 
 
 Registration is now open and hotel reservations may be made for CalConnect XXXV in Palo Alto, California, January 11-15, 2016, hosted by AOL.
 
-The CalConnect XXXV web page is located at link://calconnect35.shtml and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc.
+The CalConnect XXXV web page is located at link:/calconnect35 and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc.
 
 We have moved the event forward two weeks because the Superbowl will be in Santa Clara in early February, which means that hotel bookings are already getting difficult and rates are going up even for our new dates of 11-15 January. Therefore, if you are planning or considering coming to this event we strongly encourage you to book your hotel as soon as possible! And you are encouraged to register at the same time.
 
@@ -26,13 +25,4 @@ Please note that, to obtain the AOL rate at the Conference Hotel, you cannot boo
 
 A preliminary schedule for the week ss posted on the event web page. The interoperability test event will take place Monday, Tuesday, and Wednesday morning; the Conference will be Wednesday afternoon through Friday. We will be using our new format for the conference; most conference sessions will be higher-level strategy and cross-TC, with some specific very detailed discussions held during the interoperability test event. We expect that the schedule and program will evolve over time, so check the web page periodically. The conference program has not been determined as yet so only an outline of meal and break times is available. We will announce immediately when the conference program has been finalized.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

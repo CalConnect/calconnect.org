@@ -9,16 +9,7 @@ excerpt: I’m delighted to announce that NASA, the National Aeronautics and Spa
 
 == NASA joins CalConnect
 
-[[node-348]]
-Posted March 31, 2009 
+Posted March 31, 2009
 
-I m delighted to announce that NASA, the National Aeronautics and Space Administration, has joined The Calendaring and Scheduling Consortium. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
+I m delighted to announce that NASA, the National Aeronautics and Space Administration, has joined The Calendaring and Scheduling Consortium.
 

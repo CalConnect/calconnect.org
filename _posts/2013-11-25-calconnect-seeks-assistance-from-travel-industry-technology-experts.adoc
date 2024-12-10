@@ -9,7 +9,6 @@ excerpt: CalConnect needs your help! We are seeking guidance and assistance from
 
 == CalConnect seeks assistance from travel industry technology experts
 
-[[node-186]]
 Posted November 25, 2013 
 
 CalConnect needs your help! We are seeking guidance and assistance from travel industry technology experts to explore the travel itinerary model within calendaring and scheduling.
@@ -27,22 +26,11 @@ Therefore, we are forming a working group, a collaboration between the calendari
 mailto:Dave.Thewlis@calconnect.org[Dave.Thewlis@calconnect.org] +
  +1 707 840 9391
 
-For additional background on travel itineraries and calendaring and scheduling see 7 Things about Digital Travel Itineraries at link://7_things_itineraries.shtml[].
+For additional background on travel itineraries and calendaring and scheduling see 7 Things about Digital Travel Itineraries at link:{{'/7_things_itineraries' | relative_url}}[].
 
-To learn more about becoming a member of CalConnect, see http://calconnect.org/whyjoin.shtml[].
+To learn more about becoming a member of CalConnect, see http://calconnect.org/whyjoin[].
 
  +
- CalConnect s focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our technical committees, we advance the state of interoperable calendaring and of interoperable scheduling. CalConnect is a 501(c)6 tax-exempt mutual benefit association incorporated in 2004. We are a member-driven organization  our agenda and our work products all result from the leadership by participants from our member organizations. The consortium is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools in North America, Europe, and Asia. Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. CalConnect s members believe that through the collegial interactions and collaborations among erstwhile competitors in the marketplace, calendaring & scheduling vendors and consumers all benefit.
+CalConnect s focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our technical committees, we advance the state of interoperable calendaring and of interoperable scheduling. CalConnect is a 501(c)6 tax-exempt mutual benefit association incorporated in 2004. We are a member-driven organization  our agenda and our work products all result from the leadership by participants from our member organizations. The consortium is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools in North America, Europe, and Asia. Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. CalConnect s members believe that through the collegial interactions and collaborations among erstwhile competitors in the marketplace, calendaring & scheduling vendors and consumers all benefit.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

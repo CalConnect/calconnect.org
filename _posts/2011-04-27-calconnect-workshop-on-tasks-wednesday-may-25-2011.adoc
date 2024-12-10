@@ -9,7 +9,6 @@ excerpt: CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 
 
 == CalConnect Workshop on Tasks – Wednesday May 25, 2011
 
-[[node-260]]
 Posted April 27, 2011 
 
 CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 25 May, at NASA Ames, Mountain View, California.
@@ -50,21 +49,10 @@ The workshop will be held from 1:30 to 4:00 Wednesday afternoon, May 25th, at th
 
 *Registration and information:*
 
-To register for the workshop only, please see link://workshopreg.shtml[].
+To register for the workshop only, please see link:{{'/workshopreg' | relative_url}}[].
 
-To register for the CalConnect Roundtable and/or Interoperability Test Event, please see link://regtypes.shtml[].
+To register for the CalConnect Roundtable and/or Interoperability Test Event, please see link:{{'/regtypes' | relative_url}}[].
 
-For more information and logistics including the location of the Conference Center, please see link://calconnect21.shtml[].
+For more information and logistics including the location of the Conference Center, please see link:{{'/calconnect21' | relative_url}}[].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
 

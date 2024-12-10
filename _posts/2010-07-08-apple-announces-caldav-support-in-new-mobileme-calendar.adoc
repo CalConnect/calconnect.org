@@ -9,20 +9,7 @@ excerpt: Apple has inaugurated a beta program for their new MobileMe Calendar, w
 
 == Apple announces CalDAV support in new MobileMe Calendar
 
-[[node-294]]
 Posted July 8, 2010 
 
-Apple has inaugurated a beta program for their new http://www.apple.com/mobileme/news/2010/07/preview-the-new-mobileme-calendar-beta.html[MobileMe Calenda]r, which uses the http://caldav.calconnect.org[CalDAV] protocol. A browser-based web client is offered, in addition to support in iCal and on the iPhone and iPad. Apple also says that support for Microsoft Outlook is coming soon. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-news[Member News]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+Apple has inaugurated a beta program for their new http://www.apple.com/mobileme/news/2010/07/preview-the-new-mobileme-calendar-beta.html[MobileMe Calenda]r, which uses the http://caldav.calconnect.org[CalDAV] protocol. A browser-based web client is offered, in addition to support in iCal and on the iPhone and iPad. Apple also says that support for Microsoft Outlook is coming soon.
 

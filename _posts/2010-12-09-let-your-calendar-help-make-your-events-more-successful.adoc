@@ -9,7 +9,6 @@ excerpt: Earlier this week, I viewed (more listened, really) to a webcast from H
 
 == Let Your Calendar Help Make Your Events More Successful
 
-[[node-274]]
 Posted December 9, 2010 
 
 Earlier this week, I viewed (more listened, really) to a webcast from Harvard s Berkman Center for Internet & Society (http://cyber.law.harvard.edu/events/luncheon/2010/12/udell), Rethinking the community calendar: A case study in learning and teaching Fourth R principles, by Jon Udell. Jon is presently a Microsoft senior technical evangelist, but he has also been a calendaring activist for some time through his elmcity project (http://blog.jonudell.net/elmcity-project-faq/). I have been reading Jon Udell since his days as a columnist for Infoworld, long before he interviewed +
@@ -38,15 +37,6 @@ Along with events entered directly in to my university s public events calendari
 It is likely the case that in the not too distant future, the same computer systems that will defeat human competitors in TV game shows will also be able to correctly recognize and process all unstructured event data. Unfortunately, that day is not with us yet. Interoperable calendar formats, such as iCalendar (and XCalendar), and interoperable calendar protocols (CalDAV, iSchedule, etc) are the best paths to interoperable calendaring, and ultimately, more successful events, which, after all, is really our goal.
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

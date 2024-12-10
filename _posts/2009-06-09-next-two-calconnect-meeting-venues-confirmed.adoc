@@ -9,18 +9,9 @@ excerpt: CalConnect XVI will be held on October 5-9, 2009, hosted by Apple, Inc.
 
 == Next two CalConnect meeting venues confirmed
 
-[[node-336]]
 Posted June 9, 2009 
 
 CalConnect XVI will be held on October 5-9, 2009, hosted by http://www.apple.com[Apple, Inc.] in Cupertino, California. Registration should open for this event at the beginning of August.
 
-CalConnect XVII will be held on February 1-5, 2010, hosted by http://www.uci.edu[The University of California, Irvine], in Irvine, California. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
+CalConnect XVII will be held on February 1-5, 2010, hosted by http://www.uci.edu[The University of California, Irvine], in Irvine, California.
 

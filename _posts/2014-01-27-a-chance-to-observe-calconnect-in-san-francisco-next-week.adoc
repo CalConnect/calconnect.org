@@ -9,28 +9,15 @@ excerpt: If you’re based or currently in the Bay Area and are interested in ca
 
 == A chance to observe – CalConnect in San Francisco next week
 
-[[node-183]]
-Posted January 27, 2014 
+Posted January 27, 2014
 
 If you re based or currently in the Bay Area and are interested in calendaring, next week is your chance to be an observer at the 29th CalConnect event at Mozilla, February 3-7 2014. The week is divided in half  the first half is an interoperability test event; the second half (Wednesday afternoon to Friday afternoon) is the technical conference and members  meeting.
 
 Non-members may always participate or observe at the interoperability test event  and we have a provision for non-members to come to a single technical conference as observers to find out more about CalConnect and what s going on.
 
-If you want to find out more check out the event web page at link://calconnect29.shtml and the link://calconnect29.shtml#schedule[schedule] for the week. You can find the registration information at link://regtypes.shtml[]. Observing at the interoperability test event is only $350, and attending the technical conference as an link://observer.shtml[Observer] is now $395 (includes breakfast, lunch, a Wednesday reception and Thursday dinner).
+If you want to find out more check out the event web page at link:{{'/calconnect29 and the link:{{'/calconnect29#schedule' | relative_url}}[schedule] for the week. You can find the registration information at link:{{'/regtypes' | relative_url}}[]. Observing at the interoperability test event is only $350, and attending the technical conference as an link:/observer' | relative_url}}[Observer] is now $395 (includes breakfast, lunch, a Wednesday reception and Thursday dinner).
 
-There s lot s going on this time; check out the Schedule and link://calconnect29.shtml#agendas[Topical Agendas]. The meeting is at Mozilla, Harrison Street at The Embarcadero. Come check us out!
+There s lot s going on this time; check out the Schedule and link:{{'/calconnect29#agendas' | relative_url}}[Topical Agendas]. The meeting is at Mozilla, Harrison Street at The Embarcadero. Come check us out!
 
-If you have any questions drop me a note: mailto:dave.thewlis@calconnect.org[Dave Thewlis] or call +1 707 840 9391. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+If you have any questions drop me a note: mailto:dave.thewlis@calconnect.org[Dave Thewlis] or call +1 707 840 9391.
 

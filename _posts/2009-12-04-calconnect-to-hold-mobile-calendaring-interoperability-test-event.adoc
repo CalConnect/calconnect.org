@@ -9,20 +9,9 @@ excerpt: CalConnect will hold a Mobile Calendaring Interoperability Test Event a
 
 == CalConnect to hold Mobile Calendaring Interoperability Test Event
 
-[[node-315]]
-Posted December 4, 2009 
+Posted December 4, 2009
 
-CalConnect will hold a Mobile Calendaring Interoperability Test Event at CalConnect XVIII from February 1-2, 2010, in parallel with the regular Interoperability Test Event. This event will be focused primarily on synchronization of mobile devices via ActiveSync and/or SyncML, based on the link:/docs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite%20V1.1.pdf[CalConnect Mobile Calendaring Interoperability Test Suite]. Please see link://miop1002.shtml[Mobile Calendaring IOP Test Event] for further information and the testing schedule. Please see link://calconnect17.shtml[CalConnect XVII] for logistics and registration information.
+CalConnect will hold a Mobile Calendaring Interoperability Test Event at CalConnect XVIII from February 1-2, 2010, in parallel with the regular Interoperability Test Event. This event will be focused primarily on synchronization of mobile devices via ActiveSync and/or SyncML, based on the link:{{'/docs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite%20V1.1.pdf'|relative_url}}[CalConnect Mobile Calendaring Interoperability Test Suite]. Please see link:{{'/miop1002' | relative_url}}[Mobile Calendaring IOP Test Event] for further information and the testing schedule. Please see link:{{'/calconnect17' | relative_url}}[CalConnect XVII] for logistics and registration information.
 
-As always CalConnect Interoperability Test Events are open to CalConnect members and non-members alike. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
+As always CalConnect Interoperability Test Events are open to CalConnect members and non-members alike.
 

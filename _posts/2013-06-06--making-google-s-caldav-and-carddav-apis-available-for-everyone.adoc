@@ -9,18 +9,8 @@ excerpt: Google announced earlier this week an update, clarification and expansi
 
 == “Making Google’s CalDAV and CardDAV APIs available for everyone”
 
-[[node-198]]
 Posted June 6, 2013 
 
 Google announced earlier this week an update, clarification and expansion of their earlier spring cleaning announcement about CalDAV. . Piotr Stanczyk, the blogger, is Google s primary representative to CalConnect, as he mentioned in his blog, and is here this week at CalConnect XXVII at the University of Wisconsin.&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

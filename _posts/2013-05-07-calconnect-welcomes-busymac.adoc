@@ -9,18 +9,7 @@ excerpt: CalConnect welcomes BusyMac as a member of The Calendaring and Scheduli
 
 == CalConnect Welcomes BusyMac
 
-[[node-202]]
 Posted May 7, 2013 
 
-CalConnect welcomes BusyMac as a member of The Calendaring and Scheduling Consortium. http://www.busymac.com[BusyMac], headquartered in Bainbridge Island, Washington, develops calendaring products for MacOS. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/member-news[Member News]
+CalConnect welcomes BusyMac as a member of The Calendaring and Scheduling Consortium. http://www.busymac.com[BusyMac], headquartered in Bainbridge Island, Washington, develops calendaring products for MacOS.
 

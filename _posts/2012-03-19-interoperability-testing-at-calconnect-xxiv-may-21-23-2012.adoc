@@ -9,10 +9,9 @@ excerpt: At the upcoming CalConnect XXIV event we will as usual be offering an I
 
 == Interoperability Testing at CalConnect XXIV May 21-23 2012
 
-[[node-234]]
 Posted March 19, 2012 
 
-At the upcoming link://calconnect24.shtml[CalConnect XXIV] event we will as usual be offering an Interoperability Test Event all day Monday and Tuesday May 21-22, and Wednesday morning the 23rd. At this event we *will be testing* the following:
+At the upcoming link:{{'/calconnect24' | relative_url}}[CalConnect XXIV] event we will as usual be offering an Interoperability Test Event all day Monday and Tuesday May 21-22, and Wednesday morning the 23rd. At this event we *will be testing* the following:
 
 ¢ CalDAV Access +
  ¢ CalDAV Scheduling, including Implicit Scheduling +
@@ -31,17 +30,8 @@ In all cases at least two participating organizations must be interested in test
 
 Additionally, we are planning on special BOF sessions on Shared Address Books and CalDAV Test Suites during the Interoperability Test Event:
 
-The information page for the Interoperability Test event is at link://iop1205.shtml[]. A short description of the BOFs at the test event will be added to this page in early April.
+The information page for the Interoperability Test event is at link:{{'/iop1205' | relative_url}}[]. A short description of the BOFs at the test event will be added to this page in early April.
 
 Please note that the Interoperability Test Event registration fee for non-vendor members is now $350 per person. Test Event registration fees for vendor members and for non-members remain unchanged at $1795 and $2795 respectively for the first two participants, and $150 per additional participant.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

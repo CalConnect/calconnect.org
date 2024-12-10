@@ -9,7 +9,6 @@ excerpt: CalConnect, which is working on extensions to the vCard standard used f
 
 == CalConnect to submit New Work Item Proposal to ISO/TC 211
 
-[[node-443]]
 Posted June 12, 2017 
 
 CalConnect, which is working on extensions to the vCard standard used for digital contact exchange, has been invited by ISO/TC 211 to submit a NWIP (new work item proposal) for a machine-readable encoding of ISO 19160 address profiles.
@@ -22,15 +21,6 @@ CalConnect, as a Category A Liaison Member of ISO/TC 211, has been working close
 
 We would like to especially thank the support given by ISO/TC 211's members, especially Serena Coetzee and Chair Christina WasstrÃ¶m for taking this forward.
 
-This matter will be reported and discussed at CalConnect&nbsp; XXXIX in Seattle happening this week.
+This matter will be reported and discussed at CalConnect XXXIX in Seattle happening this week.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

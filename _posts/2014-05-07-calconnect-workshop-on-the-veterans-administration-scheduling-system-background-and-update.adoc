@@ -9,7 +9,6 @@ excerpt: The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at 
 
 == CalConnect Workshop on the Veterans Administration Scheduling System – background and update
 
-[[node-180]]
 Posted May 7, 2014 
 
 _The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at AOL in Dulles, Virginia_
@@ -26,19 +25,6 @@ With only two weeks to go before the Workshop (and CalConnect Conference), we ar
 
 The program consists of some brief presentations to introduce and contextualize healthcare scheduling, followed by a panel discussion moderated by Scott Mace, Senior Editor  Technology at HealthLeaders Media and a member of the CalConnect board of directors. Following the panel discussion is the conference reception, intended as an informal and more social opportunity to continue the engaged interaction and participation we anticipate that the Workshop will engender.
 
-It is not too late to register for the workshop. If you would like to join us, please see link://workshopreg.shtml[CalConnect Workshop Registration].
+It is not too late to register for the workshop. If you would like to join us, please see link:{{'/workshopreg' | relative_url}}[CalConnect Workshop Registration].
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

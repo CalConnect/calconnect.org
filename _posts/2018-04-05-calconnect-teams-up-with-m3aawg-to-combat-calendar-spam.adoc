@@ -9,31 +9,30 @@ excerpt: McKinleyville, CA and San Francisco, April 5, 2018 – Recognizing that
 
 == CalConnect teams up with M3AAWG to combat calendar spam
 
-[[node-472]]
 Posted April 5, 2018 
 
-*McKinleyville, CA and San Francisco, April 5, 2018*  Recognizing that calendar spam is a growing exploitation channel, CalConnect and the global anti-abuse association M3AAWG have joined forces to develop new methods to protect end-users from unsolicited and malicious event notices.&nbsp; The new liaison between the scheduling developers  organization and the Messaging, Malware and Mobile Anti-Abuse Working Group will accelerate industry efforts to develop techniques that block invites to fake events and other malicious notices on popular calendaring platforms.
+*McKinleyville, CA and San Francisco, April 5, 2018*  Recognizing that calendar spam is a growing exploitation channel, CalConnect and the global anti-abuse association M3AAWG have joined forces to develop new methods to protect end-users from unsolicited and malicious event notices. The new liaison between the scheduling developers  organization and the Messaging, Malware and Mobile Anti-Abuse Working Group will accelerate industry efforts to develop techniques that block invites to fake events and other malicious notices on popular calendaring platforms.
 
-Calendar spam is a new form of abuse that takes advantage of the application layer across multiple technologies, including scheduling, calendaring and messaging systems. For example, users have received fraudulent emails impersonating well-known brands that include calendar invites to special discount events.&nbsp; As is the case with email spam, calendar spam can be used for malicious purposes such as phishing or to deliver malware payloads.
+Calendar spam is a new form of abuse that takes advantage of the application layer across multiple technologies, including scheduling, calendaring and messaging systems. For example, users have received fraudulent emails impersonating well-known brands that include calendar invites to special discount events. As is the case with email spam, calendar spam can be used for malicious purposes such as phishing or to deliver malware payloads.
 
 CalConnect (The Calendaring and Scheduling Consortium) also has established a new technical committee, TC CALSPAM, to better protect users from calendar system abuse. The committee aims to understand the current and potential use of calendar systems as a vector for delivering undesired information and will provide current information and guidelines on the topic to CalConnect and M3AAWG participants.
 
-"Calendaring is an intimate part of everyone s lives. Calendar spam is particularly unsettling because the abuse directly pops up on a person s calendar.&nbsp; It's personally disruptive and especially disturbing," said Thomas SchÃ¤fer, 1&1 s Head of Technical Site Management who chairs TC CALSPAM.
+"Calendaring is an intimate part of everyone s lives. Calendar spam is particularly unsettling because the abuse directly pops up on a person s calendar. It's personally disruptive and especially disturbing," said Thomas SchÃ¤fer, 1&1 s Head of Technical Site Management who chairs TC CALSPAM.
 
 *Differs from Other Abuse Schemes*
 
-CalConnect and M3AAWG will develop the measures and best practices for developers and system operators to ensure legitimate usage of their platforms.&nbsp; The collaborative effort is important because calendar spam is unique as an abuse vector in a number of ways:
+CalConnect and M3AAWG will develop the measures and best practices for developers and system operators to ensure legitimate usage of their platforms. The collaborative effort is important because calendar spam is unique as an abuse vector in a number of ways:
 
 * Calendar spam, unlike email, can be placed chronologically anywhere in a calendar  in the past or the future, not just the present  making it difficult to detect at the time of delivery.
 * Spam meeting invitations can be automatically added to calendars without the users  consent with notifications sent to all their devices. These invitations are not only difficult to find but, in some cases, there is no way for the user to remove these events short of deleting the entire calendar.
 * Calendar events and meeting invitations do not yet carry the rich provenance, i.e., the detailed header information that is included in email, making it difficult to ascertain where and when events originated and where they were delivered.
 * Calendar events often contain notifications or alarms that are propagated across a user s many desktop and mobile calendaring clients, exacerbating the problem.
 
-M3AAWG Executive Director Jerry Upton said, "Calendar spam has shown itself to be a new but rapidly maturing vector for spammers.&nbsp; As we ve seen in addressing other abuse issues in M3AAWG, cross-domain problems like this require input from experts in multiple disciplines and collaborating with CalConnect and their subject matter is the most direct route to combatting this evolving threat."
+M3AAWG Executive Director Jerry Upton said, "Calendar spam has shown itself to be a new but rapidly maturing vector for spammers. As we ve seen in addressing other abuse issues in M3AAWG, cross-domain problems like this require input from experts in multiple disciplines and collaborating with CalConnect and their subject matter is the most direct route to combatting this evolving threat."
 
 *Call for Industry Participation*
 
-The reciprocal membership agreement between the two organizations became effective in February and allows the calendaring and scheduling developers, vendors and service providers in CalConnect and the messaging and email authentication experts in M3AAWG to share information and work.&nbsp; CalConnect members participated in the M3AAWG 42nd General Meeting in San Francisco in February, kicking off the joint work on applicable anti-abuse methodologies.&nbsp; The 43rd M3AAWG General Meeting will be held June 4-7 in Munich, Germany.
+The reciprocal membership agreement between the two organizations became effective in February and allows the calendaring and scheduling developers, vendors and service providers in CalConnect and the messaging and email authentication experts in M3AAWG to share information and work. CalConnect members participated in the M3AAWG 42nd General Meeting in San Francisco in February, kicking off the joint work on applicable anti-abuse methodologies. The 43rd M3AAWG General Meeting will be held June 4-7 in Munich, Germany.
 
 CalConnect President Rutger Geelen said, "We recognize that calendar spam is a real threat and a growing problem. First and foremost, we endeavor to protect users against such abuse. Since event and meeting invitations are often delivered via email, it makes sense to collaborate with the messaging identity and authentication experts at M3AAWG in our effort to return full control of collaboration and communications to the end users themselves."
 
@@ -55,25 +54,14 @@ The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) is where the
 . application/pdf
 image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf]
 
-#&nbsp; #&nbsp; #
+# # #
 
 *Media Contacts:*
 
 Ronald Tse, Diretor, External Relations, mailto:ronald.tse@calconnect.org[ronald.tse@calconnect.org] +
- CalConnect (The Calendaring and Scheduling Consortium), https://www.calconnect.org
+CalConnect (The Calendaring and Scheduling Consortium), https://www.calconnect.org
 
 Linda Marcus, APR, Astra Communications, +1-714-974-6356 (U.S. Pacific), mailto:LMarcus@Astra.cc[LMarcus@Astra.cc] +
- M3AAWG (Messaging, Malware and Mobile Anti-Abuse Working Group), https://www.m3aawg.org
+M3AAWG (Messaging, Malware and Mobile Anti-Abuse Working Group), https://www.m3aawg.org
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

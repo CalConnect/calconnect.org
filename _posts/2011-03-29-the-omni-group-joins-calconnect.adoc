@@ -9,18 +9,7 @@ excerpt: We are delighted to announce that The Omni Group has joined The Calenda
 
 == The Omni Group joins CalConnect
 
-[[node-264]]
 Posted March 29, 2011 
 
-We are delighted to announce that The Omni Group has joined The Calendaring and Scheduling Consortium. Visit their website at http://www.omnigroup.com[]. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-news[Member News]
+We are delighted to announce that The Omni Group has joined The Calendaring and Scheduling Consortium. Visit their website at http://www.omnigroup.com[].
 

@@ -9,29 +9,19 @@ excerpt: Even if your organization is not currently a member of CalConnect, our 
 
 == Check out CalConnect at CalConnect XX in February
 
-[[node-270]]
 Posted January 11, 2011 
 
-Even if your organization is not currently a member of CalConnect, our upcoming event, link://calconnect20lshtml[CalConnect XX], in February is a perfect opportunity to learn more about CalConnect, and our activities, first hand. As the Bay Area is local to many of you, attending these events, hosted this time at UC Berkeley, would be very convenient.
+Even if your organization is not currently a member of CalConnect, our upcoming event, link:{{'/calconnect20' | relative_url}}[CalConnect XX], in February is a perfect opportunity to learn more about CalConnect, and our activities, first hand. As the Bay Area is local to many of you, attending these events, hosted this time at UC Berkeley, would be very convenient.
 
-Three times a year, we hold a CalConnect Interoperability Test Event (C.I.T.E.) from Monday morning to Wednesday noon (February 7-9), and a members meeting (called a Roundtable) from Wednesday through Friday afternoon, (February 9-11). C.I.T.E. participants don t have to be members  and the members meeting are open to link://observer.shtml[observers]. Many of our present members decided to become active participants in CalConnect after attending a Roundtable as an observer.
+Three times a year, we hold a CalConnect Interoperability Test Event (C.I.T.E.) from Monday morning to Wednesday noon (February 7-9), and a members meeting (called a Roundtable) from Wednesday through Friday afternoon, (February 9-11). C.I.T.E. participants don t have to be members  and the members meeting are open to link:{{'/observer' | relative_url}}[observers]. Many of our present members decided to become active participants in CalConnect after attending a Roundtable as an observer.
 
 Come to the Roundtable and find out what s going on in CalDAV, mobile calendaring, iSchedule, event publication, iCalendar and XML, and other areas CalConnect is working on. Here s a chance to decide if you want to part of the work, and help drive the future of calendaring and scheduling. Our goal for calendaring and scheduling is ubiquity and seamless interoperability.
 
-For more information about CalConnect XX, see http://calconnect.org/calconnect20.shtml[]. For more information about our nonprofit consortium, see link:/[]. You can e-mail us at contact at calconnect.org or call at 707-840-9391 with questions. (Please note, that, not surprisingly, there are separate registration fees for attending these events, for members and non-members alike.)
+For more information about CalConnect XX, see http://calconnect.org/calconnect20[]. For more information about our nonprofit consortium, see link:{{'/' | relative_url}}[]. You can e-mail us at contact at calconnect.org or call at 707-840-9391 with questions. (Please note, that, not surprisingly, there are separate registration fees for attending these events, for members and non-members alike.)
 
 We look forward to welcoming you in February!
 
 Dave Thewlis +
- Executive Director, The Calendaring and Scheduling Consortium
+Executive Director, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
 

@@ -9,17 +9,16 @@ excerpt: At CalConnect XLI, hosted by Oath in Sunnyvale, California, Ken Murchis
 
 == Ken Murchison 9th Recipient of CalConnect Distingushed Service Award
 
-[[node-463]]
 Posted February 2, 2018 
-image::link:/assets/images/KenMurchison.jpg[Ken Murchison,250,401]
+image::link:{{'/assets/images/KenMurchison.jpg' | relative_url}}[Ken Murchison,250,401]
 
 Ken Murchison
 
 At CalConnect XLI, hosted by Oath in Sunnyvale, California, Ken Murchison of FastMail was honored as our 9th recipient of the Distinguished Service Award.
 
-Ken has been active in CalConnect since the beginning of this decade, first representing Carnegie Mellon University and in the last year FastMail.&nbsp; His first event was CalConnect XX in February of 2011 at UC Berkeley.&nbsp; Ken has attended events in the U.S. but until moving to FastMail he was unable to attend international events; his first international event was the Cologne event this September.
+Ken has been active in CalConnect since the beginning of this decade, first representing Carnegie Mellon University and in the last year FastMail. His first event was CalConnect XX in February of 2011 at UC Berkeley. Ken has attended events in the U.S. but until moving to FastMail he was unable to attend international events; his first international event was the Cologne event this September.
 
-Ken has been widely active on the technical side, participating in and chairing multiple Technical Committees, and now chairs TC CALENDAR.&nbsp; He is the author of a number of RFCs and specifications, and is also the principal developer of the Cyrus Mail and Calendar server which is widely used.&nbsp; For the last few two years he has also served as our primary liaison to the IETF he has been active in the IETF for a number of years.&nbsp; As of earlier this year he has been invited to attend Board meetings and StratPlan calls and he will be presenting at the Board Retreat here in Sunnyvale on Saturday.
+Ken has been widely active on the technical side, participating in and chairing multiple Technical Committees, and now chairs TC CALENDAR. He is the author of a number of RFCs and specifications, and is also the principal developer of the Cyrus Mail and Calendar server which is widely used. For the last few two years he has also served as our primary liaison to the IETF he has been active in the IETF for a number of years. As of earlier this year he has been invited to attend Board meetings and StratPlan calls and he will be presenting at the Board Retreat here in Sunnyvale on Saturday.
 
 The CalConnect Distinguished Service Award recognizes an individual for their extraordinary and/or exemplary service, but the DSA is awarded as much (or more) to establish and reinforce CalConnect s cultural elements of myth and legend, heroes and heroines, prescriptions and preferences, and behavioral codes. The DSA does not have to inspire the recipient; it is intended to inspire the rest of us.
 
@@ -27,13 +26,4 @@ We are a member-driven organization  our agenda, our projects, our collaboration
 
 Like the 8 recipients who precede him, the CalConnect story and the Ken Murchison story are one and the same. Without Ken Murchison, and those with the dedication, and willingness to work on behalf of interoperable calendaring and scheduling, CalConnect could not be what it is today.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
 

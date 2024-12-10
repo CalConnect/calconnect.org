@@ -9,24 +9,10 @@ excerpt: CalConnect welcomes MedRed LLC as a member of the Calendaring and Sched
 
 == CalConnect welcomes MedRed
 
-[[node-176]]
 Posted June 10, 2014 
 
 CalConnect welcomes MedRed LLC as a member of the Calendaring and Scheduling Consortium. http://www.medred.com[MedRed], based in Washington, DC, makes innovative, high quality informatics software for healthcare providers and patients.
 
-MedRed led the winning proposal for the Veterans Administration Scheduling System Challenge, and was the primary presenter at the link://vachallengeworkshopreport.shtml[VA Scheduling System Challenge Workshop] held at CalConnect XXX in May at AOL in Dulles, Virginia.&nbsp;
+MedRed led the winning proposal for the Veterans Administration Scheduling System Challenge, and was the primary presenter at the link:{{'/vachallengeworkshopreport' | relative_url}}[VA Scheduling System Challenge Workshop] held at CalConnect XXX in May at AOL in Dulles, Virginia.&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

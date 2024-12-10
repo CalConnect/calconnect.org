@@ -9,7 +9,6 @@ excerpt: dotCal is an Internet marketing service that helps consumers and busine
 
 == Member Focus: dotCal
 
-[[node-295]]
 Posted June 18, 2010 
 
 dotCal is an Internet marketing service that helps consumers and businesses communicate event information across a variety of calendar programs. It is one of the first companies in this space that relies completely on today s standards, including CalDav and iCalendar 2.0. By doing so, dotCal lives the mission of interoperability fostered by CalConnect.
@@ -20,13 +19,4 @@ Website: http://dotCal.com
 
 Recent press releases: http://http://dotCal.com/news[dotCal.com/news]
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/member-focus[Member Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

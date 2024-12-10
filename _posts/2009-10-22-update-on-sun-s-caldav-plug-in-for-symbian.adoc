@@ -9,22 +9,9 @@ excerpt: Sun has posted an update on their CalDAV client plug-in for the Symbian
 
 == Update on Sun’s CalDAV Plug-in for Symbian
 
-[[node-320]]
 Posted October 22, 2009 
 
-Sun has posted an update on their CalDAV client plug-in for the Symbian Operating system on the Symbian blog. See http://blog.symbian.org/2009/10/22/caldav-support-for-symbian-a-contribution-by-sun-microsystems/ for the full text. &nbsp;
-
+Sun has posted an update on their CalDAV client plug-in for the Symbian Operating system on the Symbian blog. See http://blog.symbian.org/2009/10/22/caldav-support-for-symbian-a-contribution-by-sun-microsystems/ for the full text.
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/member-news[Member News]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

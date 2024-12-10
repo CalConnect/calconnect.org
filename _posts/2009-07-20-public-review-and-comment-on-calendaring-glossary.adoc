@@ -9,24 +9,12 @@ excerpt: The CalConnect Calendaring and Scheduling Glossary of Terms was origina
 
 == Public Review and Comment on Calendaring Glossary
 
-[[node-329]]
-Posted July 20, 2009 
+Posted July 20, 2009
 
-The CalConnect link:/docs/CD0610%20Calendaring%20and%20Scheduling%20Glossary%20of%20Terms.pdf[Calendaring and Scheduling Glossary of Terms] was originally published in 2006 and is strongly in need of an update to reflect changes and advances in Calendaring and Scheduling since that time.
+The CalConnect link:{{'/docs/CD0610%20Calendaring%20and%20Scheduling%20Glossary%20of%20Terms.pdf' | relative_url}}[Calendaring and Scheduling Glossary of Terms] was originally published in 2006 and is strongly in need of an update to reflect changes and advances in Calendaring and Scheduling since that time.
 
-We have initiated a public review and comment process from all interested parties. Please see link://pubcomment_glossary.shtml[Public Review and Comment for the Glossary] for information about the process and the mailing list for comments. All comments, corrections, and updates are encouraged.
+We have initiated a public review and comment process from all interested parties. Please see link:{{'/pubcomment_glossary' | relative_url}}[Public Review and Comment for the Glossary] for information about the process and the mailing list for comments. All comments, corrections, and updates are encouraged.
 
 After an initial period for comments and suggestions, the owning Technical Committee, TC USECASE, will produce an updated draft which will also be made available for public review and comment prior to publication, using this same process.
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

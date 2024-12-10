@@ -9,18 +9,7 @@ excerpt: CalConnect welcomes Software AG as a member of The Calendaring and Sche
 
 == CalConnect Welcomes Software AG
 
-[[node-200]]
 Posted May 21, 2013 
 
-CalConnect welcomes http://www.softwareag.com[Software AG] as a member of The Calendaring and Scheduling Consortium. Software AG, headquartered in Darmstadt, Germany, is a worldwide provider of ERM, Business Process Management, and related software and services. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/member-news[Member News]
+CalConnect welcomes http://www.softwareag.com[Software AG] as a member of The Calendaring and Scheduling Consortium. Software AG, headquartered in Darmstadt, Germany, is a worldwide provider of ERM, Business Process Management, and related software and services.
 

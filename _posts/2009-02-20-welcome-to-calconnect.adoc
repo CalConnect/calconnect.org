@@ -9,22 +9,16 @@ excerpt: This blog is for and about CalConnect – The Calendaring and Schedulin
 
 == Welcome to CalConnect
 
-[[node-113]]
-Posted February 20, 2009 
+Posted February 20, 2009
 
-This blog is for and about link:/[CalConnect]  The Calendaring and Scheduling Consortium  and occasional other posts related to the quest for interoperable calendaring and scheduling.
+This blog is for and about link:{{'/' | relative_url}}[CalConnect]  The Calendaring and Scheduling Consortium  and occasional other posts related to the quest for interoperable calendaring and scheduling.
 
-I m Dave Thewlis, the Executive Director of CalConnect.&nbsp; I hope to use this blog to keep interested folks apprised of what s going on with CalConnect in a timely fashion, and so it will be prone to announcements.&nbsp;&nbsp; But I ll try to keep it from being too dry and uninteresting.
+I m Dave Thewlis, the Executive Director of CalConnect. I hope to use this blog to keep interested folks apprised of what s going on with CalConnect in a timely fashion, and so it will be prone to announcements.&nbsp; But I ll try to keep it from being too dry and uninteresting.
 
 For those who aren t familiar with CalConnect, it is a very collegial partnership between vendors, implementers, and customers of calendaring and scheduling systems.
 
-Our purpose is to promote interoperable calendaring and scheduling.&nbsp; Our vision for the future is not just interoperable calendaring, but ubiquitous interoperable calendaring:&nbsp; Calendaring can be, and should be, as available, easy to use, and ubiquitous as electronic mail.
+Our purpose is to promote interoperable calendaring and scheduling. Our vision for the future is not just interoperable calendaring, but ubiquitous interoperable calendaring: Calendaring can be, and should be, as available, easy to use, and ubiquitous as electronic mail.
 
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
 

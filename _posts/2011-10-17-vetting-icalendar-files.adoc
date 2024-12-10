@@ -9,8 +9,7 @@ excerpt: In my blog post of December 27, 2010, In calendaring, success means the
 
 == Vetting iCalendar files
 
-[[node-243]]
-Posted October 17, 2011 
+Posted October 17, 2011
 
 In my blog post of December 27, 2010, https://calconnect.wordpress.com/2010/12/27/in-calendaring-success-means-the-right-thing-the-right-way/[In calendaring, success means the right thing, the right way!], I talked about downloading iCalendar .ics files from university sports web sites, and importing these events into different calendaring systems to ascertain whether the event data was interpreted the same way in each system. I discovered that more often than not, the events were not represented as intended as they did not conform to, or fully exploit the capabilities of, the iCalendar specification. I concluded that post with It is well worth your while to run through the exercise of exporting your public events, and importing them into the more widely used calendaring systems to ensure that you have, indeed, done the right thing the right way.
 
@@ -25,15 +24,6 @@ Last month, Doug did just that, or in his own words,
 I commend Doug for sharing his work in this open fashion. And, for those of you who become contributors, I would still love to see a display of how many events are represented without a timezone reference.
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

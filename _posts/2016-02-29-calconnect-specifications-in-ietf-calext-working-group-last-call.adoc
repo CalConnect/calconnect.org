@@ -9,36 +9,24 @@ excerpt: The IETF CALEXT Working Group has issued a Last Call for Comments on tw
 
 == CalConnect Specifications in IETF CALEXT Working Group Last Call
 
-[[node-358]]
-Posted February 29, 2016 
+Posted February 29, 2016
 
-The IETF CALEXT Working Group has issued a Last Call for Comments on two CalConnect specifications:&nbsp; Calendar Availability (VAVAILABILITY) https://datatracker.ietf.org/doc/draft-ietf-calext-availability/ +
+The IETF CALEXT Working Group has issued a Last Call for Comments on two CalConnect specifications: Calendar Availability (VAVAILABILITY) https://datatracker.ietf.org/doc/draft-ietf-calext-availability/ +
  &nbsp;and Calendar Extensions https://datatracker.ietf.org/doc/draft-ietf-calext-extensions/[].
 
 +
- Whether or not you are active in CalConnect, It is extremely important that anyone with an interest in seeing these specifications become standards comment on the IETF CALSIFY mailing list in favor of moving these drafts forward, and especially with any comments about implementations.&nbsp; The Working Group Chairs need to see real support for these specs becoming standards.&nbsp; If you are not already on that list here is the link: https://www.ietf.org/mailman/listinfo/calsify[]. +
- +
- Time is of the essence as the Last Call opened several days ago.&nbsp; It s really important for all of us to show there is support for these drafts, as they&nbsp; are finally starting to move forward after quite a long time.&nbsp;
+Whether or not you are active in CalConnect, It is extremely important that anyone with an interest in seeing these specifications become standards comment on the IETF CALSIFY mailing list in favor of moving these drafts forward, and especially with any comments about implementations. The Working Group Chairs need to see real support for these specs becoming standards. If you are not already on that list here is the link: https://www.ietf.org/mailman/listinfo/calsify[]. +
 
+Time is of the essence as the Last Call opened several days ago. It s really important for all of us to show there is support for these drafts, as they are finally starting to move forward after quite a long time.&nbsp;
 
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 
 Tags:&nbsp;
 
-link:/tags/vavailability[VAVAILABILITY]
+link:{{'/tags/vavailability' | relative_url}}[VAVAILABILITY]
 
-link:/tags/icalendar-extensions[iCalendar Extensions]
+link:{{'/tags/icalendar-extensions' | relative_url}}[iCalendar Extensions]
 
-link:/tags/last-call[Last Call]
+link:{{'/tags/last-call' | relative_url}}[Last Call]
 
-link:/tags/ietf[IETF]
+link:{{'/tags/ietf' | relative_url}}[IETF]
 

@@ -9,15 +9,14 @@ excerpt: This year's European conference was hosted by Open-Xchange. If you are 
 
 == CalConnect XL hosted by Open-Xchange in Cologne Germany
 
-[[node-456]]
 Posted November 10, 2017 
-image::link:/assets/images/cologne.jpg["",480,373]
+image::link:{{'/assets/images/cologne.jpg' | relative_url}}["",480,373]
 
-This year's European conference was hosted by Open-Xchange. If you are unfamiliar with https://www.open-xchange.com/[Open-Xchange]: its mission is&nbsp; to deliver the integrated, open-source stack for messaging, collaboration and productivity for the service-provider industry. They tagline is: stay open. That seems like an excellent match with CalConncect's mission. Setting standards and improving interoperability are cornerstones of making&nbsp; calendaring and scheduling easier for vendors and end users. Many thank to OX for having us.
+This year's European conference was hosted by Open-Xchange. If you are unfamiliar with https://www.open-xchange.com/[Open-Xchange]: its mission is to deliver the integrated, open-source stack for messaging, collaboration and productivity for the service-provider industry. They tagline is: stay open. That seems like an excellent match with CalConncect's mission. Setting standards and improving interoperability are cornerstones of making calendaring and scheduling easier for vendors and end users. Many thank to OX for having us.
 
-Black Friday is about a month out and if you are unlucky you might encounter a relatively new phenomena called calendar spam. That is right: unwanted commercial messages in your calendar. We are working with https://www.m3aawg.org/[M3AAWG]&nbsp; to come up with solutions before this gets to the email-ish proportions. M3AAWG is the Messaging, Malware and Mobile Anti-Abuse Working Group and work against bots, malware, spam, viruses, DoS attacks and other online exploitation.
+Black Friday is about a month out and if you are unlucky you might encounter a relatively new phenomena called calendar spam. That is right: unwanted commercial messages in your calendar. We are working with https://www.m3aawg.org/[M3AAWG] to come up with solutions before this gets to the email-ish proportions. M3AAWG is the Messaging, Malware and Mobile Anti-Abuse Working Group and work against bots, malware, spam, viruses, DoS attacks and other online exploitation.
 
-A topic that will interest the providers of public calendars and the vendors that absorb those is the topic of alternative synchronization. When a lot of people are subscribed and a lot of exceptions are made to eg recurring rules, ics files tend to get big and klunky over time.&nbsp; Most calendars keep the past. The burden on servers and client gets really huge over time. We discussed a CalDAV-ified public calendar mechanism.
+A topic that will interest the providers of public calendars and the vendors that absorb those is the topic of alternative synchronization. When a lot of people are subscribed and a lot of exceptions are made to eg recurring rules, ics files tend to get big and klunky over time. Most calendars keep the past. The burden on servers and client gets really huge over time. We discussed a CalDAV-ified public calendar mechanism.
 
 Calendaring and scheduling can be tough to get one's head around. That is why our members initiated two great projects to lower that bar for entry: Devguide and CalDAV tester.
 
@@ -29,7 +28,7 @@ Although a number of calendaring standards and protocols exist, no overall calen
 
 CalDAV itself has a couple of improvements coming up: series, relationships, grouping to name a few.
 
-I hope to see you in https://www.calconnect.org/events/calconnect-xli-winter-2018[Sunnyvale Califorania] Janjary 29 to February 2, where https://www.oath.com/[OATH] will host us.&nbsp; While you are at it: mark your calendar 4-8 June 2018 when http://www.jorte.com/en/[Jorte] will host us in Tokyo.
+I hope to see you in https://www.calconnect.org/events/calconnect-xli-winter-2018[Sunnyvale Califorania] Janjary 29 to February 2, where https://www.oath.com/[OATH] will host us. While you are at it: mark your calendar 4-8 June 2018 when http://www.jorte.com/en/[Jorte] will host us in Tokyo.
 
 Highest regards,
 
@@ -37,11 +36,4 @@ Rutger Geelen
 
 President
 
-
-
-Categories:&nbsp;
-
-link:/news/current-events[Current Events]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

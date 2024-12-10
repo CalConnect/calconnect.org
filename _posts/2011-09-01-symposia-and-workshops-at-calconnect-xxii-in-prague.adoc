@@ -9,7 +9,6 @@ excerpt: In addition to our regular Roundtable Technical Conference sessions, Ca
 
 == Symposia and Workshops at CalConnect XXII in Prague
 
-[[node-249]]
 Posted September 1, 2011 
 
 In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 6th and 7th. These sessions are covered by your Roundtable Conference registration fee and are open to all registered participants.
@@ -28,28 +27,16 @@ An architectural view of the internet calendaring standards discussed in the ear
 
 *Workshop on Tasks/vTODOs (Friday 0830-1000)*
 
-iCalendar offers both events and tasks (VTODOs) for basic task management such as PIMs. However there is increasing interest in using iCalendar tasks in more advanced applications such as project management. What requirements must be met and what extensions are required to iCalendar to address the needs of an emerging set of more diverse and capable products? The goal of this session is to identify these needs and help CalConnect determine whether and how to address them by defining the necessary extensions. This session is a follow-on to an initial discussion at the last CalConnect meeting in May; the slides from that discussion may be found at link:/docs/Tasks%20Workshop.pdf[Tasks Workshop May 2011].
+iCalendar offers both events and tasks (VTODOs) for basic task management such as PIMs. However there is increasing interest in using iCalendar tasks in more advanced applications such as project management. What requirements must be met and what extensions are required to iCalendar to address the needs of an emerging set of more diverse and capable products? The goal of this session is to identify these needs and help CalConnect determine whether and how to address them by defining the necessary extensions. This session is a follow-on to an initial discussion at the last CalConnect meeting in May; the slides from that discussion may be found at link:{{'/docs/Tasks%20Workshop.pdf' | relative_url}}[Tasks Workshop May 2011].
 
 *CalConnect Internationally  Next steps (Friday 1030-1115)*
 
 What are our next steps for CalConnect Internationally, in Europe or elsewhere? What sort of meetings or conferences would be most useful, and how frequent? What can CalConnect do to make it more practical for people based in other countries to participate in CalConnect technical committees? The goal of this session is to provide concrete guidance for CalConnect in planning for its future and hopefully your +
- involvement.
+involvement.
 
 *BOB (Birds of a Feather) Sessions (Friday 1115-1200)*
 
-What are we not talking about or addressing that concerns you? Here s a chance to propose topics of interest and get a discussion going that may lead to future CalConnect work. &nbsp;
-
+What are we not talking about or addressing that concerns you? Here s a chance to propose topics of interest and get a discussion going that may lead to future CalConnect work.
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

@@ -9,7 +9,6 @@ excerpt: Earlier this week, we welcomed Ribose as the newest CalConnect member, 
 
 == Is CalConnect Right for You? Are you Right for CalConnect?
 
-[[node-194]]
 Posted August 15, 2013 
 
 Earlier this week, we welcomed http://www.ribose.com[Ribose] as the newest CalConnect member, and our first member organization based in Asia. Including Ribose, five organizations have joined CalConnect since we https://calconnect.wordpress.com/2013/04/17/about-calconnects-new-membership-categories-and-fees/[announced] our new membership fees and categories in April of this year.
@@ -18,7 +17,7 @@ In our conversations with Ribose s leadership, we learned that Ribose had been a
 
 CalConnect does need the really big players, however one might reasonably define them, for a number of reasons, but CalConnect cannot succeed, cannot meet its mission, with only the really big players, the really small players, or only the really anything-else players.
 
-As we note on our link://whyjoin.shtml[Why Join] page,
+As we note on our link:{{'/whyjoin' | relative_url}}[Why Join] page,
 
 ____
 We are a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools. Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities¦
@@ -49,17 +48,6 @@ If you are trying to solve a problem, find a solution, build a product, help dri
 If you are a large software development organization, an emergent software vendor or startup, if you are end user organization, a college or university, a government organization or department for which scheduling/calendaring is critical to your workflow or product line, if you are a standards organization which needs calendaring /scheduling expertise, or if you are an individual interested in calendaring /scheduling products or standards, you are right for CalConnect.
 
 Gary Schwartz +
- President
+President
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

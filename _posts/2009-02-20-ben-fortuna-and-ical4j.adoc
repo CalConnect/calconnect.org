@@ -9,18 +9,12 @@ excerpt: CalConnect held its fourteenth members’ meeting (Roundtable) and inte
 
 == Ben Fortuna and iCal4j
 
-[[node-355]]
-Posted February 20, 2009 
+Posted February 20, 2009
 
 CalConnect held its fourteenth members  meeting (Roundtable) and interoperability test event last week (February 2-6) in Redmond, Washington, hosted by Microsoft.
 
-We have just started a Guest Speaker program, and our first Guest Speaker was Ben Fortuna, the author of http://wiki.modularity.net.au/ical4j/index.php?title=Main_Page[iCal4j].&nbsp; (iCal4j is a Java API providing support for the iCalendar specification, RFC 2445, which defines the data schema for calendaring information.)
+We have just started a Guest Speaker program, and our first Guest Speaker was Ben Fortuna, the author of http://wiki.modularity.net.au/ical4j/index.php?title=Main_Page[iCal4j]. (iCal4j is a Java API providing support for the iCalendar specification, RFC 2445, which defines the data schema for calendaring information.)
 
-Ben is from Melbourne, Australia, and came all the way to Redmond to be with us for the week, and to speak on iCal4j.&nbsp; You can find his presentation to CalConnect at link:/docs/iCal4j_Calconnect.pdf[link:/docs/iCal4j_Calconnect.pdf]. We re delighted Ben was able to be with us.
+Ben is from Melbourne, Australia, and came all the way to Redmond to be with us for the week, and to speak on iCal4j. You can find his presentation to CalConnect at link:{{'/docs/iCal4j_Calconnect.pdf' | relative_url}}[iCal4j_Calconnect.pdf]. We re delighted Ben was able to be with us.
 
-
-
-Categories:&nbsp;
-
-link:/news/special-focus[Special Focus]
 

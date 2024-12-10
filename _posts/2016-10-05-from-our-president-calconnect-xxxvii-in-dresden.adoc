@@ -9,48 +9,36 @@ excerpt: In beautiful late summer weather dmfs hosted CalConnect XXXVII at Schlo
 
 == From Our President: CalConnect XXXVII in Dresden
 
-[[node-414]]
 Posted October 5, 2016 
-image::link:/assets/images/Conference%20sketch%20small.jpg["",480,360]
+image::link:{{'/assets/images/Conference%20sketch%20small.jpg' | relative_url}}["",480,360]
 
 Conference Sketch by Thomas SchÃ¤fer, 1&1
 
 In beautiful late summer weather https://dmfs.org/[dmfs] hosted CalConnect XXXVII at http://www.schloss-eckberg.de/[Schloss Eckberg], one of three castles built about 160 years ago at the border of the Elbe River in https://en.wikipedia.org/wiki/Dresden[Dresden]. I always look forward to meeting my fellow Calendaring and Scheduling companions from around the world. In this case: 23 people from 14 companies, 11 countries and 4 continents. Server/client vendors, student, tech-giants, SME's and 3 first time attendees... a truly diverse turn up. +
- +
- Before the conference dfms organized the first ever https://dmfs.github.io/calendaring-code-fest/[Calendaring and Scheduling code fest]. 10 developers took the opportunity to work on the implementation of calendaring solutions, ask questions, learn from others and share wisdom all in a un-conference style. +
- +
- CalConnect has always taken the lead in making the C&S world a better place. This work often results in RFCs and other standards. To read and understand these require a dedication and perseverance that not a lot of people are given. This is reason why many developers reverse-engineer their scheduling products. That makes perfect sense but it might negatively impact interoperability with other products in the longer run. To fill that gap we are working on a couple of interesting projects that will lower the barrier for participation and use of standards for the entire C&S community. I want to highlight three of those projects that were also discussed during the conference:t: API, the Developer s Guide, and Tester: +
- +
- &nbsp;&nbsp; &nbsp;1&nbsp;&nbsp; &nbsp;https://www.calconnect.org/about/technical-committees/tc-api[TC API] is developing an abstract calendar API which encompasses all of the major functionality and the object model currently available in the base calendaring standards. We discussed first drafts and examples of how the API would. Members can follow and contribute via our https://github.com/CalConnect/API[Github repo]. +
- +
- &nbsp;&nbsp; &nbsp;2&nbsp;&nbsp; &nbsp;The goal of https://www.calconnect.org/about/technical-committees/tc-devguide[TC DEVGUIDE] is to develop a "cookbook" that describes how to start using iCalendar to build basic events and then move on to more complex calendaring and scheduling problems. The http://devguide-calconnect.rhcloud.com/Home[Developers Guide] went live in the last quarter. Anybody who is interested can use it, and contribute to it via the https://github.com/CalConnect/DEVGUIDE[pubic repo]. +
- +
- &nbsp;&nbsp; &nbsp;3&nbsp;&nbsp; &nbsp;At this conference TC TESTER was proposed, with the goal to make automated and repeatable testing of servers and clients easier. The result of this TC will be visible over the coming months. +
- +
- These three projects will definitely make it easier for the entire calendaring and scheduling community to develop better products faster. +
- +
- Other interesting topics that were discussed were our relationship with the https://www.ietf.org/[IETF] (thanks to Alexey for attending), https://www.calconnect.org/about/technical-committees/tc-ischedule[iSchedule], https://www.calconnect.org/about/technical-committees/tc-imip[iMIP,] DAV-Based https://www.calconnect.org/about/technical-committees/tc-sharing[Resource Sharing and alternative subscription models], https://www.calconnect.org/news/2016/08/17/vavailability-calendar-availability-announced-rfc-7953[Vavailability], Security, https://www.calconnect.org/resources/calendaring-standards#vCard[vCARD], https://www.calconnect.org/about/technical-committees/tc-autodiscovery[autodiscovery], and DAV https://www.calconnect.org/about/technical-committees/tc-push[Push]. More on these topics in later posts. +
- +
- I would like to express my thanks to Marten Gajda of dmfs who hosted the conference. +
- +
- If not before, I will see you in Irvine, California for CalConnect XXXVIII, February 13-17 2017. +
- +
- Regards, +
- +
- Rutger Geelen +
- President, CalConnect
+
+Before the conference dfms organized the first ever https://dmfs.github.io/calendaring-code-fest/[Calendaring and Scheduling code fest]. 10 developers took the opportunity to work on the implementation of calendaring solutions, ask questions, learn from others and share wisdom all in a un-conference style. +
+
+CalConnect has always taken the lead in making the C&S world a better place. This work often results in RFCs and other standards. To read and understand these require a dedication and perseverance that not a lot of people are given. This is reason why many developers reverse-engineer their scheduling products. That makes perfect sense but it might negatively impact interoperability with other products in the longer run. To fill that gap we are working on a couple of interesting projects that will lower the barrier for participation and use of standards for the entire C&S community. I want to highlight three of those projects that were also discussed during the conference:t: API, the Developer s Guide, and Tester: +
+
+ &nbsp; &nbsp;1&nbsp; &nbsp;https://www.calconnect.org/about/technical-committees/tc-api[TC API] is developing an abstract calendar API which encompasses all of the major functionality and the object model currently available in the base calendaring standards. We discussed first drafts and examples of how the API would. Members can follow and contribute via our https://github.com/CalConnect/API[Github repo]. +
+
+ &nbsp; &nbsp;2&nbsp; &nbsp;The goal of https://www.calconnect.org/about/technical-committees/tc-devguide[TC DEVGUIDE] is to develop a "cookbook" that describes how to start using iCalendar to build basic events and then move on to more complex calendaring and scheduling problems. The http://devguide-calconnect.rhcloud.com/Home[Developers Guide] went live in the last quarter. Anybody who is interested can use it, and contribute to it via the https://github.com/CalConnect/DEVGUIDE[pubic repo]. +
+
+ &nbsp; &nbsp;3&nbsp; &nbsp;At this conference TC TESTER was proposed, with the goal to make automated and repeatable testing of servers and clients easier. The result of this TC will be visible over the coming months. +
+
+These three projects will definitely make it easier for the entire calendaring and scheduling community to develop better products faster. +
+
+Other interesting topics that were discussed were our relationship with the https://www.ietf.org/[IETF] (thanks to Alexey for attending), https://www.calconnect.org/about/technical-committees/tc-ischedule[iSchedule], https://www.calconnect.org/about/technical-committees/tc-imip[iMIP,] DAV-Based https://www.calconnect.org/about/technical-committees/tc-sharing[Resource Sharing and alternative subscription models], https://www.calconnect.org/news/2016/08/17/vavailability-calendar-availability-announced-rfc-7953[Vavailability], Security, https://www.calconnect.org/resources/calendaring-standards#vCard[vCARD], https://www.calconnect.org/about/technical-committees/tc-autodiscovery[autodiscovery], and DAV https://www.calconnect.org/about/technical-committees/tc-push[Push]. More on these topics in later posts. +
+
+I would like to express my thanks to Marten Gajda of dmfs who hosted the conference. +
+
+If not before, I will see you in Irvine, California for CalConnect XXXVIII, February 13-17 2017. +
+
+Regards, +
+
+Rutger Geelen +
+President, CalConnect
 
 &nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

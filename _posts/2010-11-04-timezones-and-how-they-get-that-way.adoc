@@ -9,8 +9,7 @@ excerpt: With this weekend’s transition in the U.S. from Daylight Saving Time 
 
 == Timezones and how they get that way
 
-[[node-275]]
-Posted November 4, 2010 
+Posted November 4, 2010
 
 With this weekend s transition in the U.S. from Daylight Saving Time to Standard Time, let s resume the discussion of timezones we started in a posting earlier this month on this blog, Shifting Time Zones on Online Calendars  A CalConnect Perspective. One of the way stations in our journey to understanding the issues raised in David Pogue s New York Times  posting of October 13th, Shifting Time Zones on Online Calendars is understanding timezones at a high level.
 
@@ -54,7 +53,7 @@ So, although timezones are a relatively new invention, the history of how they a
 
 The following references were consulted in preparation of this posting:
 
-* Web 
+* Web
 +
 http://www.nist.gov
 +
@@ -68,15 +67,6 @@ link:/
 * Books, articles: Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time  Dava Sobel; The Economics of Time Zones  Matthew W. White; The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World  Len Adler; Spring Forward  The Annual Madness of Daylight Saving Time  Michael Downing
 
 Gary Schwartz +
- President, The Calendaring and Scheduling Consortium
+President, The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

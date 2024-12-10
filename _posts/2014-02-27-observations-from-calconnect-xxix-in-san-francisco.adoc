@@ -9,36 +9,35 @@ excerpt: CalConnect held its twenty-ninth interoperability test event and Roundt
 
 == Observations from CalConnect XXIX in San Francisco
 
-[[node-182]]
 Posted February 27, 2014 
 
 CalConnect held its twenty-ninth interoperability test event and Roundtable Technical Conference the week of February 3-7 in San Francisco, California. The event was hosted by CalConnect founding member Mozilla, which did a great job with not only the event logistics, but also making everyone feel very welcome, which was reflected in the very strong attendance at these events.
 
-36 people, representing 21 link://mbrlist.shtml[CalConnect member organizations] and one link://observer.shtml[observer], participated during the week. Almost a quarter of the attendees traveled internationally to come to CalConnect XXIX, from the Czech Republic, England, France, Hong Kong, India, New Zealand and Switzerland. Attendance at CalConnect events is growing, international membership and participation are bringing new energy and perspectives to CalConnect.
+36 people, representing 21 link:{{'/mbrlist' | relative_url}}[CalConnect member organizations] and one link:{{'/observer' | relative_url}}[observer], participated during the week. Almost a quarter of the attendees traveled internationally to come to CalConnect XXIX, from the Czech Republic, England, France, Hong Kong, India, New Zealand and Switzerland. Attendance at CalConnect events is growing, international membership and participation are bringing new energy and perspectives to CalConnect.
 
-We have just published the first architectural diagrams for http://link://architectures/Task%20Architecture%200.4.pdf[Tasks] from link://tc-tasks.shtml[TC TASKS] and for link://architectures/Calendaring%20Architecture.pdf[Calendaring and Scheduling] from http://link://tc-api.shtml[TC API].
+We have just published the first architectural diagrams for http://link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Tasks] from link:{{'/tc-tasks' | relative_url}}[TC TASKS] and for link:/architectures/Calendaring%20Architecture.pdf[Calendaring and Scheduling] from http://link:/tc-api' | relative_url}}[TC API].
 
 Here s what s trending from CalConnect XXIX:
 
 *Trending  Membership*
 
-Six of the seven new link://emergentvendor.shtml[Emergent Vendor] members (a new membership category for small vendors and startups) were represented at CalConnect XXIX, including http://milton.io/[milton.io], our newest member.
+Six of the seven new link:{{'/emergentvendor' | relative_url}}[Emergent Vendor] members (a new membership category for small vendors and startups) were represented at CalConnect XXIX, including http://milton.io/' | relative_url}}[milton.io], our newest member.
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
-* link://tc-push.shtml[TC PUSH]
+* link:{{'/tc-push' | relative_url}}[TC PUSH]
 +
 (PUSH protocol for CalDAV and CardDAV)
-* link://tc-ischedule.shtml[TC ISCHEDULE]
+* link:{{'/tc-ischedule' | relative_url}}[TC ISCHEDULE]
 +
 (intersystem iTIP scheduling via HTTP)
-* link://tc-tasks.shtml[TC TASKS]
+* link:{{'/tc-tasks' | relative_url}}[TC TASKS]
 +
 (VTODO extensions for new scheduling areas such as logistics, project and energy management)
-* http://link://tc-api.shtml[TC API]
+* http://link:{{'/tc-api' | relative_url}}[TC API]
 +
 (Abstract API for Calendaring and Scheduling) was established from the provisional committee of the same name
-* link://tc-freebusy.shtml[TC FREEBUSY]
+* link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY]
 +
 Demo-ed a prototype web client supporting
 +
@@ -47,7 +46,7 @@ http://tools.ietf.org/html/draft-york-vpoll-00[VPOLL]
 
 *Trending  Interoperability testing*
 
-The interoperability testing was very successful, with 23 participants from 13 organizations. The CalDAV Test Suite is rapidly being evolved into a really useful general testing tool for CalDAV servers. A more detailed accounting of the interoperability testing will be available at link://eventreports.shtml#ioptestevents[CalConnect Interoperability Test Event Reports].
+The interoperability testing was very successful, with 23 participants from 13 organizations. The CalDAV Test Suite is rapidly being evolved into a really useful general testing tool for CalDAV servers. A more detailed accounting of the interoperability testing will be available at link:{{'/eventreports#ioptestevents' | relative_url}}[CalConnect Interoperability Test Event Reports].
 
 *Trending  Documents/Standards*
 
@@ -55,12 +54,12 @@ _Much of the work in CalConnect is focused on specifications to become internet 
 
 *Recently published CalConnect documents:*
 
-¢ link://architectures/Calendaring%20Architecture.pdf[Calendaring Service Architecture] +
- ¢ link://architectures/Task%20Architecture%200.4.pdf[Task Architecture V0.4] +
- ¢ link://roundtable28rpt.shtml[Report on Roundtable XXIX] +
- ¢ link://ioptestevent28rpt.shtml[Report on Interoperability Test Event XXIX] +
- ¢ link://7_things_itineraries.shtml[7 Things You Should Know About Digital Travel Itineraries] +
- ¢ link://7_things_tasks.shtml[7 Things You Should Know About Tasks]
+¢ link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring Service Architecture] +
+ ¢ link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Task Architecture V0.4] +
+ ¢ link:{{'/roundtable28rpt' | relative_url}}[Report on Roundtable XXIX] +
+ ¢ link:{{'/ioptestevent28rpt' | relative_url}}[Report on Interoperability Test Event XXIX] +
+ ¢ link:{{'/7_things_itineraries' | relative_url}}[7 Things You Should Know About Digital Travel Itineraries] +
+ ¢ link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks]
 
 *Recently updated internet drafts and published RFCs:*
 
@@ -83,17 +82,6 @@ To facilitate broader understanding, CalConnect has retired the name Roundtabl
 
 CalConnect wishes to again thank Mozilla for helping to make CalConnect XXIX such a productive and enjoyable week.
 
-At our next event, link://calconnect30.shtml[CalConnect XXX], to be hosted by AOL in Dulles, Virginia in May, we are planning to hold a public workshop on the Medical Appointment Scheduling System Contest sponsored by the Veterans Administration, with participation from the VA and from the winning team in the contest. We expect this will be a half-day workshop available to the public (by registration) and will be publishing more information as it becomes available. &nbsp;&nbsp;
+At our next event, link:{{'/calconnect30' | relative_url}}[CalConnect XXX], to be hosted by AOL in Dulles, Virginia in May, we are planning to hold a public workshop on the Medical Appointment Scheduling System Contest sponsored by the Veterans Administration, with participation from the VA and from the winning team in the contest. We expect this will be a half-day workshop available to the public (by registration) and will be publishing more information as it becomes available. &nbsp;&nbsp;
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
 

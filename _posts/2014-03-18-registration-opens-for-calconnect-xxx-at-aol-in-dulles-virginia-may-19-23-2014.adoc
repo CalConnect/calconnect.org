@@ -4,15 +4,14 @@ title: Registration Opens for CalConnect XXX at AOL in Dulles, Virginia – May 
 date: 2014-03-18
 type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
-excerpt: Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link://calconnect30.shtml and contains hotel booking information, locations, meeting venue, travel information, etc.
+excerpt: Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:/calconnect30 and contains hotel booking information, locations, meeting venue, travel information, etc.
 ---
 
 == Registration Opens for CalConnect XXX at AOL in Dulles, Virginia – May 19-23 2014
 
-[[node-181]]
 Posted March 18, 2014 
 
-Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link://calconnect30.shtml and contains hotel booking information, locations, meeting venue, travel information, etc.
+Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:/calconnect30 and contains hotel booking information, locations, meeting venue, travel information, etc.
 
 Our meeting venue is AOL s Steve Crane Center at 22000 AOL Way, about 2 miles from Dulles International Airport.
 
@@ -28,19 +27,5 @@ Recently, the winning proposals were announced. One of the winning teams has acc
 
 The workshop is to discuss health care scheduling requirements, especially in the context of the Veterans  Administration Scheduling System challenge, to examine possible changes or additions to the standards and drafts to better support the scheduling for health care.
 
-Please contact us with any questions. We welcome observers and please note that you may register for the Workshop on Wednesday afternoon with no charge. &nbsp;
-
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
+Please contact us with any questions. We welcome observers and please note that you may register for the Workshop on Wednesday afternoon with no charge.
 

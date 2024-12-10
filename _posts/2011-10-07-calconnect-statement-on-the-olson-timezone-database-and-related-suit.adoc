@@ -9,7 +9,6 @@ excerpt: CalConnect has always been interested in timezone data because accurate
 
 == CalConnect Statement on the Olson Timezone Database and related suit
 
-[[node-244]]
 Posted October 7, 2011 
 
 CalConnect has always been interested in timezone data because accurate and timely timezone information is essential to calendaring and scheduling. We have done considerable work in the area and have always been impressed by the Olson volunteer team and Olson Database.
@@ -27,19 +26,6 @@ It is the opinion of CalConnect that the Timezone database MUST be re-instated, 
 _Basic information about the Olson Timezone Database and the lawsuit may be found on http://en.wikipedia.org/wiki/Tz_database[Wikipedia]._
 
 Dave Thewlis +
- Executive Director, CalConnect  The Calendaring and Scheduling Consortium
+Executive Director, CalConnect  The Calendaring and Scheduling Consortium
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/special-focus[Special Focus]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 

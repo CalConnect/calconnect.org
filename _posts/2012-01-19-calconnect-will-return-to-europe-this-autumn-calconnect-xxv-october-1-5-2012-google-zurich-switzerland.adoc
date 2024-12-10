@@ -9,7 +9,6 @@ excerpt: We are very pleased to announce that Google will host CalConnext XXV th
 
 == CalConnect will return to Europe this autumn: CalConnect XXV, October 1-5, 2012, Google, Zurich, Switzerland
 
-[[node-238]]
 Posted January 19, 2012 
 
 We are very pleased to announce that Google will host CalConnext XXV this autumn at their offices in Zurich, Switzerland, on October 1-5, 2012.
@@ -17,21 +16,10 @@ We are very pleased to announce that Google will host CalConnext XXV this autumn
 The schedule of coming events is:
 
 CalConnect XXIII January 30  February 3, 2012 Apple, Cupertino, California +
- CalConnect XXIV May 21-25, 2012 Patricia Egen Consulting, Chattanooga, Tennessee +
- CalConnect XXV October 1-5, 2012 Google, Zurich, Switzerland +
- CalConnect XXVI January 28  February 1, 2013 TBD +
- CalConnect XXVII June 3-7, 201 University of Wisconsin, Madison, Wisconsin +
- CalConnect XXVIII September 30  October 4, 2013 TBD
+CalConnect XXIV May 21-25, 2012 Patricia Egen Consulting, Chattanooga, Tennessee +
+CalConnect XXV October 1-5, 2012 Google, Zurich, Switzerland +
+CalConnect XXVI January 28  February 1, 2013 TBD +
+CalConnect XXVII June 3-7, 201 University of Wisconsin, Madison, Wisconsin +
+CalConnect XXVIII September 30  October 4, 2013 TBD
 
-
-
-Categories:&nbsp;
-
-link:/news/announcements[Announcements]
-
-link:/news/current-events[Current Events]
-
-link:/news/general-information[General Information]
-
-link:/news/the-world-of-calendaring[The World of Calendaring]
 
