@@ -20,7 +20,7 @@ happen:*
                     <div id="work-projects">
                         {% assign projects = site.about_pages | where_exp: "page", "page.path contains '/projects/'" %}
                         {% for project in projects %}
-                            <a href="{{ project.url }}">
+                            <a href="{{ project.url | relative_url }}">
                                 <h3>{{ project.title }}</h3>
                             </a>
                         {% endfor %}

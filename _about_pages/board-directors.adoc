@@ -3,6 +3,8 @@ layout: page
 title: The CalConnect Board of Directors
 type: about
 ---
+:page-liquid:
+
 == The CalConnect Board of Directors
 
 _As of November 2022_
@@ -25,7 +27,7 @@ the future.
 |===
 a|
 .Gershon Janssen
-image:/assets/images/Gershon%20Janssen_0.jpg[width=100,height=129]
+image:{{'/assets/images/Gershon%20Janssen_0.jpg' | relative_url }}[width=100,height=129]
 
 |*President, Chief Financial Officer, Director* +
 Gershon Janssen +
@@ -33,7 +35,7 @@ Term: July 2019 - July 2022
 
 a|
 .Ronald Tse
-image:/assets/images/Ronald%20Tse.jpg[width=100,height=100]
+image:{{'/assets/images/Ronald%20Tse.jpg' | relative_url }}[width=100,height=100]
 
 |*Vice President, Director of External Relationships* +
 Ronald Tse +
@@ -42,7 +44,7 @@ Term: July 2020 - July 2023
 
 a|
 .Rutger Geelen
-image:/assets/images/rutgergeelen_0.png[Rutger Geelen,width=100,height=101]
+image:{{'/assets/images/rutgergeelen_0.png' | relative_url }}[Rutger Geelen,width=100,height=101]
 
 |*Chair of the Board of Directors, Director* +
 Rutger Geelen +
@@ -51,7 +53,7 @@ Term: July 2020 - July 2023
 
 a|
 .Ken Murchison
-image:/assets/images/Ken%20Murchison.jpg[width=100,height=128]
+image:{{'/assets/images/Ken%20Murchison.jpg' | relative_url }}[width=100,height=128]
 
 |*Chair of the Technical Coordination Committee* +
 Kenneth Murchison +
@@ -60,7 +62,7 @@ Term: June 2019 - June 2022
 
 a|
 .Michael Douglass
-image:/assets/images/Douglass.jpg[width=100,height=133]
+image:{{'/assets/images/Douglass.jpg' | relative_url }}[width=100,height=133]
 
 a|
 *_Technical Architect_* +

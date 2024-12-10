@@ -3,7 +3,7 @@ layout: page
 title: Definitions of CalConnect Terms
 type: about
 ---
-
+:page-liquid:
 = Definitions of CalConnect Terms
 
 This is a short list of definitions of terms used throughout this
@@ -21,7 +21,7 @@ formed in non-technical areas.
 [#BoD]
 == Board of Directors
 
-The link:/about/board-directors[Board of Directors] consists of up to
+The link:{{'/about/board-directors' | relative_url }}[Board of Directors] consists of up to
 seven elected  Directors which may be but need not be representatives of
 CalConnect Members. The Board is responsible for the governance of The
 Calendaring and Scheduling Consortium, Inc. (that is, the corporation
@@ -61,7 +61,7 @@ CalConnect Conferences are where link:#PC[Provisional Committees] report on
 their findings and where link:#TC[Technical Committees] report on their work,
 hold discussions and resolve outstanding issues. Conferences also provide an
 opportunity to foster new work and ideas through BOFs and Workshops, and a
-general plenary session. See link:/conferences[CalConnect Conferences] for more
+general plenary session. See link:{{'/conferences' | relative_url }}[CalConnect Conferences] for more
 information.
 
 [#Consortium]
@@ -82,7 +82,7 @@ opportunities once again.
 
 == Member
 
-A link:/membership[Member] of CalConnect is normally an organization
+A link:{{'/membership' | relative_url }}[Member] of CalConnect is normally an organization
 (e.g. vendor, company, governmental organization, academic institution)
 except in the case of an Individual Member. Member Representatives are
 individuals from a member who represent their organization in CalConnect
@@ -92,7 +92,7 @@ the member when necessary.
 
 == Observer
 
-An link:/events/events-activities/observers[Observer] is an individual
+An link:{{'/events/events-activities/observers' | relative_url }}[Observer] is an individual
 from a non-member who is attending a link:#Conference[CalConnect
 Conference] to determine whether or not his or her organization should
 become a link:#Member[member]. An organization may send one or more
@@ -116,7 +116,7 @@ Obsolete name for a link:#Conference[CalConnect Conference].
 
 == Technical Committee (TC)
 
-link:/about/technical-committees[Technical Committees] are the
+link:{{'/about/technical-committees' | relative_url }}[Technical Committees] are the
 technical working groups of CalConnect. A Technical Committee is
 established with a specific charter (scope of work), time frame,
 deliverables and expected schedule, and is intended to disband when its

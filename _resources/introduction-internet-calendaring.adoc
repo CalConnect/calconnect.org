@@ -3,6 +3,7 @@ layout: page
 title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
+:page-liquid:
 
 = An Introduction to Internet Calendaring and Scheduling
 
@@ -257,7 +258,7 @@ introduced with Exchange 2007 which manages a proprietary data format.
 
 * [[[ref9,9]]] http://www.openmobilealliance.org/tech/affiliates/syncml/syncmlindex.html[SyncML]
 
-* [[[ref10,10]]] link:/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[Restful Web Services Protocol for Calendaring]
+* [[[ref10,10]]] link:{{'/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url }}[Restful Web Services Protocol for Calendaring]
 
 * [[[ref11,11]]] http://tools.ietf.org/id/draft-desruisseaux-ischedule-01.txt[Internet Calendar Scheduling Protocol]
 

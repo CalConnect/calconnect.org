@@ -4,6 +4,7 @@ title: Developer's Guides
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == Developer's Guides
 
@@ -14,7 +15,7 @@ The lack of useful developer's guides and other documentation about
 iCalendar, CalDAV, and other specifications is a problem for all current
 and would-be developers in calendaring and scheduling.
 
-link:/tc-devguide[TC DEVGUIDE] has been formed to address this
+link:{{'/tc-devguide' | relative_url }}[TC DEVGUIDE] has been formed to address this
 lack by creating a "cookbook" guide and other supporting materials for
 iCalendar and potentially other APIs such as CalDAV.
 

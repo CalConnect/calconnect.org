@@ -3,6 +3,8 @@ layout: page
 title:  CalConnect Public Discussion Lists
 type: resources
 ---
+:page-liquid:
+
 = CalConnect Public Discussion Lists
 
 _Last updated 18 October 2018_
@@ -35,7 +37,7 @@ all participants that agree to and adhere to the rules of use.
 
 == Calendaring and Scheduling Sysadmin List
 
-URL: link:/resources/discussion-lists/sysadmin-list[Calendaring and Scheduling Sysadmin List]
+URL: link:{{'/resources/discussion-lists/sysadmin-list' | relative_url }}[Calendaring and Scheduling Sysadmin List]
 
 The Calendaring and Scheduling Admin Mailing List
 (mailto:caladmin-l@lists.calconnect.org[caladmin-l@lists.calconnect.org]) exists
@@ -74,7 +76,7 @@ the rules of use.
 
 == Time Zone Discussion List
 
-link:/resources/discussion-lists/time-zone-discussion[*Time Zone Discussion List*]
+link:{{'/resources/discussion-lists/time-zone-discussion' | relative_url }}[*Time Zone Discussion List*]
 
 This list is intended for discussion on timezones, especially in
 calendaring and scheduling. A particular focus is on exchanging issues,

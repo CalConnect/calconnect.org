@@ -3,6 +3,7 @@ layout: page
 title: CalConnect Conferences
 type: events
 ---
+:page-liquid:
 
 == CalConnect Conferences
 
@@ -16,7 +17,7 @@ venue. Registration for the Conference is first-come, first-served.
 Although attendance at CalConnect Conferences is generally limited to
 CalConnect member representatives, a prospective member may send one or
 more
-link:/events/events-activities/observers[Observers]
+link:{{'/events/events-activities/observers' | relative_url }}[Observers]
 to a single Conference to determine whether or not it wishes to join.
 Observers pay the same registration fee as regular participants and may
 participate in all Conference activities, but may not vote.

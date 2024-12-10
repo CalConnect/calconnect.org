@@ -3,6 +3,8 @@ layout: page
 title: Event Reading Lists
 type: resources
 ---
+:page-liquid:
+
 = Event reading lists
 
 _Last Updated September 2019_
@@ -113,4 +115,4 @@ available prior to the event to all registrants.
 
 == Additional resources
 
-For additional reading, a more complete list of calendaring and scheduling specifications may be found at link:/resources/calendaring-standards[Calendaring Standards].
+For additional reading, a more complete list of calendaring and scheduling specifications may be found at link:{{'/resources/calendaring-standards' | relative_url }}[Calendaring Standards].
