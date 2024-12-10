@@ -52,7 +52,7 @@ available prior to the event to all registrants.
 
 == Calendar spam
 
-* Calendar Spam article from CalConnect website: link:/news/2017/01/30/calendar-spam
+* link:{{'/news/2017/01/30/calendar-spam' | relative_url }}[Calendar Spam article on CalConnect]
 
 == DAV-based resource sharing
 
