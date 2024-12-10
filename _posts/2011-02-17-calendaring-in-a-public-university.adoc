@@ -1,0 +1,38 @@
+---
+layout: page
+title: Calendaring in a Public University
+date: 2011-02-17
+type: news
+categories: current-events general-information special-focus the-world-of-calendaring
+excerpt: Associate Vice Chancellor for Information Technology and Chief Information Officer Shel Waggener (http://technology.berkeley.edu/cio/biography.html) addressed the CalConnect Roundtable XX attendees as part of the group’s tradition of having the host organization supply an overview of calendaring issues that are important to it. Shel touched on many aspects related to calendaring at the University of California, some unique to its role and composition as a public, heterogeneous institution and some where the University is experiencing calendaring pains now that will soon be experienced by many organizations.
+---
+
+== Calendaring in a Public University
+
+[[node-266]]
+Posted February 17, 2011 
+
+Associate Vice Chancellor for Information Technology and Chief Information Officer Shel Waggener (http://technology.berkeley.edu/cio/biography.html) addressed the CalConnect Roundtable XX attendees as part of the group s tradition of having the host organization supply an overview of calendaring issues that are important to it. Shel touched on many aspects related to calendaring at the University of California, some unique to its role and composition as a public, heterogeneous institution and some where the University is experiencing calendaring pains now that will soon be experienced by many organizations.
+
+Privacy issues are very important to university faculty members, while the ability to make reports and to respond to public information requests are also needs of public institutions as calendaring data becomes a more recognized part of the public record. Finding the right licensing model for software that will allow for an accurate estimate of its cost is also an issue as the cost of calendaring is often hidden when it s bundled with other systems.
+
+Access issues for systems will become increasingly complex and interoperability will be key as event attendees will be both internal and external to the originator s system. As Shel notes, The most important meetings are often with those outside one s own organization. The diverse computing platforms have always been a problem in providing an effective calendaring platform; now that problem is being compounded with the proliferation of mobile devices. Interoperability will be a requirement as these devices evolve.
+
+Shel s presentation may be found at link:/docs/Calendaring%20in%20a%20Public%20University.pdf[].
+
+Mimi Mugler +
+ UC Berkeley Calendar Administrator +
+ University of California Primary Representative to CalConnect
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

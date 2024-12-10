@@ -1,0 +1,73 @@
+---
+layout: page
+title: Interoperability Testing at CalConnect XXVI, January 28-30, 2013
+date: 2012-11-16
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: The Interoperability Test Event will take place all day Monday and Tuesday, January 28-29, and Wednesday morning January 30th during CalConnect XXVI, hosted by Oracle in Santa Clara, California. For information about event logistics please see link://calconnect26.shtml.
+---
+
+== Interoperability Testing at CalConnect XXVI, January 28-30, 2013
+
+[[node-219]]
+Posted November 16, 2012 
+
+The Interoperability Test Event will take place all day Monday and Tuesday, January 28-29, and Wednesday morning January 30th during CalConnect XXVI, hosted by Oracle in Santa Clara, California. For information about event logistics please see link://calconnect26.shtml[].
+
+At this point we are planning testing in the following areas (Updated 30 November 2012):
+
+* CalDAV testing:
++
+
+** access (basic operations of CalDAV)
+** scheduling
+** sync report
+** mobile
+** managed attachments
+** sharing
+* iSchedule:
++
+
+** Server discovery
+** DKIM security  latest changes for header normalization
+* Timezone:
++
+
+** Service Protocol (new JSON spec)
+** Timezones by Reference
+* VPOLL initial testing
+* Autodiscovery protocol
+* iCalendar:
++
+
+** richtext properties (and hashing)
+** iTIP/iMIP
+** jCal, the JSON Format for iCalendar
+** xCal, the XML Format for iCalendar
+* CardDAV testing:
++
+
+** generic
+** Sync report
+** mobile
+** vcard 4?
+* CalWS-REST and CalWS-SOAP, the web services protocols for iCalendar and WS-Calendar
+
+In addition, participants may have other areas they wish to test and we will be happy to include them in our planning; the test event registration form provides a place to indicate what you want to test. In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs.
+
+Your organization need not be a member of CalConnect to participate in an Interoperability Test Event.
+
+The information page for the Interoperability Test event is at link://iop1301.shtml[]. This page also includes any updates to the planned or confirmed testing areas since this blog post.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

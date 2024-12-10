@@ -1,0 +1,30 @@
+---
+layout: page
+title: Calling All Calendaring Clients – particularly those in Europe
+date: 2012-09-09
+type: news
+categories: announcements current-events special-focus
+excerpt: We would like to send a special invitation to folks with calendaring and scheduling clients to attend CalConnect XXV in Zurich on October 1-5, 2012, and participate in the Interoperability Testing. There will be a number of CalDAV servers begin tested at the event, and this is a unique opportunity for European organizations (or inidividuals) to test with iCal server, Bedework, Kerio, Google, SabreDAV, and so forth. We’ve listed the primary focus of the testing on the Interoperability Test Event web page, but if you are interested in testing something else, or simply testing with as many servers as possible, that can certainly be arranged.
+---
+
+== Calling All Calendaring Clients – particularly those in Europe
+
+[[node-226]]
+Posted September 9, 2012 
+
+We would like to send a special invitation to folks with calendaring and scheduling clients to attend http://wp.me/prYbR-8h[CalConnect XXV] in Zurich on October 1-5, 2012, and participate in the Interoperability Testing. There will be a number of CalDAV servers begin tested at the event, and this is a unique opportunity for European organizations (or inidividuals) to test with iCal server, Bedework, Kerio, Google, SabreDAV, and so forth. We ve listed the primary focus of the testing on the link://iop1210.shtml[Interoperability Test Event web page], but if you are interested in testing something else, or simply testing with as many servers as possible, that can certainly be arranged.
+
+We are offering a special combined fee of $350 per person for this event which will cover both the Interoperability Test Event and the Technical Conference (or either one), for first-time attendees at CalConnect. You can find out more about this event at the link://calconnect25.shtml[CalConnect XXV Logistics] page.
+
+CalConnect XXV is only three weeks away, so it s time to start planning now. If you have any questions, please contact us at mailto:contact@calconnect.org[Contact CalConnect]. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+

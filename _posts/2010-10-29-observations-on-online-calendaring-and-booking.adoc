@@ -1,0 +1,37 @@
+---
+layout: page
+title: Observations on “Online calendaring and booking”
+date: 2010-10-29
+type: news
+categories: current-events special-focus the-world-of-calendaring
+excerpt: A recent (October 25th) post in the CalendarReview blog, “Online calendaring and online booking”, discusses connecting user-based interfaces (such as ‘shopfronts’, customer-to-business incarnations, and the not yet pervasive “appointment search engines”) and booking or calendaring systems, to provide for generalized booking for medical appointments, tennis courts, auto repair, etc. The author, a developer at ClickBook, goes on to say he has developed a draft document for a web-service based API, and concludes with “I don’t know if this issue has been raised at CalConnect, but it should.”
+---
+
+== Observations on “Online calendaring and booking”
+
+[[node-276]]
+Posted October 29, 2010 
+
+A recent (October 25th) post in the CalendarReview blog, Online calendaring and online booking, discusses connecting user-based interfaces (such as shopfronts , customer-to-business incarnations, and the not yet pervasive appointment search engines) and booking or calendaring systems, to provide for generalized booking for medical appointments, tennis courts, auto repair, etc. The author, a developer at ClickBook, goes on to say he has developed a draft document for a web-service based API, and concludes with I don t know if this issue has been raised at CalConnect, but it should.
+
+Interesting stuff, and not outside the purview of CalConnect. In fact, variants of this concept have been raised several times in various CalConnect technical committees, often in the context of calendaring as a platform, with a generalized API externalizing calendaring services to any process which wishes to use them.
+
+CalConnect has been working in related areas, in particular the XML representation of iCalendar (xCal), and a web-services API for calendaring operations (CalWS). It is essential that the base calendaring standards such as iCalendar and iTIP be able to support these functions, via new extensions such as VPOLL and VAVAILABILITY. It is also essential that these mechanisms are interoperable and work between calendaring and scheduling systems and platforms as a natural growth of traditional calendaring and scheduling functions, hence the iSchedule proposal for HTTP-based iTIP.
+
+CalConnect would be delighted to see more direct involvement from organizations such as ClickBook who are attempting to expand traditional calendaring and scheduling into new functions and capabilities. In fact, CalConnect needs vendors such as ClickBook.
+
+We would welcome their membership and participation in our technical work, and in participation in our interoperability test events. Don t just speculate about what CalConnect is doing  be an active participant in what CalConnect is doing.
+
+Gary Schwartz +
+ President, The Calendaring and Scheduling Consortium
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

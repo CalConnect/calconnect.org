@@ -1,0 +1,42 @@
+---
+layout: page
+title: Virtual Session CalDAV Standards, Implementation, Q&A
+date: 2022-02-17
+type: news
+categories: the-world-of-calendaring special-focus current-events announcements
+excerpt: Virtual Session:  CalDAV Standards, Implementation, Q&A -- 3 MARCH 2022
+---
+
+== Virtual Session:  CalDAV Standards, Implementation, Q&A
+
+[[node-555]]
+Posted February 17, 2022 
+
+*Virtual Session:&nbsp; CalDAV Standards, Implementation, Q&A -- 3 MARCH 2022*
+
+CalConnect is planning a virtual session via Zoom to provide some assistance and information for developers working on implementations of CalDAV.
+
+In attendance we will have developers who have been working on the protocol almost since the beginning and those working on newer implementations. We hope to provide answers to some of the problems developers may be facing and also provide information about standards and current practice - some of which is undocumented.
+
+The session&nbsp; is planned for *3-4 hours starting at 11am Eastern on March 3rd* with a short break. +
+ . +
+ It will start with a brief run through of the relevant standards followed by describing the unwritten parts of the protocol and current practice. This should take 30-45 minutes.
+
+Following that we will discuss any issues raised in advance and any topics that come up during the session.
+
+If you plan on attending please email mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org] to receive connection details.
+
+There is no fee for attending this session.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/current-events[Current Events]
+
+link:/news/announcements[Announcements]
+

@@ -1,0 +1,52 @@
+---
+layout: page
+title: CalConnect Returns to Europe this October
+date: 2012-06-22
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: Registration has now opened for CalConnect XXV, which will take place in Zurich, Switzerland on October 1-5, hosted by Google. Logistics information and a very preliminary schedule may be found at link://calconnect25.shtml.
+---
+
+== CalConnect Returns to Europe this October
+
+[[node-230]]
+Posted June 22, 2012 
+
+Registration has now opened for CalConnect XXV, which will take place in Zurich, Switzerland on October 1-5, hosted by Google. Logistics information and a very preliminary schedule may be found at link://calconnect25.shtml[link://calconnect25.shtml].
+
+As usual, the week will consist of a 2.5 day Interoperability Test Event, followed by 2.5 day Roundtable Technical Conference. Separate registration is required for each; however, CalConnect is offering an introductory rate for first-time attendees from non-members, of $350 per person for the test event and the conference (or either, if you can t be with us for the entire week).
+
+As with last autumn s event in Prague, we expect to offer special programming Thursday and Friday mornings and have the regular conference sessions in the afternoons. We hoe to offer symposia and possibly an interoperability workshop intended for those not participating in the interoperability test event. More information about the conference, symposia and workshop will be posted as it becomes available.
+
+Our current plan for interoperability testing incudes:
+
+*Definitely will be tested*
+
+CalDAV
+
+* CalDAV Access
+* CalDAV Scheduling
+* Calendar Sharing
+* Default Alarms, Snoozed Alarms, Alarms Dismissal
+* Notifications
+
+iSCHEDULE
+
+*Will be tested if at least two participants interested*
+
+* WS-Calendar (CalWS-SOAP/REST)
+* iMIP
+* CalDAV Managed Attachments
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

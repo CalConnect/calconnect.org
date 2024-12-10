@@ -1,0 +1,26 @@
+---
+layout: page
+title: Report on Roundtable XVIII
+date: 2010-06-04
+type: news
+categories: announcements current-events general-information
+excerpt: A brief report on Roundtable XVIII, hosted by Carnegie Mellon University in Pittsburgh, Pennsylvania, May 24-28, 2010, has been posted to the website. This report gives an overview of the Roundtable, and the regular and mobile calendaring interoperability test events which preceded it.  
+---
+
+== Report on Roundtable XVIII
+
+[[node-298]]
+Posted June 4, 2010 
+
+A brief report on link://roundtable18rpt.shtml[Roundtable XVIII], hosted by Carnegie Mellon University in Pittsburgh, Pennsylvania, May 24-28, 2010, has been posted to the website. This report gives an overview of the Roundtable, and the regular and mobile calendaring interoperability test events which preceded it. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

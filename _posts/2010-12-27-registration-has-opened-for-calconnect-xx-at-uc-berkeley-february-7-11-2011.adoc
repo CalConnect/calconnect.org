@@ -1,0 +1,40 @@
+---
+layout: page
+title: Registration has opened for CalConnect XX at UC Berkeley, February 7-11 2011
+date: 2010-12-27
+type: news
+categories: announcements current-events general-information
+excerpt: Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link://calconnect20.shtml for logistics and registration information for the Roundtable and for the Interoperability Test Events.
+---
+
+== Registration has opened for CalConnect XX at UC Berkeley, February 7-11 2011
+
+[[node-272]]
+Posted December 27, 2010 
+
+Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link://calconnect20.shtml for logistics and registration information for the Roundtable and for the Interoperability Test Events.
+
+Note that we will be conducting both a regular Interoperability Test Event and a Mobile Calendaring Interoperability Test Event on February 7-9, 2011. More information about the regular IOP Test Event is at link://iop1102.shtml[]. Information about the Mobile Calendaring IOP Test Event is at link://miop1102.shtml[].
+
+The meeting venue will be in in Barrows Hall on the University of California, Berkeley, Campus. The logistics page includes a map of the area (including the location of the meeting venue and hotels).
+
+The Conference Hotel will be the Shattuck Plaza Hotel in Berkeley. The hotel is within walking distance of the campus and the venue, and is 1/2 block from BART, the Bay Area Rapid Transit system, which serves both San Francisco International Airport and Oakland International Airport. CalConnect has a special discount on the lowest available rate for this event. .
+
+Berkeley is served by the San Francisco, Oakland, and San Jose International Airports; public transportation via the BART metro system is available from San Francisco and Oakland as mentioned above. Information about the airports and available ground transportation is available on the logistics page.
+
+We will be announcing additional and special sessions of interest as more material becomes available. At this time, while the general schedule is set, we cannot guarantee that the specific dates and times set on the logistics page for each TC will not change.
+
+Organizations interested in CalConnect but not members are welcome to attend the Roundtable as observers. See link://observer.shtml for more information.
+
+Organizations are welcome to particiate in the Interoperability Test Events whether or not they are CalConnect members. Please note that the registration fee for the IOP Test Events covers both the regular and mobile calendaring events, which are held in parallel.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

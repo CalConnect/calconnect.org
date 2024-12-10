@@ -1,0 +1,34 @@
+---
+layout: page
+title: New Properties for iCalendar Announced as RFC 7986
+date: 2016-10-28
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: The IETF has announced that New Properties for iCalendar, a CalConnect specification submitted to the IETF, has been approved and published as RFC 7986.  This document defines a set of new properties for iCalendar data and extends the use of some existing properties to the entire iCalendar    object.
+---
+
+== New Properties for iCalendar Announced as RFC 7986
+
+[[node-421]]
+Posted October 28, 2016 
+
+The IETF has announced that New Properties for iCalendar, a CalConnect specification submitted to the IETF, has been approved and published as RFC 7986.&nbsp; This document defines a set of new properties for iCalendar data and extends the use of some existing properties to the entire iCalendar &nbsp;&nbsp; object.
+
+RFC 7986, New Properties for iCalendar,&nbsp; https://tools.ietf.org/html/rfc7986 was developed in conjunction with multiple Technical Committees.&nbsp; Following submission to the IETF it was subsequently adopted by the IETF CALEXT workng group and progressed to final submission.&nbsp;
+
+CalConnect contratulates everyone who participated in this work over the years since its inception, and everyoine who participated in the CALEXT Working Group at the IETF.
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

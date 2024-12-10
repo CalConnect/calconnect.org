@@ -1,0 +1,36 @@
+---
+layout: page
+title: Registration is now open  for CalConnect XL Cologne, Germany, September 25-29, 2017, hosted by Open-Xchange
+date: 2017-07-20
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: The CalConnect XL web page is located at https://www.calconnect.org/events/calconnect-xl-september-25-29-2017  and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.
+---
+
+== Registration is now open  for CalConnect XL Cologne, Germany, September 25-29, 2017, hosted by Open-Xchange
+
+[[node-450]]
+Posted July 20, 2017 
+
+The CalConnect XL web page is located at https://www.calconnect.org/events/calconnect-xl-september-25-29-2017&nbsp; and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.
+
+The&nbsp; meeting venue is http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 KÃ¶ln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park].&nbsp; The conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am KÃ¼mpchenshof 2, 50670 KÃ¶ln.&nbsp;
+
+The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon.&nbsp; The Conference will begin Wednesday after lunch and run through Friday afternoon.
+
+We will be posting schedules and agenda as soon as possible on the event web page, and expect that they may evolve over time.
+
+Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

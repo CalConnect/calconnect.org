@@ -1,0 +1,28 @@
+---
+layout: page
+title: TC MOBILE Interoperability Test Event Report published
+date: 2010-09-10
+type: news
+categories: announcements general-information member-focus special-focus
+excerpt: The TC MOBILE Interoperability Event Report discussing the May 2010 Interoperability Test Event has been published. This report offers a broad public overview of the Mobile Calendar Interoperability Test Event and is complementary to the regular CalConnect Interoperability Test Event May 2010 Public Report. Please see TC MOBILE Interoperability Test Event Report.
+---
+
+== TC MOBILE Interoperability Test Event Report published
+
+[[node-288]]
+Posted September 10, 2010 
+
+The TC MOBILE Interoperability Event Report discussing the May 2010 Interoperability Test Event has been published. This report offers a broad public overview of the Mobile Calendar Interoperability Test Event and is complementary to the regular CalConnect Interoperability Test Event May 2010 Public Report. Please see link:/docs/CD1010%20TC%20MOBILE%20Interoperability%20Test%20Event%20Report.pdf[TC MOBILE Interoperability Test Event Report].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-focus[Member Focus]
+
+link:/news/special-focus[Special Focus]
+

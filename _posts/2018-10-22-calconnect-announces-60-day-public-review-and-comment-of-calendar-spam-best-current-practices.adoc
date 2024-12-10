@@ -1,0 +1,39 @@
+---
+layout: page
+title: CalConnect Announces 60 Day Public Review and Comment of Calendar Spam Best Current Practices
+date: 2018-10-22
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is putting the final draft of its Best Current Practices document out for a 60 day public review and comment.  We encourage anyone interested to review the document and to make any comments or suggestions via the public comment mailing list.  All comments will be reviewed by the technical committee and will be responded to, and adopted where appropriate.   The Public Review ends as of midnight UTC 23 December 2018. 
+---
+
+== CalConnect Announces 60 Day Public Review and Comment of Calendar Spam Best Current Practices
+
+[[node-491]]
+Posted October 22, 2018 
+
+TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is putting the final draft of its Best Current Practices document out for a 60 day public review and comment.&nbsp; We encourage anyone interested to review the document and to make any comments or suggestions via the public comment mailing list.&nbsp; All comments will be reviewed by the technical committee and will be responded to, and adopted where appropriate.&nbsp;&nbsp; *The Public Review ends as of midnight UTC 23 December 2018*.&nbsp;
+
+To review the Best Current Practices document, please see https://www.calconnect.org/sites/default/files/csd-bp_calendarspam.pdf[].&nbsp; This is a publicly available URL and requires no access credentials.
+
+If you wish to make any comments, please do so on our link://resources/discussion-lists/public-review-and-comment[Public Comment Mailing List]. &nbsp; To use this list you must http://lists.calconnect.org/listinfo.cgi/pubcomment-l-calconnect.org[register for an id] on the list, which should be approved within 24 hours.&nbsp; Once you are approved, you will be able to post to the list.&nbsp; (Your id will remain on the list, so you will be able to comment on future public review & comment documents from CalConnect as well.)
+
+Thank you for helping us make the Calendar Spam BCP the best can be.
+
+For the Calendar Spam Technical Committee,
+
+Thomas SchÃ¤fer, 1&1 Mail&Media Development and Technology GmbH +
+ Chair, TC-CALSPAM
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

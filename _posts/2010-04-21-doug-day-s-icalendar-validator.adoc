@@ -1,0 +1,28 @@
+---
+layout: page
+title: Doug Day’s iCalendar Validator
+date: 2010-04-21
+type: news
+categories: announcements general-information special-focus the-world-of-calendaring
+excerpt: Doug Day has provided an iCalendar Validator which will validate calendaring data against the iCalendar (RFC 5545) standard. See http://icalvalid.cloudapp.net/. 
+---
+
+== Doug Day’s iCalendar Validator
+
+[[node-303]]
+Posted April 21, 2010 
+
+Doug Day has provided an iCalendar Validator which will validate calendaring data against the iCalendar (RFC 5545) standard. See http://icalvalid.cloudapp.net/[].&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

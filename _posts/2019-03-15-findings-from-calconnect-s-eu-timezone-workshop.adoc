@@ -1,0 +1,40 @@
+---
+layout: page
+title: Findings from CalConnect's EU Timezone workshop
+date: 2019-03-15
+type: news
+categories: press-releases
+excerpt: CalConnect held a timezone workshop on February 5th 2019, in conjunction with its meeting in Zurich. This workshop was initiated to discuss the EU's proposal allowing member states the option to select permanently remain on either "Standard Time" or "Summer Time", addressing issues of governance and challenges of technical implementation. Workshop attendees represented a number of major vendors and the IANA tz database. 
+---
+
+== Findings from CalConnect's EU Timezone workshop
+
+[[node-503]]
+Posted March 15, 2019 
+
+CalConnect held a timezone workshop on February 5th 2019, in conjunction with its meeting in Zurich. This workshop was initiated to discuss the EU's proposal allowing member states the option to select permanently remain on either "Standard Time" or "Summer Time", addressing issues of governance and challenges of technical implementation. Workshop attendees represented a number of major vendors and the https://www.iana.org/time-zones[IANA tz database].&nbsp;
+
+Discussions revolved around three central themes:
+
+* Governance, wherein a governing body communicates change decisions in a timely and well-ordered manner to the maintainers of time zone information.
+* Distribution of time zone updates to devices and systems using this data.
+* Education of developers, data keepers, and administrators about how to deal with time zone information and its impact on business operations.
+
+Currently there is no structured way for a government's decisions about timezone changes to be propogated to maintainers of timezone data. Changes are typically collated from crowdsourced information such as newspaper reports and legal documents and manually transcribed into the timezone databases used worldwide. An upcoming effort within the International Standards Organization (ISO) seeks to define a standard and registry for advanced notification of timezone changes; CalConnect is involved in this work an ISO liaison.
+
+Updates to timezone information are commonly distrubted by copying timezone databases to devices and systems. A given system may have multiple copies of timezone information across its operating system, runtimes, and database systems, requiring a reboot in order for changes to take effect. Vendors and operators struggle to balance timely delivery against qualification and quality testing.&nbsp;
+
+Given the lack of structured formats and rigorous propagation mechanisms, much of the work in tracking changes and additions is a volunteer effort. These issues led to the development of the Time Zone Data Distribution Standard (https://tools.ietf.org/rfc/rfc7808.txt[RFC 7808]) and Time Zone Information Format (https://tools.ietf.org/rfc/rfc8536.txt[RFC 8536]) standards. However, these standards have yet to be meaningfully adopted.
+
+In a previous https://www.calconnect.org/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes[statement released 2018-10-30], CalConnect urges the EU to provide a transition period of at least one year (12 months) following a final decision.&nbsp; This guidance draws upon CalConnect's extensive work during the United States debate of 2005-2008 regarding changes to the Daylight Saving Time start and end dates, and the lessons learned from that transition.
+
+A complete account of CalConnect's 2019 meeting in Zurich is available at https://standards.calconnect.org/csd/csd-report-conference-44.html[standards.calconnect.org].
+
+CalConnect, The Calendaring & Scheduling Consortium, is comprised of technology vendors and end-user organizations focused on the areas of date and time, calendaring, and scheduling.&nbsp; It pursues the wide availability of truly interoperable collaboration tools through the use of open standards.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/taxonomy/term/17[Press Releases]
+

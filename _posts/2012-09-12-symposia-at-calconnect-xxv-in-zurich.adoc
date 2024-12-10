@@ -1,0 +1,60 @@
+---
+layout: page
+title: Symposia at CalConnect XXV in Zurich
+date: 2012-09-12
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: Please note that the Thursday and Friday 1030-1200 sessions have been exchanged; Calendaring Futures is now on Thursday and Best Practices on Friday.
+---
+
+== Symposia at CalConnect XXV in Zurich
+
+[[node-225]]
+Posted September 12, 2012 
+
+_Please note that the Thursday and Friday 1030-1200 sessions have been exchanged; Calendaring Futures is now on Thursday and Best Practices on Friday._
+
+In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 4th and 5th. These sessions are covered by the Roundtable Conference registration fee and are open to all registered participants.
+
+The Symposia Chairs, presenters and discussion leaders will be principal authors of key calendaring and scheduling specifications such as CalDAV, xCal, and CalWS, and are major contributors to leading calendaring and scheduling applications.
+
+*Improving the web calendaring experience for end users (Thursday 0830-1000)*
+
+This session will examine problems related to publishing calendars on the web, and discuss possible solutions. Key issues include: improving the user experience so that subscribing to web calendars can be more seamless than today; more timely updating of calendar data; integration with other types of data; improved discovery of available calendars. We will examine previous work in this area by CalConnect, as well as discuss experiences of session participants. We will also examine areas of calendaring not covered by existing CalConnect participants (such as travel sites, social networking, party planning etc). Our goal is to determine if there is useful work for CalConnect to do in this area, including whether there are other organizations we should be talking to and trying to involve in this process.
+
+*Calendaring Futures and CalConnect directions (Thursday 1030-1200)*
+
+CalConnect is now in its 8th year of operation. Over that period, there have been many changes in the calendaring and scheduling world:
+
+1. Calendaring s center has shifted from the fat desktop client to the web and mobile. +
+ 2. Many new vendors have entered the market place, and others have been transformed through corporate consolidations. +
+ 3. Great progress has been made in calendaring standards, while at the same proprietary API s have risen in number and importance. +
+ 4. Internationalization/localization are more important than ever but the standards have not significantly addressed the relevant issues. +
+ 5. Social networking, hardly on the radar at all in 2004, is now a dominant integration point with calendaring. +
+ 6. Geolocation is a foundation of many apps and applications but not sufficiently addressed by calendaring standards. +
+ 7. What we call rich text but will soon simply refer to as content is everywhere except in the calendaring standards.
+
+CalConnect s mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing. To best fulfill this mission, CalConnect needs to take stock of what has taken place in calendaring over the last ten years, and to try to divine what that augurs for the future.
+
+We will discuss where calendaring has been and where is calendaring going, What needs to change in the standards to support and promote the interoperable calendaring environment of 2012 and beyond, the tension between proprietary API s and calendaring standards, and finally what does CalConnect need to do to continue to provide value to the calendaring developers, and perhaps most importantly, the end users of calendaring.
+
+*Internationalization/Localization for calendaring data (Friday 0830-1000)*
+
+Calendar data has to exist across language and locale boundaries. Many places require calendar data published in multi-languages to satisfy the needs of their consumers. There are three parts to this: the process of creating multi-lingual calendar data (handler by a content producer ); the process by which producers  send their data to content publishers  who may aggregate data from many sources; and the process by which content consumers  can select the appropriate data to retrieve. Each of these three processes has different requirements for how multi-lingual calendar data is manipulated. Our goal is to determine these requirements and see where current standards are lacking and propose solutions.
+
+*Best practices for publishing iCalendar data to ensure optimum interoperability (Friday 1030-1200)*
+
+This session will examine the event publication process with a specific view of how to create calendar data to ensure optimally interoperability with the plethora of calendar user agents that exist today. In particular, we will pay attention to issues such as timezone information, recurring events, referencing external data (such as tickets, ancillary locations  e.g. parking, etc). Our goal is to put together a CalConnect white paper outlining best practices for publishing calendar data either directly to end users or on the web.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

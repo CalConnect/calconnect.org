@@ -1,0 +1,36 @@
+---
+layout: page
+title: Patricia Egen, An Appreciation
+date: 2020-09-18
+type: news
+categories: the-world-of-calendaring special-focus announcements
+excerpt: Patricia Egen passed away on September 15, 2020.
+---
+
+== Patricia Egen, An Appreciation
+
+[[node-533]]
+Posted September 18, 2020 
+
+Patricia Egen passed away on September 15, 2020.
+
+Pat s contributions to CalConnect were wide-ranging. Pat had the original idea that became CalConnect, was a founder and board member, and ran our testing events for many years. She served as a director, hosted CalConnect's IT infrastructure, and coordinated CalConnect XXIX in her hometown of Chatanooga, TN. Pat was recognized as the second recipient of our Distinguished Service Award.
+
+Founding member Cyrus Daboo recalls, Pat was a great champion for everything CalConnect is about. Her involvement in the IETF Calendaring work led to CalConnect and the important work we have done. She was such a great advocate for customers of calendaring solutions and such an encouragement to developers - pushing us to always do a better job through our interop events. I very much enjoyed working with her whilst she was active in CalConnect, and it was fun meeting and chatting with her three times a year at our meetings. She will be missed.
+
+In the late 1990s, as calendaring and scheduling standards were immature or nonexistent, Pat became involved with the IETF. She co-chaired the CALSCH working group, wherein she organized their initial interoperability testing efforts. Pat, Pam Taylor, and Dave Thewlis later incorporated CalConnect to continue work on the nascent standards, and to resume interoperability testing.
+
+Pat served as CalConnect s first manager of Interoperability Testing, enacting the founders' vision of an egalitarian partnership between vendors of calendaring & scheduling products, and users of those products. It was sometimes comical to observe Pat trying to coax, cajole, or compel the participating developers to provide coherent accountings of the event for the final event report. Pat could be direct, as she preferred action to prolonged discussion, but she was also gracious and generous.
+
+CalConnect remembers Pat fondly. We extend our condolences and best wishes to her family.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/announcements[Announcements]
+

@@ -1,0 +1,32 @@
+---
+layout: page
+title: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 published
+date: 2013-01-10
+type: news
+categories: announcements current-events general-information
+excerpt: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 has been published as a CalConnect Proposal by the XML Technical Committee. This document defines a SOAP protocol implementation of the abstract Web Services API for Calendaring.
+---
+
+== CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 published
+
+[[node-216]]
+Posted January 10, 2013 
+
+link:/docs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf[CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0] has been published as a CalConnect Proposal by the XML Technical Committee. This document defines a SOAP protocol implementation of the abstract Web Services API for Calendaring.
+
+This protocol has been contributed to OASIS WS-CALENDAR as a component of the WS-CALENDAR Specification under development by OASIS.
+
+_CalConnect and OASIS have agreed that any future work by CalConnect TC XML or OASIS WS-Calendar (or other committees in CalConnect and OASIS) on their respective versions of CalWS will be harmonized to maintain consistency between the versions. CalConnect and OASIS reserve the right to jointly and formally agree to fork the specifications at some point in the future if need arises.&nbsp;_
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

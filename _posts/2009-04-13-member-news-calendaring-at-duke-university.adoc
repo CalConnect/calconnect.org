@@ -1,0 +1,34 @@
+---
+layout: page
+title: Member News – Calendaring at Duke University
+date: 2009-04-13
+type: news
+categories: member-news the-world-of-calendaring
+excerpt: During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they’re doing, the following are stories about their calendaring efforts.
+---
+
+== Member News – Calendaring at Duke University
+
+[[node-344]]
+Posted April 13, 2009 
+
+During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they re doing, the following are stories about their calendaring efforts.
+
+http://www.news.duke.edu/2009/03/bedework.html A number of universities that have implemented, or are implementing, the http://www.bedework.org/bedework/[Bedework] software as their event calendars have been collaborating as they discover they share many of the same functional requirements for a public event calendar.
+
+http://news.duke.edu/2009/01/buzz.html Using the same Bedework software used for its institutional calendar, Duke launches an event calendar for students.
+
+http://news.duke.edu/2009/02/widgets.html Facebook and Google calendar widgets add new functionality to Duke s event calendars.
+
+http://news.duke.edu/2009/03/mobileinternal.html Duke introduces customized applications, including its public events calendar, for mobile devices
+
+http://www.oit.duke.edu/web-multimedia/web/calendar/ Website provides Duke departments and calendar admins with tools for generating and consuming RSS and XML files of events from its calendars.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/member-news[Member News]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

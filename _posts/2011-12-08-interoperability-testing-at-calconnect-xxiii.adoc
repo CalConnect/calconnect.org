@@ -1,0 +1,55 @@
+---
+layout: page
+title: Interoperability Testing at CalConnect XXIII
+date: 2011-12-08
+type: news
+categories: announcements current-events general-information
+excerpt: Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
+---
+
+== Interoperability Testing at CalConnect XXIII
+
+[[node-240]]
+Posted December 8, 2011 
+
+Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
+
+Testing scenarios at this event will continue to evolve but at this point we are looking at the following possibilities:
+
+¢ CardDAV testing +
+ ¢ iCalendar/iMIP/iTIP testing +
+ ¢ CalDAV testing, especially CalDAV Scheduling +
+ ¢ CalDAV/CardDAV SRV Discovery and Well-Known URI +
+ ¢ WebDAV Sync Report for CalDAV and CardDAV +
+ ¢ Timezone Service Protocol and Timezones by Reference +
+ ¢ xCal, the XML Format for iCalendar +
+ ¢ Task Scheduling +
+ ¢ (from client side typically don t have organizers and attendees) +
+ ¢ Extended query +
+ ¢ Recurring tasks for alarms and regeneration +
+ ¢ Timerange query with no DTSTART and DUE +
+ ¢ CalWS-REST and CalWS-SOAP, the web services protocols for calendar +
+ ¢ iSchedule (new draft planned by testing event) +
+ ¢ Mobile CalDAV client/server testing +
+ ¢ If there is interest, synchronization testing for mobile clients in general
+
+What we actually do test will depend on who registers, and what (and with whom) they wish to test, so early registration for the test event would be appreciated.
+
+Additionally, we are offering two special BOF sessions during the the Interoperability Test Event over lunch on Monday and Tuesday the 30th and 31st.
+
+These BOFs will be focused on implementation issues of interest to calendar developers. Monday will be on Updating versus Replacement of Calendar Data; Tuesday will be on Auto-discovery and Account Provisioning.
+
+The information page for the Interoperability Test event is at link://iop1201.shtml[]. For a short descripttion of the BOFs at the test event please see link://iop1201.shtml#bofs[].
+
+For general information and logistics about CalConnect XXIII, please see link://calconnect23.shtml[].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

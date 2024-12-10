@@ -1,0 +1,74 @@
+---
+layout: page
+title: CalConnect Consensus Scheduling Workshop – January 30, 2013, at CalConnect Roundtable XXVI
+date: 2012-12-13
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: CalConnect, the Calendaring & Scheduling Consortium (link:/), will hold an open Workshop on Consensus Scheduling in conjunction with its member meeting, Roundtable XXVI, on Wednesday afternoon, 30 January, 2013, at Oracle Corporation in Santa Clara.
+---
+
+== CalConnect Consensus Scheduling Workshop – January 30, 2013, at CalConnect Roundtable XXVI
+
+[[node-218]]
+Posted December 13, 2012 
+
+CalConnect, the Calendaring & Scheduling Consortium (link:/), will hold an open Workshop on Consensus Scheduling in conjunction with its member meeting, Roundtable XXVI, on Wednesday afternoon, 30 January, 2013, at Oracle Corporation in Santa Clara.
+
+This workshop will examine the state of the art with respect to consensus scheduling, and explore directions to integrate consensus scheduling into calendaring and scheduling standards and products, to enable interoperability and make consensus scheduling part of the full functionality of calendaring&nbsp;and scheduling products. There will be a presentation and discussion on CalConnect s work in progress on VPOLL, a proposed new component for iCalendar in support of consensus scheduling.
+
+*Participation in the workshop is open to interested individuals and organizations, regardless of whether or not they work for CalConnect members, and whether they are otherwise registered for the CalConnect Roundtable or Interoperability Test&nbsp;Event.* No fee will be charged for attending the workshop; however you will need to register in advance unless you have registered for the Roundtable, as space is limited.
+
+Attendees are invited to attend the CalConnect Roundtable as observers, or to consider participating in the CalConnect Interoperability Test Event in the first half of the week.
+
+*Tentative Agenda:* +
+ 1. Introduction  about CalConnect and about Consensus Scheduling +
+ 2. Participants lightning talks and discussion  vendors, experience as a user, user requirements or wishlists, etc. +
+ 3. Review of existing products +
+ 4. Review of CalConnect proposal +
+ &nbsp; &nbsp; a. Use cases (what is in scope, out of scope) +
+ &nbsp; &nbsp; b. Technical solution  VPOLL +
+ &nbsp; &nbsp; c. Interaction with CalDAV +
+ 5. Conclusion  what to do from here +
+ &nbsp; &nbsp; a. How to further promote the VPOLL work +
+ &nbsp; &nbsp; b. VPOLL testing at the next Interoperability Test Event
+
+*Venue:*
+
+The meeting will be held at the Oracle campus in Santa Clara, California as part of CalConnect Roundtable XXVI: &nbsp;4040 Palm Drive, Santa Clara, California 95054.&nbsp;We will be in Building 23, Conference Room 1730.
+
+*Schedule*:
+
+The workshop will be held from 1:30 to 5:30 Wednesday afternoon, January 30th. Workshop attendees are invited to stay for the reception beginning at 6:00.
+
+*Registration and information:*
+
+To register for the workshop only, please see&nbsp;link://workshopreg.shtml[]. To register for the CalConnect Roundtable and/or Interoperability Test Event, please see&nbsp;link://regtypes.shtml[].
+
+Logistics information for the workshop and for the CalConnect event: link://calconnect26.shtml[].
+
+*More About Consensus Scheduling*
+
+Consensus scheduling is the process whereby a group comes to agreement on when (and maybe where) to hold a meeting or carry out a task, by identifying the best time or location to help maximize participation and minimize inconvenience. &nbsp;Consensus scheduling minimizes&nbsp;the overhead of achieving consensus or identifying the most favorable time(s) by allowing the potential participants to observe the responses of the other voters, and to adjust their response for the benefit of the entire group. This has significant benefits over traditional group scheduling methods which typically involve the exchange of many messages between participants, each trying to come to agreement. &nbsp;
+
+Although there are a variety of&nbsp;consensus scheduling products and services available, it is not available in most full featured calendaring products, especially enterprise products. Consensus scheduling is not part of calendaring and scheduling standards, and each site and service provides different features and functionality, provides&nbsp;custom integrations with a subset of other calendaring and scheduling services and products, and has differing requirements for user access  authentication and authorization. As some people prefer one consensus service over the others, participants in many formal and/or informational groups may&nbsp;have to register and/or use many different services or sites in the course of their professional and personal activities.
+
+CalConnect has for some time been working on developing a consensus scheduling solution that builds on the internet calendar standards of iCalendar and iTIP (the traditional solution to standards-based calendaring and scheduling). &nbsp;CalConnect s approach creates a new iCalendar component, VPOLL, and defines an iTIP process by which polls can be sent to participants and votes collected from them. &nbsp;CalConnect s work also looks at how this process can be integrated with calendaring system, such as those built on the standard CalDAV calendar server protocol, with the goal of providing more automation for voting and streamlining the decision process for voters.
+
+Please see&nbsp;link://7_things_consensus_scheduling.shtml&nbsp;for a further introduction to consensus scheduling and why it matters to calendaring and&nbsp;scheduling.
+
+*Previous CalConnect Workshops:*
+
+CalConnect has previously held workshops on vCard, Timezones, Contacts, and Tasks (VTODOs).
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

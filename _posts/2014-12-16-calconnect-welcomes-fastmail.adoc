@@ -1,0 +1,30 @@
+---
+layout: page
+title: CalConnect Welcomes FastMail
+date: 2014-12-16
+type: news
+categories: announcements current-events general-information member-news the-world-of-calendaring
+excerpt: CalConnect welcomes FastMail as a member of the Consortium. FastMail, based in Melbourne, Australia, is a hosted e-mail service with additional features including calendaring support.
+---
+
+== CalConnect Welcomes FastMail
+
+[[node-138]]
+Posted December 16, 2014 
+
+CalConnect welcomes https://www.fastmail.com[FastMail] as a member of the Consortium. FastMail, based in Melbourne, Australia, is a hosted e-mail service with additional features including calendaring support.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/member-news[Member News]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

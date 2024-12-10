@@ -1,0 +1,42 @@
+---
+layout: page
+title: RRULES and RSCALE examples for Non-Gregorian Recurring Events in iCalendar
+date: 2014-06-19
+type: news
+categories: announcements general-information special-focus the-world-of-calendaring
+excerpt: CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link://tests/rscale_golden.txt for the example set).
+---
+
+== RRULES and RSCALE examples for Non-Gregorian Recurring Events in iCalendar
+
+[[node-173]]
+Posted June 19, 2014 
+
+CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link://tests/rscale_golden.txt for the example set).
+
+The examples are reasonably comprehensive for testing RSCALE and the implicit SKIP=YES behavior with the non-RSCALE Gregorian calendar, but certainly not exhaustive. However there should be enough examples in this file for a developer to test/understand the proper handling of leap months/days and SKIP behavior.&nbsp;
+
+These examples are to help calendar server developers ensure that they are in sync with other servers in handling the new RSCALE component and non-Gregorian calendar recurrences.
+
+*Background and more information:*
+
+iCalendar (RFC 5545), the calendaring data schema, generally assumes that calendaring data is in the Gregorian calendar although it does have the ability to specify that an event is in a non-Gregorian calendar. Although iCalendar can be used with non-Gregorian calendars for simple events, attempting to handle recurrences in such calendars is not possible within the basic iCalendar notation.
+
+As a large portion of the world uses non-Gregorian calendars, this has been a problem for calendaring and scheduling application developers in places where non-Gregorian calendars are prevalent, and the developers have had to create non-standard, proprietary mechanisms to handle recurrences.
+
+CalConnect established the CALSCALE Ad Hoc Committee, to define a mechanism to allow non-Gregorian calendar recurrences to be stated within a standard iCalendar data stream, thereby obviating the need to create unique and non-standard mechanisms to support them. The Ad Hoc developed a new RSCALE component for iCalendar to address this: http://tools.ietf.org/html/draft-daboo-icalendar-rscale/[]. The draft is now at the IETF for progression.
+
+At this point several calendar servers have implemented RSCALE support, and our interoperability testing has determined that those which have not yet implemented it will (correctly) ignore the RSCALE statement when they encounter it. Therefore, this set of example RRULES link://tests/rscale_golden.txt has been provided to allow new implementations to ensure their compliance with the interpretation of RSCALE by existing calendar servers for the major non-Gregorian calendars in use. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

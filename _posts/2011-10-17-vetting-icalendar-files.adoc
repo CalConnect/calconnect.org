@@ -1,0 +1,39 @@
+---
+layout: page
+title: Vetting iCalendar files
+date: 2011-10-17
+type: news
+categories: general-information special-focus the-world-of-calendaring
+excerpt: In my blog post of December 27, 2010, In calendaring, success means the right thing, the right way!, I talked about downloading iCalendar .ics files from university sports web sites, and importing these events into different calendaring systems to ascertain whether the event data was interpreted the same way in each system. I discovered that more often than not, the events were not represented as intended as they did not conform to, or fully exploit the capabilities of, the iCalendar specification. I concluded that post with “It is well worth your while to run through the exercise of exporting your public events, and importing them into the more widely used calendaring systems to ensure that you have, indeed, done the right thing the right way.”
+---
+
+== Vetting iCalendar files
+
+[[node-243]]
+Posted October 17, 2011 
+
+In my blog post of December 27, 2010, https://calconnect.wordpress.com/2010/12/27/in-calendaring-success-means-the-right-thing-the-right-way/[In calendaring, success means the right thing, the right way!], I talked about downloading iCalendar .ics files from university sports web sites, and importing these events into different calendaring systems to ascertain whether the event data was interpreted the same way in each system. I discovered that more often than not, the events were not represented as intended as they did not conform to, or fully exploit the capabilities of, the iCalendar specification. I concluded that post with It is well worth your while to run through the exercise of exporting your public events, and importing them into the more widely used calendaring systems to ensure that you have, indeed, done the right thing the right way.
+
+Among the tools I used for this exercise was the iCalendar Validator developed by Doug Day and Jon Udell. On our CalConnect website, we provide a link to a web instance that you can validate iCalendar files against (See https://calconnect.wordpress.com/2010/04/21/doug-days-icalendar-validator/). As noted, on the web site, http://icalvalid.cloudapp.net/, technically speaking, the word validation is somewhat incorrect, as there are no definitive rules we can follow to guarantee a calendar is valid (or invalid). Perhaps a better description would be proofing tools; however, for practical reasons I call it validation. Or put another way, among other things, there is no way to insure the syntax of the iCalendar file implements the intended semantics.
+
+Shortly thereafter, I contacted Doug Day to share with him some helpful suggestions I had for making iCalendar Validator even better, such as displaying how many events are without any timezone reference. We also discussed the possibility of Doug open sourcing the code, as the iCalendar Validator is just one of many projects competing for his time.
+
+Last month, Doug did just that, or in his own words,
+
+icalvalid, the iCalendar Validator found at http://icalvalid.cloudapp.net/[http://icalvalid.cloudapp.net], is now open-source! It s hosted on github at https://github.com/dougrday/icalvalid[]. This validation utility was created to validate calendaring data against the iCalendar standard (RFC 5545). We re looking for contributors  please consider contributing your time/efforts to help improve the validator!
+
+I commend Doug for sharing his work in this open fashion. And, for those of you who become contributors, I would still love to see a display of how many events are represented without a timezone reference.
+
+Gary Schwartz +
+ President, The Calendaring and Scheduling Consortium
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,44 @@
+---
+layout: page
+title: CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
+date: 2013-04-15
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
+---
+
+== CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
+
+[[node-205]]
+Posted April 15, 2013 
+
+CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
+
+*Membership Categories and Fees*
+
+In response to suggestions from interested potential members, CalConnect has established two new membership categories. The first is a new *small commercial vendor membership* for vendors with revenues in the $0-$5M range. This membership is equivalent to existing commercial vendor memberships but applicable for vendors who have not yet reached $5M in annual revenue. The second new category is an **Emergent Vendor membership**, intended for small, new endeavors. This membership has an initial membership fee for the first year of only $1,000. The fee rises over the next two years; at the end of three years, the Emergent Vendor member becomes a regular Commercial Vendor member in the appropriate fee class based on its revenues at that point. Only one member representative may be appointed by an Emergent Vendor member in the course of a membership year. The Emergent Vendor membership is also offered a reduced Interoperability Test Event fee as discussed below. See link://membershipfees.shtml[Membership Fees] for more information and a table of fees.
+
+*Interoperability Test Event Fees*
+
+Several changes have been made to the Interoperability Test Event fee structure. The *regular commercial vendor* member fee has been changed from $1795 to $1800 (to make the numbers more rational). *Additional participants* have been changed from $150 to $200 to ensure CalConnect doesn t actually lose money for each one (additional participants for the host are also $200).
+
+*Non-vendor member* participation fees remain unchanged at $350 per person.
+
+*Non-member* participation fees have been reduced to $1800 for one participant and $600 for each additional participant.
+
+The new *Emergent Vendor Member* participation fee is $800 for one person.
+
+See link://iopfees.shtml[Interoperability Test Event Fees] for more information and a table of member categories and related fees.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

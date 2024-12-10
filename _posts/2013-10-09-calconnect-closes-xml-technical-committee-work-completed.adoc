@@ -1,0 +1,39 @@
+---
+layout: page
+title: CalConnect closes XML Technical Committee; work completed
+date: 2013-10-09
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: TC-XML was chartered to develop a two-way reference mapping of iCalendar to XML (and later to JSON), and to develop a core abstract calendaring API and web services bindings for that API.
+---
+
+== CalConnect closes XML Technical Committee: work completed
+
+[[node-188]]
+Posted October 9, 2013 
+
+TC-XML was chartered to develop a two-way reference mapping of iCalendar to XML (and later to JSON), and to develop a core abstract calendaring API and web services bindings for that API.
+
+TC-XML developed both XML and JSON representations for iCalendar data, respectively xCal and jCal, and produced drafts published at the IETF (xCal is now RFC 6321, jCal is in final review). In addition, TC-XML supported an ongoing liaison with OASIS and worked with them on SOAP and Rest API s for calendaring, as part of the smart grid work by the OASIS WS-Calendar technical committee. The SOAP and Rest API s have been published as CalConnect documents and also incorporated into the OASIS WS-Calendar specification. Additional IETF drafts have been produced for new properties used by that work, and are being used by other TCs (e.g. TC-TASKS) and will progress at the IETF along with the other TC s work.
+
+As a follow-on for TC-XML, we have identified a need to codify a complete, generic calendar store API, and a new Ad Hoc committee within CalConnect is now working on developing a strategy to move forward with that work. The Ad Hoc committee will also be responsible for the liaison effort with OASIS WS-Calendar until a new Technical Committee is formed.
+
+Work Products:
+
+http://tools.ietf.org/html/rfc6321[xCal: The XML Format for iCalendar (RFC 6321)] +
+link:/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.1.pdf[CalWS-Rest Restful Web Services Protocol for Calendaring] +
+link:/docs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf[CalWS-SOAP SOAP Web Services Protocol for Calendar] +
+https://datatracker.ietf.org/doc/draft-ietf-jcardcal-jcal[jCal: The JSON Format for iCalendar (IETF Draft)]
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

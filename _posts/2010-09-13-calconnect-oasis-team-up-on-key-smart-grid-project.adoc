@@ -1,0 +1,28 @@
+---
+layout: page
+title: CalConnect, OASIS Team Up on Key Smart-Grid Project
+date: 2010-09-13
+type: news
+categories: announcements current-events general-information special-focus
+excerpt: CalConnect and OASIS, the Organization for the Advancement of Structured Information Systems, have been tasked jointly by the National Institute for Standards and Technology (NIST) to produce one of the standards that will make it possible to monitor, predict and manage power consumption see CalConnect, OASIS, Team Up on Key Smart-Grid Project. For a PDF version see CalConnect, OASIS, Team Up on Key Smart-Grid Project. 
+---
+
+== CalConnect, OASIS Team Up on Key Smart-Grid Project
+
+[[node-287]]
+Posted September 13, 2010 
+
+CalConnect and OASIS, the Organization for the Advancement of Structured Information Systems, have been tasked jointly by the National Institute for Standards and Technology (NIST) to produce one of the standards that will make it possible to monitor, predict and manage power consumption: see link://publicity/20100913-calconnect-oasis.doc[CalConnect, OASIS, Team Up on Key Smart-Grid Project]. For a PDF version see: link://publicity/20100913-calconnect-oasis.pdf[CalConnect, OASIS, Team Up on Key Smart-Grid Project].&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

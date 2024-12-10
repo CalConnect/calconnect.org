@@ -1,0 +1,63 @@
+---
+layout: page
+title: Highlighted Sessions at CalConnect XXIV in Amsterdam
+date: 2015-09-16
+type: news
+categories: announcements current-events special-focus
+excerpt: We have several sessions planned for the CalConnect Conference in Amsterdam (September 30 – October 2) that we feel are of special interest and should be highlighted
+---
+
+== Highlighted Sessions at CalConnect XXIV in Amsterdam
+
+[[node-126]]
+Posted September 16, 2015 
+
+We have several sessions planned for the CalConnect Conference in Amsterdam (September 30  October 2) that we feel are of special interest and should be highlighted:
+
+*Wednesday September 30*
+
+1400-1445 +
+*Event-type Registry:* +
+_Developing standard categorizations for event publication to aid searching and relating events._
+
+1600-1800 +
+*Calendaring in Government Panel Discussion:* +
+_Citizens, companies and governments are looking for ways to ease and standardise communication. Time related information could very well be communicated via existing standards and systems. Topics include what makes governments special when it comes to C&S; what are governmental use cases?_ +
+*This session is open to the public by invitation; e-mail us if you are interested in attending.*
+
+*Thursday October 1*
+
+0830-0930 +
+*API  JMAP+REST* +
+_Developing a new lighter-weight API for calendaring._
+
+1600-1700 +
+*Scheduling model changes* +
+_Extend the enterprise scheduling model to support the social calendaring interactions which takes place today. For example, multiple organizers, self-invitation(signup) etc._
+
+1700-1800 +
+*Recurrences  alternative models* +
+_A new model to avoid the issues with long running recurring events that are always modified. For example the weekly meeting with a different agenda._
+
+*Friday October 2*
+
+0945-1030 +
+*RSCALE  non Gregorian calendar scales* +
+_How RSCALE allows non-Gregorian recurrences to be specified as part of iCalendar events._
+
+1330-1430 +
+*Publishing events with QRCODE and data URI* +
+_Formulate an approach to publishing events within the limitations of QRCODEs and data URIs; develop rules for publishing recurrences and instances._
+
+For the complete schedule of the CalConnect Conference please see link://calconnect34.shtml#schedule[].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+

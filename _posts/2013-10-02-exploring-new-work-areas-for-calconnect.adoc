@@ -1,0 +1,52 @@
+---
+layout: page
+title: Exploring New Work Areas for CalConnect
+date: 2013-10-02
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: At last week’s CalConnect Roundtable XXVIII in Prague, we established Ad Hoc Committees to explore three new potential areas of work, APIs Federated Shared Calendars, and CalDAV “Push”. Additionally we decided to continue the work of the existing “Itinerary” Ad Hoc.
+---
+
+== Exploring New Work Areas for CalConnect
+
+[[node-190]]
+Posted October 2, 2013 
+
+At last week s CalConnect Roundtable XXVIII in Prague, we established Ad Hoc Committees to explore three new potential areas of work, APIs Federated Shared Calendars, and CalDAV Push. Additionally we decided to continue the work of the existing Itinerary Ad Hoc.
+
+The Ad Hoc Committees will make recommendations at the next CalConnect event in February whether these Ad Hocs should be chartered as Technical Committees, continue as Ad Hoc Committees, or be disbanded.
+
+In greater detail, the three new areas of work are:
+
+*API Ad Hoc*
+
+A follow-on to our XML Technical Committee, this Ad Hoc will consider further work in the areas of web services and formal APIs for Calendaring and Scheduling. The goal is to define a standard interface into any Calendaring and Scheduling system.
+
+*FSC Ad Hoc*
+
+The FSC or Federated Shared Calendars Ad Hoc will consider sharing calendars between different calendaring systems, both direct scheduling via iSchedule, as well as subscribed calendar sharing, with the goal of improving the user experience and providing capabilities which can be implemented by major and small service providers alike.
+
+*PUSH Ad Hoc*
+
+*PUSH is not currently part of the CalDAV standard, and some server vendors have implemented proprietary solutions. This Ad Hoc will consider how to accomplish PUSH with HTTP/WebDAV technology in a standardized way, for use with a variety of device types in different networking environments. The goal is to develop an extension to the standard(s) to help define existing mechanisms in a more interoperable way, as well as create, or make use of, a standard PUSH technology.
+
+*ITINERARY Ad Hoc*
+
+The Itinerary Ad Hoc was established at a previous Roundtable and has been exploring ways to improve the overall user experience when dealing with digital itineraries by making use of iCalendar to provide richer information that can be exposed to users and third-party applications in a consistent manner. The Itinerary Ad Hoc is looking to involve experts in the area of travel itineraries in this work, to provide suitable input into the nature of problems and determine what needs to be addressed.
+
+
+
+*A PUSH notification is a signal from a server to a client that data has changed on the server, probably due to some activity not directly caused by the client receiving the push notification. Push notifications can provide an immediate signal that data has changed on the server, and thus avoid the need for clients to regularly poll the server looking for changes. This provides an overall better user experience, as well as potentially reducing server loads and lowering client power usage. &nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

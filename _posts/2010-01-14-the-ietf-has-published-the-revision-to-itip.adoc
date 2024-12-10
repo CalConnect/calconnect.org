@@ -1,0 +1,28 @@
+---
+layout: page
+title: The IETF has published the revision to iTIP
+date: 2010-01-14
+type: news
+categories: announcements current-events the-world-of-calendaring
+excerpt: RFC 5546, iCalendar Transport-Independent Interoperability Protocol (iTIP), has been published by the IETF as a Proposed Standard. This is the revision to RFC 2446 (iTIP) which has been underway for some time. RFC 5546 obsoletes RFC 2446. See http://tools.ietf.org/html/rfc5546. CalConnect congratulates everyone who was involved in progressing this work.
+---
+
+== The IETF has published the revision to iTIP
+
+[[node-311]]
+Posted January 14, 2010 
+
+RFC 5546, iCalendar Transport-Independent Interoperability Protocol (iTIP), has been published by the IETF as a Proposed Standard. This is the revision to RFC 2446 (iTIP) which has been underway for some time. RFC 5546 obsoletes RFC 2446. See http://tools.ietf.org/html/rfc5546[]. CalConnect congratulates everyone who was involved in progressing this work.
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

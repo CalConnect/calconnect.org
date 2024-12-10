@@ -1,0 +1,64 @@
+---
+layout: page
+title: Interoperability Testing at CalConnect XXV in Zurich
+date: 2012-10-18
+type: news
+categories: current-events general-information special-focus
+excerpt: This was a relatively large session with 22 on-site participants, 14 from Europe, representing the following organizations/implementations
+---
+
+== Interoperability Testing at CalConnect XXV in Zurich
+
+[[node-223]]
+Posted October 18, 2012 
+
+This was a relatively large session with 22 on-site participants, 14 from Europe, representing the following organizations/implementations:
+
+* Apple (iCal Server, iCal Client, iCloud Server, iCloud Outlook Client, IOS 6)
+* Bedework
+* CalDAV-Sync and CardDAV-Sync
+* Evolution plugin
+* EGroupware
+* emClient
+* Google
+* Kerio Technologies
+* Mozilla Lightning
+* SabreDAV
+* Zimbra
+
+In addition we had the following participate externally:
+
+* AOL (AOL Calendar Server)
+* CMU (Cyrus Calendar Server)
+* DaviCal
+* Oracle (Oracle Communications Calendar Server)
+
+A number of those present concentrated on iSchedule with DKIM and discovery. Testing was fairly intensive and a number of issues were found with the draft protocol as well as with server implementations. A number of servers managed to successfully connect and interact with each other, handling freebusy requests and meeting invitations and replies.
+
+Testing of sharing and notifications also took place with a fairly successful outcome for all. Bugs in the client and server software were found and sometimes even rectified.
+
+Discovery was also a hot topic and there were a number of issues discovered in the current use of .well-known and SRV records. The Brief and Prefer header also got some testing with some participants.
+
+In addition there were many issues raised when testing the basic CalDAV and CardDAV access protocols. The kinds of issues seen were:
+
+* Misreporting of missing DAV properties
+* Problems with content type
+* Redirections causing issues
+* Lack of support for required properties
+* Errors in report formats
+
+As ever, the benefits of working together in one room to discover and fix interoperability issues were enormous. Most of the participants test remotely during the year but these sessions provide a much more productive environment. Many participants were staying for the following Roundtable and took the opportunity to continue testing quietly with each other.
+
+Mike Douglass, Rensselaer Polytechnic Institute +
+ CalConnect Interoperability Test Event Manager
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+

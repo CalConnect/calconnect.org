@@ -1,0 +1,24 @@
+---
+layout: page
+title: EGroupware Joins CalConnect
+date: 2017-07-12
+type: news
+categories: current-events member-news
+excerpt: CalConnect welcomes EGroupware GmbH as a member of the consortium.  EGroupware, based in Kaiserslautern, Germany, is an open source groupware which contains a CalDAV and CardDAV server.  EGroupware also offers a SAAS hosting for it.
+---
+
+== EGroupware Joins CalConnect
+
+[[node-449]]
+Posted July 12, 2017 
+
+CalConnect welcomes http://www.egroupware.org[EGroupware GmbH] as a member of the consortium.&nbsp; EGroupware, based in Kaiserslautern, Germany, is an open source groupware which contains a CalDAV and CardDAV server.&nbsp; EGroupware also offers a SAAS hosting for it.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/member-news[Member News]
+

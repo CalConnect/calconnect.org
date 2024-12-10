@@ -1,0 +1,30 @@
+---
+layout: page
+title: Schedule optimization and finding habitable planets; The Kepler Mission
+date: 2011-06-01
+type: news
+categories: current-events general-information special-focus the-world-of-calendaring
+excerpt: At Roundtable XXI last week at NASA Ames, Charlie Sobek, the Kepler Mission Deputy Project Manager, gave us a presentation on the Kepler Mission to find habitable planets. The presentation highlighted the scheduling and mission optimization issues facing the project, including issues such as scheduling time between multiple projects on the Deep Space Network and the challenges of managing the spacecraft over a multi-year mission, such as changes in the networks, missions and priorities and how these are resolved.
+---
+
+== Schedule optimization and finding habitable planets: The Kepler Mission
+
+[[node-256]]
+Posted June 1, 2011 
+
+At Roundtable XXI last week at NASA Ames, Charlie Sobek, the Kepler Mission Deputy Project Manager, gave us a presentation on the Kepler Mission to find habitable planets. The presentation highlighted the scheduling and mission optimization issues facing the project, including issues such as scheduling time between multiple projects on the Deep Space Network and the challenges of managing the spacecraft over a multi-year mission, such as changes in the networks, missions and priorities and how these are resolved.
+
+The presentation is available at link:/docs/Kepler%20Mission%20Operations%20Scheduling.pdf[Kepler Mission Operations Scheduling].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

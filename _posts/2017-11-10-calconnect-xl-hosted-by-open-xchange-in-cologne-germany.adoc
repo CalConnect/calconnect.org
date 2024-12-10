@@ -1,0 +1,47 @@
+---
+layout: page
+title: CalConnect XL hosted by Open-Xchange in Cologne Germany
+date: 2017-11-10
+type: news
+categories: current-events the-world-of-calendaring
+excerpt: This year's European conference was hosted by Open-Xchange. If you are unfamiliar with Open-Xchange, its mission is  to deliver the integrated, open-source stack for messaging, collaboration and productivity for the service-provider industry.
+---
+
+== CalConnect XL hosted by Open-Xchange in Cologne Germany
+
+[[node-456]]
+Posted November 10, 2017 
+image::link:/assets/images/cologne.jpg["",480,373]
+
+This year's European conference was hosted by Open-Xchange. If you are unfamiliar with https://www.open-xchange.com/[Open-Xchange]: its mission is&nbsp; to deliver the integrated, open-source stack for messaging, collaboration and productivity for the service-provider industry. They tagline is: stay open. That seems like an excellent match with CalConncect's mission. Setting standards and improving interoperability are cornerstones of making&nbsp; calendaring and scheduling easier for vendors and end users. Many thank to OX for having us.
+
+Black Friday is about a month out and if you are unlucky you might encounter a relatively new phenomena called calendar spam. That is right: unwanted commercial messages in your calendar. We are working with https://www.m3aawg.org/[M3AAWG]&nbsp; to come up with solutions before this gets to the email-ish proportions. M3AAWG is the Messaging, Malware and Mobile Anti-Abuse Working Group and work against bots, malware, spam, viruses, DoS attacks and other online exploitation.
+
+A topic that will interest the providers of public calendars and the vendors that absorb those is the topic of alternative synchronization. When a lot of people are subscribed and a lot of exceptions are made to eg recurring rules, ics files tend to get big and klunky over time.&nbsp; Most calendars keep the past. The burden on servers and client gets really huge over time. We discussed a CalDAV-ified public calendar mechanism.
+
+Calendaring and scheduling can be tough to get one's head around. That is why our members initiated two great projects to lower that bar for entry: Devguide and CalDAV tester.
+
+The https://devguide.calconnect.org/[Devguide] (Calendaring Developers Guide) is the "cookbook" document that describes how to start using iCalendar to build basic events and then move on to more complex calendaring and scheduling problems. Things like recurring events, time zones, multi-party scheduling, and more, all lead to complex scenarios. The Devguide makes standards easier accessable.
+
+https://github.com/CalConnect/caldavtester[CalDAV tester] (https://github.com/CalConnect/caldavtester) is a Python app that will run a series of scripted tests against a CalDAV server and verify the output, and optionally measure the time taken to complete one or more repeated requests. The script is fork of Apple's CalDAV tester. The usecases the script tests have been generalised and a better looking UI to shwo test result has been added.
+
+Although a number of calendaring standards and protocols exist, no overall calendaring architecture has been stated, and it must be inferred from the existing standards and protocols. A need exists for such a calendaring architecture in which new functionality can be developed to ensure compatibility with existing work, and which relates existing work to the architecture. Enter https://github.com/CalConnect/PUBLIC_DRAFTS/tree/master/jscalendar[JSCalendar]. It defines a JSON representation of calendar data that can be used for storage and data exchange in a calendaring and scheduling environment. It aims to be an alternative to the widely deployed iCalendar data format and to be unambiguous, extendable and simple to process. 3 implementations around currently live. This could/shoud one day replace ics.
+
+CalDAV itself has a couple of improvements coming up: series, relationships, grouping to name a few.
+
+I hope to see you in https://www.calconnect.org/events/calconnect-xli-winter-2018[Sunnyvale Califorania] Janjary 29 to February 2, where https://www.oath.com/[OATH] will host us.&nbsp; While you are at it: mark your calendar 4-8 June 2018 when http://www.jorte.com/en/[Jorte] will host us in Tokyo.
+
+Highest regards,
+
+Rutger Geelen
+
+President
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

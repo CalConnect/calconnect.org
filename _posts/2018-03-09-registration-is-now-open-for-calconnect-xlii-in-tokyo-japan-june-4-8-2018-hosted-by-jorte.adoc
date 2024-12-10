@@ -1,0 +1,38 @@
+---
+layout: page
+title: Registration is now open  for CalConnect XLII in Tokyo, Japan, June 4-8, 2018, hosted by Jorte
+date: 2018-03-09
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: The CalConnect XLII web page is located at https://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018 and contains lodging information, airport and transfer information, meeting venue, etc. 
+---
+
+== Registration is now open  for CalConnect XLII in Tokyo, Japan, June 4-8, 2018, hosted by Jorte
+
+[[node-466]]
+Posted March 9, 2018 
+
+The CalConnect XLII web page is located at https://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018 and contains lodging information, airport and transfer information, meeting venue, etc.&nbsp;
+
+The&nbsp; meeting venue is at http://www.sogetsu.or.jp/e/know/hall/[Sogetsu Hall], Akasaka, Tokyo. The venue is about a five minute walk from the conference hotel, https://www.hotelmonterey.co.jp/en/akasaka/[Hotel Monterey Akasaka].
+
+The hotel may be booked immediately, see https://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018#lodging for more information and information. You must book by the end of April to receive the CalConnect rate, and you must book via the e-mail address provided on this Lodging page.
+
+The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon.&nbsp; The Conference will begin Wednesday after lunch and run through Friday mid-afternoon.&nbsp; There will be some special introductory sessions on CalConnect and calendaring standards currently planned for Monday, and some presentations from JEDC (Japan Event Data Consortium) probably on Wednesday afternoon.&nbsp;
+
+We will be posting detailed schedules and agendas on the event web page once they are available, and expect that they may evolve over time.
+
+Registration information is at https://www.calconnect.org/events/event-registration-payment and is also linked from the event web page.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

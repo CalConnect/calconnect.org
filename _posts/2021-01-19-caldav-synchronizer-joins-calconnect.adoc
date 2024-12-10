@@ -1,0 +1,26 @@
+---
+layout: page
+title: CalDav Synchronizer Joins CalConnect
+date: 2021-01-19
+type: news
+categories: the-world-of-calendaring member-news announcements
+excerpt: CalConnect welcomes CalDav Synchronizer as a member.  CalDav Synchronizer, based in Vienna, Austria, offers the CalDav Synchronizer application to synchronize data between Outlook and CalDav implementations. 
+---
+
+== CalDav Synchronizer Joins CalConnect
+
+[[node-540]]
+Posted January 19, 2021 
+
+CalConnect welcomes https://caldavsynchronizer.org/[CalDav Synchronizer] as a member.&nbsp; CalDav Synchronizer, based in Vienna, Austria, offers the CalDav Synchronizer application to synchronize data between Outlook and CalDav implementations.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+
+link:/news/member-news[Member News]
+
+link:/news/announcements[Announcements]
+

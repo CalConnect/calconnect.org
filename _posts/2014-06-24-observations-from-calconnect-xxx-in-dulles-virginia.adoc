@@ -1,0 +1,95 @@
+---
+layout: page
+title: Observations from CalConnect XXX in Dulles, Virginia
+date: 2014-06-24
+type: news
+categories: announcements current-events general-information the-world-of-calendaring
+excerpt: CalConnect held its thirtieth Interoperability Test Event and Conference (formerly “Roundtable”) the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
+---
+
+== Observations from CalConnect XXX in Dulles, Virginia
+
+[[node-172]]
+Posted June 24, 2014 
+
+CalConnect held its thirtieth Interoperability Test Event and Conference (formerly Roundtable) the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
+
+The week led off with the Interoperability test Event on Monday, which had 12 participants from 9 organizations onsite. On Wednesday afternoon, the Conference opened with a very productive workshop about calendaring & scheduling in health care, which included 21 participants from 8 non-member organizations in addition to the regular conference attendees.
+
+We are very excited about the interest in the conference, and about the growing intersection between calendaring and scheduling (especially the scheduling part) and the health care sector. A brief report on the workshop and links to the presentations may be found at link://vachallengeworkshopreport.shtml[VA Scheduling System Workshop Report].
+
+Here s what s trending from CalConnect XXX:
+
+*Trending  Membership*
+
+In the weeks immediately following CalConnect XXX, two organizations which had attended the event became members of CalConnect:
+
+* http://www.1und1.de/[1&1 Internet AG]
++
+, based in Montbaur, Germany, attended as an observer. 1&1 offers internet and portal services to customers in Europe and elsewhere. 1&1 is a member of United Internet.
+* http://medred.com/[MedRed LLC]
++
+, based in Washington, DC, participated in the Health Care Scheduling Workshop at the invitation of CalConnect. MedRed led the winning proposal for the Veterans Administration Scheduling System Challenge. MedRed also registered as observers for the rest of the conference.
+
+It is always very gratifying for any organization to pick up new members, but it is especially so for us when organizations choose to join after interacting with our membership, and experiencing what CalConnect has to offer.
+
+*Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
+
+* link://tc-freebusy.shtml[TC FREEBUSY]
++
+provided a live demo of VPOLL (consensus scheduling) interoperability across three different implementations each on its own server via iSCHEDULE (server-server scheduling).
+* The CONTACTS (Contacts Sharing) Provisional Committee will begin the transformation into a Technical Committee; the Committee provided a live demo of existing contacts sharing implementations.
+* The FSC (Federated Shared Calendars) Ad Hoc (Provisional) Committee will begin the transformation into a Technical Committee.
+
+*Trending  Interoperability testing*
+
+The interoperability testing was very successful, with 12 participants from 9 organizations, plus two remote participants. In addition to the regular interoperability testing, the live demo (mentioned previously) was developed and tested. A more detailed accounting of the interoperability testing is available at link://eventreports.shtml#ioptestevents[CalConnect Interoperability Test Event Reports].
+
+*Trending  Documents, Specifcations and Standards*
+
+Much of the work in CalConnect is focused on specifications to be submitted as internet drafts to the IETF with the goal of helping progressing them to become RFCs (Proposed Standards); other work is published directly by CalConnect itself or submitted to other standards organizations.
+
+*Recently published CalConnect documents:*
+
+* link://conference30rpt.shtml[Report on CalConnect Conference XXX]
+* link://ioptestevent30rpt.shtml[Report on Interoperability Test Event XXX]
+* link://7_things_push.shtml[7 Things You Should Know About PUSH]
+* link://starterlistcaldavcarddav.shtml[Starter List of CalDAV and CardDAV Standards and Specifications]
+
+*Recently updated internet drafts and published RFCs:*
+
+* http://tools.ietf.org/html/rfc7265[jCal: The JSON Format for iCalendar]
++
+(RFC 7265)
+* http://tools.ietf.org/html/draft-daboo-icalendar-rscale-04[Non-Gregorian Recurrence Rules in iCalendar]
+* https://tools.ietf.org/html/draft-daboo-caldav-attachments/[CalDAV Managed Attachments]
+* http://tools.ietf.org/html/draft-york-vpoll/[VPOLL: Consensus Scheduling Component for iCalendar]
+* http://datatracker.ietf.org/doc/draft-daboo-caldav-timezone-ref/[CalDAV: Timezones by Reference]
+* http://tools.ietf.org/html/draft-douglass-timezone-service-11[Timezone Service Protocol]
+
+*Trending  Organizationally*
+
+Mimi Mugler of the University of California, Berkeley, was the fourth recipient of the link://dsa.shtml[CalConnect Distinguished Service Award]. Ms. Mugler has represented the University of California at CalConnect since 2007. She has been active in Technical Committees, strongly representing the needs and perspectives of the user community, and has twice been Chair of the Steering Committee.
+
+Following the success of the Workshop, CalConnect plans to begin determining what is needed in existing C&S specifications, or in new specifications, to better meet the scheduling needs of health care today and in the future. We look forward to participation from the health care sector in this endeavor, both in terms of resources and the necessary expertise in the area.
+
+*Wrapping it all together*
+
+We are very excited, as were observers at the event, with the live demonstration by link://tc-freebusy.shtml[TC FREEBUSY] of multiple servers interconnected by http://tools.ietf.org/html/draft-desruisseaux-ischedule[iSCHEDULE] and doing live consensus scheduling via http://tools.ietf.org/html/draft-york-vpoll/[VPOLL], as it shows a tangible result of the work going on in our Technical Committees to extend the calendaring and scheduling standards to provide new and relevant capabilities, both within the mainstream of human calendaring, and in more general applications of scheduling in areas such as health care and logistics management.
+
+CalConnect wishes to again thank AOL for helping to make CalConnect XXX such a productive and enjoyable week, and to the organizations who presented at the Workshop or participated in the Panel Discussion. AOL did an outstanding job with event logistics, including adapting to a rapidly growing attendance in the last several days prior to the event (49 people from 29 organizations attended some part of the week, a very successful turnout for an East Coast CalConnect event), but perhaps more importantly, the genuine hospitality and cordiality by all members of the AOL staff made all the attendees feel very welcomed.
+
+The next CalConnect event will take place September 29  October 3, 2014 in England, hosted by https://ga.youcanbook.me/[youcanbook.me] in Bedford. We ll be posting more information about this event going forward, and we invite you to join us and learn more about what we are doing moving forward.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

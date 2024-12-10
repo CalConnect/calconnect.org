@@ -1,0 +1,41 @@
+---
+layout: page
+title: CalConnect XLII in Tokyo and the Data Event Summit with JEDC
+date: 2018-07-23
+type: news
+categories: announcements special-focus the-world-of-calendaring
+excerpt: After Ribose in Hong Kong in 2016, Jorte hosted CalConnect's second Asian conference in Tokyo.
+---
+
+== CalConnect XLII in Tokyo and the Data Event Summit with JEDC
+
+[[node-483]]
+Posted July 23, 2018 
+image::link:/assets/images/dataeventsummit.jpg["",480,360]
+
+After Ribose in Hong Kong in 2016, https://www.jorte.com/[Jorte] hosted CalConnect's https://www.calconnect.org/events/.calconnect-xlii-june-04-08-2018[second Asian conference] in Tokyo.
+
+CalConnect is built upon the ambitious goal of contributing to availability of truly interoperable collaboration tools through the use of open standards ... worldwide. As may of you know, calendaring may seem easy at first, but once you dive into the details it is a challenging science. (Many interesting and fun examples can be found at "http://yourcalendricalfallacyis.com/[Your Calendrical Fallacy]".)
+
+Traditionally, most electronic calendar publishers came from the US, and most users were from the US and Europe; that lineage influenced the development of clients, servers and standards. For example, most calendar systems assume users use a Gregorian calendar and Latin letters -- however, most people worldwide use neither Gregorian calendars nor Latin letters. This state is reason enough for CalConnect to expand presense and membership in Asia -- in order to influence future standards, and use of calendar and scheduling systems, toward global calendars and character sets.
+
+With that in mind it was truly great to co-organise, with JEDC (the Japanese Event Data Consortium) the Data Event Summit in Tokyo -- in conjunction with CalConnect XLII. Attendees include representated twenty-six organizations -- from http://www.elab.gr.jp/[JEDC] (including Japan's https://japan.kantei.go.jp/policy/it/index_e.html[National Strategy Office of Information and Communications Technology], the http://www.soumu.go.jp/english/[Ministry of Internal Affairs and Communications Information], and http://www.sharp-world.com/[Sharp]), Jorte (our host) and CalConnect. The primary focus was Japan s efforts to ensure the availability of open data from their local governments (about 1800) in a common data format, and our encouragement for them to adopt the international calendaring and scheduling standards; this goal requires some enhancements and joint work between us. Of special interest to both organizations were the sessions on streaming calendar data, event categorization, and calendar relationships. The summit gave a good insight in knowledge required and the challenges of setting up a nationwide open event data standard.
+
+As the authoritative voice of calendaring and scheduling, we create standards and provide a forum for everybody involved in calendaring (developers, standards organisations, end users). We believe that multidimensional diversity and broad, engaged participation are the keys to our sustainability and maximum impact.
+
+We look forward to continuing this conversation and collaboration with JEDC.
+
+Rutger Geelen
+
+President, CalConnect
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,26 @@
+---
+layout: page
+title: CalConnect Welcomes Ribose
+date: 2013-08-13
+type: news
+categories: announcements general-information member-focus
+excerpt: CalConnect welcomes Ribose as a member of The Calendaring and Scheduling Consortium. Ribose Inc, based in Hong Kong, offers a social collaboration platform for consumers.
+---
+
+== CalConnect Welcomes Ribose
+
+[[node-195]]
+Posted August 13, 2013 
+
+CalConnect welcomes Ribose as a member of The Calendaring and Scheduling Consortium. http://www.ribose.com[Ribose Inc], based in Hong Kong, offers a social collaboration platform for consumers.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-focus[Member Focus]
+

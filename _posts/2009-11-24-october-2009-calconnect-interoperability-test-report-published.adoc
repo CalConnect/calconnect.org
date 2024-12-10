@@ -1,0 +1,24 @@
+---
+layout: page
+title: October 2009 CalConnect Interoperability Test Report Published
+date: 2009-11-24
+type: news
+categories: announcements general-information
+excerpt: The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in October 2009. See October 2009 CalConnect Interoperability Test Report.
+---
+
+== October 2009 CalConnect Interoperability Test Report Published
+
+[[node-317]]
+Posted November 24, 2009 
+
+The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in October 2009. See link:/docs/CD0911%20October%202009%20CalConnect%20Interoperability%20Test%20Report.pdf[October 2009 CalConnect Interoperability Test Report].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+

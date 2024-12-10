@@ -1,0 +1,37 @@
+---
+layout: page
+title: Thomas Schäfer 10th Recipient of CalConnect Distinguished Service Award
+date: 2020-05-20
+type: news
+categories: special-focus current-events announcements
+excerpt: The Board of Directors has honored Thomas Schäfer as the recipient of our tenth Distinguished Service Award.
+---
+
+== Thomas Schäfer 10th Recipient of CalConnect Distinguished Service Award
+
+[[node-525]]
+Posted May 20, 2020 
+image::link:/assets/images/ThomasSchaefer.png["",250,374]
+
+Thomas SchÃ¤fer
+
+The Board of Directors has honored Thomas SchÃ¤fer as the recipient of our tenth Distinguished Service Award.
+
+Thomas became active in CalConnect in 2014 when 1&1 joined, and has remained intensely involved ever since on both the technical and organizational sides.&nbsp; Thomas and 1&1 hosted two conferences, CalConnect XXXIII Bucharest in 2015 and CalConnect XLIII Karlsruhe in 2018.
+
+Thomas established and chaired TC-CALSPAM to consider calendar spam, and initiated our liaison&nbsp; with M3WAAG to jointly work in this area.&nbsp; He initiated and chaired TC-DEVGUIDE, to create a Calendar Developer s Guide, which continues to be developed.&nbsp; He served on the Event Planning committee, and initiated and completed a proposal to combine the testing and conference components of the CalConnect meetings into a single format.&nbsp; He served as Chair of the Technical Coordination Committee, and as such as a Board member.&nbsp;
+
+When 1&1 chose to not renew their membership, Thomas joined CalConnect as an individual member, and continues to chair and participate in technical committees and event planning.
+
+Thomas has always been present, always good humored, and with constructive contributions to calls and conferences.&nbsp; We look forward to Thomas s continued involvement and participation in CalConnect in the future.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/special-focus[Special Focus]
+
+link:/news/current-events[Current Events]
+
+link:/news/announcements[Announcements]
+

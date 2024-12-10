@@ -1,0 +1,32 @@
+---
+layout: page
+title: New Member Focus Service
+date: 2010-06-18
+type: news
+categories: announcements general-information member-focus member-news
+excerpt: CalConnect is expanding the Member News service on our blog. The addition is a Member Focus service—a short introduction on the blog to a specific CalConnect member. It will include links to more information about the member, and possibly a significant press release or set of releases about a topic of interest to our members.
+---
+
+== New Member Focus Service
+
+[[node-296]]
+Posted June 18, 2010 
+
+CalConnect is expanding the Member News service on our blog. The addition is a Member Focus servicea short introduction on the blog to a specific CalConnect member. It will include links to more information about the member, and possibly a significant press release or set of releases about a topic of interest to our members.
+
+As with Member News, the Member Focus service will be calendaring-related. In the case of some of our members, that is very easy to do. In other cases, such as academic members or large vendors with a suite of offerings, the short piece will highlight the member s tools or services related to calendaring.
+
+The intent is for the introduction posted on the blog to be quite shortno more than a paragraph or two at mostbut provocative enough to interest someone to click through.
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/general-information[General Information]
+
+link:/news/member-focus[Member Focus]
+
+link:/news/member-news[Member News]
+

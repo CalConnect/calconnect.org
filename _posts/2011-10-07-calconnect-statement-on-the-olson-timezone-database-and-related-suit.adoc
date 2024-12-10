@@ -1,0 +1,45 @@
+---
+layout: page
+title: CalConnect Statement on the Olson Timezone Database and related suit
+date: 2011-10-07
+type: news
+categories: announcements current-events general-information special-focus the-world-of-calendaring
+excerpt: CalConnect has always been interested in timezone data because accurate and timely timezone information is essential to calendaring and scheduling. We have done considerable work in the area and have always been impressed by the Olson volunteer team and Olson Database.
+---
+
+== CalConnect Statement on the Olson Timezone Database and related suit
+
+[[node-244]]
+Posted October 7, 2011 
+
+CalConnect has always been interested in timezone data because accurate and timely timezone information is essential to calendaring and scheduling. We have done considerable work in the area and have always been impressed by the Olson volunteer team and Olson Database.
+
+The Timezone database, edited and managed by Arthur David Olson, provides a comprehensive source for timezone data including daylight savings rules, which often change at short notice in many regions of the world. Many editions of the Timezone database are produced each year to address these changes as quickly as possible.
+
+The Timezone database has been the trusted source for timezone information for a very long time and is a critical component of nearly all major computer systems and Internet operations. This includes desktop computers, servers, databases, mobile devices, telecommunications equipment, logistics, embedded control systems, and many others. Online, web-based applications such as payment systems, package tracking, airline reservations systems also depend heavily of timezone data.
+
+Many of these issues were exposed not just for calendaring systems but systems on all forms of devices in 2005-2007 as a result of the passage of the Extended Daylight Savings Time legislation by Congress. The potential impact even then was widespread although the impact was primarily on countries in North and Central America and to some degree South America. This was only a single change to a few timezones, admittedly that affected a good portion of the world. In one sense this was the reverse of the problem we are facing now, but the probable impact today is much larger, especially as enormous numbers have mobile devices which offer services that depend on currency of timezone data.
+
+Disruption to the publication and availability of the Timezone database will cause significant harm to individuals and organizations using computer systems, either directly or indirectly. This harm will get worse over time as changes to timezones and daylight savings time rules fail to be tracked by the database. Computer systems will continue to use the last available database, or perhaps even splinter into groups who manage their own updates separately. The later situation will cause even more confusion as different systems may have different times even though they are in the same location.
+
+It is the opinion of CalConnect that the Timezone database MUST be re-instated, made publicly available, and continue to be maintained in an open, inclusive and consensual fashion. This needs to be done as soon as possible so that the discussions on pending changes can continue, and appropriate database updates produced in a timely fashion.
+
+_Basic information about the Olson Timezone Database and the lawsuit may be found on http://en.wikipedia.org/wiki/Tz_database[Wikipedia]._
+
+Dave Thewlis +
+ Executive Director, CalConnect  The Calendaring and Scheduling Consortium
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

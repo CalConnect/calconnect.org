@@ -1,0 +1,30 @@
+---
+layout: page
+title: Member Focus; Zimbra (a VMware division)
+date: 2010-10-24
+type: news
+categories: general-information member-focus the-world-of-calendaring
+excerpt: Zimbra is a software vendor that provides an open source email, calendaring & collaboration suite. Zimbra has over 4,000 customers using the commercial version of the Zimbra Collaboration Suite, representing over 55 million paid users, including business and government customers of all sizes, over 400 higher education institutions, and service providers such as Comcast Cable and NTT Communications — and Zimbra also has multiple CalConnect member organizations among its user base.
+---
+
+== Member Focus: Zimbra (a VMware division)
+
+[[node-278]]
+Posted October 24, 2010 
+
+Zimbra is a software vendor that provides an open source email, calendaring & collaboration suite. Zimbra has over 4,000 customers using the commercial version of the Zimbra Collaboration Suite, representing over 55 million paid users, including business and government customers of all sizes, over 400 higher education institutions, and service providers such as Comcast Cable and NTT Communications  and Zimbra also has multiple CalConnect member organizations among its user base. Zimbra has supported CalDav for over 3.5 years, via the Zimbra Collaboration Suite server, rich browser client, and the free open source Zimbra Desktop client (http://www.zimbra.com/products/desktop.html[].)
+
+Website: http://www.zimbra.com
+
+Recent Zimbra product announcements: http://blog.zimbra.com
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/general-information[General Information]
+
+link:/news/member-focus[Member Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,44 @@
+---
+layout: page
+title: From Our President CalConnect XXXVIII in Irvine, California
+date: 2017-03-10
+type: news
+categories: current-events general-information the-world-of-calendaring
+excerpt: This was the second time that the University of California, Irvine hosted a CalConnect event. UCI stipulates on its website 'We believe that true progress is made when different perspectives come together to advance our understanding of the world around us. And we enlighten our communities and point the way to a better future.'. Compare that to CalConnect's mission 'Our purpose is to improve all aspects of calendaring and scheduling [..] collaborating with other organizations with similar goals, and conducting periodic conferences [..] in a collegial atmosphere.' and it is clear that UCI was and is in a perfect position to host .. a place where colleagues and competitors come together solve common problems.
+---
+
+== From Our President:  CalConnect XXXVIII in Irvine, California
+
+[[node-436]]
+Posted March 10, 2017 
+image::link:/assets/images/UCI%20Anteater.jpg["",480,480]
+
+This was the second time that the https://uci.edu/[University of California, Irvine] hosted a CalConnect event. UCI stipulates on its website 'We believe that true progress is made when different perspectives come together to advance our understanding of the world around us. And we enlighten our communities and point the way to a better future.'. Compare that to CalConnect's mission 'Our purpose is to improve all aspects of calendaring and scheduling [..] collaborating with other organizations with similar goals, and conducting periodic conferences [..] in a collegial atmosphere.' and it is clear that UCI was and is in a perfect position to host .. a place where colleagues and competitors come together solve common problems.
+
+Among other things, high on the agenda were: calendar spam, alternative subscription models (CALDAV for ics), the new representation for calendar data (TC API) and test suites.
+
+Calendar spam? Yes, that is a thing. Last Black Friday calendars around the world were affected by spam pretending to be meeting invites. Most calendar services put invites on the calendar even before they are accepted. That is generally speaking a good thing but leaves a hole through which spammers can inject their spammy invites onto your calendar. Vendors are taking appropriate measures but unlike our email counterparts calendar spam is not been high on any agenda yet. It is now. During the Irvine conference we discussed the problem and mitigation measures. If you want to know more about calendar spam please read Thomas' excellent https://www.calconnect.org/news/2017/01/30/calendar-spam[blog post] and/or join our next event, CalConnect XXXIX in Seattle this June.
+
+Lowering the bar to enter the calendaring an scheduling world is important for CalConnect as an organization but even more so for all the users of scheduling products. The more products and services rely on open standards the more interoperable these systems will be and the more these product will be used. In the past we mainly focussed on calendaring but time related events are happening all around us and are not necessarily limited to the 30 boxes grid calendar. Enter the world of scheduling. Many devices will be communicating with your schedule. Think about everything iOT related;&nbsp; recent examples are thermostats or the ability to book a taxi from your calendar. We invite producers of these event consuming or producing services and devices to join us in solving the the common challenges that we face.
+
+We will bring a lot of our documents to Github in the coming months. We hope that will invite interested parties to join our discussions and use the developed standards. The http://devguide.calconnect.org/Home[Calendar Developer's Guide] is an excellent example of this and a really easy way to get started with developing or improving a scheduling solution.&nbsp; If you would like to see more details of CalConnect XXXVIII, please refer to https://www.calconnect.org/pubdocs/conference38rpt.pdf[CalConnect XXXVIII Conference Report].
+
+An embodiment of looking beyond the 30 boxes grid is our former president (and current CFO) Gary Schwartz. We awarded Gary with CalConnect https://www.calconnect.org/news/2017/03/03/gary-schwartz-eighth-recipient-calconnect-distingushed-service-award[8th Distinguished Service Award]. Under Gary's 8 year presidency CalConnect became a truly global organization and held its first European and first Asian conferences. Gary s excitement, interest, focus, and reasoning have done much to keep CalConnect growing and focused during its years of existence. Thanks, Gary.
+
+I would also like to express my thanks to Andrew Laurence of UCI who hosted the conference. Very well done.
+
+If not before, I will see you in Seattle WA, for CalConnect XXXIX, June 12-16 2017 when https://www.tandemcal.com/[Tandem] hosts https://www.calconnect.org/events/calconnect-xxxix-may-2017[CalConnect XXXIX].
+
+Rutger Geelen +
+ President, CalConnect
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

@@ -1,0 +1,28 @@
+---
+layout: page
+title: CalConnect Implements New Website
+date: 2016-01-28
+type: news
+categories: announcements current-events the-world-of-calendaring
+excerpt: We welcome you to the new CalConnect website at www.calconnect.org.  The new site is easier to navigate and is mobile device friendly. 
+---
+
+== CalConnect Implements New Website
+
+[[node-142]]
+Posted January 28, 2016 
+
+We welcome you to the new CalConnect website at link:/[www.calconnect.org].&nbsp; The new site is easier to navigate and is mobile device friendly.&nbsp;
+
+We are in a transition period during which some pages and content from the old website will still be needed, so the old site has been retained at http://calconnect.org[calconnect.org] with suitable cautions and links to the new site.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

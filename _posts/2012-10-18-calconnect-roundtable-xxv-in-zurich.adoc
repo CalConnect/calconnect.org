@@ -1,0 +1,47 @@
+---
+layout: page
+title: CalConnect Roundtable XXV in Zurich
+date: 2012-10-18
+type: news
+categories: announcements current-events general-information
+excerpt: Our CalConnect events generally consist of two parts; the first half of the week is interoperability testing, and the last half is the Roundtable Technical Conference. At CalConnect XXV in Zurich, our second full CalConnect event in Europe, nearly everyone who participated in the interoperability testing stayed for the Roundtable, and we had a few additional participants, making a total of 26 at the Roundtable, of which 17 were European, overall representing 11 members and 5 observers (prospective members).
+---
+
+== CalConnect Roundtable XXV in Zurich
+
+[[node-222]]
+Posted October 18, 2012 
+
+Our CalConnect events generally consist of two parts: the first half of the week is interoperability testing, and the last half is the Roundtable Technical Conference. At CalConnect XXV in Zurich, our second full CalConnect event in Europe, nearly everyone who participated in the interoperability testing stayed for the Roundtable, and we had a few additional participants, making a total of 26 at the Roundtable, of which 17 were European, overall representing 11 members and 5 observers (prospective members).
+
+As noted previously on this blog, the European events are restructured to move the formal technical committee sessions to the afternoon (to allow remote attendance from North America), and special symposia and BOFs (birds of a feather sessions) are offered on Thursday and Friday mornings. The special offerings this time were:
+
+* Improving the web calendaring experience for end users
+* Calendaring futures and CalConnect directions
+* Internationalization/Localization for calendaring data
+* Best practices for publishing iCalendar data to ensure optimum interoperability
+* BOF on VTODOs
+* BOF on Consensus Scheduling
+
+Following the BOF on VTODOs, a VTODO Ad Hoc Committee was formed to examine requirements and ongooing work on VTODOs and recommend future activity in this area to CalConnect. The Ad Hoc committee will report out at Roundtable XXVI.
+
+More detail about the event may be found at link://roundtable25rpt.shtml[Report on Roundtable XXV] and in the newsletter which will shortly be linked from that page.
+
+Next CalConnect events:
+
+* CalConnect XXVI, January 28-February 1, 2013, Oracle, Santa Clara, California
+* CalConnect XXVII, June 3-7, 2013, University of Wisconsin, Madison, Wisconsin
+* CalConnect XXVIII, Autumn, 2013, TBD
+
+Based on the success of this event and last year s European event in Prague, we are looking forward to CalConnect XXVIII being hosted in Europe, and are soliciting offers to host the event from our European members. We hope to be able to announce the week, city, and host by our next event at Oracle.&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+

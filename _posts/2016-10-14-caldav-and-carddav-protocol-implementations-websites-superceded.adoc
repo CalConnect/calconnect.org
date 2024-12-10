@@ -1,0 +1,34 @@
+---
+layout: page
+title: CalDAV and CardDAV Protocol/Implementations Websites Superceded
+date: 2016-10-14
+type: news
+categories: announcements current-events general-information special-focus the-world-of-calendaring
+excerpt: For some time CalConnect has supported two protocol and implementation oriented sites, caldav.calconnect.org and carddav.calconnect.org.  These sites provides some information about the protocols themselves but their primary purpose has been to list implementations of the protocols (client, server, libraries, services).   As the non-implementation sections of these sites duplicate information available elswehere, CalConnect has migrated the implementations information to the CalDAV and CardDAV sections of the new CalConnect Calendar Developers Guide.  Information is also provided on how to contribute, or provide feedback, for those wishing to have their implementations added to the Guide. 
+---
+
+== CalDAV and CardDAV Protocol/Implementations Websites Superceded
+
+[[node-417]]
+Posted October 14, 2016 
+
+For some time CalConnect has supported two protocol and implementation oriented sites, http://caldav.calconnect.org[caldav.calconnect.org] and http://carddav.calconnect.org[carddav.calconnect.org].&nbsp; These sites provides some information about the protocols themselves but their primary purpose has been to list implementations of the protocols (client, server, libraries, services).&nbsp;&nbsp; As the non-implementation sections of these sites duplicate information available elswehere, CalConnect has migrated the implementations information to the CalDAV and CardDAV sections of the new http://devguide.calconnect.org[CalConnect Calendar Developers Guide].&nbsp; Information is also provided on how to contribute, or provide feedback, for those wishing to have their implementations added to the Guide.&nbsp;
+
+The URLs now point to single pages with links within the Developers Guide for each category of implementation, and also a link to the How To Contribute section of the Guide.&nbsp; We anticipate that we will maintain these two domains for some time as a convenience for those searching for CalDAV or CardDAV implementations.&nbsp; Please direct new implemention entries or inquiries to the http://devguide-calconnect.rhcloud.com/How-to-Contribute[Developers Guide How to Contribute] page.&nbsp;
+
+&nbsp;
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

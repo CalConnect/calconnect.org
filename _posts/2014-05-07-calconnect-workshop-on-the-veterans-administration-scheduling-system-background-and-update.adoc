@@ -1,0 +1,44 @@
+---
+layout: page
+title: CalConnect Workshop on the Veterans Administration Scheduling System – background and update
+date: 2014-05-07
+type: news
+categories: announcements current-events general-information special-focus the-world-of-calendaring
+excerpt: The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at AOL in Dulles, Virginia
+---
+
+== CalConnect Workshop on the Veterans Administration Scheduling System – background and update
+
+[[node-180]]
+Posted May 7, 2014 
+
+_The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at AOL in Dulles, Virginia_
+
+CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting conferences each year.
+
+Over the last few years, in the spirit of influencing and being influenced by the world, CalConnect has held open workshops on topics that the CalConnect membership was considering working in but were not necessarily themselves the subject matter experts, areas which perhaps medieval cartographers might have labeled terra incognita or mare incognitum. Healthcare is one such area for us.
+
+In late 2012, The U.S. Veterans Administration announced a prize contest to ¦encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration and ultimately ¦to replace the current Medical Scheduling Package (MSP) with a scheduling product which is a standards-based, modular, extensible and scalable ¦
+
+Recently, when the winning proposals were announced, we decided to use the VA Scheduling Contest as a jump point to explore the importance of open calendaring and scheduling standards with respect to Healthcare IT, and what changes/additions to these same standards would facilitate healthcare IT for patients, providers, and software developers. Out of this discussion we are hoping to learn, at a functional level, what does Healthcare have today in C&S, what does HealthCare need in C&S that they do not have today, and what Healthcare will need tomorrow. We anticipate that CalConnect, in partnership with Healthcare IT, will undertake work in this area if needs are identified.
+
+With only two weeks to go before the Workshop (and CalConnect Conference), we are very pleased with the response the workshop has engendered. We have participants and attendees from Industry, the VA, and Non-profits coming together with the CalConnect membership.
+
+The program consists of some brief presentations to introduce and contextualize healthcare scheduling, followed by a panel discussion moderated by Scott Mace, Senior Editor  Technology at HealthLeaders Media and a member of the CalConnect board of directors. Following the panel discussion is the conference reception, intended as an informal and more social opportunity to continue the engaged interaction and participation we anticipate that the Workshop will engender.
+
+It is not too late to register for the workshop. If you would like to join us, please see link://workshopreg.shtml[CalConnect Workshop Registration].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/general-information[General Information]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+

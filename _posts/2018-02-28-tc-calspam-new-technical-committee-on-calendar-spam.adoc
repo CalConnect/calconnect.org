@@ -1,0 +1,32 @@
+---
+layout: page
+title: TC CALSPAM - New Technical Committee on Calendar Spam
+date: 2018-02-28
+type: news
+categories: announcements current-events special-focus the-world-of-calendaring
+excerpt: CalConnect has established a new Technical Committee on Calendar Spam, TC CALSPAM.
+---
+
+== TC CALSPAM - New Technical Committee on Calendar Spam
+
+[[node-464]]
+Posted February 28, 2018 
+
+CalConnect has established a new Technical Committee on Calendar Spam, TC CALSPAM.
+
+The goal of this TC is to better protect users from receiving undesired information delivered through calendar systems, which currently range from spam to phishing attacks.&nbsp; The TC aims to understand the current and potential usage of calendar systems as a vector for delivering undesired information; devise measures and best practices for developers and operators of those systems to ensure legitimate usage. The TC works together with M3AAWG through CalConnect s liaison relationship on the subject of calendar spam.
+
+More information about TC CALSPAM may be found at https://github.com/CalConnect/CALSPAM/blob/master/readme.md[Charter].
+
+https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300https://www.addthis.com/bookmark.php?v=300
+
+Categories:&nbsp;
+
+link:/news/announcements[Announcements]
+
+link:/news/current-events[Current Events]
+
+link:/news/special-focus[Special Focus]
+
+link:/news/the-world-of-calendaring[The World of Calendaring]
+
