@@ -3,6 +3,7 @@ layout: page
 title: Technical Committees and Provisional Committees
 type: about
 ---
+:page-liquid:
 = Technical committees and provisional committees
 
 _Last Updated October 2020_
@@ -30,14 +31,14 @@ CalConnect Standard, and/or submitted to an external SDO for progression within
 that organization. Finally Technical Committees may also collaborate externally
 towards the development of material which will not become a CalConnect Work
 Product but may be part of some other joint effort. See
-link:../resources[CalConnect Resources] for more information.
+link:{{'/resources' | relative_url}}[CalConnect Resources] for more information.
 
 Representatives of CalConnect members may participate upon any Technical
 Committee by contacting the Chair of the TC. Members may propose new Technical
 Committees to address areas of work not currently under consideration, and may
 offer a Chair for a new TC (or PC).
 
-For Closed Technical Committees please see link:/about/technical-committees/closed-tcs[Closed Technical Committees].
+For Closed Technical Committees please see link:{{'/about/technical-committees/closed-tcs' | relative_url }}[Closed Technical Committees].
 
 
 == Technical Coordination Committee (TCC)

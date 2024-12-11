@@ -3,6 +3,7 @@ layout: page
 title: About CalConnect Events
 type: events
 ---
+:page-liquid:
 
 == About CalConnect Events
 
@@ -32,7 +33,7 @@ conference, or as a completely separeate event; testing is now
 incorporated into the regular CalConnect Conferences and is generally
 not a separate event.
 
-A non-member may be an link:/observer[Observer] at a single
+A non-member may be an link:{{'/observer' | relative_url }}[Observer] at a single
 CalConnect Conference to determine whether they wish to join.
 
 Logistics information for each coming event is provided as early as
@@ -46,8 +47,8 @@ for all past events can also be found linked from the sidebar from this
 page.
 
 Information about how to register and pay for a CalConnect Conference
-may be found at link:/regtypes[Registration and Payment Options].
+may be found at link:{{'/regtypes' | relative_url }}[Registration and Payment Options].
 This page is also linked from each logistics page.
 
 Following each CalConnect Event, a report of the Conference is posted to
-link:/eventreports[CalConnect Conference Reports].
+link:{{'/events/event-reports' | relative_url }}[CalConnect Conference Reports].

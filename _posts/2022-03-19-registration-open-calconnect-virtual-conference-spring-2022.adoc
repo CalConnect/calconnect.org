@@ -7,18 +7,19 @@ category: Current-Events
 excerpt:
   The CalConnect Virtual Conference Spring 2022 web page  contains information about the timing, structure, and sessions offered for this virtual conference.
 ---
+:page-liquid:
 
-Posted March 19, 2022 
+Posted March 19, 2022
 
-The link:/events/calconnect-virtual-conference-spring-2022[CalConnect Virtual Conference Spring 2022] web page&nbsp; contains information about the timing, structure, and sessions offered for this virtual conference.&nbsp; .
+The link:{{'/events/calconnect-virtual-conference-spring-2022' | relative_url }}[CalConnect Virtual Conference Spring 2022] web page&nbsp; contains information about the timing, structure, and sessions offered for this virtual conference.&nbsp; .
 
 The CalConnect Conference is planned for the week of May 9-12, with the possibility of scheduling additional working sessions or testing on Friday Mat 13.
 
 The conference will be held via Zoom and we expect will last approximately 3-3.5 hours each day.&nbsp; Monday through Wednesday will be scheduled from 1030 to 1400 Eastern Standard Time.&nbsp; Thursday will be scheduled for our Asia/Pacific members and will begin at 0100 Eastern Standard Time.
 
-Please see the link:/events/calconnect-virtual-conference-spring-2022[CalConnect Virtual Conference Spring 2022] web page for more information, including the planned schedule for the event.
+Please see the link:{{'/events/calconnect-virtual-conference-spring-2022' | relative_url }}[CalConnect Virtual Conference Spring 2022] web page for more information, including the planned schedule for the event.
 
-Fees and Registration Options:&nbsp; The registration fee for the conference is $50 per person for members and non-members alike.&nbsp;&nbsp; Registration information is at link:/events/event-registration-payment[Registration Link] and is linked from the event web page.&nbsp; Please note that all registrations must be paid in advance of the conference.
+Fees and Registration Options:&nbsp; The registration fee for the conference is $50 per person for members and non-members alike.&nbsp;&nbsp; Registration information is at link:{{'/events/event-registration-payment' | relative_url }}[Registration Link] and is linked from the event web page.&nbsp; Please note that all registrations must be paid in advance of the conference.
 
 Event access information and credentials will be e-mailed to all registered participants late in the week prior to the conference.&nbsp; You must be registered to attend the event.
 

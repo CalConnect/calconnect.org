@@ -4,6 +4,7 @@ title: Timezone service and registry
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == Timezone service and registry
 
@@ -20,4 +21,4 @@ to be included by reference in events, rather than embedded in them, and
 ensure correct interpretation of dates and times even if the information
 changes.
 
-Details: link:/tc-timezone[TC TIMEZONE].
+Details: link:{{'/tc-timezone' | relative_url }}[TC TIMEZONE].

@@ -4,7 +4,7 @@ title: CalWS-REST and CalWS-SOAP
 type: about
 permalink: /about/major-work-projects/:title
 ---
-
+:page-liquid:
 == CalWS-REST and CalWS-SOAP
 
 "We need to (finally) provide platform and system-independent calendaring and
@@ -18,4 +18,4 @@ system-independent API for calendaring operations. CalWS-REST and
 CalS-SOAP provide both RESTful and SOAPy web service implementations of
 this API. The work is being done in partnership with OASIS.
 
-Details: link:/about/projects/oasis-ws-calendar[OASIS WS-Calendar]
+Details: link:{{'/about/projects/oasis-ws-calendar' | relative_url }}[OASIS WS-Calendar]

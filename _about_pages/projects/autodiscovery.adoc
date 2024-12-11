@@ -4,6 +4,7 @@ title: Autodiscovery
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == Autodiscovery
 
@@ -19,4 +20,4 @@ automatically discover and set up internet standards-based services such
 as e-mail, calendaring, address book, etc. which can be implemented in a
 single, easy to use user interface.
 
-Details: link:/tc-autodiscovery[TC AUTODISCOVERY]
+Details: link:{{'/tc-autodiscovery' | relative_url }}[TC AUTODISCOVERY]

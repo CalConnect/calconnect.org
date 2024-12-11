@@ -3,7 +3,8 @@ layout: page
 title: History
 type: about
 ---
+:page-liquid:
 = History
 
-link:/docs/CC32%20A%20History%20of%20CalConnect.pdf[An Anecdotal History of CalConnect: CalConnect 10th Annivesary (PDF)] +
+link:{{'/docs/CC32%20A%20History%20of%20CalConnect.pdf' | relative_url }}[An Anecdotal History of CalConnect: CalConnect 10th Annivesary (PDF)] +
 Dave Thewlis, January 28, 2015

@@ -3,6 +3,7 @@ layout: page
 title: Events & Activities
 type: events
 ---
+:page-liquid:
 = Events & Activities
 
 == CalConnect Events
@@ -21,21 +22,21 @@ public.
 
 == CalConnect Conferences
 
-* link:/conferences[*CalConnect Conferences*]
+* link:{{'/conferences' | relative_url }}[*CalConnect Conferences*]
 Specific information about upcoming Conferences can be found at
 
-* link:/events[Future Events]; generally the sessions and abstracts are
+* link:{{'/events' | relative_url }}[Future Events]; generally the sessions and abstracts are
 available several weeks before each event on the event web page. The
 event pages for past events can be found at
-link:/events/past-events[Past Events]. Reports on past events may be
-found at link:/events/event-reports[Event Reports]
+link:{{'/events/past-events' | relative_url }}[Past Events]. Reports on past events may be
+found at link:{{'/events/events/event-reports' | relative_url }}[Event Reports]
 or the https://standards.calconnect.org/[Standards Repository/Document
 Register].
 
-* link:/conferencefees[*Conference Fees*]
+* link:{{'/conferencefees' | relative_url }}[*Conference Fees*]
 Conference Registration Fees.
 
-* link:/conferencereg[*Conference Registration*]
+* link:{{'/conferencereg' | relative_url }}[*Conference Registration*]
 The Registration form for the upcoming Conference. This form is used for
 both member representatives and for observers.
 
@@ -43,7 +44,7 @@ both member representatives and for observers.
 == Other CalConnect Activities
 
 The technical work of CalConnect is largely done by
-link:/tcs-active[Technical Committees].
+link:{{'/tcs-active' | relative_url }}[Technical Committees].
 
 Any member of CalConnect may propose a Technical Committee, and nominate
 an individual to Chair the TC if it is approved. Approval of a new

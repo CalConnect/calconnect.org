@@ -4,7 +4,7 @@ title: Policies and Procedures
 type: about
 permalink: /about/policies/policies-and-procedures
 ---
-
+:page-liquid:
 == Policies and Procedures
 
 The following Policies and Recommendations have been adopted by The
@@ -158,15 +158,15 @@ _May 2005_
 [#0506]
 === 0506 Membership Agreement
 
-The Membership Agreement may be viewed at
-http://calconnect.org/mbragreement[Membership Agreement].
+The Membership Agreement may be viewed at link:{{'/membership/membership-agreement' | relative_url }}[Membership Agreement].
+
 
 _May 2005_
 
 [#0507]
 === 0507 Code of Conduct
 
-The Code of Conduct may be viewed at link:/conduct[Code of Conduct].
+The Code of Conduct may be viewed at link:{{'/membership/code-conduct' | relative_url }}[Code of Conduct].
 
 _May 2005_
 

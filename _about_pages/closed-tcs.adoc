@@ -4,6 +4,8 @@ title: Closed technical committees
 type: about
 permalink: about/technical-committees/closed-tcs
 ---
+:page-liquid:
+
 = Closed Technical Committees
 
 _As of October 2015_
@@ -18,7 +20,7 @@ disbanded either because they completed their charter and scope of work, or
 because their work was subsumed into another committee or process.
 
 Information about currently active Technical Committees may be found at
-link:/about/technical-committees[Active Technical Committees].
+link:{{'/about/technical-committees' | relative_url}}[Active Technical Committees].
 
 
 == CALSCALE Ad Hoc

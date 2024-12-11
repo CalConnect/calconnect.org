@@ -4,6 +4,7 @@ title: Event Publishing Extensions
 type: about
 permalink: /about/major-work-projects/:title
 ---
+:page-liquid:
 
 == Event Publishing Extensions
 
@@ -22,4 +23,4 @@ contacts
 support
 * images
 
-Details: link:/tc-eventpub[TC EVENTPUB]
+Details: link:{{'/tc-eventpub' | relative_url }}[TC EVENTPUB]

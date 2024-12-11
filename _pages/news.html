@@ -19,7 +19,7 @@ type: news
         <!-- Article Header -->
         <header>
             <!-- Post Title -->
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 
             <!-- Metadata for SEO and machine readability -->
             <span property="dc:title" content="{{ post.title }}" class="rdf-meta element-hidden"></span>
@@ -44,7 +44,7 @@ type: news
             <ul class="links list-inline">
                 <!-- 'Read More' link for detailed post -->
                 <li class="node-readmore first last">
-                    <a href="{{ post.url }}" rel="tag" title="{{ post.title }}">Read more</a>
+                    <a href="{{ post.url | relative_url }}" rel="tag" title="{{ post.title }}">Read more</a>
                 </li>
             </ul>
         </footer>

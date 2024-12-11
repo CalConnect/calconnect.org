@@ -3,6 +3,7 @@ layout: page
 title:  The CalConnect Distinguished Service Award
 type: membership
 ---
+:page-liquid:
 
 = The CalConnect Distinguished Service Award
 
@@ -43,7 +44,7 @@ CalConnect blog, and a report in the subsequent CalConnect event report.
 
 == Bernard Desruisseaux - Roundtable XXIII, February 2012
 
-image:/assets/images/dsadesruisseaux.jpg[/assets/images/dsadesruisseaux]Bernard
+image:{{'/assets/images/dsadesruisseaux.jpg' | relative_url }}[/assets/images/dsadesruisseaux]Bernard
 Desruisseaux of Oracle was the first recipient of the Distinguished
 Service Award. Bernard has been active in CalConnect since its founding
 in 2004: he was one of the original Oracle team at the very first IOP
@@ -72,7 +73,7 @@ presence, and hope that some day we may see him active once again.
 
 == Patricia Egen - Roundtable XXIV, May 2012
 
-image:/assets/images/dsaegen.jpg[/assets/images/dsaegen,width=250,height=313]
+image:{{'/assets/images/dsaegen.jpg' | relative_url }}[/assets/images/dsaegen,width=250,height=313]
 Pat has been involved with calendaring and scheduling for many years,
 and was responsible for a mainframe calendaring system, yes — such
 things really existed, some years ago. She became a champion for users
@@ -122,7 +123,7 @@ Thank you Pat, for your commitment to changing the calendaring world.
 
 == Cyrus Daboo - Roundtable XXVIII, September 2013
 
-image:/assets/images/dsadaboo.jpg[/assets/images/dsadaboo,width=250,height=374]
+image:{{'/assets/images/dsadaboo.jpg' | relative_url }}[/assets/images/dsadaboo,width=250,height=374]
 Cyrus earned his Doctorate in Physics from Cambridge University in the
 U.K.. and moved to the United States after working as a Research
 Associate at Cambridge in the mid-1990s. In the U.S. he founded his own
@@ -168,7 +169,7 @@ CalConnect and interoperable calendaring.
 
 == Mimi Mugler - Calconnect XXX, May 2014
 
-image:/assets/images/dsamugler.jpg[/assets/images/dsamugler,width=250,height=422]
+image:{{'/assets/images/dsamugler.jpg' | relative_url }}[/assets/images/dsamugler,width=250,height=422]
 
 Mimi became the University of California representative to CalConnect in
 early 2007, and the UC representative to the Steering Committee at the
@@ -202,7 +203,7 @@ involvement with CalConnect in the future.
 
 == Mike Douglass - Calconnect XXXI, October 2014
 
-image:/assets/images/dsadouglass.jpg[/assets/images/dsadouglass,width=275,height=361]
+image:{{'/assets/images/dsadouglass.jpg' | relative_url }}[/assets/images/dsadouglass,width=275,height=361]
 At CalConnect XXXI, hosted by Youcanbook.me in Bedford, United Kingdom,
 Mike Douglass of Rensselaer Polytechnic Institute was honored as our 5th
 recipient of the Distinguished Service Award.
@@ -231,7 +232,7 @@ many contributions to our success.
 
 == Pam Taylor - Calconnect XXXII, January 2015
 
-image:/assets/images/dsapamtaylor.jpg[/assets/images/dsapamtaylor,width=250,height=376]
+image:{{'/assets/images/dsapamtaylor.jpg' | relative_url }}[/assets/images/dsapamtaylor,width=250,height=376]
 At CalConnect XXXII, our Tenth Anniversary Meeting hosted by Kerio
 Technologies in San Jose, California, Pamela Taylor was honored as the
 6th recipient of the Distinguished Service Award. Unfortunately Pam was
@@ -256,7 +257,7 @@ future.
 
 == Dave Thewlis - Calconnect XXXII, January 2015
 
-image:/assets/images/dsadavethewlis.jpg[/assets/images/dsadavethewlis]
+image:{{'/assets/images/dsadavethewlis.jpg' | relative_url }}[/assets/images/dsadavethewlis]
 At CalConnect XXXII, our Tenth Anniversary Meeting hosted by Kerio
 Technologies in San Jose, California, Dave Thewlis was honored as the
 7th recipient of the Distinguished Service Award.
@@ -273,7 +274,7 @@ Secretary of the corporation.
 
 == Gary Schwartz - CalConnect XXXVIII, February 2017
 
-image:/assets/images/dsagaryschwartz.jpg[/assets/images/dsagaryschwartz]
+image:{{'/assets/images/dsagaryschwartz.jpg' | relative_url }}[/assets/images/dsagaryschwartz]
 At CalConnect XXXVIII, hosted by the University of California, Irvine in
 Irvine, California, Gary Schwartz of Rensselaer Polytechnic Institute
 was honored as our 8th recipient of the Distinguished Service Award.
@@ -302,7 +303,7 @@ forward to Gary’s continued involvement with CalConnect.
 
 == Ken Murchison - CalConnect XLI, January-February 2018
 
-image:/assets/images/KenMurchison.jpg[Ken
+image:{{'/assets/images/KenMurchison.jpg' | relative_url }}[Ken
 Murchison]At CalConnect XLI, hosted by Oath in Sunnyvale, California,
 Ken Murchison of FastMail was honored as our 9th recipient of the
 Distinguished Service Award.
@@ -343,7 +344,7 @@ calendaring and scheduling, CalConnect could not be what it is today.
 
 == Thomas Schäfer - May 2020
 
-image:/assets/images/ThomasSchaefer.png[Thomas
+image:{{'/assets/images/ThomasSchaefer.png' | relative_url }}[Thomas
 Schäfer,title="Thomas Schäfer"]The Board of Directors has honored Thomas
 Schäfer as the recipient of our tenth Distinguished Service Award.
 

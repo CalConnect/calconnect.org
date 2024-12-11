@@ -3,6 +3,8 @@ layout: page
 title:  7 Things You Should Know About...
 type: resources
 ---
+:page-liquid:
+
 = 7 Things You Should Know About...
 
 == General
@@ -18,7 +20,7 @@ available.
 
 == 7 Things You Should Know About The Abstract Calendaring API
 
-* link:/resources/7-things-you-should-know-about/abstract-calendaring-api[7 Things You Should Know About The Abstract Calendaring API]
+* link:{{'/resources/7-things-you-should-know-about/abstract-calendaring-api' | relative_url }}[7 Things You Should Know About The Abstract Calendaring API]
 
 "An abstract calendaring API is a model of calendar data and the
 operations upon it that is platform-independent. It specifies the rules
@@ -28,7 +30,7 @@ created and modified."
 
 == 7 Things You Should Know About Calendar and Contacts Sharing
 
-* link:/resources/7-things-you-should-know-about/calendar-and-contacts-sharing[7 Things You Should Know About Calendar and Contacts Sharing]
+* link:{{'/resources/7-things-you-should-know-about/calendar-and-contacts-sharing' | relative_url }}[7 Things You Should Know About Calendar and Contacts Sharing]
 
 "Calendar and Contacts Sharing is the process of sharing CalDAV
 calendars and CardDAV address books between users. "
@@ -36,7 +38,7 @@ calendars and CardDAV address books between users. "
 
 == 7 Things You Should Know About Consensus Scheduling
 
-* link:/resources/7-things-you-should-know-about/consensus-scheduling[7 Things You Should Know About Consensus Scheduling]
+* link:{{'/resources/7-things-you-should-know-about/consensus-scheduling' | relative_url }}[7 Things You Should Know About Consensus Scheduling]
 
 "Consensus scheduling is the process whereby a group comes to agreement
 on when (and maybe where) to hold a meeting or carry out a task, or
@@ -51,7 +53,7 @@ group."
 
 == 7 Things You Should Know About Digital Travel Itineraries
 
-* link:/resources/7-things-you-should-know-about/digital-travel-itineraries[7 Things You Should Know About Digital Travel Itineraries]
+* link:{{'/resources/7-things-you-should-know-about/digital-travel-itineraries' | relative_url }}[7 Things You Should Know About Digital Travel Itineraries]
 
 "Itineraries typically contain information about planned routes,
 schedules, events and tasks for a trip, often divided up into several
@@ -67,7 +69,7 @@ travel segment is expected to start or end."
 
 == 7 Things You Should Know About PUSH
 
-* link:/resources/7-things-you-should-know-about/push[7 Things You Should Know About PUSH]
+* link:{{'/resources/7-things-you-should-know-about/push' | relative_url }}[7 Things You Should Know About PUSH]
 
 "Push notifications allow servers to notify clients of changes to the
 stored data in a timely manner – possibly as soon as the changes occur –
@@ -77,7 +79,7 @@ rather than waiting for the client to ask the server about any changes
 
 == 7 Things You Should Know About Tasks
 
-* link:/resources/7-things-you-should-know-about/tasks[7 Things You Should Know About Tasks]
+* link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url }}[7 Things You Should Know About Tasks]
 
 "A "task" is a representation of an item of work assigned to an
 individual or organization. In

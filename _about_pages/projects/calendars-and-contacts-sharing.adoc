@@ -4,17 +4,17 @@ title: Calendars and Contacts Sharing
 type: about
 permalink: /about/major-work-projects/:title
 ---
-
+:page-liquid:
 == Calendars and Contacts Sharing
 
 "Sharing calendars and contacts between users, on the same system or across
 systems"
 
-link:/tc-sharing[TC SHARING] is working on sharing calendars anc
+link:{{'/tc-sharing' | relative_url }}[TC SHARING] is working on sharing calendars anc
 contacts between users on a CalDAV and/or CardDAV system by
 rationalizing and extending current informal specifications.
 
-link:/tc-fsc[TC FSC] (Federated Shared Calendars) is working on
+link:{{'/tc-fsc' | relative_url }}[TC FSC] (Federated Shared Calendars) is working on
 sharing calendars and hopefully contacts across calendaring system, e.g
 being able to share between multiple systems such as iCloud, Google
 Calendar, Yahoo!, AOL, and so forth.

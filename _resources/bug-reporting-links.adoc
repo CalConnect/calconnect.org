@@ -37,7 +37,7 @@ appropriate developer.
 
 |*fruux* |http://sabre.io[sabre/dav]
 |
-Follow link:http://sabre.io/support/[Support] to the various trackers and support forums.
+Follow https://sabre.io/support/[Support] to the various trackers and support forums.
 
 |*Milton* |https://github.com/miltonio/milton2[Milton] |File issues on https://github.com/miltonio/milton2/issues[GitHub]
 

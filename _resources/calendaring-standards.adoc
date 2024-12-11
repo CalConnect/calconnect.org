@@ -3,6 +3,8 @@ layout: page
 title:  An Introduction to Internet Calendaring and Scheduling
 type: resources
 ---
+:page-liquid:
+
 = An Introduction to Internet Calendaring and Scheduling
 
 :toc:
@@ -39,7 +41,7 @@ recent additions or changes to the page.
 [[General]]
 == General
 
-* link:/CD1012IntroCalendaring[*An Introduction to Internet Calendaring*]
+* link:{{'/CD1012IntroCalendaring' | relative_url }}[*An Introduction to Internet Calendaring*]
 This CalConnect guide introduces internet calendaring and the major
 standards and specifications related to calendaring and scheduling.
 *CalConnect*

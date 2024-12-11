@@ -14,7 +14,7 @@ Wednesday, April 20, 2016 - All Day
 
 ==== CalConnect, the Calendaring & Scheduling conference, invites you to attend our all-day Public Event at the Hong Kong International ITFest at the Hong Kong Convention and Exhibition Centre.
 
-image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/public_day_logo_0, width=800, height=464]
+image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[width=800, height=464]
 
 CalConnect Public Day at Hong Kong IT Fest, April 20, 2016
 

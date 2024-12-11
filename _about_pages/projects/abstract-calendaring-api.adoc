@@ -4,7 +4,7 @@ title: Abstract Calendaring API
 type: about
 permalink: /about/major-work-projects/:title
 ---
-
+:page-liquid:
 == Abstract Calendaring API
 
 We need a full "CRUD" (Create/Read/Update/Delete) Abstract Application
@@ -15,7 +15,7 @@ An Abstract Calendaring API from which fully compliant interfaces can be
 created will enable "Calendaring as a Platform" -- that is, any process
 running on a system can use the API to perform calendar and scheduling
 operations against any calendaring and scheduling implementation running
-on that system. link:/tc-api[TC API].
+on that system. link:{{'/tc-api' | relative_url }}[TC API].
 
-Details: link:/7_things_api[*Abstract Calendaring API*]
+Details: link:{{'/7_things_api' | relative_url }}[*Abstract Calendaring API*]
 

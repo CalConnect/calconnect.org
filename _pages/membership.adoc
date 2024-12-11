@@ -26,8 +26,8 @@ CalConnect and its mission and activities.
         <div class="views-row">
           <div class="views-field views-field-field-image">
             <div class="field-content">
-              <a href="{{ entry.url }}" title="{{ entry.name }}">
-                <img src="{{ entry.logo }}" alt="{{ entry.name }}" class="img-responsive">
+              <a href="{{ entry.url | relative_url }}" title="{{ entry.name }}">
+                <img src="{{ entry.logo | relative_url }}" alt="{{ entry.name }}" class="img-responsive">
               </a>
             </div>
           </div>

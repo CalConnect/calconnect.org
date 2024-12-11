@@ -3,6 +3,7 @@ layout: page
 title: Observers
 type: events
 ---
+:page-liquid:
 = Observers
 
 _Current as of February 2019_
@@ -19,8 +20,8 @@ CalConnect Conference as an Observer.
 Information about each CalConnect Conference (and former
 Interoperability Test Events) is published shortly after each event in
 event reports posted to the CalConnect website. See
-link:/eventreports[Event Reports] for an index of these reports.
-The reports cover what went on at the Conferencent, what the current
+link:{{'/events/event-reports' | relative_url }}[Event Reports] for an index of these reports.
+The reports cover what went on at the Conference, what the current
 work is in the Technical Committees, and broadly what we expect to be
 doing until the next event.
 
@@ -28,11 +29,11 @@ In the past, CalConnect separated its week into two segments:  an
 Interoperability Test Event for the first 2.5 days, and a Conference for
 the last 2.5 days.  Recently CalConnect has changed to a single 4-day
 event comprising both Conference activities and work sessions, which can
-include interoperabilty testing.
+include interoperability testing.
 
-Seeral years ago, CalConnect published a newsletter called _CalConnect
+Several years ago, CalConnect published a newsletter called _CalConnect
 Minutes_ after each event, containing much the same information. You can
-find copies of the newsletters at link:/minutes[CalConnect Minutes]. The
+find copies of the newsletters at link:{{'/minutes' | relative_url }}[CalConnect Minutes]. The
 newsletter ceased publication in 2012.
 
 
@@ -51,8 +52,10 @@ continue involvement after the Conference unless their organization
 joins CalConnect.
 
 Conference Observers are required to abide by the relevant clauses of
-the link:/mbragreement[Membership Agreement] and member
-representative link:/conduct[Code of Conduct] while attending the
+the
+link:{{'/membership/membership-agreement' | relative_url }}[Membership Agreement]
+and member
+representative link:{{'/membership/code-conduct' | relative_url }}[Code of Conduct] while attending the
 Conference and with respect to any actions resulting from the Conference
 in the future. The individual registering for the Conference as an
 observer must acknowledge that he or she, and any other individuals
