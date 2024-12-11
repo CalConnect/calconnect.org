@@ -1,0 +1,280 @@
+---
+layout: page
+name: CalConnect XLIII - September 24-27, 2018
+host_info: Hosted by 1&1, Karlsruhe, Germany
+date: 2018-09-24
+image: /assets/images/Karlsruhe.jpg
+---
+:page-liquid:
+
+== CalConnect XLIII - September 24-27, 2018
+
+[[intro]]
+image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Karlsruhe,width=656,height=305]
+
+CalConnect XLIII in Karlsruhe, Germany, hosted by 1&1
+
+Monday, September 24, 2018 to Thursday, September 27, 2018
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+2018-09-26 Adjusted Thursday schedule to accommodate work sessions in afternoon.
+
+2018-09-24 Thursday schedule re-arranged, feedback sessions added.
+
+2018-09-23 Wednesday schedule slightly re-arranged, added "Authoring CalConnect Standards" Lab to Wednesday afternoon. Monday and Tuesday schedules changed slightly.
+
+2018-09-20 Minor schedule/session changes, addition of session on JMAP for Calendar and Contacts.
+
+2018-09-11 Minor schedule/session changes and additions, event calendar updated.
+
+2018-09-07 Conference registration fee adjusted.
+
+2018-09-03 CalConnect rate at conference hotel available through 19 September or when the room block is exhausted.
+
+2018-08-14 Minor schedule/session changes, event calendar updated.
+
+2018-07-26 Subscribable (webdav) calendar for the event added.
+
+2018-07-24 Minor schedule/session changes; additional information for train bookings in transportation.
+
+2018--07-18 Preliminary Conference schedule and sessions added
+
+2018-07-06 Added information and link about Public Workshop Monday afternoon the 24th.
+
+CalConnect XLIII will be held in Karlsruhe, Germany, on September 24-27, 2018, hosted by 1&1.
+
+This event is the first preview of our new conference format. CalConnect XLIII will be four days (Monday through Thursday), and brings together, as a single event and with a single fee, our traditional conference (Conference Track), with elements of the former developers' forum (Technical Track). The two tracks are simply a handy guide to the session content, and all attendees are encouraged to attend sessions in both tracks. We will use your feedback and experience at Karlsruhe to help us fine-tune our new conference for events in 2019 and beyond.
+
+CalConnect XLIII is open to members, and to non-members as observers.
+
+*General Format:* Monday morning will be the opening of the technical track and an introduction for first-time attendees and observers. Monday afternoon will be the opening of the conference track, including status of CalConnect activities, and other CalConnect business, and a Public Workshop to introduce Calendaring & Scheduling to developers, which will be advertised in the Karlsruhe IT community. Tuesday, Wednesday and Thursday mornings will be conference track, afternoons will be technical track. The general content of the tracks is below; the Schedule section will include sessions for both the conference and technical tracks.
+
+*Conference track:*
+
+* Strategic topics and discussions.
+* Decisions on CalConnect business
+* Small BOF sessions to gauge interest
+* Small sessions to report on progress in technical tracks
+
+*Technical track:*
+
+* In depth discussions - possibly smaller groups as follow up from topics started at the conference
+* in depth BOF sessions
+* Face-to-face versions of TC calls
+* Development of data formats, protocols, standards (incl. Whiteboard work).
+* Joint work on CalConnect efforts such as the CalDAV Tester, iCal4J, DEVGUIDE, perhaps a reference specification for CalDAV or JSCalendar or...
+* *Test Lab*
++
+: testing of new components, testing and resolution of bugs and issues, test requests from TCs to confirm application behavior.
+
+*Public Workshop:* Monday 24 September, 1600-1730 - Introduction into Calendaring, Scheduling, address book and Date&Time, followed by a reception at 1800. See https://www.meetup.com/de-DE/TEC-Campus/events/252358527/ for more information.
+
+International Visitors
+
+In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure, please see http://href="http://www.germany-visa.org[German VISA Information].
+
+Conference Details
+
+We will begin each day at 0830 (rather than 0800 as in the past) with coffee. The first session will be at 0900 (rather than 0830). The default end for each day is now 1730 rather than 1800.
+
+Morning coffee (or tea) will be accompanied by fruit; however, you should plan to have your real breakfast prior to arriving at the venue.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XLIII; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
+
+[[location]]
+Location
+
+CalConnect XLIII will be held at the 1&1 facilities in Karlsruhe, at Ernst-Frey-Strae 10, 76135 Karlsruhe, Germany. The venue is less than a kilometer walk from the conference hotel, http://www.hotel-santo.de/[Hotel Santo], Karlstrae 67-69, 76137 Karlsruhe, Germany. Please note that the home page for the hotel is not available in English; English information may be found at booking.com: https://www.booking.com/hotel/de/santo-karlsruhe.en-gb.html[].
+
+Here is a map showing the locations of the venue, the hotel, and the main train station: https://drive.google.com/open?id=15uK6_ZfBrA3TO_WcAUVyxLjrUiw&usp=sharing[].
+
+For more information about Karlsruhe please see https://www.karlsruhe-tourismus.de/en/[].
+
+[[transportation]]
+Transportation
+
+If you will be arriving and departing by air, plan on arriving at Frankfurt International Airport (FRA) and take the train from Frankfurt Flughafen Fernbahnhof to Karlsruhe. The train station is physically within the Frankfurt airport. The train operates on an hourly basis (direct or via Mannheim), and will cost about 80¬ to Karlsruhe and back (flexible rate, less if you fix the time in advance), Please see https://www.bahn.com/en/view/index.shtml for booking information in English.
+
+The central train station at Karlsruhe is close to the conference hotel and the venue: https://drive.google.com/open?id=15uK6_ZfBrA3TO_WcAUVyxLjrUiw&usp=sharing[].
+
+Within Karlsruhe, either walk or use the tram: day ticket 6,40 ¬ (10,60 ¬ for a group up to 5); single ride 2 ¬.
+
+*Please Note:* Credit cards are not necessarily accepted universally in Germany, in particular by taxis. ATMs (cash tills) should be available at all airports, train stations, etc. and you should provide yourself with some cash if you haven't already.
+
+
+
+[[lodging]]
+Lodging
+
+The conference hotel is the http://www.hotel-santo.de/[Hotel Santo], Karlstrae 67-69, 76137 Karlsruhe, Germany. Please note that the home page for the hotel is not available in English; English information may be found at booking.com: https://www.booking.com/hotel/de/santo-karlsruhe.en-gb.html[].
+
+1&1 have reserved a block of 15 rooms for us at a rate of 80¬ incl. WLAN and breakfast (without our rate it is 130-150¬) per night, between September 23 and September 28. The rate will be available until a few days before the event (essentially 19 September) or if all 15 rooms are booked earlier.
+
+To obtain the rate you need to write an email to Julia Becker (mailto:jbecker@united-internet.de?subject=Hotel%20Santo%20Confirmation%20for%20CalConnect[jbecker@united-internet.de]) including the dates (from-to), your Name and your email address. Julia will inform the hotel of requests, and the hotel will send a confirmation email directly to the attendee. Please allow up to a week to receive the confirmation.
+
+The rate will be paid by each attendee as our service is just to provide the lower rate.
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT XLIII
+
+[cols="1,9"]
+|===
+2+| *Monday Morning 24 September - TECHNICAL TRACK*
+
+| 0830-0900 | Coffee, Fruit
+| ____0900-0930 
+a| Technical Track Opening +
+_Sign up for Test Lab, additional discussion topics, etc._
+
+| 0930-1030 | In-depth discussion: Server-Side Subscriptions
+| 1030-1100 | Break and Refreshments
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+
+| 1100-1215
+a| CalConnect CalDAV Tester status and joint work +
+_Making tests more generally applicable_
+
+| 1215-1230 | Technical Track wrapup and status for day
+| 1230-1330 | Lunch
+2+| *Monday Afternoon 24 September - CONFERENCE TRACK*
+| ____1330-1400 
+a| Conference Track Opening +
+_Welcome, logistics, introductions_ 
+
+| 1400-1430
+a| Reports on CalConnect Activities +
+_TC activity, IETF liaison, Report from the Board_
+
+| 1430-1500
+a| New and Non-Member Presentations +
+_Short introductions to new/non members attending_
+
+| 1500-1530 | Review of Technical Track discussions of special note
+| 1530-1600 | Break and refreshments
+| 1600-1730
+a| Public Workshop: Introduction to Calendaring & Scheduling +
+https://www.meetup.com/de-DE/TEC-Campus/events/252358527/[_https://www.meetup.com/de-DE/TEC-Campus/events/252358527/_]
+
+| 1730-1930
+a| Welcome Reception +
+_On premises_ 
+
+2+| *Tuesday Morning 25 September - CONFERENCE TRACK*
+| 0830-0900 | Coffee, Fruit
+| ____0900-0945 
+a| Developers Guide +
+_Presenting current status, new hosting option, request for content_
+
+| 0945-1030
+a| "Party Crashing" proposed specification +
+_What to do about uninvited attendees_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1200
+a| Review current work and status +
+_Series in Calendar Data, Server-Side Subscriptions, Streaming Calendar Data, Subscription upgrade. TZDIST, TZ Geolocation specs_
+
+| 1200-1230 | BOF: EU Time Zone direction and CalConnect actions (position paper, workshop at next event?)
+| 1230-1330 | Lunch
+2+| *Tuesday Afternoon 25 September - TECHNICAL TRACK*
+| ____1330-1430 | In-depth discussion: Streaming Calendar Data
+| 1430-1530
+a| RRULE expansion in existing implementations +
+_Review and generate test cases following the discussion on the tc calendar mailing list and planned CalConnect position paper_
+
+| 1530-1600 | Break and refreshments
+| 1600-1715
+a| In-depth discussion: Abuse audit draft +
+_How to store information on how an event ends up on someones calendar including exchange of audit information between server and client_
+
+| 1715-1730 | Technical Track wrapup and status for day
+2+| *Wednesday Morning 26 September - CONFERENCE TRACK*
+| 0830-0900 | Coffee, Fruit
+| 0900-1000
+a| CalConnect Standards, Publishing and Co-Publishing +
+_As result of our liaisons with other bodies, we will start publishing work done together with these bodies again, to show our contribution and raise the awareness of CalConnect being a standards body. Exchange about whats needed to do so (projects, new processes, voting)._ 
+
+| 1000-1030
+a| CalConnect Liaisons with other standards bodies +
+_With which bodies, why, what are we doing, value provided, how to get involved_ 
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130 | Introduction to CalConnect/ISO 8601-2
+| ____1130-1230 
+a| Calendar Spam +
+_Presenting status of Best Practices Document and process with M3AAWG as well as feedback from technical track session on abuse audit draft_
+
+| 1230-1330 | Lunch
+2+| *Wednesday Afternoon 26 September - TECHNICAL TRACK*
+| ____1330-1430 
+a| Authoring CalConnect Standards Lab +
+_Using Asciidoc and GitHub Repositories to author and publish CalConnect Standards_
+
+| ____1430-1530 
+a| TC VCARD, ISO TC 211, ISO 19160 +
+_Universal address profiles and evolution of vCard_
+
+| 1530-1600 | Break and refreshments
+| 1600-1630
+a| JSCalendar status, technical issues +
+_Review specification moving forward to last call for draft, extensions for address data and tasks_
+
+| 1630-1715
+a| JMAP for Calendar and Contacts +
+_Review JMAP Core status and work on a data model for synchronizing calendar and contacts data with a server using JMAP._
+
+| 1715-1730 | Technical Track wrapup and status for day
+| 1915-2130
+a| Conference Dinner +
+_Lehners_ 
+
+2+| *Thursday Morning 27 September - COMBINED*
+| 0830-0900 | Coffee, Fruit
+| 0900-0930 | Feedback on Standards Activities and New Confence Format
+| 0930-1000
+a| ISO TC 37 update +
+_Potential for TC on Languages/I18N/L10N_
+
+| 1000-1030
+a| Handling ETags in CalDAV +
+_The use of ETags in CalDAV appears to conflict with the specifications. We will try to develop a recommended approach._
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130
+a| CalDAV handling of public or shared calendars +
+_Supporting searching for, subscriptions and invitations to public calendars_ 
+
+| 1130-1145 | Technical Committee Directions for period to CalConnect XLIV
+| 1145-1230
+a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+| 1230-1330 | Lunch
+2+| *Thursday Afternoon 27 September - Working Sessions*
+| ____1330-1500 
+a| DevGuide Joint Work +
+_Work on increasing the content of DEVGUIDE following the short list of demanded/suggested content_
+
+| ____1330-1700 | CalDAV Tester Joint Work
+| 1530-1600 | Break and refreshments
+| 1700 | Close of CalConnect XLIII
+
+|===
+
+
+
+
+
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

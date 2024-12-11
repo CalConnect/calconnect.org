@@ -1,0 +1,404 @@
+---
+layout: page
+name: CalConnect XLI - January 29 - February 2, 2018
+host_info: Hosted by Oath, Sunnyvale, California
+date: 2018-01-29
+image: /assets/images/yahoo-campus.jpg
+---
+:page-liquid:
+
+== CalConnect XLI - January 29 - February 2, 2018
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/yahoo-campus.jpg' | relative_url }}[CalConnect
+in Sunnyvale, California January 29 - February 2 2018 hosted by
+Oath,width=800,height=533]
+
+CalConnect in Sunnyvale, California January 29 - February 2 2018 hosted by Oath
+
+Monday, January 29, 2018 to Friday, February 02, 2018
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+22 January 2018 - Tesit Event Dinner (Monday) and Conference Dinner (Thursday) locatiions added to schedules
+
+16 January 2018 - Address of building corrected to 700 First Avenue (from 701). Arrival directions added to Location section.
+
+12 January 2018 - JSCALENDAR session moved to Thursday morning; IMIP enhancements session added
+
+09 January 2018 - New TZDIST drafts on geolocation and binary format added to Developers Forum discussions
+
+14 December 2017 - Conference Sessions and Schedule, and Developers Forum/Test Event Discussion Topics, added.
+
+16 November 2017 - Updated Lodging information with a note about economy motel chains also in the area.
+
+15 November 2017 - Logistics information is provided and registration is open for CalConnect XLI.
+
+
+
+
+
+CalConnect XLI, consisting of a CalConnect Test Event and Developers Forum (Interoperability Testing and technical discussions of specifications and issues) and a CalConnect Conference (Members Meeting) will be held in Sunnyvale, California on January 29 -February 2, 2018, hosted by Oath.
+
+The Test Event/Developers Forum will take place all day Monday and Tuesday January 29-30, and Wednesday morning the 31st, ending before lunch. The Conference will open following lunch on Wednesday the 31st, and will run through Thursday and Friday, ending mid-afternoon on February 2.
+
+*Test Event and Developers Forum*: Open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xil-january-29-february-2-2018#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
+
+Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Conference:* The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and observers are welcome.
+
+The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
+
+
+
+Hosted by http://www.oath.com[Oath], Sunnyvale, California.
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:Dave.Thewlis@calconnect.org?subject=Request%20for%20Letter%20of%20Invitation[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XLI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the developers forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
+
+[[location]]
+Location
+
+The Developers Forum/Test Event (January 29-31) and the Conference (January 31-February 2) will be held at 700 First Avenue Building E, Sunnyvale, California, (This is a correction.) We will be in CL (Classrooms) 9/10 on the first floor, nearest to First Avenue.
+
+Driving: turn onto First Avenue and then turn LEFT into Building E Parking Lot. Main interence to building is across parking lot. Check in with the Welcome Desk at this entrance.
+
+The Wednesday Evening reception will probably be at the same location but details remain to be decided.
+
+[[transportation]]
+Transportation
+
+*Airport Information*: The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+Sunnyvale is close to San Jose International Airport and your hotel may offer a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area.
+
+SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK.
+
+*Ground Transportation*: Information on rental cars and shuttles is available on all three airport web====, as is taxi service.
+
+Please note that the meeting venue is not walkable from the conference hotel or indeed any hotels; you will need a rental car, commercial transportation, or to make ride sharing arrangements with other attendees.
+
+[[lodging]]
+Lodging
+
+Please be aware that there are no hotels within walking distance of the venue ((700 First Avenue, Sunnyvale), so you will need a rental car, use commercial transportation, or make arrangements to ride share with other attendees regardless of where you stay. Hotels are also very expensive in this area, however we have managed to identify a conference hotel available at a reasonable rate (for this area and time). Oath does not have a special rate available to non-employees, so you will need to make an open reservation, but you can use the senior discount, auto club discount, etc. As of mid-November it was possible to book at $239 per night (plus tax) or about $267 inclusive.
+
+There are also some economy motel chains in the area, such as Comfort Inn which may offer more attractive rates. The Comfort Inn Sunnyvale is at 900 W Weddell Drive, Sunnyvale CA 94089, 408-734-3742.
+
+
+
+The Conference Hotel is +
+ +
+ The Plaza Suites Silicon Valley +
+ 3100 Lakeside Drive +
+ Santa Clara, California +
+https://www.theplazasuites.com/ +
+ 1-408-748-9800 +
+ 1-800-345-1554 (Reservation Phone) +
+ 1-408-74-1476
+
+The hotel offers free Wifi, free parking, and a free hot breakfast.
+
+You can book online at the URL provided,or by calling 1-800-345-1554.
+
+[[test-schedule]]
+Test Event Schedule
+
+The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+===== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+
+a| *Monday 29 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and Discussions +
+ +
+ 1915-2100 Test Event Dinner +
+http://www.faultlinebrewing.com/[Faultline Brewing Company], Sunnyvale
+a| *Tuesday 30 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and Discussions
+a| *Wednesday 31 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1200 Testing +
+ 1200-1230 Wrap-up +
+ 1230 End of Test Event and Forum+
+ 1230-1330 Lunch
+
+|===
+
+
+Test Event Agenda
+
+Specific Areas for testing as identified by participants
+
+Specific testing areas may include the following; also see Baseline Testing below.
+
+* Sharing
+* CalDAV
+* CardDAV
+* iMIP
+* API <--> iCalendar
+* Calendar publication and subscription models
+
+=== Technical Topics for Developers Forum Discussions
+
+[[magicdomid80]]
+
+[[magicdomid83]]
+The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
+
+[[magicdomid84]]
+These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
+
+[[magicdomid85]]
+
+
+[[magicdomid86]]
+The schedule for these discussions will be decided on during the 2.5days and is very flexible.
+
+
+
+Specific discussion areas for CalConnec XL include at least:
+
+* New TZDIST drafts on geolocation and binary formats; general direction for TZDIST WG and the time zone data distribution service.
++
+
+** https://tools.ietf.org/html/draft-murchison-tzdist-geolocate-01
+** https://tools.ietf.org/html/draft-murchison-tzdist-tzif-00
+* Contact Model
+* Contact API
+* CalDAV support for relationships queries
++
+
+** Protocol support for retrieving related events and tasks
+** Discuss relationships queries; if in CalDAV no effect on 5545
+* CalConnect CalDAV Tester
++
+
+** Working towards a certification suite for CalDAV servers
+** Document in devguide
+* Streaming calendar data
+* CalConnect iCal4J
++
+
+** Proposed future developments for iCal4J, direction towards a common CalConnect implementation.
+* Make VPOLL work
+* Wikipedia updates (hackathon)
+* Review and update CalConnect Major Work Projects Page on website
+* Review and update Reading List page on website
+
+==== Please see the Reading List for the event at . The list contains URLs to all standards, drafts and specifications to be discussed or tested.
+
+==== Baseline Testing
+Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
+
+* CalDAV testing:
++
+
+** Access (basic operations of CalDAV)
+** Scheduling
+** Sync report (depth: 1 on home collection)
+** Mobile
+** Sharing
+** Prefer Header
+* Managed Attachments
+* iSchedule:
++
+
+** Server discovery
+** DKIM security
+* Timezones:
++
+
+** Service Protocol
+** Timezones by Reference
+* Calendar Alarms:
++
+
+** Snooze
+** Default alarms
+* VPOLL support in clients and servers
+* VAVAILABILITY support in clients and servers
+* Autodiscovery protocol
+* Non-gregorian calendar recurrences via RRULE and RSCALE
+* iCalendar:
++
+
+** Rich text and other new properties (and hashing)
+* iMIP
+* iTIP
+* jCal, the JSON format for iCalendar - libraries and servers
+* xCal, the XML format for iCalendar
+* Enhanced VTODO support
+* CardDAV testing:
++
+
+** Generic
+** Sync report
+** Mobile
+** vCard 4
+
+===== Who May Participate or Observe
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+===== Registration
+Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
++
+: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
++
+: Register one to six people as
++
+link:{{'/events/observers' | relative_url }}[observers]
++
+for the CalConnect Interoperability Test Event.
+
+===== Interoperability Event Scenarios
+If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+
+
+[[conference-schedule]]
+Conference Schedule
+
+===== CALCONNECT XLI CONFERENCE
+The session schedule may still undergo some changes, especially rearranging times of sessions, as we get closer to the event.
+
+[cols=2]
+|===
+2+| *Wednesday 31 January 2018*
+
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| Conference Opening and Introductions +
+_Welcome, Logistics, Introductions_
+
+| 1400-1430
+a| Reports on CalConnect activities +
+_Test Event and Dev Forum, TC activity, IETF, Report from the Board_
+
+| 1430-1445 | New and Non-Member Presentations
+| 1445-1530 | Oath Host Session
+| 1530-1600 | Break and Refreshments
+| 1600-1630 | ISO Liaison Status (TC 154, TC 211)
+| 1630-1700
+a| M3WAAG Liaison Status and Calendar Spam +
+_We have established a new liaison with the Message, Malware and Mobile Anti-Abuse Working Group (M3AAWG). We will discuss the goals and cooperation level._
+
+| 1700-1800 | VPOLL status, modes and capabilities, demo
+| 1800-2000
+a| Welcome Reception +
+_TBD probably onsite_
+
+2+| *Thursday 01 February 2018*
+| 0800-0830 | Coffee & Rolls
+| 0830-0915
+a| Support for Series in iCalendar +
+_An alternative to recurrences_
+
+| 0915-1000
+a| CalDAV/CardDAV Sharing +
+_Review current status of sharing drafts; discuss CalDAV sharing modes, scheduling, and handling of per-user datar_
+
+| 1000-1030
+a| Calendar Subscription Upgrades +
+_Allowing the server to advertise more efficient forms of subscription and enhancements to HTTP GET for simple synchronization_
+
+| 1030-1100 | Break and refreshments
+| 1100-1200
+a| JSCalendar: JSON Representation for Calendar Data +
+_TC API status and issues; support for VCARD, VTODO, categories, IETF status._ 
+
+| 1200-1230
+a| IMIP Enhancements +
+_Discuss IMIP features to be added or improved to better handle scheduling invites and responses_ 
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| Generic notification systems for alarms +
+_A mechanism to inform calendar systems of when notifications should occur - leaving the exact mechanism to the recipient_
+
+| 1400-1500
+a| Streaming calendar data +
+_An approach to handling possibly infinite streams of calendar data_
+
+| 1500-1530
+a| Calendar Developers Guide (DEVGUIDE) +
+_Current status, statistics and future areas of enhancement._
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| VCARD, TC 211 and ISO 19160 +
+_Representing non-western address formats in VCARDs, collaboration with ISO TC 211, synchronization with ISO 19160._
+
+| 1700-1800
+a| Planning for CalConnect XLII in Tokyo +
+_Review and discuss plans for the conference including hosting some members from JEDC (Japan Event Data Consortium) to discuss their ideas on calendaring & ask questions to CalConnect members about standardization._ 
+
+| 1900-2100
+a| Conference Dinner +
+https://www.thefishmarket.com/[The Fish Market], Santa Clara 
+
+2+| *Friday 02 February 2018*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930
+a| Status of RFC 5545 (iCalendar) +
+_Do we revise RFC 5545 with errata and best practices, pitfalls, etc. versus putting new efforts into JSCalendar?_
+
+| 0930-1030
+a| Providing infrastructure services +
+_Should CalConnect provide infrastructure services such as a time zone server, an ISO address profile registry, etc.?_ 
+
+| 1030-1100 | Break and refreshments
+| 1100-1200
+a| Future Areas of Engagement for CalConnect +
+_Where (else) should we be active_
+
+| 1200-1230 | Improving and increasing engagement in technical committees
+| 1230-1330 | Lunch
+| 1330-1400
+a| The CalConnect Week +
+_Review and summarize proposals and alternatives from previous discussions_
+
+| 1400-1415 | Technical Committee Futures for period to CalConnect XLII
+| 1415-1500
+a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
+
+| 1500 | Close of CalConnect XLI
+
+|===
+*Please see the Reading List for at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List][]. The list contains URLs for all standards, drafts and specifications to be discussed.*

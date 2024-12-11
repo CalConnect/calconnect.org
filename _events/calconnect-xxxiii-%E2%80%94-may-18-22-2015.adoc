@@ -1,0 +1,313 @@
+---
+layout: page
+name: CalConnect XXXIII - May 18-22, 2015
+host_info: Hosted by 1and1, Bucharest, Romania
+date: 2015-05-18
+image: /assets/images/Bucharest.jpg
+---
+:page-liquid:
+
+== CalConnect XXXIII - May 18-22, 2015
+
+=== CalConnect Interoperability Test Event - Monday-Wednesday +
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/Bucharest.jpg' | relative_url }}[Skytower
+in Bucharest, Romania,width=800,height=420]
+
+Skytower in Bucharest, Romania
+
+Monday, May 18, 2015 to Friday, May 22, 2015
+
+CalConnect XXXIII, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be hosted by http://1und1.de[1and1] at its Bucharest office on May 18-22, 2015. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday May 18-19, and Wednesday morning May 20, ending at noon. The Conference will begin with lunch at 12:00 on Wednesday May 20, and last through Friday May 22. +
+ +
+ An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 20th for first-time attendees.  
+
+[cols="1,19"]
+|===
+| 
+a| *CalConnect Interoperability Test Event*: +
+ +
+ The Interoperabilty Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event] for current information. Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You do not need finished or polished code to participate in the interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*CalConnect Conference XXXIII:* The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and http://calconnect.org/observer.shtml[observers] are welcome. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+|===
+
+
+
+International Visitors
+
+Citizens of the United States, Citizens of States of the Shengen Agreement, and U.K. citizens do not require a visa to visit Romania. if you are unsure, the following link provides detailed information for visitors: http://www.mae.ro/en/node/2040[].
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event. +
+ +
+*Special Registration Fees for first-time attendees*: For CalConnect XXXIII, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the http://calconnect.org/iopregparticipant.shtml[Interoperability Test Event Registration], and $0 on the http://calconnect.org/conferencereg.shtml[Conference Registration], for each person being registered.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Conference will take place at http://skytower.ro[Skytower.ro], 246C Floreasca Street, District 1, 014476 Bucharest, Romania. We will be meeting on the 34th Floor. +
+ +
+_Initial check-in on your first day will be at Reception on the ground floor. When you have registered you will be issued an access card for the 34th floor only. Retain the card through the week but return it to Reception when you leave for the very last time._ +
+ +
+ For a map of Bucharest showing the location of the Conference Hotel and Sky Tower, see https://www.google.com/maps/d/viewer?mid=zR5k8eC16_3s.k71zZt3f5ysI[].
+
+[[transportation]]
+Transportation
+
+Bucharest is served by Henri CoandÄ Airport Bucharest - Otopeni http://www.bucharestairports.ro/en/[]. The airport offers direct connections to/from London, Frankfurt, Munich, Amsterdam, Paris, Vienna, Dubai, Beijing and more. +
+ +
+*Ground Transportation:*
+
+* Caro Golf Hotel (the conference hotel): Price for one person is 18 Euros, for two 10 Euros each. You can book transportation with the hotel using the code "CalConnect" - see hotel information below for details. This can be done at the same time you book your room or by e-mail to the hotel at a later time.
+* Black Cab: The price is approximately 14.88 Euros, maximum capacity is three people. You can book by sending an e-mail to Elena Zamfir
++
+mailto:elena.zamfir@1and1.ro[elena.zamfir@1and1.ro]
++
+.
+* Airport taxi: This is not recommended as the price varies substantially between companies. If you wish a taxi you can find the information at
++
+http://www.bucharestairports.ro/en/transport/taxi[]
++
+.
+* Public transportation: The existing predetermined routes do not cover the location of the conference or conference hotel.
+
+Other than using a taxi between the airport and the conference hotel, taxi is a cheap and reliable way to travel within Bucharest; there is no need to hire a car.
+
+[[lodging]]
+Lodging
+
+The conference hotel for this event is the Caro Golf Hotel http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/[]. +
+ +
+ The Caro Hotel is located 500 meters from Sky Tower, so it is easy to walk between the hotel and the conference location. +
+ 
+
+[cols="1,9"]
+|===
+| 
+.<a| *Caro Golf 4* +
+ 164 A Barbu Vacarescu Blvd +
+ 2nd Distrrict +
+ 020285 Bucharest +
+ Romania +
+http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/
+
+|===
+
++
+ We are offering a special rate of 65 Euros per room/night (including breakfast, free wifi & SPA access) for a single room (1 person), 75 Euros per room/night for a double or twin room (2 people). Please note that in order to receive the special CalConnect rate, *you cannot book online via the hotel website*. You must complete and send this linked http://calconnect.org/CARO%20Hotel%20Booking%20form.doc[CARO Hotel Booking Form] reservation form to the hotel by fax or as an attachment to an e-mail. Note that the booking code "CalConnect" is entered in the special rate field. +
+ +
+ FAX: +402 1 208.61.01 +
+ E-Mail: mailto:reservation@carohotel.ro[reservation@carohotel.ro] +
+ +
+ If you wish to arrange for transportation from the airport with the hotel, please use the "Special requests" field and supply your date and time of arrival, airline and flight number, and number of people. +
+ +
+_If you do not wish to put your credit card information in the form, then_
+
+* _Enter the type of credit card and add "call me for card number" and the hotel will contact you at the telephone number supplied;_
+* _Or add "I will call with credit card information" and call hotel reservations at +402 1 208.61.28 between 09:30 and 18:00 Romanian time (EET, UTC+2). If you do this tell them to e-mail you your confirmation._
+
+_Alternatively you can book online at the hotel website but you will not receive the special CalConnect rate._
+
+[[test-schedule]]
+Test Event Schedule
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Conference begins with lunch on Wednesday and runs through Friday afternoon. +
+ +
+ As breakfast is offered by the hotel we will not be offering a breakfast at the conference facility, but we will have coffee and rolls at 0800. The program for each day starts at 0830 and runs until 1800. +
+ 
+
+[cols=3]
+|===
+3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
+
+.<a| *Monday 18 May* +
+ 0800-0830 Coffee Service +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 Breakout: API discussions +
+ 1330-1530 Testing +
+ 1430-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1900-2100 Interop Test Dinner +
+_http://trattoriailcalcio.ro/barbu-vacarescu-2/[Trattoria Il Calcio]_ +
+ Strada Glodeni 1-3, BucureÅti 023824, Romania +
+ (within the Pescariu Sports & SPA)
+.<a| *Tuesday 19 May* +
+ 0800-0830 Coffee Service +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 Breakout: iMIP +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 Breakout: DAV PUSH +
+ 1330-1530 Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+.<a| *Wednesday 20 May* +
+ 0800-0830 Coffee Service +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 Testing +
+ 1200-1230 Wrap-up +
+ 1230 End of IOP Testing +
+ +
+ 1230-1330 Lunch/Opening^1^ 
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+[cols=3]
+|===
+3+.<| *CALCONNECT XXXIII CONFERENCE*
+
+3+| 
+3+.<| *Wednesday 20 May*
+3+| 
+.<| 1100-1200 |  .<| Introduction to CalConnect Q&A^2^ 
+.<| 1230-1330 |  .<| Lunch
+.<| 1330-1400 |  .<| Welcome and IOPTEST Summary
+.<| 1400-1445
+| 
+.<a| Technical Committee Summaries and IETF Status +
+_A summary of what each Technical Committee (TC) has worked on and the interoperability testing that has taken place. Will also cover new and changed draft specifications, and a description of new "stable" specifications that implementors should begin working on (e.g RSCALE, relationships, etc.)_ 
+
+.<| 1445-1530
+| 
+.<a| Embedding Calendar Data in Media (QRCODE, Data URI) +
+_Using QRcode and data URIs to make calendar data available without networking_ 
+
+.<| 1530-1600 |  .<| Break and Refreshments
+.<| 1600-1645
+| 
+.<a| Investigating Scheduling in Government +
+_Discussion of common issues that affect governmental services, for example health care, appointments with officials; development of use cases, guide to what they could do with calendaring_ 
+
+.<| 1645-1730 |  .<| Non-member and new member presentations
+.<| 1745-1800 |  .<| Host Presentation
+.<| 1800-2000 |  .<| Welcome Reception^3^ 
+3+| 
+3+.<| *Thursday 21 May*
+3+| 
+.<| 0800-0830 |  .<| Coffee Service
+.<| 0830-0900 |  .<| Opening
+.<| 0900-0945
+| 
+.<a| Changes to the scheduling model +
+_The current - enterprise meeting oriented - scheduling model does not address all current needs, e.g. multiple organizers or no organizer are common models not supported._ 
+
+.<| 0945-1030
+| 
+.<a| Shared calendars and address books +
+_Issues such as scheduling in shared calendars, address book sharing models (sharing of groups, individual contacts, etc) will be discussed._ 
+
+.<| 1030-1100 |  .<| Break and refreshments
+.<| 1100-1145
+| 
+.<a| Consensus Scheduling and Office Hours applications (i.e. reverse scheduling) +
+_The use of VPOLL and VAVAILABILITY_ 
+
+.<| 1145-1200 |  .<| Consensus Scheduling demonstration
+.<| 1200-1230 |  .<| BOF - documentation for "private" specifications
+.<| 1230-1330 |  .<| Lunch
+.<| 1330-1415
+| 
+.<a| Identity crisis revisited +
+_Using email addresses from outside your domain as identifiers leads to problems. Many services did so and some are now backing out. How does this affect protocols and services such as iSchedule?_ 
+
+.<| 1415-1500
+| 
+.<a| TC API data model +
+_The first step in producing the new API is to define a concrete data model and Rest/URI mapping actions on that. We will discuss the options available._ 
+
+.<| 1500-1530 |  .<| Open BOF
+.<| 1530-1600 |  .<| Break and refreshments
+.<| 1600-1630
+| 
+.<a| Calendaring systems in general (solar, luni-solar, etc.) +
+_Discussion of non-Gregorian calendaring systems (from a historical aspect) as well as how the new RSCALE iCalendar spec can be used._ 
+
+.<| 1630-1700
+| 
+.<a| RSCALE +
+_Implementing recurrences in different calendar scales_ 
+
+.<| 1700-1745
+| 
+.<a| Technical Committee work in a global organization +
+_We now have members/member reps in ten time zones and soon more. What means of working can we develop to allow participation from individuals around the world in the work of our TCs? What are best practices and good approaches?_ 
+
+.<| 1930-2200
+| 
+.<a| Conference Dinner^4^ +
+_http://www.carucubere.ro/en/[Caru' cu bere]_ +
+ Strada Stavropoleos, BucureÅti, Romania
+
+3+| 
+3+.<| *Friday 22 May*
+3+| 
+.<| 0800-0830 |  .<| Coffee Service
+.<| 0830-0900 |  .<| Opening
+.<| 0900-0945
+| 
+.<a| Aligning the task model with project and building management +
+_Adding new properties to describe relationships and status_ 
+
+.<| 0945-1030
+| 
+.<a| iCalendar 3 +
+_Is it time to consider a major overhaul of the representation and data model or can we continue to add new features to the current model._ 
+
+.<| 1030-1100 |  .<| Break and refreshments
+.<| 1100-1145
+| 
+.<a| Security model/technologies for iSchedule and Federated Sharing +
+_Sending sharing invitations and other data requires some degree of security. Some models allow features, such as end to end privacy._ 
+
+.<| 1145-1230
+| 
+.<a| Sending invitations through something other than e-mail +
+_Email is often not the primary vehicle for messaging among people. Instant messaging and other services should be considered as a way to deliver invitations and notifications. New mime types are one possible solution._ 
+
+.<| 1230-1330 |  .<| Lunch
+.<| 1330-1415
+| 
+.<a| CalDAV Topics +
+ _Progress on the server information specification +
+ Server and client capability matrix_ 
+
+.<| 1415-1500
+| 
+.<a| DEVGUIDE progress +
+_Discuss the progress of the work in the new TC. Solicit additional topics that should be included in the Devguide._ 
+
+.<| 1500-1530 |  .<| Technical Committee Directions - goals for the next Conference
+.<| 1530-1600 |  .<| Break and refreshments
+.<| 1600-1700
+| 
+.<a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+.<| 1700 |  .<| Close of meeting.
+
+|===

@@ -1,0 +1,272 @@
+---
+layout: page
+name: CalConnect XXXII - January 26-30, 2015
+host_info: Hosted by Kerio Technologies, San Jose, California
+date: 2015-01-26
+image: /assets/images/SanJoseCA.jpg
+---
+:page-liquid:
+
+== CalConnect XXXII - January 26-30, 2015
+
+=== CalConnect Interoperability Test Event - Monday-Wednesday +
+CalConnect 10th Anniversary Celebration - Wednesday +
+CalConnect Conference - Thursday-Friday
+
+[[intro]]
+image:{{'/assets/images/SanJoseCA.jpg' | relative_url }}[San
+Jose, California,width=800,height=600]
+
+Monday, January 26, 2015 to Friday, January 30, 2015
+
+Recent Changes:
+
+_Information is current to January 14, 2015_ +
+ Finish time on Thursday and time of conference dinner updated
+
+CalConnect XXXII, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in San Jose, California, on January 26-30, 2015, hosted by Kerio Technologies. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday January 26-27, and Wednesday morning January 28, ending at noon. The Conference will begin with lunch at 12:00 on Wednesday January 28, and last through mid-afternoon Friday January 30. +
+ +
+ An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 28th for first-time attendees. +
+ +
+ +
+*This event will be CalConnect's 10th Anniversary Meeting, and Wednesday afternoon and evening will be devoted to Anniversary events. The regular Conference will happen Thursday and Friday. For more about the Tenth Anniversary Celebration, which will be open to non-members without a fee, see http://calconnect.org/tenthanniversary.shtml[Tenth Anniversary Celebration]*.
+
+*CalConnect Interoperability Test Event*: +
+ +
+ The Interoperabilty Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event] for current information. Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*CalConnect 10th Anniversary*: See http://calconnect.org/tenthanniversary.shtml[Tenth Anniversary Celebration] for more information about the Anniversary and how to attend. If you are registered for the CalConnect Conference you are automatically registered for the Tenth Anniversary Celebration, however it is possible to register only for the celebration at http://calconnect.org/anniversaryreg.shtml[Tenth Anniversary Registration]. +
+ +
+*CalConnect Conference:* The CalConnect Conference will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium. +
+ +
+ See this link for a map of the area: https://mapsengine.google.com/map/edit?hl=en&authuser=0&mid=zAGk0uNAIT6I.kXVQlWIS7Quk[CalConnect XXXII].
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
+ +
+ As noted above, San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+
+[[location]]
+Location
+
+Monday and Tuesday of the Interoperability Test Event will take place at Kerio Technologies' Santa Jose Headquarters, 111 North Market Street, 6th Floor, San Jose, California 95113. Kerio is within walking distance of the Conference hotel (see below). There is a large parking garage about a block south of the Kerio buildling at 43-51 North Market Street with a maximum rate of about $20 per day, and an open air public parking lot across the street from Kerio that charges $10 per day (at the corner of West St James and North San Pedro Streets). +
+ +
+ Wednesday through Friday, comprising the last part of the test event, all 10th Anniversary activities, and the CalConnect Conference, will take place in the De Anza Room of the Conference Hotel, Hotel De Anza, 233 West Santa Clara Street, Downtown San Jose, CA 95113.
+
+[[transportation]]
+Transportation
+
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
+ +
+ San Jose Mineta International Airport is the closest to Kerio Technologies and to the Hotel De Anza (which is about 3 miles from the airport). Unfortunately the hotel does not offer a shuttle service and recommends taking a taxi from the San Jose airport. San Francisco International has the most flights and airlines serving it and is probably the only realistic option for international travelers but is further from San Jose; you will need to drive or use a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area but might offer attractive fares. +
+ +
+*Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. Using public transportation is not straightforward from any of the airports to the conference hotel, although it is possible with time and ingenuity.
+
+[[lodging]]
+Lodging
+
+Our conference hotel for this event is the Hotel De Anza in San Jose, also the location of the event Wednesday through Friday. Unfortunately space in the De Anza and other hotels in the area has become expensive and scarce, due to other activities in San Jose that week. Hotels within a few miles seem to be possible and we will try and help arrange carpooling if we can; options such as AirBnB are also possible. The De Anza is within walking distance of Kerio Technologies, where the test event will be held on Monday and Tuesday; the rest of the week will be at the hotel. The Hotel De Anza does offer valeted parking at $20 per day; their website also offers links to other parking facilities nearby. +
+ 
+
+[cols="1,9"]
+|===
+| 
+.<a| *The Hotel De Anza* +
+ 233 West Santa Clara Street +
+ Downtown San Jose, CA 95113 +
+ Phone: +1 408 286 1000 +
+http://hoteldeanza.com +
+ +
+ To book by telephone, call +1 408 285 1000 or tollfree +1-800-843-3700. +
+ To book online, go to http://hoteldeanza.com and click on "Reservations".
+
+|===
+
+
+
+[[test-schedule]]
+Test Event Schedule
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday at Kerio HQ. It will continue Wednesday morning at the De Anza hotel. The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
+ +
+*Please note that the schedules and programs below are tentative and will be updated as we have more information.*
+
+[cols=2]
+|===
+2+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
+
+.<a| *Monday 26 January* +
+*Kerio Technologies, 111 N. Market Street* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1430-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1915-2130 Interoperability Test Event Dinner +
+http://www.britanniaarmsdowntown.com/[_The Britannia Arms_] +
+ 173 W. Santa Clara Street, San Jose 
+.<a| *Tuesday 27 January* +
+*Kerio Technologies, 111 N. Market Street* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
+ +
+*Please note that the schedules and programs below are tentative and will be updated as we have more information.*
+
+[cols=3]
+|===
+3+.<| *CALCONNECT XXXII*  *De Anza Room, Hotel De Anza, 233 West Santa Clara Street, San Jose*
+
+3+| 
+3+.<| *Wednesday 28 January  CalConnect 10th Anniversary Celebration*
+3+| 
+.<| 1100-1200 |  .<| Introduction to CalConnect^2^ 
+.<| 1200-1300 |  .<| Lunch
+.<| 1300-1330 |  .<| Welcome
+.<| 1330-1400 |  .<| History of CalConnect
+.<| 1400-1430 |  .<| The Freebusy Challenge
+.<| 1430-1500 |  .<| Calendaring as a Platform: smart power grid, travel, logistics and package delivery, scheduling
+.<| 1500-1530 |  .<| Break and Refreshments
+.<| 1530-1615
+| 
+.<a| Invited Speakers +
+Timezones: Steve Allen, Unversity of California Lick Observatory +
+ CalDAV: Lisa Dusseault, Klutch  
+
+.<| 1615-1745
+| 
+.<a| Panel Discussion: The Future of Calendaring +
+Lucia Fedorova, Google +
+ Gershon Janssen, Secretary, OASIS Board of Directors +
+ Scott Mace, CalendarSwamp blog, CalConnect Director +
+ Pete Resnick, Qualcomm, IETF Area Director +
+ Scott Schreiman, CEO, Kerio Technologies +
+ Nick Sonnenberg, CEO, Calvin
+
+.<| 1745-1800 |  .<| What CalConnect Means to Us
+.<| 1800-2030 |  .<| Welcome Reception^3^ 
+3+| 
+3+.<| *Thursday 29 January  CalConnect Conference*
+3+| 
+.<| 0800-0830 |  .<| Coffee & Rolls
+.<| 0830-0900
+| 
+.<a| Opening session +
+_Logistics, introductions, format of Conference_ 
+
+.<| 0900-0930
+| 
+.<a| First time attendees +
+_New member presentations, special guests_ 
+
+.<| 0930-1030
+| 
+.<a| Technical Committee Summary +
+_A summary of what each Technical Committee (TC) has worked on and the interoperability testing that has taken place. Will also cover new and changed draft specifications, and a description of new "stable" specifications that implementors should begin working on (e.g RSCALE, relationships, etc.)_ 
+
+.<| 1030-1100 |  .<| Break and refreshments
+.<| 1100-1230
+| 
+.<a| The task model - how to align the iCalendar data model with project management and process workflow? +
+_We will discuss some of the reasoning behind the work and how it is relevant to work going on elsewhere such as the OASIS LegalXML TC and the Smart Power Grid. We will also present the new relationships models._ 
+
+.<| 1230-1330 |  .<| Lunch
+.<| 1330-1400
+| 
+.<a| VPOLL (Consensus Scheduling) +
+_A demonstration of current work incorporation JCAL (JSON format for iCalendar), iSchedule (synchronous inter-server scheduling), and VPOLL (a new iCalendar component which allows for consensus scheduling, that is voting on a number of alternative meeting or task alternatives)._ 
+
+.<| 1400-1530
+| 
+.<a| Making standards-based calendaring relevant to the enterprise +
+_Most calendar standards are based on REST, however many large industries live in the SOAP world. Which opportunuties for better integration of both worlds exist? While these industries are not ignorant of the existance and value of other protocols - and are interested in the use of REST and JSON representations - they have large infrastructures based on SOAP. Additionally SOAP provides a different perspective on managing data - the converse of what RFC 5545 (iCalendar) states in that it is part of the framework that any unrecognized data elements are dropped during parsing. This requires that there be some form of patch/update/diff mechanism to allow updating of calendars. The work done on CalWS, which already has such a mechanism, can inform the work done by TCs such as TC-API and TC-CALDAV in trying to develop such mechanisms for those protocols. We hope to discuss how this provides opportunuties for all as we strive for better integration of the SOAP/DAV and REST worlds. Experience with CalWS has indicated that we need to do a better job of describing the data model. Work taking place in TC-API will hopefully address this._ 
+
+.<| 1530-1600 |  .<| Break and refreshments
+.<| 1600-1700
+| 
+.<a| Non-member presentation/problem/discussion +
+_A more in-depth presentation of new problems to be solved._ 
+
+.<| 1815-2115
+| 
+.<a| Conference Dinner^4^ +
+http://www.thefarmersunion.com[_The Farmers Union_] _(John P. Room upstairs)_ +
+ 151 W. Santa Clara Street San Jose 
+
+3+| 
+3+.<| *Friday 30 January  CalConnect Conference*
+3+| 
+.<| 0800-0830 |  .<| Coffee & Rolls
+.<| 0830-0930
+| 
+.<a| The "identity crisis" +
+_Using email addresses from outside your domain as identifiers leads to problems. Many services did so and some are now backing out. How does this affect protocols and services such as iSchedule?_ 
+
+.<| 0930-1130
+| 
+.<a| Sharing calendars and resources - Sharing of calendar information has become an important part of many services. How do new standards work in a federated and/or distributed environment? +
+_Work is underway to standardize this feature in DAV based services. We discuss the implications of the new standards and how they will work in a federated and/or distributed environment. The identity crisis topic is relevant to this discussion. In addition we may touch on other sharing mechanisms - such as subscription - which may use the same invitation process._ 
+
+.<| 1000-1030 |  .<| Flexible break and refreshments
+.<| 1130-1230
+| 
+.<a| CalDAV topics - What features have progressed in the last few months and what are possible new featurees? +
+_Partitioning data - iSchedule - Managed Attachments - etc. The work of TC-API will also be discussed._ 
+
+.<| 1230-1330 |  .<| Lunch
+.<| 1330-1430
+| 
+.<a| The future - What features and capabilities are we lacking? +
+_Some possibilities include regenerating components, making any resource schedulable, an update model, promoting the standards, "eat our own" - use JCAL, use/extend the APIs_ 
+
+.<| 1430-1500 |  .<| Break and refreshments
+.<| 1500-1600 |  .<| Technical Committee Directions - goals for the next Conference in May
+.<| 1600-1700
+| 
+.<a| CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+.<| 1700 |  .<| Close of meeting.
+3+| 
+3+.<a| +
+^1^The Wednesday lunch is for all participants in the Test Event and/or Conference +
+^2^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
+^3^All Conference and Test Event participants are invited to the Wednesday evening reception +
+^4^All Conference participants are invited to the group dinner on Thursday. +
+ +
+ +
+ Lunch and morning and afternoon breaks will be served to all participants and are included in your registration fees. 
+
+|===

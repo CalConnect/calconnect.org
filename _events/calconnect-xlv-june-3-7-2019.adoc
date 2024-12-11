@@ -1,0 +1,298 @@
+---
+layout: page
+name: CalConnect XLV - June 3-7, 2019
+host_info: Hosted by Youcanbook.me (YCBM), Bedford, United Kingdom
+date: 2019-06-03
+image: /assets/images/BedfordUK_0.jpg
+---
+:page-liquid:
+
+== CalConnect XLV - June 3-7, 2019
+
+image::{{'/assets/images/BedfordUK_0.jpg' | relative_url }}[]
+
+CalConnect XLV in Bedford, United Kingdom, hosted by Youcanbook.me (YCBM)
+
+Monday, June 03, 2019 to Friday, June 07, 2019
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+24 May 2019 Schedule changes, including new sessions scheduled.
+
+23 May 2019 Wednesday conference dinner restaurant changed.
+
+15 May 2019 downloadable event calendar .ics file available - see above.
+
+15 May 2019 Joint public working session with IETF calext WG scheduled at 16:00-17:30 Tuesday. Minor schedule changes to accommodate this.
+
+02 May 2019 Document/Specification links added to descriptions in schedule.
+
+26 April 2019 Minor corrections and updates to schedule.
+
+23 April 2019 Sessions and Schedule reviewed and updated.
+
+17 April 2019 Sessiona and Schedule added. This is the first draft and will be updated as planning continues.
+
+CalConnect XLV will be held in Bedford, United Kingdom, the week of June 3-7 2019, hosted by https://www.youcanbook.me/[You Can Book Me]. In addition to our regular conference Monday-Thursday, we will have an open format working day on Friday at a different location.
+
+The conference will be Monday-Thursday June 3-6 at the event venue (Bedford Centre Hotel). This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. CalConnect XLV is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][].
+
+Interoperability Testing at CalConnect XLV: We will contact all those who register for CalConnect XLV as to their testing interests. There will be time scheduled Monday morning to initiate testing plans and agree on partners.
+
+
+
+International Visitors
+
+At this time (late March 2019) Citizens of the United States, European Union nations, or most Commonwealth nations do not require a visa to visit the United Kingdom. If you are unsure, the following link provides detailed information for visitors to the United Kingdom: https://www.gov.uk/check-uk-visa[].
+
+HOWEVER the situation with the U.K. regarding international travel is currently fluid due to the possibility of "Brexit" which may take place prior to our event. We will provide more current information as soon as possible after any event affecting international travel and will announce it on this web page and to the CalConnect membership.
+
+Conference Details
+
+We will begin each day at 0830 with coffee and tea.. The first session will be at 0900. The default end for each day is now 1730.
+
+Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast earlier if you wish a more substantial repast.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XLV; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
+
+[[location]]
+Location
+
+CalConnect XLV will take place June 3-7 2019 at the Bedford Centre Hotel, 2 St. Mary's lane, Bedford, United Kingdom. Signs to the meeting room will be posted at the hotel.
+
+
+
+[[transportation]]
+Transportation
+
+*Airport Information*: The most convenient airport to Bedford is https://www.london-luton.co.uk/[London Luton Airport]. London Luton serves European and U.K. destinations, and is recommended for European travelers arriving by air.
+
+For those arriving from more distant locations, you would probably fly into either http://www.heathrowairport.com/[London Heathrow] or http://www.gatwickairport.com/[London Gatwick]. Arriving at LHR is probably the most convenient for ground transit.
+
+*Ground Transportation:*
+
+*Rental Cars and Taxis*: All three airports have rental car facilities and taxis available.
+
+*From London Luton*: Direct public transportation is available from London Luton via train and bus. A shuttle bus service operates to and from Luton Airport Parkway Station, this is normally a 10 minute trip from the airport terminal building. There is a direct train service from Luton Airport Parkway Station to Bedford that takes approximately 25 minutes and costs about $15. Estimated transfer time about 45 minutes
+
+*From London Gatwick:* You can take the First Capitol Connect train directly to Bedford from London Gatwick (South Terminal) via St. Pancras International station. _Note: This is NOT the Gatwick Express! NOTE: If you are buying train tickets online (http://www.thetrainline.com/), please select Bedford (BDM) as the destination._ Estimated transfer time about 2 hours 15 minutes.
+
+*From London Heathrow:* The best option is to book a long distance taxi hire such as http://www.abbeycarsbedford.com/ to transfer you. It take sabout 1-1/4 hours and costs about $90. There is no direct train service from Heathrow. If you wish public transportation take the Heathrow Express to Paddington Station, transfer to St. Pancras Station, and take the train north to Bedford. The Heathrow Express is $35 single/$55 return; the trains run every 15 minutes and the trip takes about 15 minutes. Book tickets online https://www.heathrowexpress.com[]. You can transfer to St. Pancras Station via the Underground (Circle line) or by Taxi. Alternatively you can take the Underground from Heathrow to St. Pancras station; it will cost less than the Heathrow Express, but take considerably longer. 
+
+*From London St. Pancras Station to Bedford:* Trains from St. Pancras run very regularly and journey times are 40 minutes to an hour. A one way ticket is about $35. The fast service is operated by East Midlands (upper concourse), the slower service is operated by First Capital Connect (lower concourse).
+
+*Eurostar:* If you are coming into London with Eurostar, you will arrive into London St Pancras International. Please see details above.
+
+*Within Bedford:* It is approximately 1 mile from the Bedford Train Station to the venue. Taxis are available at the station at a cost of approxiamtely $10.
+
+
+
+[[lodging]]
+Lodging
+
+The conference hotel for CalConnect XLV is the Bedford Centre Hotel, located at 2 St. Mary's Lane, Bedford, which is also our event venue. The hotel is in central Bedford on the Great Ouse river, next to the A6, and is directly across the river from our 2015 Bedford venue. See: https://www.booking.com/hotel/gb/bedfordmoathouse.en-gb.html for ore about the hotel.
+
+The Bedford Centre Hotel is offering us a CalConnect rate of £85 per night inclusive of breakfast and all taxes. To obtain the CalConnect rate you must e-mail *Nick Grobler* at The Bedford Centre Hotel: mailto:HB541-SB@accor.com?subject=CalConnect%20Event%20Booking[HB541-SB@accor.com]. Please specify the following:
+
+The booking is for the *Youcanbook.me* CalConnect Event +
+ Your name +
+ Address +
+ Date of Arrival and number of nights +
+ Telephone number +
+ E-Mail address +
+ +
+ In order to secure your booking you must supply a credit card number and expiry date. Alternatively you may telephone Nick directly with credit card information at +44 (0)1234 799933. +
+ +
+ Your card will not be charged; it is just to guarantee your booking. Cancellation is free up to 2 p.m. date of arrival.
+
+(Note: Nick will confirm your booking by return e-mail. You may also receive a confirmation e-mail from the hotel booking system, which you should ignore as it will have the wrong amounts.)
+
+
+
+Alternative hotels nearby are the http://www.bedfordswanhotel.co.uk/[Swan Hote]l and the https://www.premierinn.com/gb/en/hotels/england/bedfordshire/bedford/bedford-town-centre-riverside.html[Premier Inn Riverside]. Both are with a 5-10 minute walk of the venue.
+
+
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT XLV
+
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+
+[cols="1,9"]
+|===
+2+| *Monday 3 June 2019*
+
+| 0830-0900 | Coffee and Tea
+| ____0900-0930 
+a| Conference Opening +
+_Welcome, logistics, introductions, review of schedule for week_ 
+
+| 0930-1000
+a| Reports on CalConnect Activities +
+_TC activities, liaison activities, report from the Board_
+
+| 1000-1030
+a| New and Non-Member Presentations +
+_Short introductions to new and /non-members attending_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130 | Host Session
+| 1130-1230
+a| Working Sessions and Testing +
+_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._ 
+
+| 1130-1230
+a| Introduction to CalConnect Q&A (if needed) +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| Update on Privacy by Design and ISO/PC 317 +
+_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the recent meeting and work status of the ISO PC. We will consider our response to ISO during a BOF session later in the week._ 
+
+| 1400-1445
+a| Follow-Up on Time Zone Workshop at CalConnect XLIV +
+_Status of EU Proposal; update since workshop; next steps for CalConnect_ 
+
+| 1445-1530 | BOF: TBD
+| 1530-1600 | Break and refreshments
+| 1600-1645
+a| Rich Text summary and direction +
+ _We came to some agreement after the last meeting and this resulted in changes to the event publications specification. This draft is in last call so next steps are to see some implementations out there. We will summarize the status and consider the direction for the work and any remaining changes that might have to be adopted for the draft. +
+https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/_
+
+| 1645-1730
+a| iCal4J and JSON +
+_The issue is compatibility between iCalendar and JSCalendar. The iCal4J data model is built around iCalendar; will it work with JSCalendar? What needs to be done to ensure compatibility with future iCal4J support of JSON? https://tools.ietf.org/html/draft-ietf-calext-jscalendar/_
+
+| 1730-1930
+a| Welcome Reception +
+_The Bedford Swan Hotel_ 
+
+2+| *Tuesday 4 June 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0945
+a| TC-USECASE +
+_Discussion on re-establishing TC-USECASE from last event. This session will consider a charter and the goals and work products of the TC._
+
+| 0945-1030
+a| TC-LOCALIZATION +
+_TC-LOCALIZATION was initiated following CalConnect XLIII but has not been activated. This session will review the charter discuss moving forward and a program of work. Draft charter: https://calconnect.github.io/public/charter/charter-TC-LOCALIZATION/[https://calconnect.github.io/public/charter/charter-TC-LOCALIZATION/.]_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1145
+a| TC-PUSH and Push Notification +
+_There is new interest in moving forward with the Push Notification draft(s) and the TC has held calls since CalConnect XLIV. This session will review the state of the draft(s) and moving forward. https://tools.ietf.org/html/draft-gajda-dav-push/_
+
+| 1145-1230
+a| JMAP Calendar and joint issues +
+_How can we learn from experiences in writing CalDAV as we move forward with JMAP Calendar? https://github.com/jmapio/jmap/tree/master/spec/calendars_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| JSContacts - JSON Representation for Contacts +
+_JSContacts defines a data model and JSON representation of contact information that can be used for data storage and exchange in address book or directory applications. We aim to do the same effort for contacts as we did for calendaring with JSCalendar. Also see: https://datatracker.ietf.org/doc/draft-stepanek-jscontact/[https://datatracker.ietf.org/doc/draft-stepanek-jscontact/.]_ 
+
+| 1430-1530
+a| Sharing and Scheduling +
+_Discussion and review of scheduling with sharing. It is unclear about any commonality, need to review what implementations are doing wrong and right, and identify specifications which need to be altered. https://tools.ietf.org/html/draft-pot-webdav-notifications/ https://tools.ietf.org/html/draft-pot-webdav-resource-sharing/ https://tools.ietf.org/html/draft-pot-caldav-sharing/_
+
+| 1530-1600 | Break and refreshments
+| 1600-1730
+a| Joint public virtual meeting with IETF calext Working Group +
+_This will be a virtual session with calext WG participants and will be conducted as an IETF virtual WG meeting with public participation via Zoom. Only public documents (e.g. at the IETF or in our public GitHub) will be discussed; the rules of discussion will be announced at the beginning of the session. An agenda will be published in advance and minutes will be available._
+
+2+| *Wednesday 5 June 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0930
+a| Developers Guide +
+_Current status; suggestions for content; request for content. https://devguide.calconnect.org/_
+
+| 0930-1000
+a| TC-AUTODISCOVERY +
+_There is new interest in moving forward with the Autodiscovery draft (Automated Service Configuration). This session will review the state of the draft and moving forward, and decide on the next steps for CalConnect. https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/_
+
+| 1000-1030
+a| CalConnect Standards Activities and Liaisons +
+_Update on CalConnect standards activities and liaisons with external SDOs. https://www.calconnect.org/about/liaisons-and-relationships https://datatracker.ietf.org/wg/calext/documents/_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1145
+a| ISO Date and Time Standards Update +
+_ISO 8601-1 and -2, vocabulary, time zones (ISO 34100, 34200, 34300)._
+
+| 1145-1230
+a| TC-VCARD, ISO/TC 211, and ISO 19160 +
+_Status of ongoing work, structured name Interchange, digital addressing registry._
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| VPOLL Update +
+_The VPOLL specification is probably fairly complete but still needs work on iTIP methods. It would be useful to work on some of the alternative VPOLL modes as these may be very useful in social settings. http://tools.ietf.org/html/draft-york-vpoll/_ 
+
+| 1430-1530
+a| Subscription Upgrades +
+_Define an approach whereby clients can discover an alternative and more efficient way to download calendars. Also defines a lightweight synchronization mechanism. The specification is fairly well defined but can benefit from further discussion. https://tools.ietf.org/html/draft-douglass-subscription-upgrade-03[https://tools.ietf.org/html/draft-douglass-subscription-upgrade/]_
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| Public Calendars Discovery +
+_Public calendars will be those which have been explicitly published by an organization or individuals. We define a way for clients to search for available calendars. The search is defined in a manner which will allow a more relaxed relevance style search if available._
+
+| 1700-1730
+a| BOF CalConnect scope, events and event planning +
+_Are we interested in expanding our scope to include areas such as e-mail clients? Feedback on event model and structure. Participation in event planning and related activities._
+
+| 1915-2130
+a| Conference Dinner +
+https://www.thaliandtandoor.com/[_Thali and Tandoor_] 
+
+2+| *Thursday 6 June 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0945
+a| Delayed/stalled drafts at IETF +
+_Follow-on to session from CalConnect XLIV. Status of resurrecting or discarding, updating and publishing these drafts._
+
+| 0945-1030
+a| BOF: Privacy by Design +
+_Follow-on session to Monday afternoon: determine the CalConnect response or additions to the ISO/PC 317 specification._
+
+| 1030-1100 | Break and Refreshments
+| 1100-1145
+a| Metanorma - Introduction, use by CalConnect, new features +
+_Metanorma is an open-source framework for writing and publishing standardization documents with the focus on semantic authoring and flexible output support. It is widely adopted by standards bodies including CalConnect. https://www.metanorma.com/[]._
+
+| 1145-1200 | Technical Committee Directions for period to CalConnect XLVI
+| 1200-1230
+a| CalConnect Plenary Session +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+| 1230-1330 | Lunch
+| 1330-1530
+a| Working Sessions and Testing +
+_CalDAV Tester, DevGuide, Joint Testing_
+
+| 1530-1600 | Break and refreshments
+| 1600-1730 | Working Sessions and Testing
+| 1730 | Close of CalConnect XLV
+2+| *Friday 7 June 2019*
+| 0900-1300
+a| Offsite Working Sessions +
+_Working sessions at offsite location for conference participants. Please notify us in advance if you plan to stay for Friday._
+
+|===
+
+
+
+
+
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

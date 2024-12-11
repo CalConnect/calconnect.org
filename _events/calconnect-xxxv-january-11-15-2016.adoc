@@ -1,0 +1,251 @@
+---
+layout: page
+name: CalConnect XXXV - January 11-15, 2016
+host_info: Hosted by AOL, Palo Alto, California
+date: 2016-01-11
+image: /assets/images/AOLPaloAlto-01.jpg
+---
+:page-liquid:
+
+== CalConnect XXXV - January 11-15, 2016
+
+=== CalConnect Interoperability Test Event - Monday-Wednesday +
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/AOLPaloAlto-01.jpg' | relative_url }}[AOL
+Palo Alto,width=800,height=540]
+
+CalConnect XXXV at AOL's Palo Alto Headquarters, January 11-15, 2016
+
+Monday, January 11, 2016 to Friday, January 15, 2016
+
+webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+Change of meeting room at AOL
+
+CalConnect XXXV, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Palo Alto, California, on January 11-15, 2016, hosted byhttp://www.aol.com[AOL]. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday January 11-12, and Wednesday morning January 13, ending at noon. The Conference will begin with lunch at noon on Wednesday January 13 and last through Friday January 15. +
+ +
+ An informal__Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 13th for first-time attendees. +
+ +
+*CalConnect Interoperability Test Event*: +
+ +
+ The Interoperabilty Test Events are open to both members and non-members as participants or ashttp://calconnect.org/observer.shtml[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andhttp://calconnect.org/observer.shtml[observers]are welcome. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
+ +
+ San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
+
+Conference Details
+
+Morning coffee and rolls, lunch, and morning and afternoon breaks will be served to all participants in the Interop Test Event and Conference and are included in your registration fees. The Monday and Thursday group dinners are hosted by CalConnect.
+
+Dress at all CalConnect events is casual to business casual.
+
+[[registration]]
+Registration Information
+
+Please seehttp://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Conference will take place at AOL's Palo Alto Headquarters, 395 Page Mill Road, Palo Alto, California 94306. We will be in the Auditorium on the first (ground) floor the entire week. When you arrive, please enter at the main entrance and check in with the Receptionist on the first floor, who will direct you to the Auditorium. You will not require an AOL badge; CalConnect badges will be issued in the meeting room. (Be warned that most entries to the building do require a badge, so if you leave the building you will have to re-enter through the main entrance.) +
+ +
+*Please do not park in Visitor Parking as these are limited to 20 minutes. You are welcome to park anywhere else in the building parking lot.*
+
+[[transportation]]
+Transportation
+
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],http://www.flyoakland.com/[Oakland International (OAK)], andhttp://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
+ +
+ Palo Alto is closest to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK. +
+ +
+*Ground Transportation:*Information on rental cars and shuttles is available on all three airport websites. Hotels are not likely to offer direct shuttles, so driving, taxis or commercial shuttle services are your best bet.  
+
+[[lodging]]
+Lodging
+
+The Conference Hotel is +
+ +
+http://www.dinahshotel.com[Dinah's Garden Hotel] +
+ 4261 El Camino Real +
+ Palo Alto, California 94306 +
+ +1 800 227 8820 +
+ +1 650 493 2844 +
+http://www.dinahshotel.com +
+ +
+ The hotel offers an AOL rate of $240 for a standard "Garden" room. In order to obtain the AOL rate you must call the hotel at the number above and request the AOL rate. +
+ +
+ This hotel is about 1.5 miles from AOL. Several other hotels within a few miles of AOL offer AOL rates, in particular the Creekside Inn, Homewood Suites Palo Alto, Hotel Avante, Residence Inn Palo Alto/Los Altos, and Wild Palms Sunnyvale. +
+ +
+_*Be warned:* the Superbowl will be Santa Clara in early February and is already affecting availability and hotel rates even three weeks in advance of the event. Hotels that normally offer AOL rates may elect not to offer them during this period as they can charge quite a bit more. We *strongly* recommend you book as early as possible even if you have to change or cancel your booking later._
+
+[[test-schedule]]
+Test Event Schedule
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+===== CALCONNECT INTEROPERABILITY TEST EVENT
+
+a| 
+
+*Monday 11 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1430-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1915-2130 IOP Test
+
+*Dinner* +
+http://tiedhouse.com/[_Tied House_] +
+ 954 Villa street +
+ Mountain View CA +
+ 650-965-2739
+
+a| *Tuesday 12 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+a| *Wednesday 13 January* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 Testing +
+ 1130-1200 Wrap-up +
+ 1200 End of IOP Testing +
+ +
+ 1200-1300 Lunch/Opening
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The Conference begins with lunch on Wednesday and runs through Friday.
+
+[cols=2]
+|===
+2+a| 
+
+===== CALCONNECT XXXV CONFERENCE
+
+[cols=2]
+|===
+2+| *Wednesday 13 January*
+
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._ 
+
+| 1200-1300 | Lunch
+| 1300-1330 | Welcome, IOPTEST Reports, Hong Kong status
+| 1330-1400
+a| Technical Committee Summaries and IETF Status +
+_Current status of work in Technical Committees, and progression of our drafts at the IETF._ 
+
+| 1400-1430
+a| New Member and Non Member Presentations +
+_Short introductions to new members and non-member obserers._ 
+
+| 1430-1530
+a| iCalendar Patch +
+_Improving network I/O performance when sending/receiving iCalendar data by sending patches, receiving diffs, using compact recurrence instance formats_ 
+
+| 1530-1600 | Break and Refreshments
+| 1600-1700
+a| Identity for federated sharing and scheduling +
+_The use of email addresses from other domains for identity causes problems for scheduling and sharing.._ 
+
+| 1700-1800
+a| App-specific data embedded in iCalendar +
+ 
+
+| 1800-2000
+a| Welcome Reception +
+_On Premises_ 
+
+2+| *Thursday 14 January*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930 | PUSH/Auto-discovery update
+| 0930-1030
+a| Event types/relationship +
+_Creating a registry of event types_ 
+
+| 1030-1100 | Break and refreshments
+| 1100-1230 | API status and discussion
+| 1230-1330 | Lunch
+| 1330-1415
+a| Update on server information specification +
+_Provides clients with cacheable server information._  
+
+| 1415-1530
+a| Update on iSchedule +
+_Latest work on iSchedule specification_ 
+
+| 1530-1600 | Break and refreshments
+| 1600-1700
+a| Privacy and data encryption in the cloud +
+_Encryption of data has implications for services such as implicit scheduling._  
+
+| 1700-1800
+a| Scheduling changes and real-world use cases (organizer-less scheduling +
+_The enterprise scheduling model is not necessarily appropriate for social calendaring which often has no clearly defined organizer._ +
+ 
+
+| 1915-2200
+a| Conference Dinner +
+http://pacificcatch.com/[_Pacific Catch_] +
+ 545 San Antonio Way Suite 34, in San Antonio Shopping Center +
+ Mountain View CA +
+ 650-941-1810
+
+2+| *Friday 15 January*
+| 0800-0830 | Coffee & Rolls
+| 0830-0930
+a| DEVGUIDE progress +
+_Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, updating_ 
+
+| 0930-1030 | SHARING specifications status
+| 1030-1100 | Break and refreshments
+| 1100-1230 | Session follow-ups (TBD)
+| 1230-1330 | Lunch
+| 1330-1430
+a| Technical Committee Futures and CalConnect Plenary Meeting +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+| 1430 | Close of meeting.
+
+|===
+
+|===

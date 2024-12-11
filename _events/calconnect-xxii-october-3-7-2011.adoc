@@ -1,0 +1,298 @@
+---
+layout: page
+name: CalConnect XXII -- October 3-7 2011
+host_info: Hosted by Kerio Technologies, Prague, Czech Republic
+date: 2011-10-03
+image: /assets/images/Prague.jpg
+---
+:page-liquid:
+
+== CalConnect XXII -- October 3-7 2011
+
+=== CalConnect Interoperability Test Events - 3-5 October +
+CalConnect Roundtable Technical Conference - 5-7 October
+
+[[intro]]
+image:{{'/assets/images/Prague.jpg' | relative_url }}[Prague,
+Czech Republic,width=800,height=533]
+
+Monday, October 03, 2011 to Friday, October 07, 2011
+
+Recent Changes:
+
+*Current to 26 September 2011* +
+_Hotel Meeting Room specified_
+
+CalConnect XXII, consisting of a CalConnect Interoperability Test Event, and a CalConnect Roundtable Technical Conference, will be held in Prague, Czech Republic, hosted by http://www.kerio.com[Kerio Technologies]. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday October 3-4, and Wednesday morning October 5, ending at noon. The Roundtable will begin with lunch at 12:00 on Wednesday the 5th, and last through Friday afternoon the 7th.
+
+*CalConnect Interoperability Test Event*: At this meeting, we hope to offer both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event, which will be combined into a single physical event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel). +
+ +
+ The Interoperability Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1110.shtml[CalConnect Interoperability Test Event October 2011] for current information. Check back periodically as this will be updated as more information becomes available. +
+ +
+ You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
+ +
+*Roundtable Technical Conference:* +
+ +
+ The Roundtable Technical Conference will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. In addition, workshops/symposia will be offered on Thursday and Friday mornings. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+Please see http://www.learn4good.com/travel/czech_republic_visa.htm#req for information about visas required, etc. +
+ +
+ The March 2011 IETF meeting was in Prague and the host provided some useful information about Prague and Czech for travelers: see http://www.ietf80.cz[].
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. +
+ +
+*Special Registration Fees*: For CalConnect XXII, the registration fee for non-members is a single fee of $350 which covers one participant in either the Interoperability Test Event, the Roundtable Technical Conference, or both. You must still execute separate registration forms. For members who are not calendaring vendors, the registration for the Interoperability Test Event is $350 which covers one participant but does not include the Roundtable. In all cases additional participants will be charged the regular fee for additional Test Event participants ($150 each) or Roundtable participants ($350 before 17 Setember, $395 thereafter).
+
+[[location]]
+Location
+
+The venue for CalConnect week will be the Conference Hotel, http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Our event will take place in the *Majestic II Room*. The Interoperability Test Event (Monday, Tuesday, and Wednesday until noon), and the Roundtable, including the Thursday and Friday symposia and workshops, will take place there; the Wednesday reception will also be in the hotel. Monday and Thursday dinners will be off site. See http://calconnect.org/calconnect22.shtml#hotel[Conference Hotel] for more information about the hotel. +
+ +
+ For a map of Prague showing the location of the Conference Hotel and venue, and Kerio's offices in Prague, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=214983185398130768599.0004a41d0c26516d67a20&ll=50.076257,14.425049&spn=0.012311,0.035148&z=15[]. 
+
+[[transportation]]
+Transportation
+
+Prague is served by http://www.prg.aero/en/[Ruzyne], Prague International Airport. Direct connections are available from most European cities and some connections from North America, mostly from the East Coast. Additionally, low-cost airlines such as Easyjet and Ryanair serve Prague from smaller airports in Europe and the U.K. +
+ +
+*Ground Transportation:* See http://www.prg.aero/en/parking-transport/transport/public-transit/[Public Transit] for information about public transportation options. A good alternative is the Airport Express which takes you to the Museum stop on the Metro "C" line, close to the hotel. Taxis are also available for individuals or small groups. +
+ +
+ Additionally, the hotel will arrange shuttle service in advance for individuals or small groups from or to the airport at the following rates: Car for max 3-4 people, 680 CZK - $40 USD; Minibus for 8, 1050 CZK - $60 USD; Minibus for 12-15, 1990 CZK - $110 USD. The hotel service must be booked in advance; you will be offered the option to book a transfer from the airport to the hotel as part of your room booking proces, and you may arrange service back to the airport during your stay.
+
+[[lodging]]
+Lodging
+
+Our Conference Hotel is the http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Hotel Majestic Plaza is a four-star hotel and a Premier member of the Best Western Chain. It is located in one of the most desirable localities, in the touristic and business centre of Prague, just few steps from the famous Wenceslas Square. +
+ +
+ CalConnect has a special room rate of 85 EUR per room per night, breakfast included; you may book a special room on the upper floor with a view of the Prague castle for 105 EUR per room per night. +
+ +
+ You may also book your transfer from the airport to the hotel during your room booking and have it charged to your room if you wish. To book, visit http://goo.gl/H3PrG[]. 
+
+[[test-schedule]]
+Test Event Schedule
+
+As noted above all events for the week will be at the Conference Hotel. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
+ +
+ A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to Schedule].
+
+[cols=3]
+|===
+3+.<| *INTEROPERABILITY TEST EVENTS - Majestic II Room, Hotel Majestic Plaza*
+
+.<a| *Monday 3 October* +
+ 0830-1000 Interop Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Interop Testing +
+ 1200-1300 Lunch +
+ 1300-1530 Interop Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Interop Testing +
+ +
+ 1930-2130 IOP Test Dinner +
+_http://www.kolkovna-restaurant.cz/[Restaurant Kolkovna]_
+.<a| *Tuesday 4 October* +
+ 0830-1000 Interop Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 Interop TestingTesting +
+ 1200-1300 Lunch +
+ 1300-1530 Interop Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Interop Testing
+.<a| *Wednesday 5 October* +
+ 0830-1000 Interop Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 Interop Testing +
+ 1130-1200 Wrap-up +
+ 1200 End of IOP Testing +
+ +
+ 1200-1300 Lunch^1^
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+As noted above all events for the week will be at the Conference Hotel. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
+ +
+ A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to Schedule].
+
+[cols=3]
+|===
+3+.<| *ROUNDTABLE TECHNICAL CONFERENCE - Majestic II Room, Hotel Majestic Plaza*
+
+3+.<| 
+.<a| *Wednesday 5 October* +
+ 1200-1300 Lunch^1^ +
+ 1300-1400 Opening/Introduction +
+ 1400-1530 TC CALDAV +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC ISCHEDULE +
+ 1700-1800 TC RESOURCE +
+ +
+ 1800-2000 Welcome Reception^2^ +
+_Hotel Majestic Plaza_
+.<a| *Thursday 6 October* +
+ 0830-1000 Symposium: The Evolution of Internet Calendaring Standards +
+ 1000-1030 Break and Refreshments +
+ 1030-1200 Symposium: Integrating Internet Calendaring Standards into products and services +
+ 1200-1300 Lunch +
+ 1300-1430 Host Session - Kerio +
+ 1430-1530 TC TIMEZONE +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC USECASE +
+ 1700-1800 TC FREEBUSY +
+ +
+ 1930-2200 Group Dinner^3^ +
+_http://www.ambi.cz/ambi_brasiliero2_kontakt_eng.php[Ambiente Brasiliero]_
+.<a| *Friday 7 October* +
+ 0830-1000 Workshop on Tasks (vTODOs) +
+ 1000-1030 Break and Refreshments +
+ 1030-1115 CalConnect Internationally - next steps +
+ 1130-1200 BOFs +
+ 1200-1300 Lunch +
+ 1300-1400 TC EVENTPUB +
+ 1400-1530 TC XML +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC MOBILE +
+ 1700-1730 TC Wrapup +
+ 1730-1800 CalConnect Plenary +
+ 1800 Close of Meeting
+
+3+| 
+3+.<a| +
+^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
+^2^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
+^3^All Roundtable participants are invited to the group dinner on Thursday +
+ +
+ Lunch and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. Breakfast is included with your hotel booking. 
+
+|===
+
++
+[[agendas]]
+==== Topical Agendas:
+
++
+ +
+ Please see http://calconnect.wordpress.com/2011/09/01/symposia-and-workshops-at-calconnect-xxii-in-prague/[CalConnect XXII Symposia] for more information about the Thursday and Friday morning symposia and workshops.
+
+[cols=2]
+|===
+.<a| +
+*TC CALDAV* Wed 1400-1530 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary of work +
+ 2. Progress and Status Update +
+ 2.1 IETF +
+ 2.2 CalConnect +
+ 3. Open Discussions +
+ 3.1 CalDAV Scheduling +
+ 3.2 Managed Attachments +
+ 3.3 Calendar Alarms +
+ 3.4 Collected CalDAV Extensions +
+ 4. Moving Forward +
+ 4.1 Plan of Action +
+ 4.2 Next Conference Calls +
+ +
+*TC EVENTPUB* Fri 1300-1400 +
+ 1. Charter +
+ 2. Work and accomlishments +
+ 3. Release timing for new properties +
+ 4. Standard categories +
+ 5. HTML in calendar files +
+ 6. Intellectual Property issues +
+ 7. Going Forward - next steps +
+ +
+*TC FREEBUSY* Thu 1700-1800 +
+ 1. Review of the TC +
+ 1.1 Charter and Accomplishments +
+ 2. Updates on vpoll status +
+ 3. Office Hours applications +
+ 3.1 Demo of Office Hours +
+ 4. Vavailability +
+ 5. Meeting proposal protocol +
+ 6. Next steps +
+ +
+*TC IOPTEST* Wed 1315-1330 +
+ Review of IOP test participant findings +
+ +
+*TC iSCHEDULE* Wed 1600-1700 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. Open Discussions +
+ 2.1 DKIM vs DOSETA +
+ 2.2 DKIM-Signature Canonicalization Algorithms +
+ 3. Moving Forward +
+ 3.1 Plan of Action +
+ 3.2 Next Conference Calls
+.<a| +
+*TC MOBILE* Fri 1600-1700 +
+ 1. Review of TC Mobile's charter and summary of work and accomplishments +
+ 2. Discussion of interop results and issues as they pertain to mobile calendaring +
+ 3. Directions for TC Mobile going forward +
+ +
+*TC RESOURCE* Wed 1700-1800 +
+ 1. Introduction +
+ 1.1 TC Charter +
+ 1.2 Accomplishments +
+ 1.3 Resource schema draft status 2. Open Discussions +
+ 2.1 Resource scheduling implementations today +
+ 2.2 Resource scheduling, client wish list +
+ 2.3 Possible DAV extensions for easier and standardized Resource scheduling +
+ 3. Future of TC +
+ +
+*TC TIMEZONE* Thu 1430-1530 +
+ 1. Introduction: +
+ 1.1 Charter +
+ 1.2 Background to the work +
+ 1.3 Size and correctness of the data +
+ 2. Timezone Service +
+ 2.1 Data sources (Olson) +
+ 2.2 Draft specification +
+ 2.3 Data formats +
+ 3. Implications for servers and clients +
+ 3.1 Timezones by reference +
+ 3.2 Advertising services used +
+ +
+*TC USECASE* Thu 1600-1700 +
+ 1. TC-UseCase Charter +
+ 2. Summary of Previous Work +
+ 3. Present Work +
+ 3.1 Usecases for Transfer of Ownership +
+ 3.2 Usecases for Freebusy +
+ 3.3 Usecases for Data Persistence +
+ 4. Next steps +
+ 5. Next conference calls -- Call for Participation +
+ +
+*TC XML* Fri 1400-1530 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. iCalendar in JSON +
+ 3. CalDAV/CardDAV content negotiation +
+ 4. Interoperability testing of XML data formats +
+ 5. Moving Forward +
+ 5.1 Plan of action +
+ 5.2 Next conference calls
+
+|===
+
++
+ 
+
+==== Scheduled BOFs
+
+Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.

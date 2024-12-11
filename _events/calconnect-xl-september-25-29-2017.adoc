@@ -1,0 +1,404 @@
+---
+layout: page
+name: CalConnect XL - September 25-29, 2017
+host_info: Hosted by Open-Xchange, Cologne, Germany
+date: 2017-09-25
+image: /assets/images/cologne.jpg
+---
+:page-liquid:
+
+== CalConnect XL - September 25-29, 2017
+
+=== CalConnect Interoperability Test Event and Developers' Forum - Monday-Wednesday +
+CalConnect Conference - Wednesday-Friday
+
+[[intro]]
+image:{{'/assets/images/cologne.jpg' | relative_url }}[CalConnect
+XL in Cologne, Germany, September 25-29, 2017, hosted by
+Open-Xchange,width=741,height=576]
+
+CalConnect XL in Cologne, September 25-29, 2017, hosted by Open-Xchange
+
+Monday, September 25, 2017 to Friday, September 29, 2017
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar. 
+
+Recent Changes:
+
+05 September 2017 - Event Reading List updated. Directions to Open-Xchange for the Wednesday Reception added to the Location section of the web page.
+
+30 August 2017 - Testing areas and topics for Devleopers Forum added to the Test Event section; schedule and sessions added to Conference Schedule section; week schedule calendar available.
+
+03 July 2017 - Expanded web page with locations, travel and hotel information, venue, etc.
+
+
+CalConnect XL, consisting of a CalConnect Test Event and Developers Forum (Interoperability Testing and technical discussions of specifications and issues) and a CalConnect Conference (Members Meeting) will be held in Cologne on September 25-29, 2017, hosted by Open-Xchange.
+
+The Test Event/Developers Forum will take place all day Monday and Tuesday September 25-26, and Wednesday morning the 27th, ending before lunch. The Conference will open following lunch on Wednesday, the 27th, and will run through Thursday and Friday.
+
+*Test Event and Developers Forum:* Open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xl-september-25-29-2017#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
+
+_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions_.
+
+*Conference*: The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and observers are welcome.
+
+The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure, please see http://href="http://www.germany-visa.org[German VISA Information].
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XL; please see https://www.calconnect.org/events/event-registration-payment to register for the developers forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
+
+[[location]]
+Location
+
+The Developers Forum/Test Event (September 25-27) and the Conference (September 27-29) will be held at http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 K¶ln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park]. The meeting facility is only about 100 meters from the conference hotel, the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln.
+
+There will be signage at Komed House to direct you to the CalConnect meeting room.
+
+The Wednesday Evening reception will be at Open-Xchange, Hohenzollernring 72, 50672 K¶ln, 16th Floor. You will have to check in with the receptionist on the ground floor; tell them you are with CalConnect and visiting Open-Xchange to be allowed access to the elevators.
+
+[[transportation]]
+Transportation
+
+*Airport Information:* Cologne is served by the http://www.cologne-airport.com/[Cologne-Bonn International Airport (CGN)]. The airport is relatively small but offers connections through several other airports. Distance to the venue and conference hotel is approximately 15km, 40â¬ by taxi or 3â¬ by Train.
+
+For transport from the Cologne-Bonn International Airport to the Media Park by train, there are two lines of the "S-Bahn" that operate frequently: S13 (towards Sindorf), and S19 (towards D»ren). For either train, exit at station "Hansaring", then head south-west on the Hansaring (about 500 meters) and turn right into AmK¼mpchenshof. Motel One and the Media Park are straight ahead.
+
+For intercontinental travelers, Frankfurt (FRA) or D¼sseldorf (DUS) are likely to be more convenient, and both offer train service to Cologne on at least an hourly basis. Price is well under 50â¬ if booked in advance; Frankfurt-Cologne might cost 100â¬ if booked at the train station. If you have your flight scheduled you are welcome to contact our hosts to help find the best and least expensive connection.
+
+From the Cologne Bahnhof, you can take the "S-Bahn" to "Hansaring". Several lines serve this connection (S6, S11, S12, S13, S19), just one stop. Taxi might be more convenient with luggage, should just be a couple euros.
+
+*Train and Car*: Cologne is also served by extensive train and autobahn connections for those traveling by train or car.
+
+*Inner City:* Cologne has extensive subway and tram networks. Additionally, it is approximately a 20 minute walk from the Media Park to the center of the city.
+
+*Please Note:* Credit cards are not necessarily accepted universally in Germany, in particular by taxis. ATMs (cash tills) should be available at all airports, train stations, etc. and you should provide yourself with some cash if you haven't already.
+
+
+
+
+
+[[lodging]]
+Lodging
+
+Our conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln, about 100m from the meeting venue. We have a room block for meeting participants available between 23 September and 30 September at a rate of 69â¬ per night for a single room and 84â¬ per night for a double room. Note that breakfast will be an extra 9.50â¬. Cancellation policy is 1800 on the day of arrival.
+
+*URGENT: Please be aware that the room block will close on August 12 2017*. *The entire city will be very much occupied during the time of our conference as it is the Expo High Season and it is very possible the only hotel rooms available wil be our blocked rooms in the MotelOne.Â Our hosts adivse us that trying to find any other accommodation after our block period ends will be extremely difficult.Â*
+
+The reservation code is "CalConnect"; please mention this when booking by telephone at +49 221 270 7510, or by e-mail at mailto:koeln-mediapark@motel-one.com?subject=Reservation%20for%20CalConnect%20room%20block[koeln-mediapark@motel-one.com].
+
+If you e-mail them be sure and provide your full name, address, nationality, and date and time of arrival and departure. You will need to call them after receiving a confirmation of your booking to provide credit card information, if you anticipate a late arrival (after 1800).
+
+(For those who attended the Autumn 2015 meeting in Amsterdam, the conference hotel in Amsterdam was a member of the same hotel chain.)
+
+Another higher rated hotel is the Hotel NH Collection K¶ln, about 50m to the venue: https://www.nh-hotels.de/hotel/nh-collection-koeln-mediapark[]. We do not have any room block or special rate with this hotel. There are other hotels in the area as well; see https://www.google.de/maps/search/Hotel/@50.946918,6.9404958,16.57z/am=t?hl=de[].
+
+*PLEASE NOTE:* Cologne will collect a 5% surcharge on your hotel bill unless you download and complete this form and give it to the hotel when you check in:
+
+https://formular-server.de/Koeln_FS/findform?shortname=21-F32_KFAAbBeschEng&formtecid=2&areashortname=koeln_en
+
+A form-enabled PDF of this document may be found at
+
+[[file-117]]
+=== 
+
+. application/pdf
+image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/ENG%20Kulturfo%CC%88rderabgabe%20copy.pdf[ENG KulturfoÌrderabgabe copy.pdf]
+. +
+ +
+ For more infomation on this please see http://www.stadt-koeln.de/politik-und-verwaltung/finanzen/kulturfoerderabgabe and http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion-and-advancement-culture-frequently-asked-questions#ziel_0_55[http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion-and-advancement-culture-frequently-asked-questions#ziel_0_55.]
+
+
+
+[[test-schedule]]
+Test Event Schedule
+
+The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
+
+[cols=3]
+|===
+3+| 
+
+===== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+
+a| *Monday 25 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and Discussions +
+ +
+ 1915-2100 Test Event Dinner +
+_http://www.gaffelamdom.de/en_GaD_brewhouse.html[Gaffel am Dom]_
+a| *Tuesday 26 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 Testing and Discussions +
+ 1230-1330 Lunch +
+ 1330-1530 Testing and Discussions +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing and Discussions
+a| *Wednesday 27 September* +
+ 0800-0830 Coffee & Rolls +
+ 0830-1030 Testing and Discussions +
+ 1030-1100 Break and Refreshments +
+ 1100-1200 Testing +
+ 1200-1230 Wrap-up +
+ 1230 End of Test Event and Forum1230-1330 Lunch
+
+|===
+
+
+Test Event Agenda
+
+Specific Areas for testing as identified by participants
+
+
+
+Specific testing areast may include the following; also see Baseline Testing below.
+
+* Sharing
+* CalDAV
+* CardDAV
+* iMIP
+* API <--> iCalendar
+* Calendar publication and subscription models
+
+==== Technical Topics for Developers Forum Discussions
+
+[[magicdomid80]]
+
+
+
+[[magicdomid83]]
+The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
+
+[[magicdomid84]]
+These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
+
+[[magicdomid85]]
+
+
+[[magicdomid86]]
+The schedule for these discussions will be decided on during the 2.5days and is very flexible.
+
+
+
+Specific discussion areas for CalConnec XL include at least:
+
+* Wikipedia updates (hackathon)
+* How to run the test suite - entry for Devguide; Mike intends to do work on basic set of tests at event
+* Discuss relationships queries; if in CalDAV no effect on 5545
+* CalConnect ical4j
+* Subscription upgrade (obscure points e.g. head versus options)
+* Calendar Series draft
+* Revisit VPOLL - get demo going again?
+* Security concerns with VCARDs
+* Open floor
+
+
+==== Please see the Reading List for the event at . The list contains URLs to all standards, drafts and specifications to be discussed or tested.
+
+==== Baseline Testing
+Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
+
+* CalDAV testing:
++
+
+** Access (basic operations of CalDAV)
+** Scheduling
+** Sync report (depth: 1 on home collection)
+** Mobile
+** Sharing
+** Prefer Header
+* Managed Attachments
+* iSchedule:
++
+
+** Server discovery
+** DKIM security
+* Timezones:
++
+
+** Service Protocol
+** Timezones by Reference
+* Calendar Alarms:
++
+
+** Snooze
+** Default alarms
+* VPOLL support in clients and servers
+* VAVAILABILITY support in clients and servers
+* Autodiscovery protocol
+* Non-gregorian calendar recurrences via RRULE and RSCALE
+* iCalendar:
++
+
+** Rich text and other new properties (and hashing)
+* iMIP
+* iTIP
+* jCal, the JSON format for iCalendar - libraries and servers
+* xCal, the XML format for iCalendar
+* Enhanced VTODO support
+* CardDAV testing:
++
+
+** Generic
+** Sync report
+** Mobile
+** vCard 4
+
+==== Who May Participate or Observe
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+==== Registration
+Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* https://www.calconnect.org/events/event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
++
+: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* https://www.calconnect.org/events/event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
++
+: Register one to six people as
++
+link:{{'/events/observers' | relative_url }}[observers]
++
+for the CalConnect Interoperability Test Event.
+
+==== Interoperability Event Scenarios
+If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+
+
+[[conference-schedule]]
+Conference Schedule
+
+===== CALCONNECT XL CONFERENCE
+
+[cols=2]
+|===
+2+| *Wednesday 27 September 2017*
+
+| 1100-1200
+a| Introduction to CalConnect Q&A +
+ _An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| Conference Opening and Introductions +
+_Welcome, Logistics, Introductions_
+
+| 1400-1430
+a| Reports on CalConnect activities +
+ _Test Event and Dev Forum, TC activity, Liaisons, Report from the Board_
+
+| 1430-1445 | New and Non-Member Presentations
+| 1445-1530 | Open-Xchange Host Session
+| 1530-1600 | Break and Refreshments
+| 1600-1645
+a| Calendar Spam and M3WAAG Update +
+ _Having seen a big wave of calendar spam on last year's Black Friday, this session keeps track of our actions regarding the topic_
+
+| 1645-1715
+a| Support for Series in iCalendar +
+_An alternative to recurrences_
+
+| 1715-1800
+a| CalDAV support for relationships queries +
+ _Protocol support for retrieving related events and tasks_ 
+
+| 1800-2000
+a| Welcome Reception +
+ _At Open-Xchange Headquarters, Hohenzollernring 72, 50672 KÂ¶ln, 16th Floor_
+
+2+| *Thursday 28 September 2017*
+| 0800-0830 | Coffee & Rolls
+| 0830-0915
+a| Categorization and event types +
+ _Being able to categorize events in a standardized manner will help in aggregation and allow applications to discover events of interest._
+
+| 0915-1000
+a| Consistent handling of per-user data in events +
+ _How to handle alarms, transparency, etc. in a consistent manner_
+
+| 1000-1030
+a| Enhanced Synchronization and Update +
+ _Mechanisms to pass smaller packets of data using new iCalendar constructs (VPATCH/VINSTANCE)_
+
+| 1030-1100 | Break and refreshments
+| 1100-1130
+a| Generic notification systems for alarms +
+ _A mechanism to inform calendar systems of when notifications should occur - leaving the exact mechanism to the recipient_
+
+| 1130-1200
+a| DAV PUSH Overview and Status +
+ _Standardized notification and push mechanism for DAV_
+
+| 1200-1230
+a| Calendar Subscription Upgrades +
+ _Allowing the server to advertise more efficient forms of subscription and enhancements to HTTP GET for simple synchronization_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| JSCalendar: JSON Representation for Calendar Data +
+ _TC API status and issues; support for VCARD, VTODO, categories, IETF status._ 
+
+| 1430-1530
+a| Calendar Developers Guide (DEVGUIDE) +
+ _Re-implementation and alterations to the Developers Guide, discussion of future additions._
+
+| 1530-1600 | Break and refreshments
+| 1600-1630
+a| CalConnect CalDAV Tester +
+_Working towards a certification suite for CalDAV servers_
+
+| 1630-1800
+a| Shape of the CalConnect Event Week +
+ _The existing model for the CalConnect Event week is ten years old. In that time much has changed. We will discuss possible alternatives in content, frequency, length, packaging, fees, etc._ 
+
+| 1900-2100
+a| Conference Dinner +
+http://www.osman-cologne.de/[_Osman30_]
+
+2+| *Friday 29 September*
+| 0800-0830 | Coffee & Rolls
+| 0830-0915
+a| Calendaring extensions for improved grouping of properties +
+ _PARTICIPANT and ATTENDEE in event publication and scheduling_
+
+| 0915-1000
+a| Refactoring VPOLL using the PARTICIPANT component +
+ _VPOLL is the standards-based implementation of consensus scheduiing_
+
+| 1000-1030 | BOF (TBD)
+| 1030-1100 | Break and refreshments
+| 1100-1200
+a| VCARD, TC 211 and ISO 19160 +
+ _Representing non-western address formats in VCARDs, collaboration with ISO TC 211, synchronization with ISO 19160._
+
+| 1200-1230
+a| CalConnect iCal4J +
+ _Proposed future developments for iCal4J, direction towards a common CalConnect implementation._
+
+| 1230-1330 | Lunch
+| 1330-1400
+a| Future Areas of Engagement for CalConnect +
+_Where (else) should we be active_
+
+| 1400-1415 | Technical Committee Futures for period to CalConnect XLI
+| 1415-1500
+a| CalConnect Plenary Meeting +
+ _Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
+
+| 1500 | Close of CalConnect XL
+
+|===
+*Please see the Reading List for at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List] The list contains URLs for all standards, drafts and specifications to be discussed.*

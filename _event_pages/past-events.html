@@ -6,7 +6,7 @@ type: events
 
 <h2>Past Events</h2>
 <ul class="calconnect-events">
-  {% assign sorted_events = site.events | sort: 'revdate' | reverse %}
+  {% assign sorted_events = site.events | sort: 'date' | reverse %}
   {% for event in sorted_events %}
   {% assign event_date = event.date | date: "%s" %}
   {% assign current_date = "now" | date: "%s" %}
@@ -15,7 +15,7 @@ type: events
     <div class="views-field views-field-field-image">
       <div class="field-content">
         <a href="{{event.url | relative_url }}">
-          <img typeof="foaf:Image" class="img-responsive" src="{{event.image}}" width="557" height="300"
+          <img typeof="foaf:Image" class="img-responsive" src="{{event.image | relative_url}}" width="557" height="300"
             alt="Event Image">
         </a>
       </div>
@@ -30,6 +30,7 @@ type: events
     <div class="views-field views-field-body">
       <div class="field-content">
         <p>{{event.host_info}}</p>
+        <br class="clear">
       </div>
     </div>
   </li>

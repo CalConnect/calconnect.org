@@ -1,0 +1,281 @@
+---
+layout: page
+name: CalConnect XLVI - October 7-11, 2019
+host_info: Hosted by FastMail in Philadelphia, Pennsylvania
+date: 2019-10-07
+image: /assets/images/Philadelphia-Skyline%201.jpg
+---
+:page-liquid:
+
+== CalConnect XLVI - October 7-11, 2019
+
+[[intro]]
+image:{{'/assets/images/Philadelphia-Skyline%201.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Philadelphia-Skyline%201,width=700,height=394]
+
+CalConnect XLVI in Philadelphia, Pennsylvania, hosted by FastMail
+
+Monday, October 07, 2019 to Friday, October 11, 2019
+
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+
+Recent Changes:
+
+18 Sep 2019 - Conference Schedule .ics file available for subscription or download.
+
+10 Sep 2019 - Minor schedule changes.
+
+29 Aug 2019 - Preliminary Session Schedule and summaries posted.
+
+
+
+CalConnect XLVI will be held in Philadelphia, Pennsylvania, hosted by http://www.fastmail.com[FastMail], In addition to our regular conference Monday-Thursday we will have an open format working day on Friday.
+
+The location is 1500 Walnut Street, a shared conference facility. . This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. CalConnect XLVI is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][].
+
+Testing Interests: We will contact all those who register for CalConnect XLVI as to their testing interests. There will be time scheduled Monday morning to initiate testing plans and agree on partners, and opportujnities through the week for ongoing work.
+
+Tutorials on Calendaring and Scheduling Standaards and specifications: We will offer tutorials Monday morning on the core C&S standards and specifications for newcomers and those interested. If you are please let us know what specific tutorial subjects would be most useful: mailto:contact@calconnect.org?subject=Tutorial%20Interest%20at%20CalConnect%20XLVI[contact@calconnect.org].
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport or "green card" should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at https://www.cbp.gov/travel/international-visitors[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:Dave.Thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+Conference Details
+
+We will begin each day at 0830 with coffee and tea.. The first session will be at 0900. The default end for each day is 1730.
+
+Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast earlier if you wish a more substantial repast.
+
+All CalConnect activites are business casual to casual attire.
+
+[[registration]]
+Registration Information
+
+Registration is now open for CalConnect XLVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
+
+[[location]]
+Location
+
+CalConnect XLVI will be held Monday-Friday October 7-11 at a shared conference facility at 1500 Walnut Street, Philadelphia, Pennsylvania. Please see https://www.google.com/maps/d/edit?mid=1TAwZr6_T2hR-kDBMEAGeV0ZpgaNb1Ib1&ll=39.96541812197269%2C-75.16222965000003&z=15[Local Map] for a map of area including locations of the venue, hotels, etc.
+
+Enter the building from 15th Street. There is a bank of elevators. Youll be going to the 2nd floor. You will need to talk to reception. There will be signs on the 2nd floor directing you to the meeting room.
+
+[[transportation]]
+Transportation
+
+*Air Travel*: Philadelphia is served by http://www.phl.org[Philadelphia International Airport (PHL)].
+
+The easiest way to reach the venue and hotels is via train from the airport.  The Airport Line runs from every terminal of the airport to center city every half hour. It costs less than $10, and you should be prepared to pay cash or buy your ticket at the station. (No cards on the train.)  Take the Airport Line to Suburban Station, which is the closest stop to the venue and to the conference hotel.
+
+Taxi service is also available at the airport for about $30 to the area of the venue and conference hotel.
+
+*Train:* Philadelphia is on the high-speed https://www.amtrak.com/acela-express-train[Amtrak Acela] express train service serving Boston, New Haven, New York, Philadelphia, Baltimore, and Washington D.C.
+
+
+
+
+
+[[lodging]]
+Lodging
+
+We are planning to use the Club Quarters hotel as our confernce hotel due to proximity and recommendations. There is no special or corporate rate available for our host, so book directly whatever lodging you choose.
+
+https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia[Club Quarters Hotel Philadelphia] +
+ 1628 Chestnut Street +
+ Philadelphia, PA 19103 (at 17th Street) +
+ +1.267.310.2213
+
+The conference hotel is within 2-3 blocks walking from the venue, and also from the Suburban Station on the Airport train line.
+
+Here are some other possibilities. Please see the https://www.google.com/maps/d/edit?mid=1TAwZr6_T2hR-kDBMEAGeV0ZpgaNb1Ib1&ll=39.96541812197269%2C-75.16222965000003&z=15[local map link] for hotel and venue locations.
+
+https://www.thewindsorsuites.com/[Windsor Suites]
+
+https://home2suites3.hilton.com/en/hotels/pennsylvania/home2-suites-by-hilton-philadelphia-convention-center-pa-PHLCCHT/index.html[Home2]
+
+https://www.conwellinn.com/[Conwell Inn] - further afield but a straight shot on the BSL Subway
+
+https://www.stayalfred.com/philadelphia-vacation-rentals[Stay Alfred Rentals] has a variety of places around the city.
+
+Philadelphia has a variety of hotels, hostels, etc. at different price points, and an excellent public transportation system for those who are interested in other options.
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CALCONNECT XLVI PHILADELPHIA
+
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+
+[cols="1,9"]
+|===
+2+| *Monday 7 October 2019*
+
+| 0830-0900 | Coffee and Tea
+| ____0900-0930 
+a| Conference Opening +
+_Welcome, logistics, introductions, review of schedule for week_ 
+
+| 0930-1000
+a| Reports on CalConnect Activities +
+_TC activities, liaison activities, report from the Board_
+
+| 1000-1030
+a| New and Non-Member Presentations +
+_Short introductions to new and non-members attending_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1230
+a| Introductory Tutorials on C&S Standards and Specifications +
+_Optional if we have requests for specific tutorials_
+
+| 1100-1230
+a| Working Sessions and Testing +
+_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._ 
+
+| 1130-1230
+a| Introduction to CalConnect Q&A (if needed) +
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+
+| 1230-1330 | Lunch
+| 1330-1400 | Host Session (FastMail)
+| 1400-1430
+a| Update on Privacy by Design and ISO/PC 317 +
+_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the work status of the ISO PC. the recent meeting and work status of the ISO PC. We will develop our response to ISO for the October meeting._ 
+
+| 1430-1530
+a| CalConnect Specifications at the IETF +
+_Review of CalConnect drafts at the IETF, current status. Prep for Joint Working Group session with IETF CALEXT on Wednesday 1100-1230. https://datatracker.ietf.org/wg/calext/documents/_ 
+
+| 1530-1600 | Break and refreshments
+| 1600-1630
+a| Time Zone Workshop Directions +
+_Status of EU Proposal to eliminate summer time; update since workshop and last CalConnect meeting; next steps for CalConnect_
+
+| 1630-1730 | BOFS (TBD)
+| 1800-2000 | Welcome Reception _TBD_ 
+2+| *Tuesday 8 October 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0945
+a| TC-PUSH and Push Notification: Moving forward with the Push Notification draft(s). +
+_This session will review the state of the draft(s) and moving forward. https://tools.ietf.org/html/draft-gajda-dav-push/_
+
+| 0945-1030
+a| TC-USECASE +
+_This session will consider the charter and the goals/work products of the TC and set a preliminary agenda, followed by discussion of initial issues_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1130
+a| TC-AUTODISCOVERY +
+_There is interest in moving forward with the Autodiscovery draft (Automated Service Configuration). This session will review the state of the draft and moving forward, and decide on the next steps for CalConnect. https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/_
+
+| 1130-1230
+a| VPOLL Update and Demo +
+_The VPOLL specification is probably fairly complete but still needs work on iTIP methods. It would be useful to work on some of the alternative VPOLL modes as these may be very useful in social settings. Followed by a working demo. https://tools.ietf.org/html/draft-york-vpoll-04_
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| JMAP Calendar Working Session +
+_Sorting remaining issues especially iTIP/Scheduling. https://tools.ietf.org/html/draft-ietf-jmap-calendars_
+
+| 1430-1500
+a| Event Publication Status and Summary +
+_The specification is out of WG last call at the IETF and is near publication as a proposed standard. Consider impact on JSCalendar and potential changes. https://datatracker.ietf.org/doc/draft-ietf-calext-eventpub-extensions/_
+
+| 1500-1530
+a| Calendar Developers Guide +
+_Current status; suggestions for content; request for content. https://devguide.calconnect.org/_
+
+| 1530-1600 | Break and refreshments
+| 1600-1730
+a| Sharing and Scheduling +
+_Discussion and review of scheduling with sharing. It is unclear about any commonality, need to review what implementations are doing wrong and right, and identify specifications which need to be altered. https://tools.ietf.org/html/draft-pot-webdav-notifications/ https://tools.ietf.org/html/draft-pot-webdav-resource-sharing/ https://tools.ietf.org/html/draft-pot-caldav-sharing/_
+
+2+| *Wednesday 9 October 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-0930
+a| Public Calendars Discovery +
+_Public calendars are those which have been explicitly published by an organization or individuals. We define a way for clients to search for available calendars. The search is defined in a manner which will allow a more relaxed relevance style search if available._
+
+| 0930-1000
+a| Subscription Upgrades +
+_Define an approach whereby clients can discover an alternative and more efficient way to download calendars. Also defines a lightweight synchronization mechanism. The specification is fairly well defined but can benefit from further discussion. https://tools.ietf.org/html/draft-douglass-subscription-upgrade-03_
+
+| 1000-1030
+a| JSCalendar Status +
+_Current status of the JSCalendar Specification in WG last call._
+
+| 1030-1100 | Break and refreshments
+| 1100-1230
+a| Joint public virtual meeting with the IETF CALEXT Working Group +
+_This will be a virtual session with CALEXT WG participants and will be conducted as an IETF virtual WG meeting with public participation. Public documents (e.g. at the IETF or in our public github) will be discussed, as will privacy issues relating to calendar issues. The rules of discussion will be announced at the beginning of the session. An agenda will be published in advance and minutes will be available._
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| JSCalendar Extensions (VPOLL, Event Publication, VAVAILABILITY, etc.) +
+_Discussion of new functionality to be integrated into JSCalendar._  
+
+| 1430-1500
+a| Server-Side Subscriptions +
+_Protocol changes to support subscriptions to external feeds on the server_
+
+| 1500-1530
+a| iSchedule or iSchedule-like protocol for JMAP/JSCalendar suite +
+_Discuss a mechanism for "upgrading" communication between an organizers calendar server and the invitee's calendar server after the initial iMIP message is sent out. One option may be to use a per-event HTTP resource rather than email for iTIP messages._
+
+| 1530-1600 | Break and Refreshments
+| 1600-1630
+a| CalConnect Standards Activities and Liaisons +
+_Update on CalConnect standards activities and liaisons with external SDOs.https://www.calconnect.org/about/liaisons-and-relationships_ 
+
+| 1630-1730
+a| Integrating Liaison Activities into CalConnect +
+_How can we inform CalConnect of liaison activities and integrate into ongoing work of TCs (and vice versa). Develop a clearer idea of where ISO-related work stands with respect to internal work and to JSCalendar/JSContacts._
+
+| 1915-2130 | Conference Dinner _TBD_ 
+2+| *Thursday 10 October 2019*
+| 0830-0900 | Coffee and Tea
+| 0900-1030
+a| Joint Working Group Meeting with ISO/TC 154 WG 5 on date and time standards +
+_Reference time scales, timezones and representation of date and time. Preparation for ISO/TC 154 Plenary in Luxembourg_
+
+| 1030-1100 | Break and Refreshments
+| 1100-1145
+a| ISO Date and Time Standards Update +
+_ISO 8601-1 and -2, vocabulary, time zones (ISO 34100, 34200, 34300)._
+
+| 1145-1230
+a| TC-VCARD, ISO/TC 211, and ISO 19160 +
+_Status of ongoing work, structured name Interchange, digital addressing registry._
+
+| 1230-1330 | Lunch
+| 1330-1430
+a| JSContacts - JSON Representation for Contacts +
+_JSContacts defines a data model and JSON representation of contact information that can be used for data storage and exchange in address book or directory applications. We aim to do the same effort for contacts as we did for calendaring with JSCalendar. Consideration of non-western digital addresses and vCard/cProfile work in ISO. https://tools.ietf.org/html/draft-stepanek-jscontact-00_
+
+| 1430-1530
+a| JMAP Contacts Working Session +
+_The JMAP Contacts specification will define a data model for synchronising JSContacts between a client and a server using JMAP. https://jmap.io/spec-contacts.htm_
+
+| 1530-1600 | Break and refreshments
+| 1600-1645
+a| TC-LOCALIZATION +
+_Discussion of topics before new TC on internationalization/localization issues_
+
+| 1645-1700 | Technical Committee Directions for period to CalConnect XLVI
+| 1700-1730
+a| CalConnect Plenary Session +
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+
+| 1730 | Close of CalConnect XLVI
+2+| *Friday 11 October 2019*
+| 0900-1300 | Working Sessions _Working sessions at venue location for conference participants. Please notify us in advance if you plan to stay for Friday._
+
+|===
+
+
+
+
+
+*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

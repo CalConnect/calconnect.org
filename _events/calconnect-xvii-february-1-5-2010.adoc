@@ -1,0 +1,297 @@
+---
+layout: page
+name: CalConnect XVII - February 1-5 2010
+host_info: Hosted by The University of California at Irvine
+date: 2010-02-01
+image: /assets/images/UCIrvine.jpg
+---
+:page-liquid:
+
+== CalConnect XVII - February 1-5 2010
+
+=== CalConnect Interoperability Test Event - 1-3 February +
+CalConnect Roundtable XVII - 3-5 February
+
+[[intro]]
+image:{{'/assets/images/UCIrvine.jpg' | relative_url }}[The
+University of California at Irvine,width=800,height=600]
+
+Monday, February 01, 2010 to Friday, February 05, 2010
+
+Recent Changes:
+
+*Information is current through January 27, 2010* +
+_Shuttle service dropoff/pickup point identified_
+
+CalConnect XVII, consisting of a CalConnect Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held in Irvine, California, on Monday-Friday, February 1-5, 2010, hosted by http://www.uci.edu[The University of California at Irvine]. +
+ +
+ The IOP Testing will take place all day Monday and Tuesday February 1-2, and Wednesday morning February 3, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
+
+*CalConnect Interoperability Test Events*: At this meeting, we will host a regular CalConnect Interoperability Test Event. The IOP Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1002.shtml[IOP Test Event February 2010] for current information. Check back often as these will be updated as more information becomes available. +
+ +
+ You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
+ +
+*Roundtable XVII:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for these events.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Roundtable will take place at the University of California in Irvine, California. We will be in Bren Hall, next to the University Club, for the entire week; however the rooms will change. On Monday, Tuesday, and Wednesday morning the IOP Test Event will take place in Room 2222 of Bren Hall. The Roundtable will begin with lunch on Wednesday in Room 4011 of Bren Hall, and will be there the remainder of Wednesday and all day Thursday. On Friday, the Roundtable will move to Room 2011 of Bren Hall. For a general map of the area showing the venue locations and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.000479ebabcfd2338e558&z=14[University of California at Irvine area]. Bren Hall is Building #314 on this map: http://www.parking.uci.edu/templates/campusmap/images/submap_engineering.jpg[].
+
+[[transportation]]
+Transportation
+
+*Parking:* If you are driving, Parking for Bren Hall will be in the Anteater Parking Structure at Peltason & Anteater; permits are required in the structure, and may be purchased at the kiosk on the structure's north entrance. See http://www.parking.uci.edu/templates/campusmap/images/submap_engineering.jpg[]. The Anteater Parking Structure is the building labeled "APS". Enter at the blue star on the north end, which marks the kiosk: http://www.parking.uci.edu/permits/visitorpermits.cfm[]. As noted above, Bren Hall is building #314. +
+ +
+*Hotel/UCI Shuttle:* The Ayres Hotel has arranged to offer us shuttle service to and from UC Irvine each day. Specific times for shuttle service will be announced to participants prior to the event. The dropoff/pickup point at UC Irvine will be at the University Club Parking lot, very close to Bren Hall. The parking lot is marked #18B on this map: http://www.parking.uci.edu/templates/campusmap/images/submap_engineering.jpg[]. Bren Hall, the meeting venue, is #314. +
+ +
+*Airport Information:* The closest airport is http://www.ocair.com/[John Wayne Airport], only a few miles from the hotels and the UC Irvine Campus. The next-nearest airport is http://www.longbeach.gov/airport/[Long Beach Airport], which is about 40 miles from UC Irvine and is served by relatively few airlines. +
+ +
+*Ground Transportation:* Both hotels referenced below offer a free shuttle to and from the John Wayne Airport; call the hotel to request a pickup. Information on rental cars and other shuttle options is available at both airport websites. +
+ +
+*Considerations for international arrival and departure:* The nearest airport, John Wayne Airport (SNA), is not an international airport and you cannot clear customs there upon arrival. We recommend connecting through another U.S. airport to clear customs, and then continuing on to John Wayne Airport. You can also fly directly into Los Angeles International  however it is about 45 miles from LAX to UC Irvine by car or shuttle, which can take up to 90 minutes depending on traffic. (This may be particularly an issue on Friday afternoon departure.)
+
+[[lodging]]
+Lodging
+
+The University of California at Irvine has arranged for a special CalConnect rate with two local hotels, the Ayres Hotel & Suites, and the Atrium Hotel. Both hotels are very near the John Wayne Airport and within a few miles of the UCI campus. Both offer a shuttle from and to the airport and some form of shuttle service to local businesses within a few miles. +
+ +
+ We have chosen the Ayres Hotel & Suites Costa Mesa / Newport Beach as our conference hotel. The Ayres is offering a special CalConnect rate of $79/night for the nights of January 31 through February 5. (A Junior Suite is also available at $99/night.) +
+ +
+ Please note that you must have booked your room and guaranteed with a credit card by January 15 2010 to ensure you receive the special room rate. The room block is limited, so book early. _The CalConnect Rate will be available for booking as of Monday, December 7, 2009_. +
+ 
+
+[cols="4,17,2,17"]
+|===
+| 
+.<a| *The Ayres Hotel & Suites +
+ Costa Mesa / Newport Beach* +
+ 325 Bristol Street +
+ Costa Mesa, CA 92626 +
+ Phone: +1 714 549 0300 +
+http://www.ayreshotels.com/costamesa/ +
+ UCI CalConnect rate $79/night single/double +
+ Call 800-322-9992 to book your room; +
+ request the "CalConnect Group Block". +
+ Includes complimentary parking and wireless internet, +
+ breakfast buffet, airport and local shuttle.* +
+ See http://calconnect.org/CalConnect17%20Ayres%20Hotel.pdf[Ayres Hotel & Suites].
+| 
+.<a| *Atrium Hotel* +
+ 18700 MacArthur Blvd. +
+ Irvine, CA 92612 +
+ (949) 833-2770, Fax: (949) 757-0330 +
+ UCI Rate $89/night single/double +
+http://www.atriumhotel.com/ +
+ Includes complimentary parking and in-room internet, +
+ breakfast buffet, airport and local shuttle.
+
+|===
+
++
+ \*We hope to arrange scheduled shuttle runs to and from the Ayres Hotel and the UCI Campus in the morning and evening. All registered participants will be asked prior to the event if they plan to use the shuttle so we can tell the hotel how many people to expect. +
+ +
+ If you have a preferred hotel chain or your company does, the usual hotel chains have hotels in the area; these hotels are mostly clustered more or less in the vicinity of the airport. There are no hotels within comfortable walking distance of the UCI campus.
+
+[[test-schedule]]
+Test Event Schedule
+
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+
+[cols=3]
+|===
+3+.<| *CALCONNECT INTEROPERABILITY TEST EVENTS*
+
+.<a| *Monday 1 February* +
+*Room 2222, Bren Hall* +
+ 0800-0830 Opening Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1530 Testing +
+ 1530-1600 BOFs/Break +
+ 1600-1800 Testing +
+ +
+ 1900-2100 IOP Test Dinner +
+_Steelhead Brewing Company, Irvine_ +
+http://www.steelheadbrewery.com[www.steelheadbrewery.com]
+.<a| *Tuesday 2 February* +
+*Room 2222, Bren Hall* +
+ 0800-0830 Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1530 Testing +
+ 1530-1600 Break +
+ 1600-1800 Testing
+.<a| *Wednesday 3 February* +
+*Room 2222, Bren Hall* +
+ 0800-0830 Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break +
+ 1030-1200 Testing +
+ 1200-1230 Wrap-up +
+ 1230 End of IOP Testing +
+ +
+ 1230-1330 Lunch/Opening^2^
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+
+[cols=3]
+|===
+3+.<| *ROUNDTABLE XVII*
+
+3+.<| 
+.<a| *Wednesday 3 February* +
+*Room 4011, Bren Hall* +
+ 1000-1200 User Special Interest Group^6^ +
+ 1100-1200 Introduction to CalConnect^3^ +
+ 1230-1330 Lunch/Opening +
+ 1315-1330 IOP Test Report +
+ 1330-1430 TC EVENTPUB +
+ 1430-1530 TC RESOURCE +
+ 1530-1545 Break +
+ 1545-1715 TC XML +
+ 1715-1800 USIG Profile: UCI +
+ +
+ 1800-1930 Welcome Reception^4^ +
+_Library Room, University Club_
+.<a| *Thursday 4 February* +
+*Room 4011, Bren Hall* +
+ 0800-0830 Breakfast +
+ 0830-1030 TC CALDAV +
+ 1030-1100 Break +
+ 1100-1230 TC FREEBUSY +
+ 1230-1330 Lunch +
+ 1330-1500 TC iSCHEDULE +
+ 1500-1600 TC TIMEZONE +
+ 1600-1630 Break +
+ 1630-1800 Steering Committee +
+ +
+ 1930-2130 Group Dinner^5^ +
+ _Ayres Hotel, +
+ Costa Mesa/Newport Beach_
+.<a| *Friday 5 February* +
+*Room 2011, Bren Hall* +
+ 0800-0830 Breakfast +
+ 0830-0930 TC MOBILE +
+ 0930-1030 TC USECASE +
+ 1030-1100 Break +
+ 1100-1200 Digital Calendar Outreach +
+ 1200-1230 TC Wrapup +
+ 1230-1330 Working Lunch +
+ 1230-1400 CalConnect Plenary Session +
+ 1400 Close of Meeting
+
+3+| 
+3+.<a| +
+^2^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
+^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
+^4^All Roundtable and/or IOP Test Event participants are invited to the Wednesday evening reception +
+^5^All Roundtable participants are invited to the group dinner on Thursday +
+^6^The User Special Interest Group will meet separately from the IOP test event. +
+ +
+ +
+ Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+
+|===
+ +
+[[agendas]]
+==== Topical Agendas:
+
+[cols=2]
+|===
+.<a| +
+*TC CALDAV* Thu 0830-1030 +
+ 1. Progress and Status Update +
+ 1.1 IETF +
+ 1.2 CalConnect +
+ 2. Open Discussions +
+ 2.1 CalDAV Scheduling +
+ 2.2 Calendar Alarm Extensions +
+ 2.3 WebDAV Synchronization +
+ 2.4 Shared Calendars +
+ 2.5 Calendar Attachments +
+ 3. Moving Forward +
+ 3.1 Plan of Action +
+ 3.2 Next Conference Calls +
+ +
+*TC EVENTPUB* Wed 1330-1430 +
+ 1. Review Charter (Mission and Goals) +
+ 2. Discussion: Starting Use Cases and Requirements +
+ 3. Rich text and iCalendar extensions +
+ 3.1 Resource Reference proposal +
+ 4. Liaisons with other TCs (RESOURCE, USECASE, XML) +
+ +
+*TC FREEBUSY* Thu 1100-1230 +
+ 1. Consensus Scheduling Proposal +
+ 1,1 Presentation and Discussion +
+ 2. Moving Forward +
+ 2.1 Plan of Action +
+ 2.2 Next Conference Calls +
+ +
+*TC IOPTEST* Wed 1315-1330 +
+ Review of IOP test participant findings +
+ +
+*TC iSCHEDULE* Thu 1330-1500 +
+ 1. Progress and status update +
+ 2. Open Discussions 3. Moving Forward +
+ 3.1 Plan of Action +
+ 3.2 Next Conference Calls
+.<a| *TC MOBILE* Fri 0830-0930 +
+ 1. Update on TC activities +
+ 2. Interop event status +
+ 3. Synchronization technologies discussion +
+  (focus on ActiveSync) +
+ 4. Outreach efforts +
+ 5. Next steps +
+ +
+*TC RESOURCE* Wed 1430-1530 +
+ 1. Calconnect last call for cal-resources schema draft +
+ 2. Next steps for the draft +
+ 3. Next topic for TC Resource +
+ +
+*TC TIMEZONE* Thu 1500-1600 +
+ 1. Timezone Service proposal +
+ Presentation and discussion +
+ 2. Planning for May IOP Tests +
+ 3. Next Steps +
+ +
+*TC USECASE* Fri 0930-1030 +
+ 1. Review Recommended Glossary revisions +
+ 2. Invite responses to same +
+ 3. Review USig responses to UseCases +
+ 4. Invite responses to same +
+ +
+*TC XML* Wed 1545-1715 +
+ 1. Current status of "XCAL" specification +
+ 2. Discuss calendar web service design +
+ 3. Discuss work timeline for calendar web service +
+ 4. Status of OASIS and WS-CALENDAR +
+ +
+*USIG Profile: UCI* Wed 1715-1800 +
+ Presentation on UC Irvine +
+ Calendaring implementation, +
+ Needs and Concerns
+
+|===

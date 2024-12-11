@@ -2,103 +2,294 @@
 layout: page
 name: CalConnect Nottingham November 2022
 host_info: Hosted by Cronofy in Nottingham, United Kingdom
-date: 2019-08-23
+date: 2022-11-14
 image: /assets/images/nottingham1.jpg
 ---
 :page-liquid:
 
 == CalConnect Nottingham November 2022
 
+[[intro]]
 image::{{'/assets/images/nottingham1.jpg' | relative_url }}[Nottingham, U.K.,750,404]
 
-== Event Details
-- *Dates:* Monday, November 14 – Wednesday, November 16, 2022
-- *Location:* Antenna Media Centre, 9A Beck Street, Nottingham NG1 1EQ, United Kingdom
-- *Host:* Cronofy
+CalConnect Nottingham 2022, November, 2022, Hosted By Cronofy
 
-=== Recent Changes
-- 14-Sep-2022: Rescheduled to November 14–16, 2022, to follow IETF in London.
-- 14-Jan-2022: Previously rescheduled to October 10–14, 2022, due to the pandemic.
-- 30-Jun-2021: Earlier rescheduled to May 09–13, 2022, due to travel restrictions.
-- 23-Oct-2020: Originally rescheduled to October 18–22, 2021, due to COVID-19.
+Monday, November 14, 2022 to Wednesday, November 16, 2022
 
-== Introduction
-CalConnect Nottingham 2022 will be hosted in Nottingham, UK, at the *Antenna Media Centre*, a co-working space near the city center. The event is open to members and non-members (as observers), with a required registration and fee payment.
+Recent Changes:
 
-- *Timing:* Sessions begin daily at 09:30 and end at 17:30.
-- *Dress Code:* Casual to business casual.
+14-Sep-2022 Rescheduled once more to November 14-16 2020 to follow IETF in London
 
-== Registration Information
-- *Fee:*
-  - In-person: $650 (members and observers)
-  - Virtual: $150
-- *Details & Registration:* link:{{'/events/event-registration-payment' | relative_url }}[Registration Page]
+14-Jan-2022 Conference rescheduled yet again to October 10-14 2022 due to Pandemic and trravel restrictions.
 
-== Location and Attractions
-*Venue:*
-https://antenna.uk.com/[Antenna Media Centre]
-9A Beck Street, Nottingham NG1 1EQ
-Phone: +44 (0)115 993 2350
+30-Jun-2021 Conference rescheduled again to May 09-13 2022 due to Pandemic and subsequent travel restrictions..
 
-*Nearby Attractions:*
-- Nottingham Castle and the City of Caves (https://www.visit-nottinghamshire.co.uk/things-to-do/city-of-caves-p354851[Explore here]).
-- Pubs claiming to be the oldest in Britain.
-- Top-rated eateries:
-  - https://www.visit-nottinghamshire.co.uk/food-and-drink/the-cods-scallops-p820441[The Cod’s Scallops] (Best Fish & Chips).
-  - https://hockleykitchen.co.uk[Hockley Kitchen] (Best Breakfast).
-  - https://www.visit-nottinghamshire.co.uk/food-and-drink/iberico-world-tapas-p449401[Iberico World Tapas] (Tapas).
+23-Oct-2020 Conference rescheduled to October 18-22 2021 due to Covid-19 Pandemic.
 
-*Transportation:*
-- *Closest Airport:* https://www.eastmidlandsairport.com/[East Midlands Airport]
-- *Alternative Airports:* London Heathrow, London Gatwick, Birmingham, Manchester.
-- *Ground Transportation:*
-  - *Trains:* From London St. Pancras to Nottingham via East Midlands Railways.
-  - *Local Transit:* Nottingham has a tram system (https://www.thetram.net/tickets/one-off-tickets[Tickets Info]).
+*Introduction*
 
-== Lodging
-- https://all.accor.com/hotel/8061/index.en[Mercure Nottingham City Centre George Hotel]
-- https://www3.hilton.com/en/hotels/united-kingdom/hilton-nottingham-EMANOHN/index.html[Nottingham Hilton]
-- Other options nearby.
+CalConnect Nottingham 2022 will be held in Nottingham, United Kingdom, November 14-16 2022, hosted by Cronofy. We hope to confirm more of the details below in the next few days.
 
-== Conference Schedule
-_All times are UK local time._
+The regular conference will be Monday-Wednesday November 14-16 2022. The conference will be at the event venue Antenna - a co-working space close to the center of town.
 
-=== Monday, November 14, 2022
-[cols="20%,80%",options="header"]
+CalConnect Conferences are open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference.
+
+International Visitors
+
+At this time citizens of the United States and most Commonwealth nations do not require a visa to visit the United Kingdom. If you are unsure, the following link provides detailed information for visitors to the United Kingdom: https://www.gov.uk/check-uk-visa
+
+There are currently no COVID related travel restrictions in force for entry to the UK. See https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19#:~:text=Print%20this%20page-,Travel%20to%20England%20rules,to%20quarantine%20when%20you%20arrive[https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19]
+
+Conference Details
+
+The first session each day will be at 0930. The default end for each day is 1730.
+
+Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast earlier if you wish a more substantial repast.
+
+Dress for all CalConnect events is casual to business casual.
+
+[[registration]]
+Registration Information
+
+Please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] Event to register. The regular registration fee is $650 US for in-person CalConnect member representatives and for observers. For virtual attendees the fee is $150 US per person. See the registration pages linked above for more information.
+
+[[location]]
+Location
+
+CalConnect Nottingham 2022 will be held at the https://antenna.uk.com/[Antenna Media Centre], 9A Beck Street, Nottingham NG1 1EQ, +44 (0)115 993 2350. Signs to the meeting room will be posted at the entrance. Here is a map to the city centre showing the locations of the venue and suggested hotels: https://www.google.com/maps/place/Antenna/@52.9546871,-1.1456386,17z/data=!4m5!3m4!1s0x4879c17de0dc5f45:0x4d78304762fccbec!8m2!3d52.9557073!4d-1.1430911[Nottingham Map].
+
+For those with time to spare there are a number of interesting places to explore in Nottingham. The city has 3 pubs all claiming to be the oldest in Britain - there is another elsewhere. There is the castle of course and an interesting set of caves to visit.
+
+Take a look at https://www.visit-nottinghamshire.co.uk/things-to-do/city-of-caves-p354851 for the caves.
+
+For those of us who have to have fish and chips there is this: The Best Fish & Chip Shop in the UK in the National Fish & Chip Awards.
+
+https://www.visit-nottinghamshire.co.uk/food-and-drink/the-cods-scallops-p820441[https://www.visit-nottinghamshire.co.uk/food-and-drink/the-cods-scallops...]
+
+And best brekkie
+
+https://hockleykitchen.co.uk
+
+And of course - you're in the UK so you have to have tapas: https://www.visit-nottinghamshire.co.uk/food-and-drink/iberico-world-tapas-p449401[https://www.visit-nottinghamshire.co.uk/food-and-drink/iberico-world-tap...]
+
+This: https://www.visit-nottinghamshire.co.uk/itinerary-planner allows you to build your own itinerary if you have a day or two to spare.
+
+Nottingham has a tram system - ticket information is here: https://www.thetram.net/tickets/one-off-tickets
+
+[[transportation]]
+Transportation
+
+*Airport Information*: The most convenient airport to Nottingham is https://www.eastmidlandsairport.com/[East Midlands Airport], which serves a number of European and U.K. destinations, and is relatively close to Nottingham with good public transportation.
+
+For those arriving from more distant locations, you would probably fly into either London Heathrow or London Gatwick, transfer to the St. Pancreas International (STP) train station, and take the train to Nottingham (NOT). A less convenient alternative would be Birrmingham or Manchester Airports; however transfer to Nottingham might take as long as from London.
+
+*Ground Transportation:*
+
+Rental Cars and Taxis: All airports have rental car facilities and taxis available.
+
+*Train*: If you are buying train tickets online (http://www.thetrainline.com/), please select Nottingham (NOT) as the destination.
+
+*From London Gatwick:* Take the First Capitol Connect train (NOT the Gatwick Express!) to London St. Pancreas (STP) and transfer to the East Midlands Railways train to Nottingham (NOT) (on the upper concourse).
+
+*From London Heathrow:* Take the Heathrow Express to Paddington Station, transfer to St. Pancras Station by taxi or Underground, and take the train north to Nottingham. The Heathrow Express is $35 single/$55 return; the trains run every 15 minutes and the trip takes about 15 minutes. Book tickets online https://www.heathrowexpress.com/[https://www.heathrowexpress.com]. Alternatively you can take the Underground from Heathrow to St. Pancras station; it will cost less than the Heathrow Express, but take considerably longer.
+
+*Eurostar*: If you are coming into London via Eurostar, you will arrive at London St Pancras International. Please see details above.
+
+*From London St. Pancras Station (STP) to Nottingham (NOT):* Trains from St. Pancras run very regularly and journey times are aproximately two hours. A one way ticket is about $35. The direct service is operated by East Midlands Railways (upper concourse). First Calpitol Connect runs to Bedford but then requires a transfer to East Midlands for the remainder of the trip to Nottingham.
+
+*Within Nottingham:* It is approximately a 15 minute walk https://www.google.com/maps/dir/Nottingham+Station,+Carrington+Street,+Nottingham/Antenna,+9A+Beck+St,+Nottingham+NG1+1EQ/@52.9515113,-1.1467482,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4879c3d30f154a3d:0x91a710272a1e58ce!2m2!1d-1.1451422!2d52.9471671!1m5!1m1!1s0x4879c17de0dc5f45:0x4d78304762fccbec!2m2!1d-1.1430911!2d52.9557073!3e2[from the Nottingham Train Station to the venue]. Taxis are available at the station at a cost of approxiamtely $10.
+
+[[lodging]]
+Lodging
+
+At this time, the conference hotel is the https://all.accor.com/hotel/8061/index.en.shtml[Mercure Nottingham City Centre George Hotel], 2 George Street, Nottingham NG1 3BP United Kingdom Tel: +441159853600, Fax: (+44)115/9599777, There is no corporate rate, so book directly with the hotel via the webite. This hotel has a restaurant and bar.
+
+One alternative is the https://www3.hilton.com/en/hotels/united-kingdom/hilton-nottingham-EMANOHN/index.html[Nottingham Hilton], Milton Street, Nottingham, NG1 3PZ, United Kingdom TEL: +44-115-934-9700 FAX: +44-115-934-9711. There is no corporate rate, so book directly with the hotel via the website.
+
+There are a variety of other hotels iin the same area.
+
+[[test-schedule]]
+
+[[conference-schedule]]
+Conference Schedule
+
+=== CalConnect Nottingham 2022
+
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+
+All times shown are UK local time
+
+The broad outline is introductions and catch-up on Monday. Tuesday is for all topics starting with J, jsCalendar, jsContacts etc. Wednesday will be further discussion, topics introduced on earlier days and wrap-up.
+
+[cols="1,9"]
 |===
-| Time | Session
-| 09:30–10:00 | Intros and Familiarization - Introductions & welcome to newcomers.
-| 10:00–11:00 | Conference Welcome & Plenary - TC Status, Board Reports, Future Plans.
-| 11:00–12:30 | Host Introduction - Cronofy’s availability engine presentation.
-| 12:30–14:00 | *Lunch*
-| 14:00–14:30 | Standards Review - Status of drafts & new specifications.
-| 14:30–15:00 | Liaison Reports - Sedate, ISO8601 work, Localizations.
-| 15:00–15:45 | iMIP - Nextcloud’s iMIP implementation, handling DMARC issues.
-| 15:45–17:00 | Limitations of calendars for event data models.
-|===
+2+| *Monday 14 November 2022*
 
-=== Tuesday, November 15, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 09:30–10:30 | jsCalendar - Overview & mapping with iCalendar.
-| 10:30–11:30 | jsCalendar implementations - Reports from Bedework & Fastmail.
-| 11:30–12:30 | jsContact - Current specification state.
-| 12:30–14:00 | *Lunch*
-| 14:00–15:00 | jMap Tasks - Specification alignment.
-| 15:00–15:30 | Possible rewrite of iTip - Simplifying and updating the spec.
-| 15:30–17:30 | TBD
-|===
+| 
 
-=== Wednesday, November 16, 2022
-[cols="20%,80%",options="header"]
-|===
-| Time | Session
-| 09:30–10:00 | Fractional Date/Time in iCalendar and jsCalendar.
-| 10:00–10:30 | VPOLL - Current status review.
-| 10:30–11:00 | Tasks - Specification updates & discussions.
-| 11:00–12:30 | Contacts - Digital signatures & alignment discussions.
-| 12:30–14:00 | *Lunch*
-| 14:00–14:30 | Metaverse Membership discussions.
-| 14:30–17:00 | Wrap-up
+0930-1000
+
+a| Intros and Familiarization +
+_- Introductions and welcome to newcomers_
+
+| 
+
+1000-1100
+
+a| Conference Welcome and Plenary +
+_- TC Status_ +
+_- Report from Board, next steps_ +
+_- Future Winter 2022 and beyond_
+
+| 
+
+1100-1230
+
+a| Host Introduction +
+_- Welcome from Cronofy_ +
+_- Talk about their availability engine._
+
+| 
+
+1230-1400
+
+ | Lunch
+| 
+
+1400-1430
+
+a| Standards Review +
+_Overview of ongoing work; status of current draft specifications and new standards_ +
+_relations_ +
+_Alarms_ +
+_Eventpub_
+
+| 
+
+1430-1500
+
+a| Reports from Liaisons and IETF +
+_-Sedate_ +
+_-ISO8601 work ISO/TC 154 WG 5_ +
+_-Localizations_
+
+| 
+
+1500-1545
+
+a| iMIP +
+_-Nextcloud presentation on their iMip implementation_ +
+_-Some clients have known problems handling DMARC and IMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these problems._
+
+| 
+
+1545-1700
+
+a| The limitations of calendars for the event data model +
+_Working with the icalendar event data model outside the context of calendars and email presents challenges in the context of modern event-related services online. A discussion of the general problem with a specific focus on the use-case of online communities and a proposed context-agnostic event data model._
+
+2+| *Tuesday 15 November 2022*
+| 
+
+0930-1030
+
+a| jsCalendar +
+_- Current state of jsCalendar_ +
+_- iTip and jsCalendar_ +
+_- Mapping between iCalendar and JSCalendar_
+
+| 
+
+1030-1130
+
+a| jsCalendar implementations +
+_- Report on implementing JSCalendar in Bedework and Fastmail_ +
+_- Testing_ +
+_- Promotion_
+
+| 
+
+1130-1230
+
+a| jsContact +
+_-Describe the current state of the specification._
+
+| 
+
+1230-1400
+
+ | Lunch
+| 
+
+1400-1500
+
+a| jMap Tasks +
+_-Describe the current state of the specification._ +
+_-Discussion on aligning this spec with the iCalendar tasks extension draft._
+
+| 
+
+1400-1500
+
+ | jMap
+| 
+
+1500-1530
+
+a| Possible rewrite of iTip +
+_-iTip could use a refresh - a rewrite could considerably simplify the spec and would also be an opportunity to include the new representations._
+
+| 
+
+1530-1730
+
+ | TBD
+2+| *Wednesday 16 May 2022*
+| 
+
+0930-1000
+
+a| Fractional date/time in iCalendar and JSCalendar +
+_- Supporting sub second intervals in iCalendar and JSCalendar_
+
+| 
+
+1000-1030
+
+a| Review of the current status of VPOLL +
+_Having the relations rfc out, it's time to review VPOLL again_
+
+| 
+
+1030-1100
+
+a| Tasks +
+_-Describe the current state of the specification._ +
+_-Discuss some of the changes suggested and continue the discussion on alignment_
+
+| 
+
+1100-1230
+
+a| Contacts +
+_-Possible presentation on digital signatures in contacts._ +
+_-Describe the current state of the specifications._ +
+_-Discuss some of the changes suggested and continue the discussion on alignment_
+
+| 
+
+1230-1400
+
+ | Lunch
+| 
+
+1400-1430
+
+ | Metaverse membership
+| 
+
+Remainder
+
+ | Wrap-up
+
 |===

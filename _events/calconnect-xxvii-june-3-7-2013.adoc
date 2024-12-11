@@ -1,0 +1,345 @@
+---
+layout: page
+name: CalConnect XXVII - June 3-7, 2013
+host_info: Hosted by The University of Wisconsin, Madison, Wisconsin
+date: 2013-06-03
+image: /assets/images/UWiscMadison.jpg
+---
+:page-liquid:
+
+== CalConnect XXVII - June 3-7, 2013
+
+=== CalConnect Interoperability Test Event - June 3-5 +
+CalConnect Roundtable XXVII - June 5-7
+
+
+[[intro]]
+image:{{'/assets/images/UWiscMadison.jpg' | relative_url }}[The
+University of Wisconsin, Madison,width=604,height=453]
+
+Monday, June 03, 2013 to Friday, June 07, 2013
+
+Recent Changes:
+
+Information is current to May 29, 2013 +
+_Meeting Rooms at Union South building confirmed_
+
+CalConnect XXVII, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Madison, Wisconsin Monday-Friday, June 3-7, 2013, hosted by http://www.wisc.edu[The University of Wisconsin]. +
+ +
+ The Interoperability Test Event will take place all day Monday and Tuesday June 3-4, and Wednesday morning June 5, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday June 5, and last through early afternoon Friday June 7. +
+ +
+ An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 09:30 on Wednesday the 5th for first-time attendees. +
+ +
+ A special *BOF on Calendar Sharing and Notifications* will be held Wednesday morning at 10:30-12:30.afternoon during the Roundtable open to all participants at the Interoperability Test Event and the Roundtable.
+
+*CalConnect Interoperability Test Event*: The Interoperability Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1306.shtml[CalConnect Interoperability Test Event June 2013] for current information. Check back often as this will be updated as more information becomes available. +
+ +
+_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
+ +
+*Roundtable XXVII:* The Roundtable Technical Conference and Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
+ +
+ Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+International Visitors
+
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
+ +
+ Dane County Regional Airport does not offer international service, so international travelers will have to clear customs and immigration at a transit point, such as Chicago O'Hare.
+
+[[registration]]
+Registration Information
+
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
+
+[[location]]
+Location
+
+The Interoperability Test Event and the Roundtable will take place at the Union South building, 1308 West Dayton Street, Madison, Wisconsin 53706. We will be in the *Industry* Room Monday through Thursday 3-6 June, and the *Northwoods* Room on Friday 7 June. +
+ +
+ The Union South building is within walking distance of the conference hotel, so you will not need an automobile. +
+ +
+ This map shows the location of the Doubletree Hotel, the Union South Building, and other points of interest: https://mapsengine.google.com/map/edit?mid=zAsY2cEyHcf8.k3ZOyuvNadNU/
+
+[[transportation]]
+Transportation
+
+*Airport Information:* Madison is served by http://www.msnairport.com[Dane County Regional Airport], which is less than ten miles from the University. This is a regional airport and most travelers will have to route though a larger airport. You may also fly to O'Hare International Airport (Chicago) and drive, but it is at least a three hour drive from the airport to Madison. +
+ +
+*Ground Transportation:* Taxi fare between the airport and the conference hotel is approximately $20 and takes about 15 minutes. The hotel also offers a shuttle service between 7:00 a.m. and 10:30 p.m. - call the hotel at 1-608-251-5511 when you land to arrange pickup. A public metro bus is also available. See http://www.msnairport.com/guide/ground_transport.aspx[]. +
+ +
+ Major rental car companies are available onsite at Dane County Airport; see http://www.msnairport.com/guide/car_rentals.aspx[]. However, due to the closeness of the conference hotel and the meeting site, and the lack of available parking at the meeting site, we recommend that you not bother with a rental car at all unless you have special circumstances.
+
+[[lodging]]
+Lodging
+
+We have arranged a block of rooms at a special conference rate at the http://doubletree3.hilton.com/en/hotels/wisconsin/doubletree-by-hilton-hotel-madison-MSNDTDT/index.html[Doubletree Madison] hotel, 525 West Johnson Street, Madison. The hotel is approximately eight blocks from the Union South building. +
+ +
+ The conference rate is $149 plus taxes per night and is inclusive of free internet access. You may reserve online or contact them at +1 800-222-8733 +1 608-251-5511 to make your reservation. *Be sure to enter or ask for the group rate CAL to get this rate.* +
+ +
+*Note Well:* The room block will be released on May 13. After that date rooms may still be available but this special rate will no longer be available. +
+ +
+ Several other hotels are available in the area if you are unable to stay at the Doubletree but we encourage you to stay at the conference hotel.
+
+[[test-schedule]]
+Test Event Schedule
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
+ 
+
+[cols=3]
+|===
+3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
+
+.<a| *Monday 3 June* +
+ 0800-0830 Continental Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing +
+ +
+ 1915-2130 IOP Test Dinner +
+_http://www.brocach.com/home.html[Brocach Irish Pub]_ +
+ 7 West Main Street +
+ Madison, WI 53703 +
+ 
+.<a| *Tuesday 4 June* +
+ 0800-0830 Continental Breakfast +
+ 0830-1000 Testing +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 Testing +
+ 1230-1330 Lunch +
+ 1330-1430 BOF or Testing +
+ 1330-1530 Testing +
+ 1530-1600 Break and Refreshments +
+ 1600-1800 Testing
+.<a| *Wednesday 5 June* +
+ 0800-0830 Continental Breakfast +
+ 0830-1000 Testing and Wrap-up +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 BOF: Calendar Sharing and Notifications +
+ +
+ 1230-1330 Lunch/Opening^1^ 
+
+|===
+
+
+
+[[conference-schedule]]
+Conference Schedule
+
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+[cols=3]
+|===
+3+.<| *ROUNDTABLE XXVII*
+
+3+.<| 
+.<a| *Wednesday 5 June* +
+ 0930-1000 Introduction to CalConnect^3^ +
+ 1000-1200 User Special Interest Group^2^ +
+ 1000-1030 Break and Refreshments +
+ 1030-1230 BOF: Calendar Sharing and Notifications +
+ 1230-1330 Lunch/Opening +
+ 1315-1330 IOP Test Report +
+ 1330-1530 BOF: Travel Itineraries +
+ 1530-1600 Break and Refreshments +
+ 1600-1700 TC USECASE +
+ 1700-1800 Host Session: Calendar Migration Experiences +
+ +
+ 1800-2000 Welcome Reception^4^ +
+_TBD_
+.<a| *Thursday 6 June* +
+ 0800-0830 Continental Breakfast +
+ 0830-1000 TC TASKS +
+ 1000-1030 TC AUTODISCOVERY +
+ 1030-1100 Break and Refreshments +
+ 1100-1230 TC CALDAV +
+ 1230-1330 Lunch +
+ 1330-1500 TC ISCHEDULE +
+ 1500-1600 TC EVENTPUB +
+ 1600-1630 Break and Refreshments +
+ 1630-1715 TC TIMEZONE +
+ 1715-1800 Steering Committee^5^ +
+ +
+ 1900-1930 Shuttle from Doubletree Hotel to restaurant +
+ 1930-2200 Group Dinner^6^ +
+_http://www.quiveysgrove.com/[Quivey's Grove]_ +
+ 6261 Nesbitt Road, Madison, WI 53719 +
+ 608-273-4900 +
+ 2200-2230 Shuttle from restaurant to Doubletree Hotel
+.<a| *Friday 7 June* +
+ 0800-0830 Continental Breakfast +
+ 0830-0900 TC XML +
+ 0900-1000 TC RESOURCE +
+ 1000-1030 Break and Refreshments +
+ 1030-1130 CALSCALE Ad Hoc +
+ 1130-1200 TC FREEBUSY +
+ 1200-1230 TC Wrapup +
+ 1230-1330 Working Lunch +
+ 1300-1400 CalConnect Plenary Session +
+ 1400 Close of Meeting
+
+3+| 
+3+.<a| +
+^1^The Wednesday lunch is for all participants in the Interoperabilty Test Event and/or Roundtable +
+^2^The User Special Interest Group meeting location will be announced prior to Wednesday June 5 +
+^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
+^4^All Roundtable and/or Interoperability Test Event participants are invited to the Wednesday evening reception +
+^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
+^6^All Roundtable participants are invited to the group dinner on Thursday +
+ +
+ +
+ Continental Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Interoperability Test Event and the Roundtable and are included in your registration fees. 
+
+|===
+ +
+
+[[agendas]]
+==== Topical Agendas:
+
+[cols=2]
+|===
+.<a| +
+*CALSCALE Ad Hoc* Fri 1030-1130 +
+ 1. Introduction +
+ 2. Problem Statement: dealing with Non-Gregorian calendar systems +
+ 3. Proposed solution +
+ 4. Possible interop testing +
+ 5. Next steps +
+ +
+*TC AUTODISCOVERY* Thu 1000-1030 +
+ 1. Introduction +
+ 1.1 Problem Statement +
+ 1.2 Current Status +
+ 2. Autodiscovery draft specification +
+ 2.1 JSON document format +
+ 2.2 Current status at the IETF +
+ 3. Next steps +
+ +
+*TC CALDAV* Thu 1100-1230 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. Progress and Status Update +
+ 2.1 IETF +
+ 2.2 CalConnect +
+ 3. Open Discussions +
+ 3.1 Managed Attachments +
+ 3.2 Calendar Sharing & Notifications +
+ 3.3 Use of the Prefer header in CalDAV +
+ 3.4 Calendar Searching +
+ 4. Moving Forward +
+ 4.1 Plan of Action +
+ 4.2 Next Conference Call +
+ +
+*TC EVENTPUB* Thu 1500-1600 +
+ 1. Charter +
+ 2. Work and accomplishments +
+ 3. Calendar extensions RFC +
+ 3.1 STYLED-DESCRIPTION (Rich Text) +
+ 3.2 STRUCTURED-LOCATION +
+ 3.3 ASSOCIATE +
+ 3.4 GROUP Parameter +
+ 4. Party invitations / calendar sharing +
+ 5. Going Forward - next steps +
+ +
+*TC FREEBUSY* Fri 1130-1200 +
+ 1. Charter +
+ 2. Work and accomplishments +
+ 3. VPOLL RFC +
+ 4. Interop test report +
+ 5. Moving Forward +
+ 5.1 Plan of Action +
+ 5.2 Next Conference Call +
+ +
+*TC IOPTEST* Wed 1315-1330 +
+ Review of IOP test participant findings +
+ +
+*TC iSCHEDULE* Thu 1330-1500 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. Open Discussions +
+ 2.1 Change from last draft +
+ 2.2 Work with the IETF +
+ 2.3 iSchedule interop: lessons learned +
+ 3. Moving Forward +
+ 3.1 Plan of Action +
+ 3.2 Next Conference Calls
+.<a| +
+*TC RESOURCE* Fri 0900-1000 +
+ 1. Introduction +
+ 1.1 TC Charter +
+ 1.2 Accomplishments +
+ 2 Resource RFC restructuring +
+ 2.1 OBJECTCLASS draft +
+ 2.2 Schedulable draft +
+ 2.3 Resource vCard draft +
+ 3. Open Discussions +
+ 3.1 Resource scheduling implementations today +
+ 3.2 Possible DAV extensions to Principal properties for easier and standardized Resource discovery +
+ 4. Future of TC +
+ 4.1 Next conference calls +
+ +
+*TC TASKS* Thu 0830-1000 +
+ 1. Introduction +
+ 1.a Recap Charter +
+ 2. Progress since last roundtable +
+ 2.a STATUS and PARTSTAT +
+ 2.b ORGANIZER +
+ 2.c Task Definition +
+ 2.d Task Relations +
+ 3. Next steps +
+ +
+ +
+*TC TIMEZONE* Thu 1630-1715 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Background to the work +
+ 2. Interop report +
+ 3. Timezone Service Specification +
+ 4. Timezones by reference in CalDAV +
+ 5. Timezone Registries +
+ 6. Next steps +
+ +
+*TC USECASE* Wed 1600-1700 +
+ 1. Continue discussion on role of USIG/Usecase in CalConnect +
+ 2. Discuss recommendations based on UseCase calls since last Roundtable +
+ +
+*TC XML* Fri 0830-0900 +
+ 1. Introduction +
+ 1.1 Charter +
+ 1.2 Summary +
+ 2. jCal & jCard: iCalendar and vCard in json +
+ 2.1 IETF Status +
+ 2.2 Remaining issues +
+ 3 Interop test results +
+ 4. Moving Forward +
+ 4.1 Plan of action +
+ 4.2 Next conference calls
+
+|===
+
+ +
+ +
+
+[[bofs]]
+==== Scheduled BOFs
+
+[[bof1]] +
+ +
+ This bof will describe and discuss the current implementations of CalDAV calendar sharing and notifications. There will be time for discussion on possible future extensions to sharing, possibly allowing for publication, and subscriptions to individual events. +
+ +
+[[bof2]] +
+ +
+ 1. Introduction +
+ 2. Digital itineraries today +
+ 3. How iCalendar can be used to improve itinerary management/publication +
+ 4. Where to go next +
+ +
+ +
+ +
+ Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called during the Roundtable. BOFs will be scheduled as time permits.
