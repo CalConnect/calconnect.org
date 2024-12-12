@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information member-focus
 excerpt: CalConnect welcomes fruux GMBH and Stylite AG as members of The Calendaring and Scheduling Consortium.
 ---
+:page-liquid:
 
 == CalConnect Welcomes fruux and Stylite
 

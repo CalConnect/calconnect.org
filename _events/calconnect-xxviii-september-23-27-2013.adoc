@@ -201,7 +201,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
  Lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees. 
 
 |===
- +
+ 
 
 [[agendas]]
 ==== Topical Agendas:
@@ -334,7 +334,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 |===
 
  +
- +
+ 
 
 [[bofs]]
 ==== BOFs and Workshops
@@ -354,7 +354,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
  CalConnect has made significant progress in its original goals of setting and evolving Calendaring & Scheduling standards and promoting interoperability and this work must continue. In recent years we have seen an explosion of new entrants in our field, in particular smaller vendors of calendaring and related products, and vendors targeted at specific end user groups (business, education, productivity) who are in direct contact with end users. CalConnect may need to expand what it does, how it positions itself and how it explains what it provides to better meet their needs and the needs of their users, the growing world of calendaring & scheduling consumers.
 
  +
- +
+ 
 
 ===== Unscheduled
 

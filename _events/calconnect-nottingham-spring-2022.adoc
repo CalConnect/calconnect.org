@@ -7,14 +7,13 @@ image: /assets/images/nottingham1.jpg
 ---
 :page-liquid:
 
-== CalConnect Nottingham November 2022
+== CalConnect Nottingham 2022, November, 2022, Hosted By Cronofy
 
-[[intro]]
 image::{{'/assets/images/nottingham1.jpg' | relative_url }}[Nottingham, U.K.,750,404]
 
-CalConnect Nottingham 2022, November, 2022, Hosted By Cronofy
-
 Monday, November 14, 2022 to Wednesday, November 16, 2022
+
+[[intro]]
 
 Recent Changes:
 
@@ -125,14 +124,14 @@ The broad outline is introductions and catch-up on Monday. Tuesday is for all to
 |===
 2+| *Monday 14 November 2022*
 
-| 
+|
 
 0930-1000
 
 a| Intros and Familiarization +
 _- Introductions and welcome to newcomers_
 
-| 
+|
 
 1000-1100
 
@@ -141,7 +140,7 @@ _- TC Status_ +
 _- Report from Board, next steps_ +
 _- Future Winter 2022 and beyond_
 
-| 
+|
 
 1100-1230
 
@@ -149,12 +148,12 @@ a| Host Introduction +
 _- Welcome from Cronofy_ +
 _- Talk about their availability engine._
 
-| 
+|
 
 1230-1400
 
  | Lunch
-| 
+|
 
 1400-1430
 
@@ -164,16 +163,16 @@ _relations_ +
 _Alarms_ +
 _Eventpub_
 
-| 
+|
 
 1430-1500
 
 a| Reports from Liaisons and IETF +
 _-Sedate_ +
-_-ISO8601 work ISO/TC 154 WG 5_ +
+_-ISO8601 work --ISO/TC 154 WG 5_ +
 _-Localizations_
 
-| 
+|
 
 1500-1545
 
@@ -181,7 +180,7 @@ a| iMIP +
 _-Nextcloud presentation on their iMip implementation_ +
 _-Some clients have known problems handling DMARC and IMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these problems._
 
-| 
+|
 
 1545-1700
 
@@ -189,7 +188,7 @@ a| The limitations of calendars for the event data model +
 _Working with the icalendar event data model outside the context of calendars and email presents challenges in the context of modern event-related services online. A discussion of the general problem with a specific focus on the use-case of online communities and a proposed context-agnostic event data model._
 
 2+| *Tuesday 15 November 2022*
-| 
+|
 
 0930-1030
 
@@ -198,7 +197,7 @@ _- Current state of jsCalendar_ +
 _- iTip and jsCalendar_ +
 _- Mapping between iCalendar and JSCalendar_
 
-| 
+|
 
 1030-1130
 
@@ -207,19 +206,19 @@ _- Report on implementing JSCalendar in Bedework and Fastmail_ +
 _- Testing_ +
 _- Promotion_
 
-| 
+|
 
 1130-1230
 
 a| jsContact +
 _-Describe the current state of the specification._
 
-| 
+|
 
 1230-1400
 
  | Lunch
-| 
+|
 
 1400-1500
 
@@ -227,39 +226,39 @@ a| jMap Tasks +
 _-Describe the current state of the specification._ +
 _-Discussion on aligning this spec with the iCalendar tasks extension draft._
 
-| 
+|
 
 1400-1500
 
  | jMap
-| 
+|
 
 1500-1530
 
 a| Possible rewrite of iTip +
 _-iTip could use a refresh - a rewrite could considerably simplify the spec and would also be an opportunity to include the new representations._
 
-| 
+|
 
 1530-1730
 
  | TBD
 2+| *Wednesday 16 May 2022*
-| 
+|
 
 0930-1000
 
 a| Fractional date/time in iCalendar and JSCalendar +
 _- Supporting sub second intervals in iCalendar and JSCalendar_
 
-| 
+|
 
 1000-1030
 
 a| Review of the current status of VPOLL +
 _Having the relations rfc out, it's time to review VPOLL again_
 
-| 
+|
 
 1030-1100
 
@@ -267,7 +266,7 @@ a| Tasks +
 _-Describe the current state of the specification._ +
 _-Discuss some of the changes suggested and continue the discussion on alignment_
 
-| 
+|
 
 1100-1230
 
@@ -276,17 +275,17 @@ _-Possible presentation on digital signatures in contacts._ +
 _-Describe the current state of the specifications._ +
 _-Discuss some of the changes suggested and continue the discussion on alignment_
 
-| 
+|
 
 1230-1400
 
  | Lunch
-| 
+|
 
 1400-1430
 
  | Metaverse membership
-| 
+|
 
 Remainder
 

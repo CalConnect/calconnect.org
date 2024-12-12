@@ -6,32 +6,33 @@ type: news
 categories: current-events general-information special-focus the-world-of-calendaring
 excerpt: Several days ago the New York Times ran an article about paper versus electronic calendars which suggested a “war” between paper versus electronic calendars http://www.nytimes.com/2011/07/31/fashion/calendar-wars-pit-electronics-against-paper.html?pagewanted=1&_r=2.
 ---
+:page-liquid:
 
 == Calendar Technology is not a “War”
 
-Posted August 4, 2011 
+Posted August 4, 2011
 
-Several days ago the New York Times ran an article about paper versus electronic calendars which suggested a war between paper versus electronic calendars: http://www.nytimes.com/2011/07/31/fashion/calendar-wars-pit-electronics-against-paper.html?pagewanted=1&_r=2[].
+Several days ago the New York Times ran an article about paper versus electronic calendars which suggested a "`war`" between paper versus electronic calendars: http://www.nytimes.com/2011/07/31/fashion/calendar-wars-pit-electronics-against-paper.html?pagewanted=1&_r=2[].
 
-The article is interesting and makes valid points about why some choose to stay with paper calendars, but I would argue that positioning the distinction as a war between paper versus electronic calendars is wide of the mark. In actuality, the choice of paper or silicon, or both, is based on one s needs, likes, and comfort level.
+The article is interesting and makes valid points about why some choose to stay with paper calendars, but I would argue that positioning the distinction as a "`war`" between paper versus electronic calendars is wide of the mark. In actuality, the choice of paper or silicon, or both, is based on one's needs, likes, and comfort level.
 
-Many of us are familiar with paper calendars, find that they do what we need them to do, and don t require additional gadgets. Others find that they have requirements which dictate electronic calendars, which are much easier to share, backup, and schedule with others. Individuals and households who use both paper and silicon are fairly common: a paper calendar is maintained because it is visible and easy for anyone to update, but other uses require the electronic calendar as well.
+Many of us are familiar with paper calendars, find that they do what we need them to do, and don't require additional gadgets. Others find that they have requirements which dictate electronic calendars, which are much easier to share, backup, and schedule with others. Individuals and households who use both paper and silicon are fairly common: a paper calendar is maintained because it is visible and easy for anyone to update, but other uses require the electronic calendar as well.
 
-The point is that individuals, households and groups can and will choose the methods(s) they are comfortable with, and which meet their needs. Of course over time those needs may expand; that doesn t mean that paper calendars are invalidated, any more than my ability to write down an event on a paper calendar obviates the reasons I use an electronic calendar. But it does mean that there are tricks that a paper calendar simply isn t going to learn.
+The point is that individuals, households and groups can and will choose the methods(s) they are comfortable with, and which meet their needs. Of course over time those needs may expand; that doesn't mean that paper calendars are invalidated, any more than my ability to write down an event on a paper calendar obviates the reasons I use an electronic calendar. But it does mean that there are tricks that a paper calendar simply isn t going to learn.
 
 When we started CalConnect in 2005, I expressed the vision of the organization as
 
 ____
-Our vision of the future is not only interoperable calendaring, but ubiquitous interoperable calendaring. Calendaring shouldand canbe as ubiquitous as electronic mail.
+Our vision of the future is not only interoperable calendaring, but ubiquitous interoperable calendaring. Calendaring should -- and can -- be as ubiquitous as electronic mail.
 ____
 
-Actually, of course, calendaring has been pretty near ubiquitous for many years, long before electronic mail or computers, so in a sense I missed the real point, which wasn t calendaring by itself, but calendaring and scheduling.
+Actually, of course, calendaring has been pretty near ubiquitous for many years, long before electronic mail or computers, so in a sense I missed the real point, which wasn't calendaring by itself, but calendaring and scheduling.
 
-Scheduling appointments with others in a convenient way that doesn t require separate actions such as phone calls, sending separate e-mails, or just everyone copying down the same details on paper, is the real Holy Grail of calendaring and scheduling, and is certainly a tipping point for electronic calendaring.
+Scheduling appointments with others in a convenient way that doesn't require separate actions such as phone calls, sending separate e-mails, or just everyone copying down the same details on paper, is the real "`Holy Grail`" of calendaring and scheduling, and is certainly a tipping point for electronic calendaring.
 
-Scheduling has been done via computer technology for at least forty years (anyone remember IBM s PROFS?) For some years, calendaring systems have offered appointment and meeting scheduling for employees of businesses and organizations who implement them, although doing it between different people and systems has been haphazard.
+Scheduling has been done via computer technology for at least forty years (anyone remember IBM's PROFS?) For some years, calendaring systems have offered appointment and meeting scheduling for employees of businesses and organizations who implement them, although doing it between different people and systems has been haphazard.
 
-It s the interoperable part that is difficult, and why CalConnect was started. But it really is the point. Pamela Taylor, one of our Board members, made the point succinctly and pithily:
+It's the "`interoperable`" part that is difficult, and why CalConnect was started. But it really is the point. Pamela Taylor, one of our Board members, made the point succinctly and pithily:
 
 ____
 Being able to schedule meetings with my work group is important. But being able to schedule an appointment with my hair stylist could change the world.

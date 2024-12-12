@@ -195,7 +195,7 @@ _http://www.quiveysgrove.com/[Quivey's Grove]_ +
  Continental Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Interoperability Test Event and the Roundtable and are included in your registration fees. 
 
 |===
- +
+ 
 
 [[agendas]]
 ==== Topical Agendas:
@@ -324,7 +324,7 @@ _http://www.quiveysgrove.com/[Quivey's Grove]_ +
 |===
 
  +
- +
+ 
 
 [[bofs]]
 ==== Scheduled BOFs

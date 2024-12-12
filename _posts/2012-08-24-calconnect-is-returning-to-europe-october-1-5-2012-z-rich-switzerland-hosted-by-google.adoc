@@ -4,8 +4,9 @@ title: CalConnect is returning to Europe; October 1-5, 2012, Zürich, Switzerlan
 date: 2012-08-24
 type: news
 categories: announcements current-events general-information
-excerpt: Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, CalConnect XXV will take place in Zürich, Switzerland on October 1-5, 2012 – less than six weeks from now, hosted by Google.
+excerpt: Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, CalConnect XXV will take place in Zürich, Switzerland on October 1-5, 2012 -- less than six weeks from now, hosted by Google.
 ---
+:page-liquid:
 
 == CalConnect is returning to Europe: October 1-5, 2012, Zürich, Switzerland, hosted by Google
 
@@ -17,11 +18,11 @@ We encourage our European colleagues and others interested in Calendaring and Sc
 
 CalConnect is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
-European companies were among CalConnect s earliest members members, and as standards and interoperability are both central to CalConnect s mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe in 2011. This autumn s event in ZÃ¼rich is one which we hope will continue with even greater European participation in CalConnect s interoperable calendaring and scheduling projects.
+European companies were among CalConnect's earliest members members, and as standards and interoperability are both central to CalConnect's mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe in 2011. This autumn's event in ZÃ¼rich is one which we hope will continue with even greater European participation in CalConnect's interoperable calendaring and scheduling projects.
 
 *Overview*
 
-Our venue will be Google s ZÃ¼rich campus at Brandschenkestrasse 110, 8002 ZÃ¼rich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google s campus. Full information about the conference may be found at link:{{'/calconnect25' | relative_url}}[CalConnect XXV] including the week s schedules, registration, and logistics information including accommodation.
+Our venue will be Google's ZÃ¼rich campus at Brandschenkestrasse 110, 8002 ZÃ¼rich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google's campus. Full information about the conference may be found at link:{{'/calconnect25' | relative_url}}[CalConnect XXV] including the week's schedules, registration, and logistics information including accommodation.
 
 Monday, Tuesday, and Wednesday morning, October 1-3, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, October 3-5, will be the Technical Conference (Roundtable) which will include workshops, symposia, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
@@ -37,7 +38,7 @@ We encourage you to register as soon as possible. Upon registration you will be 
 
 *Who and What is CalConnect?*
 
-We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}, and from our newsletter link:/minutes[CalConnect Minutes], published after each CalConnect Technical Conference (Roundtable). You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
+We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}, and from our newsletter link:{{'/minutes' | relative_url}}[CalConnect Minutes], published after each CalConnect Technical Conference (Roundtable). You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
 *What is CalConnect currently focused on?*
 
@@ -53,7 +54,6 @@ You are also welcome to contact me directly with questions and suggestions.
 
 Please join us in ZÃ¼rich!
 
--
 
 *More Information:*
 
@@ -61,7 +61,7 @@ More information about the test event, the technical conference, and the worksho
 
 *Interoperability Testing*
 
-The Interoperability Testing will take place Monday and Tuesday, October 1-2, plus Wednesday morning the 3rd. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow testing pairs where you will get a chance to test with everyone in the course of event.
+The Interoperability Testing will take place Monday and Tuesday, October 1-2, plus Wednesday morning the 3rd. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow "`testing pairs`" where you will get a chance to test with everyone in the course of event.
 
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. As of today we will definitely plan to test the following areas:
 
@@ -88,16 +88,16 @@ Best practices for publishing iCalendar data to ensure optimum interoperability 
 Internationalization/Localization for Calendaring data +
 Calendaring Futures and CalConnect directions
 
-The link:{{'/calconnect25#schedule' | relative_url}}[CalConnect XXV Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified. +
+The link:{{'/calconnect25#schedule' | relative_url}}[CalConnect XXV Schedule] will be updated with the topics and speakers for the workshops and symposia as they are identified.
 
 *Roundtable (Technical Conference)*
 
-At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXV Schedule. The schedule includes
+At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week's events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXV Schedule. The schedule includes
 
 Opening and introduction to CalConnect +
 Report from the Interoperability Test Event +
 Technical Committee sessions for all CalConnect TCs +
-Opportunities for BOFs (birds of a feather discussions) +
+Opportunities for BOFs ("`birds of a feather`" discussions) +
 Final wrapup and summary of all Technical Committee sessions +
 CalConnect Plenary Session
 

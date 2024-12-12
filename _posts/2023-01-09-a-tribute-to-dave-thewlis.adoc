@@ -31,12 +31,12 @@ meeting, we pay tribute to Dave, on the occasion of his recent
 retirement, for his very special contributions as a founder and
 Executive Director of the Calendaring & Scheduling Consortium.
 
-In the 1960’s, after a stint in the US Air Force, Dave settled in
+In the 1960's, after a stint in the US Air Force, Dave settled in
 Berkeley California, where he was a founder of the Society for Creative
 Anachronism, the inspiration for referring to CalConnect member meetings
 as “Round Tables”. During his career in IT management at Kaiser
 Permanente Health Care, Dave served as Chief Standards Officer for
-SHARE, (originally) the IBM Users Group founded in the mid 1950’s.
+SHARE, (originally) the IBM Users Group founded in the mid 1950's.
 
 Through SHARE Dave met Pamela Taylor, and Pat Egen, then co-chair of
 IETF CALSCH, a working group developing interoperable standards, who saw
@@ -47,7 +47,7 @@ were awarded the CalConnect Distinguished Service Award. Their
 experiences at SHARE and IETF greatly influenced the structure and
 practices of CalConnect.
 
-Dave Thewlis’ organizational and administrative contributions to
+Dave Thewlis' organizational and administrative contributions to
 CalConnect over these last 18 years, is truly immeasurable.
 
 Fostering collaboration among top-tier contributors can be challenging,
@@ -59,7 +59,7 @@ irrespective of membership category or company affiliation, can become a
 CalConnect thought leader, technical leader, or organizational leader,
 based on depth of their participation, and the quality of contributions.
 
-Dave’s management persona allowed him to understand the technologists
+Dave's management persona allowed him to understand the technologists
 without competing with them, to achieve consensus through patience and
 encouragement to converge on consensus expeditiously, to value the
 contributions of all members, to provide the foremost forum to discuss
@@ -71,15 +71,15 @@ contributions of all the members, and fostering an atmosphere
 encouraging new and prospective members to feel welcome, and to actively
 engage in consortium activities.
 
-CalConnect’s success and longevity are attributable to not only the high
-quality of CalConnect’s leadership and membership, but also to:
+CalConnect's success and longevity are attributable to not only the high
+quality of CalConnect's leadership and membership, but also to:
 
-* CalConnect’s unique approach to developing open, interoperable
-standards – discuss, develop “reference” implementations, and test for
+* CalConnect's unique approach to developing open, interoperable
+standards -- discuss, develop “reference” implementations, and test for
 practicality, practicability, and interoperability in lockstep with
 each other, results in maximally deployable and useful standards.
 
-* CalConnect’s adaptability – technology changes, membership changes,
+* CalConnect's adaptability -- technology changes, membership changes,
 how business is conducted changes, and the grand (and not so grand)
 challenges change. Over the last 17 years CalConnect has changed its
 governance, its policies, how it its technical committees conduct
@@ -91,19 +91,19 @@ CalConnect was listed as an official international standards body by the
 WTO. CalConnect has added “collaboration” to its extant portfolio of
 calendaring and scheduling.
 
-* CalConnect’s engagements in liaison relationships, including The Open
+* CalConnect's engagements in liaison relationships, including The Open
 Group, OASIS, NIST, M3AAWG, IETF, several ISO technical committees, and
-the Danish government’s ekalendar.DK project. CalConnect created a
+the Danish government's ekalendar.DK project. CalConnect created a
 Director of External Relationships Board position.
 
 Dave served not only as Executive Director, but also the institutional
 memory, the heart and soul of CalConnect. Of the 32 attendees at
 Roundtable II in 2005, only Dave and Mike Douglass are still
 participants, making it very fitting that Mike succeeds Dave as
-CalConnect’s 2nd Executive Director. CalConnect will continue to
+CalConnect's 2nd Executive Director. CalConnect will continue to
 flourish, building on the strong foundation Dave put in place.
 
-Ester Dyson’s photo of Dave was captioned “Father Time managing his
+Ester Dyson's photo of Dave was captioned “Father Time managing his
 calendar?”, but it is likely that any mention of the name “Dave Thewlis”
 will conjure up this iconic look for CalConnect Round Table attendees:
 

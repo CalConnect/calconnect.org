@@ -217,7 +217,7 @@ _Piano Bar, First Floor, Infinite Loop 4_
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
- +
+ 
 
 [[agendas]]
 ==== Topical Agendas:
@@ -317,7 +317,7 @@ To be established by mid-January
 |===
 
  +
- +
+ 
 
 [[bofs]]
 ==== Scheduled BOFs

@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Registration Opens for CalConnect XXX at AOL in Dulles, Virginia – May 19-23 2014
+title: Registration Opens for CalConnect XXX at AOL in Dulles, Virginia -- May 19-23 2014
 date: 2014-03-18
 type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
-excerpt: Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:/calconnect30 and contains hotel booking information, locations, meeting venue, travel information, etc.
+excerpt: Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014.
 ---
+:page-liquid:
 
-== Registration Opens for CalConnect XXX at AOL in Dulles, Virginia – May 19-23 2014
+== Registration Opens for CalConnect XXX at AOL in Dulles, Virginia -- May 19-23 2014
 
-Posted March 18, 2014 
+Posted March 18, 2014
 
-Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:/calconnect30 and contains hotel booking information, locations, meeting venue, travel information, etc.
+Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:{{'/calconnect30' | relative_url}}[/calconnect30] and contains hotel booking information, locations, meeting venue, travel information, etc.
 
-Our meeting venue is AOL s Steve Crane Center at 22000 AOL Way, about 2 miles from Dulles International Airport.
+Our meeting venue is AOL's Steve Crane Center at 22000 AOL Way, about 2 miles from Dulles International Airport.
 
 The Doubletree Sterling/Dulles Airport is our Conference Hotel. The hotel is about 4 miles from the airport, and runs a 24-hour shuttle between the airport and the hotel which also stops at AOL. Booking at our rate is done through AOL Travel Services; information is available via the logistics page links above.
 
@@ -21,7 +22,7 @@ As always, the first half of the week will be an Interoperability Test Event and
 
 We are pleased to announce that there will be a special *Workshop on the VA Scheduling System* on Wednesday afternoon during the Conference, open to the public by registration and to all participants at the Interoperability Test Event and the Conference.
 
-In late 2012, The U.S. Veterans Administration announced a prize contest to ¦encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration. and to ultimately ¦to replace the current Medical Scheduling Package (MSP) with a scheduling product which is a standards-based, modular, extensible and scalable, ¦
+In late 2012, The U.S. Veterans Administration announced a "`prize contest`" to "`¦encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration.`" and to ultimately "`¦to replace the current Medical Scheduling Package (MSP) with a scheduling product which is a standards-based, modular, extensible and scalable, ¦`"
 
 Recently, the winning proposals were announced. One of the winning teams has accepted our invitation to attend, and to present at, the workshop.
 

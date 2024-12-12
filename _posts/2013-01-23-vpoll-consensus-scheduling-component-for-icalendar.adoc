@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events the-world-of-calendaring
 excerpt: The VPOLL draft specification defining a new consensus scheduling component for iCalendar has been submitted to the IETF as an Internet Draft http://tools.ietf.org/html/draft-york-vpoll/.
 ---
+:page-liquid:
 
 == VPOLL: Consensus Scheduling Component for iCalendar
 
@@ -13,7 +14,7 @@ Posted January 23, 2013
 
 The VPOLL draft specification defining a new consensus scheduling component for iCalendar has been submitted to the IETF as an Internet Draft: http://tools.ietf.org/html/draft-york-vpoll/[].
 
-This specification introduces a new iCalendar component (VPOLL) which allows for consensus scheduling, that is voting on a number of alternative meeting or task alternatives. This draft standard is intended to provide the broad interoperability needed to allow users to participate in consensus scheduling using the calendaring products and service they prefer rather than the product or service used first to enumerate the event and the scheduling choices.
+This specification "`introduces a new iCalendar component (VPOLL) which allows for consensus scheduling, that is voting on a number of alternative meeting or task alternatives`". This draft standard is intended to provide the broad interoperability needed to allow users to participate in consensus scheduling using the calendaring products and service they prefer rather than the product or service used first to enumerate the event and the scheduling choices.
 
 Consensus Scheduling is the subject of a workshop at CalConnect XXVI next week: https://calconnect.wordpress.com/2012/12/13/calconnect-consensus-scheduling-workshop-january-30-2013-at-calconnect-roundtable-xxvi/[Consensus Scheduling Workshop at CalConnect XXVI]. For more about Consensus Scheduling, see also link:{{'/7_things_consensus_scheduling' | relative_url}}[7 Things You Should Know About Consensus Scheduling].
 

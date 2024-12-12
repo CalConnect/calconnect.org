@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
 excerpt: CalConnect has always been interested in timezone data because accurate and timely timezone information is essential to calendaring and scheduling. We have done considerable work in the area and have always been impressed by the Olson volunteer team and Olson Database.
 ---
+:page-liquid:
 
 == CalConnect Statement on the Olson Timezone Database and related suit
 

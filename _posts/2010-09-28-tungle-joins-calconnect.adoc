@@ -4,8 +4,9 @@ title: Tungle Joins CalConnect
 date: 2010-09-28
 type: news
 categories: announcements current-events general-information
-excerpt: The Calendaring and Scheduling Consortium welcomes Tungle Corp. as a member of the Consortium.  
+excerpt: The Calendaring and Scheduling Consortium welcomes Tungle Corp. as a member of the Consortium. 
 ---
+:page-liquid:
 
 == Tungle Joins CalConnect
 

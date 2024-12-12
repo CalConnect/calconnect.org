@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: Registration is now open for CalConnect XVIII, February 1-5, 2010. CalConnect XVII will be hosted by the University of California at Irvine, Irvine, California. Logistics and registration information may be found at CalConnect XVII.
 ---
+:page-liquid:
 
 == Registration Opens for CalConnect XVII, Feb 1-5, 2010
 

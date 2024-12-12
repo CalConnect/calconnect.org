@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: Our CalConnect events generally consist of two parts; the first half of the week is interoperability testing, and the last half is the Roundtable Technical Conference. At CalConnect XXV in Zurich, our second full CalConnect event in Europe, nearly everyone who participated in the interoperability testing stayed for the Roundtable, and we had a few additional participants, making a total of 26 at the Roundtable, of which 17 were European, overall representing 11 members and 5 observers (prospective members).
 ---
+:page-liquid:
 
 == CalConnect Roundtable XXV in Zurich
 
@@ -32,6 +33,6 @@ Next CalConnect events:
 * CalConnect XXVII, June 3-7, 2013, University of Wisconsin, Madison, Wisconsin
 * CalConnect XXVIII, Autumn, 2013, TBD
 
-Based on the success of this event and last year s European event in Prague, we are looking forward to CalConnect XXVIII being hosted in Europe, and are soliciting offers to host the event from our European members. We hope to be able to announce the week, city, and host by our next event at Oracle.&nbsp;
+Based on the success of this event and last year's European event in Prague, we are looking forward to CalConnect XXVIII being hosted in Europe, and are soliciting offers to host the event from our European members. We hope to be able to announce the week, city, and host by our next event at Oracle.
 
 

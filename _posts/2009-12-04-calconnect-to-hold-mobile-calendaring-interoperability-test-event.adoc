@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: CalConnect will hold a Mobile Calendaring Interoperability Test Event at CalConnect XVIII from February 1-2, 2010, in parallel with the regular Interoperability Test Event. This event will be focused primarily on synchronization of mobile devices via ActiveSync and/or SyncML, based on the CalConnect Mobile Calendaring Interoperability Test Suite. Please see Mobile Calendaring IOP Test Event for further information and the testing schedule. Please see CalConnect XVII for logistics and registration information.
 ---
+:page-liquid:
 
 == CalConnect to hold Mobile Calendaring Interoperability Test Event
 

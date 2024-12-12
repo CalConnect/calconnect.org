@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Member News – Calendaring at Duke University
+title: Member News -- Calendaring at Duke University
 date: 2009-04-13
 type: news
 categories: member-news the-world-of-calendaring
-excerpt: During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they’re doing, the following are stories about their calendaring efforts.
+excerpt: During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they're doing, the following are stories about their calendaring efforts.
 ---
+:page-liquid:
 
-== Member News – Calendaring at Duke University
+== Member News -- Calendaring at Duke University
 
 Posted April 13, 2009 
 
@@ -17,7 +18,7 @@ http://www.news.duke.edu/2009/03/bedework.html A number of universities that hav
 
 http://news.duke.edu/2009/01/buzz.html Using the same Bedework software used for its institutional calendar, Duke launches an event calendar for students.
 
-http://news.duke.edu/2009/02/widgets.html Facebook and Google calendar widgets add new functionality to Duke s event calendars.
+http://news.duke.edu/2009/02/widgets.html Facebook and Google calendar widgets add new functionality to Duke's event calendars.
 
 http://news.duke.edu/2009/03/mobileinternal.html Duke introduces customized applications, including its public events calendar, for mobile devices
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information the-world-of-calendaring
 excerpt: CalConnect and TC USECASE have published Version 2 of the Calendaring and Scheduling Glossary of Terms. This is a major revision of the first version, originally published in 2006, and includes over 75 terms used in calendaring and scheduling today. External references to relevant standards and specifications are included in the online version.
 ---
+:page-liquid:
 
 == Calendaring and Scheduling Glossary of Terms published
 
@@ -13,6 +14,6 @@ Posted February 24, 2011
 
 CalConnect and TC USECASE have published Version 2 of the link:{{'/CD1102%20Glossary' | relative_url}}[Calendaring and Scheduling Glossary of Terms]. This is a major revision of the first version, originally published in 2006, and includes over 75 terms used in calendaring and scheduling today. External references to relevant standards and specifications are included in the online version.
 
-&nbsp;
+
 
 

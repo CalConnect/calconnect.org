@@ -1,13 +1,14 @@
 ---
 layout: page
-title: CalConnect XXIII at Apple in Cupertino California – January 30 to February 3, 2012
+title: CalConnect XXIII at Apple in Cupertino California -- January 30 to February 3, 2012
 date: 2011-11-28
 type: news
 categories: announcements current-events general-information
 excerpt: CalConnect XXIII will be the week of January 30 to February 3, 2012, at Apple in Cupertino, California. As usual, the first 2.5 days (Monday, Tuesday, and Wednesday morning) will be devoted to the Interoperability Test Event; the Roundtable Technical Conference will start with lunch on Wednesday, and continue until mid-afternoon on Friday.
 ---
+:page-liquid:
 
-== CalConnect XXIII at Apple in Cupertino California – January 30 to February 3, 2012
+== CalConnect XXIII at Apple in Cupertino California -- January 30 to February 3, 2012
 
 Posted November 28, 2011
 

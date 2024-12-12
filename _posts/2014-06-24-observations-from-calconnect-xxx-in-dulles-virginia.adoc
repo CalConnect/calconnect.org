@@ -6,18 +6,19 @@ type: news
 categories: announcements current-events general-information the-world-of-calendaring
 excerpt: CalConnect held its thirtieth Interoperability Test Event and Conference (formerly “Roundtable”) the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
 ---
+:page-liquid:
 
 == Observations from CalConnect XXX in Dulles, Virginia
 
-Posted June 24, 2014 
+Posted June 24, 2014
 
-CalConnect held its thirtieth Interoperability Test Event and Conference (formerly Roundtable) the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
+CalConnect held its thirtieth Interoperability Test Event and Conference (formerly "`Roundtable`") the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
 
 The week led off with the Interoperability test Event on Monday, which had 12 participants from 9 organizations onsite. On Wednesday afternoon, the Conference opened with a very productive workshop about calendaring & scheduling in health care, which included 21 participants from 8 non-member organizations in addition to the regular conference attendees.
 
 We are very excited about the interest in the conference, and about the growing intersection between calendaring and scheduling (especially the scheduling part) and the health care sector. A brief report on the workshop and links to the presentations may be found at link:{{'/vachallengeworkshopreport' | relative_url}}[VA Scheduling System Workshop Report].
 
-Here s what s trending from CalConnect XXX:
+Here's what's trending from CalConnect XXX:
 
 *Trending  Membership*
 
@@ -74,7 +75,7 @@ Following the success of the Workshop, CalConnect plans to begin determining wha
 
 *Wrapping it all together*
 
-We are very excited, as were observers at the event, with the live demonstration by link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY] of multiple servers interconnected by http://tools.ietf.org/html/draft-desruisseaux-ischedule[iSCHEDULE] and doing live consensus scheduling via http://tools.ietf.org/html/draft-york-vpoll/' | relative_url}}[VPOLL], as it shows a tangible result of the work going on in our Technical Committees to extend the calendaring and scheduling standards to provide new and relevant capabilities, both within the mainstream of human calendaring, and in more general applications of scheduling in areas such as health care and logistics management.
+We are very excited, as were observers at the event, with the live demonstration by link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY] of multiple servers interconnected by http://tools.ietf.org/html/draft-desruisseaux-ischedule[iSCHEDULE] and doing live consensus scheduling via http://tools.ietf.org/html/draft-york-vpoll/[VPOLL], as it shows a tangible result of the work going on in our Technical Committees to extend the calendaring and scheduling standards to provide new and relevant capabilities, both within the mainstream of human calendaring, and in more general applications of scheduling in areas such as health care and logistics management.
 
 CalConnect wishes to again thank AOL for helping to make CalConnect XXX such a productive and enjoyable week, and to the organizations who presented at the Workshop or participated in the Panel Discussion. AOL did an outstanding job with event logistics, including adapting to a rapidly growing attendance in the last several days prior to the event (49 people from 29 organizations attended some part of the week, a very successful turnout for an East Coast CalConnect event), but perhaps more importantly, the genuine hospitality and cordiality by all members of the AOL staff made all the attendees feel very welcomed.
 

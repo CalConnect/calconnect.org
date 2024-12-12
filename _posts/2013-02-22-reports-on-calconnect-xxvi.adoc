@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: Reports on the recent CalConnect XXVI Roundtable and Interoperability Test Event, hosted by Oracle in Santa Clara, California, January 28-February 1, 2013, have been published on the CalConnect website.
 ---
+:page-liquid:
 
 == Reports on CalConnect XXVI
 

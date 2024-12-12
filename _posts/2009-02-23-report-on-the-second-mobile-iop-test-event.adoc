@@ -4,8 +4,9 @@ title: Report on the second Mobile IOP Test Event
 date: 2009-02-23
 type: news
 categories: current-events
-excerpt: Since its inception, CalConnect has conducted Interoperability Test Events.  They are generally held over 2-1/2 days in conjunction with a Roundtable (members meeting), and we do them three times a year.  Public reports on these events are posted on our website.
+excerpt: Since its inception, CalConnect has conducted Interoperability Test Events. They are generally held over 2-1/2 days in conjunction with a Roundtable (members meeting), and we do them three times a year. Public reports on these events are posted on our website.
 ---
+:page-liquid:
 
 == Report on the second Mobile IOP Test Event
 

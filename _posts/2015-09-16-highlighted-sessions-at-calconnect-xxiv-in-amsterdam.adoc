@@ -4,8 +4,9 @@ title: Highlighted Sessions at CalConnect XXIV in Amsterdam
 date: 2015-09-16
 type: news
 categories: announcements current-events special-focus
-excerpt: We have several sessions planned for the CalConnect Conference in Amsterdam (September 30 – October 2) that we feel are of special interest and should be highlighted
+excerpt: We have several sessions planned for the CalConnect Conference in Amsterdam (September 30 -- October 2) that we feel are of special interest and should be highlighted
 ---
+:page-liquid:
 
 == Highlighted Sessions at CalConnect XXIV in Amsterdam
 

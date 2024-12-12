@@ -4,16 +4,17 @@ title: Interview with Ronald Tse of Ribose about the CalConnect event in Hong Ko
 date: 2016-04-06
 type: news
 categories: announcements current-events member-focus special-focus the-world-of-calendaring
-excerpt: In less than 2 weeks,  CalConnect XXXVI in Hong Kong, our very first conference in Asia, will begin with our Developer's Conference, followed by a seminar at Hong Kong University, and then our Member's Conference, which opens with a Public Day at ITFest 2016.
+excerpt: In less than 2 weeks, CalConnect XXXVI in Hong Kong, our very first conference in Asia, will begin with our Developer's Conference, followed by a seminar at Hong Kong University, and then our Member's Conference, which opens with a Public Day at ITFest 2016.
 ---
+:page-liquid:
 
 == Interview with Ronald Tse of Ribose about the CalConnect event in Hong Kong in two weeks
 
-Posted April 6, 2016 
+Posted April 6, 2016
 
-In less than 2 weeks, https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[CalConnect XXXVI] in Hong Kong, our very first conference in Asia, will begin with our Developer's Conference, followed by a seminar at Hong Kong University, and then our Member's Conference, which opens with a https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[Public Day] at http://www.itfest.hk/template?series=2&id=141&lang=en[ITFest 2016].
+In less than 2 weeks, link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }}[CalConnect XXXVI] in Hong Kong, our very first conference in Asia, will begin with our Developer's Conference, followed by a seminar at Hong Kong University, and then our Member's Conference, which opens with a link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url }}[Public Day] at http://www.itfest.hk/template?series=2&id=141&lang=en[ITFest 2016].
 
-Scott Mace s http://calendarswamp.blogspot.com/2016/04/q-ronald-tse-founder-of-ribose-co-host.html[Calendar Swamp] interview with Ronald Tse, CEO and co-founder of Ribose, really captures the excitement, and the significance, of our first events in the Asia Pacific. http://www.ribose.com/[Ribose], provider of a secure cloud collaboration platform, and CalConnect s first member organization based in Asia, and http://www.ogcio.gov.hk/en/[OGCIO], &nbsp;Hong Kong s Office of the Government Chief Information Officer are serving as co-hosts for these events.
+Scott Mace's http://calendarswamp.blogspot.com/2016/04/q-ronald-tse-founder-of-ribose-co-host.html[Calendar Swamp] interview with Ronald Tse, CEO and co-founder of Ribose, really captures the excitement, and the significance, of our first events in the Asia Pacific. http://www.ribose.com/[Ribose], provider of a secure cloud collaboration platform, and CalConnect's first member organization based in Asia, and http://www.ogcio.gov.hk/en/[OGCIO], Hong Kong's Office of the Government Chief Information Officer are serving as co-hosts for these events.
 
 If you will be in Hong Kong on April 20^th^, please join us for the free Public Day events by simply http://www.itfest.hk/template?series=46&id=141&lang=en[registering].
 

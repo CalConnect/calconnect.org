@@ -44,7 +44,7 @@ _Please Note: You donotneed finished or polished code to participate in the IOP 
 
 The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
 
- +
+ 
 
 
 
@@ -70,8 +70,8 @@ Location
 
 The Developers' Forum/Test Event (September 12-14) and the Conference (September 14-16) will be held at http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany. Schloss Eckberg is also the conference hotel for CalConnect XXXVII. The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss: https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en
 
-The meeting room will be in the conference facility of the Schloss and will be announced closer to the event. +
- 
+The meeting room will be in the conference facility of the Schloss and will be announced closer to the event. 
+
 
 [[transportation]]
 Transportation
@@ -117,14 +117,7 @@ Check-in is after 3:00 p.m.; Departure is by 11:00 a.m.
 
 *If you are _not_ staying at the Schloss* and wish to avoid the lodging tax, please download and complete this form and bring it with you:
 
-[[file-86]]
-=== 
-
-. application/pdf
-image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf[Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf]
-
-
-
+https://www.calconnect.org/sites/default/files/media/Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf[Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf]
 
 
 
@@ -136,40 +129,39 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 
 [cols=3]
 |===
-3+| 
-
-==== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+3+|
+CALCONNECT DEVELOPERS' FORUM/TEST EVENT
 
 a| *Monday 12 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing +
- +
- 1915-2130 Test Event Dinner (TBA)
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing +
++
+1915-2130 Test Event Dinner (TBA)
 a| *Tuesday 13 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 a| *Wednesday 14 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1130 Testing +
- 1130-1200 Wrap-up +
- 1200 End of IOP Testing+
- 1230-1330 Lunch
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1130 Testing +
+1130-1200 Wrap-up +
+1200 End of IOP Testing+
+1230-1330 Lunch
 
 |===
 
@@ -189,18 +181,13 @@ Current specific testing areas include
 
 ==== Technical Topics for Developers' Discussions
 
-[[magicdomid80]]
 
-[[magicdomid83]]
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
-[[magicdomid84]]
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
 
-[[magicdomid85]]
 
 
-[[magicdomid86]]
 The schedule for these discussions will be decided on during the 2.5days and is very flexible.
 
 
@@ -218,7 +205,7 @@ Current discussion topics include
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
-+
+
 
 ** Access (basic operations of CalDAV)
 ** Scheduling
@@ -228,17 +215,17 @@ Final determination of what will be tested will depend on what the participants 
 ** Prefer Header
 * Managed Attachments
 * iSchedule:
-+
+
 
 ** Server discovery
 ** DKIM security
 * Timezones:
-+
+
 
 ** Service Protocol
 ** Timezones by Reference
 * Calendar Alarms:
-+
+
 
 ** Snooze
 ** Default alarms
@@ -247,7 +234,7 @@ Final determination of what will be tested will depend on what the participants 
 * Autodiscovery protocol
 * Non-gregorian calendar recurrences via RRULE and RSCALE
 * iCalendar:
-+
+
 
 ** Rich text and other new properties (and hashing)
 * iMIP
@@ -256,7 +243,7 @@ Final determination of what will be tested will depend on what the participants 
 * xCal, the XML format for iCalendar
 * Enhanced VTODO support
 * CardDAV testing:
-+
+
 
 ** Generic
 ** Sync report
@@ -342,7 +329,7 @@ _The API Technical Committee is defining a new representation for calendar data 
 | 1230-1330 | Lunch
 | 1330-1430
 a| DAV-Based Resource Sharing +
-_We will review the progress made in redefining CalDAV Sharing as a DAV-based standard resource sharing specification with CalDAV and CardDAV extensions. TC SHARING._ 
+_We will review the progress made in redefining CalDAV Sharing as a DAV-based standard resource sharing specification with CalDAV and CardDAV extensions. TC SHARING._
 
 | 1430-1530
 a| Alternative Subsciption Models +
@@ -351,7 +338,7 @@ _Current subscriptions usually involve clients downloading an .ics file at cdert
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| CalDAV Current Topics +
-_We will review recent extensions to CalDAV such as supporting the new JSON API data format and discuss possible unanticipated issues. TC CALDAV._ 
+_We will review recent extensions to CalDAV such as supporting the new JSON API data format and discuss possible unanticipated issues. TC CALDAV._
 
 | 1700-1800
 a| Open Discussion: The Future of Calendaring and CalConnect +
@@ -378,7 +365,7 @@ _Review charter, goals, progress and status of PC QR and encourage more particip
 | 1030-1100 | Break and refreshments
 | 1100-1200
 a| PATCH/DIFF/COMPACT for iCalendar data +
-_A new proposed mechanism by which calendar data can be updated in place rather than the current GET/PUT full replacement approach. In many cases this will result in a significant decrease in data transferred._ 
+_A new proposed mechanism by which calendar data can be updated in place rather than the current GET/PUT full replacement approach. In many cases this will result in a significant decrease in data transferred._
 
 | 1200-1230
 a| AUTODISCOVERY +

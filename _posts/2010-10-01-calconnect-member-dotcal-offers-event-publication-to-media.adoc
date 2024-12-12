@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events member-news
 excerpt: Newspapers looking to enhance communications with their customers and draw more readers to their advertisers are using a new Internet-based calendar communications network as a solution to event publishing and information sharing. dotCal.com (dotCal) is working with many community newspapers to enhance marketing and communication strategies for local meetings, restaurant openings, special events, and other time-sensitive information.
 ---
+:page-liquid:
 
 == CalConnect member dotCal offers event publication to media
 

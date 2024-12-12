@@ -4,14 +4,15 @@ title: CalConnect Welcomes Eventable
 date: 2015-12-15
 type: news
 categories: 
-excerpt: CalConnect welcomes Eventable as a member of the Consortium. Eventable, based in New York City, makes it easy for any organization to send and share events on the web. 
+excerpt: CalConnect welcomes Eventable as a member of the Consortium. Eventable, based in New York City, makes it easy for any organization to send and share events on the web.
 ---
+:page-liquid:
 
 == CalConnect Welcomes Eventable
 
 Posted December 15, 2015 
 
-CalConnect welcomes http://www.eventable.com[Eventable] as a member of the Consortium. Eventable, based in New York City, makes it easy for any organization to send and share events on the web.&nbsp;
+CalConnect welcomes http://www.eventable.com[Eventable] as a member of the Consortium. Eventable, based in New York City, makes it easy for any organization to send and share events on the web.
 
 
 

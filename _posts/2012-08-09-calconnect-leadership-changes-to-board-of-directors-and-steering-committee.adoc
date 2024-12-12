@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus
 excerpt: CalConnect announces new members on its Board of Directors, and on its Steering Committee (charged with the technical direction of the consortium).
 ---
+:page-liquid:
 
 == CalConnect Leadership Changes to Board of Directors and Steering Committee
 

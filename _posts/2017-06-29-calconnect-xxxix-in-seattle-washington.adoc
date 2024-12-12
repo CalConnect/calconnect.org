@@ -4,24 +4,25 @@ title: CalConnect XXXIX in Seattle, Washington
 date: 2017-06-29
 type: news
 categories: current-events general-information the-world-of-calendaring
-excerpt:  
+excerpt: 
 ---
+:page-liquid:
 
 == CalConnect XXXIX in Seattle, Washington
 
 Posted June 29, 2017 
 
-&nbsp;
 
-This was our fourth event in the Seattle area over the last 12+ years, but the first one in downtown Seattle, hosted by https://www.tandemcal.com/[Tandem].&nbsp; In many ways this was a level-set meeting where we reviewed progress in a variety of new and ongoing areas; in particular were reports on the progress of the vCard enhancements TC-VCARD is working on, in conjunction with ISO TC-211, and the extensions of the new JSON-based data model for iCalendar data to include VTODOs and contacts.&nbsp;
 
-We also offered a half-day public workshop on Calendaring and on Scheduling, from a functional perspective in the context of what customers want, and what suppliers need to offer. More about this workshop, and a list of topics presented and discussed, may be found at https://www.calconnect.org/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle[]. Topics of particular interest were on Marketing through Calendar and Scheduling and the high percentage of success associated with it, and on date and time (and time zones) and their particular relevance to Calendaring and Scheduling.&nbsp;
+This was our fourth event in the Seattle area over the last 12+ years, but the first one in downtown Seattle, hosted by https://www.tandemcal.com/[Tandem]. In many ways this was a "`level-set`" meeting where we reviewed progress in a variety of new and ongoing areas; in particular were reports on the progress of the vCard enhancements TC-VCARD is working on, in conjunction with ISO TC-211, and the extensions of the new JSON-based data model for iCalendar data to include VTODOs and contacts.
+
+We also offered a half-day public workshop on Calendaring and on Scheduling, from a functional perspective in the context of what customers want, and what suppliers need to offer. More about this workshop, and a list of topics presented and discussed, may be found at link:{{'/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle' | relative_url }}[]. Topics of particular interest were on Marketing through Calendar and Scheduling and the high percentage of success associated with it, and on date and time (and time zones) and their particular relevance to Calendaring and Scheduling.
 
 Our hosts, Tandem, did a wonderful job, and we would especially like to thank Bryan and Scott Otis, the founders of Tandem, for organizing and hosting the week.
 
-Unfortunately, Rutger Geelen, our President, who usually writes a short article about the previous event, was unable to come to Seattle, so this is the President s report in absentia.
+Unfortunately, Rutger Geelen, our President, who usually writes a short article about the previous event, was unable to come to Seattle, so this is the President's report "`in absentia`".
 
-We re now looking forward to CalConnect s fortieth event! CalConnect XL will be hosted by https://www.open-xchange.com/[Open-Xchange] in Cologne Germany, the week of September 25-29, 2017.&nbsp;
+We re now looking forward to CalConnect's fortieth event! CalConnect XL will be hosted by https://www.open-xchange.com/[Open-Xchange] in Cologne Germany, the week of September 25-29, 2017.
 
 And, coming in 2018 will be our second event in Asia, hosted by http://www.jorte.com/en/[Jorte] in Tokyo, Japan in June!
 

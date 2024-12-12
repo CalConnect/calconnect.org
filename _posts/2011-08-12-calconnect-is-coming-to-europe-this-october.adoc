@@ -4,20 +4,21 @@ title: CalConnect is coming to Europe this October
 date: 2011-08-12
 type: news
 categories: announcements current-events general-information special-focus
-excerpt: We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies – if you want a chance to do interoperability testing against other implementations – if traveling to North America to do so hasn’t been practical – here’s your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
+excerpt: We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies -- if you want a chance to do interoperability testing against other implementations -- if traveling to North America to do so hasn't been practical -- here's your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
 ---
+:page-liquid:
 
 == CalConnect is coming to Europe this October
 
 Posted August 12, 2011
 
-We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies  if you want a chance to do interoperability testing against other implementations  if traveling to North America to do so hasn t been practical  here s your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
+We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies  if you want a chance to do interoperability testing against other implementations  if traveling to North America to do so hasn t been practical  here's your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
 
 Our first European conference will be in in Prague, Czech Republic, on October 3-7, 2011, hosted by http://www.kerio.com/[Kerio Technologies]. We encourage our European colleagues and all others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but may have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect member meeting without having to incur the travel costs and time of coming to North America.
 
 CalConnect is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
-European companies were among CalConnect s founding members in 2005; as standards and interoperability are central to CalConnect s mission, and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe, as we are doing this year. This autumn s event in Prague is one which we hope will be the start of even greater European participation in CalConnect s interoperable calendaring and scheduling projects.
+European companies were among CalConnect's founding members in 2005; as standards and interoperability are central to CalConnect's mission, and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe, as we are doing this year. This autumn's event in Prague is one which we hope will be the start of even greater European participation in CalConnect's interoperable calendaring and scheduling projects.
 
 *Overview*
 
@@ -29,7 +30,7 @@ The first 2.5 days (Monday, Tuesday, the morning of Wednesday) will be our Inter
 
 *Registration and Fees*
 
-You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms. +
+You must register separately for the Interoperability Test Event and the Roundtable Technical Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms.
 
 *Special Fees for This Event:* $350 U.S. per person to non-members to cover either the Interoperability Test Event, the Roundtable Technical Conference, or both. Non-members may always participate in the Interoperability Test Events, and may attend a single Roundtable as observers to determine if they are interested in joining CalConnect. CalConnect is also offering a special Interoperability Test Event fee of $350 for one person for non-vendor members of CalConnect.
 
@@ -37,7 +38,7 @@ We encourage you to register as soon as possible. Upon registration you will be 
 
 *Who and What is CalConnect?*
 
-As stated above, we are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}[blog], and from our newsletter link:/minutes[CalConnect Minutes], published after each CalConnect Roundtable (conference), in particular the latest newsletter reviewing link:/minutes/CalConnect%20Minutes%20Jun2011.pdf[CalConnect XXI] in May at NASA Ames. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
+As stated above, we are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}[blog], and from our newsletter link:{{'/minutes' | relative_url}}[CalConnect Minutes], published after each CalConnect Roundtable (conference), in particular the latest newsletter reviewing link:{{'/minutes/CalConnect%20Minutes%20Jun2011.pdf' | relative_url}}[CalConnect XXI] in May at NASA Ames. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
 *Questions and Feedback:*
 
@@ -54,7 +55,7 @@ More information about the test event, the technical conference, and the worksho
 
 *Interoperability Testing*
 
-The Interoperability Testing will take place Monday and Tuesday, October 3-4, plus Wednesday morning the 5th. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow testing pairs where you will get a chance to test with everyone in the course of the 2.5 days.
+The Interoperability Testing will take place Monday and Tuesday, October 3-4, plus Wednesday morning the 5th. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow "`testing pairs`" where you will get a chance to test with everyone in the course of the 2.5 days.
 
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. Some of the areas we expect to be testing include:
 
@@ -88,12 +89,12 @@ The link:{{'/calconnect22.sthml#schedule' | relative_url}}[CalConnect XXII Sched
 
 *Roundtable (Technical Conference*)
 
-At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as shown in the link:{{'/calconnect22.sthml#schedule' | relative_url}}[CalConnect XXII Schedule]. The schedule includes
+At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week's events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as shown in the link:{{'/calconnect22.sthml#schedule' | relative_url}}[CalConnect XXII Schedule]. The schedule includes
 
 Opening and introduction to CalConnect +
 Report from the Interoperability Test Event +
 Technical Committee sessions for all CalConnect TCs +
-Opportunities for BOFs (birds of a feather discussions) +
+Opportunities for BOFs ("`birds of a feather`" discussions) +
 Final wrapup and summary of all Technical Committee sessions +
 CalConnect Plenary Session
 

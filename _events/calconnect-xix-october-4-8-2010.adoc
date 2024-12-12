@@ -308,7 +308,7 @@ _http://www.westfordgrille.com[Westford Grille]_ +
 |===
 
  +
- +
+ 
 
 ==== Scheduled BOFs
  Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable. +

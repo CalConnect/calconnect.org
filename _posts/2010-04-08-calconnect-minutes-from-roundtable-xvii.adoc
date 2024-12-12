@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information
 excerpt: CalConnect Minutes is the CalConnect newsletter published after each CalConnect Roundtable. Each edition contains information from the previous Roundtable and IOP Test Event plus articles and guest contributions. It is intended for CalConnect members and for others interested in CalConnect and in calendaring and scheduling.
 ---
+:page-liquid:
 
 == CalConnect Minutes from Roundtable XVII
 

@@ -4,12 +4,13 @@ title: Revision to iCalendar (rfc2445bis) approved as Proposed Standard by IESG
 date: 2009-04-29
 type: news
 categories: announcements current-events the-world-of-calendaring
-excerpt: The IESG has just announced that the revised draft of RFC 2445, Internet Calendaring and Scheduling Core Object Specification (iCalendar) (currently called rfc2445bis) has been approved as a Proposed Standard. CalConnect has for some time been providing input and errata to the IETF CALSIFY working group to support this revision. CalConnect congratulates the CALSIFY working group, Bernard Desruisseaux, the editor of the revision, and everyone who worked to bring this revision to completion and publication. The revised version of RFC 2445 will allow the incorporation of extensions to iCalendar for additional functionality, such as VAVAILABILITY.
+excerpt: The IESG has just announced that the revised draft of RFC 2445, Internet Calendaring and Scheduling Core Object Specification (iCalendar) (currently called rfc2445bis) has been approved as a Proposed Standard.
 ---
+:page-liquid:
 
 == Revision to iCalendar (rfc2445bis) approved as Proposed Standard by IESG
 
-Posted April 29, 2009 
+Posted April 29, 2009
 
 The IESG has just announced that the revised draft of RFC 2445, _Internet Calendaring and Scheduling Core Object Specification (iCalendar)_ (currently called rfc2445bis) has been approved as a Proposed Standard. CalConnect has for some time been providing input and errata to the IETF CALSIFY working group to support this revision. CalConnect congratulates the CALSIFY working group, Bernard Desruisseaux, the editor of the revision, and everyone who worked to bring this revision to completion and publication. The revised version of RFC 2445 will allow the incorporation of extensions to iCalendar for additional functionality, such as http://tools.ietf.org/html/draft-daboo-calendar-availability-01[VAVAILABILITY].
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: CalConnect has established the CALSCALE Ad Hoc Committee to determine changes and extensions necessary to iCalendar to allow recurrences to accommodate non-Gregorian calendar rules, and will develop a draft specification to be submitted to the IETF for broader discussion within the entire IETF community. The Ad Hoc is intended to complete its work and report out at the CalConnect meeting in June 2013.
 ---
+:page-liquid:
 
 == CalConnect establishes CALSCALE Ad Hoc Committee to consider non-Gregorian calendar rules
 

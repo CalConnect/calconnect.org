@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About CalConnect’s New Membership Categories and Fees
+title: About CalConnect's New Membership Categories and Fees
 date: 2013-04-17
 type: news
 categories: announcements current-events general-information member-focus the-world-of-calendaring
 excerpt: Earlier this week, we announced new membership categories and interoperability test event fees. We have been discussing and shaping these changes, the first since CalConnect was established in 2005, for the past 6 months. We want to share with our members and non-members alike what motivated these changes, and what we hope they will accomplish.
 ---
+:page-liquid:
 
-== About CalConnect’s New Membership Categories and Fees
+== About CalConnect's New Membership Categories and Fees
 
 Posted April 17, 2013 
 
@@ -19,16 +20,16 @@ Here is how we see the revenue side:
 
 . CalConnect needs a sufficient revenue stream so that it can expand its reach, its programs, its services to promote interoperable and open calendaring, rather than having to focus our energy and efforts on cutting expenses when our revenues decrease.
 . We need to recognize the value we provide through CalConnect, with membership fees which reflect that value.
-. Our membership classifications and fees need to be coherent and fair.
+. Our membership classifications and fees need to be coherent and "`fair`".
 . CalConnect has not changed its membership fees since they were established in 2005. Using one of the accepted measures of inflation, $10,000 in 2005 is the equivalent of ~$11,800 in 2012.
 
 Although increased revenue is a goal of CalConnect and most other organizations, non-profit as well as for-profit, there is more to this story than revenue.
 
-Because European companies have been members of CalConnect since its inception, in 2007 we decided to bring CalConnect to Europe. As we later noted, ¦ as standards and interoperability are central to CalConnect s mission, and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. We traveled in Europe again in 2008 to meet with members and potential members. In 2011, we held our first member meeting in Europe, CalConnect XXII, hosted by Kerio Technologies in Prague, Czech Republic.
+Because European companies have been members of CalConnect since its inception, in 2007 we decided to bring CalConnect to Europe. As we later noted, "`¦ as standards and interoperability are central to CalConnect's mission, and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect`". We traveled in Europe again in 2008 to meet with members and potential members. In 2011, we held our first member meeting in Europe, CalConnect XXII, hosted by Kerio Technologies in Prague, Czech Republic.
 
-Last October, CalConnect XXV was hosted in Z¨rich, Switzerland by Google. Just prior to returning home from Z¨rich, some of us got together over dinner to reflect on the meetings. We were all impressed by some of the non-members, smaller, newer vendors, by and large, who attended as first time observers and/or Interoperability Test Event participants. We all agreed that these emergent vendors brought an enthusiasm, and a different perspective which really informed and energized the meetings. Many of these vendors told us they shared our enthusiasm for their participation, but that the current membership fee structure made it difficult to consider CalConnect membership, a story we heard again at the next Roundtable, CalConnect XXVI, hosted by Oracle in Santa Clara, California.
+Last October, CalConnect XXV was hosted in Z¨rich, Switzerland by Google. Just prior to returning home from Z¨rich, some of us got together over dinner to reflect on the meetings. We were all impressed by some of the non-members, smaller, newer vendors, by and large, who attended as first time observers and/or Interoperability Test Event participants. We all agreed that these "`emergent`" vendors brought an enthusiasm, and a different perspective which really informed and energized the meetings. Many of these vendors told us they shared our enthusiasm for their participation, but that the current membership fee structure made it difficult to consider CalConnect membership, a story we heard again at the next Roundtable, CalConnect XXVI, hosted by Oracle in Santa Clara, California.
 
-Enfranchising emergent vendors was one of the topics we discussed at the Board s strategic planning meeting, convened at the University of California, Berkeley, to develop the ideas we had brainstormed in Z¨rich. We continued these discussions within the Board, and early this year brought the issue to the CalConnect Steering Committee, composed of member representatives, which oversees the technical direction of the Consortium. The Steering Committee provided very useful guidance and feedback, especially concerning the fees for our Interoperability events, which was incorporated into the resolutions just approved by the CalConnect Board.
+Enfranchising emergent vendors was one of the topics we discussed at the Board's strategic planning meeting, convened at the University of California, Berkeley, to develop the ideas we had brainstormed in Z¨rich. We continued these discussions within the Board, and early this year brought the issue to the CalConnect Steering Committee, composed of member representatives, which oversees the technical direction of the Consortium. The Steering Committee provided very useful guidance and feedback, especially concerning the fees for our Interoperability events, which was incorporated into the resolutions just approved by the CalConnect Board.
 
 Here is what we hope to accomplish with our new membership and interoperability event fees:
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements special-focus the-world-of-calendaring
 excerpt: Today is the second day of the interoperability testing event at CalConnect XXII in Prague, hosted by Kerio Technologies. Fifteen people present from eight organizations and individual members, plus one testing remotely.
 ---
+:page-liquid:
 
 == Interoperability Testing Underway at CalConnect XXII
 

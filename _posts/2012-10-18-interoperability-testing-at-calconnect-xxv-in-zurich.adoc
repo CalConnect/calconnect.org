@@ -6,6 +6,7 @@ type: news
 categories: current-events general-information special-focus
 excerpt: This was a relatively large session with 22 on-site participants, 14 from Europe, representing the following organizations/implementations
 ---
+:page-liquid:
 
 == Interoperability Testing at CalConnect XXV in Zurich
 

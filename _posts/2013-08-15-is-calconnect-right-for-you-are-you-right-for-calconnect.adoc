@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information special-focus the-world-of-calendaring
 excerpt: Earlier this week, we welcomed Ribose as the newest CalConnect member, and our first member organization based in Asia. Including Ribose, five organizations have joined CalConnect since we announced our new membership fees and categories in April of this year.
 ---
+:page-liquid:
 
 == Is CalConnect Right for You? Are you Right for CalConnect?
 
@@ -13,25 +14,25 @@ Posted August 15, 2013
 
 Earlier this week, we welcomed http://www.ribose.com[Ribose] as the newest CalConnect member, and our first member organization based in Asia. Including Ribose, five organizations have joined CalConnect since we https://calconnect.wordpress.com/2013/04/17/about-calconnects-new-membership-categories-and-fees/[announced] our new membership fees and categories in April of this year.
 
-In our conversations with Ribose s leadership, we learned that Ribose had been aware of CalConnect for some time, but had previously assumed that CalConnect was just for the really big players.
+In our conversations with Ribose's leadership, we learned that Ribose had been aware of CalConnect for some time, but had previously assumed that CalConnect was just for the "`really big players`".
 
-CalConnect does need the really big players, however one might reasonably define them, for a number of reasons, but CalConnect cannot succeed, cannot meet its mission, with only the really big players, the really small players, or only the really anything-else players.
+CalConnect does need the "`really big players`", however one might reasonably define them, for a number of reasons, but CalConnect cannot succeed, cannot meet its mission, with only the "`really big players`", the "`really small players`", or only the "`really anything-else players`".
 
-As we note on our link:{{'/whyjoin' | relative_url}}[Why Join] page,
+As we note on our "`link:{{'/whyjoin' | relative_url}}[Why Join]`" page,
 
 ____
-We are a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools. Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities¦
+We are a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools. Our membership includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities¦
 
-CalConnect s success, and ultimately the success of our vision of interoperable calendaring & scheduling depend on broad, engaged, diverse, and informed participation by those organizations developing calendaring and scheduling products, and those organizations which are using calendaring and scheduling products.
+CalConnect's success, and ultimately the success of our vision of interoperable calendaring & scheduling depend on broad, engaged, diverse, and informed participation by those organizations developing calendaring and scheduling products, and those organizations which are using calendaring and scheduling products.
 ____
 
-Why Join is, of course, a marketing piece to entice you to join or learn more about CalConnect, but the quoted paragraphs are a genuine representation of what CalConnect believes and stands for. We expressed a similar sentiment in the aforementioned new membership fees/categories posting on the CalConnect blog,
+"`Why Join`" is, of course, a marketing piece to entice you to join or learn more about CalConnect, but the quoted paragraphs are a genuine representation of what CalConnect believes and stands for. We expressed a similar sentiment in the aforementioned "`new membership fees/categories posting`" on the CalConnect blog,
 
 ____
 Here is what we hope to accomplish with our new membership and interoperability event fees  increase diversity, geographic distribution, age, gender, and company size of our membership. This is essential to CalConnect and its mission.
 ____
 
-Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. Although there is some overlap, each of these membership categories has a different perspective, has different requirements and needs, and each can make a different contribution as a CalConnect member.
+Our membership includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. Although there is some overlap, each of these membership categories has a different perspective, has different requirements and needs, and each can make a different contribution as a CalConnect member.
 
 CalConnect is as close to a true meritocracy as any organization I have ever been involved with. Anyone, irrespective of membership category or company affiliation, can become a CalConnect thought leader, technical leader, or organizational leader, based on merit  your participation, your contributions, and your collegiality.
 

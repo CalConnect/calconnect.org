@@ -6,12 +6,13 @@ type: news
 categories: announcements current-events general-information
 excerpt: It is now only 4 weeks to CalConnect XVIII, May 24-28 at Carnegie Mellon University in Pittsburgh — and only 2 weeks until Early Registration (for the Roundtable) ends on the 9th. As of Monday the 10th the registration fee will increase from $350 to $395.
 ---
+:page-liquid:
 
 == Only 4 weeks to CalConnect XVIII
 
 Posted April 25, 2010
 
-It is now only 4 weeks to CalConnect XVIII, May 24-28 at Carnegie Mellon University in Pittsburgh  and only 2 weeks until Early Registration (for the Roundtable) ends on the 9th. As of Monday the 10th the registration fee will increase from $350 to $395.
+It is now only 4 weeks to CalConnect XVIII, May 24-28 at Carnegie Mellon University in Pittsburgh -- and only 2 weeks until Early Registration (for the Roundtable) ends on the 9th. As of Monday the 10th the registration fee will increase from $350 to $395.
 
 As usual, Monday, Tuesday, and Wednesday morning will be the Interoperability Test Events, while Wednesday afternoon to Friday afternoon will be the Roundtable. Remember you must register separately for the two events.
 
@@ -19,8 +20,8 @@ The logistics page (see below) contains the actual schedule of sessions for Roun
 
 Note that the Interoperability Test Events will include both a regular IOP Test Event and a Mobile Calendaring IOP Test Event focused on ActiveSync. The Mobile Calendaring Test Event is the one that was originally scheduled for February.
 
-Please see link:{{'/calconnect18' | relative_url}}[CalConnect XVIII Logistics and Planning] for logistics, travel, hotels and venue information, plus sessions schedules and (later) the topical agendas. For registration information see link:{{'/regtypes' | relative_url}}[registration links]. For more information specifically about the IOP Test Events, see link:/iop1005[IOP Test Event] and link:/miop1005' | relative_url}}[Mobile Calendaring IOP Test Event].&nbsp;
+Please see link:{{'/calconnect18' | relative_url}}[CalConnect XVIII Logistics and Planning] for logistics, travel, hotels and venue information, plus sessions schedules and (later) the topical agendas. For registration information see link:{{'/regtypes' | relative_url}}[registration links]. For more information specifically about the IOP Test Events, see link:{{'/iop1005' | relative_url}}[IOP Test Event] and link:{{'/miop1005' | relative_url}}[Mobile Calendaring IOP Test Event].
 
-&nbsp;
+
 
 

@@ -4,25 +4,26 @@ title: Registration is now open  for CalConnect XLI in Sunnyvale, California, Ja
 date: 2017-11-15
 type: news
 categories: announcements current-events general-information the-world-of-calendaring
-excerpt: The CalConnect XLI web page is located at https://www.calconnect.org/events/calconnect-xli-winter-2018  and contains lodging information, airport and transfer information, meeting venue, etc. 
+excerpt: The CalConnect XLI web page is located at link:{{'/events/calconnect-xli-winter-2018' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, etc.
 ---
+:page-liquid:
 
 == Registration is now open  for CalConnect XLI in Sunnyvale, California, January 29 - February 2, 2018, hosted by Oath
 
 Posted November 15, 2017 
 
-The _CalConnect XLI_ web page is located at https://www.calconnect.org/events/calconnect-xli-winter-2018 and contains lodging information, airport and transfer information, meeting venue, etc.&nbsp;
+The _CalConnect XLI_ web page is located at link:{{'/events/calconnect-xli-winter-2018' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, etc.
 
-The meeting venue is at 700 First Avenue, Building E, Sunnyvale, California 94089 (note: the building is likely to still have the Yahoo sign). There is free parking available.
+The meeting venue is at 700 First Avenue, Building E, Sunnyvale, California 94089 (note: the building is likely to still have the "`Yahoo`" sign). There is free parking available.
 
-The conference hotel is https://www.theplazasuites.com/[The Plaza Suites Silicon Valley] which is a few miles from the meeting venue. There are no hotels within walking distance of the meeting venue, and the conference hotel is the most reasonable in terms of cost we could identify.&nbsp;
+The conference hotel is https://www.theplazasuites.com/[The Plaza Suites Silicon Valley] which is a few miles from the meeting venue. There are no hotels within walking distance of the meeting venue, and the conference hotel is the most reasonable in terms of cost we could identify.
 
-The hotel may be booked immediately, see https://www.calconnect.org/events/calconnect-xli-winter-2018#lodging for more information and information. We advise you to book early to avoid cost increases as the event becomes nearer.
+The hotel may be booked immediately, see link:{{'/events/calconnect-xli-winter-2018#lodging' | relative_url }} for more information and information. We advise you to book early to avoid cost increases as the event becomes nearer.
 
-The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon. The Conference will begin Wednesday after lunch and run through Friday mid-afternoon.&nbsp;
+The Interoperability Test Event and Developers Forum will take place on our usual schedule beginning Monday morning and going through Wednesday noon. The Conference will begin Wednesday after lunch and run through Friday mid-afternoon.
 
 We will be posting detailed schedules and agendas on the event web page once they are available, and expect that they may evolve over time.
 
-Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
+Registration information is at link:{{'/events/event-registration-payment' | relative_url }} and is linked from the event web page.
 
 

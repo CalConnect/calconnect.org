@@ -6,22 +6,23 @@ type: news
 categories: announcements current-events general-information special-focus
 excerpt: CalConnect held its twenty-ninth interoperability test event and Roundtable Technical Conference the week of February 3-7 in San Francisco, California. The event was hosted by CalConnect founding member Mozilla, which did a great job with not only the event logistics, but also making everyone feel very welcome, which was reflected in the very strong attendance at these events.
 ---
+:page-liquid:
 
 == Observations from CalConnect XXIX in San Francisco
 
-Posted February 27, 2014 
+Posted February 27, 2014
 
 CalConnect held its twenty-ninth interoperability test event and Roundtable Technical Conference the week of February 3-7 in San Francisco, California. The event was hosted by CalConnect founding member Mozilla, which did a great job with not only the event logistics, but also making everyone feel very welcome, which was reflected in the very strong attendance at these events.
 
 36 people, representing 21 link:{{'/mbrlist' | relative_url}}[CalConnect member organizations] and one link:{{'/observer' | relative_url}}[observer], participated during the week. Almost a quarter of the attendees traveled internationally to come to CalConnect XXIX, from the Czech Republic, England, France, Hong Kong, India, New Zealand and Switzerland. Attendance at CalConnect events is growing, international membership and participation are bringing new energy and perspectives to CalConnect.
 
-We have just published the first architectural diagrams for http://link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Tasks] from link:{{'/tc-tasks' | relative_url}}[TC TASKS] and for link:/architectures/Calendaring%20Architecture.pdf[Calendaring and Scheduling] from http://link:/tc-api' | relative_url}}[TC API].
+We have just published the first architectural diagrams for http://link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Tasks] from link:{{'/tc-tasks' | relative_url}}[TC TASKS] and for link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring and Scheduling] from link:{{'/tc-api' | relative_url}}[TC API].
 
-Here s what s trending from CalConnect XXIX:
+Here's what's trending from CalConnect XXIX:
 
 *Trending  Membership*
 
-Six of the seven new link:{{'/emergentvendor' | relative_url}}[Emergent Vendor] members (a new membership category for small vendors and startups) were represented at CalConnect XXIX, including http://milton.io/' | relative_url}}[milton.io], our newest member.
+Six of the seven new "`link:{{'/emergentvendor' | relative_url}}[Emergent Vendor]`" members (a new membership category for small vendors and startups) were represented at CalConnect XXIX, including https://milton.io/[milton.io], our newest member.
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
@@ -54,34 +55,48 @@ _Much of the work in CalConnect is focused on specifications to become internet 
 
 *Recently published CalConnect documents:*
 
-¢ link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring Service Architecture] +
- ¢ link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Task Architecture V0.4] +
- ¢ link:{{'/roundtable28rpt' | relative_url}}[Report on Roundtable XXIX] +
- ¢ link:{{'/ioptestevent28rpt' | relative_url}}[Report on Interoperability Test Event XXIX] +
- ¢ link:{{'/7_things_itineraries' | relative_url}}[7 Things You Should Know About Digital Travel Itineraries] +
- ¢ link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks]
+* link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring Service Architecture]
+
+* link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Task Architecture V0.4]
+
+* link:{{'/roundtable28rpt' | relative_url}}[Report on Roundtable XXIX]
+
+* link:{{'/ioptestevent28rpt' | relative_url}}[Report on Interoperability Test Event XXIX]
+
+* link:{{'/7_things_itineraries' | relative_url}}[7 Things You Should Know About Digital Travel Itineraries]
+
+* link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks]
 
 *Recently updated internet drafts and published RFCs:*
 
-¢ http://tools.ietf.org/html/rfc7095[jCard: The JSON Format for vCard](RFC 7095) +
- ¢ http://tools.ietf.org/html/draft-daboo-icalendar-rscale-02[Non-Gregorian Recurrence Rules in iCalendar] +
- ¢ https://tools.ietf.org/html/draft-douglass-ical-relations/[Support for iCalendar Relationships] +
- ¢ https://tools.ietf.org/html/draft-kewisch-et-al-icalendar-in-json/[jCal: The JSON format for iCalendar] +
- ¢ https://datatracker.ietf.org/doc/draft-murchison-webdav-prefer/[Use of the Prefer Header Field in Web Distributed Authoring and Versioning (WebDAV)] +
- ¢ https://tools.ietf.org/html/draft-daboo-caldav-attachments/[CalDAV Managed Attachments] +
- ¢ https://datatracker.ietf.org/doc/draft-daboo-icalendar-extensions/[New Properties for iCalendar] +
- ¢ http://tools.ietf.org/html/draft-douglass-timezone-service-10[Timezone Service Protocol] +
- ¢ http://www.ietf.org/internet-drafts/draft-daboo-calendar-%20availability-04.txt[Calendar Availability] (VAVAILABILITY) +
- ¢ http://www.ietf.org/internet-drafts/draft-douglass-calendar-%20extension-04.txt[Event Publishing Extensions to iCalendar]
+* http://tools.ietf.org/html/rfc7095[jCard: The JSON Format for vCard](RFC 7095)
 
-*Trending  Organizationally*
+* http://tools.ietf.org/html/draft-daboo-icalendar-rscale-02[Non-Gregorian Recurrence Rules in iCalendar]
 
-To facilitate broader understanding, CalConnect has retired the name Roundtable as used for its thrice-yearly conference and members  meeting and will use the term CalConnect Conference or Conference going forward. The term Ad Hoc to describe a short-term exploratory committee has been retired, and will be replaced by Provisional Committee.
+* https://tools.ietf.org/html/draft-douglass-ical-relations/[Support for iCalendar Relationships]
+
+* https://tools.ietf.org/html/draft-kewisch-et-al-icalendar-in-json/[jCal: The JSON format for iCalendar]
+
+* https://datatracker.ietf.org/doc/draft-murchison-webdav-prefer/[Use of the Prefer Header Field in Web Distributed Authoring and Versioning (WebDAV)]
+
+* https://tools.ietf.org/html/draft-daboo-caldav-attachments/[CalDAV Managed Attachments]
+
+* https://datatracker.ietf.org/doc/draft-daboo-icalendar-extensions/[New Properties for iCalendar]
+
+* http://tools.ietf.org/html/draft-douglass-timezone-service-10[Timezone Service Protocol]
+
+* http://www.ietf.org/internet-drafts/draft-daboo-calendar-%20availability-04.txt[Calendar Availability] (VAVAILABILITY)
+
+* http://www.ietf.org/internet-drafts/draft-douglass-calendar-%20extension-04.txt[Event Publishing Extensions to iCalendar]
+
+*Trending Organizationally*
+
+To facilitate broader understanding, CalConnect has retired the name "`Roundtable`" as used for its thrice-yearly conference and members  meeting and will use the term "`CalConnect Conference`" or "`Conference`" going forward. The term "`Ad Hoc`" to describe a short-term exploratory committee has been retired, and will be replaced by "`Provisional Committee`".
 
 *Wrapping it all together*
 
 CalConnect wishes to again thank Mozilla for helping to make CalConnect XXIX such a productive and enjoyable week.
 
-At our next event, link:{{'/calconnect30' | relative_url}}[CalConnect XXX], to be hosted by AOL in Dulles, Virginia in May, we are planning to hold a public workshop on the Medical Appointment Scheduling System Contest sponsored by the Veterans Administration, with participation from the VA and from the winning team in the contest. We expect this will be a half-day workshop available to the public (by registration) and will be publishing more information as it becomes available. &nbsp;&nbsp;
+At our next event, link:{{'/calconnect30' | relative_url}}[CalConnect XXX], to be hosted by AOL in Dulles, Virginia in May, we are planning to hold a public workshop on the Medical Appointment Scheduling System Contest sponsored by the Veterans Administration, with participation from the VA and from the winning team in the contest. We expect this will be a half-day workshop available to the public (by registration) and will be publishing more information as it becomes available. 
 
 

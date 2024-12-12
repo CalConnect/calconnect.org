@@ -6,31 +6,31 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: CalConnect needs your help! We are seeking guidance and assistance from travel industry technology experts to explore the travel itinerary model within calendaring and scheduling.
 ---
+:page-liquid:
 
 == CalConnect seeks assistance from travel industry technology experts
 
-Posted November 25, 2013 
+Posted November 25, 2013
 
 CalConnect needs your help! We are seeking guidance and assistance from travel industry technology experts to explore the travel itinerary model within calendaring and scheduling.
 
 Traditional travel agencies have given way to travel that is booked directly by the traveler him/herself, using online services providing digital transactions from end to end  searching/selection, booking, payment, ticketing, itineraries, and other ancillary services. Many of these online systems are impressive in their capabilities and their comprehensiveness. However, much of their sophistication is the result of proprietary mechanisms which provide great workflow within their systems, but integrate less successfully with other calendaring & scheduling systems and third party applications.
 
-It is equally true, however, that calendaring and scheduling standards do not really accommodate the needs of today s (or tomorrow s) online travel system. Frequently, the data has to be provided as unstructured text because no specific properties exist for the types of information provided. As a result the itinerary information cannot be created and managed by the end users as a native part of their calendar applications.
+It is equally true, however, that calendaring and scheduling standards do not really accommodate the needs of today's (or tomorrow s) online travel system. Frequently, the data has to be provided as unstructured text because no specific properties exist for the types of information provided. As a result the itinerary information cannot be created and managed by the end users as a native part of their calendar applications.
 
-In the context of our mission to promote interoperable, standards-based calendaring & scheduling, CalConnect is endeavoring to identify the necessary additions and extensions required to the calendaring standards (in particular iCalendar, the data model) to fully support travel itineraries as an integrated element in a user s calendar, and itineraries as elements in automated processes, and to add the additions and extensions to the standards.
+In the context of our mission to promote interoperable, standards-based calendaring & scheduling, CalConnect is endeavoring to identify the necessary additions and extensions required to the calendaring standards (in particular iCalendar, the "`data model`") to fully support travel itineraries as an integrated element in a user's calendar, and itineraries as elements in automated processes, and to add the additions and extensions to the standards.
 
 However, we need the guidance and assistance of travel industry technology experts to identify what elements are required, and to fully explore the travel itinerary model within calendaring and scheduling. Our initial goal is to develop a set of use cases and requirements for digital itinerary systems to enhance the usefulness of calendar data. We anticipate this work taking place over a six month period via periodic conference calls and online communication. Following on from this CalConnect will develop the enhancements to the calendaring standards themselves to satisfy the identified industry requirements and use cases.
 
-Therefore, we are forming a working group, a collaboration between the calendaring & scheduling experts from the CalConnect member organizations, and travel industry experts, and are seeking help in finding these experts. To learn how you can participate, or identify someone who might participate, please contact Dave Thewlis, CalConnect s Executive Director, at:
+Therefore, we are forming a working group, a collaboration between the calendaring & scheduling experts from the CalConnect member organizations, and travel industry experts, and are seeking help in finding these experts. To learn how you can participate, or identify someone who might participate, please contact Dave Thewlis, CalConnect's Executive Director, at:
 
 mailto:Dave.Thewlis@calconnect.org[Dave.Thewlis@calconnect.org] +
- +1 707 840 9391
++1 707 840 9391
 
-For additional background on travel itineraries and calendaring and scheduling see 7 Things about Digital Travel Itineraries at link:{{'/7_things_itineraries' | relative_url}}[].
+For additional background on travel itineraries and calendaring and scheduling see "`7 Things about Digital Travel Itineraries`" at link:{{'/7_things_itineraries' | relative_url}}[].
 
 To learn more about becoming a member of CalConnect, see http://calconnect.org/whyjoin[].
 
- +
-CalConnect s focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our technical committees, we advance the state of interoperable calendaring and of interoperable scheduling. CalConnect is a 501(c)6 tax-exempt mutual benefit association incorporated in 2004. We are a member-driven organization  our agenda and our work products all result from the leadership by participants from our member organizations. The consortium is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools in North America, Europe, and Asia. Our membership includes some of the world s largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. CalConnect s members believe that through the collegial interactions and collaborations among erstwhile competitors in the marketplace, calendaring & scheduling vendors and consumers all benefit.
+CalConnect's focus is interoperable calendaring and scheduling. Through promoting, advising, educating, and the work of our technical committees, we advance the state of interoperable calendaring and of interoperable scheduling. CalConnect is a 501(c)6 tax-exempt mutual benefit association incorporated in 2004. We are a member-driven organization  our agenda and our work products all result from the leadership by participants from our member organizations. The consortium is a partnership between vendors of calendaring & scheduling systems and tools, and users of those tools in North America, Europe, and Asia. Our membership includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. CalConnect's members believe that through the collegial interactions and collaborations among erstwhile competitors in the marketplace, calendaring & scheduling vendors and consumers all benefit.
 
 

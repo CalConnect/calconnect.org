@@ -4,13 +4,14 @@ title: DHL Express Joins CalConnect
 date: 2018-08-17
 type: news
 categories: announcements current-events member-focus member-news
-excerpt: CalConnect welcomes DHL Express as a member of the Consortium.  DHL Express, headquartered in Singapore, offers international express deliveries; global freight forwarding by air, sea, road and rail; warehousing solutions; mail deliveries worldwide; and other customized logistic services. DHL Express was a member of CalConnect from 2012 through 2015, and we are pleased to welcome them back. 
+excerpt: CalConnect welcomes DHL Express as a member of the Consortium. DHL Express, headquartered in Singapore, offers international express deliveries; global freight forwarding by air, sea, road and rail; warehousing solutions; mail deliveries worldwide; and other customized logistic services. DHL Express was a member of CalConnect from 2012 through 2015, and we are pleased to welcome them back.
 ---
+:page-liquid:
 
 == DHL Express Joins CalConnect
 
 Posted August 17, 2018 
 
-CalConnect welcomes http://www.dhl.com[DHL Express] as a member of the Consortium. DHL Express, headquartered in Singapore, offers international express deliveries; global freight forwarding by air, sea, road and rail; warehousing solutions; mail deliveries worldwide; and other customized logistic services. DHL Express was a member of CalConnect from 2012 through 2015, and we are pleased to welcome them back.&nbsp;
+CalConnect welcomes http://www.dhl.com[DHL Express] as a member of the Consortium. DHL Express, headquartered in Singapore, offers international express deliveries; global freight forwarding by air, sea, road and rail; warehousing solutions; mail deliveries worldwide; and other customized logistic services. DHL Express was a member of CalConnect from 2012 through 2015, and we are pleased to welcome them back.
 
 

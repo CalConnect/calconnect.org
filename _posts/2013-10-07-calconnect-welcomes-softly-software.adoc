@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events member-focus the-world-of-calendaring
 excerpt: CalConnect welcomes Softly Software as a member of The Calendaring and Scheduling Consortium.
 ---
+:page-liquid:
 
 == CalConnect welcomes Softly Software
 

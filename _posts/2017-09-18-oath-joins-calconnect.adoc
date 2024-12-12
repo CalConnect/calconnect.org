@@ -4,13 +4,14 @@ title: Oath Joins CalConnect
 date: 2017-09-18
 type: news
 categories: announcements current-events member-focus member-news the-world-of-calendaring
-excerpt: CalConnect welcomes Oath LLC as a member of the Consortium.  Oath, based in New York City, is a Verizon company formed from AOL and several other companies.  AOL is now a brand of Oath, which will be the CalConnect member going forward. 
+excerpt: CalConnect welcomes Oath LLC as a member of the Consortium. Oath, based in New York City, is a Verizon company formed from AOL and several other companies. AOL is now a brand of Oath, which will be the CalConnect member going forward.
 ---
+:page-liquid:
 
 == Oath Joins CalConnect
 
 Posted September 18, 2017 
 
-CalConnect welcomes http://www.oath.com[Oath LLC] as a member of the Consortium. Oath, based in New York City, is a Verizon company formed from AOL and several other companies. AOL is now a brand of Oath, which will be the CalConnect member going forward.&nbsp;
+CalConnect welcomes http://www.oath.com[Oath LLC] as a member of the Consortium. Oath, based in New York City, is a Verizon company formed from AOL and several other companies. AOL is now a brand of Oath, which will be the CalConnect member going forward.
 
 

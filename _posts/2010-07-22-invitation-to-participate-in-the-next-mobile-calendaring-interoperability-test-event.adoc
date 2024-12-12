@@ -6,33 +6,31 @@ type: news
 categories: announcements current-events special-focus
 excerpt: RECENT UPDATE as of 7 September 2010 Based on the responses we received, the Mobile Calendaring Interoperability Test Event will not be held in October, but at the following CalConnect event, which will be February 7-11 2011 at the University of California at Berkeley. Thanks to all who responded.
 ---
+:page-liquid:
 
 == Invitation to participate in the next Mobile Calendaring Interoperability Test Event
 
-Posted July 22, 2010 
+Posted July 22, 2010
 
-RECENT UPDATE as of 7 September 2010: Based on the responses we received, the Mobile Calendaring Interoperability Test Event will not be held in October, but at the following CalConnect event, which will be February 7-11 2011 at the University of California at Berkeley. Thanks to all who responded. +
- - +
+RECENT UPDATE as of 7 September 2010: Based on the responses we received, the Mobile Calendaring Interoperability Test Event will not be held in October, but at the following CalConnect event, which will be February 7-11 2011 at the University of California at Berkeley. Thanks to all who responded.
+
 At the last CalConnect event in May, we held our third Mobile Calendaring Interoperability Test event, focused on ActiveSync technologies. The event was a great success. Participating organizations were Icewarp, Mailsite, Microsoft, Nokia, Notify Technology, and Synchronica. Between these six participants, four servers and four clients were tested. Interest was expressed at the event in having another mobile calendaring IOP test event soon, perhaps as soon as the next CalConnect in October at IBM/Lotus in Littleton, MA.
 
-If we are going to have a Mobile test event in October we will need to start the planning very soon, so TC MOBILE has requested that I contact the CalConnect membership and other possibly interested parties\*\* with the goal of determining the interest in participating in such an event in October. *Note that at this point we are trying to determine \*possible interest\* and are NOT seeking commitments*.
+If we are going to have a Mobile test event in October we will need to start the planning very soon, so TC MOBILE has requested that I contact the CalConnect membership and other possibly interested parties\*\* with the goal of determining the interest in participating in such an event in October. *Note that at this point we are trying to determine _possible interest_ and are NOT seeking commitments*.
 
-**_CalConnect Interoperability Test Events are open to non-members and members alike_
+*_CalConnect Interoperability Test Events are open to non-members and members alike_*
 
 If you are possibly interested please copy the section below, paste it into an e-mail, mark the appropriate items and send it to *contact AT calconnect.org* (no spaces).
 
-- +
- \_\_\_ We are interested in possibly participating in a mobile calendaring interoperability test event in October +
- \_\_\_ October is too soon but we would be interested in participating in an event in February of 2011
+* [ ] We are interested in possibly participating in a mobile calendaring interoperability test event in October
 
-\_\_\_ We are interested in (check all that apply) +
- \_\_\_ SyncML testing +
- \_\_\_ ActiveSync testing +
- \_\_\_ CalDAV mobile client with CalDAV server testing +
- \_\_\_ General iCalendar, iTIP and iMIP client testing +
- \_\_\_ vCard and/or CardDAV client testing +
- -
+* [ ] October is too soon but we would be interested in participating in an event in February of 2011
+
+* We are interested in (check all that apply)
+* [ ] SyncML testing +
+* [ ] ActiveSync testing +
+* [ ] CalDAV mobile client with CalDAV server testing +
+* [ ] General iCalendar, iTIP and iMIP client testing +
+* [ ] vCard and/or CardDAV client testing
 
 *Please reply NO LATER than Tuesday 3 August as we must make the decision on the TC MOBILE call on August 4 as to whether to go ahead with an October event!*
-
-

@@ -21,7 +21,7 @@ CalConnect XL in Cologne, September 25-29, 2017, hosted by Open-Xchange
 
 Monday, September 25, 2017 to Friday, September 29, 2017
 
-webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar. 
+webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
 
 Recent Changes:
 
@@ -104,14 +104,10 @@ https://formular-server.de/Koeln_FS/findform?shortname=21-F32_KFAAbBeschEng&form
 
 A form-enabled PDF of this document may be found at
 
-[[file-117]]
-=== 
+https://www.calconnect.org/sites/default/files/media/ENG%20Kulturfo%CC%88rderabgabe%20copy.pdf[ENG KulturfoÌrderabgabe copy.pdf]
 
-. application/pdf
-image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/media/ENG%20Kulturfo%CC%88rderabgabe%20copy.pdf[ENG KulturfoÌrderabgabe copy.pdf]
-. +
- +
- For more infomation on this please see http://www.stadt-koeln.de/politik-und-verwaltung/finanzen/kulturfoerderabgabe and http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion-and-advancement-culture-frequently-asked-questions#ziel_0_55[http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion-and-advancement-culture-frequently-asked-questions#ziel_0_55.]
+For more infomation on this please see http://www.stadt-koeln.de/politik-und-verwaltung/finanzen/kulturfoerderabgabe and
+http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion-and-advancement-culture-frequently-asked-questions#ziel_0_55[]
 
 
 
@@ -122,38 +118,37 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 
 [cols=3]
 |===
-3+| 
-
-===== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+3+|
+CALCONNECT DEVELOPERS' FORUM/TEST EVENT
 
 a| *Monday 25 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and Discussions +
- +
- 1915-2100 Test Event Dinner +
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and Discussions +
++
+1915-2100 Test Event Dinner +
 _http://www.gaffelamdom.de/en_GaD_brewhouse.html[Gaffel am Dom]_
 a| *Tuesday 26 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and Discussions
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and Discussions
 a| *Wednesday 27 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of Test Event and Forum1230-1330 Lunch
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of Test Event and Forum1230-1330 Lunch
 
 |===
 
@@ -175,20 +170,15 @@ Specific testing areast may include the following; also see Baseline Testing bel
 
 ==== Technical Topics for Developers Forum Discussions
 
-[[magicdomid80]]
 
 
 
-[[magicdomid83]]
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
-[[magicdomid84]]
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
 
-[[magicdomid85]]
 
 
-[[magicdomid86]]
 The schedule for these discussions will be decided on during the 2.5days and is very flexible.
 
 
@@ -212,7 +202,7 @@ Specific discussion areas for CalConnec XL include at least:
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
-+
+
 
 ** Access (basic operations of CalDAV)
 ** Scheduling
@@ -222,17 +212,17 @@ Final determination of what will be tested will depend on what the participants 
 ** Prefer Header
 * Managed Attachments
 * iSchedule:
-+
+
 
 ** Server discovery
 ** DKIM security
 * Timezones:
-+
+
 
 ** Service Protocol
 ** Timezones by Reference
 * Calendar Alarms:
-+
+
 
 ** Snooze
 ** Default alarms
@@ -241,7 +231,7 @@ Final determination of what will be tested will depend on what the participants 
 * Autodiscovery protocol
 * Non-gregorian calendar recurrences via RRULE and RSCALE
 * iCalendar:
-+
+
 
 ** Rich text and other new properties (and hashing)
 * iMIP
@@ -250,7 +240,7 @@ Final determination of what will be tested will depend on what the participants 
 * xCal, the XML format for iCalendar
 * Enhanced VTODO support
 * CardDAV testing:
-+
+
 
 ** Generic
 ** Sync report
@@ -313,7 +303,7 @@ _An alternative to recurrences_
 
 | 1715-1800
 a| CalDAV support for relationships queries +
- _Protocol support for retrieving related events and tasks_ 
+ _Protocol support for retrieving related events and tasks_
 
 | 1800-2000
 a| Welcome Reception +
@@ -349,7 +339,7 @@ a| Calendar Subscription Upgrades +
 | 1230-1330 | Lunch
 | 1330-1430
 a| JSCalendar: JSON Representation for Calendar Data +
- _TC API status and issues; support for VCARD, VTODO, categories, IETF status._ 
+ _TC API status and issues; support for VCARD, VTODO, categories, IETF status._
 
 | 1430-1530
 a| Calendar Developers Guide (DEVGUIDE) +
@@ -362,7 +352,7 @@ _Working towards a certification suite for CalDAV servers_
 
 | 1630-1800
 a| Shape of the CalConnect Event Week +
- _The existing model for the CalConnect Event week is ten years old. In that time much has changed. We will discuss possible alternatives in content, frequency, length, packaging, fees, etc._ 
+ _The existing model for the CalConnect Event week is ten years old. In that time much has changed. We will discuss possible alternatives in content, frequency, length, packaging, fees, etc._
 
 | 1900-2100
 a| Conference Dinner +

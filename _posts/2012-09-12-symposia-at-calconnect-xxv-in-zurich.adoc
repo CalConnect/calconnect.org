@@ -6,10 +6,11 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: Please note that the Thursday and Friday 1030-1200 sessions have been exchanged; Calendaring Futures is now on Thursday and Best Practices on Friday.
 ---
+:page-liquid:
 
 == Symposia at CalConnect XXV in Zurich
 
-Posted September 12, 2012 
+Posted September 12, 2012
 
 _Please note that the Thursday and Friday 1030-1200 sessions have been exchanged; Calendaring Futures is now on Thursday and Best Practices on Friday._
 
@@ -25,17 +26,23 @@ This session will examine problems related to publishing calendars on the web, a
 
 CalConnect is now in its 8th year of operation. Over that period, there have been many changes in the calendaring and scheduling world:
 
-1. Calendaring s center has shifted from the fat desktop client to the web and mobile. +
- 2. Many new vendors have entered the market place, and others have been transformed through corporate consolidations. +
- 3. Great progress has been made in calendaring standards, while at the same proprietary API s have risen in number and importance. +
- 4. Internationalization/localization are more important than ever but the standards have not significantly addressed the relevant issues. +
- 5. Social networking, hardly on the radar at all in 2004, is now a dominant integration point with calendaring. +
- 6. Geolocation is a foundation of many apps and applications but not sufficiently addressed by calendaring standards. +
- 7. What we call rich text but will soon simply refer to as content is everywhere except in the calendaring standards.
+. Calendaring's center has shifted from the "`fat`" desktop client to the web and mobile.
 
-CalConnect s mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing. To best fulfill this mission, CalConnect needs to take stock of what has taken place in calendaring over the last ten years, and to try to divine what that augurs for the future.
+. Many new vendors have entered the market place, and others have been transformed through corporate consolidations.
 
-We will discuss where calendaring has been and where is calendaring going, What needs to change in the standards to support and promote the interoperable calendaring environment of 2012 and beyond, the tension between proprietary API s and calendaring standards, and finally what does CalConnect need to do to continue to provide value to the calendaring developers, and perhaps most importantly, the end users of calendaring.
+. Great progress has been made in calendaring standards, while at the same proprietary API's have risen in number and importance.
+
+. Internationalization/localization are more important than ever but the standards have not significantly addressed the relevant issues.
+
+. Social networking, hardly on the radar at all in 2004, is now a dominant integration point with calendaring.
+
+. Geolocation is a foundation of many apps and applications but not sufficiently addressed by calendaring standards.
+
+. What we call "`rich text`" but will soon simply refer to as "`content`" is everywhere except in the calendaring standards.
+
+CalConnect's mission is to "`promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing.`" To best fulfill this mission, CalConnect needs to take stock of what has taken place in calendaring over the last ten years, and to try to divine what that augurs for the future.
+
+We will discuss where calendaring has been and where is calendaring going, What needs to change in the standards to support and promote the interoperable calendaring environment of 2012 and beyond, the tension between proprietary API's and calendaring standards, and finally what does CalConnect need to do to continue to provide value to the calendaring developers, and perhaps most importantly, the end users of calendaring.
 
 *Internationalization/Localization for calendaring data (Friday 0830-1000)*
 

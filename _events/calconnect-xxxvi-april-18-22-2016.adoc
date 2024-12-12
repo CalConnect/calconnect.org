@@ -105,7 +105,7 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 [[registration]]
 Registration Information
 
-Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the test event and/or the conference. Note that you must register separately for the interoperabilty test event and for the conference, however you may request a single invoice and payment. 
+Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the test event and/or the conference. Note that you must register separately for the interoperabilty test event and for the conference, however you may request a single invoice and payment.
 
 We recommend booking your hotel accommodations as soon as possible. Not only will hotels be filling up quickly, the three hotels offering special rates (see below) will start to reduce their room blocks beginning in mid-February.
 
@@ -161,7 +161,7 @@ http://www.starwoodhotels.com/lemeridien/property/overview/index.html?propertyID
  +
  To book contact: +
  Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridien.com[wency.au@lemeridien.com] +
- +852 2980 7812 (Monday to Friday (0900  1800hrs)) +
+ +852 2980 7812 (Monday to Friday (0900 -- 1800hrs)) +
  Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._) +
  +
  +
@@ -221,7 +221,7 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 
 [cols=3]
 |===
-3+| 
+3+|
 
 ==== CALCONNECT INTEROPERABILITY TEST EVENT
 
@@ -246,7 +246,7 @@ a| *Tuesday 19 April* +
  1330-1530 Testing and/or Discussions +
  1530-1600 Break and Refreshments +
  1600-1800 Testing and/or Discussions
-| 
+|
 
 |===
 *Please Note:* It is our intention to make this Interoperability Test Event as useful as possible for members and non-members. To this end we welcome suggestions from interested parties on what they might want to test, and with whom.Tuesday late afternoon is the Seminar at Hong Kong University, 1700-1900; some people may need to leave early in order to participate in the Seminar.Wednesday will be our Public Day at the Convention Center in Central Hong Kong; we encourage everyone to attend the Public Day and participate or offer support. We expect to offer transportation to and from the Convention Center on Wednesday.
@@ -258,71 +258,52 @@ Test Event Agenda
 
 ==== Specific Areas for testing as identified by participants
 
-[[magicdomid61]]
 CalDAV in general
 
-[[magicdomid62]]
 CalDAV TESTER
 
-[[magicdomid63]]
 iMIP/iTIP
 
 ITIP/CalDAVSharing
 
 Managed Attachments
 
-[[magicdomid64]]
 SHARING
 
-[[magicdomid65]]
 Server Information document
 
-[[magicdomid66]]
 WebDAV PUSH
 
-[[magicdomid67]]
 Simultaneous support of Apple sharing spec and new standards-based sharing specs
 
 
 
 ==== Technical Topics for Developers' Discussions
-[[magicdomid80]]
-[[magicdomid83]]
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
-[[magicdomid84]]
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
 
-[[magicdomid85]]
 
 
-[[magicdomid86]]
 The schedule for these discussions will be decided on during the 2 days and is very flexible. Topics so far include:
 
-[[magicdomid87]]
 
 
-[[magicdomid88]]
 API:
 
 * Discuss and decide further details of the data model for the protocol
 * Types of multi-instance events other than recurrences and representation of such "compound events" - nested components or relationships.
 
-[[magicdomid92]]
 PATCH/DIF/Compaction
 
-[[magicdomid93]]
 
 * We can talk about the use cases for patching and more compact representations. This may be part of the API doscussions
 
-[[magicdomid95]]
 DEVGUIDE
 
-[[magicdomid96]]
 
 * working session (develop/edit pages and examples)
 
-[[magicdomid98]]
 Sharing and scheduling
 
 * Sharing causes some paticular problems foir scheduling. We'll talk about solutions
@@ -330,32 +311,24 @@ Sharing and scheduling
 * New properties to define default organizer calendar user address
 * Suppressing scheduling when (re)loading calendars - e.g. after restore
 
-[[magicdomid104]]
 IMIP
 
-[[magicdomid105]]
 
 * interoperability problems and possible solutions, workarounds, best practices
 
-[[magicdomid107]]
 VJOURNAL:
 
-[[magicdomid108]]
 
 * Who uses it? Why isn't it used more
 * "STATUS:ARCHIVED" hide it from your list of notes, but still storing it somewhere for future retrieval
 
-[[magicdomid111]]
 Managed attachments:
 
-[[magicdomid112]]
 
 * upload attachment before a new event is uploaded. Background: a client is implemented as a sync-adapter and runs asynchronously in the background usually some time after an event/task/journal has been created by a user.
 
-[[magicdomid114]]
 "wipe trigger":
 
-[[magicdomid115]]
 
 * in a corporate environment it might be a requirement to be able to remotely remove synced data (of a specific account) from a device. At present, the only way is to return empty collections (or no collections at all), but that usually affects all clients of that user (unless they use different logins, which is probably not common). Also it doesn't work if the device can't sync for whatever reason. There is no 100% reliable solution, but the current situation can certainly be improved. In times of BYOD and it's even more important that there is a standardized solution that works with all clients.
 
@@ -365,7 +338,7 @@ Managed attachments:
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
-+
+
 
 ** Access (basic operations of CalDAV)
 ** Scheduling
@@ -375,17 +348,17 @@ Final determination of what will be tested will depend on what the participants 
 ** Prefer Header
 * Managed Attachments
 * iSchedule:
-+
+
 
 ** Server discovery
 ** DKIM security
 * Timezones:
-+
+
 
 ** Service Protocol
 ** Timezones by Reference
 * Calendar Alarms:
-+
+
 
 ** Snooze
 ** Default alarms
@@ -394,7 +367,7 @@ Final determination of what will be tested will depend on what the participants 
 * Autodiscovery protocol
 * Non-gregorian calendar recurrences via RRULE and RSCALE
 * iCalendar:
-+
+
 
 ** Rich text and other new properties (and hashing)
 * iMIP
@@ -403,33 +376,30 @@ Final determination of what will be tested will depend on what the participants 
 * xCal, the XML format for iCalendar
 * Enhanced VTODO support
 * CardDAV testing:
-+
+
 
 ** Generic
 ** Sync report
 ** Mobile
 ** vCard 4
- +
+
 
 ==== Who May Participate or Observe
-Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url}}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
 ==== Registration
-Please see link:events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
-* link:event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
-+
-: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
-* link:event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
-+
-: Register one to six people as
-+
-link:events-activities/observers[observers]
-+
+Please see link:/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+
+* link:/event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+
+* link:/event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]: Register one to six people as link:{{'/events/observers' | relative_url}}[observers]
 for the CalConnect Interoperability Test Event.
 
 ==== Interoperability Event Scenarios
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
+
 [[conference-schedule]]
 Conference Schedule
 
@@ -469,7 +439,7 @@ _We will review recent extensions to CalDAV such as supporting the new JSON API 
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| The Travel Industry and Calendaring and Scheduling +
-_We will discuss how calendar data can be augmented with information to help present itineraries and enable better use by applications._ 
+_We will discuss how calendar data can be augmented with information to help present itineraries and enable better use by applications._
 
 | 1700-1800
 a| New-/non-member presentations +
@@ -477,7 +447,7 @@ _Introductory presentations from new members or non-members at their first CalCo
 
 | 1830-2130
 a| Conference Dinner +
-_Luk Yu Tea House, 24-26 Stanley Street, Central.Party name is "Tse"._ 
+_Luk Yu Tea House, 24-26 Stanley Street, Central.Party name is "Tse"._
 
 2+| *Friday 22 April*
 | 0800-0830 | Coffee & Rolls

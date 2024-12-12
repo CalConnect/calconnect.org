@@ -4,12 +4,13 @@ title: CalConnect calls on EU to reconsider timeline for proposed seasonal time 
 date: 2018-10-30
 type: news
 categories: special-focus general-information current-events press-releases announcements
-excerpt: The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. CalConnect shares these concerns and recommends the European Commission  extend the timelines stated in the proposal.
+excerpt: The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. CalConnect shares these concerns and recommends the European Commission extend the timelines stated in the proposal.
 ---
+:page-liquid:
 
 == CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
 
-Posted October 30, 2018 
+Posted October 30, 2018
 
 The European Commission has proposed to discontinue daylight saving time (DST), effective October 2019. Several governments and organizations have since expressed concerns about such a tight timeline for the far-reaching change. link:{{'/' | relative_url}}[CalConnect] shares these concerns and recommends the European Commission extend the timelines stated in the proposal.
 
@@ -21,12 +22,5 @@ CalConnect will host a https://www.eventbrite.com/e/eu-dst-timezone-change-publi
 
 The full advisory notice can be found at
 
-[[file-163]]
-=== 
-
-. application/pdf
-image::/modules/file/icons/application-pdf.png[PDF icon,title= application/pdf] https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC Adv EU DST Advisory Notice.pdf]
-
-
-link:{{'/taxonomy/term/17' | relative_url}}[Press Releases]
+https://www.calconnect.org/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf[CC Adv EU DST Advisory Notice.pdf]
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information
 excerpt: TC RESOURCE has published three documents related to resources in calendaring and scheduling.
 ---
+:page-liquid:
 
 == TC USECASE publishes Resource documents
 
@@ -17,6 +18,6 @@ TC RESOURCE has published three documents related to resources in calendaring an
 * *link:{{'/docs/CD0906%20Use%20Cases%20for%20Resources.pdf' | relative_url}}[Use Cases for Resources]*
 * *link:{{'/docs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information.pdf' | relative_url}}[A Recommendation for Minimum Interoperability of Resource Information]*
 
-&nbsp;
+
 
 

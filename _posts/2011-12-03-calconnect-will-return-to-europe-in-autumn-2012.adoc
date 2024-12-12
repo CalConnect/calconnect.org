@@ -4,13 +4,14 @@ title: CalConnect will return to Europe in Autumn 2012
 date: 2011-12-03
 type: news
 categories: announcements general-information special-focus the-world-of-calendaring
-excerpt: Based on the success of our first European CalConnect event (October in Prague), we have decided that our Autumn 2012 event will also be in Europe, and are actively seeking hosting proposals. The dates are probably October 1-5 (at the host’s convenience it might move a week or two earlier or later), and will be decided, along with the location, once the host is identified. We hope to find a host and identify the location and exact dates as soon as possible, and will report progress on this blog. Hope to see you in Europe next Autumn!
+excerpt: Based on the success of our first European CalConnect event (October in Prague), we have decided that our Autumn 2012 event will also be in Europe, and are actively seeking hosting proposals. The dates are probably October 1-5 (at the host's convenience it might move a week or two earlier or later), and will be decided, along with the location, once the host is identified. We hope to find a host and identify the location and exact dates as soon as possible, and will report progress on this blog. Hope to see you in Europe next Autumn!
 ---
+:page-liquid:
 
 == CalConnect will return to Europe in Autumn 2012
 
 Posted December 3, 2011 
 
-Based on the success of our first European CalConnect event (October in Prague), we have decided that our Autumn 2012 event will also be in Europe, and are actively seeking hosting proposals. The dates are probably October 1-5 (at the host s convenience it might move a week or two earlier or later), and will be decided, along with the location, once the host is identified. We hope to find a host and identify the location and exact dates as soon as possible, and will report progress on this blog. Hope to see you in Europe next Autumn!
+Based on the success of our first European CalConnect event (October in Prague), we have decided that our Autumn 2012 event will also be in Europe, and are actively seeking hosting proposals. The dates are probably October 1-5 (at the host's convenience it might move a week or two earlier or later), and will be decided, along with the location, once the host is identified. We hope to find a host and identify the location and exact dates as soon as possible, and will report progress on this blog. Hope to see you in Europe next Autumn!
 
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus
 excerpt: CalConnect has established an Ad Hoc Committee to review the state of the VTODO component of iCalendar, together with outstanding requirements and use cases from other current work. The committee is to report out at Roundtable XXVI and will recommend possible future work in this area to CalConnect.
 ---
+:page-liquid:
 
 == VTODO Ad Hoc Committee Established
 

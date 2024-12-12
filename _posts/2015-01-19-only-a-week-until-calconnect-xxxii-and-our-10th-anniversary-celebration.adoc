@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: CalConnect XXXII is next week — January 26-30, in San Jose, California. And the 10th anniversary celebration is Wednesday the 28th from noon to six, with a reception to follow. No fee is required to attend the 10th anniversary celebration, but you do have to register so we know how many are coming! See CalConnect 10th Anniversary Celebration for more information, the basic schedule, and a link to the registration page. Space has become limited, so register soon if you plan to come!
 ---
+:page-liquid:
 
 == Only a week until CalConnect XXXII and our 10th Anniversary Celebration
 

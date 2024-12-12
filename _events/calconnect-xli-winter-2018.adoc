@@ -118,39 +118,38 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 
 [cols=3]
 |===
-3+| 
-
-===== CALCONNECT DEVELOPERS' FORUM/TEST EVENT
+3+|
+CALCONNECT DEVELOPERS' FORUM/TEST EVENT
 
 a| *Monday 29 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and Discussions +
- +
- 1915-2100 Test Event Dinner +
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and Discussions +
++
+1915-2100 Test Event Dinner +
 http://www.faultlinebrewing.com/[Faultline Brewing Company], Sunnyvale
 a| *Tuesday 30 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and Discussions
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and Discussions
 a| *Wednesday 31 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of Test Event and Forum+
- 1230-1330 Lunch
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and Discussions +
+1030-1100 Break and Refreshments +
+1100-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of Test Event and Forum+
+1230-1330 Lunch
 
 |===
 
@@ -170,18 +169,13 @@ Specific testing areas may include the following; also see Baseline Testing belo
 
 === Technical Topics for Developers Forum Discussions
 
-[[magicdomid80]]
 
-[[magicdomid83]]
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
-[[magicdomid84]]
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
 
-[[magicdomid85]]
 
 
-[[magicdomid86]]
 The schedule for these discussions will be decided on during the 2.5days and is very flexible.
 
 
@@ -189,25 +183,25 @@ The schedule for these discussions will be decided on during the 2.5days and is 
 Specific discussion areas for CalConnec XL include at least:
 
 * New TZDIST drafts on geolocation and binary formats; general direction for TZDIST WG and the time zone data distribution service.
-+
+
 
 ** https://tools.ietf.org/html/draft-murchison-tzdist-geolocate-01
 ** https://tools.ietf.org/html/draft-murchison-tzdist-tzif-00
 * Contact Model
 * Contact API
 * CalDAV support for relationships queries
-+
+
 
 ** Protocol support for retrieving related events and tasks
 ** Discuss relationships queries; if in CalDAV no effect on 5545
 * CalConnect CalDAV Tester
-+
+
 
 ** Working towards a certification suite for CalDAV servers
 ** Document in devguide
 * Streaming calendar data
 * CalConnect iCal4J
-+
+
 
 ** Proposed future developments for iCal4J, direction towards a common CalConnect implementation.
 * Make VPOLL work
@@ -221,7 +215,7 @@ Specific discussion areas for CalConnec XL include at least:
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
-+
+
 
 ** Access (basic operations of CalDAV)
 ** Scheduling
@@ -231,17 +225,17 @@ Final determination of what will be tested will depend on what the participants 
 ** Prefer Header
 * Managed Attachments
 * iSchedule:
-+
+
 
 ** Server discovery
 ** DKIM security
 * Timezones:
-+
+
 
 ** Service Protocol
 ** Timezones by Reference
 * Calendar Alarms:
-+
+
 
 ** Snooze
 ** Default alarms
@@ -250,7 +244,7 @@ Final determination of what will be tested will depend on what the participants 
 * Autodiscovery protocol
 * Non-gregorian calendar recurrences via RRULE and RSCALE
 * iCalendar:
-+
+
 
 ** Rich text and other new properties (and hashing)
 * iMIP
@@ -259,7 +253,7 @@ Final determination of what will be tested will depend on what the participants 
 * xCal, the XML format for iCalendar
 * Enhanced VTODO support
 * CardDAV testing:
-+
+
 
 ** Generic
 ** Sync report
@@ -340,11 +334,11 @@ _Allowing the server to advertise more efficient forms of subscription and enhan
 | 1030-1100 | Break and refreshments
 | 1100-1200
 a| JSCalendar: JSON Representation for Calendar Data +
-_TC API status and issues; support for VCARD, VTODO, categories, IETF status._ 
+_TC API status and issues; support for VCARD, VTODO, categories, IETF status._
 
 | 1200-1230
 a| IMIP Enhancements +
-_Discuss IMIP features to be added or improved to better handle scheduling invites and responses_ 
+_Discuss IMIP features to be added or improved to better handle scheduling invites and responses_
 
 | 1230-1330 | Lunch
 | 1330-1400
@@ -366,11 +360,11 @@ _Representing non-western address formats in VCARDs, collaboration with ISO TC 2
 
 | 1700-1800
 a| Planning for CalConnect XLII in Tokyo +
-_Review and discuss plans for the conference including hosting some members from JEDC (Japan Event Data Consortium) to discuss their ideas on calendaring & ask questions to CalConnect members about standardization._ 
+_Review and discuss plans for the conference including hosting some members from JEDC (Japan Event Data Consortium) to discuss their ideas on calendaring & ask questions to CalConnect members about standardization._
 
 | 1900-2100
 a| Conference Dinner +
-https://www.thefishmarket.com/[The Fish Market], Santa Clara 
+https://www.thefishmarket.com/[The Fish Market], Santa Clara
 
 2+| *Friday 02 February 2018*
 | 0800-0830 | Coffee & Rolls
@@ -380,7 +374,7 @@ _Do we revise RFC 5545 with errata and best practices, pitfalls, etc. versus put
 
 | 0930-1030
 a| Providing infrastructure services +
-_Should CalConnect provide infrastructure services such as a time zone server, an ISO address profile registry, etc.?_ 
+_Should CalConnect provide infrastructure services such as a time zone server, an ISO address profile registry, etc.?_
 
 | 1030-1100 | Break and refreshments
 | 1100-1200

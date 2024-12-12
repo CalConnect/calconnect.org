@@ -4,14 +4,15 @@ title: Only four weeks to CalConnect XXXVIII at University of California Irvine
 date: 2017-01-16
 type: news
 categories: announcements current-events general-information special-focus
-excerpt: It’s now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases. 
+excerpt: It's now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases.
 ---
+:page-liquid:
 
 == Only four weeks to CalConnect XXXVIII at University of California Irvine
 
 Posted January 16, 2017 
 
-It s now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases.&nbsp;
+It's now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases.
 
 https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017
 
@@ -36,11 +37,11 @@ This session will review the charter, goals and problems facing the evolution of
 *Calendar Spam and potential best practices* +
 One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events.
 
-&nbsp;
 
-As always, non-members may attend a CalConnect Conference as https://www.calconnect.org/events/events-activities/observers[Observers].
 
-&nbsp;
+As always, non-members may attend a CalConnect Conference as link:{{'/events/events-activities/observers' | relative_url }}[Observers].
+
+
 
 Please join us in Irvine!
 

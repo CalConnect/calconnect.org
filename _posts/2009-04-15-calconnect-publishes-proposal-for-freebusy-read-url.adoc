@@ -4,15 +4,16 @@ title: CalConnect publishes Proposal for Freebusy Read URL
 date: 2009-04-15
 type: news
 categories: announcements general-information the-world-of-calendaring
-excerpt: CalConnect’s FREEBUSY Technical Committee has just published a Proposal* for Freebusy Read URL. This Proposal defines a standardized form of Freebusy Read URL to improve interoperability between client and server implementations, while extending the functionality and utility through the use of optional parameters. Please see Freebusy Read URL.
+excerpt: CalConnect's FREEBUSY Technical Committee has just published a Proposal* for Freebusy Read URL. This Proposal defines a standardized form of Freebusy Read URL to improve interoperability between client and server implementations, while extending the functionality and utility through the use of optional parameters. Please see Freebusy Read URL.
 ---
+:page-liquid:
 
 == CalConnect publishes Proposal for Freebusy Read URL
 
-Posted April 15, 2009 
+Posted April 15, 2009
 
-CalConnect s FREEBUSY Technical Committee has just published a Proposal\* for Freebusy Read URL. This Proposal defines a standardized form of Freebusy Read URL to improve interoperability between client and server implementations, while extending the functionality and utility through the use of optional parameters. Please see link:{{'/docs/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Freebusy Read URL].
+CalConnect's FREEBUSY Technical Committee has just published a Proposal\* for Freebusy Read URL. This Proposal defines a standardized form of Freebusy Read URL to improve interoperability between client and server implementations, while extending the functionality and utility through the use of optional parameters. Please see link:{{'/docs/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Freebusy Read URL].
 
-*CalConnect Proposals are experimental specifications intended for research and exploration, e.g. through trial implementations, to determine usefulness and applicability. Proposals deemed successful are candidates to be offered to an appropriate standards body for adoption and progression as a standard.&nbsp;
+*CalConnect Proposals are experimental specifications intended for research and exploration, e.g. through trial implementations, to determine usefulness and applicability. Proposals deemed successful are candidates to be offered to an appropriate standards body for adoption and progression as a standard.
 
 

@@ -4,8 +4,9 @@ title: CalConnect Welcomes BusyMac
 date: 2013-05-07
 type: news
 categories: announcements general-information member-news
-excerpt: CalConnect welcomes BusyMac as a member of The Calendaring and Scheduling Consortium. BusyMac, headquartered in Bainbridge Island, Washington, develops calendaring products for MacOS.  
+excerpt: CalConnect welcomes BusyMac as a member of The Calendaring and Scheduling Consortium. BusyMac, headquartered in Bainbridge Island, Washington, develops calendaring products for MacOS. 
 ---
+:page-liquid:
 
 == CalConnect Welcomes BusyMac
 

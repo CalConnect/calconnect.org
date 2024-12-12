@@ -6,12 +6,13 @@ type: news
 categories: member-news special-focus the-world-of-calendaring
 excerpt: For anyone who did not see the original announcement, on April 13th Microsoft announced EAS, its Exchange ActiveSync Logo Program http://blogs.technet.com/b/exchange/archive/2011/04/13/announcing-the-exchange-activesync-logo-program.aspx “to establish baseline for EAS functionality in mobile email devices . The program is designed for device manufacturers that license the EAS protocol from Microsoft for use in mobile email clients that connect to Exchange.” This includes a test plan which must be successfully demonstrated to qualify a device for the plan.
 ---
+:page-liquid:
 
 == Microsoft announces Exchange ActiveSync Logo Program
 
 Posted April 22, 2011 
 
-For anyone who did not see the original announcement, on April 13th Microsoft announced EAS, its Exchange ActiveSync Logo Program: http://blogs.technet.com/b/exchange/archive/2011/04/13/announcing-the-exchange-activesync-logo-program.aspx to establish baseline for EAS functionality in mobile email devices . The program is designed for device manufacturers that license the EAS protocol from Microsoft for use in mobile email clients that connect to Exchange. This includes a test plan which must be successfully demonstrated to qualify a device for the plan.
+For anyone who did not see the original announcement, on April 13th Microsoft announced EAS, its Exchange ActiveSync Logo Program: http://blogs.technet.com/b/exchange/archive/2011/04/13/announcing-the-exchange-activesync-logo-program.aspx "`to establish baseline for EAS functionality in mobile email devices . The program is designed for device manufacturers that license the EAS protocol from Microsoft for use in mobile email clients that connect to Exchange.`" This includes a test plan which must be successfully demonstrated to qualify a device for the plan.
 
 As ActiveSync is broadly implemented upon mobile devices, many of which support calendaring services, this is clearly of interest to those in the calendaring and scheduling space.
 

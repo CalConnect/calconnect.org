@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information member-news
 excerpt: I am delighted to announce that Nokia Corporation has joined The Calendaring and Scheduling Consortium.
 ---
+:page-liquid:
 
 == Nokia Corporation joins CalConnect
 

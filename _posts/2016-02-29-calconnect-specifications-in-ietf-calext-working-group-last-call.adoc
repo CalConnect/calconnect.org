@@ -6,21 +6,23 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: The IETF CALEXT Working Group has issued a Last Call for Comments on two CalConnect specifications Calendar Availability (VAVAILABILITY)
 ---
+:page-liquid:
 
 == CalConnect Specifications in IETF CALEXT Working Group Last Call
 
 Posted February 29, 2016
 
-The IETF CALEXT Working Group has issued a Last Call for Comments on two CalConnect specifications: Calendar Availability (VAVAILABILITY) https://datatracker.ietf.org/doc/draft-ietf-calext-availability/ +
- &nbsp;and Calendar Extensions https://datatracker.ietf.org/doc/draft-ietf-calext-extensions/[].
+The IETF CALEXT Working Group has issued a Last Call for Comments on two
+CalConnect specifications: Calendar Availability (VAVAILABILITY)
+https://datatracker.ietf.org/doc/draft-ietf-calext-availability/ and Calendar
+Extensions https://datatracker.ietf.org/doc/draft-ietf-calext-extensions/[].
 
-+
-Whether or not you are active in CalConnect, It is extremely important that anyone with an interest in seeing these specifications become standards comment on the IETF CALSIFY mailing list in favor of moving these drafts forward, and especially with any comments about implementations. The Working Group Chairs need to see real support for these specs becoming standards. If you are not already on that list here is the link: https://www.ietf.org/mailman/listinfo/calsify[]. +
+Whether or not you are active in CalConnect, It is extremely important that anyone with an interest in seeing these specifications become standards comment on the IETF CALSIFY mailing list in favor of moving these drafts forward, and especially with any comments about implementations. The Working Group Chairs need to see real support for these specs becoming standards. If you are not already on that list here is the link: https://www.ietf.org/mailman/listinfo/calsify[].
 
-Time is of the essence as the Last Call opened several days ago. It s really important for all of us to show there is support for these drafts, as they are finally starting to move forward after quite a long time.&nbsp;
+Time is of the essence as the Last Call opened several days ago. It's really important for all of us to show there is support for these drafts, as they are finally starting to move forward after quite a long time.
 
 
-Tags:&nbsp;
+Tags:
 
 link:{{'/tags/vavailability' | relative_url}}[VAVAILABILITY]
 

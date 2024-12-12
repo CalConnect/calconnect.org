@@ -4,8 +4,9 @@ title: AOL Joins CalConnect
 date: 2012-03-28
 type: news
 categories: announcements current-events general-information
-excerpt: The Calendaring and Scheduling Consortium welcomes AOL as a member of the Consortium.  
+excerpt: The Calendaring and Scheduling Consortium welcomes AOL as a member of the Consortium. 
 ---
+:page-liquid:
 
 == AOL Joins CalConnect
 

@@ -50,8 +50,8 @@ The last session on Friday afternoon will be the full Plenary meeting of the Con
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- 
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. 
+
 
 Conference Details
 
@@ -97,8 +97,8 @@ We are offered a *special UC Irvine* rate of $119 for Friday and Saturday nights
  +
 *Hotel Irvine Commuter Shuttle Service:* This service is included in the UCI rate and runs from 6:30am-10:30am and 3:00pm-7:00pm from Monday-Friday. This service does require a 48 hour reservation to guarantee the transfer. The HI commuter can be arranged by emailing them directly at mailto:hicommuter@hotelirvine.com[hicommuter@hotelirvine.com].
 
-_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._ +
- 
+_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._ 
+
 
 
 
@@ -111,7 +111,7 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 
 [cols=3]
 |===
-3+| 
+3+|
 
 ==== CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS' FORUM - Room Aliso B (A309), 3rd Floor
 
@@ -168,18 +168,13 @@ Current specific testing areas include
 
 ==== Technical Topics for Developers' Discussions
 
-[[magicdomid80]]
 
-[[magicdomid83]]
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
-[[magicdomid84]]
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
 
-[[magicdomid85]]
 
 
-[[magicdomid86]]
 The schedule for these discussions will be decided on during the 2.5days and is very flexible.
 
 
@@ -202,7 +197,7 @@ Current discussion topics include
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
-+
+
 
 ** Access (basic operations of CalDAV)
 ** Scheduling
@@ -212,17 +207,17 @@ Final determination of what will be tested will depend on what the participants 
 ** Prefer Header
 * Managed Attachments
 * iSchedule:
-+
+
 
 ** Server discovery
 ** DKIM security
 * Timezones:
-+
+
 
 ** Service Protocol
 ** Timezones by Reference
 * Calendar Alarms:
-+
+
 
 ** Snooze
 ** Default alarms
@@ -231,7 +226,7 @@ Final determination of what will be tested will depend on what the participants 
 * Autodiscovery protocol
 * Non-gregorian calendar recurrences via RRULE and RSCALE
 * iCalendar:
-+
+
 
 ** Rich text and other new properties (and hashing)
 * iMIP
@@ -240,7 +235,7 @@ Final determination of what will be tested will depend on what the participants 
 * xCal, the XML format for iCalendar
 * Enhanced VTODO support
 * CardDAV testing:
-+
+
 
 ** Generic
 ** Sync report

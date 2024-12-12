@@ -4,13 +4,14 @@ title: Notify Technology joins CalConnect
 date: 2009-04-24
 type: news
 categories: announcements general-information member-news
-excerpt: I’m delighted to announce that Notify Technology has joined The Calendaring and Scheduling Consortium.
+excerpt: I'm delighted to announce that Notify Technology has joined The Calendaring and Scheduling Consortium.
 ---
+:page-liquid:
 
 == Notify Technology joins CalConnect
 
 Posted April 24, 2009 
 
-I m delighted to announce that http://www.notifycorp.com[Notify Technology] has joined The Calendaring and Scheduling Consortium.
+I'm delighted to announce that http://www.notifycorp.com[Notify Technology] has joined The Calendaring and Scheduling Consortium.
 
 

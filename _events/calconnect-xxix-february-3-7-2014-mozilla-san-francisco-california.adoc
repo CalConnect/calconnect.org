@@ -94,7 +94,7 @@ http://www.hotelshattuckplaza.com/ +
  +
  To book your room by phone, call direct at 510-845-7300 or toll free at 866-466-9199 and ask for the _CalConnect_ conference rate. To book online, please go to https://booking.ihotelier.com/istay/istay.jsp?hotelid=17233[]. Select "Promo/Corporate Code" at the top left and enter __CALCONNECT__as your passcode, and your date range. CalConnect discounted rates and the available room types will immediately be displayed for the selected dates of stay. +
  +
- The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event  so book early and save! +
+ The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event -- so book early and save! +
  +
 *Traveling between the conference hotel and the Mozilla Facility:* The Downtown Berkeley BART Station is 1/2 block from the hotel. Take EITHER a Richmond-->Daly City/Milbrae train (which will go to San Francisco), or a Richmond-->Fremont train and change at the 12th street station to any train going to Daly City/Milbrae. Get off at the http://www.bart.gov/stations/embr/index.aspx[Embarcadero] station (first San Francisco station). From this station the Mozilla building is about a kilometer walk,or you can take the F, J, KT, or N light rail lines directly from the Embarcadero station (different level) to the Embarcadero at Harrison Street Metro stop.
 
@@ -208,7 +208,7 @@ _On Site_
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees. 
 
 |===
- +
+ 
 
 [[agendas]]
 ==== Topical Agendas:
@@ -338,7 +338,7 @@ _On Site_
 |===
 
  +
- +
+ 
 
 [[bofs]]
 ==== BOFs

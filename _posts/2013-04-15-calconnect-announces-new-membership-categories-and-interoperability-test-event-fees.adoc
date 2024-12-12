@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus
 excerpt: CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
 ---
+:page-liquid:
 
 == CALCONNECT ANNOUNCES NEW MEMBERSHIP CATEGORIES AND INTEROPERABILITY TEST EVENT FEES
 
@@ -19,7 +20,7 @@ In response to suggestions from interested potential members, CalConnect has est
 
 *Interoperability Test Event Fees*
 
-Several changes have been made to the Interoperability Test Event fee structure. The *regular commercial vendor* member fee has been changed from $1795 to $1800 (to make the numbers more rational). *Additional participants* have been changed from $150 to $200 to ensure CalConnect doesn t actually lose money for each one (additional participants for the host are also $200).
+Several changes have been made to the Interoperability Test Event fee structure. The *regular commercial vendor* member fee has been changed from $1795 to $1800 (to make the numbers more rational). *Additional participants* have been changed from $150 to $200 to ensure CalConnect doesn't actually lose money for each one (additional participants for the host are also $200).
 
 *Non-vendor member* participation fees remain unchanged at $350 per person.
 

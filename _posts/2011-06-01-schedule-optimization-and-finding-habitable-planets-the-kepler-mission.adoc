@@ -6,6 +6,7 @@ type: news
 categories: current-events general-information special-focus the-world-of-calendaring
 excerpt: At Roundtable XXI last week at NASA Ames, Charlie Sobek, the Kepler Mission Deputy Project Manager, gave us a presentation on the Kepler Mission to find habitable planets. The presentation highlighted the scheduling and mission optimization issues facing the project, including issues such as scheduling time between multiple projects on the Deep Space Network and the challenges of managing the spacecraft over a multi-year mission, such as changes in the networks, missions and priorities and how these are resolved.
 ---
+:page-liquid:
 
 == Schedule optimization and finding habitable planets: The Kepler Mission
 

@@ -6,11 +6,12 @@ type: news
 categories: announcements current-events general-information
 excerpt: Kerio Technologies, our host for the next CalConnect meeting in Prague, October 3-7 2011, has posted a short Q&A interview with Dave Thewlis, the Executive Director of CalConnect. You can find the Q&A on their blog at http://www.kerio.com/blog/qa-dave-thewlis-calconnect.
 ---
+:page-liquid:
 
 == Kerio Interview with Dave Thewlis, CalConnect Executive Director
 
-Posted September 23, 2011 
+Posted September 23, 2011
 
-http://www.kerio.com/[Kerio Technologies], our host for the next link:{{'/calconnect22' | relative_url}}[CalConnect meeting in Prague], October 3-7 2011, has posted a short Q&A interview with Dave Thewlis, the Executive Director of CalConnect. You can find the Q&A on their blog at http://www.kerio.com/blog/qa-dave-thewlis-calconnect' | relative_url}}[].
+http://www.kerio.com/[Kerio Technologies], our host for the next link:{{'/calconnect22' | relative_url}}[CalConnect meeting in Prague], October 3-7 2011, has posted a short Q&A interview with Dave Thewlis, the Executive Director of CalConnect. You can find the Q&A on their blog at http://www.kerio.com/blog/qa-dave-thewlis-calconnect[].
 
 

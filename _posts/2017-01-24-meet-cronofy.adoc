@@ -6,15 +6,16 @@ type: news
 categories: general-information member-focus special-focus the-world-of-calendaring
 excerpt: How did Cronofy start? Cronofy, like many companies, was born out of the frustration of one of the founders. Adam (Bird), perpetually annoyed that managing his schedule was such a manual chore, undertook research to understand what was involved in connecting his calendar to business applications. He and Garry (Schutler) concluded that a single API, optimised specifically for application to calendar interoperability had the opportunity to dramatically reduce the work required for developers. Easier to integrate meant more applications integrated and thus more people benefiting from schedule optimisation and more automated management. We are giving people time.
 ---
+:page-liquid:
 
 == Meet Cronofy
 
-Posted January 24, 2017 
+Posted January 24, 2017
 
 *How did Cronofy start?* +
 Cronofy, like many companies, was born out of the frustration of one of the founders. Adam (Bird), perpetually annoyed that managing his schedule was such a manual chore, undertook research to understand what was involved in connecting his calendar to business applications. He and Garry (Schutler) concluded that a single API, optimised specifically for application to calendar interoperability had the opportunity to dramatically reduce the work required for developers. Easier to integrate meant more applications integrated and thus more people benefiting from schedule optimisation and more automated management. We are giving people time.
 
-Fast forward three years and Cronofy is now a venture-backed team of API experts enabling a growing roster of enterprise SaaS vendors connect to their customer s calendars reliably and securely.
+Fast forward three years and Cronofy is now a venture-backed team of API experts enabling a growing roster of enterprise SaaS vendors connect to their customer's calendars reliably and securely.
 
 *Where are you based?* +
 Nottingham and London in the UK
@@ -23,17 +24,21 @@ Nottingham and London in the UK
 We are a mix of engineering, marketing, sales and product. Most of us have worked together before in some capacity.
 
 *What C&S problem are your solving*? +
-Cronofy provides calendar integration for enterprise applications as a service. When application vendors approach this problem, they have to not only deal with the different API implementations of Exchange, Office365, G-Suite and Apple but also the security and privacy requirements of their customers. +
-There are three main areas of challenge we address: +
- 1) Common synchronisation and availability layer +
- 2) Security controls that work Enterprise directory infrastructure +
- 3) Privacy controls that ensure only the required data is made available to applications.
+Cronofy provides calendar integration for enterprise applications as a service. When application vendors approach this problem, they have to not only deal with the different API implementations of Exchange, Office365, G-Suite and Apple but also the security and privacy requirements of their customers.
+
+There are three main areas of challenge we address:
+
+. Common synchronisation and availability layer
+
+. Security controls that work Enterprise directory infrastructure
+
+. Privacy controls that ensure only the required data is made available to applications.
 
 *What is you target audience?* +
 Developers and product managers of Enterprise SaaS vendors.
 
 *How can CalConnect help you?* +
-CalConnect gives us the opportunity to learn about the standards decisions that have been taken as well as understand the direction of travel. Being part of CalConnect allows us to learn from previous decisions and ensure, where possible, we can deliver a service that s consistent with the standards.
+CalConnect gives us the opportunity to learn about the standards decisions that have been taken as well as understand the direction of travel. Being part of CalConnect allows us to learn from previous decisions and ensure, where possible, we can deliver a service that's consistent with the standards.
 
 *How can you help CalConnect?* +
 We re very much at the sharp end with developers battling to make their applications work with calendars. Whereas historically members have been more focused on calendar server to calendar server interoperability, we ve developed a deep understanding of how application developers want to leverage calendar services. This insight will help us contribute to future standards that will support and enhance this different interoperability requirement.
@@ -45,7 +50,7 @@ Our mission at Cronofy is to give people time and we can t do that in isolation.
 Yes, Hong Kong and Dresden. It was a fascinating opportunity to learn more about the drivers and history behind the standards and understand, first hand, the direction of the consortium.
 
 *What should CalConnect focus on in the next years?* +
-The role calendars will play in people s lives where freelance working and dynamic commitments are becoming increasing common place.
+The role calendars will play in people's lives where freelance working and dynamic commitments are becoming increasing common place.
 
 *Where can readers find Cronofy (website, twitter, facebook, LinkedIn, etc)?* +
 https://www.cronofy.com +

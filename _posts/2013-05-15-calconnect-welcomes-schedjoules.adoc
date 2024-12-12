@@ -4,13 +4,14 @@ title: CalConnect Welcomes SchedJoules
 date: 2013-05-15
 type: news
 categories: announcements general-information member-focus
-excerpt: CalConnect welcomes SchedJoules as a member of The Calendaring and Scheduling Consortium. SchedJoules, headquartered in Amsterdam, The Netherlands, offers an online public calendar store. 
+excerpt: CalConnect welcomes SchedJoules as a member of The Calendaring and Scheduling Consortium. SchedJoules, headquartered in Amsterdam, The Netherlands, offers an online public calendar store.
 ---
+:page-liquid:
 
 == CalConnect Welcomes SchedJoules
 
 Posted May 15, 2013 
 
-CalConnect welcomes SchedJoules as a member of The Calendaring and Scheduling Consortium. http://schedjoules.com[SchedJoules], headquartered in Amsterdam, The Netherlands, offers an online public calendar store.&nbsp;
+CalConnect welcomes SchedJoules as a member of The Calendaring and Scheduling Consortium. http://schedjoules.com[SchedJoules], headquartered in Amsterdam, The Netherlands, offers an online public calendar store.
 
 

@@ -1,35 +1,36 @@
 ---
 layout: page
-title: CalConnect Workshop on Tasks – Wednesday May 25, 2011
+title: CalConnect Workshop on Tasks -- Wednesday May 25, 2011
 date: 2011-04-27
 type: news
 categories: announcements current-events general-information special-focus
 excerpt: CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 25 May, at NASA Ames, Mountain View, California.
 ---
+:page-liquid:
 
-== CalConnect Workshop on Tasks – Wednesday May 25, 2011
+== CalConnect Workshop on Tasks -- Wednesday May 25, 2011
 
-Posted April 27, 2011 
+Posted April 27, 2011
 
 CalConnect will hold an open Workshop on Tasks on Wednesday afternoon, 25 May, at NASA Ames, Mountain View, California.
 
 *Background:*
 
-Over the last few years there have been more and more applications developed that allow users to manage tasks or to-do lists. In particular, with the ever increasing use of smart phones, there are now a plethora of smart phone apps that allow users to manage their task lists. Many of those offer an option to synchronize the task list with desktop computers or the cloud. However, in many cases a proprietary synchronization protocol is used with non-standard data formats.
+Over the last few years there have been more and more applications developed that allow users to manage tasks or to-do lists. In particular, with the ever increasing use of smart phones, there are now a plethora of smart phone "`apps`" that allow users to manage their task lists. Many of those offer an option to synchronize the task list with desktop computers or "`the cloud`". However, in many cases a proprietary synchronization protocol is used with non-standard data formats.
 
-Tasks (VTODOs) are a part of iCalendar and thus part of CalConnect s focus. In 2007 our USECASE Technical Committee developed a use case document on tasks based on a review of existing products, with the goal of identifying commonality of properties and establishing a minimum set needed for interoperability.
+Tasks (VTODOs) are a part of iCalendar and thus part of CalConnect's focus. In 2007 our USECASE Technical Committee developed a use case document on tasks based on a review of existing products, with the goal of identifying commonality of properties and establishing a minimum set needed for interoperability.
 
-Since that time the potential applicability of VTODOs has expanded into areas such as project management, and energy/price scheduling in the work being done towards the national Smart Grid effort, with a concomitant increase in needed properties and flexibility.
+Since that time the potential applicability of VTODOs has expanded into areas such as project management, and energy/price scheduling in the work being done towards the national "`Smart Grid`" effort, with a concomitant increase in needed properties and flexibility.
 
 The aim of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and CalDAV may be needed to support the key features that application developers require.
 
 *Proposed Agenda*:
 
-1. Introduction +
- 2. Review of current task based applications and services +
- 3. Introduction to tasks in iCalendar and CalDAV. +
- 4. Examination of key use cases  where do iCalendar and CalDAV fall short? +
- 5. Conclusions  what is needed to support a standards-based task management system, what can CalConnect do to help?
+. Introduction
+. Review of current task based applications and services
+. Introduction to tasks in iCalendar and CalDAV.
+. Examination of key use cases  where do iCalendar and CalDAV fall short?
+. Conclusions  what is needed to support a standards-based task management system, what can CalConnect do to help?
 
 *Who may participate:*
 
@@ -41,7 +42,7 @@ No fee will be charged for attending the workshop; however you will need to regi
 
 The meeting will be held in the NASA Ames Conference Center, 500 Severyns Road, NASA Ames Research Center, Moffett Field, Mountain View, California.
 
-*Non-U.S. Residents please note*: NASA Ames is a government installation and there are some special restrictions on access to the NASA Ames Research Center. U.S. Citizens and permanent residents may gain access by presenting their driver s license and (if not a U.S. citizen) green card. However, visitors to the U.S. who are not permanent residents will require an invitation from NASA which must be arranged well in advance. If you are planning to attend the workshop (or any part of CalConnect week) and have not already made these arrangements *please contact us immediately at: mailto:contact@calconnect.org[contact@calconnect.org]*.
+*Non-U.S. Residents please note*: NASA Ames is a government installation and there are some special restrictions on access to the NASA Ames Research Center. U.S. Citizens and permanent residents may gain access by presenting their driver's license and (if not a U.S. citizen) green card. However, visitors to the U.S. who are not permanent residents will require an invitation from NASA which must be arranged well in advance. If you are planning to attend the workshop (or any part of CalConnect week) and have not already made these arrangements *please contact us immediately at: mailto:contact@calconnect.org[contact@calconnect.org]*.
 
 *Schedule:*
 

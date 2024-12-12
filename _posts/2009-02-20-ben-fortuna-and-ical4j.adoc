@@ -4,8 +4,9 @@ title: Ben Fortuna and iCal4j
 date: 2009-02-20
 type: news
 categories: special-focus
-excerpt: CalConnect held its fourteenth members’ meeting (Roundtable) and interoperability test event last week (February 2-6) in Redmond, Washington, hosted by Microsoft.
+excerpt: CalConnect held its fourteenth members' meeting (Roundtable) and interoperability test event last week (February 2-6) in Redmond, Washington, hosted by Microsoft.
 ---
+:page-liquid:
 
 == Ben Fortuna and iCal4j
 

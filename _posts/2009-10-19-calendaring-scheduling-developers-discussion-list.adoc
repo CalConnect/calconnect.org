@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information the-world-of-calendaring
 excerpt: CalConnect has launched a public discussion list intended for Calendaring and Scheduling systems developers and kindred spirits. More information and a link to subscribe to the list may be found at Calendaring Developers Discussion List. (The link has been corrected.)
 ---
+:page-liquid:
 
 == Calendaring & Scheduling Developers Discussion List
 

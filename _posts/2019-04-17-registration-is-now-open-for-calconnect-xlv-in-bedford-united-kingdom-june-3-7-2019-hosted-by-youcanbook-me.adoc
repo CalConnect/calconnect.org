@@ -4,22 +4,23 @@ title: Registration is now open  for CalConnect XLV in Bedford, United Kingdom, 
 date: 2019-04-17
 type: news
 categories: general-information current-events announcements
-excerpt: The CalConnect XLV web page is located at link:/events/calconnect-xlv-june-3-7-2019 and contains lodging information, airport and transfer information, meeting venue, schedule, etc.  The CalConnect conference is Monday-Thursday, June 3-6.  Friday June 7 will be a offsite working day for anyone registered for the conference who wishes to stay on. 
+excerpt: The CalConnect XLV web page contains lodging information, airport and transfer information, meeting venue, schedule, etc.
 ---
+:page-liquid:
 
 == Registration is now open  for CalConnect XLV in Bedford, United Kingdom, June 3-7, 2019, hosted by Youcanbook.me
 
-Posted April 17, 2019 
+Posted April 17, 2019
 
-The CalConnect XLV web page is located at link:/events/calconnect-xlv-june-3-7-2019 and contains lodging information, airport and transfer information, meeting venue, schedule, etc. The CalConnect conference is Monday-Thursday, June 3-6. Friday June 7 will be a offsite working day for anyone registered for the conference who wishes to stay on.&nbsp;
+The CalConnect XLV web page is located at link:{{'/events/calconnect-xlv-june-3-7-2019' | relative_url}}[/events/calconnect-xlv-june-3-7-2019] and contains lodging information, airport and transfer information, meeting venue, schedule, etc. The CalConnect conference is Monday-Thursday, June 3-6. Friday June 7 will be a offsite working day for anyone registered for the conference who wishes to stay on.
 
 The meeting venue is the https://www.booking.com/hotel/gb/bedfordmoathouse.en-gb.html[Bedford Centre Hotel,] located at 2 St. Mary's Lane, Bedford,which is also the conference hotel. Other hotels are also referenced in the link:{{'/events/calconnect-xlv-june-3-7-2019#lodging' | relative_url}}[Lodging] section of the web page. All hotels may be booked immediately.
 
-CalConnect XLV follows the new combined conference format, bringing together, as a single event and with a single fee, our traditional conference and technical sessions.&nbsp;
+CalConnect XLV follows the new combined conference format, bringing together, as a single event and with a single fee, our traditional conference and technical sessions.
 
 The first draft schedule and sessions for the four days are posted in the link:{{'/events/calconnect-xlv-june-3-7-2019#conference-schedule' | relative_url}}[CalConnect XLV Schedule]. It will be updated as we get closer to the event, so please check periodically.
 
-Fees and Registration Options: The registration fee for the full four-day event is $950 (late registration is $1050). We are also offering a trial one-day registration fee of $400 (late registration $475).&nbsp; Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
+Fees and Registration Options: The registration fee for the full four-day event is $950 (late registration is $1050). We are also offering a trial one-day registration fee of $400 (late registration $475). Registration information is at link:{{'/events/event-registration-payment' | relative_url }} and is linked from the event web page.
 
 As always, please let us know if you have any questions.
 

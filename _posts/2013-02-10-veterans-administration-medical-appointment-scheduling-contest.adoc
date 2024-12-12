@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Veterans’ Administration Medical Appointment Scheduling Contest
+title: Veterans' Administration Medical Appointment Scheduling Contest
 date: 2013-02-10
 type: news
 categories: announcements general-information the-world-of-calendaring
 excerpt: As some of our members already know, the United State Veterans Health Administration has announced a ‘VA Medical Appointment Scheduling Contest” (http://vascheduling.challenge.gov/) to
 ---
+:page-liquid:
 
-== Veterans’ Administration Medical Appointment Scheduling Contest
+== Veterans' Administration Medical Appointment Scheduling Contest
 
 Posted February 10, 2013 
 
 As some of our members already know, the United State Veterans Health Administration has announced a VA Medical Appointment Scheduling Contest (http://vascheduling.challenge.gov/) to
 
-¦encourage development of systems that help Veterans schedule appointments to receive care from the Veterans Health Administration and to reduce risks in the future procurement and deployment of those systems¦The goal of this contest is to encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration. VA also seeks to obtain information which will allow it to reduce the risks inherent in procurement and deployment of a replacement medical scheduling product.
+"`¦encourage development of systems that help Veterans schedule appointments to receive care from the Veterans Health Administration and to reduce risks in the future procurement and deployment of those systems¦The goal of this contest is to encourage creation of systems that help Veterans make appointments to receive outpatient and ambulatory care from the Veterans Health Administration. VA also seeks to obtain information which will allow it to reduce the risks inherent in procurement and deployment of a replacement medical scheduling product.`"
 
 In the course of learning more about this contest, we ran across these references which may be of interest to our membership and others interested in calendaring and scheduling:
 

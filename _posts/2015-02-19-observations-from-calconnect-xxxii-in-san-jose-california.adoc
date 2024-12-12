@@ -4,20 +4,21 @@ title: Observations from CalConnect XXXII in San Jose, California
 date: 2015-02-19
 type: news
 categories: announcements current-events the-world-of-calendaring
-excerpt: CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by Kerio Technologies in San Jose, California. This event was also the Tenth Anniversary of CalConnect’s first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
+excerpt: CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by Kerio Technologies in San Jose, California. This event was also the Tenth Anniversary of CalConnect's first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
 ---
+:page-liquid:
 
 == Observations from CalConnect XXXII in San Jose, California
 
-Posted February 19, 2015 
+Posted February 19, 2015
 
-CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by http://www.kerio.com[Kerio Technologies] in San Jose, California. This event was also the Tenth Anniversary of CalConnect s first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
+CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by http://www.kerio.com[Kerio Technologies] in San Jose, California. This event was also the Tenth Anniversary of CalConnect's first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
 
 The week led off with the Interoperability Test Even on Monday. The event had 24 participants from 14 organizations.
 
 On Wednesday afternoon, we offered a link:{{'/tenthanniversary' | relative_url}}[special program] for our Tenth Anniversary with 49 people in attendance, including twelve who came only for the celebration, plus 34 registered participants at CalConnect XXXII, which was held Thursday and Friday. We took this opportunity to leverage this milestone conference as a first step in reprogramming our conferences to be more engaging, more interactive, and more accessible to those not directly involved in the work or topic being presented. We augmented our traditional technical content with panel discussions, invited speakers, and special presentations, looking to transform attendees into active participants. Overall, the results of this initial effort were well received.
 
-Here s what s trending from CalConnect XXXII:
+Here's what's trending from CalConnect XXXII:
 
 *Trending  Membership*
 
@@ -25,7 +26,7 @@ http://fastmail.com[Fastmail], based in Melbourne, Australia, joined CalConnect 
 
 Welcoming 2015, http://zeezide.com[ZeeZide], based in Magdeburg, Germany, became our first new member of the new year. ZeeZide is a software development company interested in interoperability testing and standards.
 
-Presently, over one third of CalConnect s membership is international (not based in North America), including members in the U.K., several European countries, New Zealand, Australia, and Hong Kong.
+Presently, over one third of CalConnect's membership is international (not based in North America), including members in the U.K., several European countries, New Zealand, Australia, and Hong Kong.
 
 *Trending  Technical Committees and Provisional Committees (TCs and PCs)*
 
@@ -34,16 +35,15 @@ Presently, over one third of CalConnect s membership is international (not based
 * TC-SHARING has submitted its base specifications for WebDAV resource sharing and notifications (see below) and is beginning work on its calendar sharing specification.
 * TC-TASKS has submitted its Task Extensions to iCalendar and iCalendar Relations drafts (see below).
 
-*Trending Ã¢ Interoperability Testing*
+*Trending Ã¢-- Interoperability Testing*
 
 The test event was extremely successful, with 24 participants from 14 organizations, including one non-member company. As always there was much testing of CalDAV features, including new and under development capabilities such as CalDAV PUSH, Calendar/ Contact Sharing and VPOLL. Unlike recent test events we saw a lot of iMIP testing including much testing against Microsoft Exchange. We also conducted BOF sessions on CalDAV PUSH, the possibility of QR codes for Calendar URIs, and a focus session on the CalDAV Tester Suite for new users. A more detailed accounting of the test event is available at link:{{'/eventreports#ioptestevents' | relative_url}}[CalConnect Interoperability Test Event Reports].
 
 *Trending  Special Events: CalConnect Tenth Anniversary Celebration*
 
-Wednesday afternoon was dedicated to a celebration of CalConnect s Tenth Anniversary; our first real members  meeting was held in January of 2005 at the University of Washington. We had a number of invited guests present in addition to the participants attending the regular CalConnect Conference, resulting in a fairly packed room of 46.
+Wednesday afternoon was dedicated to a celebration of CalConnect's Tenth Anniversary; our first real members  meeting was held in January of 2005 at the University of Washington. We had a number of invited guests present in addition to the participants attending the regular CalConnect Conference, resulting in a fairly packed room of 46.
 
-Special sessions for the Celebration included the History of CalConnect; The Freebusy +
- Challenge; Calendaring as a Platform; and a panel discussion on the Future of Calendaring. Additionally, we had two invited speakers: Lisa Dusseault, the original author of CalDAV, spoke on the trials and tribulations of committee standards development, and Steve Allen from the University of California Lick Observatory on The Time People Want, an exploration of the history of the measurement of time and time zones. Our special thanks to all our invited guests and speakers for making our Tenth Anniversary event so engaging.
+Special sessions for the Celebration included the History of CalConnect; The Freebusy "`Challenge`"; Calendaring as a Platform; and a panel discussion on the Future of Calendaring. Additionally, we had two invited speakers: Lisa Dusseault, the original author of CalDAV, spoke on the trials and tribulations of committee standards development, and Steve Allen from the University of California Lick Observatory on "`The Time People Want`", an exploration of the history of the measurement of time and time zones. Our special thanks to all our invited guests and speakers for making our Tenth Anniversary event so engaging.
 
 *Trending  Documents, Specifications and Standards*
 
@@ -54,7 +54,7 @@ CalConnect is currently working on seventeen specifications intended for the IET
 *STATUS: AD review prior to IETF last call*
 
 Non-Gregorian Recurrence Rules in iCalendar https://datatracker.ietf.org/doc/draft-ietf-calext-rscale/ +
-_This document defines how non-Gregorian recurrence rules can be specified in iCalendar data._ +
+_This document defines how non-Gregorian recurrence rules can be specified in iCalendar data._
 
 *STATUS: working group last call (TZDIST)*
 
@@ -91,10 +91,10 @@ _This specification defines an extension to WebDAV that allows the server to pro
 WebDAV Resource Sharing https://tools.ietf.org/html/draft-pot-webdav-resource-sharing/ +
 _This specification defines an extension to WebDAV that enables the sharing of resources between users on a WebDAV server._
 
-*Trending Ã¢ Organizationally*
+*Trending Ã¢-- Organizationally*
 
 Pamela Taylor, one of the original Directors of CalConnect and who served on the +
-Board of Directors until last year, and Dave Thewlis, the Executive Director of CalConnect who has also served on the Board of Directors from CalConnect \ s inception, were honored with the link:{{'/dsa' | relative_url}}[CalConnect Distinguished Service Award].
+Board of Directors until last year, and Dave Thewlis, the Executive Director of CalConnect who has also served on the Board of Directors from CalConnect \'s inception, were honored with the link:{{'/dsa' | relative_url}}[CalConnect Distinguished Service Award].
 
 *Wrapping it all together*
 

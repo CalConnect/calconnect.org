@@ -6,6 +6,7 @@ type: news
 categories: the-world-of-calendaring general-information current-events press-releases announcements
 excerpt: The CalConnect Nottingham Conference has been rescheduled once more, to May 09-13, 2022, and another Virtual Conference scheduled for October 18-22, 2021.
 ---
+:page-liquid:
 
 == Conferences Rescheduled; Nottingham now May 2022
 
@@ -20,5 +21,4 @@ Additionally, CalConnect will host another Virtual Conference the week of Octobe
 Our apologies for the inconvenience and uncertainty. We hope the Nottingham meeting in May 2022 will be possible to hold, and hope to see you there. And meantime, we'll see you vrtually in October.
 
 
-link:{{'/taxonomy/term/17' | relative_url}}[Press Releases]
 

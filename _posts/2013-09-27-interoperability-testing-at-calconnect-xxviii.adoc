@@ -6,12 +6,13 @@ type: news
 categories: current-events special-focus the-world-of-calendaring
 excerpt: The Interoperability Test Event at CalConnect XXVIII featured 5 clients and 8 CalDAV servers tested by 13 on-site participants and two remote. In addition to the “regular” CalDAV and iMIP client/server and server/server testing, significant achievements include
 ---
+:page-liquid:
 
 == Interoperability Testing at CalConnect XXVIII
 
 Posted September 27, 2013 
 
-The Interoperability Test Event at CalConnect XXVIII featured 5 clients and 8 CalDAV servers tested by 13 on-site participants and two remote. In addition to the regular CalDAV and iMIP client/server and server/server testing, significant achievements include
+The Interoperability Test Event at CalConnect XXVIII featured 5 clients and 8 CalDAV servers tested by 13 on-site participants and two remote. In addition to the "`regular`" CalDAV and iMIP client/server and server/server testing, significant achievements include
 
 * First (and successful) tests of jCal, the JSON format for iCalendar, tested for at least three servers
 * CalDAV Managed Attachments, tested by multiple clients and servers

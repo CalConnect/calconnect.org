@@ -352,7 +352,7 @@ http://dparys.co.uk/[_d'Parys_] +
 |===
 
  +
- +
+ 
 
 [[workshops]]
 ==== Workshops and BOFs
