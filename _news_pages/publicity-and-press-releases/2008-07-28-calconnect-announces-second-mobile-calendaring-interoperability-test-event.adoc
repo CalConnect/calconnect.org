@@ -1,0 +1,17 @@
+---
+layout: page
+title:  CalConnect Announces Second Mobile Calendaring Interoperability Test Event
+type: news
+date: 2008-07-28
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*July 28, 2008* +
+*CalConnect Announces Second Mobile Calendaring Interoperability Test
+Event*: The Calendaring and Scheduling Consortium
+(link:{{'/' | relative_url }}[www.calconnect.org]) announced that its
+second Mobile Calendaring Interoperabilty Test Event will occur on
+November 4-6, 2008, in the Czech Republic, hosted by Kerio Technologies:
+link:{{'/docs/080728%20CalConnect%20Mobile%20IOP%20Test%20Event.doc' | relative_url }}[CalConnect
+Mobile Interoperabiilty Test Event].

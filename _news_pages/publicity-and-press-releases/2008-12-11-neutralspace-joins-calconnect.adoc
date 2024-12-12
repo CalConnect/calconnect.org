@@ -1,0 +1,14 @@
+---
+layout: page
+title:  neutralSpace Joins CalConnect
+type: news
+date: 2008-12-11
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*December 11, 2008* +
+*neutralSpace Joins CalConnect*: The Calendaring and Scheduling
+Consortium has announced that neutralSpace has joined the Consortium:
+link:{{'/docs/neutralSpace%20Joins%20CalConnect%20v1.doc' | relative_url }}[neutralSpace
+joins CalConnect].

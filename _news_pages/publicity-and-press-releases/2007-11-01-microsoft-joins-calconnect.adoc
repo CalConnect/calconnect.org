@@ -1,0 +1,16 @@
+---
+layout: page
+title:  Microsoft Joins CalConnect
+type: news
+date: 2007-11-01
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*November 1, 2007* +
+*Microsoft Joins CalConnect*: The Calendaring and Scheduling Consortium
+(link:{{'/' | relative_url }}[www.CalConnect.org]) has announced that
+Microsoft has joined the membership, bringing the total number of
+participating organizations to 39:
+link:{{'/docs/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft
+Joins CalConnect.doc]

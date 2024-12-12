@@ -1,0 +1,16 @@
+---
+layout: page
+title:  CalConnect initiates CalConnect _Minutes_ Newsletter
+type: news
+date: 2008-05-30
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*May 30, 2008* +
+*CalConnect initiates CalConnect _Minutes_ Newsletter*: CalConnect has
+initiated publication of a regular newsletter to be published thrice
+yearly, after each CalConnect event. The newsletter will contain
+information from the last CalConnect event and the period leading up to
+it, including new members, major initiatives, and the status of ongoing
+work: link:{{'/docs/minutes.shtml' | relative_url }}[CalConnect__Minutes__].
