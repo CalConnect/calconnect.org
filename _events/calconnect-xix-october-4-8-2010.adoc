@@ -22,25 +22,25 @@ Recent Changes:
 *Information is current through September 17, 2010* +
 _Exchanged FREEBUSY and USECASE Sessions_
 
-CalConnect XIX, consisting of CalConnect Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held in Littleton, Massachusetts on Monday-Friday, October 4-8, 2010, hosted by http://www.ibm.com[IBM/Lotus]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday October 4-5, and Wednesday morning October 6, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 6th, and last through early afternoon Friday the 8th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 5th if we have first-time attendees.
+CalConnect XIX, consisting of CalConnect Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held in Littleton, Massachusetts on Monday-Friday, October 4-8, 2010, hosted by http://www.ibm.com[IBM/Lotus].
 
-*CalConnect Interoperability Test Event*: At this meeting, we will host a regular CalConnect Interoperability Test Event. While we will not host a formal Mobile Calendaring Interoperability Test Event, if participants wish to test mobile applications or devices they are welcome to do so and we will help to establish testing pairs. +
- +
- The IOP Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1010.shtml[Interoperability Test Event October 2010] for current information. Check back often as this will be updated as more information becomes available. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-*Roundtable XIX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+The Interoperability Test Event will take place all day Monday and Tuesday October 4-5, and Wednesday morning October 6, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 6th, and last through early afternoon Friday the 8th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 5th if we have first-time attendees.
+
+*CalConnect Interoperability Test Event*: At this meeting, we will host a regular CalConnect Interoperability Test Event. While we will not host a formal Mobile Calendaring Interoperability Test Event, if participants wish to test mobile applications or devices they are welcome to do so and we will help to establish testing pairs.
+
+The IOP Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1010.shtml[Interoperability Test Event October 2010] for current information. Check back often as this will be updated as more information becomes available.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Roundtable XIX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- +
- Please be aware that Boston Logan is an International Airport and offers direct arrivals from and departures to international locations. Manchester is a regional airport and does not offer customs and immigration services. 
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+Please be aware that Boston Logan is an International Airport and offers direct arrivals from and departures to international locations. Manchester is a regional airport and does not offer customs and immigration services.
 
 [[registration]]
 Registration Information
@@ -50,20 +50,20 @@ Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options
 [[location]]
 Location
 
-The Interoperability Test Event and the Roundtable will take place at the IBM/Lotus campus at 550 King Street, Littleton, Massachusetts. We will be in the All Hands Room on the first floor for the entire week. (The User Special Interest Group on Wednesday morning will be in a separate conference room to be assigned closer to the event.) For a map of the area showing the venue location and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00048c79498f5b8f9ccd2&ll=42.560225,-71.456881&spn=0.04672,0.132093&z=14[IBM/Lotus Littleton MA, and surrounding area]. +
- +
-*Parking:* If you are driving, you may park in one of the visitor spots near the front door, or anywhere in the regular partling areas; there are no dedicated or reserved parking areas. +
- +
+The Interoperability Test Event and the Roundtable will take place at the IBM/Lotus campus at 550 King Street, Littleton, Massachusetts. We will be in the All Hands Room on the first floor for the entire week. (The User Special Interest Group on Wednesday morning will be in a separate conference room to be assigned closer to the event.) For a map of the area showing the venue location and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00048c79498f5b8f9ccd2&ll=42.560225,-71.456881&spn=0.04672,0.132093&z=14[IBM/Lotus Littleton MA, and surrounding area].
+
+*Parking:* If you are driving, you may park in one of the visitor spots near the front door, or anywhere in the regular partling areas; there are no dedicated or reserved parking areas.
+
 *Hotel Shuttles and Walking:* The hotels do not have shuttles, and are a bit more than 2 miles from the IBM building. This means that walking is doable but a bit more than people may want to undertake. Carpooling with those who have autos is probably the best alternative.
 
 [[transportation]]
 Transportation
 
-*Airport Information:* Littleton is served by both Boston's http://www.massport.com/logan/[Boston Logan International Airport], and by Manchester, New Hampshire's http://calconnect.org/www.flymanchester.com[Manchester Boston Regional Airport], and is approximately 30 miles from either. Logan will have more flights and possibly better fares, but it is a bit more complicated to get to and from the airport and may require more time. +
- +
-*Ground Transportation:* Some information on rental cars, shuttles, and public transportation is available from the airport websites. http://www.harrislimousines.com/home/[Harris Limosines] and http://www.flightlineinc.com/[Flightline Inc.] provide service from and to both airports for about $65 for Logan and $55 for Manchester one way; reservations are required. Taxi fare is approximately $75 from either airport. +
- +
- From Boston you can also take the MBTA commuter rail Fitchburg line, which has a stop in Littleton about 2.5 miles from IBM and about 5 miles from the hotels. See http://www.mbta.com/schedules_and_maps/rail/lines/stations/?stopId=105[].
+*Airport Information:* Littleton is served by both Boston's http://www.massport.com/logan/[Boston Logan International Airport], and by Manchester, New Hampshire's http://calconnect.org/www.flymanchester.com[Manchester Boston Regional Airport], and is approximately 30 miles from either. Logan will have more flights and possibly better fares, but it is a bit more complicated to get to and from the airport and may require more time.
+
+*Ground Transportation:* Some information on rental cars, shuttles, and public transportation is available from the airport websites. http://www.harrislimousines.com/home/[Harris Limosines] and http://www.flightlineinc.com/[Flightline Inc.] provide service from and to both airports for about $65 for Logan and $55 for Manchester one way; reservations are required. Taxi fare is approximately $75 from either airport.
+
+From Boston you can also take the MBTA commuter rail Fitchburg line, which has a stop in Littleton about 2.5 miles from IBM and about 5 miles from the hotels. See http://www.mbta.com/schedules_and_maps/rail/lines/stations/?stopId=105[].
 
 [[lodging]]
 Lodging
@@ -71,72 +71,72 @@ Lodging
 IBM has recommended the following hotels in the area which also offer special rates for visitors to IBM.
 
 **Conference Hotel***Westford Regency Inn & Conference Centre* +
- 219 Littleton Road +
- Westford, Massachusetts 01886 +
- (978) 692-8200 +
+219 Littleton Road +
+Westford, Massachusetts 01886 +
+(978) 692-8200 +
 http://www.westfordregency.com +
- When reserving the room, ask for the IBM rate of $85 per night and the room block for "IBM/Littleton". The room block will end on 9/12/10 but the IBM rate should still be offered if rooms are available.
+When reserving the room, ask for the IBM rate of $85 per night and the room block for "IBM/Littleton". The room block will end on 9/12/10 but the IBM rate should still be offered if rooms are available.
 
 +
 *Residence Inn Boston Westford* +
- 7 Lan Drive +
- Westford, Massachusetts 01886 +
- (978) 392-1407 +
+7 Lan Drive +
+Westford, Massachusetts 01886 +
+(978) 392-1407 +
 http://www.marriott.com/hotels/travel/bosrw-residence-inn-boston-westford/ +
- When reserving the room, ask for the IBM rate of $82 per night. Mention that you are with CalConnect as a block of rooms has been reserved for us. The room block will end on 9/3/10 but the IBM rate should still be offered if rooms are available.
+When reserving the room, ask for the IBM rate of $82 per night. Mention that you are with CalConnect as a block of rooms has been reserved for us. The room block will end on 9/3/10 but the IBM rate should still be offered if rooms are available.
 
 *Hampton Inn & Suites* +
- 9 Nixon Road +
- Westford, Massachusetts 01886 +
- (978) 392-1555 +
+9 Nixon Road +
+Westford, Massachusetts 01886 +
+(978) 392-1555 +
 http://hamptoninn.hilton.com/en/hp/hotels/index.jhtml?ctyhocn=BOSWFHX +
- When reserving the room, ask for the IBM rate of $85 per night. Mention that you are with CalConnect as a block of rooms has been reserved for us. The room block will expire in early September but the IBM rate should still be offered if rooms are available.
+When reserving the room, ask for the IBM rate of $85 per night. Mention that you are with CalConnect as a block of rooms has been reserved for us. The room block will expire in early September but the IBM rate should still be offered if rooms are available.
 
 [[test-schedule]]
 Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- A downloadable iCalendar.ics file with the entire schedule is also available for download or subscription; please see the links at the top of this page. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+A downloadable iCalendar.ics file with the entire schedule is also available for download or subscription; please see the links at the top of this page.
 
 [cols=3]
 |===
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 4 October* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 BOF: Scheduling/Rescheduling Recurring Eventrs +
- 1600-1800 Testing +
- +
- 1900-2100 IOP Test Dinner +
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 BOF: Scheduling/Rescheduling Recurring Eventrs +
+1600-1800 Testing
+
+1900-2100 IOP Test Dinner +
 _http://www.indiapalacenh.com[India Palace]_ +
- 313 Littleton Rd, Chelmsford, MA
+313 Littleton Rd, Chelmsford, MA
 .<a| *Tuesday 5 October* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF: Enhanced CalDAV Queries +
- 1430-1530 BOF: Content Negotiation in CalDAV/CardDAV +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF: Enhanced CalDAV Queries +
+1430-1530 BOF: Content Negotiation in CalDAV/CardDAV +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 6 October* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -145,69 +145,68 @@ _http://www.indiapalacenh.com[India Palace]_ +
 [[conference-schedule]]
 Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- A downloadable iCalendar.ics file with the entire schedule is also available for download or subscription; please see the links at the top of this page. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+A downloadable iCalendar.ics file with the entire schedule is also available for download or subscription; please see the links at the top of this page.
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE XIX*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 6 October* +
- 1000-1200 User Special Interest Group^2^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1430 TC FREEBUSY +
- 1430-1530 TC RESOURCE +
- 1530-1545 Break +
- 1545-1700 TC XML +
- 1700-1800 IBM: Calendaring Overview; Engineers Q&A +
- +
- 1830-2030 Welcome Reception^4^ +
-_http://westfordregency.com[Westford Regency, Hildreth Room]_ +
- 219 Littleton Road, Westford, MA
-.<a| *Thursday 7 October* +
- 0800-0830 Breakfast +
- 0830-0930 CalEco Task Force Presentation +
- 0930-1100 TC DSI +
- 1100-1130 Break +
- 1130-1230 TC EVENTPUB +
- 1230-1330 Lunch +
- 1330-1500 TC CALDAV +
- 1500-1600 TC iSCHEDULE +
- 1600-1630 Break +
- 1630-1800 Steering Committee^5^ +
- +
- 1930-2130 Group Dinner^6^ +
-_http://www.westfordgrille.com[Westford Grille]_ +
- 142 Littleton Road, Westford, MA
-.<a| *Friday 8 October* +
- 0800-0830 Breakfast +
- 0830-0930 TC MOBILE +
- 0930-1030 TC USECASE +
- 1030-1100 Break +
- 1100-1200 TC TIMEZONE +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1230-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+1000-1200 User Special Interest Group^2^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1430 TC FREEBUSY +
+1430-1530 TC RESOURCE +
+1530-1545 Break +
+1545-1700 TC XML +
+1700-1800 IBM: Calendaring Overview; Engineers Q&A
 
-3+| 
+1830-2030 Welcome Reception^4^ +
+_http://westfordregency.com[Westford Regency, Hildreth Room]_ +
+219 Littleton Road, Westford, MA
+.<a| *Thursday 7 October* +
+0800-0830 Breakfast +
+0830-0930 CalEco Task Force Presentation +
+0930-1100 TC DSI +
+1100-1130 Break +
+1130-1230 TC EVENTPUB +
+1230-1330 Lunch +
+1330-1500 TC CALDAV +
+1500-1600 TC iSCHEDULE +
+1600-1630 Break +
+1630-1800 Steering Committee^5^
+
+1930-2130 Group Dinner^6^ +
+_http://www.westfordgrille.com[Westford Grille]_ +
+142 Littleton Road, Westford, MA
+.<a| *Friday 8 October* +
+0800-0830 Breakfast +
+0830-0930 TC MOBILE +
+0930-1030 TC USECASE +
+1030-1100 Break +
+1100-1200 TC TIMEZONE +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1230-1400 CalConnect Plenary Session +
+1400 Close of Meeting
+
+3+|
 3+.<a| +
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in a separate room to be identified later. +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
-^6^All Roundtable participants are invited to the group dinner on Thursday +
- +
- +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+^6^All Roundtable participants are invited to the group dinner on Thursday
+
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
- +
++
 [[agendas]]
 ==== Topical Agendas:
 
@@ -215,101 +214,98 @@ _http://www.westfordgrille.com[Westford Grille]_ +
 |===
 .<a| +
 *IBM Host Session* Wed 1700-1800 +
- Calendaring Oveview +
- Q&A with IBM Engineers +
- +
+Calendaring Oveview +
+Q&A with IBM Engineers
+
 *TC CALDAV* Thu 1330-1500 +
- 1. Overview +
- 1.1 Charter +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 Distributed Deployments +
- 3.2 Managed Attachments +
- 3.3 Attendee Modifications +
- 3.4 Extended Queries +
- 3.5 Shared Calendars +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls +
- +
+1. Overview +
+1.1 Charter +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 Distributed Deployments +
+3.2 Managed Attachments +
+3.3 Attendee Modifications +
+3.4 Extended Queries +
+3.5 Shared Calendars +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
+
 *TC DSI* Thu 0930-1100 +
- 1. Review charter +
- 2. Roadmap for the effort +
- 3. Progress so far on the icon +
- 4. Next steps: user experience design +
- 5. Discussion: How do we... +
- 5.1 move forward on the icon design? +
- 5.2 convince vendors to use our ideas? +
- 6. Recruiting and call schedule +
- +
+1. Review charter +
+2. Roadmap for the effort +
+3. Progress so far on the icon +
+4. Next steps: user experience design +
+5. Discussion: How do we... +
+5.1 move forward on the icon design? +
+5.2 convince vendors to use our ideas? +
+6. Recruiting and call schedule
+
 *TC EVENTPUB* Wed 1130-1130 +
- 1. Synposis +
- 2. General discussion & update +
- 3. Goals for next Roundtable +
- 4. How to find us & participate +
- 5. Q & A +
- +
+1. Synposis +
+2. General discussion & update +
+3. Goals for next Roundtable +
+4. How to find us & participate +
+5. Q & A
+
 *TC FREEBUSY* Fri 0930-1030 +
- 1. History +
- 2. Presentation of VPOLL Interaction +
- 3. Questions +
- 4. Next Conference Calls +
- +
+1. History +
+2. Presentation of VPOLL Interaction +
+3. Questions +
+4. Next Conference Calls
+
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 .<a| +
 *TC iSCHEDULE* Thu 1500-1600 +
- 1. Overview +
- 1.1 Charter +
- 2. Progress and Status Update +
- 2. Open Discussions +
- 2.1 DomainKeys Identified Mail +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls +
- +
+1. Overview +
+1.1 Charter +
+2. Progress and Status Update +
+2. Open Discussions +
+2.1 DomainKeys Identified Mail +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
+
 *TC MOBILE* Fri 0830-0930 +
- 1. Update on TC activities +
- 2. Feedback from Mobile Calendaring IOP Test Event +
- 3. Reportout on published Test Report document +
- 4. Planning for Mobile Calendaring IOP Test Event in February +
- 5. Outreach efforts +
- 6. Call for new Chair for TC MOBILE +
- 7. Next TC call +
- +
+1. Update on TC activities +
+2. Feedback from Mobile Calendaring IOP Test Event +
+3. Reportout on published Test Report document +
+4. Planning for Mobile Calendaring IOP Test Event in February +
+5. Outreach efforts +
+6. Call for new Chair for TC MOBILE +
+7. Next TC call
+
 *TC RESOURCE* Wed 1430-1530 +
- 1. TC Charter +
- 2. Status of draft "Schema for representing calendar resources" +
- 2.1 Draft implementations - Issues & Resolutions +
- 2.2 Discovery of resources +
- 2.3 Presentation of Apple's Principal Search Solution to discover resources +
- 3.Call for Participation & Next Call Details +
- +
+1. TC Charter +
+2. Status of draft "Schema for representing calendar resources" +
+2.1 Draft implementations - Issues & Resolutions +
+2.2 Discovery of resources +
+2.3 Presentation of Apple's Principal Search Solution to discover resources +
+3.Call for Participation & Next Call Details
+
 *TC TIMEZONE* Fri 1100-1200 +
- 1. Report on Olson issues +
- 2. Unresolved issues with XML format +
- 3. State of implementations +
- 4. Discuss pass by reference and specifically etags +
- 5. Questions +
- 6. Next call +
- +
+1. Report on Olson issues +
+2. Unresolved issues with XML format +
+3. State of implementations +
+4. Discuss pass by reference and specifically etags +
+5. Questions +
+6. Next call
+
 *TC USECASE* Wed 1330-1430 +
- 1. Usecases for iSchedule +
- 2. Discuss Glossary Revision +
- +
+1. Usecases for iSchedule +
+2. Discuss Glossary Revision
+
 *TC XML* Wed 1545-1700 +
- 1. Report on progress of xCal through IETF +
- 2. Report on CalWS-REST +
- 3. Next steps +
- 4, Next call
+1. Report on progress of xCal through IETF +
+2. Report on CalWS-REST +
+3. Next steps +
+4, Next call
 
 |===
 
- +
- 
 
 ==== Scheduled BOFs
- Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable. +
- 
+Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable. +

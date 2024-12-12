@@ -18,7 +18,7 @@ Three times a year, we hold a CalConnect Interoperability Test Event (C.I.T.E.) 
 
 Come to the Roundtable and find out what's going on in CalDAV, mobile calendaring, iSchedule, event publication, iCalendar and XML, and other areas CalConnect is working on. Here's a chance to decide if you want to part of the work, and help drive the future of calendaring and scheduling. Our goal for calendaring and scheduling is ubiquity and seamless interoperability.
 
-For more information about CalConnect XX, see http://calconnect.org/calconnect20[]. For more information about our nonprofit consortium, see link:{{'/' | relative_url}}[]. You can e-mail us at "`contact at calconnect.org`" or call at 707-840-9391 with questions. (Please note, that, not surprisingly, there are separate registration fees for attending these events, for members and non-members alike.)
+For more information about CalConnect XX, see link:{{'/calconnect20' | relative_url}}[]. For more information about our nonprofit consortium, see link:{{'/' | relative_url}}[]. You can e-mail us at "`contact at calconnect.org`" or call at 707-840-9391 with questions. (Please note, that, not surprisingly, there are separate registration fees for attending these events, for members and non-members alike.)
 
 We look forward to welcoming you in February!
 

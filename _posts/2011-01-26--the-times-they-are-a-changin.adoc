@@ -16,7 +16,7 @@ Although I promised in my most recent posting, "`Read Any Good Timezones Lately`
 
 The NY Times editorial, brief as it is, really captures essence of many of the issues associated with timezones. The proposal in front of the British Parliament, "`a bill to require the Secretary of State to conduct a cross-departmental analysis of the potential costs and benefits of advancing time by one hour for all, or part of, the year; to require the Secretary of State to take certain action in the light of that analysis; and for connected purposes`", is reminiscent in some respects, of the provisions in The U.S. Energy Policy Act of 2005 (EPACT 2005), which changed the start and end dates of daylight saving time (DST) in the U.S., and also directed the U.S. Congress to determine if there was a positive effect on energy usage or conservation.
 
-We can infer from a calendaring and CalConnect perspective: 
+We can infer from a calendaring and CalConnect perspective:
 
 1. As I observed in "`Timezones and How They Get that Way`", Time is the most ethereal of our measures, and, perhaps, the one people have the most intimate, personal, and complex relationship with. Attempts to measure and manipulate time have evoked strong emotions and reactions, and the relatively brief history of timezones is no different. Scotland, whose northernmost settlements in the Shetlands are roughly 650 miles from London and at roughly the same latitude as Fairbanks, Alaska, is less enthusiastic about the potential daylight saving time changes than perhaps those in southern Britain.
 
@@ -32,17 +32,19 @@ As the Times editorial concludes, "`In our split-second, coordinated world, the 
 
 References:
 
-DST in Britain: +
-http://www.nytimes.com/2011/01/21/world/europe/21inverness.html +
-http://services.parliament.uk/bills/2010-11/daylightsaving.html +
-http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm101203/debtext/101203-0001.htm#10120330000001 +
-http://www.nytimes.com/2011/01/24/opinion/24mon4.html?ref=opinion +
-http://www.publications.parliament.uk/pa/cm201011/cmbills/007/11007.i-i.html
+DST in Britain:
 
-CalConnect's technical work in timezones: +
-http://calconnect.org/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf +
-http://calconnect.org/CD1007%20Timezone%20Service +
-http://calconnect.org/CD1008%20Timezone%20XML
+* http://www.nytimes.com/2011/01/21/world/europe/21inverness.html
+* http://services.parliament.uk/bills/2010-11/daylightsaving.html
+* http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm101203/debtext/101203-0001.htm#10120330000001
+* http://www.nytimes.com/2011/01/24/opinion/24mon4.html?ref=opinion
+* http://www.publications.parliament.uk/pa/cm201011/cmbills/007/11007.i-i.html
+
+CalConnect's technical work in timezones:
+
+* link:{{'/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url}}[]
+* link:{{'/CD1007%20Timezone%20Service.pdf' | relative_url}}[]
+* link:{{'/CD1008%20Timezone%20XML.pdf' | relative_url}}[]
 
 Gary Schwartz +
 President, The Calendaring and Scheduling Consortium
