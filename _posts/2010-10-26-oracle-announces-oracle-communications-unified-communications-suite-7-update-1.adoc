@@ -4,7 +4,7 @@ title: Oracle announces Oracle Communications Unified Communications Suite 7 upd
 date: 2010-10-26
 type: news
 categories: announcements member-news special-focus
-excerpt: Oracle recently announced the release of Oracle Communications Unified Communications Suite 7 Update 1 at Oracle Open World in San Francisco. Oracle Communications Unified Communications Suite (formerly Sun Java System Communications Suite) is a carrier-grade, highly scalable, secure, and reliable messaging and collaboration platform. It enables service providers to quickly bring to market a full-featured communication platform—one that takes advantage of existing and emerging standards, includes innovations in message management, and better enables cost-effective communication.
+excerpt: Oracle recently announced the release of Oracle Communications Unified Communications Suite 7 Update 1 at Oracle Open World in San Francisco.
 ---
 :page-liquid:
 

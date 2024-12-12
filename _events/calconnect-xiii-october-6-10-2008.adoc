@@ -16,46 +16,46 @@ Friday, June 06, 2008 to Tuesday, June 10, 2008
 Recent Changes:
 
 Information current to September 25, 2008 +
- Topical Agendas +
- More information on change of venue for Thursday only to Yahoo Main Campus
+Topical Agendas +
+More information on change of venue for Thursday only to Yahoo Main Campus
 
-CalConnect XIII, consisting of both a CalConnect Interoperability Test Event, followed by a CalConnect Roundtable (Members Meeting), will be held in Santa Clara, California, Monday-Friday, October 6-10, 2008, hosted by http://info.yahoo.com[Yahoo/Zimbra] +
- +
- The IOP Testing will take place all day Monday and Tuesday, and Wednesday morning, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 8th, and last through early afternoon Friday the 10th. An optional Introductory Q & A about CalConnect is scheduled at 11:00 on Wednesday the 8th.
+CalConnect XIII, consisting of both a CalConnect Interoperability Test Event, followed by a CalConnect Roundtable (Members Meeting), will be held in Santa Clara, California, Monday-Friday, October 6-10, 2008, hosted by http://info.yahoo.com[Yahoo/Zimbra]
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop0810.shtml[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. Please see http://calconnect.org/miop0811.shtml[Mobile IOP Test Event November 4-6 2008] for more information about the next Mobile IOP Test Event._ +
- +
-*Roundtable XIII:* The Roundtable Members Meeting will as usual offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. A Technical Preview of current work is also planned; see below. +
- +
- Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
+The IOP Testing will take place all day Monday and Tuesday, and Wednesday morning, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 8th, and last through early afternoon Friday the 10th. An optional Introductory Q & A about CalConnect is scheduled at 11:00 on Wednesday the 8th.
+
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop0810.shtml[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. Please see http://calconnect.org/miop0811.shtml[Mobile IOP Test Event November 4-6 2008] for more information about the next Mobile IOP Test Event._
+
+*Roundtable XIII:* The Roundtable Members Meeting will as usual offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. A Technical Preview of current work is also planned; see below.
+
+Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
 
 [[registration]]
 Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. +
- +
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event.
+
 *Please note:* After September 21st the registration fee is now *$395*.
 
 [[location]]
 Location
 
-*Monday, Tuesday, Wednesday,* and *Friday* we will be in *Building 2, Training Rooms 5&6* at the *Yahoo! Mission College Campus in Santa Clara* at 2821 Mission College Boulevard, Santa Clara, California, 95054. (This location is about two miles south of the main Yahoo! Sunnyvale campus.) http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&lat=37.390832&lon=-121.978496&zoom=15&q1=2821%20Mission%20College%20Blvd%2C%20Santa%20Clara%2C%20CA%2C%2095054&gid1=31215286[Yahoo! Mission College Campus]. There are no parking restrictions at the Mission College Campus location; you may park wherever you find a place. This location is also within walking distance from the hotels listed below. +
- +
- On **Thursday ONLY**, we will meet all day in *Building F, Classroom "SS MINNOW"* on the *Yahoo! Main Campus in Sunnyvale* at 1350 North Mathilda Avenue, Sunnyvale, California 94089 http://maps.yahoo.com/index.php?ard=1&q1=1350+North+Mathilda+Avenue%2C+Sunnyvale%2C+CA+94089&q2=#mvt=m&lat=37.415728&lon=-122.024625&zoom=15&q1=1350%20North%20Mathilda%20Avenue%2C%20Sunnyvale%2C%20CA%2094089[Yahoo! Main Campus Location]. Coming from US 101 on Mathilda Avenue, right on First / Bordeaux Avenue and then right into parking lots. There is ample parking and no problem with security. http://calconnect.org/yahoo-sunnyvale-campus.png[Arrival at Building F]. Alternatively, you may take the *Yahoo! shuttle busses between the campuses* (they run every 20 minutes). http://calconnect.org/Yahoo%20Intercampus.shuttle.schedule.1.28.2008.pdf[Shuttle Schedule and pickup/dropoff points]. +
- +
+*Monday, Tuesday, Wednesday,* and *Friday* we will be in *Building 2, Training Rooms 5&6* at the *Yahoo! Mission College Campus in Santa Clara* at 2821 Mission College Boulevard, Santa Clara, California, 95054. (This location is about two miles south of the main Yahoo! Sunnyvale campus.) http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&lat=37.390832&lon=-121.978496&zoom=15&q1=2821%20Mission%20College%20Blvd%2C%20Santa%20Clara%2C%20CA%2C%2095054&gid1=31215286[Yahoo! Mission College Campus]. There are no parking restrictions at the Mission College Campus location; you may park wherever you find a place. This location is also within walking distance from the hotels listed below.
+
+On **Thursday ONLY**, we will meet all day in *Building F, Classroom "SS MINNOW"* on the *Yahoo! Main Campus in Sunnyvale* at 1350 North Mathilda Avenue, Sunnyvale, California 94089 http://maps.yahoo.com/index.php?ard=1&q1=1350+North+Mathilda+Avenue%2C+Sunnyvale%2C+CA+94089&q2=#mvt=m&lat=37.415728&lon=-122.024625&zoom=15&q1=1350%20North%20Mathilda%20Avenue%2C%20Sunnyvale%2C%20CA%2094089[Yahoo! Main Campus Location]. Coming from US 101 on Mathilda Avenue, right on First / Bordeaux Avenue and then right into parking lots. There is ample parking and no problem with security. http://calconnect.org/yahoo-sunnyvale-campus.png[Arrival at Building F]. Alternatively, you may take the *Yahoo! shuttle busses between the campuses* (they run every 20 minutes). http://calconnect.org/Yahoo%20Intercampus.shuttle.schedule.1.28.2008.pdf[Shuttle Schedule and pickup/dropoff points].
+
 *Visitor Registration:* We will provide a list of registered individuals to our hosts the week prior to the event. When you arrive, come to Building 2, and a visitor badge will be waiting for you; you will then be "buzzed" into the secure area. _If there is no badge waiting for you, please have them check with Training Rooms 5&6 or call 707-498-2238 (Dave Thewlis)._
 
 [[transportation]]
 Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.sjc.org/[San Jose Mineta Airport (SJC)], http://www.flysfo.com/default.asp[San Francisco International (SFO)], and http://www.flyoakland.com/[Oakland International (OAK)]. +
- +
- Santa Clara is approximately eight miles from the San Jose Airport, and approximately 30 miles from San Francisco International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK. +
- +
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.sjc.org/[San Jose Mineta Airport (SJC)], http://www.flysfo.com/default.asp[San Francisco International (SFO)], and http://www.flyoakland.com/[Oakland International (OAK)].
+
+Santa Clara is approximately eight miles from the San Jose Airport, and approximately 30 miles from San Francisco International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK.
+
 *Ground Transportation:* Information on rental cars and shuttles are available on all three airport websites.
 
 [[lodging]]
@@ -64,85 +64,85 @@ Lodging
 There are many hotels close to the Mission College Campus. The four hotels listed below all offer Yahoo! corporate rates and are within walking distance. The Holiday Inn is only about two blocks, followed by the Marriott, the Hyatt Regency, and the Biltmore at a bit over a mile. The Biltmore is fairly close to the 101 Freeway.
 
 Holiday Inn Santa Clara-Great America +
- 4200 Great America Pkwy +
- Santa Clara, CA 95054 +
- Phone: 408-235-8900 +
- Free internet +
- Complimentary shuttle to/from San Jose Airport +
- Yahoo Rate: $119, $149 Executive Room +
- +
- Hyatt Regency Santa Clara +
- 5101 Great America Parkway +
- Santa Clara, California , USA 95054 +
- Tel: +1 408 200 1234 Fax: +1 408 980 3990 +
+4200 Great America Pkwy +
+Santa Clara, CA 95054 +
+Phone: 408-235-8900 +
+Free internet +
+Complimentary shuttle to/from San Jose Airport +
+Yahoo Rate: $119, $149 Executive Room
+
+Hyatt Regency Santa Clara +
+5101 Great America Parkway +
+Santa Clara, California , USA 95054 +
+Tel: +1 408 200 1234 Fax: +1 408 980 3990 +
 http://santaclara.hyatt.com/hyatt/hotels/ +
- Internet $9.95/24 hours +
- Yahoo Rate $180
+Internet $9.95/24 hours +
+Yahoo Rate $180
 
 Marriott Santa Clara +
- 2700 Mission College Boulevard +
- Santa Clara, California 95054 USA +
- Phone: 1-408-988-1500 +
- Fax: 1-408-352-4353 +
- Sales fax: 1-408-748-9529 +
+2700 Mission College Boulevard +
+Santa Clara, California 95054 USA +
+Phone: 1-408-988-1500 +
+Fax: 1-408-352-4353 +
+Sales fax: 1-408-748-9529 +
 http://www.marriott.com/hotels/travel/sjcga-santa-clara-marriott/ +
- Internet $9.95/24 hours +
- Yahoo Rate: $184 +
- +
- Biltmore Hotel and Suites +
- 2151 Laurelwood Road, Santa Clara, CA 95054 +
- Tel: 408.988.8411 Reservations/Sales: 800.255.9925 +
+Internet $9.95/24 hours +
+Yahoo Rate: $184
+
+Biltmore Hotel and Suites +
+2151 Laurelwood Road, Santa Clara, CA 95054 +
+Tel: 408.988.8411 Reservations/Sales: 800.255.9925 +
 http://www.hotelbiltmore.com/ +
- Free Internet +
- Yahoo Rate: $127, $147 suite
+Free Internet +
+Yahoo Rate: $127, $147 suite
 
 [[test-schedule]]
 Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. The exact assignment of TC sessions to dates and times is tentative and will probably change. A final schedule and agendas for the sessions and BOFs will be posted nearer to the event. +
- +
- A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. The exact assignment of TC sessions to dates and times is tentative and will probably change. A final schedule and agendas for the sessions and BOFs will be posted nearer to the event.
+
+A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
 |===
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 6 October* +
- *Yahoo! Mission College Campus, +
- Bldg 2, Training Rooms 5&6* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 BOFs/Break +
- 1600-1800 Testing +
- +
- 1900-2030 IOP Test Dinner +
- _Location TBA at event_ 
+*Yahoo! Mission College Campus, +
+Bldg 2, Training Rooms 5&6* +
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 BOFs/Break +
+1600-1800 Testing
+
+1900-2030 IOP Test Dinner +
+_Location TBA at event_
 .<a| *Tuesday 7 October* +
- *Yahoo! Mission College Campus, +
- Bldg 2, Training Rooms 5&6* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+*Yahoo! Mission College Campus, +
+Bldg 2, Training Rooms 5&6* +
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 8 October* +
- *Yahoo! Mission College Campus, +
- Bldg 2, Training Rooms 5&6* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+*Yahoo! Mission College Campus, +
+Bldg 2, Training Rooms 5&6* +
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -151,65 +151,66 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
 [[conference-schedule]]
 Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. The exact assignment of TC sessions to dates and times is tentative and will probably change. A final schedule and agendas for the sessions and BOFs will be posted nearer to the event. +
- +
- A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. The exact assignment of TC sessions to dates and times is tentative and will probably change. A final schedule and agendas for the sessions and BOFs will be posted nearer to the event.
+
+A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE XIII*
 
 .<a| *Wednesday 8 October* +
- *Yahoo! Mission College Campus, +
- Bldg 2, Training Rooms 5&6* +
- 1115-1200 Introduction to CalConnect^2^ +
- 1230-1330 Lunch/Opening +
- 1330-1430 TC TIMEZONE (new time) +
- 1430-1530 TC XML (new time) +
- 1530-1600 Break +
- 1600-1800 Tech Demos: +
-  Freebusy URL +
-  CalDAV Scheduling +
-  iSCHEDULE Server-Server Scheduling +
- +
- 1800-1930 Welcome Reception^3^ +
- On site; Hosted by Yahoo/Zimbra
-.<a| *Thursday 9 October* +
- *Yahoo! Sunnyvale Campus, +
- Bldg F, Classroom "SS Minnow"* +
- 0800-0830 Breakfast +
- 0830-0930 TC MOBILE +
- 0930-1000 IOP Virtual Test Area Demo +
- 1000-1030 Break +
- 1030-1230 TC CALDAV (new time) +
- 1230-1330 Lunch +
- 1330-1500 TC iSCHEDULE +
- 1500-1600 TC FREEBUSY +
- 1600-1630 Break +
- 1630-1800 Steering Committee +
- +
- 1930-2130 Group Dinner^3^ +
- _Location TBA at event_ 
-.<a| *Friday 10 October* +
- *Yahoo! Mission College Campus, +
- Bldg 2, Training Rooms 5&6* +
- 0800-0830 Breakfast +
- 0830-1000 TC EVENTPUB +
- 1000-1030 Break +
- 1030-1200 TC USECASE +
- 1200-1300 Working Lunch +
- 1200-1245 TC Wrapup +
- 1245-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+*Yahoo! Mission College Campus, +
+Bldg 2, Training Rooms 5&6* +
+1115-1200 Introduction to CalConnect^2^ +
+1230-1330 Lunch/Opening +
+1330-1430 TC TIMEZONE (new time) +
+1430-1530 TC XML (new time) +
+1530-1600 Break +
+1600-1800 Tech Demos: +
+Freebusy URL +
+CalDAV Scheduling +
+iSCHEDULE Server-Server Scheduling
 
-3+| 
-3+.<a| ^1^The Wednesday noon lunch is for all opening break is for all attendees as they arrive +
+1800-1930 Welcome Reception^3^ +
+On site; Hosted by Yahoo/Zimbra
+.<a| *Thursday 9 October* +
+*Yahoo! Sunnyvale Campus, +
+Bldg F, Classroom "SS Minnow"* +
+0800-0830 Breakfast +
+0830-0930 TC MOBILE +
+0930-1000 IOP Virtual Test Area Demo +
+1000-1030 Break +
+1030-1230 TC CALDAV (new time) +
+1230-1330 Lunch +
+1330-1500 TC iSCHEDULE +
+1500-1600 TC FREEBUSY +
+1600-1630 Break +
+1630-1800 Steering Committee
+
+1930-2130 Group Dinner^3^ +
+_Location TBA at event_
+.<a| *Friday 10 October* +
+*Yahoo! Mission College Campus, +
+Bldg 2, Training Rooms 5&6* +
+0800-0830 Breakfast +
+0830-1000 TC EVENTPUB +
+1000-1030 Break +
+1030-1200 TC USECASE +
+1200-1300 Working Lunch +
+1200-1245 TC Wrapup +
+1245-1400 CalConnect Plenary Session +
+1400 Close of Meeting
+
+3+|
+3+.<a|
+^1^The Wednesday noon lunch is for all opening break is for all attendees as they arrive +
 ^2^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^3^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
-^4^All Roundtable participants are invited to the group dinner +
- +
- +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+^4^All Roundtable participants are invited to the group dinner
+
++
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
@@ -219,64 +220,64 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
 [cols=2]
 |===
 .<a| *TC CALDAV* Thu 1030-1230 +
- 1. Progress and Status Update +
- 1.1 IETF +
- 1.2 CalConnect +
- 1.3 CalDAV Scheduling +
- 2. Open Discussions +
- 2.1 Common Access Control Approach +
- 2.2 CalDAV Extensions +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls +
- +
+1. Progress and Status Update +
+1.1 IETF +
+1.2 CalConnect +
+1.3 CalDAV Scheduling +
+2. Open Discussions +
+2.1 Common Access Control Approach +
+2.2 CalDAV Extensions +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
+
 *TC EVENTPUB* Fri 0830-1000 +
- 1. Event Publishing use cases +
- 2. Discussion: VCARD use for specifying location +
- 3. Going forward +
- +
+1. Event Publishing use cases +
+2. Discussion: VCARD use for specifying location +
+3. Going forward
+
 *TC FREEBUSY* Thu 1500-1600 +
- 1. A Brief History of TC-FREEBUSY; Progress/activities since RT XII +
- 2. Walkthrough of FBURL draft; review of FB URL Tech Preview +
- 3. Whither are we drifting ï¿½ What will we focus on next? +
- +
+1. A Brief History of TC-FREEBUSY; Progress/activities since RT XII +
+2. Walkthrough of FBURL draft; review of FB URL Tech Preview +
+3. Whither are we drifting ï¿½ What will we focus on next?
+
 *TC IOPTEST* Wed 1315-1330 +
- 1. Review of IOP test participant findings +
- +
+1. Review of IOP test participant findings
+
 *TC iSCHEDULE* Thu 1330-1500 +
- 1. Progress and Status Update +
- 2. Open discussion on Security (Authentication/Authorization) +
- 3. Plan of Action +
- 4. Next Conference Calls
+1. Progress and Status Update +
+2. Open discussion on Security (Authentication/Authorization) +
+3. Plan of Action +
+4. Next Conference Calls
 .<a| *TC MOBILE* Thu 0830-0930 +
- 1. Charter and Milestones to date +
- 2. Progress on work activities since Roundtable XII +
- 2.1 Updates to Mobile Recurrence white paper +
- 2.2 Updates to Mobile Calendaring IOP Test Suite +
- 3. Plans for Mobile Calendaring IOP Test Event in November 2008 +
- 4. Planning for future work +
- 4.1 Mobile Calendaring Workshop and Lab +
- 4.2 CalDAV and Mobile Calendaring +
- +
+1. Charter and Milestones to date +
+2. Progress on work activities since Roundtable XII +
+2.1 Updates to Mobile Recurrence white paper +
+2.2 Updates to Mobile Calendaring IOP Test Suite +
+3. Plans for Mobile Calendaring IOP Test Event in November 2008 +
+4. Planning for future work +
+4.1 Mobile Calendaring Workshop and Lab +
+4.2 CalDAV and Mobile Calendaring
+
 *TC TIMEZONE* Wed 1330-1430 +
- 1. Progress since Roundtable XII +
- 2. Presentation of draft RFC +
- 3. Further discussion - next steps +
- 4. Discussion: Timezone Workshop at February Roundtable +
- +
+1. Progress since Roundtable XII +
+2. Presentation of draft RFC +
+3. Further discussion - next steps +
+4. Discussion: Timezone Workshop at February Roundtable
+
 *TC USECASE* Fri 1030-1200 +
- 1. Present for group comments our Resources Recommendation document +
- 2. Group discussion +
- 3. Possible next steps +
- +
+1. Present for group comments our Resources Recommendation document +
+2. Group discussion +
+3. Possible next steps
+
 *TC XML* Wed 1430-1530 +
- 1. Review discussion since last Roundtable. +
- 2. Discuss plan for producing a specification. +
- 3. Discuss any outstanding issues. +
- +
+1. Review discussion since last Roundtable. +
+2. Discuss plan for producing a specification. +
+3. Discuss any outstanding issues.
+
 *SCHEDULED BOFS*
 
 |===
 
 +
- Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session during the Roundtable.
+Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session during the Roundtable.

@@ -9,13 +9,15 @@ image: /assets/images/HongKong_0.jpg
 
 == CalConnect XXXVI - April 18-22, 2016
 
-=== CalConnect Interoperability Test Event - Monday-Tuesday +
-link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url }}[CalConnect Public Day] at http://www.itfest.hk/template?series=2&id=141&lang=en#[Hong Kong ITFest] - Wednesday +
-CalConnect Conference - Thursday-Friday
+* CalConnect Interoperability Test Event - Monday-Tuesday
+
+* link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url }}[CalConnect Public Day] at http://www.itfest.hk/template?series=2&id=141&lang=en#[Hong Kong ITFest] - Wednesday
+
+* CalConnect Conference - Thursday-Friday
+
 
 [[intro]]
-image:{{'/assets/images/HongKong_0.jpg' | relative_url }}[Hong
-Kong,width=800,height=402]
+image:{{'/assets/images/HongKong_0.jpg' | relative_url }}[Hong Kong,width=800,height=402]
 
 Join us for CalConnect XXXVI Hong Kong, April 18-22 2016
 
@@ -37,19 +39,19 @@ March 9, 2016 - Test Event list of Developer Discussion Topics has been revised 
 
 March 3, 2016 - The Conference Schedule has been added to the Conference Section. A link to registration for the Public Day added to the Registration section of this page. Information about the optional Tours on Saturday has been provided.
 
-CalConnect XXXVI, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Hong Kong on April 18-22, 2016, hosted byhttp://www.ribose.com[Ribose]andhttp://www.ogcio.gov.hk/[OGCIO]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday April 18-19. Wednesday April 20 will be an https://www.itfest.hk/template?series=2&id=141&lang=en#[all-day Public Event] hosted by CalConnect at the https://www.itfest.hk/template[Hong Kong ITFest]. The Conference will be Thursday and Friday, April 21-22. +
- +
-*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available. +
- +
-_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
- +
+CalConnect XXXVI, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Hong Kong on April 18-22, 2016, hosted byhttp://www.ribose.com[Ribose]andhttp://www.ogcio.gov.hk/[OGCIO].
+
+The Interoperability Test Event will take place all day Monday and Tuesday April 18-19. Wednesday April 20 will be an https://www.itfest.hk/template?series=2&id=141&lang=en#[all-day Public Event] hosted by CalConnect at the https://www.itfest.hk/template[Hong Kong ITFest]. The Conference will be Thursday and Friday, April 21-22.
+
+*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available.
+
+_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
 *CalConnect Public Day:* The Public Day is Wednesday April 20 at the Hong Kong Convention Centre. The schedule for the day is available at https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[]. Please see:https://www.itfest.hk/template?series=2&id=141&lang=en# for more information about the Hong Kong ITFEST and the Public Day.
 
-*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome. +
- +
- The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+*CalConnect Conference:* The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+
+The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
@@ -61,7 +63,7 @@ Morning coffee and rolls, lunch, and morning and afternoon breaks will be served
 
 Dress at all CalConnect events is casual to business casual.
 
-==== Optional Tours following the CalConnect event
+=== Optional Tours following the CalConnect event
 
 For information about the two optional tours on Saturday after the close of the CalConnect event please see https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday-23-april-2016[https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday...].
 
@@ -83,8 +85,7 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 * http://www.hku.hk/[The University of Hong Kong]
 ==== Supporting Organizations
 
-* https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
- Hon. Charles Mok, JP, Legislative Councillor (IT)]
+* https://www.charlesmok.hk/[Office of the Hon. Charles Mok, Hon. Charles Mok, JP, Legislative Councillor (IT)]
 * http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
@@ -93,6 +94,7 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 * http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
 * http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
 * http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
+
 ==== Special thanks to
 
 * https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
@@ -131,86 +133,86 @@ https://www.cyberport.hk/en/about_cyberport/about_cyberport_map
 [[transportation]]
 Transportation
 
-*Airport Information:* Hong Kong is served by http://www.hongkongairport.com[Hong Kong International Airport], on the island of Chek Lap Kok. Direct flights are available from many international destinations. +
- +
-*Ground Transportation:* +
- +
- The Airport Express train runs from the airport to (Central) Hong Kong Terminal every 12 minutes and costs about $100 Hong Kong dollars; it takes about 25 minutes. From there if you are going to the Le Meridien hotel they offer an hourly shuttle, or you can take a taxi for about $90 HK. +
- +
- A taxi from the airport directly to Cyberport takes about 45 minutes and costs about $380 Hong Kong dollars.  Uber is illegal in Hong Kong.
+*Airport Information:* Hong Kong is served by http://www.hongkongairport.com[Hong Kong International Airport], on the island of Chek Lap Kok. Direct flights are available from many international destinations.
+
+*Ground Transportation:*
+
+The Airport Express train runs from the airport to (Central) Hong Kong Terminal every 12 minutes and costs about $100 Hong Kong dollars; it takes about 25 minutes. From there if you are going to the Le Meridien hotel they offer an hourly shuttle, or you can take a taxi for about $90 HK.
+
+A taxi from the airport directly to Cyberport takes about 45 minutes and costs about $380 Hong Kong dollars.  Uber is illegal in Hong Kong.
 
 [[lodging]]
 Lodging
 
-Three hotels are offering room blocks and a special rate for CalConnect attendees, the Mandarin Oriental and Landmark Mandarin Oriental in Central Hong Kong, and Le M©ridien at the Cyberport (where our event is located). You may book at any of these hotels immediately, but you must do it via telephone, or by filling out a reservation form and faxing it to the hotel. Please note that the special rate is available from two days prior to two days after our event; that is between 16 and 24 April 2016. +
- +
- All hotel fees are inclusive of internet and offer a choice of king/double beds and smoking/nonsmoking rooms. +
- +
- Additionally, we have identified three additional hotels within a 10 minute taxi ride which may have availability. +
- +
- +
+Three hotels are offering room blocks and a special rate for CalConnect attendees, the Mandarin Oriental and Landmark Mandarin Oriental in Central Hong Kong, and Le M©ridien at the Cyberport (where our event is located). You may book at any of these hotels immediately, but you must do it via telephone, or by filling out a reservation form and faxing it to the hotel. Please note that the special rate is available from two days prior to two days after our event; that is between 16 and 24 April 2016.
+
+All hotel fees are inclusive of internet and offer a choice of king/double beds and smoking/nonsmoking rooms.
+
+Additionally, we have identified three additional hotels within a 10 minute taxi ride which may have availability.
+
++
 http://www.starwoodhotels.com/lemeridien/property/overview/index.html?propertyID=1826&language=en_US[*Le M©ridien Cyberport*] +
- Cyberport 1, 100 Cyberport Road, Hong Kong +
- +852 2980 7788 +
- +
- 30 Smart rooms, 10 Deluxe Ocean. $1,280 / $1,780; plus 10% service charge. Buffet breakfast charged separately at $150+10%/person. +
- +
- Room block: 20 released at 60 days, 10 more at 45 days, and the remaining 10 at 30 days. However the CalConnect rate will still be offered if they have availability up to the week of the event. +
- +
- Cancellation policy: before 17 March 1 night charged; after 17 March full booked period charged. +
- +
- To book contact: +
- Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridien.com[wency.au@lemeridien.com] +
- +852 2980 7812 (Monday to Friday (0900 -- 1800hrs)) +
- Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._) +
- +
- +
+Cyberport 1, 100 Cyberport Road, Hong Kong +
++852 2980 7788
+
+30 Smart rooms, 10 Deluxe Ocean. $1,280 / $1,780; plus 10% service charge. Buffet breakfast charged separately at $150+10%/person.
+
+Room block: 20 released at 60 days, 10 more at 45 days, and the remaining 10 at 30 days. However the CalConnect rate will still be offered if they have availability up to the week of the event.
+
+Cancellation policy: before 17 March 1 night charged; after 17 March full booked period charged.
+
+To book contact: +
+Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridien.com[wency.au@lemeridien.com] +
++852 2980 7812 (Monday to Friday (0900 -- 1800hrs)) +
+Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._)
+
++
 http://www.mandarinoriental.com/landmark/[*The Landmark Mandarin Oriental*] +
- 15 Queen's Road Central, Hong Kong +
- +852 2132 0188 +
- +
- L450 room for HK $3,700 including breakfast for two; plus 10%Q service fee. +
- +
- Room block: 20 rooms until 60 days out; 10 rooms until 30 days out; block released 30 days out. +
- +
- Cancellation policy: Before 17 March no penalty; after 17 March full booked period charged. +
- +
- To book contact their reservation Hotline: +852 2820 4202 +
- Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mahkg-reservations@mohg.com] +
- +
- +
-http://www.mandarinoriental.com/hongkong/?htl=MOHKG&eng=google&src=local[The Mandarin Oriental Hong Kong] +
- +
- 5 Connaught Road Central, Hong Kong +
- +852 2522 0111 +
- +
- Superior room HK $3,600 including breakfast, $HK $3,350 without breakfast; plus 10% service charge. +
- +
- Room block: 10 rooms until 60 days out; 5 rooms until 30 days out; block released 30 days out. +
- +
- Cancellation policy: before 17 March no penalty; after 17 March 1 night charged. +
- +
- To book contact their reservation Hotline: +852 2820 4202 +
- Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mohkg-reservations@mohg.com] +
- Or download this http://calconnect.org/mandarinorientalbookingform.pdf[booking form], fill out and fax to the number provided on the form. +
- +
- +
-*Other Area Hotels* +
- +
- The Ovolo Aberdeen Harbor (12 minutes by taxi): +
-http://www.ovolohotels.com/en/hotels/hongkong/ovolo-aberdeen-harbour/ +
- +
- Hotel Jen (11 mins) which is opened by Shangri-La: +
-https://www.hoteljen.com/hongkong/westerndistrict/about/ +
- +
- L'hotel which is quite new (10 mins): +
-http://www.lhotelgroup.com/en/hotel/lhotel-island-south/Home +
- +
- Ovolo Southside (12 mins): +
-http://www.ovolohotels.com/en/hotels/hongkong/ovolo-southside/ +
- +
- +
- In general Cyberport is far from tourist areas so there are not many choices around.
+15 Queen's Road Central, Hong Kong +
++852 2132 0188
+
+L450 room for HK $3,700 including breakfast for two; plus 10%Q service fee.
+
+Room block: 20 rooms until 60 days out; 10 rooms until 30 days out; block released 30 days out.
+
+Cancellation policy: Before 17 March no penalty; after 17 March full booked period charged.
+
+To book contact their reservation Hotline: +852 2820 4202 +
+Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mahkg-reservations@mohg.com]
+
++
+http://www.mandarinoriental.com/hongkong/?htl=MOHKG&eng=google&src=local[The Mandarin Oriental Hong Kong]
+
+5 Connaught Road Central, Hong Kong +
++852 2522 0111
+
+Superior room HK $3,600 including breakfast, $HK $3,350 without breakfast; plus 10% service charge.
+
+Room block: 10 rooms until 60 days out; 5 rooms until 30 days out; block released 30 days out.
+
+Cancellation policy: before 17 March no penalty; after 17 March 1 night charged.
+
+To book contact their reservation Hotline: +852 2820 4202 +
+Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mohkg-reservations@mohg.com] +
+Or download this http://calconnect.org/mandarinorientalbookingform.pdf[booking form], fill out and fax to the number provided on the form.
+
++
+*Other Area Hotels*
+
+The Ovolo Aberdeen Harbor (12 minutes by taxi): +
+http://www.ovolohotels.com/en/hotels/hongkong/ovolo-aberdeen-harbour/
+
+Hotel Jen (11 mins) which is opened by Shangri-La: +
+https://www.hoteljen.com/hongkong/westerndistrict/about/
+
+L'hotel which is quite new (10 mins): +
+http://www.lhotelgroup.com/en/hotel/lhotel-island-south/Home
+
+Ovolo Southside (12 mins): +
+http://www.ovolohotels.com/en/hotels/hongkong/ovolo-southside/
+
++
+In general Cyberport is far from tourist areas so there are not many choices around.
 
 [[test-schedule]]
 Test Event Schedule
@@ -226,26 +228,26 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 ==== CALCONNECT INTEROPERABILITY TEST EVENT
 
 a| *Monday 18 April* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and/or Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and/or Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and/or Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and/or Discussions +
- +
- 1830-2030 Test Event Dinner +
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and/or Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and/or Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and/or Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and/or Discussions
+
+1830-2030 Test Event Dinner +
 _(Delaney Irish Pub, Cyberport Arcade)_
 a| *Tuesday 19 April* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing and/or Discussions +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing and/or Discussions +
- 1230-1330 Lunch +
- 1330-1530 Testing and/or Discussions +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing and/or Discussions
+0800-0830 Coffee & Rolls +
+0830-1030 Testing and/or Discussions +
+1030-1100 Break and Refreshments +
+1100-1230 Testing and/or Discussions +
+1230-1330 Lunch +
+1330-1530 Testing and/or Discussions +
+1530-1600 Break and Refreshments +
+1600-1800 Testing and/or Discussions
 |
 
 |===

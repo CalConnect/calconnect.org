@@ -50,7 +50,7 @@ The last session on Friday afternoon will be the full Plenary meeting of the Con
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. 
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 
 Conference Details
@@ -62,7 +62,7 @@ Dress at all CalConnect events is casual to business casual.
 [[registration]]
 Registration Information
 
-Please seehttp://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
 Location
@@ -97,7 +97,7 @@ We are offered a *special UC Irvine* rate of $119 for Friday and Saturday nights
  +
 *Hotel Irvine Commuter Shuttle Service:* This service is included in the UCI rate and runs from 6:30am-10:30am and 3:00pm-7:00pm from Monday-Friday. This service does require a 48 hour reservation to guarantee the transfer. The HI commuter can be arranged by emailing them directly at mailto:hicommuter@hotelirvine.com[hicommuter@hotelirvine.com].
 
-_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._ 
+_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._
 
 
 
@@ -304,7 +304,7 @@ _On Premises_
 
 2+| *Thursday 16 February*
 | 0800-0830 | Coffee & Rolls
-| ____0830-0915 
+| ____0830-0915
 a| Calendaring Developer's Guide +
 _The guide is published at http://devguide.calconnect.org[]. This session will present and discuss the bigger picture of the DEVGUIDE being a resource for the outside world, and who we think the recipients should be in order to shape the content. TC DEVGUIDE._
 
@@ -315,12 +315,12 @@ _There are a number of problems with the current iMIP model and implementations,
 | 1030-1100 | Break and refreshments
 | 1100-1230
 a| *Calendar Spam and potential best practices* +
-_One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events._ 
+_One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events._
 
 | 1230-1330 | Lunch
 | 1330-1430
 a| API Progress Report +
-_TC API is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. We will report on where the work stands now and what the next steps are in an overall contenxt. Existing implementations of the API will be presented. TC API._ 
+_TC API is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. We will report on where the work stands now and what the next steps are in an overall contenxt. Existing implementations of the API will be presented. TC API._
 
 | 1430-1500
 a| Alternative Subsciption Models +
@@ -333,7 +333,7 @@ _Review the status of the sharing specifications and explore next steps, in part
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| Improvement and extension of iCalendar +
-_We will review proposed extensions such as RDATE and EXDATE formats; VPATCH and VINSTANCE; and support for intervals and "gluons" from WS-Calendar._ 
+_We will review proposed extensions such as RDATE and EXDATE formats; VPATCH and VINSTANCE; and support for intervals and "gluons" from WS-Calendar._
 
 | 1700-1800
 a| Open Discussion: The CalConnect Organization +
@@ -360,7 +360,7 @@ _Review the planned extension of CalDAV tester includng proposed capabilities an
 | 1030-1100 | Break and refreshments
 | 1100-1230
 a| Open Discussion: The Future of Calendaring +
-_Potential areas of work in the future such as settings to allow the user to take control of what is happening (add all, add none); calendaring augmenting other phenomena in your life; calendaring and the Internet of Things; related areas such as time-related initiatives external to CalConnect._ 
+_Potential areas of work in the future such as settings to allow the user to take control of what is happening (add all, add none); calendaring augmenting other phenomena in your life; calendaring and the Internet of Things; related areas such as time-related initiatives external to CalConnect._
 
 | 1230-1330 | Lunch
 | 1330-1430

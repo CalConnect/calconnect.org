@@ -114,21 +114,21 @@ specified in iCalendar data.
 
 === Additions and Extensions
 
-* http://calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-Rest RESTful Web Services Protocol for Calendaring*]
+* link:{{'CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url}}[*CalWS-Rest RESTful Web Services Protocol for Calendaring*]
 This document, developed by the XML Technical Committee, specifies a
 RESTful web services protocol for calendaring operations. This protocol
 has been contributed to OASIS WS-CALENDAR as a component of the
 WS-CALENDAR Specification under development by OASIS.
 *CalConnect*
 
-* http://calconnect.org/pubdocs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf[*CalWS-SOAP SOAP Web Servicies Protocol for Calendaring*]
+* link:{{'CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url}}[*CalWS-SOAP SOAP Web Servicies Protocol for Calendaring*]
 This document, developed by the XML Technical Committee, specifies a
 SOAP web services protocol for calendaring operations. This protocol has
 been contributed to OASIS WS-CALENDAR as a component of the WS-CALENDAR
 Specification under development by OASIS.
 *CalConnect*
 
-* http://calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf[*Freebusy Read URL*]
+* link:{{'CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[*Freebusy Read URL*]
 This proposal, developed by the Freebusy Technical Committee, defines a
 standardized form of Freebusy Read URL to improve interoperability
 between client and server implementations, while extending functionality
