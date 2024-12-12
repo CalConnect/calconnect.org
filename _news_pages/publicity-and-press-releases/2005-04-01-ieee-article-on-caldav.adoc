@@ -1,0 +1,14 @@
+---
+layout: page
+title:  IEEE Article on CalDAV
+type: news
+date: 2005-04-01
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*April, 2005* +
+*IEEE Article on CalDAV*: Article on CalDAV which also talks about the
+Consortium:
+http://dsonline.computer.org/portal/site/dsonline/menuitem.9ed3d9924aeb0dcd82ccc6716bbe36ec/index.jsp?&pName=dso_level1&path=dsonline/0504&file=w2sta.xml&xsl=article.xsl&[IEEE
+CalDAV Article].

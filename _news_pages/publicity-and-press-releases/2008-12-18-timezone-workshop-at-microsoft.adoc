@@ -1,0 +1,16 @@
+---
+layout: page
+title:  Timezone Workshop at Microsoft
+type: news
+date: 2008-12-18
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*December 18, 2008* +
+*Timezone Workshop at Microsoft*: The Calendaring and Scheduling
+Consortium has announced a one-day workshop on Timezones to be held on
+February 3, 2009, at Microsofot in Redmond, Washington, during
+CalConnect week:
+link:{{'/docs/Timezone%20workshop%20release.doc' | relative_url }}[Timezone
+Workshop at Microsoft].

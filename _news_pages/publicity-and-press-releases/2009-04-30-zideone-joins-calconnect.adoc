@@ -1,0 +1,14 @@
+---
+layout: page
+title:  ZideOne Joins CalConnect
+type: news
+date: 2009-04-30
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*April 30, 2009* +
+*ZideOne Joins CalConnect*: The Calendaring and Scheduling Consortium
+has announced that IceWarp has joined the Consoritum:
+link:{{'/docs/ZideOne%20Joins%20US%20release%20FINAL-2009-04-29.doc' | relative_url }}[ZideOne
+Joins CalConnect].

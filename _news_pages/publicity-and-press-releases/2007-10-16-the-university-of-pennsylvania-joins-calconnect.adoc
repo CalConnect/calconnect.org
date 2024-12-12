@@ -1,0 +1,16 @@
+---
+layout: page
+title:  The University of Pennsylvania Joins CalConnect
+type: news
+date: 2007-10-16
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*October 16, 2007* +
+*The University of Pennsylvania Joins CalConnect*: The Calendaring and
+Scheduling Consortium (link:{{'/' | relative_url }}[www.CalConnect.org])
+has announced that the University of Pennsylvania has joined the
+membership:
+link:{{'/docs/071016Penn%20Joins%20CalConnect.doc' | relative_url }}[Penn
+Joins CalConnect.doc]

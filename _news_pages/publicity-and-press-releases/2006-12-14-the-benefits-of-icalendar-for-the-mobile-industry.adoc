@@ -1,0 +1,19 @@
+---
+layout: page
+title:  The Benefits of iCalendar for the Mobile Industry
+type: news
+date: 2006-12-14
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*December 14, 2006* +
+*The Benefits of iCalendar for the Mobile Industry*: The Mobile
+Technical Committee of the Consortium has released a paper documenting
+the benefits to the Mobile industry of adopting the iCalendar
+specification in place of the obsolete vCalendar specification currently
+in use. The paper may be found at
+link:{{'/docs/iCalendarforthemobileindustryv1.0.pdf' | relative_url }}[The Benefits of iCalendar for the Mobile Industry]
+and the press release is
+at
+link:{{'/docs/061214%20icalendarbenefits.pdf' | relative_url }}[Consortium Paper specifies how and why of iCalendar].

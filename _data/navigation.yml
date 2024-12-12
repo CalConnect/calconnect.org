@@ -158,7 +158,7 @@ news: &news_content
       - page: Presentations
         url: /news/presentations
       - page: Press Releases
-        url: /news/press-releases
+        url: /news/publicity-and-press-releases
       - page: Media Resources
         url: /news/media-resources
   - title: Categories

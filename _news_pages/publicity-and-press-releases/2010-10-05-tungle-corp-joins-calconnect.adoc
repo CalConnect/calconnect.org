@@ -1,0 +1,14 @@
+---
+layout: page
+title:  Tungle Corp. Joins CalConnect
+type: news
+date: 2010-10-05
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*October 5, 2010* +
+*Tungle Corp. Joins CalConnect*: The Calendaring and Scheduling
+Consortium has announced that Tungle Corporation has joined CalConnect:
+link:{{'/docs/20101005-tungle.doc' | relative_url }}[Tungle Joins The
+Calendaring and Scheduling Consortium].

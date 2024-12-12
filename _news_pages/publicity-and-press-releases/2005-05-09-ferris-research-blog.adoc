@@ -1,0 +1,14 @@
+---
+layout: page
+title:  Ferris Research blog
+type: news
+date: 2005-05-09
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*May 9, 2005* +
+Posting about Calendaring and Scheduling, and the Consortium, on the
+Ferris Research blog:
+http://ferris.typepad.com/ferris_research_weblog/calendaring_scheduling/[Ferris
+Research blog posting].

@@ -1,0 +1,18 @@
+---
+layout: page
+title:  CalConnect Stages Largest Interoperability Test Event
+type: news
+date: 2008-02-19
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*February 19, 2008* +
+*CalConnect Stages Largest Interoperability Test Event*: The Calendaring
+and Scheduling Consortium
+(link:{{'/' | relative_url }}[www.calconnect.org]) announced that its most
+recent CalConnect Interoperability Test Event, February 4-5, 2008, was
+its largest IOP test event ever, and incorporated the first ever
+CalConnect Mobile Calendaring Interoperabilty Test Event:
+link:{{'/docs/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc' | relative_url }}[CalConnect
+Stages Largest Interoperabiity Test Event].

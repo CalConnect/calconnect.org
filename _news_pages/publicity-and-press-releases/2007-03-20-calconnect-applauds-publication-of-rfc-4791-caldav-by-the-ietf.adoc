@@ -1,0 +1,16 @@
+---
+layout: page
+title:  CalConnect applauds publication of RFC 4791, CalDAV, by the IETF
+type: news
+date: 2007-03-20
+permalink: '/news/publicity-and-press-releases/:title'
+---
+:page-liquid:
+
+*March 20, 2007* +
+*CalConnect applauds publication of RFC 4791, CalDAV, by the IETF*: The
+IETF has published http://www.rfc-editor.org/rfc/rfc4791.txt,
+Calendaring Extensions to WebDAV (CalDAV). The Consortium has issued a
+press release concerning the significance of CalDAV and its relationship
+to the Consortium at
+link:{{'/docs/070320calconnectcaldavrelease.pdf' | relative_url }}[CalConnect CalDAV Release].
