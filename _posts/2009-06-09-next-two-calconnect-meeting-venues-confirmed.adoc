@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information
 excerpt: CalConnect XVI will be held on October 5-9, 2009, hosted by Apple, Inc. in Cupertino, California. Registration should open for this event at the beginning of August.
 ---
+:page-liquid:
 
 == Next two CalConnect meeting venues confirmed
 

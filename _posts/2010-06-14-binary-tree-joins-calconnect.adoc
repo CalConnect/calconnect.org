@@ -4,8 +4,9 @@ title: Binary Tree Joins CalConnect
 date: 2010-06-14
 type: news
 categories: announcements current-events general-information member-focus
-excerpt: The Calendaring and Scheduling Consortium is delighted to announce that Binary Tree has joined CalConnect.  
+excerpt: The Calendaring and Scheduling Consortium is delighted to announce that Binary Tree has joined CalConnect. 
 ---
+:page-liquid:
 
 == Binary Tree Joins CalConnect
 

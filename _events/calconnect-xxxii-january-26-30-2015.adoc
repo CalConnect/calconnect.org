@@ -147,10 +147,10 @@ The Conference begins with lunch on Wednesday and runs through Friday afternoon.
 
 [cols=3]
 |===
-3+.<| *CALCONNECT XXXII*  *De Anza Room, Hotel De Anza, 233 West Santa Clara Street, San Jose*
+3+.<| *CALCONNECT XXXII* -- *De Anza Room, Hotel De Anza, 233 West Santa Clara Street, San Jose*
 
 3+| 
-3+.<| *Wednesday 28 January  CalConnect 10th Anniversary Celebration*
+3+.<| *Wednesday 28 January -- CalConnect 10th Anniversary Celebration*
 3+| 
 .<| 1100-1200 |  .<| Introduction to CalConnect^2^ 
 .<| 1200-1300 |  .<| Lunch
@@ -178,7 +178,7 @@ Lucia Fedorova, Google +
 .<| 1745-1800 |  .<| What CalConnect Means to Us
 .<| 1800-2030 |  .<| Welcome Reception^3^ 
 3+| 
-3+.<| *Thursday 29 January  CalConnect Conference*
+3+.<| *Thursday 29 January -- CalConnect Conference*
 3+| 
 .<| 0800-0830 |  .<| Coffee & Rolls
 .<| 0830-0900
@@ -226,7 +226,7 @@ http://www.thefarmersunion.com[_The Farmers Union_] _(John P. Room upstairs)_ +
  151 W. Santa Clara Street San Jose 
 
 3+| 
-3+.<| *Friday 30 January  CalConnect Conference*
+3+.<| *Friday 30 January -- CalConnect Conference*
 3+| 
 .<| 0800-0830 |  .<| Coffee & Rolls
 .<| 0830-0930

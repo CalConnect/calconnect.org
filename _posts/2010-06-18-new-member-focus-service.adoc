@@ -6,15 +6,16 @@ type: news
 categories: announcements general-information member-focus member-news
 excerpt: CalConnect is expanding the Member News service on our blog. The addition is a Member Focus service—a short introduction on the blog to a specific CalConnect member. It will include links to more information about the member, and possibly a significant press release or set of releases about a topic of interest to our members.
 ---
+:page-liquid:
 
 == New Member Focus Service
 
-Posted June 18, 2010 
+Posted June 18, 2010
 
-CalConnect is expanding the Member News service on our blog. The addition is a Member Focus servicea short introduction on the blog to a specific CalConnect member. It will include links to more information about the member, and possibly a significant press release or set of releases about a topic of interest to our members.
+CalConnect is expanding the Member News service on our blog. The addition is a Member Focus service -- a short introduction on the blog to a specific CalConnect member. It will include links to more information about the member, and possibly a significant press release or set of releases about a topic of interest to our members.
 
-As with Member News, the Member Focus service will be calendaring-related. In the case of some of our members, that is very easy to do. In other cases, such as academic members or large vendors with a suite of offerings, the short piece will highlight the member s tools or services related to calendaring.
+As with Member News, the Member Focus service will be calendaring-related. In the case of some of our members, that is very easy to do. In other cases, such as academic members or large vendors with a suite of offerings, the short piece will highlight the member's tools or services related to calendaring.
 
-The intent is for the introduction posted on the blog to be quite shortno more than a paragraph or two at mostbut provocative enough to interest someone to click through.
+The intent is for the introduction posted on the blog to be quite short -- no more than a paragraph or two at most -- but provocative enough to interest someone to click through.
 
 

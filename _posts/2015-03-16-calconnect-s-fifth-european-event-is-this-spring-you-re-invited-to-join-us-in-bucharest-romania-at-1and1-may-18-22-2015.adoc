@@ -1,33 +1,34 @@
 ---
 layout: page
-title: CalConnect’s fifth European event is this spring! You’re invited to join us in Bucharest, Romania, at 1and1, May 18-22, 2015
+title: CalConnect's fifth European event is this spring! You're invited to join us in Bucharest, Romania, at 1and1, May 18-22, 2015
 date: 2015-03-16
 type: news
 categories: announcements current-events general-information the-world-of-calendaring
-excerpt: CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe this spring
+excerpt: CalConnect -- The Calendaring and Scheduling Consortium -- is returning to Europe this spring
 ---
+:page-liquid:
 
-== CalConnect’s fifth European event is this spring! You’re invited to join us in Bucharest, Romania, at 1and1, May 18-22, 2015
+== CalConnect's fifth European event is this spring! You're invited to join us in Bucharest, Romania, at 1and1, May 18-22, 2015
 
 Posted March 16, 2015
 
 link:{{'/' | relative_url}}[CalConnect  The Calendaring and Scheduling Consortium]  is returning to Europe this spring
 
-Our previous European conferences, in 2011, 2013 and 2014, were very successful. In the past we ve come to Europe in the autumn, but we re coming early. link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII] will take place in Bucharest, Romania, on May 18-22, 2015, hosted by http://1und1.de/' | relative_url}}[1and1].
+Our previous European conferences, in 2011, 2013 and 2014, were very successful. In the past we ve come to Europe in the autumn, but we re coming early. link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII] will take place in Bucharest, Romania, on May 18-22, 2015, hosted by http://1und1.de/[1and1].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect event without having to incur the travel costs and time of coming to North America.
 
 CalConnect is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
-European companies were among CalConnect s earliest members, and as standards and interoperability are both central to CalConnect s mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe in 2007 and 2008 in preparation for our first regular CalConnect conference in Europe in 2011. This spring s event in Bucharest is one which we hope will continue with even greater European participation in CalConnect s interoperable calendaring and scheduling efforts, and we applaud the increased involvement by Europeans in our technical activities over the last few years.
+European companies were among CalConnect's earliest members, and as standards and interoperability are both central to CalConnect's mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe in 2007 and 2008 in preparation for our first regular CalConnect conference in Europe in 2011. This spring's event in Bucharest is one which we hope will continue with even greater European participation in CalConnect's interoperable calendaring and scheduling efforts, and we applaud the increased involvement by Europeans in our technical activities over the last few years.
 
-Overview
+*Overview*
 
-Our venue will be 1and1 s Romanian headquarters in http://www.skytower.ro/[The Skytower], 246C Floreasca Street, District 1, 014476 Bucharest, Romania. The conference hotel is http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/[The Caro Golf Hotel], only 500 meters from the Skytower. All events of the CalConnect week, except for the Monday Test Event dinner and the Thursday Conference dinner will take place at the Skytower. Full information about the conference may be found at link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII] including the week s preliminary schedules registration, and logistics information, including transfers from the airport, http://www.bucharestairports.ro/en/' | relative_url}}[Henri CoandÄ Airport Bucharest  Otopeni] to the hotel.
+Our venue will be 1and1's Romanian headquarters in http://www.skytower.ro/[The Skytower], 246C Floreasca Street, District 1, 014476 Bucharest, Romania. The conference hotel is http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/[The Caro Golf Hotel], only 500 meters from the Skytower. All events of the CalConnect week, except for the Monday Test Event dinner and the Thursday Conference dinner will take place at the Skytower. Full information about the conference may be found at link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII] including the week's preliminary schedules registration, and logistics information, including transfers from the airport, http://www.bucharestairports.ro/en/[Henri CoandÄ Airport Bucharest  Otopeni] to the hotel.
 
 Monday, Tuesday, and Wednesday morning, September 29  October 1, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, October 1-3, will be the Calconnect Conference which will include both technical and topical discussions, briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
-Registration and Fees
+*Registration and Fees*
 
 You must register separately for the Interoperability Test Event and the CalConnect Conference. Please see link:{{'/regtypes' | relative_url}}[Registration and Fees] for more information and registration forms.
 
@@ -35,17 +36,16 @@ Special Registration Fee for This Event: $600 USD per person for first-time non-
 
 We encourage you to register as soon as possible. Upon registration you will be invoiced for the amount due. However, you may choose to pay later, including at the event, if it is more convenient.
 
-Conference Hotel
+*Conference Hotel*
 
 The conference hotel is http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/[The Caro Golf Hotel], and we are offered a special rate of â¬65 for a single and â¬75 for a double or twin, inclusive of breakfast, free wifi, and use of the hotel spa. In order to receive the special rate you must book using a form which is downloadable from the CalConnect XXXIII web page. You may also book online directly from the hotel, but you will not receive the special rate.
 
-
 
-Who and What is CalConnect?
+*Who and What is CalConnect?*
 
-We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}. Find out about our previous meetings from our link:/eventreports[Event Reports] and from posts on our blog. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
+We are a collaboration between calendaring and scheduling vendors and users, established to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling. See our current member list at link:{{'/mbrlist' | relative_url}}[CalConnect Members]. Learn more about CalConnect at our link:{{'/' | relative_url}}[website] and our link:{{'/blog' | relative_url}}. Find out about our previous meetings from our link:{{'/eventreports' | relative_url}}[Event Reports] and from posts on our blog. You can find out more about membership in CalConnect at link:{{'/membership' | relative_url}}[CalConnect Membership].
 
-What is CalConnect currently focused on?
+*What is CalConnect currently focused on?*
 
 You may find brief descriptions of the current work items of our Technical Committees at link:{{'/currentwork' | relative_url}}[Current Work].
 
@@ -57,15 +57,14 @@ In particular, if you are interested in the Interoperability Test event and woul
 
 Please join us in Bucharest!
 
-
 
-More Information:
+*More Information:*
 
 More information about the test event, the technical conference, and the workshops may be found below. The schedule for the week may be viewed at link:{{'/calconnect33#schedule' | relative_url}}[CalConnect XXXIII Schedule] (at this early date the schedule is an outline; we have not yet assigned time slots to specific sessions. This should happen in the next few weeks.) The entire set of logistics information, including travel, hotel booking, schedule, and as we get closer to the event, topical agendas and final topics for the workshops and symposia, may be viewed at link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII].
 
-Interoperability Testing
+*Interoperability Testing*
 
-The Interoperability Testing will take place Monday and Tuesday, September 29-30, plus Wednesday morning October 1st. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow testing pairs where you will get a chance to test with everyone in the course of event.
+The Interoperability Testing will take place Monday and Tuesday, September 29-30, plus Wednesday morning October 1st. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow "`testing pairs`" where you will get a chance to test with everyone in the course of event.
 
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. Specific new testing areas include:
 
@@ -82,7 +81,7 @@ Server Information Document
 
 Please see link:{{'/iop1505' | relative_url}}[CalConnect XXXIII Interoperability Test Event] for more information and a list of baseline testing areas (if at least two participants are interested in any of these areas we will do testing of that area).
 
-CalConnect Conference
+*CalConnect Conference*
 
 The CalConnect Conference offers a variety of sessions including topical and strategic discussions, technical discussions, a report on the Interoperability Testing, and a summary of the work done in each TC and identification of the work to be done in the next few months. The actual conference program is still being worked on and is not yet available; when it is, it will be posted on the link:{{'/calconnect33#schedule' | relative_url}}[CalConnect XXXIII schedule].
 
@@ -92,7 +91,7 @@ Social Events:
 
 There will be a dinner for all Interoperability Test Event participants on Monday Evening, a Reception on Wednesday evening for all participants in either the Test Event and/or the Conference, and a dinner for all Conference participants on Thursday evening. The social events are included in your registration fee.
 
-Meals
+*Meals*
 
 Your registration to the Interoperability Test Event or the Conference includes lunch and morning and afternoon refreshments for the period of the event, plus the reception Wednesday evening. In addition, registration to the test event includes the Monday evening Test Event dinner, and registration to the technical conference includes the Thursday evening Conference dinner. Please note that breakfast is not included as it is generally included with your hotel package.
 

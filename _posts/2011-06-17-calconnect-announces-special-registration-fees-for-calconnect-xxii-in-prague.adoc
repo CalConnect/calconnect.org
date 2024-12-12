@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus
 excerpt: CalConnect has announced special reduced registration fees for some participants in the upcoming CalConnect XXII event, hosted by Kerio Technologies in Prague, Czech Republic on October 3-7, 2011. The special rates are
 ---
+:page-liquid:
 
 == CalConnect announces special registration fees for CalConnect XXII in Prague
 

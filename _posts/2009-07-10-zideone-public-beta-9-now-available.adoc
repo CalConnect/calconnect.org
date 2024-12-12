@@ -6,6 +6,7 @@ type: news
 categories: announcements member-news
 excerpt: CalConnect member ZideOne has announced the availability of its public beta 9
 ---
+:page-liquid:
 
 == ZideOne Public Beta 9 now available
 

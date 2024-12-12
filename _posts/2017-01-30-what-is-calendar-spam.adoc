@@ -4,8 +4,9 @@ title: What is Calendar spam?
 date: 2017-01-30
 type: news
 categories: general-information special-focus the-world-of-calendaring
-excerpt: Around last year’s Black Friday calendar spam was bothering many users of Apple's iCloud as well as other mail providers e.g. mail.com, as a wave of calendar spam hit the affected users and left them with unwanted, unwelcome, undesired obligations in their private and business use calendars without good ways to get rid of them.
+excerpt: Around last year's Black Friday calendar spam was bothering many users of Apple's iCloud as well as other mail providers e.g. mail.com, as a wave of calendar spam hit the affected users and left them with unwanted, unwelcome, undesired obligations in their private and business use calendars without good ways to get rid of them.
 ---
+:page-liquid:
 
 == What is Calendar spam?
 
@@ -14,7 +15,7 @@ image::link:{{'/assets/images/CalendarSpam_iPhone.PNG' | relative_url}}["",480,2
 
 Spam event in calendar
 
-Around last year s Black Friday calendar spam was bothering many users of Apple's iCloud as well as other mail providers e.g. mail.com, as a wave of calendar spam hit the affected users and left them with unwanted, unwelcome, undesired obligations in their private and business use calendars without good ways to get rid of them.
+Around last year's Black Friday calendar spam was bothering many users of Apple's iCloud as well as other mail providers e.g. mail.com, as a wave of calendar spam hit the affected users and left them with unwanted, unwelcome, undesired obligations in their private and business use calendars without good ways to get rid of them.
 
 How calendar spam is defined and why it does more harm than email spam will be described in this article.
 
@@ -22,7 +23,7 @@ How calendar spam is defined and why it does more harm than email spam will be d
 
 Nowadays people organize meetings using emails (https://tools.ietf.org/html/rfc6047[RFC 6047]: iCalendar Message-Based Interoperability Protocol (iMIP)) to exchange invites, accepts and declines including everything necessary to know: Location, time, topic and attendees. Mail and calendar systems interact with each other and depending on the user settings, events are often - for convenience reasons and based on default settings - automatically inserted in the users calendar to block time slots and show possible conflicts.
 
-But there are also other ways to receive events e.g. artificial intelligence in client and mobile devices identifying content as being time related and offer options, to create an event out of that. QRCODES scanned on advertisements e.g. for upcoming concerts can include event information which then can be imported in someone s calendar as well.
+But there are also other ways to receive events e.g. artificial intelligence in client and mobile devices identifying content as being time related and offer options, to create an event out of that. QRCODES scanned on advertisements e.g. for upcoming concerts can include event information which then can be imported in someone's calendar as well.
 
 Most clients also assign user defined notifications to upcoming events in order to prepare themselves and help them being punctual at the desired location.
 
@@ -32,13 +33,13 @@ Therefore, calendar spam can be defined as unwanted, unwelcome and undesired ent
 
 === *Why does calendar spam do more harm to users?*
 
-Spam emails are bothersome, but calendar spam hits users in a different emotional space. Because of the calendar being the place to organize someone s precious time, this is not just one more email filling up a postbox, but an intrusion into someone s private space.
+Spam emails are bothersome, but calendar spam hits users in a different emotional space. Because of the calendar being the place to organize someone's precious time, this is not just one more email filling up a postbox, but an intrusion into someone's private space.
 
 Furthermore, recurrent events (being inserted just once) can fill up the space every day or even more often. In combination with notifications via push or email, this can lead to much more disturbance, than just one email.
 
 Spam emails can be just deleted, but events are accepted or declined and always (by standards) include feedback to the organizer, so a user can be tracked and identified as existent and active, which makes him a more valuable target for further spam.
 
-Missing an appointment because of someone s schedule being messed up by unwanted events will causes them to feel unprofessional and to look bad.
+Missing an appointment because of someone's schedule being messed up by unwanted events will causes them to feel unprofessional and to look bad.
 
 === *Is this a new thread?*
 
@@ -48,13 +49,13 @@ But what changed in the meantime is, that also due to the efforts organizations 
 
 === *How CalConnect is helping service providers and users?*
 
-Calendar spam will be a big topic on the next CalConnect conference in a few weeks in https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017[Irvine] where leaders in calendaring come together and discuss current issues and mitigation strategies.
+Calendar spam will be a big topic on the next CalConnect conference in a few weeks in link:{{'/events/calconnect-xxxviii-february-13-17-2017' | relative_url }}[Irvine] where leaders in calendaring come together and discuss current issues and mitigation strategies.
 
 As spam filtering being the first line of defence for the problem, CalConnect members already made connections to the Messaging Malware Mobile Anti-Abuse Working Group (https://www.m3aawg.org/[M3AAWG]) having their next meeting the week after the CalConnect conference to exchange ideas and the topic has been proposed as a topic for an Open Round Table session.
 
 Another article will describe the identified best practices for services providers as well as mitigation strategies for users and issued after these conferences have taken place.
 
-As this also being a common topic with mail and calendaring involved, united efforts will help to keep people s schedules clean and safe, also in the future.
+As this also being a common topic with mail and calendaring involved, united efforts will help to keep people's schedules clean and safe, also in the future.
 
 * * *
 
@@ -63,7 +64,7 @@ As this also being a common topic with mail and calendaring involved, united eff
 Thomas SchÃ¤fer is chair of TC chairs at CalConnect and is affiliated with 1&1 Internet AG in Germany (also offering international service like mail.com and gmx.com), where he has nearly 20 years of experience in working on email and calendaring services.
 
 
-Tags:&nbsp;
+Tags:
 
 link:{{'/tags/calendar' | relative_url}}[calendar]
 

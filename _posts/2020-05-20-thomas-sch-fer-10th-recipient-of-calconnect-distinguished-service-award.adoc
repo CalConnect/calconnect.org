@@ -6,6 +6,7 @@ type: news
 categories: special-focus current-events announcements
 excerpt: The Board of Directors has honored Thomas Schäfer as the recipient of our tenth Distinguished Service Award.
 ---
+:page-liquid:
 
 == Thomas Schäfer 10th Recipient of CalConnect Distinguished Service Award
 
@@ -18,10 +19,10 @@ The Board of Directors has honored Thomas SchÃ¤fer as the recipient of our ten
 
 Thomas became active in CalConnect in 2014 when 1&1 joined, and has remained intensely involved ever since on both the technical and organizational sides. Thomas and 1&1 hosted two conferences, CalConnect XXXIII Bucharest in 2015 and CalConnect XLIII Karlsruhe in 2018.
 
-Thomas established and chaired TC-CALSPAM to consider calendar spam, and initiated our liaison with M3WAAG to jointly work in this area. He initiated and chaired TC-DEVGUIDE, to create a Calendar Developer s Guide, which continues to be developed. He served on the Event Planning committee, and initiated and completed a proposal to combine the testing and conference components of the CalConnect meetings into a single format. He served as Chair of the Technical Coordination Committee, and as such as a Board member.&nbsp;
+Thomas established and chaired TC-CALSPAM to consider calendar spam, and initiated our liaison with M3WAAG to jointly work in this area. He initiated and chaired TC-DEVGUIDE, to create a Calendar Developer's Guide, which continues to be developed. He served on the Event Planning committee, and initiated and completed a proposal to combine the testing and conference components of the CalConnect meetings into a single format. He served as Chair of the Technical Coordination Committee, and as such as a Board member.
 
 When 1&1 chose to not renew their membership, Thomas joined CalConnect as an individual member, and continues to chair and participate in technical committees and event planning.
 
-Thomas has always been present, always good humored, and with constructive contributions to calls and conferences. We look forward to Thomas s continued involvement and participation in CalConnect in the future.
+Thomas has always been present, always good humored, and with constructive contributions to calls and conferences. We look forward to Thomas's continued involvement and participation in CalConnect in the future.
 
 

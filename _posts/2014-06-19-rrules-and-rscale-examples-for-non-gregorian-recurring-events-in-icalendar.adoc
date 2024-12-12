@@ -4,16 +4,17 @@ title: RRULES and RSCALE examples for Non-Gregorian Recurring Events in iCalenda
 date: 2014-06-19
 type: news
 categories: announcements general-information special-focus the-world-of-calendaring
-excerpt: CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link:/tests/rscale_golden.txt for the example set).
+excerpt: CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars.
 ---
+:page-liquid:
 
 == RRULES and RSCALE examples for Non-Gregorian Recurring Events in iCalendar
 
-Posted June 19, 2014 
+Posted June 19, 2014
 
-CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link:/tests/rscale_golden.txt for the example set).
+CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link:{{'/tests/rscale_golden.txt' | relative_url}}[/tests/rscale_golden.txt] for the example set).
 
-The examples are reasonably comprehensive for testing RSCALE and the implicit SKIP=YES behavior with the non-RSCALE Gregorian calendar, but certainly not exhaustive. However there should be enough examples in this file for a developer to test/understand the proper handling of leap months/days and SKIP behavior.&nbsp;
+The examples are reasonably comprehensive for testing RSCALE and the implicit SKIP=YES behavior with the non-RSCALE Gregorian calendar, but certainly not exhaustive. However there should be enough examples in this file for a developer to test/understand the proper handling of leap months/days and SKIP behavior.
 
 These examples are to help calendar server developers ensure that they are in sync with other servers in handling the new RSCALE component and non-Gregorian calendar recurrences.
 
@@ -25,5 +26,5 @@ As a large portion of the world uses non-Gregorian calendars, this has been a pr
 
 CalConnect established the CALSCALE Ad Hoc Committee, to define a mechanism to allow non-Gregorian calendar recurrences to be stated within a standard iCalendar data stream, thereby obviating the need to create unique and non-standard mechanisms to support them. The Ad Hoc developed a new RSCALE component for iCalendar to address this: http://tools.ietf.org/html/draft-daboo-icalendar-rscale/[]. The draft is now at the IETF for progression.
 
-At this point several calendar servers have implemented RSCALE support, and our interoperability testing has determined that those which have not yet implemented it will (correctly) ignore the RSCALE statement when they encounter it. Therefore, this set of example RRULES link:/tests/rscale_golden.txt has been provided to allow new implementations to ensure their compliance with the interpretation of RSCALE by existing calendar servers for the major non-Gregorian calendars in use.
+At this point several calendar servers have implemented RSCALE support, and our interoperability testing has determined that those which have not yet implemented it will (correctly) ignore the RSCALE statement when they encounter it. Therefore, this set of example RRULES link:{{'/tests/rscale_golden.txt' | relative_url}}[/tests/rscale_golden.txt] has been provided to allow new implementations to ensure their compliance with the interpretation of RSCALE by existing calendar servers for the major non-Gregorian calendars in use.
 

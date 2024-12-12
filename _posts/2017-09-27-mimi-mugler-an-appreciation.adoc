@@ -6,6 +6,7 @@ type: news
 categories: special-focus
 excerpt: Stop me before I volunteer again should have been on Mimi's University of California business card, but instead, it was on a napkin she provided when hosting our first CalConnect Board of Director's retreat in 2012.
 ---
+:page-liquid:
 
 == Mimi Mugler:  An Appreciation
 
@@ -32,9 +33,9 @@ The CalConnect community fondly, and gratefully recalls Mimi's contributions and
 
 \* \* \* \* \*
 
-Mimi Mugler passed away Saturday night, December 9, 2017. Our condolences and best wishes to her family.&nbsp;
+Mimi Mugler passed away Saturday night, December 9, 2017. Our condolences and best wishes to her family.
 
-&nbsp;
+
 
 The CalConnect Board of Directors
 

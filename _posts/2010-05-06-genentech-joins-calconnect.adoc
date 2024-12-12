@@ -4,8 +4,9 @@ title: Genentech Joins CalConnect
 date: 2010-05-06
 type: news
 categories: announcements general-information member-news
-excerpt: I am delighted to announce that Genentech, Inc. has joined The Calendaring and Scheduling Consortium.  
+excerpt: I am delighted to announce that Genentech, Inc. has joined The Calendaring and Scheduling Consortium. 
 ---
+:page-liquid:
 
 == Genentech Joins CalConnect
 

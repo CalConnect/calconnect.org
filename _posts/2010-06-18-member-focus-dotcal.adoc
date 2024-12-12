@@ -4,16 +4,17 @@ title: Member Focus; dotCal
 date: 2010-06-18
 type: news
 categories: general-information member-focus the-world-of-calendaring
-excerpt: dotCal is an Internet marketing service that helps consumers and businesses communicate event information across a variety of calendar programs. It is one of the first companies in this space that relies completely on today’s standards, including CalDav and iCalendar 2.0. By doing so, dotCal lives the mission of interoperability fostered by CalConnect.
+excerpt: dotCal is an Internet marketing service that helps consumers and businesses communicate event information across a variety of calendar programs. It is one of the first companies in this space that relies completely on today's standards, including CalDav and iCalendar 2.0. By doing so, dotCal lives the mission of interoperability fostered by CalConnect.
 ---
+:page-liquid:
 
 == Member Focus: dotCal
 
 Posted June 18, 2010 
 
-dotCal is an Internet marketing service that helps consumers and businesses communicate event information across a variety of calendar programs. It is one of the first companies in this space that relies completely on today s standards, including CalDav and iCalendar 2.0. By doing so, dotCal lives the mission of interoperability fostered by CalConnect.
+dotCal is an Internet marketing service that helps consumers and businesses communicate event information across a variety of calendar programs. It is one of the first companies in this space that relies completely on today's standards, including CalDav and iCalendar 2.0. By doing so, dotCal lives the mission of interoperability fostered by CalConnect.
 
-CEO and founder Dan Mendell explains the value of the standards-based approach this way: CalDav and its associated standards give us a common ground for communicating. dotCal aims to give users the practical benefits of these evolving standards so that their calendars operate across all platforms and social networks. The linked news and press releases about dotCal illustrate how the CalConnect standards approach is being embraced by companies and consumers in many different industries, and across many diverse consumption platforms.
+CEO and founder Dan Mendell explains the value of the standards-based approach this way: "`CalDav and its associated standards give us a common ground for communicating. dotCal aims to give users the practical benefits of these evolving standards so that their calendars operate across all platforms and social networks.`" The linked news and press releases about dotCal illustrate how the CalConnect standards approach is being embraced by companies and consumers in many different industries, and across many diverse consumption platforms.
 
 Website: http://dotCal.com
 

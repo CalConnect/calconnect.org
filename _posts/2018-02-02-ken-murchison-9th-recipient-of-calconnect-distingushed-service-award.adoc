@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus
 excerpt: At CalConnect XLI, hosted by Oath in Sunnyvale, California, Ken Murchison of FastMail was honored as our 9th recipient of the Distinguished Service Award.
 ---
+:page-liquid:
 
 == Ken Murchison 9th Recipient of CalConnect Distingushed Service Award
 
@@ -20,7 +21,7 @@ Ken has been active in CalConnect since the beginning of this decade, first repr
 
 Ken has been widely active on the technical side, participating in and chairing multiple Technical Committees, and now chairs TC CALENDAR. He is the author of a number of RFCs and specifications, and is also the principal developer of the Cyrus Mail and Calendar server which is widely used. For the last few two years he has also served as our primary liaison to the IETF he has been active in the IETF for a number of years. As of earlier this year he has been invited to attend Board meetings and StratPlan calls and he will be presenting at the Board Retreat here in Sunnyvale on Saturday.
 
-The CalConnect Distinguished Service Award recognizes an individual for their extraordinary and/or exemplary service, but the DSA is awarded as much (or more) to establish and reinforce CalConnect s cultural elements of myth and legend, heroes and heroines, prescriptions and preferences, and behavioral codes. The DSA does not have to inspire the recipient; it is intended to inspire the rest of us.
+The CalConnect Distinguished Service Award recognizes an individual for their extraordinary and/or exemplary service, but the DSA is awarded as much (or more) to establish and reinforce CalConnect's cultural elements of myth and legend, heroes and heroines, prescriptions and preferences, and behavioral codes. The DSA does not have to inspire the recipient; it is intended to inspire the rest of us.
 
 We are a member-driven organization  our agenda, our projects, our collaborations with other organizations, all result from the work of our TCs - technical committees, which are made up of ,and led by participants from our member organizations.
 

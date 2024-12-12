@@ -4,8 +4,9 @@ title: CalConnect XX a great success
 date: 2011-02-11
 type: news
 categories: current-events general-information the-world-of-calendaring
-excerpt: CalConnect holds three IOP test events and Roundtables (members’ meeting) each year, and last week it was hosted by the University of California, Berkeley. The interoperability test event featured two mobile CalDAV calendars, one from Andrew McMillan for Android (aCal) and one from Nokia, plus a new Project Management tool from The Omni Group, OmniPlan, implemented as a CalDAV client.
+excerpt: CalConnect holds three IOP test events and Roundtables (members' meeting) each year, and last week it was hosted by the University of California, Berkeley. The interoperability test event featured two mobile CalDAV calendars, one from Andrew McMillan for Android (aCal) and one from Nokia, plus a new Project Management tool from The Omni Group, OmniPlan, implemented as a CalDAV client.
 ---
+:page-liquid:
 
 == CalConnect XX a great success
 
@@ -18,12 +19,12 @@ The Roundtable featured presentations and discussion sessions from each Technica
 A few highlights from the Roundtable:
 
 * A new proposal for iCalendar Extensions to support event publication, which is about to be submitted to the IETF as an Internet Draft, and an in-progress specification for the LINK property in support of the work was discussed.
-* Version 2 of CalConnect s Calendaring and Scheduling Glossary of Terms, originally published in 2006 and sadly out of date, is ready for publication and will be published following the event.
+* Version 2 of CalConnect's Calendaring and Scheduling Glossary of Terms, originally published in 2006 and sadly out of date, is ready for publication and will be published following the event.
 * Progress on CalWS-SOAP, the SOAPy version of the CalWS Calendaring Web Services API (the RESTful version has already been published as a CalConnect Proposal). This work is being done in conjunction with OASIS and the NIST Smart Grid Standards effort; CalWS is fully embedded in the OASIS WS-Calendar specification.
-* Progress on VPOLL, a new extension to iCalendar to support Doodle-like group scheduling within mainline calendaring and scheduling systems, was presented.
-* Shel Waggener s presentation on Calendaring at a Public University, mentioned above, highlights the need for calendaring to become inclusive (i.e. broader than enterprise orientation to involve people outside an organization), and resonated strongly with us as it focused on many issues which are being discussed, and addressed, in CalConnect.
+* Progress on VPOLL, a new extension to iCalendar to support "`Doodle`"-like group scheduling within mainline calendaring and scheduling systems, was presented.
+* Shel Waggener's presentation on Calendaring at a Public University, mentioned above, highlights the need for calendaring to become inclusive (i.e. broader than enterprise orientation to involve people outside an organization), and resonated strongly with us as it focused on many issues which are being discussed, and addressed, in CalConnect.
 
 Next up: CalConnect XXI will be May 23-27 at NASA Ames in Mountain View.
-&nbsp;
+
 
 

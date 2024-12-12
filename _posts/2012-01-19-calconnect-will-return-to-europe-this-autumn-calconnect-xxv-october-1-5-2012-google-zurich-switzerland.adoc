@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information the-world-of-calendaring
 excerpt: We are very pleased to announce that Google will host CalConnext XXV this autumn at their offices in Zurich, Switzerland, on October 1-5, 2012.
 ---
+:page-liquid:
 
 == CalConnect will return to Europe this autumn: CalConnect XXV, October 1-5, 2012, Google, Zurich, Switzerland
 

@@ -4,21 +4,22 @@ title: CalConnect's first Asian event;  CalConnect XXXVI in Hong Kong
 date: 2016-02-02
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: Registration is now open for CalConnect's first event in Asia  CalConnect XXXVI, April 18-22 2016, in Hong Kong, hosted by Ribose and OGCIO (the Office of the Government Chief Information Officer).
+excerpt: Registration is now open for CalConnect's first event in Asia CalConnect XXXVI, April 18-22 2016, in Hong Kong, hosted by Ribose and OGCIO (the Office of the Government Chief Information Officer).
 ---
+:page-liquid:
 
 == CalConnect's first Asian event:  CalConnect XXXVI in Hong Kong
 
-Posted February 2, 2016 
+Posted February 2, 2016
 
-Registration is now open for CalConnect's first event in Asia: https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[CalConnect XXXVI], April 18-22 2016, in Hong Kong, hosted by http://www.ribose.com/[Ribose] and http://www.ogcio.gov.hk/[OGCIO] (the Office of the Government Chief Information Officer).
+Registration is now open for CalConnect's first event in Asia: link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }}[CalConnect XXXVI], April 18-22 2016, in Hong Kong, hosted by http://www.ribose.com/[Ribose] and http://www.ogcio.gov.hk/[OGCIO] (the Office of the Government Chief Information Officer).
 
-CalConnect XXXVI will be a first for us in other ways: in addition to being our first Asian event, it will be our first CalConnect as part of a larger event, Hong Kong's https://www.itfest.hk/template[2016 ITFEST]. This three-week series of programs, sessions, forums and other IT-related programming will include a https://www.itfest.hk/template?series=2&id=141&lang=en#[CalConnect Public Day] on Wednesday the 20th, and a CalConnect Seminar Tuesday evening at Hong Kong University.&nbsp;
+CalConnect XXXVI will be a first for us in other ways: in addition to being our first Asian event, it will be our first CalConnect as part of a larger event, Hong Kong's https://www.itfest.hk/template[2016 ITFEST]. This three-week series of programs, sessions, forums and other IT-related programming will include a https://www.itfest.hk/template?series=2&id=141&lang=en#[CalConnect Public Day] on Wednesday the 20th, and a CalConnect Seminar Tuesday evening at Hong Kong University.
 
-Our regular event schedule will be modified to enable us to offer the Public Day: Monday and Tuesday will be the Interoperability Test Event, Wednesday the Public Day, Thursday and Friday will be the conference.&nbsp;&nbsp;
+Our regular event schedule will be modified to enable us to offer the Public Day: Monday and Tuesday will be the Interoperability Test Event, Wednesday the Public Day, Thursday and Friday will be the conference.
 
-CalConnect's Asia/Pacific presence has begun to grow, with members in Hong Kong, Japan, and Australia, and it is our intent that CalConnect XXXVI will be the first, but by no means the only, CalConnect event in Asia.&nbsp;
+CalConnect's Asia/Pacific presence has begun to grow, with members in Hong Kong, Japan, and Australia, and it is our intent that CalConnect XXXVI will be the first, but by no means the only, CalConnect event in Asia.
 
-We encourage CalConnect members to join us in Hong Kong, and we encourage non-members to join us as http://\calconnect.org/observer[observers] at our conference, and perhaps to observe -- or participate -- in the interoperability test event. For mroe information about the event venue (Cyberport), hotels, registration information, and schedule, please see https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[CalConnect XXXVI].
+We encourage CalConnect members to join us in Hong Kong, and we encourage non-members to join us as http://\calconnect.org/observer[observers] at our conference, and perhaps to observe -- or participate -- in the interoperability test event. For mroe information about the event venue (Cyberport), hotels, registration information, and schedule, please see link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }}[CalConnect XXXVI].
 
 

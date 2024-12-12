@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Kerio Technologies Press Release about CalConnect XXXII – our Tenth Anniversary Event
+title: Kerio Technologies Press Release about CalConnect XXXII -- our Tenth Anniversary Event
 date: 2015-02-13
 type: news
 categories: announcements general-information the-world-of-calendaring
 excerpt: Kerio Technologies hosted CalConnect XXXII, our Tenth Anniversary Event, in San Jose, California last month, and posted this press release about the event
 ---
+:page-liquid:
 
-== Kerio Technologies Press Release about CalConnect XXXII – our Tenth Anniversary Event
+== Kerio Technologies Press Release about CalConnect XXXII -- our Tenth Anniversary Event
 
 Posted February 13, 2015 
 

@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: The public report from the CalConnect Interoperability Test Event on February 1-3 2010 has been published. This event was hosted by UC Irvine in conjunction with Roundtable XVII. Please see February 2010 CalConnect Interoperability Test Report.
 ---
+:page-liquid:
 
 == February 2010 CalConnect Interoperability Test Event Report Published
 

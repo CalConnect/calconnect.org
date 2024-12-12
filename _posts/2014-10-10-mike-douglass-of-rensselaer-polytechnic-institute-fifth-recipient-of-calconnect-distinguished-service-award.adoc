@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: At CalConnect XXXI, hosted by Youcanbook.me in Bedford, United Kingdom, Mike Douglass of Rensselaer Polytechnic Institute was honored as our 5th recipient of the Distinguished Service Award.
 ---
+:page-liquid:
 
 == Mike Douglass of Rensselaer Polytechnic Institute Fifth Recipient of CalConnect Distinguished Service Award
 
@@ -19,6 +20,6 @@ Mike actively participates in nearly every Technical committee, chairing many of
 
 Finally, Mike has been the Interoperability Test Event Manager since 2011, when the Board made it into a volunteer position, and oversees the test event while conducting his own testing and helping others.
 
-CalConnect thanks Mike for his long and varied service to CalConnect and his many contributions to our success.&nbsp;
+CalConnect thanks Mike for his long and varied service to CalConnect and his many contributions to our success.
 
 

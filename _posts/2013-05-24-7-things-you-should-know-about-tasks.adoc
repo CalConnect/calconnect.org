@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information the-world-of-calendaring
 excerpt: The CalConnect TASKS technical committee has just published a new briefing document, 7 Things You Should Know About Tasks, intended for a general audience.
 ---
+:page-liquid:
 
 == 7 Things You Should Know About Tasks
 
@@ -14,7 +15,7 @@ Posted May 24, 2013
 The CalConnect TASKS technical committee has just published a new briefing document, link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks], intended for a general audience.
 
 ____
-A task is a representation of an item of work assigned to an individual or organization. In RFC5545, Internet Calendaring and Scheduling Core Object Specification (iCalendar), these are VTODO calendar components, groupings of component properties and possibly VALARM calendar components that represent an action-item or assignment. Tasks (aka VTODO s) have been part of the iCalendar specification since it was adopted in 1998 as RFC 2445.
+A "`task`" is a representation of an item of work assigned to an individual or organization. In RFC5545, Internet Calendaring and Scheduling Core Object Specification (iCalendar), these are "`VTODO`" calendar components, groupings of component properties and possibly "`VALARM`" calendar components that represent an action-item or assignment. Tasks (aka VTODO s) have been part of the iCalendar specification since it was adopted in 1998 as RFC 2445.
 ____
 
 This document introduces Tasks in the Calendaring context, and discusses the work that CalConnect and TC TASKS is doing to broaden the capabilities of this major iCalendar component to support a wider range of scenarios, such as project management, smart power grids and business task scheduling.

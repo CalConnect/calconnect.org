@@ -4,17 +4,18 @@ title: Gary Schwartz Eighth Recipient of CalConnect Distingushed Service Award
 date: 2017-03-03
 type: news
 categories: announcements special-focus the-world-of-calendaring
-excerpt: Last month at CalConnect XXXVIII, at the University of California, Irvine, Gary Schwartz of Rensselaer Polytechnic Institute became the eighth recipient of the CalConnect Distinguished Service Award. 
+excerpt: Last month at CalConnect XXXVIII, at the University of California, Irvine, Gary Schwartz of Rensselaer Polytechnic Institute became the eighth recipient of the CalConnect Distinguished Service Award.
 ---
+:page-liquid:
 
 == Gary Schwartz Eighth Recipient of CalConnect Distingushed Service Award
 
 Posted March 3, 2017 
 
-Last month at CalConnect XXXVIII, at the University of California, Irvine, Gary Schwartz of Rensselaer Polytechnic Institute became the eighth recipient of the https://www.calconnect.org/membership/distinguished-service-award[CalConnect Distinguished Service Award].&nbsp;
+Last month at CalConnect XXXVIII, at the University of California, Irvine, Gary Schwartz of Rensselaer Polytechnic Institute became the eighth recipient of the link:{{'/membership/distinguished-service-award' | relative_url }}[CalConnect Distinguished Service Award].
 
-Gary became active in CalConnect in January 2005 when he and a colleague stumbled across the very first CalConnect Roundtable (now Conference) at the University of Washington; RPI joined CalConnect before the end of the month. Gary served as the Chair of TC-FREEBUSY when it was first created to address the the Open Group Federated Freebusy Challenge. Subsequently Gary s involvement has largely been on the organizational side. He served CalConnect for 8 years as President, during which time CalConnect became a truly global organization and held its first European and first Asian events.
+Gary became active in CalConnect in January 2005 when he and a colleague stumbled across the very first CalConnect Roundtable (now Conference) at the University of Washington; RPI joined CalConnect before the end of the month. Gary served as the Chair of TC-FREEBUSY when it was first created to address the the Open Group Federated Freebusy Challenge. Subsequently Gary's involvement has largely been on the organizational side. He served CalConnect for 8 years as President, during which time CalConnect became a truly global organization and held its first European and first Asian events.
 
-Gary has served twice ad Chief Financial Officer (once before and once after his stint as president), and organized our Tenth Year Anniversary event in 2014 in San Jose. He was instrumental in establishing the Board Strategic Planning process and led the two retreats the Boaard has held. Gary s excitement, interest, focus, and reasoning have done much to keep CalConnect growing and focused during its years of existence. We look forward to Gary s continued involvement with CalConnect.
+Gary has served twice ad Chief Financial Officer (once before and once after his stint as president), and organized our Tenth Year Anniversary event in 2014 in San Jose. He was instrumental in establishing the Board Strategic Planning process and led the two retreats the Boaard has held. Gary's excitement, interest, focus, and reasoning have done much to keep CalConnect growing and focused during its years of existence. We look forward to Gary's continued involvement with CalConnect.
 
 

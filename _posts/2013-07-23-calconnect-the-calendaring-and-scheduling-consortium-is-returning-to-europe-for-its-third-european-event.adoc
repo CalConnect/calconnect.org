@@ -1,27 +1,28 @@
 ---
 layout: page
-title: CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe for its third European event
+title: CalConnect -- The Calendaring and Scheduling Consortium -- is returning to Europe for its third European event
 date: 2013-07-23
 type: news
 categories: announcements current-events general-information
 excerpt: Our first two European conferences, in 2011 and 2012, were very successful, and our European colleagues attendees encouraged us to return again this autumn. Therefore, CalConnect XXVIII will take place in Prague, Czech Republic, on September 23-27, 2013, hosted by DHL.
 ---
+:page-liquid:
 
-== CalConnect – The Calendaring and Scheduling Consortium – is returning to Europe for its third European event
+== CalConnect -- The Calendaring and Scheduling Consortium -- is returning to Europe for its third European event
 
 Posted July 23, 2013
 
-Our first two European conferences, in 2011 and 2012, were very successful, and our European colleagues attendees encouraged us to return again this autumn. Therefore, link:{{'/calconnect28' | relative_url}}[CalConnect XXVIII] will take place in Prague, Czech Republic, on September 23-27, 2013, hosted by http://www.dhl.com' | relative_url}}[DHL].
+Our first two European conferences, in 2011 and 2012, were very successful, and our European colleagues attendees encouraged us to return again this autumn. Therefore, link:{{'/calconnect28' | relative_url}}[CalConnect XXVIII] will take place in Prague, Czech Republic, on September 23-27, 2013, hosted by http://www.dhl.com[DHL].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect event without having to incur the travel costs and time of coming to North America.
 
 link:{{'/' | relative_url}}[CalConnect] is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
-European companies were among CalConnect s earliest members members, and as standards and interoperability are both central to CalConnect s mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for our first regular CalConnect conference in Europe in 2011. This autumn s event in Prague is one which we hope will continue with even greater European participation in CalConnect s interoperable calendaring and scheduling projects.
+European companies were among CalConnect's earliest members members, and as standards and interoperability are both central to CalConnect's mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for our first regular CalConnect conference in Europe in 2011. This autumn's event in Prague is one which we hope will continue with even greater European participation in CalConnect's interoperable calendaring and scheduling projects.
 
 *Overview*
 
-Our venue will be the DHL facility in Prague, located at V Parku 2308/4117, Prague 4, 148 00, Czech Republic. The facility is a 5 minute walk from the Chodov metro station on Line C. All events of the CalConnect week, September 23-27, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place at the DHL facility. Full information about the conference may be found at link:{{'/calconnect28' | relative_url}}[CalConnect XXVIII] including the week s schedules, registration, and logistics information including accommodation.
+Our venue will be the DHL facility in Prague, located at V Parku 2308/4117, Prague 4, 148 00, Czech Republic. The facility is a 5 minute walk from the Chodov metro station on Line C. All events of the CalConnect week, September 23-27, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place at the DHL facility. Full information about the conference may be found at link:{{'/calconnect28' | relative_url}}[CalConnect XXVIII] including the week's schedules, registration, and logistics information including accommodation.
 
 Monday, Tuesday, and Wednesday morning, September 23-25, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, September 25-27, will be the Technical Conference (Roundtable) which will include workshops, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
@@ -36,7 +37,7 @@ We encourage you to register as soon as possible. Upon registration you will be 
 *Conference Hotel*
 
 Our conference hotel is the http://corinthia.com/en/Prague/home/[Corinthia Hotel] in Prague. We have a block of rooms and a special rate of 85 Euros/night exclusive of VAT. The special rate is available through 31 August. More information including a link to the booking form for this event may be found on the logistics page: +
-link:/calconnect28#hotel .
+link:{{'/calconnect28#hotel' | relative_url}}[/calconnect28#hotel] .
 
 *Who and What is CalConnect?*
 
@@ -60,7 +61,6 @@ Dave Thewlis +
 Executive Director +
 The Calendaring and Scheduling Consortium
 
-
 
 *More Information:*
 
@@ -68,7 +68,7 @@ More information about the test event, the technical conference, and the worksho
 
 *Interoperability Testing*
 
-The Interoperability Testing will take place Monday and Tuesday, October 1-2, plus Wednesday morning the 3rd. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow testing pairs where you will get a chance to test with everyone in the course of event.
+The Interoperability Testing will take place Monday and Tuesday, October 1-2, plus Wednesday morning the 3rd. Our interoperability test events offer those with calendaring implementations a chance to test against others one-on-one; the event is structured to allow "`testing pairs`" where you will get a chance to test with everyone in the course of event.
 
 The exact testing scenarios will be decided based on who is coming and what (and with whom) they want to test. As of today we will definitely plan to test the following areas:
 
@@ -95,12 +95,12 @@ The CalConnect XXVIII Schedule will be updated with the topics and speakers for 
 
 *Roundtable (Technical Conference)*
 
-At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week s events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXVIII Schedule. The schedule includes
+At each CalConnect event, the Roundtable offers an opportunity for each of the CalConnect Technical Committees to present its work, invite suggestions, and conduct open discussions with the attendees on issues or topics under deliberation in the technical committee. In order to facilitate people in North America joining the Roundtable portion of the week's events, the Roundtable sessions will be held Wednesday, Thursday and Friday afternoons, as will be shown in the CalConnect XXVIII Schedule. The schedule includes
 
 Opening and introduction to CalConnect +
 Report from the Interoperability Test Event +
 Technical Committee sessions for all CalConnect TCs +
-Opportunities for BOFs (birds of a feather discussions) +
+Opportunities for BOFs ("`birds of a feather`" discussions) +
 Final wrapup and summary of all Technical Committee sessions +
 CalConnect Plenary Session
 

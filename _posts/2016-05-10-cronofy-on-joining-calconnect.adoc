@@ -4,13 +4,17 @@ title: Cronofy On Joining CalConnect
 date: 2016-05-10
 type: news
 categories: announcements current-events member-news
-excerpt: Cronofy, our newest member, has blogged about their experience coming to their first CalConnect event in Hong Kong last month, and about their reasons for joining CalConnect and participating in our work:  https://www.cronofy.com/blog/cronofy-joins-calconnect/.
+excerpt: |
+  Cronofy, our newest member, has blogged about their experience coming to their
+  first CalConnect event in Hong Kong last month, and about their reasons for
+  joining CalConnect and participating in our work.
 ---
+:page-liquid:
 
-== Cronofy:  On Joining CalConnect
+Posted May 10, 2016
 
-Posted May 10, 2016 
-
-https://www.cronofy.com[Cronofy], our newest member, has blogged about their experience coming to their first CalConnect event in Hong Kong last month, and about their reasons for joining CalConnect and participating in our work: https://www.cronofy.com/blog/cronofy-joins-calconnect/[].
-
+https://www.cronofy.com[Cronofy], our newest member, has blogged about their
+experience coming to their first CalConnect event in Hong Kong last month, and
+about their reasons for joining CalConnect and participating in our work:
+https://www.cronofy.com/blog/cronofy-joins-calconnect/[].
 

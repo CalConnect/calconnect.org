@@ -6,31 +6,32 @@ type: news
 categories: announcements current-events general-information
 excerpt: Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
 ---
+:page-liquid:
 
 == Interoperability Testing at CalConnect XXIII
 
-Posted December 8, 2011 
+Posted December 8, 2011
 
 Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
 
 Testing scenarios at this event will continue to evolve but at this point we are looking at the following possibilities:
 
-¢ CardDAV testing +
- ¢ iCalendar/iMIP/iTIP testing +
- ¢ CalDAV testing, especially CalDAV Scheduling +
- ¢ CalDAV/CardDAV SRV Discovery and Well-Known URI +
- ¢ WebDAV Sync Report for CalDAV and CardDAV +
- ¢ Timezone Service Protocol and Timezones by Reference +
- ¢ xCal, the XML Format for iCalendar +
- ¢ Task Scheduling +
- ¢ (from client side typically don t have organizers and attendees) +
- ¢ Extended query +
- ¢ Recurring tasks for alarms and regeneration +
- ¢ Timerange query with no DTSTART and DUE +
- ¢ CalWS-REST and CalWS-SOAP, the web services protocols for calendar +
- ¢ iSchedule (new draft planned by testing event) +
- ¢ Mobile CalDAV client/server testing +
- ¢ If there is interest, synchronization testing for mobile clients in general
+* CardDAV testing
+* iCalendar/iMIP/iTIP testing
+* CalDAV testing, especially CalDAV Scheduling
+* CalDAV/CardDAV SRV Discovery and Well-Known URI
+* WebDAV Sync Report for CalDAV and CardDAV
+* Timezone Service Protocol and Timezones by Reference
+* xCal, the XML Format for iCalendar
+* Task Scheduling
+* (from client side typically don't have organizers and attendees)
+* Extended query
+* Recurring tasks for alarms and regeneration
+* Timerange query with no DTSTART and DUE
+* CalWS-REST and CalWS-SOAP, the web services protocols for calendar
+* iSchedule (new draft planned by testing event)
+* Mobile CalDAV client/server testing
+* If there is interest, synchronization testing for mobile clients in general
 
 What we actually do test will depend on who registers, and what (and with whom) they wish to test, so early registration for the test event would be appreciated.
 

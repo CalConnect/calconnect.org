@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information special-focus the-world-of-calendaring
 excerpt: CalConnect offers two general public discussion lists for calendaring and scheduling, one primarily for calendaring system developers and one for system administrators of calendaring and scheduling systems. Each list has a home page on the CalConnect website with information about the purpose of the list, charter and rules of use, and a link to subscribe, maintain, and unsubscribe. Each list has well over 100 subscribers.
 ---
+:page-liquid:
 
 == CalConnect Calendar Developers and System Administrators Public Discussion Lists
 
@@ -17,7 +18,7 @@ CalConnect public discussion lists are moderated, and new subscription requests 
 
 link:{{'/caldeveloperlist' | relative_url}}[Calendar and Scheduling Developer List]
 
-CalConnect has implemented this public discussion list (mailto:caldeveloper-l@lists.calconnect.org[caldeveloper-l@lists.calconnect.org]) for discussion of calendaring and scheduling developers  issues and questions. The Charter and Rules of Use for this list are given on the list s web page at the link above. We invite all calendar developers and other interested parties to subscribe to this list and make use of it.
+CalConnect has implemented this public discussion list (mailto:caldeveloper-l@lists.calconnect.org[caldeveloper-l@lists.calconnect.org]) for discussion of calendaring and scheduling developers  issues and questions. The Charter and Rules of Use for this list are given on the list's web page at the link above. We invite all calendar developers and other interested parties to subscribe to this list and make use of it.
 
 The primary audience and expected participants are calendaring and scheduling system developers, and others working on calendaring-related and scheduling-related projects. However, the list is open to any and all participants that agree to and adhere to the rules of use.
 
@@ -25,6 +26,6 @@ link:{{'/caladminlist' | relative_url}}[Calendaring and Scheduling Sysadmin List
 
 The Calendaring and Scheduling Admin Mailing List (mailto:caladmin-l@lists.calconnect.org[caladmin-l@lists.calconnect.org]) exists to foster discussion about all aspects of calendaring and scheduling system administration and management. This includes, but is not limited to, C&S platforms and applications, emerging C&S standards, message flows, access control, unsolicited or bulk agenda invitations (SPCAL), account management, virus vectors, disaster recovery, and interactions with closely related collaborative technologies.
 
-The primary audience and expected participants are calendaring and scheduling system administrators. However, the list is open to any and all participants that agree to and adhere to the rules of use.&nbsp;
+The primary audience and expected participants are calendaring and scheduling system administrators. However, the list is open to any and all participants that agree to and adhere to the rules of use.
 
 

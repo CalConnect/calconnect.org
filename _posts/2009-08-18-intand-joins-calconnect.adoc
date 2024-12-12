@@ -4,13 +4,14 @@ title: Intand joins CalConnect
 date: 2009-08-18
 type: news
 categories: announcements general-information member-news
-excerpt: I’m delighted to announce that  Intand, of Bellevue, Washington, has joined CalConnect.
+excerpt: I'm delighted to announce that  Intand, of Bellevue, Washington, has joined CalConnect.
 ---
+:page-liquid:
 
 == Intand joins CalConnect
 
 Posted August 18, 2009 
 
-I m delighted to announce that http://www.intand.com[Intand], of Bellevue, Washington, has joined CalConnect.
+I'm delighted to announce that http://www.intand.com[Intand], of Bellevue, Washington, has joined CalConnect.
 
 

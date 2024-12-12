@@ -4,12 +4,13 @@ title: Session schedule for CalConnect XXIII published
 date: 2011-12-12
 type: news
 categories: announcements current-events general-information
-excerpt: We have posted the schedule for the week for the next CalConnect meeting, January 30 – February 3, 2012, at Apple in Cupertino. The schedule covers the entire week and includes the technical committee session schedule in addition to the IOP test event. See link:/calconnect23#schedule.
+excerpt: We have posted the schedule for the week for the next CalConnect meeting, January 30 -- February 3, 2012, at Apple in Cupertino.
 ---
+:page-liquid:
 
 == Session schedule for CalConnect XXIII published
 
-Posted December 12, 2011 
+Posted December 12, 2011
 
 We have posted the schedule for the week for the next CalConnect meeting, January 30  February 3, 2012, at Apple in Cupertino. The schedule covers the entire week and includes the technical committee session schedule in addition to the IOP test event. See link:{{'/calconnect23#schedule' | relative_url}}[].
 

@@ -4,18 +4,19 @@ title: Read any good timezones lately?
 date: 2011-01-07
 type: news
 categories: general-information special-focus the-world-of-calendaring
-excerpt: “I believe that the time is ripe for significantly better documentation of programs, and that we can best achieve this by considering programs to be works of literature” – Donald Knuth, 1984
+excerpt: “I believe that the time is ripe for significantly better documentation of programs, and that we can best achieve this by considering programs to be works of literature” -- Donald Knuth, 1984
 ---
+:page-liquid:
 
 == Read any good timezones lately?
 
-Posted January 7, 2011 
+Posted January 7, 2011
 
-I believe that the time is ripe for significantly better documentation of programs, and that we can best achieve this by considering programs to be works of literature  Donald Knuth, 1984
+"`I believe that the time is ripe for significantly better documentation of programs, and that we can best achieve this by considering programs to be works of literature`"  Donald Knuth, 1984
 
 In a previous posting, I have written about various aspects of timezones, which are perhaps the sine qua non of interoperable calendaring. This posting, mercifully my last on this topic, looks at timezones from a different perspective.
 
-RFC 5545, the iCalendar specification, has much to say about timezones, including two curious notes:
+RFC 5545, the iCalendar specification, has much to say about timezones, including two "`curious`" notes:
 
 ____
 This document does not define a naming convention for time zone identifiers. Implementers may want to use the naming conventions defined in existing time zone specifications such as the public-domain TZ database [TZDB]. The specification of globally unique time zone identifiers is not addressed by this document and is left for future study.
@@ -27,17 +28,17 @@ ____
 The specification of a global time zone registry is not addressed by this document and is left for future study. However, implementers may find the TZ database [TZDB] a useful reference. It is an informal, public-domain collection of time zone information, which is currently being maintained by volunteer Internet participants, and is used in several operating systems. This database contains current and historical time zone information for a wide variety of locations around the globe; it provides a time zone identifier for every unique time zone rule set in actual use since 1970, with historical data going back to the introduction of standard time.
 ____
 
-The public-domain TZ database [TZDB] is sometimes referred to patronymically as the Olson database, after Arthur David Olson, one of the founding stewards of this project. As Paul Eggert has maintained the timezone data for many years, perhaps Olson-Eggert database would be a more appropriate title.
+The "`public-domain TZ database [TZDB]`" is sometimes referred to patronymically as the "`Olson`" database, after Arthur David Olson, one of the founding stewards of this project. As Paul Eggert has maintained the timezone data for many years, perhaps "`Olson-Eggert database`" would be a more appropriate title.
 
-With Arthur David Olson s announcement of his retirement in 2012, TZDB has become a topic of significant interest. In addition to his stewardship of some of the programs and utilities used to maintain TZDB, Mr. Olson also brokered an arrangement to have the TZDB and associated mailing list hosted by NIH, his employer. A number of proposals are circulating which speak to the various aspects of making the TZDB infrastructure more robust, while at the same time preserving much of the culture which has made it successful.
+With Arthur David Olson's announcement of his retirement in 2012, TZDB has become a topic of significant interest. In addition to his stewardship of some of the programs and utilities used to maintain TZDB, Mr. Olson also brokered an arrangement to have the TZDB and associated mailing list hosted by NIH, his employer. A number of proposals are circulating which speak to the various aspects of making the TZDB infrastructure more robust, while at the same time preserving much of the culture which has made it successful.
 
 A recent conversation with a calendar developer put me onto another path with respect to the future of TZDB. My colleague noted that TZDB was more than just a collection of timezone rules, names, and regions, but also provided commentary, much of which would be of interest to people not otherwise invested in timezones or perhaps even calendaring. It occurred to me that in a post-Olson world, it would not be inconceivable that this parenthetical marginalia might no longer part of the TZDB distribution.
 
-This reminded me of an analogous situation in the library world in the mid 1990 s which was incited by an article in the New Yorker written by Nicholson Baker. In Discard, Baker, who was not a librarian by training, argued at some length for preserving the physical card catalog records even as libraries migrated to what were then called Online Public Access Catalogs, or OPACs. Baker maintained that notations and other marginalia added to the cards by both librarians (officially) and patrons alike (unofficially), provided invaluable historical data, data which was being lost forever as the catalogs were being converted to electronic versions. Baker went so far as to argue that the physical condition of the cards  the wear and tear, and the dirt and smudges, were also significant parts of this historical record.
+This reminded me of an analogous situation in the library world in the mid 1990's which was incited by an article in the New Yorker written by Nicholson Baker. In "`Discard`", Baker, who was not a librarian by training, argued at some length for preserving the physical card catalog records even as libraries migrated to what were then called "`Online Public Access Catalogs`", or OPACs. Baker maintained that notations and other marginalia added to the cards by both librarians (officially) and patrons alike (unofficially), provided invaluable historical data, data which was being lost forever as the catalogs were being converted to electronic versions. Baker went so far as to argue that the physical condition of the cards  the wear and tear, and the dirt and smudges, were also significant parts of this historical record.
 
-It is hard to imagine today the stir, the debate, the acrimony, resulting from Baker s article, which from many perspectives is worth reading today. My university developed our own OPAC (Infotrac) which went live on our mainframe in the early 1980 s. The removal and ultimate disposition of the card catalog a few years later, without the foresight which would be provided by Baker some 10 years later, went unrecorded for posterity.
+It is hard to imagine today the stir, the debate, the acrimony, resulting from Baker's article, which from many perspectives is worth reading today. My university developed our own OPAC (Infotrac) which went live on our mainframe in the early 1980 s. The removal and ultimate disposition of the card catalog a few years later, without the foresight which would be provided by Baker some 10 years later, went unrecorded for posterity.
 
-I found this aspect of TZDB interesting enough to write about, until I discovered that Jon Udell had beaten me to it in his 2009 posting, A literary appreciation of the Olson/Zoneinfo/tz database. Udell closes with So is Olson/Zoneinfo/tz a database or a document? Clearly both. And its synthesis of the two modes is, I would argue, a nice example of literate programming. Literate programming refers to a concept developed by Stanford computer science Professor Donald Knuth, which he implemented as part of his TeX typesetting system. Earlier in his piece, Udell refers to the Talmudic scholarship found in TZDB, and perhaps that is a more apt description than literate programming.
+I found this aspect of TZDB interesting enough to write about, until I discovered that Jon Udell had beaten me to it in his 2009 posting, "`A literary appreciation of the Olson/Zoneinfo/tz database`". Udell closes with "`So is Olson/Zoneinfo/tz a database or a document? Clearly both. And its synthesis of the two modes is, I would argue, a nice example of literate programming.`" "`Literate programming`" refers to a concept developed by Stanford computer science Professor Donald Knuth, which he implemented as part of his TeX typesetting system. Earlier in his piece, Udell refers to the "`Talmudic scholarship`" found in TZDB, and perhaps that is a more apt description than "`literate programming`".
 
 Although the stewardship and/or editorship of TZDB largely rest with Paul Eggert and Arthur David Olson, the timely TZDB of timezone changes through the world would not be possible without the network of volunteers who ferret out these changes in myriad, resourceful ways in the absence of some sort of organized oversight of timezones across the globe.
 
@@ -62,7 +63,7 @@ http://www.newyorker.com/archive/1996/10/14/1996_10_14_050_TNY_CARDS_000375994 +
 http://www.newyorker.com/archive/2000/07/24/2000_07_24_042_TNY_LIBRY_000021310
 
 Oxford English Dictionary +
- The Meaning of Everything: The Story of the Oxford English Dictionary By Simon Winchester
+"`The Meaning of Everything: The Story of the Oxford English Dictionary`" By Simon Winchester
 
 Gary Schwartz +
 President, The Calendaring and Scheduling Consortium

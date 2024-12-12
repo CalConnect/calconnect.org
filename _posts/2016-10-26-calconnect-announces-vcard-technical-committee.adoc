@@ -4,17 +4,18 @@ title: CalConnect Announces VCARD Technical Committee
 date: 2016-10-26
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: A new Technical Committee, VCARD, has been formed to extend the VCARD standards.  VCARD today essentially supports only North American and Western Europe address formats; the goal of the VCARD Technical Committee is to support address formats for the rest of the world, and offer new capabilities and exchange methods.  The committee will also consider security aspects as related to VCARD data and the exchange of VCARDs. 
+excerpt: A new Technical Committee, VCARD, has been formed to extend the VCARD standards. VCARD today essentially supports only North American and Western Europe address formats; the goal of the VCARD Technical Committee is to support address formats for the rest of the world, and offer new capabilities and exchange methods. The committee will also consider security aspects as related to VCARD data and the exchange of VCARDs.
 ---
+:page-liquid:
 
 == CalConnect Announces VCARD Technical Committee
 
 Posted October 26, 2016 
 
-A new Technical Committee, VCARD, has been formed to extend the VCARD standards. VCARD today essentially supports only North American and Western Europe address formats; the goal of the VCARD Technical Committee is to support address formats for the rest of the world, and offer new capabilities and exchange methods. The committee will also consider security aspects as related to VCARD data and the exchange of VCARDs.&nbsp;
+A new Technical Committee, VCARD, has been formed to extend the VCARD standards. VCARD today essentially supports only North American and Western Europe address formats; the goal of the VCARD Technical Committee is to support address formats for the rest of the world, and offer new capabilities and exchange methods. The committee will also consider security aspects as related to VCARD data and the exchange of VCARDs.
 
-&nbsp;
 
-Please see https://www.calconnect.org/about/technical-committees/vcard-technical-committee for more information about the TC.
+
+Please see link:{{'/about/technical-committees/vcard-technical-committee' | relative_url }} for more information about the TC.
 
 

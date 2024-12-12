@@ -4,8 +4,9 @@ title: Calendaring and Scheduling Glossary of Terms Updated
 date: 2012-12-26
 type: news
 categories: announcements general-information the-world-of-calendaring
-excerpt: Version 2.1 of the Calendaring and Scheduling Glossary of Terms has been published. Version 2.1 adds 20 new terms including Autodiscovery, Consensus Scheduling, Event Publication, Managed Attachment, Timezone Service, VAVAILABILITY and VPOLL.  
+excerpt: Version 2.1 of the Calendaring and Scheduling Glossary of Terms has been published. Version 2.1 adds 20 new terms including Autodiscovery, Consensus Scheduling, Event Publication, Managed Attachment, Timezone Service, VAVAILABILITY and VPOLL. 
 ---
+:page-liquid:
 
 == Calendaring and Scheduling Glossary of Terms Updated
 

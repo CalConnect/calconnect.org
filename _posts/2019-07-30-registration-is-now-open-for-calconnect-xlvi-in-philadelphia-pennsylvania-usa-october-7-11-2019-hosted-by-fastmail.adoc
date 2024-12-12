@@ -4,23 +4,24 @@ title: Registration is now open  for CalConnect XLVI in Philadelphia, Pennsylvan
 date: 2019-07-30
 type: news
 categories: the-world-of-calendaring general-information current-events announcements
-excerpt: The CalConnect XLVI web page is located at https://www.calconnect.org/events/calconnect-xlvi-october-7-11-2019 and contains lodging information, airport and transfer information, and meeting venue. The CalConnect Conference itself will be four days, Monday-Thursday, October 7-10, 2019.  Friday October 11 will be a joint work and testing day for those who wish to stay through Friday.
+excerpt: The CalConnect XLVI web page is located at link:{{'/events/calconnect-xlvi-october-7-11-2019' | relative_url }} and contains lodging information, airport and transfer information, and meeting venue. The CalConnect Conference itself will be four days, Monday-Thursday, October 7-10, 2019. Friday October 11 will be a joint work and testing day for those who wish to stay through Friday.
 ---
+:page-liquid:
 
 == Registration is now open  for CalConnect XLVI in Philadelphia, Pennsylvania USA, October 7-11, 2019, hosted by FastMail
 
-Posted July 30, 2019 
+Posted July 30, 2019
 
-The CalConnect XLVI web page is located at https://www.calconnect.org/events/calconnect-xlvi-october-7-11-2019 and contains lodging information, airport and transfer information, and meeting venue. The CalConnect Conference itself will be four days, Monday-Thursday, October 7-10, 2019. Friday October 11 will be a joint work and testing day for those who wish to stay through Friday.
+The CalConnect XLVI web page is located at link:{{'/events/calconnect-xlvi-october-7-11-2019' | relative_url }} and contains lodging information, airport and transfer information, and meeting venue. The CalConnect Conference itself will be four days, Monday-Thursday, October 7-10, 2019. Friday October 11 will be a joint work and testing day for those who wish to stay through Friday.
 
-The meeting venue is a shared conference facility at 1500 Walnut Steet in central Philadelphia. The Conference Hotel is the https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia[Club Quarters Hotel Philadelphia] very close to the venue. Alternative hotels are also referenced in the https://www.calconnect.org/events/calconnect-xlvi-october-7-11-2019#lodging[Lodging] section of the web page. All hotels may be booked immediately.&nbsp;
+The meeting venue is a shared conference facility at 1500 Walnut Steet in central Philadelphia. The Conference Hotel is the https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia[Club Quarters Hotel Philadelphia] very close to the venue. Alternative hotels are also referenced in the link:{{'/events/calconnect-xlvi-october-7-11-2019#lodging' | relative_url }}[Lodging] section of the web page. All hotels may be booked immediately.
 
-Please see the introduction on the https://www.calconnect.org/events/calconnect-xlvi-october-7-11-2019[CalConnect XLVI] web page for a fuller description of the event. In addition to the regular conference and testing opportunities, we will offer Tutorials Monday morning on the core C&S standards and specifications for newcomers and those interested. If you are please let us know what specific tutorial subjects would be most useful by e-mailing us at mailto:ontact@calconnect.org[contact@calconnect.org].
+Please see the introduction on the link:{{'/events/calconnect-xlvi-october-7-11-2019' | relative_url }}[CalConnect XLVI] web page for a fuller description of the event. In addition to the regular conference and testing opportunities, we will offer Tutorials Monday morning on the core C&S standards and specifications for newcomers and those interested. If you are please let us know what specific tutorial subjects would be most useful by e-mailing us at mailto:ontact@calconnect.org[contact@calconnect.org].
 
-The schedule for the four days is currently under development, however planned highlighted sessions are currently identified in the https://www.calconnect.org/events/calconnect-xlvi-october-7-11-2019#conference-schedule[Schedule] section of the web page. We will post an initial schedule as soon as possible and announce it to these lists.&nbsp;&nbsp;
+The schedule for the four days is currently under development, however planned highlighted sessions are currently identified in the link:{{'/events/calconnect-xlvi-october-7-11-2019#conference-schedule' | relative_url }}[Schedule] section of the web page. We will post an initial schedule as soon as possible and announce it to these lists.
 
-Suggestions for sessions: We are always open to suggestions for sessions on new and different topics; please e-mail your thoughts to mailto:contact@calconnect.org[contact@calconnect.org]&nbsp;&nbsp;
+Suggestions for sessions: We are always open to suggestions for sessions on new and different topics; please e-mail your thoughts to mailto:contact@calconnect.org[contact@calconnect.org]
 
-Fees and Registration Options: The registration fee for the full four-day event is $950 (late registration is $1050. We are also offering a one-day registration fee of $400 (late registration $475).&nbsp; Registration information is at https://www.calconnect.org/events/event-registration-payment and is linked from the event web page.
+Fees and Registration Options: The registration fee for the full four-day event is $950 (late registration is $1050). We are also offering a one-day registration fee of $400 (late registration $475). Registration information is at link:{{'/events/event-registration-payment' | relative_url }} and is linked from the event web page.
 
 

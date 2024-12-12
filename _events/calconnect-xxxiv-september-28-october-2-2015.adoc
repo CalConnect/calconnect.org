@@ -65,7 +65,7 @@ Location
 
 The Interoperability Test Event, Conference and Wednesday evening Reception will take place at http://www.rosarium.net/[Rosarium Amsterdam], Amstelpark 1, Europaboulevard, 1083 HZ Amsterdam, The Netherlands. Meeting room information will be available on the LCD displays in the reception area at the venue. +
  +
- The venue is located in the Amstelpark http://www.amsterdam.info/parks/amstelpark/), just behind the freeway and close to the RAI congress and exhibition halls. The park has been established since 1972, as one of the sites of the second world garden fair  Floriade. Since the fair ended, the municipality strived to maintain some of it attractions, and today Amstelpark is one of the two most popular parks in Amsterdam. +
+ The venue is located in the Amstelpark http://www.amsterdam.info/parks/amstelpark/), just behind the freeway and close to the RAI congress and exhibition halls. The park has been established since 1972, as one of the sites of the second world garden fair -- Floriade. Since the fair ended, the municipality strived to maintain some of it attractions, and today Amstelpark is one of the two most popular parks in Amsterdam. +
  +
  Wireless and wired internet connectivity will be available for all visitors. +
  +
@@ -91,7 +91,7 @@ Transportation
 [[lodging]]
 Lodging
 
-Our conference hotel for this event is the Motel One Amsterdam-RAI. Motel One is a German boutique hotel chain, and the Motel One Amsterdam-RAI is brand new  it opened on 6 August. +
+Our conference hotel for this event is the Motel One Amsterdam-RAI. Motel One is a German boutique hotel chain, and the Motel One Amsterdam-RAI is brand new -- it opened on 6 August. +
  +
  The hotel offers free wi-fi throughout the hotel, a 24-hour lounge and bar, and a full continental breakfast (everything but hot entrees) each morning (for ¬9,50 additional). It does not have a regular restaurant but there are many restaurants in the area. +
  +
@@ -239,7 +239,7 @@ a| CalDAV Topics +
 _The new Server Information Document for DAV servers_ 
 
 | 1230-1330 | Lunch
-| 1330-1415 | Sharing  state and status of the specifications
+| 1330-1415 | Sharing -- state and status of the specifications
 | 1415-1530 | Contacts Sharing - which data model?
 | 1530-1600 | Break and refreshments
 | 1600-1700

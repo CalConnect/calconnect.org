@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information member-news the-world-of-calendaring
 excerpt: CalConnect welcomes FastMail as a member of the Consortium. FastMail, based in Melbourne, Australia, is a hosted e-mail service with additional features including calendaring support.
 ---
+:page-liquid:
 
 == CalConnect Welcomes FastMail
 

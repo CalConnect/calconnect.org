@@ -4,8 +4,9 @@ title: CalConnect XLVII Rescheduled to October 12-16, 2020
 date: 2020-04-12
 type: news
 categories: the-world-of-calendaring special-focus current-events announcements
-excerpt: The CalConnect XXVII meeting in Nottingham is now rescheduled again, from June 2020 to October 12-16, 2020.  All other arrangements (host, venue, conference hotel) remain unchanged.  The Board has reached this decision after reviewing the current status of the pandemic, as available from the WHO and CDC, and concluded that the chance of having a successful in-person conference in June is very slim.
+excerpt: The CalConnect XXVII meeting in Nottingham is now rescheduled again, from June 2020 to October 12-16, 2020. All other arrangements (host, venue, conference hotel) remain unchanged. The Board has reached this decision after reviewing the current status of the pandemic, as available from the WHO and CDC, and concluded that the chance of having a successful in-person conference in June is very slim.
 ---
+:page-liquid:
 
 == CalConnect XLVII Rescheduled to October 12-16, 2020
 

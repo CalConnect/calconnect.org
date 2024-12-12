@@ -6,6 +6,7 @@ type: news
 categories:
 excerpt: It is now only 4 weeks (28 days) to CalConnect XVII, February 1-5 at the University of California at Irvine, and only 12 days until Early Registration (for the Roundtable) ends on the 15th. After that the registration fee will increase from $350 to $395.
 ---
+:page-liquid:
 
 == Only 4 weeks to CalConnect XVII
 

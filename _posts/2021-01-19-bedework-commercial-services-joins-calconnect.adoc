@@ -4,8 +4,9 @@ title: Bedework Commercial Services joins CalConnect
 date: 2021-01-19
 type: news
 categories: the-world-of-calendaring current-events member-news
-excerpt: Bedework Commercial Services (BCS), based in Troy, New York, offers  cloud-hosted public and personal calendaring for organizations built atop software from the Bedework project. Bedework is a mature, open-source, standards-compliant calendaring system used by colleges, universities, and companies all over the world.
+excerpt: Bedework Commercial Services (BCS), based in Troy, New York, offers cloud-hosted public and personal calendaring for organizations built atop software from the Bedework project. Bedework is a mature, open-source, standards-compliant calendaring system used by colleges, universities, and companies all over the world.
 ---
+:page-liquid:
 
 == Bedework Commercial Services joins CalConnect
 

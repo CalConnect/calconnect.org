@@ -4,13 +4,14 @@ title: The University of Wisconsin Madison joins CalConnect
 date: 2020-09-08
 type: news
 categories: the-world-of-calendaring general-information current-events member-news
-excerpt: CalConnect welcomes The University of Wisconsin Madison as a member.  The University was a member of CalConnect from 2004 to 2015, and we are very pleased to welcome them back. 
+excerpt: CalConnect welcomes The University of Wisconsin Madison as a member. The University was a member of CalConnect from 2004 to 2015, and we are very pleased to welcome them back.
 ---
+:page-liquid:
 
 == The University of Wisconsin Madison joins CalConnect
 
 Posted September 8, 2020 
 
-CalConnect welcomes http://www.wisc.edu[The University of Wisconsin Madison] as a member. The University was a member of CalConnect from 2004 to 2015, and we are very pleased to welcome them back.&nbsp;
+CalConnect welcomes http://www.wisc.edu[The University of Wisconsin Madison] as a member. The University was a member of CalConnect from 2004 to 2015, and we are very pleased to welcome them back.
 
 

@@ -24,43 +24,45 @@ University of Hong Kong, K.K. Leung Building, Room KK102
 [[intro]]
 image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/hku-academic-event,width=800,height=598]
 
-CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong Kong for our first members conference to be held in the Asia/Pacific Region. +
- +
- To celebrate this special event, with our Hong Kong host organizations, OGCIO and Ribose (http://ribose.com/[ribose.com]), we are holding two additional events, https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[a public day (Wednesday, April 20, 2016)] at the https://www.itfest.hk/template?series=2&id=141&lang=en[Hong Kong International ITFest], and a seminar at https://www.hku.hk[The University of Hong Kong]on Tuesday evening April 19th. +
- +
- CalConnect members, calendaring & scheduling entrepreneurs and software developers, will present a program suitable for both technical (computer science students and faculty, software developers) as well as less technical audiences: +
- +
- 1700 - 1715  Intro to CalConnect and Interoperable Calendaring & Scheduling +
- 1715 - 1745 C&S Grand Challenges - where weve been, where were going (panel) +
- 1745 - 1830  C&S for the Developer  a look at CalDAV, web services, TZ server, open source, standards (Panel) +
- 1830 - 1900 Question & Answer session +
- +
- Following the formal program, there will be an opportunity to speak with the CalConnect presenters. +
- +
- Although CalConnect is not a formal standards body, over the last five years, most of the Calendaring standards development and discussion have taken place in CalConnect. Our http://www.calconnect.org/membership[membership] includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities. +
- +
- CalConnect is very excited to be coming to Hong Kong for our http://www.calconnect.org/events/calconnect-public-day-hong-kong-it-festhttps://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[36th Conference], and we are equally excited to be able to share and discuss our work with the students and faculty at Hong Kong University. +
- +
- To learn more about CalConnect, our events in Hong Kong, and the CalConnect members who are attending these events, see: +
+CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong Kong for our first members conference to be held in the Asia/Pacific Region.
+
+To celebrate this special event, with our Hong Kong host organizations, OGCIO and Ribose (http://ribose.com/[ribose.com]), we are holding two additional events, https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[a public day (Wednesday, April 20, 2016)] at the https://www.itfest.hk/template?series=2&id=141&lang=en[Hong Kong International ITFest], and a seminar at https://www.hku.hk[The University of Hong Kong]on Tuesday evening April 19th.
+
+CalConnect members, calendaring & scheduling entrepreneurs and software developers, will present a program suitable for both technical (computer science students and faculty, software developers) as well as less technical audiences:
+
+1700 - 1715  Intro to CalConnect and Interoperable Calendaring & Scheduling +
+1715 - 1745 C&S Grand Challenges - where weve been, where were going (panel) +
+1745 - 1830  C&S for the Developer -- a look at CalDAV, web services, TZ server, open source, standards (Panel) +
+1830 - 1900 Question & Answer session
+
+Following the formal program, there will be an opportunity to speak with the CalConnect presenters.
+
+Although CalConnect is not a formal standards body, over the last five years, most of the Calendaring standards development and discussion have taken place in CalConnect. Our http://www.calconnect.org/membership[membership] includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities.
+
+CalConnect is very excited to be coming to Hong Kong for our http://www.calconnect.org/events/calconnect-public-day-hong-kong-it-festhttps://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[36th Conference], and we are equally excited to be able to share and discuss our work with the students and faculty at Hong Kong University.
+
+To learn more about CalConnect, our events in Hong Kong, and the CalConnect members who are attending these events, see:
+
 https://www.calconnect.org/ +
 https://www.calconnect.org/email-announce/20160420-calconnect-hkitfest.html +
 https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest +
 https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-festhttps://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016]
 
-+
- We look forward to speaking with you on April 19th. +
- +
- On behalf of CalConnect, the Calendaring & Scheduling Consortium, +
- +
- Gary Schwartz +
- President, CalConnect +
- Director of Communications & Middleware Technologies, Rensselaer Polytechnic Institute +
+We look forward to speaking with you on April 19th.
+
+On behalf of CalConnect, the Calendaring & Scheduling Consortium,
+
+Gary Schwartz +
+President, CalConnect +
+Director of Communications & Middleware Technologies, Rensselaer Polytechnic Institute +
 mailto:schwag@rpi.edu[schwag@rpi.edu]
+
 === Sponsors
 
 CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
 
-image::/sites/default/files/media/sponsor-logos3.png[""]
+image::/sites/default/files/media/sponsor-logos3.png[]
+
 ==== Hosts
 
 * http://www.ribose.com/[Ribose]
@@ -97,14 +99,13 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 
 Conference Details
 
-CalConnect conference planners share a "reading list" for conference attendees to help them prepare for, and participate in conference discussions. It is not a requirement that attendees familiarize themselves with all these material,s, but we believe it will make the experience more enjoyable and valuable, especially for first time attendees. +
- +
- Although the Seminar is intended to be accessible to technical and non-technical audiences, Seminar attendees might find it interesting to see some of these technical references.
+CalConnect conference planners share a "reading list" for conference attendees to help them prepare for, and participate in conference discussions. It is not a requirement that attendees familiarize themselves with all these material,s, but we believe it will make the experience more enjoyable and valuable, especially for first time attendees.
+
+Although the Seminar is intended to be accessible to technical and non-technical audiences, Seminar attendees might find it interesting to see some of these technical references.
 
 
 
-*Reading list for CalConnect XXXVI conference attendees* +
- 
+*Reading list for CalConnect XXXVI conference attendees*
 
 The following is a reading/familiarization list of documents, intended both for first-time attendees and those familiar with calendaring and scheduling specifications but who may not be familiar with the specific areas to be discussed in sessions at the coming conference.
 
@@ -122,15 +123,15 @@ Some familiarity with the following is desirable:
 
 
 
-RFC 5545 - iCalendar: https://exchange.rpi.edu/owa/redir.aspx?REF=qvYp6QEv7UMqvH4g5jl2UouXG4skysakSC0M6jxWEZIj1iRLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPUFVcTdnd2cyRmE5WEhsc0htRXBmQXE4MGpxNVcwa1ZNcHYwX2dBSkh0MGtMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0xTlRRMUxuUjRkQS4u[http://www.ietf.org/rfc/rfc5545.txt]
+RFC 5545 - iCalendar: http://www.ietf.org/rfc/rfc5545.txt[]
 
-RFC 5546 - iTIP: https://exchange.rpi.edu/owa/redir.aspx?REF=p8SzU4qQTzlIYAAnYcyQnJszaPUkL_HIXPC1bnZDEQgj1iRLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPUg3NloxbDdXMlhsenVrNXNlQTZ2Z0hSTUpVY09aaDZ4Ny1EU1VkU0dJM1VMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0xTlRRMkxuUjRkQS4u[http://www.ietf.org/rfc/rfc5546.txt]
+RFC 5546 - iTIP: http://www.ietf.org/rfc/rfc5546.txt[]
 
-RFC 6047 - iMIP: https://exchange.rpi.edu/owa/redir.aspx?REF=o4DAM5t4KCQ1hXYkY0yT3xEkvU4OqcBWKolNQ7-orgAj1iRLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPXUyalJDT2dtZFRSQkY2SkpoWTVoaXJadUVrRXJualMxRWNIeUIyV2tiS3dMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0yTURRM0xuUjRkQS4u[http://www.ietf.org/rfc/rfc6047.txt]
+RFC 6047 - iMIP: http://www.ietf.org/rfc/rfc6047.txt[]
 
-RFC 4791 - CalDAV: https://exchange.rpi.edu/owa/redir.aspx?REF=nMXjgM8e2CSLPk41S8DGV1K68lyxukA3rmhTSUfjzCmENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPTlJaWtlNDJBME1ZWGNkYVZkdWtNX2w0OVNqNzgtODFyV3Bva0pkaXFsTmNMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0wTnpreExuUjRkQS4u[http://www.ietf.org/rfc/rfc4791.txt]
+RFC 4791 - CalDAV: http://www.ietf.org/rfc/rfc4791.txt[]
 
-RFC 6638 - CalDAV Scheduling: https://exchange.rpi.edu/owa/redir.aspx?REF=7wecYUVW65QerbAhSKroN02XYYkH8EfL6smZCQv-6sqENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPVVGaFNwTm1GZ0doeGJyZzNTeG9MdlVoMVk4dDdyNGxyS3BQZ3M2b3VRUUFMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0yTmpNNExuUjRkQS4u[http://www.ietf.org/rfc/rfc6638.txt]
+RFC 6638 - CalDAV Scheduling: http://www.ietf.org/rfc/rfc6638.txt[]
 
 
 
@@ -142,13 +143,13 @@ The following standards and in-progress drafts have had their status changed sin
 
 
 
-RFC 7808 - Time Zone Data Distribution Service: https://exchange.rpi.edu/owa/redir.aspx?REF=_f14JPaohV3YLBKoU2txZO5N420Y251xlgpt2odTRI-ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPW9PY0k1RFFzWVlqd2pERFBQRlpDSnZjTTc1cEVpVDFfUm9jQWFMZ0kzcEVMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM2QzZHk1eVptTXRaV1JwZEc5eUxtOXlaeTl5Wm1NdmNtWmpOemd3T0M1MGVIUS4.[https://www.rfc-editor.org/rfc/rfc7808.txt]
+RFC 7808 - Time Zone Data Distribution Service: https://www.rfc-editor.org/rfc/rfc7808.txt[]
 
-RFC 7808 CalDAV Time Zones by Reference: https://exchange.rpi.edu/owa/redir.aspx?REF=hzozfFX39-o6dpO4kn0pqgbof864nCy3g5pyo9eoI0-ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPWJfTU1HQlVHaGVWa1VsOURxVG1TQUU3WW5fV2J4MV82dzBCNWJLUlhYVmdMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM2QzZHk1eVptTXRaV1JwZEc5eUxtOXlaeTl5Wm1NdmNtWmpOemd3T1M1MGVIUS4.[https://www.rfc-editor.org/rfc/rfc7809.txt]
+RFC 7808 CalDAV Time Zones by Reference: https://www.rfc-editor.org/rfc/rfc7809.txt[]
 
-VAVAILABILITY: https://exchange.rpi.edu/owa/redir.aspx?REF=yM35HzWvHhi_l6XRrWMOwuZ7_kLrRpGVl-t-tqfuBTGENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPTJBQnZRcXduZ2VRTlJ3VkpGSWE0VHMyWkEwQmVNVzFMTzI4YWRYWDRkTjhMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMMlJoZEdGMGNtRmphMlZ5TG1sbGRHWXViM0puTDJSdll5OWtjbUZtZEMxcFpYUm1MV05oYkdWNGRDMWhkbUZwYkdGaWFXeHBkSGsu[https://datatracker.ietf.org/doc/draft-ietf-calext-availability]
+VAVAILABILITY: https://datatracker.ietf.org/doc/draft-ietf-calext-availability[]
 
-New Properties for iCalendar:https://exchange.rpi.edu/owa/redir.aspx?REF=2tCzTQVW838pf8_MVv1pwo0CtS8FblzThkZwatey6M6ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPUljRVF0NmZjNTMxb0tmbk8tcXJjNHBNX0ZtNXZDa3pqeWlZOE0yU2tkU0lMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMMlJoZEdGMGNtRmphMlZ5TG1sbGRHWXViM0puTDJSdll5OWtjbUZtZEMxcFpYUm1MV05oYkdWNGRDMWxlSFJsYm5OcGIyNXpMdy4u[https://datatracker.ietf.org/doc/draft-ietf-calext-extensions/]
+New Properties for iCalendar:https://datatracker.ietf.org/doc/draft-ietf-calext-extensions/[]
 
 
 
@@ -160,39 +161,39 @@ THURSDAY 21 APRIL
 
 IMIP
 
-E-mail Header for Improved iMIP Interoperability: https://exchange.rpi.edu/owa/redir.aspx?REF=Xh_4kpMDWtZRAMITxOGuOuD5ldFVDxvUzYcHupuk0giENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPUpqNWxLbXdNcjh0a1lHV2NGanVESk5MTjNzUUUwSkJXTTRFSC1VZmc3UFlMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM1J2YjJ4ekxtbGxkR1l1YjNKbkwyaDBiV3d2WkhKaFpuUXRaR0ZpYjI4dGFXMXBjQzFvWldGa1pYSnpMVEF3[https://tools.ietf.org/html/draft-daboo-imip-headers-00]
+E-mail Header for Improved iMIP Interoperability: https://tools.ietf.org/html/draft-daboo-imip-headers-00[]
 
-RFC 6047 - iMIP: https://exchange.rpi.edu/owa/redir.aspx?REF=5wYDMKVCsJmau4KvsxenUub89MuLntTNRKjzXtnTz5qENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPXUyalJDT2dtZFRSQkY2SkpoWTVoaXJadUVrRXJualMxRWNIeUIyV2tiS3dMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0yTURRM0xuUjRkQS4uhttps://exchange.rpi.edu/owa/redir.aspx?REF=5wYDMKVCsJmau4KvsxenUub89MuLntTNRKjzXtnTz5qENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPXUyalJDT2dtZFRSQkY2SkpoWTVoaXJadUVrRXJualMxRWNIeUIyV2tiS3dMOWh5SjBtUFRDQUZvZEhSd09pOHZkM2QzTG1sbGRHWXViM0puTDNKbVl5OXlabU0yTURRM0xuUjRkQS4u[http://www.ietf.org/rfc/rfc6047.txt]
- +
+RFC 6047 - iMIP: http://www.ietf.org/rfc/rfc6047.txt[]
+
 
 
 
 DEVGUIDE
 
-CalConnect Developer's Guide (under development): https://exchange.rpi.edu/owa/redir.aspx?REF=z81hGkaS07-_Jm6hGBJqT2SF0H9S_UwKQ40bkMBqkE2ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPWFkdWRnQUU2QVI3Wmo5S1lnSE1FRFZ5dnVjWTlrRTJZNHRRbEFNT0pnSklMOWh5SjBtUFRDQUZvZEhSd09pOHZaR1YyWjNWcFpHVXVZMkZzWTI5dWJtVmpkQzV2Y21jdg..[http://devguide.calconnect.org]
+CalConnect Developer's Guide (under development): http://devguide.calconnect.org[]
 
- +
+
 
 FRIDAY 22 APRIL
 
 RSCALE (Recurrences in Non-Gregorian Calendars)
 
-RFC 7529 = RSCALE: https://exchange.rpi.edu/owa/redir.aspx?REF=Drx0WqegbTBNv_mTyV4jTD4tJDGYPrXAqZLlSat-seWENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPXM4TUNvVlhIaHJtRUFFSTJ5cElRN3gwNkpCSTE1YnFJYWhlVGJtcU1SdFVMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMMlJoZEdGMGNtRmphMlZ5TG1sbGRHWXViM0puTDJSdll5OXlabU0zTlRJNUx3Li4.[https://datatracker.ietf.org/doc/rfc7529/]
+RFC 7529 = RSCALE: https://datatracker.ietf.org/doc/rfc7529/[]
 
 
 
 DAV-BASED RESOURCE SHARING
 
-Discussion of issues, what CalConnect has done and is doing: https://exchange.rpi.edu/owa/redir.aspx?REF=GquPsb1FrfskFWDEgZZbK7xhamisdxagtoy-k7My3HuENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPUFWbUpFTVlEbVdzalBMUE5jcDBNRWVyZ0RaejBrOVNKMFEtM2tnU0gwa2NMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMMlYyWlhKMGNHOTBMbU52YlM5M1pXSmtZWFl0WTJGc1pHRjJMV05oY21Sa1lYWXRjMmhoY21sdVp5OC4.[https://evertpot.com/webdav-caldav-carddav-sharing/]
+Discussion of issues, what CalConnect has done and is doing: https://evertpot.com/webdav-caldav-carddav-sharing/[]
 
-WebDAV User Notifications: https://exchange.rpi.edu/owa/redir.aspx?REF=Rq_7XcQpCxsCsoDW4XFmxhbq8ofxd7X1zNnmyg1Uk6mENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPTFpS040dlBVNTlqYWl1QXNyOVczY2FISWk3QnFiZF80bl9qSHlPb0pVc0FMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM1J2YjJ4ekxtbGxkR1l1YjNKbkwyaDBiV3d2WkhKaFpuUXRjRzkwTFhkbFltUmhkaTF1YjNScFptbGpZWFJwYjI1eg..[https://tools.ietf.org/html/draft-pot-webdav-notifications]
+WebDAV User Notifications: https://tools.ietf.org/html/draft-pot-webdav-notifications[]
 
-WebDAV Resource Sharing: https://exchange.rpi.edu/owa/redir.aspx?REF=zqfYRQWQnfLQMBTdw3n506ryvvXlje-FweMBAFN6cH-ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPWxqOXpCa2JoNFYzemNwZDdlUFJwY1JkZXE4WjdTdWNhMDViYUI5eXNDandMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM1J2YjJ4ekxtbGxkR1l1YjNKbkwyaDBiV3d2WkhKaFpuUXRjRzkwTFhkbFltUmhkaTF5WlhOdmRYSmpaUzF6YUdGeWFXNW4.[https://tools.ietf.org/html/draft-pot-webdav-resource-sharing]
+WebDAV Resource Sharing: https://tools.ietf.org/html/draft-pot-webdav-resource-sharing[]
 
-CalDAV Calendar Sharing: https://exchange.rpi.edu/owa/redir.aspx?REF=nhlOzQHptXvRuGwWvEat3Hi1TPG69wP8YF5fpcW5D8aENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPW9OM0NuRV85TUFiOTBkYk81YXlaM1JyRmxTczFNVzRiZ2RjbV9vOXFiYmdMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM1J2YjJ4ekxtbGxkR1l1YjNKbkwyaDBiV3d2WkhKaFpuUXRjRzkwTFdOaGJHUmhkaTF6YUdGeWFXNW4.[https://tools.ietf.org/html/draft-pot-caldav-sharing]
+CalDAV Calendar Sharing: https://tools.ietf.org/html/draft-pot-caldav-sharing[]
 
 
- +
+
 
 CALENDAR EXTENSIONS: SCOPED ATTENDEES
 
@@ -207,7 +208,7 @@ Structured data: draft-daboo-icalendar-structured-data-00.txt (unpublished; atta
 Event Publishing Categories and structure Data (unpublished; attached to e-mail)
 
 
- +
+
 
 
 
@@ -219,11 +220,11 @@ The following standards and drafts while not explicitly called out in any of the
 
 
 
-RFC 7808 - Time Zone Data Distribution Service: https://exchange.rpi.edu/owa/redir.aspx?REF=_f14JPaohV3YLBKoU2txZO5N420Y251xlgpt2odTRI-ENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPW9PY0k1RFFzWVlqd2pERFBQRlpDSnZjTTc1cEVpVDFfUm9jQWFMZ0kzcEVMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMM2QzZHk1eVptTXRaV1JwZEc5eUxtOXlaeTl5Wm1NdmNtWmpOemd3T0M1MGVIUS4.[https://www.rfc-editor.org/rfc/rfc7808.txt]
+RFC 7808 - Time Zone Data Distribution Service: https://www.rfc-editor.org/rfc/rfc7808.txt[]
 
-VAVAILABILITY: https://exchange.rpi.edu/owa/redir.aspx?REF=yM35HzWvHhi_l6XRrWMOwuZ7_kLrRpGVl-t-tqfuBTGENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPTJBQnZRcXduZ2VRTlJ3VkpGSWE0VHMyWkEwQmVNVzFMTzI4YWRYWDRkTjhMOWh5SjBtUFRDQUZvZEhSd2N6b3ZMMlJoZEdGMGNtRmphMlZ5TG1sbGRHWXViM0puTDJSdll5OWtjbUZtZEMxcFpYUm1MV05oYkdWNGRDMWhkbUZwYkdGaWFXeHBkSGsu[https://datatracker.ietf.org/doc/draft-ietf-calext-availability]
+VAVAILABILITY: https://datatracker.ietf.org/doc/draft-ietf-calext-availability[]
 
-VPOLL - Consensus Scheduling Component for iCalendar:https://exchange.rpi.edu/owa/redir.aspx?REF=dEEiP4jAEg46VMp7zevwbKTn0TKYGC3JGP_92nInoVGENydLIWfTCAFodHRwczovL2V4Y2hhbmdlLnJwaS5lZHUvb3dhL3JlZGlyLmFzcHg_UkVGPVlheGpmbUNLVEVRVE1qVzlxb1V2bTlBTGFhSEgycEJFckM5NkR2a0ZLWkFMOWh5SjBtUFRDQUZvZEhSd09pOHZkRzl2YkhNdWFXVjBaaTV2Y21jdmFIUnRiQzlrY21GbWRDMTViM0pyTFhad2IyeHNMdy4u[http://tools.ietf.org/html/draft-york-vpoll/]
+VPOLL - Consensus Scheduling Component for iCalendar:http://tools.ietf.org/html/draft-york-vpoll/[]
 
 
 

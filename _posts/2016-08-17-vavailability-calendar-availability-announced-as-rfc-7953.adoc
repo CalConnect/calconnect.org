@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
 excerpt: The IETF has announced that VAVAILABILITY, a CalConnect specification submitted to the IETF, has been approved and published as RFC 7953.
 ---
+:page-liquid:
 
 == VAVAILABILITY (Calendar Availability) Announced as RFC 7953
 
@@ -15,10 +16,10 @@ The IETF has announced that VAVAILABILITY, a CalConnect specification submitted 
 
 VAVAILABILITY is a new iCalendar (https://tools.ietf.org/html/rfc5545[RFC 5545]) component that allows the publication of available and unavailable time periods associated with a calendar user, extending basic free-busy lookups to generate repeating blocks of available or busy time with exceptions as needed.
 
-RFC 7953, Calendar Availability (VAVAILABILITY), https://tools.ietf.org/html/rfc7953 was developed by the FREEBUSY and other Technical Committees. Following submission to the IETF it was subsequently adopted by the IETF CALEXT workng group and progressed to final submission.&nbsp;
+RFC 7953, Calendar Availability (VAVAILABILITY), https://tools.ietf.org/html/rfc7953 was developed by the FREEBUSY and other Technical Committees. Following submission to the IETF it was subsequently adopted by the IETF CALEXT workng group and progressed to final submission.
 
 CalConnect contratulates everyone who participated in this work over the years since its inception, and everyoine who participated in the CALEXT Working Group at the IETF.
 
-&nbsp;
+
 
 

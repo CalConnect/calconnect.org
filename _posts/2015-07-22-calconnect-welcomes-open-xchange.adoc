@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information member-news
 excerpt: CalConnect welcomes Open-Xchange to the Consortium. Open-Xchange, headquartered in Palo Alto, California, offers OX App Suite, a device independent, highly scalable middleware platform that integrates messaging, collaboration and third-party cloud-based applications into a single browser interface.
 ---
+:page-liquid:
 
 == CalConnect Welcomes Open-Xchange
 

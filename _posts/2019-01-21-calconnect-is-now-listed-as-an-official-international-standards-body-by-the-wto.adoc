@@ -4,18 +4,21 @@ title: CalConnect is now listed as an official international standards body by t
 date: 2019-01-21
 type: news
 categories: the-world-of-calendaring special-focus current-events press-releases announcements
-excerpt: I am very pleased to announce that CalConnect is now officially listed as an international standards body by the World Trade Organization:  https://tbtcode.iso.org/sites/wto-tbt/contents/json/185.html.  The document describing our alignment with WTO principles may be found here:  https://standards.calconnect.org/csd/cc-10100.html.
+excerpt: |
+  CalConnect is now officially listed as an international standards body by the
+  World Trade Organization.
 ---
+:page-liquid:
 
 == CalConnect is now listed as an official international standards body by the WTO
 
-Posted January 21, 2019 
+Posted January 21, 2019
 
 I am very pleased to announce that CalConnect is now officially listed as an international standards body by the World Trade Organization: https://tbtcode.iso.org/sites/wto-tbt/contents/json/185.html[]. The document describing our alignment with WTO principles may be found here: https://standards.calconnect.org/csd/cc-10100.html[].
 
 CalConnect now has active liaisons with several international organizations including 10 liaisons with ISO committees: ISO/TC 37, ISO TC/46, ISO TC 154, ISO/TC 211, ISO/PC 317 and ISO/IEC JTC 1 SC 27. We are participating in the work program of most of of these in particular in areas such as date/time formats, time zone management, structured name and address standards, and privacy by design.
 
-For a full list of CalConnect liaisons and involvement, please see link:{{'/about/liaisons-and-relationships' | relative_url}}[].&nbsp;
+For a full list of CalConnect liaisons and involvement, please see link:{{'/about/liaisons-and-relationships' | relative_url}}[].
 
 On behalf of CalConnect I would like to thank Ronald Tse of Ribose, our Director of External Relations, for supporting and driving our standards program, together with everyone who is representing CalConnect in standards activities.
 
@@ -23,5 +26,4 @@ Dave Thewlis, Executive Director +
 CalConnect - The Calendaring and Scheduling Consortium
 
 
-link:{{'/taxonomy/term/17' | relative_url}}[Press Releases]
 

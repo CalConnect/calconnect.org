@@ -6,6 +6,7 @@ type: news
 categories: announcements
 excerpt: CalConnect is now a principal member of the Metaverse Standards Forum. CalConnect standards are used ubiquitously and our mandate extends to the metaverse.
 ---
+:page-liquid:
 
 == CalConnect joins the Metaverse Standards Forum
 

@@ -4,12 +4,13 @@ title: Planned outage for CalConnect server Thursday March 26
 date: 2009-03-20
 type: news
 categories: announcements
-excerpt: We are planning for a 4-hour outage Thursday evening March 26 from 19:00-23:00 Eastern Time. That will be 16:00-20:00 Pacific Time and 23:00-03:00 UTC. We want to be sure we are leaving enough time for any unforeseen problems and still be functional Friday morning, and the necessary talent isn’t available over the weekend.
+excerpt: We are planning for a 4-hour outage Thursday evening March 26 from 19:00-23:00 Eastern Time. That will be 16:00-20:00 Pacific Time and 23:00-03:00 UTC. We want to be sure we are leaving enough time for any unforeseen problems and still be functional Friday morning, and the necessary talent isn't available over the weekend.
 ---
+:page-liquid:
 
 == Planned outage for CalConnect server Thursday March 26
 
-Posted March 20, 2009 
+Posted March 20, 2009
 
 We are planning for a 4-hour outage Thursday evening March 26 from 19:00-23:00 Eastern Time. That will be 16:00-20:00 Pacific Time and 23:00-03:00 UTC. We want to be sure we are leaving enough time for any unforeseen problems and still be functional Friday morning, and the necessary talent isn t available over the weekend.
 

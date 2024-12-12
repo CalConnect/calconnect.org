@@ -4,8 +4,9 @@ title: CalConnect Announces Liaison with ISO TC 211
 date: 2016-12-11
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: CalConnect has established a  Category A Liaison with ISO TC 211, Geographic Information / Geomatics, and nominated a technical representative to TC 211 WG 7, Information Communities.  This liaison will allow CalConnect representatives to participate in the work of ISO TC 211, initially in particular WG 7, and allow ISO TC 211 representatives to participate in the work of CalConnect.
+excerpt: CalConnect has established a Category A Liaison with ISO TC 211, Geographic Information / Geomatics, and nominated a technical representative to TC 211 WG 7, Information Communities. This liaison will allow CalConnect representatives to participate in the work of ISO TC 211, initially in particular WG 7, and allow ISO TC 211 representatives to participate in the work of CalConnect.
 ---
+:page-liquid:
 
 == CalConnect Announces Liaison with ISO TC 211
 
@@ -13,6 +14,6 @@ Posted December 11, 2016
 
 CalConnect has established a Category A Liaison with http://www.isotc211.org/[ISO TC 211], Geographic Information / Geomatics, and nominated a technical representative to http://www.isotc211.org/organizn.htm#WG7[TC 211 WG 7], Information Communities. This liaison will allow CalConnect representatives to participate in the work of ISO TC 211, initially in particular WG 7, and allow ISO TC 211 representatives to participate in the work of CalConnect.
 
-Our initial focus with TC 211 and WG 7 is the ISO 19160 standard, which addresses worldwide addressing, and the applicability to the work of CalConnect https://www.calconnect.org/about/technical-committees/vcard-technical-committee[TC VCARD] which will explore expanding VCARD to support worldwide addresses in structured, standard formats.
+Our initial focus with TC 211 and WG 7 is the ISO 19160 standard, which addresses worldwide addressing, and the applicability to the work of CalConnect link:{{'/about/technical-committees/vcard-technical-committee' | relative_url }}[TC VCARD] which will explore expanding VCARD to support worldwide addresses in structured, standard formats.
 
-VCARD and TC VCARD will be a focus for the next https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017[CalConnect XXXVIII] February 13-17, 2017 at UC Irvine, and we invite and encourage all interested parties to attend. For more information please contact mailto:dave.thewlis@calconnect.org?subject=Info%20about%20VCARD%20at%20CC%2038[Dave Thewlis].
+VCARD and TC VCARD will be a focus for the next link:{{'/events/calconnect-xxxviii-february-13-17-2017' | relative_url }}[CalConnect XXXVIII] February 13-17, 2017 at UC Irvine, and we invite and encourage all interested parties to attend. For more information please contact mailto:dave.thewlis@calconnect.org?subject=Info%20about%20VCARD%20at%20CC%2038[Dave Thewlis].

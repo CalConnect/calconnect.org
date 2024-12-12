@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information member-focus the-world-of-calendaring
 excerpt: CalConnect welcomes Miltio.io as a member of the Calendaring and Scheduling Consortium. Milton.io, based in Red Beach, New Zealand, offers server protocol software for java, catering for WebDAV, CalDAV and CardDAV.
 ---
+:page-liquid:
 
 == CalConnect Welcomes Milton.io
 

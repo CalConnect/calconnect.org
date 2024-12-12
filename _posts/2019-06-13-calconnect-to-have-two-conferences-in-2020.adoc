@@ -3,13 +3,14 @@ layout: page
 title: CalConnect to have two conferences in 2020
 date: 2019-06-13
 type: news
-categories: 
-excerpt: In response to approval of the attendees at the Plenary session at CalConnect XLV of holding just 2 conferences in 2020, CalConnect, as an experiment, is eliminating the winter conference (January/February 2020), and moving forward the spring conference to the latter half of April.  The autumn conference will remain at the end of September/beginning of October as has been our past practice.
+categories:
+excerpt: In response to approval of the attendees at the Plenary session at CalConnect XLV of holding just 2 conferences in 2020, CalConnect, as an experiment, is eliminating the winter conference (January/February 2020), and moving forward the spring conference to the latter half of April. The autumn conference will remain at the end of September/beginning of October as has been our past practice.
 ---
+:page-liquid:
 
 == CalConnect to have two conferences in 2020
 
-Posted June 13, 2019 
+Posted June 13, 2019
 
 In response to approval of the attendees at the Plenary session at CalConnect XLV of holding just 2 conferences in 2020, CalConnect, as an experiment, is eliminating the winter conference (January/February 2020), and moving forward the spring conference to the latter half of April. The autumn conference will remain at the end of September/beginning of October as has been our past practice.
 
@@ -18,7 +19,7 @@ Our goals for this change are to
 * increase attendance at the fall and spring conferences to deliver more value to members at the conferences,
 * and in the recognition that participants are increasingly reluctant to be away from their work and workplaces three weeks a year.
 
-We anticipate that the increased availability of new online tools will make it easier for our member representatives to keep involved via remote participation in some of the technical work. +
+We anticipate that the increased availability of new online tools will make it easier for our member representatives to keep involved via remote participation in some of the technical work.
 
 We will evaluate attendee feedback from the 2020 events to help us determine whether two, or three, conferences per year will serve CalConnect, and its membership best.
 

@@ -6,28 +6,29 @@ type: news
 categories: general-information special-focus the-world-of-calendaring
 excerpt: Although I promised in my most recent posting, “Read Any Good Timezones Lately”, that I had left the topic of timezones behind, an editorial in the January 23, 2011 New York Times, “Time Banditry”, leads me to renege on that short-lived promise.
 ---
+:page-liquid:
 
 == “The Times, They Are a-Changin”
 
-Posted January 26, 2011 
+Posted January 26, 2011
 
-Although I promised in my most recent posting, Read Any Good Timezones Lately, that I had left the topic of timezones behind, an editorial in the January 23, 2011 New York Times, Time Banditry, leads me to renege on that short-lived promise.
+Although I promised in my most recent posting, "`Read Any Good Timezones Lately`", that I had left the topic of timezones behind, an editorial in the January 23, 2011 New York Times, "`Time Banditry`", leads me to renege on that short-lived promise.
 
-The NY Times editorial, brief as it is, really captures essence of many of the issues associated with timezones. The proposal in front of the British Parliament, a bill to require the Secretary of State to conduct a cross-departmental analysis of the potential costs and benefits of advancing time by one hour for all, or part of, the year; to require the Secretary of State to take certain action in the light of that analysis; and for connected purposes, is reminiscent in some respects, of the provisions in The U.S. Energy Policy Act of 2005 (EPACT 2005), which changed the start and end dates of daylight saving time (DST) in the U.S., and also directed the U.S. Congress to determine if there was a positive effect on energy usage or conservation.
+The NY Times editorial, brief as it is, really captures essence of many of the issues associated with timezones. The proposal in front of the British Parliament, "`a bill to require the Secretary of State to conduct a cross-departmental analysis of the potential costs and benefits of advancing time by one hour for all, or part of, the year; to require the Secretary of State to take certain action in the light of that analysis; and for connected purposes`", is reminiscent in some respects, of the provisions in The U.S. Energy Policy Act of 2005 (EPACT 2005), which changed the start and end dates of daylight saving time (DST) in the U.S., and also directed the U.S. Congress to determine if there was a positive effect on energy usage or conservation.
 
-We can infer from a calendaring and CalConnect perspective: +
- 
-1. As I observed in Timezones and How They Get that Way, Time is the most ethereal of our measures, and, perhaps, the one people have the most intimate, personal, and complex relationship with. Attempts to measure and manipulate time have evoked strong emotions and reactions, and the relatively brief history of timezones is no different. Scotland, whose northernmost settlements in the Shetlands are roughly 650 miles from London and at roughly the same latitude as Fairbanks, Alaska, is less enthusiastic about the potential daylight saving time changes than perhaps those in southern Britain.
+We can infer from a calendaring and CalConnect perspective: 
+
+1. As I observed in "`Timezones and How They Get that Way`", Time is the most ethereal of our measures, and, perhaps, the one people have the most intimate, personal, and complex relationship with. Attempts to measure and manipulate time have evoked strong emotions and reactions, and the relatively brief history of timezones is no different. Scotland, whose northernmost settlements in the Shetlands are roughly 650 miles from London and at roughly the same latitude as Fairbanks, Alaska, is less enthusiastic about the potential daylight saving time changes than perhaps those in southern Britain.
 
 2. Timezones and daylight saving observances are dynamic and subject to review and reevaluation at any time for any number of reasons.
 
-3. The work of CalConnect s Timezone Technical Committee is timely, relevant, and important. In the words of one of my CalConnect colleagues,
+3. The work of CalConnect's Timezone Technical Committee is timely, relevant, and important. In the words of one of my CalConnect colleagues,
 
 ____
-We live in a world where events have to span multiple timezones  since those can change independently of each other at very short notice it is imperative that a proper definition of the base timezone for an event be present. ¦ There is no getting away from timezones. There are things we can do (and indeed are doing in TC TIMEZONE) to alleviate many of the problems of using timezones in iCalendar  in particular the standardized timezones, timezone service, and pass-by-reference work address most of the key issues.
+We live in a world where events have to span multiple timezones -- since those can change independently of each other at very short notice it is imperative that a proper definition of the "`base`" timezone for an event be present. ¦ There is no getting away from timezones. There are things we can do (and indeed are doing in TC TIMEZONE) to alleviate many of the problems of using timezones in iCalendar  in particular the standardized timezones, timezone service, and "`pass-by-reference`" work address most of the key issues.
 ____
 
-As the Times editorial concludes, In our split-second, coordinated world, the only place time is still kept that old-fashioned way is in all the rest of nature. The times will always be a-changin, and CalConnect s mission is to allow the technology to accommodate those changes as transparently as possible.
+As the Times editorial concludes, "`In our split-second, coordinated world, the only place time is still kept that old-fashioned way is in all the rest of nature.`" The times will always be "`a-changin`", and CalConnect's mission is to allow the technology to accommodate those changes as transparently as possible.
 
 References:
 
@@ -38,7 +39,7 @@ http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm101203/debtext/1012
 http://www.nytimes.com/2011/01/24/opinion/24mon4.html?ref=opinion +
 http://www.publications.parliament.uk/pa/cm201011/cmbills/007/11007.i-i.html
 
-CalConnect s technical work in timezones: +
+CalConnect's technical work in timezones: +
 http://calconnect.org/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf +
 http://calconnect.org/CD1007%20Timezone%20Service +
 http://calconnect.org/CD1008%20Timezone%20XML

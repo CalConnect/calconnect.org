@@ -4,26 +4,23 @@ title: CalConnect publishes Calendar Spam Best Current Practices
 date: 2019-01-18
 type: news
 categories: the-world-of-calendaring general-information press-releases announcements
-excerpt: TC-CALSPAM, the CalConnect Calendar Spam Technical Committee,  is happy to announce that it has released its Best Current Practices Report [Calendar operator practices — Guidelines to protect against calendar abuse (CC/R 18003:2019)] to publication today.
+excerpt: TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is happy to announce that it has released its Best Current Practices Report [Calendar operator practices — Guidelines to protect against calendar abuse (CC/R 18003:2019)] to publication today.
 ---
+:page-liquid:
 
 == CalConnect publishes Calendar Spam Best Current Practices
 
-Posted January 18, 2019 
+Posted January 18, 2019
 
-TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is happy to announce that it has released its Best Current Practices Report [Calendar operator practicesGuidelines to protect against calendar abuse (CC/R 18003:2019)] to publication today. The document may be found on our https://standards.calconnect.org/[document register] or directly at https://standards.calconnect.org/csd/cc-18003.html[https://standards.calconnect.org/csd/cc-18003.html.] +
+TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is happy to announce that it has released its Best Current Practices Report [Calendar operator practices -- Guidelines to protect against calendar abuse (CC/R 18003:2019)] to publication today. The document may be found on our https://standards.calconnect.org/[document register] or directly at https://standards.calconnect.org/csd/cc-18003.html[].
 
-The new best practices paper specifies guidelines for calendar and mail system operators to detect the occurrence of calendar abuse, consider processes and procedures to mitigate calendar abuse and suggests acceptable (non-abusive) practices with calendar usage. +
+The new best practices paper specifies guidelines for calendar and mail system operators to detect the occurrence of calendar abuse, consider processes and procedures to mitigate calendar abuse and suggests acceptable (non-abusive) practices with calendar usage.
 
-The paper is a result of the collaborative work between CalConnect and The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) based on the liaison between these organisations founded one year ago. +
+The paper is a result of the collaborative work between CalConnect and The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) based on the liaison between these organisations founded one year ago.
 
-Thank you for helping us make the Calendar Spam BCP the best it can be. +
+Thank you for helping us make the Calendar Spam BCP the best it can be.
 
-For the Calendar Spam Technical Committee, +
+For the Calendar Spam Technical Committee,
 
-Thomas SchÃ¤fer, 1&1 Mail&Media Development and Technology GmbH +
+Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH +
 Chair, TC-CALSPAM
-
-
-link:{{'/taxonomy/term/17' | relative_url}}[Press Releases]
-

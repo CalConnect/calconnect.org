@@ -4,14 +4,15 @@ title: Registration has opened for CalConnect XX at UC Berkeley, February 7-11 2
 date: 2010-12-27
 type: news
 categories: announcements current-events general-information
-excerpt: Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link:/calconnect20 for logistics and registration information for the Roundtable and for the Interoperability Test Events.
+excerpt: Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California.
 ---
+:page-liquid:
 
 == Registration has opened for CalConnect XX at UC Berkeley, February 7-11 2011
 
-Posted December 27, 2010 
+Posted December 27, 2010
 
-Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link:/calconnect20 for logistics and registration information for the Roundtable and for the Interoperability Test Events.
+Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link:{{'/calconnect20' | relative_url}}[/calconnect20] for logistics and registration information for the Roundtable and for the Interoperability Test Events.
 
 Note that we will be conducting both a regular Interoperability Test Event and a Mobile Calendaring Interoperability Test Event on February 7-9, 2011. More information about the regular IOP Test Event is at link:{{'/iop1102' | relative_url}}[]. Information about the Mobile Calendaring IOP Test Event is at link:{{'/miop1102' | relative_url}}[].
 
@@ -23,8 +24,8 @@ Berkeley is served by the San Francisco, Oakland, and San Jose International Air
 
 We will be announcing additional and special sessions of interest as more material becomes available. At this time, while the general schedule is set, we cannot guarantee that the specific dates and times set on the logistics page for each TC will not change.
 
-Organizations interested in CalConnect but not members are welcome to attend the Roundtable as observers. See link:/observer for more information.
+Organizations interested in CalConnect but not members are welcome to attend the Roundtable as observers. See link:{{'/observer' | relative_url}}[/observer] for more information.
 
-Organizations are welcome to particiate in the Interoperability Test Events whether or not they are CalConnect members. Please note that the registration fee for the IOP Test Events covers both the regular and mobile calendaring events, which are held in parallel.&nbsp;
+Organizations are welcome to particiate in the Interoperability Test Events whether or not they are CalConnect members. Please note that the registration fee for the IOP Test Events covers both the regular and mobile calendaring events, which are held in parallel.
 
 

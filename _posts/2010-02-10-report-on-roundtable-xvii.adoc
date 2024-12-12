@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: A brief report on CalConnect Roundtable XVII and the associated Interoperability Test Event, held February 1-5, 2010, at the University of California at Irvine, has been posted at Roundtable XVII.
 ---
+:page-liquid:
 
 == Report on Roundtable XVII
 

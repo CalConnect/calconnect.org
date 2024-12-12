@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: The CalConnect Calendaring and Scheduling Glossary of Terms was originally published in 2006 and is strongly in need of an update to reflect changes and advances in Calendaring and Scheduling since that time.
 ---
+:page-liquid:
 
 == Public Review and Comment on Calendaring Glossary
 

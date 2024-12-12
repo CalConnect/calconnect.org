@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: CalConnect recently published a Starter List of CalDAV and CardDAV Standards and Specifications, a list of specifications and protocols recommended to people getting started with developing a CalDAV and/or CardDAV server but not yet fully conversant with the specs. The list is divided by major topic (HTTP, CalDAV, etc.) and each spec is identified by a short description indicating what it is and what it is used for in this context.
 ---
+:page-liquid:
 
 == Starter List of CalDAV and CardDAV Standards and Specifications
 
@@ -17,8 +18,8 @@ This page may be found in the link:{{'/resources' | relative_url}}[RESOURCES] se
 
 We are planning to publish a comprehensive CalDAV and CardDAV Protocol Reference List in the near future as a complement to this Getting Started list; the link:{{'/CD1104_Calendaring_Standards' | relative_url}}[Index to Calendaring and Scheduling Standards] may also be of use.
 
-_Note: The page was originally called Getting Started with CalDAV and CardDAV but we changed the name to more accurately reflect the content. The old Getting Started link is aliased to the Starter List page._
+_Note: The page was originally called "`Getting Started with CalDAV and CardDAV`" but we changed the name to more accurately reflect the content. The old Getting Started link is aliased to the Starter List page._
 
-&nbsp;
+
 
 

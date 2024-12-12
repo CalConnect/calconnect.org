@@ -6,6 +6,7 @@ type: news
 categories: announcements general-information
 excerpt: The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in October 2009. See October 2009 CalConnect Interoperability Test Report.
 ---
+:page-liquid:
 
 == October 2009 CalConnect Interoperability Test Report Published
 

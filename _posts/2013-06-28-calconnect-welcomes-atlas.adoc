@@ -4,13 +4,14 @@ title: CalConnect Welcomes Atlas
 date: 2013-06-28
 type: news
 categories: announcements general-information member-focus
-excerpt: CalConnect welcomes Atlas as a member of The Calendaring and Scheduling Consortium. Atlas, headquartered in Santa Monica, California, develops scheduling applications for IOS and Android. 
+excerpt: CalConnect welcomes Atlas as a member of The Calendaring and Scheduling Consortium. Atlas, headquartered in Santa Monica, California, develops scheduling applications for IOS and Android.
 ---
+:page-liquid:
 
 == CalConnect Welcomes Atlas
 
 Posted June 28, 2013 
 
-CalConnect welcomes http://www.getatlas.com[Atlas] as a member of The Calendaring and Scheduling Consortium. Atlas, headquartered in Santa Monica, California, develops scheduling applications for IOS and Android.&nbsp;
+CalConnect welcomes http://www.getatlas.com[Atlas] as a member of The Calendaring and Scheduling Consortium. Atlas, headquartered in Santa Monica, California, develops scheduling applications for IOS and Android.
 
 

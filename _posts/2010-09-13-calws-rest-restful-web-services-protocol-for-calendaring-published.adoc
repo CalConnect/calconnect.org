@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
 excerpt: The XML Technical Committee has published CalWS-Rest Restful Web Services Protocol for Calendaring. This work was undertaken in conjunction with the OASIS WS CALENDAR Technical Committee and will become a component of the WS-Calendar specification, in addition to being progressed within CalConnect as a calendaring operations API for web services. Please see CalWS-Rest Restful Web Services Protocol for Calendaring.
 ---
+:page-liquid:
 
 == CalWS-Rest Restful Web Services Protocol for Calendaring published
 

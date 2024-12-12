@@ -4,8 +4,9 @@ title: Registration is open for CalConnect XXIV May 21-25, 20012, Chattanooga, T
 date: 2012-03-16
 type: news
 categories: announcements current-events general-information
-excerpt: Registration is now open for CalConnect XXIV, May 21-25, 2012, in Chattanooga, Tennessee, hosted by Patricia Egen Consulting.  Please see CalConnect XXIV for logistics and registration information.  As usual, the first 2.5 days will be the Interoperability Test Event; the remainder of the week (Wednesday lunch through Friday mid-afternoon) will be the Roundtable Technical Conference.  Early booking at the conference hotel is recommended as the block rate expires on 3 May or when the block is exhausted, whichever happens first.
+excerpt: Registration is now open for CalConnect XXIV, May 21-25, 2012, in Chattanooga, Tennessee, hosted by Patricia Egen Consulting. Please see CalConnect XXIV for logistics and registration information. As usual, the first 2.5 days will be the Interoperability Test Event; the remainder of the week (Wednesday lunch through Friday mid-afternoon) will be the Roundtable Technical Conference. Early booking at the conference hotel is recommended as the block rate expires on 3 May or when the block is exhausted, whichever happens first.
 ---
+:page-liquid:
 
 == Registration is open for CalConnect XXIV May 21-25, 20012, Chattanooga, Tennessee
 
@@ -13,6 +14,6 @@ Posted March 16, 2012
 
 Registration is now open for link:{{'/calconnect24' | relative_url}}[CalConnect XXIV], May 21-25, 2012, in Chattanooga, Tennessee, hosted by Patricia Egen Consulting. Please see link:{{'/calconnect24' | relative_url}}[CalConnect XXIV] for logistics and registration information. As usual, the first 2.5 days will be the Interoperability Test Event; the remainder of the week (Wednesday lunch through Friday mid-afternoon) will be the Roundtable Technical Conference. Early booking at the conference hotel is recommended as the block rate expires on 3 May or when the block is exhausted, whichever happens first.
 
-&nbsp;
+
 
 

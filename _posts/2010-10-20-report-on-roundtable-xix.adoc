@@ -4,8 +4,9 @@ title: Report on Roundtable XIX
 date: 2010-10-20
 type: news
 categories: announcements current-events general-information
-excerpt: A brief report on Roundtable XIX has been posted to the CalConnect website.  
+excerpt: A brief report on Roundtable XIX has been posted to the CalConnect website. 
 ---
+:page-liquid:
 
 == Report on Roundtable XIX
 

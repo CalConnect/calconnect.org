@@ -4,8 +4,9 @@ title: TimeTrade Systems Joins CalConnect
 date: 2010-10-22
 type: news
 categories: announcements current-events general-information
-excerpt: The Calendaring and Scheduling Consortium welcomes TimeTrade Systems as a member of the consortium.  
+excerpt: The Calendaring and Scheduling Consortium welcomes TimeTrade Systems as a member of the consortium. 
 ---
+:page-liquid:
 
 == TimeTrade Systems Joins CalConnect
 

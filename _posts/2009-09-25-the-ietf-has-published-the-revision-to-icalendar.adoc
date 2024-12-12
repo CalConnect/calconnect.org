@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events the-world-of-calendaring
 excerpt: RFC5545, Internet Calendaring and Scheduling Core Object Specification (iCalendar) has been published by the IETF as a Proposed Standard Protocol. This is the revision to RFC 2445 (iCalendar) which has been underway for some time. RFC5545 obsoletes RFC2445. See http://www.rfc-editor.org/rfc/rfc5545.txt. CalConnect congratulates everyone who was involved in progressing this work.
 ---
+:page-liquid:
 
 == The IETF has published the revision to iCalendar
 

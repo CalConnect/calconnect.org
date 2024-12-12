@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events general-information
 excerpt: Registration is open for the autumn 2010 CalConnect Roundtable and Interoperability Test event, to be held the week of October 4-8, 2010, at IBM/Lotus in Littleton, Massachusetts. Please see CalConnect XIX Logistics for details. Note that Early Registration for the Roundtable ends on September 17th and the registration fee increases at that point.
 ---
+:page-liquid:
 
 == Registration is open for CalConnect XIX, October 4-8, 2010, at IBM/Lotus in Littleton MA
 

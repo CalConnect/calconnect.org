@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus the-world-of-calendaring
 excerpt: In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 6th and 7th. These sessions are covered by your Roundtable Conference registration fee and are open to all registered participants.
 ---
+:page-liquid:
 
 == Symposia and Workshops at CalConnect XXII in Prague
 
@@ -36,7 +37,7 @@ involvement.
 
 *BOB (Birds of a Feather) Sessions (Friday 1115-1200)*
 
-What are we not talking about or addressing that concerns you? Here s a chance to propose topics of interest and get a discussion going that may lead to future CalConnect work.
-&nbsp;
+What are we not talking about or addressing that concerns you? Here's a chance to propose topics of interest and get a discussion going that may lead to future CalConnect work.
+
 
 

@@ -4,18 +4,19 @@ title: CalConnect's First  non-North American President
 date: 2016-07-22
 type: news
 categories: announcements current-events general-information the-world-of-calendaring
-excerpt: The  CalConnect Board of Directors announces they have appointed Rutger Geelen, principal of SchedJoules in Amsterdam, The Netherlands,  President of CalConnect, effect July 15th, 2016.
+excerpt: The CalConnect Board of Directors announces they have appointed Rutger Geelen, principal of SchedJoules in Amsterdam, The Netherlands, President of CalConnect, effect July 15th, 2016.
 ---
+:page-liquid:
 
 == CalConnect's First  non-North American President
 
 Posted July 22, 2016
 
-The CalConnect Board of Directors announces they have appointed Rutger Geelen, principal of https://www.schedjoules.com/[SchedJoules] in Amsterdam, The Netherlands, President of CalConnect, effect July 15th, 2016. +
+The CalConnect Board of Directors announces they have appointed Rutger Geelen, principal of https://www.schedjoules.com/[SchedJoules] in Amsterdam, The Netherlands, President of CalConnect, effect July 15th, 2016.
 
-Mr. Geelen is the first non-North American to become President of CalConnect, and succeeds Gary Schwartz, of Rensselaer Polytechnic Institute. Mr. Schwartz has served as president since July 2009, and now succeeds Mr. Geelen as Chief Financial Officer. Under Mr. Schwartzs presidency, CalConnect expanded its conferences and membership to Europe and Asia, making CalConnect a more global organization. +
+Mr. Geelen is the first non-North American to become President of CalConnect, and succeeds Gary Schwartz, of Rensselaer Polytechnic Institute. Mr. Schwartz has served as president since July 2009, and now succeeds Mr. Geelen as Chief Financial Officer. Under Mr. Schwartzs presidency, CalConnect expanded its conferences and membership to Europe and Asia, making CalConnect a more global organization.
 
-Mr. Geelen commends Mr. Schwartz, for his service, CalConnect would not have been where it is without Mr. Schwartz. We are grateful he will be remaining on the board for the foreseeable future. +
+Mr. Geelen commends Mr. Schwartz, for his service, "`CalConnect would not have been where it is without Mr. Schwartz. We are grateful he will be remaining on the board for the foreseeable future.`"
 
 As for his presidency, Mr. Geelen remarked, I'm very excited to work with our board, the CalConnect membership, and the entire calendaring & scheduling community, to build upon our work of the last decade, to make interoperable calendaring & scheduling products and services more widely available.
 

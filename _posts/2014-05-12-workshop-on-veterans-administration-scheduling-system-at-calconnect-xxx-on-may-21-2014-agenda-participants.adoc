@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 – Agenda & Participants
+title: Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 -- Agenda & Participants
 date: 2014-05-12
 type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
 excerpt: CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 ---
+:page-liquid:
 
-== Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 – Agenda & Participants
+== Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 -- Agenda & Participants
 
 Posted May 12, 2014 
 
@@ -23,11 +24,11 @@ The workshop is open to the public by advance registration. To register please s
 
 1415-1530 Workshop on VA Scheduling System: Part 1  Presentations
 
-14151430 Gary Schwartz Welcome and Contextualizing the workshop
+1415--1430 Gary Schwartz Welcome and Contextualizing the workshop
 
-14301450 Wes Turner Intro to Vista and OSEHRA s role in the VA Scheduling contest
+1430--1450 Wes Turner Intro to Vista and OSEHRA's role in the VA Scheduling contest
 
-14501530 Dr. William Smith Intro to Medred; How+why they got involved in the VA Scheduling Contest; the Health e-Time contest entry
+1450--1530 Dr. William Smith Intro to Medred; How+why they got involved in the VA Scheduling Contest; the Health e-Time contest entry
 
 1530-1600 Break and Refreshments
 
@@ -49,7 +50,7 @@ The scheduling of the reception immediately after the Workshop is not accidental
 
 William K. Smith, MD, Leader of the winning team, Health e-Time, Chairman and CEO MedRed
 
-Founded in 2004, MedRed, LLC is a medical informatics software company with offices in Washington, DC and Frederick, MD. MedRed s patent pending Balto Smart form system allows patients and healthcare providers to capture and access the most accurate and up-to-date medical information and knowledge. MedRed clinical tools are used to help manage everyday and emergency healthcare needs. MedRed accomplishes this by employing state of the art technologies to ensure patient confidentiality, providing timely and accurate medical information and state-of-the-art clinical decision support at the point of care. Medred is a corporate member of OSEHRA.
+Founded in 2004, MedRed, LLC is a medical informatics software company with offices in Washington, DC and Frederick, MD. MedRed's patent pending Balto Smart form system allows patients and healthcare providers to capture and access the most accurate and up-to-date medical information and knowledge. MedRed clinical tools are used to help manage everyday and emergency healthcare needs. MedRed accomplishes this by employing state of the art technologies to ensure patient confidentiality, providing timely and accurate medical information and state-of-the-art clinical decision support at the point of care. Medred is a corporate member of OSEHRA.
 
 Mike Henderson, Director, Open Source Product Management for OSEHRA
 

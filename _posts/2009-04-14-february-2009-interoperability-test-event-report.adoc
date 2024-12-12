@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events
 excerpt: CalConnect has published the public version of the Interoperability Test Event Report from February 2009. Full internal reports are only available to representatives of members of the Consortium, but the public event reports are freely available on the CalConnect website. The report may be viewed at February 2009 CalConnect Interoperability Test Report.
 ---
+:page-liquid:
 
 == February 2009 Interoperability Test Event Report
 

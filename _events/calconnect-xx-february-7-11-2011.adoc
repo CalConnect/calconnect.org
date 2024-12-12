@@ -80,7 +80,7 @@ The Shattuck Plaza hotel is the Conference Hotel for this meeting. It is extreme
 http://www.hotelshattuckplaza.com/ +
  When reserving your room, by phone ask for the "CalConnect Conference" rate. If you are booking online, after choosing the date range click on "Preferred/Corporate Accounts" and enter "calconnect20" as your booking code. +
  +
- The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event  so book early and save!
+ The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event -- so book early and save!
 
 [[test-schedule]]
 Test Event Schedule

@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Developers’ Guides for CalDAV and CardDAV clients
+title: Developers' Guides for CalDAV and CardDAV clients
 date: 2014-06-13
 type: news
 categories: announcements current-events general-information special-focus
-excerpt: SabreDAV have provided links to two new documents on creating a CalDAV client and creating a CardDAV client. While they reference SabreDAV they are general enough to be readily applicable to the server of your choice. You can find the links, and other useful links, at our Developers Page in the RESOURCES section of the CalConnect website.  
+excerpt: SabreDAV have provided links to two new documents on creating a CalDAV client and creating a CardDAV client. While they reference SabreDAV they are general enough to be readily applicable to the server of your choice. You can find the links, and other useful links, at our Developers Page in the RESOURCES section of the CalConnect website. 
 ---
+:page-liquid:
 
-== Developers’ Guides for CalDAV and CardDAV clients
+== Developers' Guides for CalDAV and CardDAV clients
 
 Posted June 13, 2014 
 

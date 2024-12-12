@@ -6,6 +6,7 @@ type: news
 categories: announcements current-events special-focus
 excerpt: On May 24-26, 2010, CalConnect will hold its third Mobile Calendaring Interoperability Test Event, as part of CalConnect XVIII at Carnegie Mellon University. This event will be focused on mobile device synchronization with ActiveSync. We invite all CalConnect members and non-members with an interest in testing ActiveSync client and/or server implementations to participate in this event.
 ---
+:page-liquid:
 
 == Third Mobile Calendaring IOP Test Event May 24-26 2010
 

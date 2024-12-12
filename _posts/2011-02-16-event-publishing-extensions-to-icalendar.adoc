@@ -4,13 +4,14 @@ title: Event Publishing Extensions to iCalendar
 date: 2011-02-16
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: The EVENTPUB Technical Committee has published a new CalConnect proposal, Event Publishing Extensions to iCalendar. The proposal has been submitted to the IETF as an Internet Draft. 
+excerpt: The EVENTPUB Technical Committee has published a new CalConnect proposal, Event Publishing Extensions to iCalendar
 ---
+:page-liquid:
 
 == Event Publishing Extensions to iCalendar
 
-Posted February 16, 2011 
+Posted February 16, 2011
 
-The EVENTPUB Technical Committee has published a new CalConnect proposal, link:{{'/CD1101%20Eventpub%20iCalendar%20Extensions' | relative_url}}[Event Publishing Extensions to iCalendar]. The proposal&nbsp;has been submitted to the IETF as an Internet Draft.&nbsp;
+The EVENTPUB Technical Committee has published a new CalConnect proposal, link:{{'/CD1101%20Eventpub%20iCalendar%20Extensions' | relative_url}}[Event Publishing Extensions to iCalendar]. The proposal&nbsp;has been submitted to the IETF as an Internet Draft.
 
 
