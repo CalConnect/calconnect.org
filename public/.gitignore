@@ -1,6 +1,0 @@
-# ignore build site
-/_site
-# ignore cache files
-.sass_cache
-*.scssc
-/uml

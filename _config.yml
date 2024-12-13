@@ -39,7 +39,7 @@ collections:
     permalink: /news/:categories/:year-:month-:day-:title/
   pages:
     output: true
-    permalink: /:name/
+    permalink: //:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
