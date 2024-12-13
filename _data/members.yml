@@ -33,7 +33,7 @@
   type: corporate
 - name: Google, Inc.
   url: http://www.google.com
-  logo: /assets/images/logo_google.png
+  logo: /assets/images/logo_google.svg
   type: corporate
 - name: HeyLife
   url:
@@ -45,7 +45,7 @@
   type: corporate
 - name: M3AAWG - Messaging Malware Mobile Anti-Abuse Working Group
   url: https://www.m3aawg.org/
-  logo: /assets/images/logo_M3AAWG.png
+  logo: /assets/images/logo_m3aawg.png
   type: corporate
 - name: Marketcircle
   url: https://www.marketcircle.com
@@ -53,15 +53,15 @@
   type: corporate
 - name: OASIS - Organization for the Advancement of Structured Information Systems
   url: http://www.oasis-open.org
-  logo: /assets/images/logo_oasis.jpg
+  logo: /assets/images/logo_oasis.svg
   type: corporate
 - name: Open-Xchange
   url: http://www.open-xchange.com
-  logo: /assets/images/logo_open_xchange.png
+  logo: /assets/images/logo_open_xchange.svg
   type: corporate
 - name: Ribose Inc.
   url: http://www.ribose.com
-  logo: /assets/images/logo_ribose.jpg
+  logo: /assets/images/logo_ribose.svg
   type: corporate
 - name: SchedJoules
   url: http://schedjoules.com
@@ -69,7 +69,7 @@
   type: corporate
 - name: The University of California
   url: http://www.universityofcalifornia.edu/
-  logo: /assets/images/logo_universityofcalifornia.gif
+  logo: /assets/images/logo_universityofcalifornia.svg
   type: corporate
 - name: Thunderbird
   url: https://www.thunderbird.net
