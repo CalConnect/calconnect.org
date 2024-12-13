@@ -49,12 +49,12 @@ International Visitors
 In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure, please see http://href="http://www.germany-visa.org[German VISA Information].
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XL; please see https://www.calconnect.org/events/event-registration-payment to register for the developers forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
 
 [[location]]
-Location
+== Location
 
 The Developers Forum/Test Event (September 25-27) and the Conference (September 27-29) will be held at http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 K¶ln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park]. The meeting facility is only about 100 meters from the conference hotel, the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln.
 
@@ -63,7 +63,7 @@ There will be signage at Komed House to direct you to the CalConnect meeting roo
 The Wednesday Evening reception will be at Open-Xchange, Hohenzollernring 72, 50672 K¶ln, 16th Floor. You will have to check in with the receptionist on the ground floor; tell them you are with CalConnect and visiting Open-Xchange to be allowed access to the elevators.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Cologne is served by the http://www.cologne-airport.com/[Cologne-Bonn International Airport (CGN)]. The airport is relatively small but offers connections through several other airports. Distance to the venue and conference hotel is approximately 15km, 40â¬ by taxi or 3â¬ by Train.
 
@@ -84,7 +84,7 @@ From the Cologne Bahnhof, you can take the "S-Bahn" to "Hansaring". Several line
 
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln, about 100m from the meeting venue. We have a room block for meeting participants available between 23 September and 30 September at a rate of 69â¬ per night for a single room and 84â¬ per night for a double room. Note that breakfast will be an extra 9.50â¬. Cancellation policy is 1800 on the day of arrival.
 
@@ -112,7 +112,7 @@ http://www.stadt-koeln.de/politik-und-verwaltung/steuern-gebuehren/tax-promotion
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
@@ -269,9 +269,7 @@ If you are planning to participate, please contact us to let us know which inter
 
 
 [[conference-schedule]]
-Conference Schedule
-
-===== CALCONNECT XL CONFERENCE
+== Conference Schedule
 
 [cols=2]
 |===

@@ -52,12 +52,12 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Event. You may register at any time once registration has been announced and the registration pages are available.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at Mozilla's San Francisco Facility, located at 2 Harrison Street, San Francisco, California. (For those who know San Francisco, this is the Hills Bros Coffee building), at the foot of Harrison Street at The Embarcadero http://is.gd/0rPlGH[]. It is about than a kilometer from the Embarcadero BART (Bay Area Rapid Transit, the local metro system) Station, and on the Muni "N" light rail line running from the Embarcadero Station down The Embarcadero and past Harrison Street. +
  +
@@ -68,7 +68,7 @@ _Please note: Due to high hotel prices in downtown San Francisco we are using a 
 *Parking at Mozilla:* There are several parking options nearby at a cost of $16-25/day if you arrive in time for the early bird rates (before 9am). There is a garage directly below 2 Harrison Street which charges about $20/day. The best nearby option is in the 400 block on Spear Street, at $16/day. It's a little awkward to find the first time -- this is the view of the driveway: http://is.gd/9SIm9w[]. It's only a 3 minute walk to Mozilla.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
@@ -81,7 +81,7 @@ _If you arrive at San Francisco International, take the AirTrain to the BART sta
  If you must drive, information on rental cars and shuttles are available on all three airport websites, and the hotel offers a parking arrangement with a nearby self-parking garage.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The Shattuck Plaza hotel in Berkeley is the Conference Hotel for this meeting. Those who were at the CalConnect event at the University of California, Berkeley three years ago (February 2011) will remember this hotel as it was our conference hotel for that meeting. It is within 1/2 block of a BART station, and six stops from The Embarcadero Station in San Francisco, the closest station to Mozilla. The hotel is offering CalConnect a special rate of 17% below the lowest available rate at the time of booking. Our room block ends on Friday 17 January 2014; after that date the discount may or may not be available depending on hotel occupancy. +
  +
@@ -99,7 +99,7 @@ http://www.hotelshattuckplaza.com/ +
 *Traveling between the conference hotel and the Mozilla Facility:* The Downtown Berkeley BART Station is 1/2 block from the hotel. Take EITHER a Richmond-->Daly City/Milbrae train (which will go to San Francisco), or a Richmond-->Fremont train and change at the 12th street station to any train going to Daly City/Milbrae. Get off at the http://www.bart.gov/stations/embr/index.aspx[Embarcadero] station (first San Francisco station). From this station the Mozilla building is about a kilometer walk,or you can take the F, J, KT, or N light rail lines directly from the Embarcadero station (different level) to the Embarcadero at Harrison Street Metro stop.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday mid-afternoon. +
  +
@@ -149,7 +149,7 @@ http://perryssf.com/general-information/embarcadero/[_Perry's_] _(in the Hotel G
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 _This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._
 

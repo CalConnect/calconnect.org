@@ -42,4 +42,3 @@ for public distribution.
 * CalConnect Calendaring Developers Guide: http://devguide.calconnect.org
 * CalConnect GitHub:  https://github.com/CalConnect/
 * CalConnect Standards Repository and Registry: http://standards.calconnect.org
-* CalConnect additional Public Information: https://public.calconnect.org

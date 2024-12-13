@@ -13,35 +13,35 @@ about:
         url: /about/technical-committees
         subsubfolderitems:
           - page: TCC Technical Coordination Committee
-            url: https://public.calconnect.org/charter/charter-TCC/
+            url: /about/technical-committees/TCC/
           - page: TC-API
-            url: https://public.calconnect.org/charter/charter-TC-API/
+            url: /about/technical-committees/TC-API/
           - page: TC-AUTODISCOVERY
-            url: https://public.calconnect.org/charter/charter-TC-AUTODISCOVERY/
+            url: /about/technical-committees/TC-AUTODISCOVERY/
           - page: TC-CALENDAR
-            url: https://public.calconnect.org/charter/charter-TC-CALENDAR/
+            url: /about/technical-committees/TC-CALENDAR/
           - page: TC-CALSPAM
-            url: https://public.calconnect.org/charter/charter-TC-CALSPAM/
+            url: /about/technical-committees/TC-CALSPAM/
           - page: TC-CLIENT
-            url: https://public.calconnect.org/charter/charter-TC-CLIENT/
+            url: /about/technical-committees/TC-CLIENT/
           - page: TC-DATETIME
-            url: https://public.calconnect.org/charter/charter-TC-DATETIME/
+            url: /about/technical-committees/TC-DATETIME/
           - page: TC-DEVGUIDE
-            url: https://public.calconnect.org/charter/charter-TC-DEVGUIDE/
+            url: /about/technical-committees/TC-DEVGUIDE/
           - page: TC-LOCALIZATION
-            url: https://public.calconnect.org/charter/charter-TC-LOCALIZATION/
+            url: /about/technical-committees/TC-LOCALIZATION/
           - page: TC-PUBLISH
-            url: https://public.calconnect.org/charter/charter-TC-PUBLISH/
+            url: /about/technical-committees/TC-PUBLISH/
           - page: TC-PUSH
-            url: https://public.calconnect.org/charter/charter-TC-PUSH/
+            url: /about/technical-committees/TC-PUSH/
           - page: TC-SHARING
-            url: https://public.calconnect.org/charter/charter-TC-SHARING/
+            url: /about/technical-committees/TC-SHARING/
           - page: TC-STREAMING
-            url: https://public.calconnect.org/charter/charter-TC-STREAMING/
+            url: /about/technical-committees/TC-STREAMING/
           - page: TC-TESTER
-            url: https://public.calconnect.org/charter/charter-TC-TESTER/
+            url: /about/technical-committees/TC-TESTER/
           - page: TC-VCARD
-            url: https://public.calconnect.org/charter/charter-TC-VCARD/
+            url: /about/technical-committees/TC-VCARD/
           - page: Closed TCs
             url: /about/technical-committees/closed-tcs
       - page: Major Work Projects
@@ -122,7 +122,7 @@ resources:
         url: /resources/calendaring-standards
       - page: 7 Things You Should Know About...
         url: /resources/7-things-you-should-know-about
-      - page: Getting Started...
+      - page: Getting Started
         url: /resources/getting-started
       - page: Architectural Diagrams
         url: /resources/architectural-diagrams
@@ -150,6 +150,8 @@ resources:
         url: /resources/discussion-lists
       - page: Public Review
         url: /resources/public-review
+      - page: Timezone changes knowledge base
+        url: /resources/timezone-changes
 news: &news_content
   - title:
     subfolderitems:

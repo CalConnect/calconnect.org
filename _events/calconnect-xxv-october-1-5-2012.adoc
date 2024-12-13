@@ -47,26 +47,26 @@ Citizens of the United States do not require a visa to visit Switzerland. +
  In particular, the "Overview of ID and visa provisions according to nationality": http://www.bfm.admin.ch/content/dam/data/migration/rechtsgrundlagen/weisungen_und_kreisschreiben/weisungen_visa/bfm-anh01-liste1_vorschriften-nach-staat-e.pdf
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Roundtable and for the Test Event. +
  +
 *Special Registration Fees*: For CalConnect XXV, the registration fee for first-time-attendees from non-members is a single fee of $350 which covers one participant in either the Interoperability Test Event, the Roundtable Technical Conference, or both. You must execute separate registration forms to attend both the Roundtable and the Interoperability Test Event but the single fee applies.
 
 [[location]]
-Location
+== Location
 
 The venue for CalConnect week will be at Google's Zurich campus, located at Brandschenkestrasse 110, 8002 Zurich. Here is a map showing the location of Google's campus, the nearby train station "Enge" and the hotels: http://goo.gl/oerbd[]. Impressions of the Google Campus in Zurich: http://www.google.com/about/jobs/locations/zurich/[]. Zurich, the city: http://www.myswitzerland.com/en/zurich.html[].
 
 [[transportation]]
-Transportation
+== Transportation
 
 Zurich is served by http://www.zurich-airport.com/[Zurich International Airport (ZRH)]. Direct connections are available from most European cities and a number of North American cities. +
  +
 *Ground Transportation:* From the airport, train S2 goes every 30 mins to station "Enge" (a 30 min ride), from there it's a 10 min walk to Google or the B2 Hotel. Taxis are also available; the fee from the airport to Google is about CHF 40-50 and takes about 25 minutes depending on traffic.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Google has preferential rates available at three nearby hotels. The first one is right next to Google, the other two are a 10 min walk away. CalConnect attendees may use the Google preferred rate (not sure that it's always the lowest rate available). To see the booking codes, member representatives may go to http://calconnect.org/membersonly/cc25codes.shtml[CalConnect XXV preferred hotel booking codes] in the members area. +
  +
@@ -100,7 +100,7 @@ http://www.seestrasse-apartments.ch/ +
  Self-catering apartments; Rates from: CHF 133.50
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 As noted above all events for the week will be at the Google campus. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops may be held Thursday and Friday mornings. +
  +
@@ -145,7 +145,7 @@ _Zueghauskeller_
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 As noted above all events for the week will be at the Google campus. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops may be held Thursday and Friday mornings. +
  +

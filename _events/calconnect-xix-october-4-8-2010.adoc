@@ -43,12 +43,12 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 Please be aware that Boston Logan is an International Airport and offers direct arrivals from and departures to international locations. Manchester is a regional airport and does not offer customs and immigration services.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at the IBM/Lotus campus at 550 King Street, Littleton, Massachusetts. We will be in the All Hands Room on the first floor for the entire week. (The User Special Interest Group on Wednesday morning will be in a separate conference room to be assigned closer to the event.) For a map of the area showing the venue location and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00048c79498f5b8f9ccd2&ll=42.560225,-71.456881&spn=0.04672,0.132093&z=14[IBM/Lotus Littleton MA, and surrounding area].
 
@@ -57,7 +57,7 @@ The Interoperability Test Event and the Roundtable will take place at the IBM/Lo
 *Hotel Shuttles and Walking:* The hotels do not have shuttles, and are a bit more than 2 miles from the IBM building. This means that walking is doable but a bit more than people may want to undertake. Carpooling with those who have autos is probably the best alternative.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Littleton is served by both Boston's http://www.massport.com/logan/[Boston Logan International Airport], and by Manchester, New Hampshire's http://calconnect.org/www.flymanchester.com[Manchester Boston Regional Airport], and is approximately 30 miles from either. Logan will have more flights and possibly better fares, but it is a bit more complicated to get to and from the airport and may require more time.
 
@@ -66,7 +66,7 @@ Transportation
 From Boston you can also take the MBTA commuter rail Fitchburg line, which has a stop in Littleton about 2.5 miles from IBM and about 5 miles from the hotels. See http://www.mbta.com/schedules_and_maps/rail/lines/stations/?stopId=105[].
 
 [[lodging]]
-Lodging
+== Lodging
 
 IBM has recommended the following hotels in the area which also offer special rates for visitors to IBM.
 
@@ -93,7 +93,7 @@ http://hamptoninn.hilton.com/en/hp/hotels/index.jhtml?ctyhocn=BOSWFHX +
 When reserving the room, ask for the IBM rate of $85 per night. Mention that you are with CalConnect as a block of rooms has been reserved for us. The room block will expire in early September but the IBM rate should still be offered if rooms are available.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
@@ -143,7 +143,7 @@ _http://www.indiapalacenh.com[India Palace]_ +
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 

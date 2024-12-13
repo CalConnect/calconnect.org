@@ -35,12 +35,12 @@ We also plan to offer interoperability testing during or adjacent to the Virtual
 The Virtual Conferences will be open to members and non-members. You must register in advance and pay the registration fee for the conference prior to October 09. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration will open in early September; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. See the registration pages linked above for more information. Registrants will be sent the access information the week prior to the Virtual Conference.
 
 [[location]]
-Location
+== Location
 
 Via Zoom. URL and access credentials will be provided to all registered attendees before the Virtual Conference.
 
@@ -51,7 +51,7 @@ Via Zoom. URL and access credentials will be provided to all registered attendee
 [[test-schedule]]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT VIRTUAL CONFERENCE 2020
 

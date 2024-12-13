@@ -46,7 +46,7 @@ International Visitors
 
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
  +
- San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
+ San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 Conference Details
 
@@ -55,28 +55,28 @@ Morning coffee and rolls, lunch, and morning and afternoon breaks will be served
 Dress at all CalConnect events is casual to business casual.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please seehttp://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Conference will take place at AOL's Palo Alto Headquarters, 395 Page Mill Road, Palo Alto, California 94306. We will be in the Auditorium on the first (ground) floor the entire week. When you arrive, please enter at the main entrance and check in with the Receptionist on the first floor, who will direct you to the Auditorium. You will not require an AOL badge; CalConnect badges will be issued in the meeting room. (Be warned that most entries to the building do require a badge, so if you leave the building you will have to re-enter through the main entrance.) +
  +
 *Please do not park in Visitor Parking as these are limited to 20 minutes. You are welcome to park anywhere else in the building parking lot.*
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],http://www.flyoakland.com/[Oakland International (OAK)], andhttp://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
  Palo Alto is closest to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK. +
  +
-*Ground Transportation:*Information on rental cars and shuttles is available on all three airport websites. Hotels are not likely to offer direct shuttles, so driving, taxis or commercial shuttle services are your best bet.  
+*Ground Transportation:*Information on rental cars and shuttles is available on all three airport websites. Hotels are not likely to offer direct shuttles, so driving, taxis or commercial shuttle services are your best bet.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The Conference Hotel is +
  +
@@ -94,17 +94,17 @@ http://www.dinahshotel.com +
 _*Be warned:* the Superbowl will be Santa Clara in early February and is already affecting availability and hotel rates even three weeks in advance of the event. Hotels that normally offer AOL rates may elect not to offer them during this period as they can charge quite a bit more. We *strongly* recommend you book as early as possible even if you have to change or cancel your booking later._
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
 [cols=3]
 |===
-3+| 
+3+|
 
-===== CALCONNECT INTEROPERABILITY TEST EVENT
+CALCONNECT INTEROPERABILITY TEST EVENT
 
-a| 
+a|
 
 *Monday 11 January* +
  0800-0830 Coffee & Rolls +
@@ -150,15 +150,9 @@ a| *Wednesday 13 January* +
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Conference begins with lunch on Wednesday and runs through Friday.
-
-[cols=2]
-|===
-2+a| 
-
-===== CALCONNECT XXXV CONFERENCE
 
 [cols=2]
 |===
@@ -166,62 +160,62 @@ The Conference begins with lunch on Wednesday and runs through Friday.
 
 | 1100-1200
 a| Introduction to CalConnect Q&A +
-_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._ 
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._
 
 | 1200-1300 | Lunch
 | 1300-1330 | Welcome, IOPTEST Reports, Hong Kong status
 | 1330-1400
 a| Technical Committee Summaries and IETF Status +
-_Current status of work in Technical Committees, and progression of our drafts at the IETF._ 
+_Current status of work in Technical Committees, and progression of our drafts at the IETF._
 
 | 1400-1430
 a| New Member and Non Member Presentations +
-_Short introductions to new members and non-member obserers._ 
+_Short introductions to new members and non-member obserers._
 
 | 1430-1530
 a| iCalendar Patch +
-_Improving network I/O performance when sending/receiving iCalendar data by sending patches, receiving diffs, using compact recurrence instance formats_ 
+_Improving network I/O performance when sending/receiving iCalendar data by sending patches, receiving diffs, using compact recurrence instance formats_
 
 | 1530-1600 | Break and Refreshments
 | 1600-1700
 a| Identity for federated sharing and scheduling +
-_The use of email addresses from other domains for identity causes problems for scheduling and sharing.._ 
+_The use of email addresses from other domains for identity causes problems for scheduling and sharing.._
 
 | 1700-1800
 a| App-specific data embedded in iCalendar +
- 
+
 
 | 1800-2000
 a| Welcome Reception +
-_On Premises_ 
+_On Premises_
 
 2+| *Thursday 14 January*
 | 0800-0830 | Coffee & Rolls
 | 0830-0930 | PUSH/Auto-discovery update
 | 0930-1030
 a| Event types/relationship +
-_Creating a registry of event types_ 
+_Creating a registry of event types_
 
 | 1030-1100 | Break and refreshments
 | 1100-1230 | API status and discussion
 | 1230-1330 | Lunch
 | 1330-1415
 a| Update on server information specification +
-_Provides clients with cacheable server information._  
+_Provides clients with cacheable server information._
 
 | 1415-1530
 a| Update on iSchedule +
-_Latest work on iSchedule specification_ 
+_Latest work on iSchedule specification_
 
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| Privacy and data encryption in the cloud +
-_Encryption of data has implications for services such as implicit scheduling._  
+_Encryption of data has implications for services such as implicit scheduling._
 
 | 1700-1800
 a| Scheduling changes and real-world use cases (organizer-less scheduling +
 _The enterprise scheduling model is not necessarily appropriate for social calendaring which often has no clearly defined organizer._ +
- 
+
 
 | 1915-2200
 a| Conference Dinner +
@@ -234,7 +228,7 @@ http://pacificcatch.com/[_Pacific Catch_] +
 | 0800-0830 | Coffee & Rolls
 | 0830-0930
 a| DEVGUIDE progress +
-_Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, updating_ 
+_Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, updating_
 
 | 0930-1030 | SHARING specifications status
 | 1030-1100 | Break and refreshments
@@ -242,10 +236,8 @@ _Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, 
 | 1230-1330 | Lunch
 | 1330-1430
 a| Technical Committee Futures and CalConnect Plenary Meeting +
-_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
 
 | 1430 | Close of meeting.
-
-|===
 
 |===

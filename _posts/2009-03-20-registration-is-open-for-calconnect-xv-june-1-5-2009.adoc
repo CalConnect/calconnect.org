@@ -8,7 +8,7 @@ excerpt: Registration is now open for CalConnect XV comprised of Roundtable XV a
 ---
 :page-liquid:
 
-== Registration is open for CalConnect XV, June 1-5, 2009
+= Registration is open for CalConnect XV, June 1-5, 2009
 
 Posted March 20, 2009
 
@@ -21,5 +21,3 @@ If you are planning on participating in the CalConnect Interoperability Test Eve
 A general schedule of events is provided on the logistics page; the final schedule of TC sessions, together with topical agendas, will be available by mid-May.
 
 See you at Oracle in June!
-
-

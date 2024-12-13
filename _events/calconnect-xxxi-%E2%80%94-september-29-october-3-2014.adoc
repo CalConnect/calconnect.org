@@ -56,19 +56,19 @@ International Visitors
 Citizens of the United States, European Union nations, or most Commonwealth nations do not require a visa to visit the United Kingdom. If you are unsure, the following link provides detailed information for visitors to the United Kingdom: https://www.gov.uk/check-uk-visa[].
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event. +
  +
 *Special Registration Fees for first-time attendees*: For CalConnect XXXI, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the http://calconnect.org/iopregparticipant.shtml[Interoperability Test Event Registration], and $0 on the http://calconnect.org/conferencereg.shtml[Conference Registration], for each person being registered.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Conference will take place in the Castle Room at http://www.thehigginsbedford.org.uk[The Higgins Art Gallery and Museum], Castle Lane, Bedford, United Kingdom. The venue is a few minutes walk of the conference hotel. See http://calconnect31.youcanbookme.com/venue.html for a view of The Higgins and a map of the central Bedford area.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The most convenient airport to Bedford is http://www.london-luton.co.uk/[London Luton Airport]. London Luton serves European and U.K. destinations, and is recommended for European travelers arriving by air. +
  +
@@ -89,14 +89,14 @@ Transportation
 *Returning from Bedford:* We will attempt to arrange shared transport back to the major departure locations after the event and will poll everyone during the week to identify departure information and sharing possibilities.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The conference hotel for this event is the Bedford Swan, The Embankment, Bedford. There is no guaranteed room rate, so you may book directly via their website at http://www.bedfordswanhotel.co.uk/[]. If you wish to stay at the conference hotel we recommend booking as soon as possible; rates will undoubtedly rise closer to the event. (The hotel cancellation policy is 4 p.m. date of arrival.) The Swan is about a 5 minute walk from the conference venue. +
  +
 *Alternative Accommodation:* If the Swan is not available or you prefer an alternative, our hosts have provided information about several hotels and B&Bs: http://calconnect31.youcanbookme.com/accommodation.html[]. All offer free Wifi. Be sure you book a room with breakfast or plan to otherwise have breakfast before you arrive at The Higgins each morning as we are not serving breakfast at the event.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Conference begins with lunch on Wednesday and runs through Friday afternoon. +
  +
@@ -146,7 +146,7 @@ _TBD_
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 [cols=3]
 |===

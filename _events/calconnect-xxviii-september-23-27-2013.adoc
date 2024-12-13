@@ -46,21 +46,21 @@ International Visitors
 Please see http://www.learn4good.com/travel/czech_republic_visa.htm#req for information about visas required, etc.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Event. You may register at any time once registration has been announced and the registration pages are available. +
  +
 *Special Registration Fees for first-time attendees*: For CalConnect XXVIII, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the Roundtable Technical Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Roundtable Technical Conference but enter $600 as the amount for the Interoperability Test Event, and $0 for the Roundtable, for each person being registered.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at DHL's Prague Facility, located at V Parku 2308/10, Prague 4, 148 00, Czech Republic. The facility is a 5 minute walk from the Chodov metro station on Line C. It is only 15 minutes by subway from any major point of the city. For more information click on http://www.dpp.cz[www.dpp.cz]. +
  +
  For a map of Prague showing the location of the Conference Hotel and the DHL facility, see http://goo.gl/maps/hDRHV[].
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Prague is served by http://www.prg.aero/en/[Ruzyne], Prague International Airport. Direct connections are available from most European cities and some connections from North America, mostly from the East Coast. Additionally, low-cost airlines such as Easyjet and Ryanair serve Prague from smaller airports in Europe and the U.K. +
  +
@@ -73,7 +73,7 @@ Transportation
  Taxis are also available at the airport for individuals or small groups.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The conference hotel for this event is the Corinthia Hotel Prague http://corinthia.com/en/Prague/home/[]. +
  +
@@ -92,7 +92,7 @@ http://corinthia.com/en/Prague/home/[Corinthia Hotel Prague] +
 *Traveling between the conference hotel and the DHL Facility:* The easiest way is to use the Metro. Both the hotel and the DHL facility are on the "C" line. The hotel is next door to the Vyserad Metro station. DHL is four stops away on the "C" line, at the Chodov station. Metro tickets and passes are avalable at the hotel.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. As is our custom for European events, Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
  +
@@ -139,7 +139,7 @@ http://www.ufleku.cz/_
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. As is our custom for European events, Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
  +

@@ -40,17 +40,17 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for these events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at the University of California in Irvine, California. We will be in Bren Hall, next to the University Club, for the entire week; however the rooms will change. On Monday, Tuesday, and Wednesday morning the IOP Test Event will take place in Room 2222 of Bren Hall. The Roundtable will begin with lunch on Wednesday in Room 4011 of Bren Hall, and will be there the remainder of Wednesday and all day Thursday. On Friday, the Roundtable will move to Room 2011 of Bren Hall. For a general map of the area showing the venue locations and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.000479ebabcfd2338e558&z=14[University of California at Irvine area]. Bren Hall is Building #314 on this map: http://www.parking.uci.edu/templates/campusmap/images/submap_engineering.jpg[].
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Parking:* If you are driving, Parking for Bren Hall will be in the Anteater Parking Structure at Peltason & Anteater; permits are required in the structure, and may be purchased at the kiosk on the structure's north entrance. See http://www.parking.uci.edu/templates/campusmap/images/submap_engineering.jpg[]. The Anteater Parking Structure is the building labeled "APS". Enter at the blue star on the north end, which marks the kiosk: http://www.parking.uci.edu/permits/visitorpermits.cfm[]. As noted above, Bren Hall is building #314. +
  +
@@ -63,7 +63,7 @@ Transportation
 *Considerations for international arrival and departure:* The nearest airport, John Wayne Airport (SNA), is not an international airport and you cannot clear customs there upon arrival. We recommend connecting through another U.S. airport to clear customs, and then continuing on to John Wayne Airport. You can also fly directly into Los Angeles International -- however it is about 45 miles from LAX to UC Irvine by car or shuttle, which can take up to 90 minutes depending on traffic. (This may be particularly an issue on Friday afternoon departure.)
 
 [[lodging]]
-Lodging
+== Lodging
 
 The University of California at Irvine has arranged for a special CalConnect rate with two local hotels, the Ayres Hotel & Suites, and the Atrium Hotel. Both hotels are very near the John Wayne Airport and within a few miles of the UCI campus. Both offer a shuttle from and to the airport and some form of shuttle service to local businesses within a few miles. +
  +
@@ -105,7 +105,7 @@ http://www.atriumhotel.com/ +
  If you have a preferred hotel chain or your company does, the usual hotel chains have hotels in the area; these hotels are mostly clustered more or less in the vicinity of the airport. There are no hotels within comfortable walking distance of the UCI campus.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
 
@@ -153,7 +153,7 @@ http://www.steelheadbrewery.com[www.steelheadbrewery.com]
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
 

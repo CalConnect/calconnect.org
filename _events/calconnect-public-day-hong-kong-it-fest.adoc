@@ -41,7 +41,7 @@ Ronald Tse, CEO, https://www.ribose.com/home[Ribose]
 image::/assets/images/ribose_120.jpg[OGCIO, Ribose, CalConnect,744,212]
 
 [[registration]]
-Registration Information
+== Registration Information
 
 http://www.itfest.hk/template?series=2&id=141&lang=en#[Registration] for the CalConnect Public Day is found on the IT Fest website at: +
 http://www.itfest.hk/template?series=2&id=141&lang=en#
@@ -49,7 +49,7 @@ http://www.itfest.hk/template?series=2&id=141&lang=en#
 http://www.itfest.hk/template?series=2&id=141&lang=en#[Register]
 
 [[location]]
-Location
+== Location
 
 The CalConnect Public Day will be held at theHong Kong Convention and Exhibition Centre on April 20 during International IT Fest 2016.
 
@@ -61,7 +61,7 @@ Wednesday, April 20, 2016
 https://www.hkcec.com/sites/all/themes/hkcec/templates/venue_panorama/HKCEC_s221/S221.html[Panoramic view of Meeting Room S221]
 
 [[transportation]]
-Transportation
+== Transportation
 
 === CalConnect Public Day Participants
 
@@ -324,10 +324,10 @@ is a co-founder of CalConnect, served on the initial Board of Directors, and ser
 mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org]
 
 [[lodging]]
-Lodging
+== Lodging
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 === CalConnect Public Day Sponsors
 
@@ -369,7 +369,7 @@ image::/assets/images/sponsor-logos3.png[""]
 * http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CalConnect Public Day Schedule as of 21 March 2016
 

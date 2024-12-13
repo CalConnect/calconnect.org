@@ -1,20 +1,19 @@
 ---
-layout: toc-type
+layout: page
 title: CalConnect STREAMING Technical Committee
-parent: "/public/charter"
-mainParent: "charter"
-parents: "charter:/charter"
+type: about
+permalink: /about/technical-committees/:title
 order: 13
 published: false
 ---
 
-# CalConnect STREAMING Technical Committee
+= CalConnect STREAMING Technical Committee
 
-## Background
+== Background
 
 tbd
 
-## Charter
+== Charter
 
 TC Streaming will define and document a streaming protocol for calendar data which avoids the polling approach of existing protocols and should provide more timely change feeds for consumers.
 
@@ -24,41 +23,44 @@ The TC will investigate and document how this protocol may be used by a number o
 
 The TC will also document how this specification may be used as an adjunct to CalDAV and other protocols.
 
-## Out of Scope 
+== Out of Scope
 
-- Explicit (access control - transport specific methods will be used)
-- Account provisioning, discovery and management
- 
-## Deliverables
+* Explicit (access control - transport specific methods will be used)
+* Account provisioning, discovery and management
 
-- A CalConnect published specification
-- Equivalent specifications published via other organizations as appropriate.
+== Deliverables
 
+* A CalConnect published specification
+* Equivalent specifications published via other organizations as appropriate.
 
-## Begin and End Dates
+== Begin and End Dates
 
-* **Begin:** April 2018
-* **End:** tbd
+* *Begin:* April 2018
+* *End:* tbd
 
-## Milestones and Work Products
+== Milestones and Work Products
 
-| Period | Milestone |
-| --- | --- |
-| April 2018 |	TC initiated |
+[cols="1,1"]
+|===
+|Period |Milestone
 
-## STREAMING Mailing List
+|April 2018
+|TC initiated
+|===
+
+== STREAMING Mailing List
 
 You must be an employee of a Consortium member to be subscribed to this mailing list.
 You must be subscribed to the TC SHARING mailing list to post messages to this mailing list.
 
-[tc-streaming-l](mailto:tc-streaming-l@lists.calconnect.org)
+mailto:tc-streaming-l@lists.calconnect.org[tc-streaming-l]
 
 Participation on the STREAMING mailing list will be in accordance with standard CalConnect practices and procedures.
 
-## Co-Chairs 
+== Co-Chairs
 
-Mike Douglass (SCG) ([mikeadouglass@gmail.com](mailto:mikeadouglass@gmail.com))
+Mike Douglass (SCG) (mailto:mikeadouglass@gmail.com[mikeadouglass@gmail.com])
 
-Peter Tam, Ribose ([peter.tam@ribose.com](mailto:peter.tam@ribose.com))
+Peter Tam, Ribose (mailto:peter.tam@ribose.com[peter.tam@ribose.com])
 
 Please contact the Chairs for more information or to join this Technical Committee.

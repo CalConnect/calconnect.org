@@ -49,19 +49,19 @@ Morning coffee and tea will be accompanied by fruit or rolls; however, you shoul
 All CalConnect activites are business casual to casual attire.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XLVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
 
 [[location]]
-Location
+== Location
 
 CalConnect XLVI will be held Monday-Friday October 7-11 at a shared conference facility at 1500 Walnut Street, Philadelphia, Pennsylvania. Please see https://www.google.com/maps/d/edit?mid=1TAwZr6_T2hR-kDBMEAGeV0ZpgaNb1Ib1&ll=39.96541812197269%2C-75.16222965000003&z=15[Local Map] for a map of area including locations of the venue, hotels, etc.
 
 Enter the building from 15th Street. There is a bank of elevators. Youll be going to the 2nd floor. You will need to talk to reception. There will be signs on the 2nd floor directing you to the meeting room.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Air Travel*: Philadelphia is served by http://www.phl.org[Philadelphia International Airport (PHL)].
 
@@ -76,7 +76,7 @@ Taxi service is also available at the airport for about $30 to the area of the v
 
 
 [[lodging]]
-Lodging
+== Lodging
 
 We are planning to use the Club Quarters hotel as our confernce hotel due to proximity and recommendations. There is no special or corporate rate available for our host, so book directly whatever lodging you choose.
 
@@ -102,7 +102,7 @@ Philadelphia has a variety of hotels, hostels, etc. at different price points, a
 [[test-schedule]]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT XLVI PHILADELPHIA
 
@@ -113,7 +113,7 @@ _This schedule will be updated as new information and new sessions are added.  P
 2+| *Monday 7 October 2019*
 
 | 0830-0900 | Coffee and Tea
-| ____0900-0930 
+| 0900-0930 
 a| Conference Opening +
 _Welcome, logistics, introductions, review of schedule for week_ 
 

@@ -55,12 +55,12 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
  San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at Oracle's Santa Clara Headquarters, 4170 Network Circle, Santa Clara, California 95051. We will be in Building 23, Conference Room 1730, all week. *Initial check-in each day will be in the lobby to Building 17/18 and we will be escorted to the conference building and room.* +
  +
@@ -69,7 +69,7 @@ The Interoperability Test Event and the Roundtable will take place at Oracle's S
 _**Disregard the information on the Santa Clara Building Layout pdf about parking and picking a badge up at the Clock Tower Building; special arrangements have been made for us as noted above._
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
@@ -78,7 +78,7 @@ Transportation
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. If you fly into San Jose your hotel may offer shuttle service from and to the airport.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our conference hotel for this event is the Embassy Suites Santa Clara. The hotel is offering us a special rate of $177/night, which includes free internet access\* and a full breakfast\*\* every morning. If you wish to extend your stay by a day or two on either side, you can do so at the same rate assuming availability. You **must book by January 14th to receive the special conference rate**; after the 14th the room block and special rate will no longer be available. +
  +
@@ -106,7 +106,7 @@ http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-santa-clara
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
 
@@ -155,7 +155,7 @@ _http://www.faultlinebrewing.com/[Faultline Brewing Company]_ +
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
 

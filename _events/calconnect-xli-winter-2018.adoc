@@ -62,12 +62,12 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:Dave.Thewlis@calconnect.org?subject=Request%20for%20Letter%20of%20Invitation[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XLI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the developers forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
 
 [[location]]
-Location
+== Location
 
 The Developers Forum/Test Event (January 29-31) and the Conference (January 31-February 2) will be held at 700 First Avenue Building E, Sunnyvale, California, (This is a correction.) We will be in CL (Classrooms) 9/10 on the first floor, nearest to First Avenue.
 
@@ -76,7 +76,7 @@ Driving: turn onto First Avenue and then turn LEFT into Building E Parking Lot. 
 The Wednesday Evening reception will probably be at the same location but details remain to be decided.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information*: The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
@@ -89,7 +89,7 @@ SFO has the most flights and airlines serving it and is probably the only realis
 Please note that the meeting venue is not walkable from the conference hotel or indeed any hotels; you will need a rental car, commercial transportation, or to make ride sharing arrangements with other attendees.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Please be aware that there are no hotels within walking distance of the venue ((700 First Avenue, Sunnyvale), so you will need a rental car, use commercial transportation, or make arrangements to ride share with other attendees regardless of where you stay. Hotels are also very expensive in this area, however we have managed to identify a conference hotel available at a reasonable rate (for this area and time). Oath does not have a special rate available to non-employees, so you will need to make an open reservation, but you can use the senior discount, auto club discount, etc. As of mid-November it was possible to book at $239 per night (plus tax) or about $267 inclusive.
 
@@ -112,7 +112,7 @@ The hotel offers free Wifi, free parking, and a free hot breakfast.
 You can book online at the URL provided,or by calling 1-800-345-1554.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
@@ -282,9 +282,8 @@ If you are planning to participate, please contact us to let us know which inter
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
-===== CALCONNECT XLI CONFERENCE
 The session schedule may still undergo some changes, especially rearranging times of sessions, as we get closer to the event.
 
 [cols=2]

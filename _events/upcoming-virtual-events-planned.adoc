@@ -22,12 +22,12 @@ CalConnect will host some one or two day virtual events on specific topics. Any 
 
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Will be posted for specific events.
 
 [[location]]
-Location
+== Location
 
 Virtual. The link will be sent with registration information.
 

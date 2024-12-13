@@ -43,12 +43,12 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place in Barrows Hall, Room 60, on the University of California, Berkeley Campus in Berkeley, California. Please see http://www.berkeley.edu/map/maps/DE45.html for a map of the UC Berkeley Campus. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00049104b2078dc8b7146&ll=37.870754,-122.265344&spn=0.009604,0.022724&z=16[Downtown Berkeley and UC Campus] for a map of the Berkeley downtown area and the campus, showing the location of the conference hotel, restaurants, and meeting venue. +
  +
@@ -57,7 +57,7 @@ The Interoperability Test Event and the Roundtable will take place in Barrows Ha
 _If you are local to the San Francisco Bay Area and will be commuting to the event rather than staying in Berkeley, we strongly recommend you take BART to the Downtown Berkeley station, only two blocks from campus._
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
@@ -68,7 +68,7 @@ Transportation
  If for some reason you must drive, information on rental cars and shuttles are available on all three airport websites, and the hotel offers a parking arrangement with a nearbly parking garage. However as noted above, you will not be able to park on the UC Campus.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The Shattuck Plaza hotel is the Conference Hotel for this meeting. It is extremely close to the venue on the UC Berkeley campus, and very close to a BART station as noted above. It is also the only practical hotel within walking distance. The hotel is offering CalConnect a special rate of 17% below the lowest available rate at the time of booking. Please note that there are none of the regular business hotels within several miles, and few other options at all in Berkeley. +
  +
@@ -83,7 +83,7 @@ http://www.hotelshattuckplaza.com/ +
  The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event -- so book early and save!
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +
@@ -129,7 +129,7 @@ _TBD_
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +

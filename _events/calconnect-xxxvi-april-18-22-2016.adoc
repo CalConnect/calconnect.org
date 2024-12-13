@@ -105,7 +105,7 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the test event and/or the conference. Note that you must register separately for the interoperabilty test event and for the conference, however you may request a single invoice and payment.
 
@@ -118,7 +118,7 @@ We recommend booking your hotel accommodations as soon as possible. Not only wil
 
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event (April 18-19) and the Conference (April 21-22) will take place in Cyberport 3, Training Rooms 1-3, at Cyberport, an IT incubator and meeting facillity about 20 minutes from Central Hong Kong. The Wednesday April 20 Public Event will be at the Hong Kong Convention Cente, Room S221, in Central Hong Kong. The Tuesday evening HKU Seminar will be at the Hong Kong University campus in the KK Leung Building, Room KK201.
 
@@ -131,7 +131,7 @@ https://www.cyberport.hk/en/about_cyberport/about_cyberport_map
 
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Hong Kong is served by http://www.hongkongairport.com[Hong Kong International Airport], on the island of Chek Lap Kok. Direct flights are available from many international destinations.
 
@@ -142,7 +142,7 @@ The Airport Express train runs from the airport to (Central) Hong Kong Terminal 
 A taxi from the airport directly to Cyberport takes about 45 minutes and costs about $380 Hong Kong dollars.  Uber is illegal in Hong Kong.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Three hotels are offering room blocks and a special rate for CalConnect attendees, the Mandarin Oriental and Landmark Mandarin Oriental in Central Hong Kong, and Le M©ridien at the Cyberport (where our event is located). You may book at any of these hotels immediately, but you must do it via telephone, or by filling out a reservation form and faxing it to the hotel. Please note that the special rate is available from two days prior to two days after our event; that is between 16 and 24 April 2016.
 
@@ -215,7 +215,7 @@ http://www.ovolohotels.com/en/hotels/hongkong/ovolo-southside/
 In general Cyberport is far from tourist areas so there are not many choices around.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The April 18-19 2016 CalConnect Interoperability Test Event will take place as part of CalConnect XXXVI, hosted by Ribose and OGCIO in Cyberport, Hong Kong. The test event consists of actual desting, and developer discussions of in-depth technical issues.
 
@@ -403,7 +403,7 @@ for the CalConnect Interoperability Test Event.
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Conference takes place all day Thursday and Friday April 21-22.
 

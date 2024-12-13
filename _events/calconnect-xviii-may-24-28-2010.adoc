@@ -40,18 +40,18 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place on the campus of Carnegie Mellon University in Pittsburgh, Pennsylvania. We will be in Margaret Morrison Carnegie Hall, Room 203, for the entire week. (The User Special Interest Group on Wednesday morning will be in the College of Fine Arts building nearby.) For a general map of the area showing the venue locations and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.000480ec02f4abc4eded0&ll=40.443485,-79.94972&spn=0.011758,0.018604&z=16[Carnegie Mellon University Area]. For a map of the University Campus, please see http://www.cmu.edu/about/visit/campus-map.shtml[]. Note that on this map the meeting venue, Margaret Morrison Carnegie Hall, is Building 13, and the College of Fine Arts (USIG) is Building 5. Parking will be at the East Campus Parking Building, Building P7. +
  
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Parking:*If you are driving, Parking will be in the East Campus Garage, shown as P7 on the Campus Map. It is charged hourly but capped at $10 per day. +
  +
@@ -64,7 +64,7 @@ Transportation
 *Considerations for international arrival and departure:*Pittsburgh is an International Airport and offers direct arrivals from and departures to international locations.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Carnegie Mellon Univesity has arranged a special CalConnect rate of $129/night with the Holiday Inn University Center, which will serve as our conference hotel. It is also the nearest to the meeting venue on the CMU campus, and is about 15 minutes' walk from Margaret Morrison Carnegie Hall. You may book online with the hotel using the Group Code of CAC. You must book by *May 14* to receive this rate. +
  +
@@ -115,7 +115,7 @@ http://www.pittsburghpawyndham.com/
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
@@ -163,7 +163,7 @@ http://www.fuelandfuddle.com/[_Food & Fuddle_]
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 

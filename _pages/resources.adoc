@@ -59,3 +59,5 @@ CalConnect and other events
 * link:{{'/resources/discussion-lists' | relative_url }}[*Public Discussion Lists*]: Public
 Discussion Lists available for subscription, rather than limited to
 CalConnect members
+
+* link:{{'/resources/timezone-changes' | relative_url}}[*Timezone changes knowledge base*]: A collection for structuring conceptual and factual information as well as emerging theories around the topic of timezone changes.
