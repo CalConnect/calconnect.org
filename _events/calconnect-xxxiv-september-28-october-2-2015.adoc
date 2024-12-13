@@ -54,14 +54,14 @@ Morning coffee and rolls, lunch, and morning and afternoon breaks will be served
  Dress at all CalConnect events is casual to business casual.  
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event. +
  +
 *Special Registration Fees for first-time attendees*: For CalConnect XXXIV, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the http://calconnect.org/iopregparticipant.shtml[Interoperability Test Event Registration], and $0 on the http://calconnect.org/conferencereg.shtml[Conference Registration], for each person being registered.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event, Conference and Wednesday evening Reception will take place at http://www.rosarium.net/[Rosarium Amsterdam], Amstelpark 1, Europaboulevard, 1083 HZ Amsterdam, The Netherlands. Meeting room information will be available on the LCD displays in the reception area at the venue. +
  +
@@ -76,7 +76,7 @@ The Interoperability Test Event, Conference and Wednesday evening Reception will
  For a map of the area, please see https://www.google.com/maps/d/u/0/viewer?mid=z9wMRkgdKQT0.k3BHPySM51KM&usp=sharing[]. 
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Amsterdam is served by Amsterdam Airport Schiphol. Amsterdam Airport Schiphol is the main international airport of the Netherlands, located 10 kilometers southwest of Amsterdam. Direct connections are available to ~300 destinations in 98 countries, see http://www.schiphol.nl/index_en.html[]. +
  +
@@ -89,7 +89,7 @@ Transportation
  UberBlack and UberLux are available in Amsterdam.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our conference hotel for this event is the Motel One Amsterdam-RAI. Motel One is a German boutique hotel chain, and the Motel One Amsterdam-RAI is brand new -- it opened on 6 August. +
  +
@@ -132,7 +132,7 @@ General visitor's Information: http://www.iamsterdam.com/en/ +
  - Canal Tour
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
@@ -178,7 +178,7 @@ a| *Wednesday 30 September* +
 |===
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Conference begins with lunch on Wednesday and runs through Friday.
 

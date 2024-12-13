@@ -44,19 +44,19 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
  San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at Apple headquarters, One Infinite Loop, Cupertino, California. Monday morning only we will be in the *Launch* conference room on the first floor of building *Infinite Loop 2 (IL2/1)*. Starting Monday lunch and for the rest of the week we will be in the *Garage 1* conference room on the second floor of building *Infinite Loop 4 (IL4/2)*. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Campus and surrounding area] for a map of the Apple Headquarters campus and surrounding area. Zooming in on the map will show you the location of the separate Infinite Loop buildings. +
  +
 *Parking:* Parking is available in any of the parking areas within Infinite Loop itself.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
@@ -65,7 +65,7 @@ Transportation
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. Two of the hotels listed below (Cypress Hotel and Cupertino Inn) are within walking distance of the Apple campus, so it would be psosible to avoid having a rental car if you use a shuttle service or other public transportation to and from the airport; alternatively you may be able to arrange rides between your hotel and the Apple campus with other conference attendees.
 
 [[lodging]]
-Lodging
+== Lodging
 
 We are not designating a "Conference Hotel" for this meeting as we have not been able to establish special rates. There are many hotels in the area, however The Cypress Hotel and the Cupertino Inn are the closest to the Apple Campus and within walking distance. The Cypress Hotel is currently offering a rather high rate unless you book for seven days or more; it might be worth it to do that and try to truncate your visit. There does not appear to be any significant savings using the Apple rate but you are welcome to request it of either the Cypress or the Cupertino Inn. The Wild Palms hotel is a bit further (about 2 miles from Apple) and offers a somewhat lower rate; it is a member of Joie de Vivre, a well-thought-of California hotel chain. +
  
@@ -96,7 +96,7 @@ http://www.jdvhotels.com/hotels/siliconvalley/wild_palms
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +
@@ -150,7 +150,7 @@ http://calconnect.org/calconnect23.shtml#bof2[Auto-discovery and account provisi
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +

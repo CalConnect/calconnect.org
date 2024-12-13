@@ -46,8 +46,8 @@ calendaring and scheduling applications or operating systems.
 
 == European Union Summer Time Proposal (2018-2019)
 
-=== CalConnect calls on EU to reconsider timeline for proposed seasonal
-time changes
+=== CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
+
 Details: link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes]
 
 Press Release about CalConnect's Advisory Notice concerning the EU Summer Time

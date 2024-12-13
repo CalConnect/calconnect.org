@@ -48,12 +48,12 @@ Morning coffee and tea will be accompanied by fruit or rolls; however, you shoul
 Dress for all CalConnect events is casual to business casual.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] Event to register. The regular registration fee is $650 US for in-person CalConnect member representatives and for observers. For virtual attendees the fee is $150 US per person. See the registration pages linked above for more information.
 
 [[location]]
-Location
+== Location
 
 CalConnect Nottingham 2022 will be held at the https://antenna.uk.com/[Antenna Media Centre], 9A Beck Street, Nottingham NG1 1EQ, +44 (0)115 993 2350. Signs to the meeting room will be posted at the entrance. Here is a map to the city centre showing the locations of the venue and suggested hotels: https://www.google.com/maps/place/Antenna/@52.9546871,-1.1456386,17z/data=!4m5!3m4!1s0x4879c17de0dc5f45:0x4d78304762fccbec!8m2!3d52.9557073!4d-1.1430911[Nottingham Map].
 
@@ -76,7 +76,7 @@ This: https://www.visit-nottinghamshire.co.uk/itinerary-planner allows you to bu
 Nottingham has a tram system - ticket information is here: https://www.thetram.net/tickets/one-off-tickets
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information*: The most convenient airport to Nottingham is https://www.eastmidlandsairport.com/[East Midlands Airport], which serves a number of European and U.K. destinations, and is relatively close to Nottingham with good public transportation.
 
@@ -99,7 +99,7 @@ Rental Cars and Taxis: All airports have rental car facilities and taxis availab
 *Within Nottingham:* It is approximately a 15 minute walk https://www.google.com/maps/dir/Nottingham+Station,+Carrington+Street,+Nottingham/Antenna,+9A+Beck+St,+Nottingham+NG1+1EQ/@52.9515113,-1.1467482,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4879c3d30f154a3d:0x91a710272a1e58ce!2m2!1d-1.1451422!2d52.9471671!1m5!1m1!1s0x4879c17de0dc5f45:0x4d78304762fccbec!2m2!1d-1.1430911!2d52.9557073!3e2[from the Nottingham Train Station to the venue]. Taxis are available at the station at a cost of approxiamtely $10.
 
 [[lodging]]
-Lodging
+== Lodging
 
 At this time, the conference hotel is the https://all.accor.com/hotel/8061/index.en.shtml[Mercure Nottingham City Centre George Hotel], 2 George Street, Nottingham NG1 3BP United Kingdom Tel: +441159853600, Fax: (+44)115/9599777, There is no corporate rate, so book directly with the hotel via the webite. This hotel has a restaurant and bar.
 
@@ -110,7 +110,7 @@ There are a variety of other hotels iin the same area.
 [[test-schedule]]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CalConnect Nottingham 2022
 

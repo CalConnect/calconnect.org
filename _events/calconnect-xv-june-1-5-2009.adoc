@@ -42,18 +42,18 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. 
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place in Room 202 of the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores, California 94065. For a view of the immediate area and the location of the Oracle Conference Center, see http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=350+oracle+parkway,+redwood+shores,+CA&sll=37.531799,-122.264287&sspn=0.003233,0.006952&ie=UTF8&ll=37.532012,-122.266631&spn=0.006466,0.017982&t=h&z=17&iwloc=A[Oracle Conference Center]. For information on parking and driving directions to get to the Conference Center, see http://calconnect.org/OCC.doc[OCC.doc]. +
  
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)]. +
  +
@@ -62,7 +62,7 @@ Transportation
 *Ground Transportation:*Information on rental cars and shuttles are available on all three airport websites. The hotels listed below are all within walking distance of the Conference Center (the Fairfield Inn is furthest), so it is possible to avoid having a rental car if you wish to use an shuttle or public transportation to and from the airport.
 
 [[lodging]]
-Lodging
+== Lodging
 
 There are several hotels very close to the Oracle Conference Center. The hotels below are all within walking distance; the furthest is a bit more than a mile from the Center. This map shows the locations of the closest hotels. Some of these hotels are offering a special rate for us; if so it is shown in the entry below. http://maps.google.com/maps?f=l&source=s_q&hl=en&geocode=&q=category:%22Travel+-+Hotels%22&sll=37.0625,-95.677068&sspn=51.841773,76.552734&ie=UTF8&near=Redwood+Shores,+California&cd=2&ei=euPDSdTmBYSUiAParKWfAg&ll=37.522729,-122.256589&spn=0.024779,0.037379&z=15[Hotels in the Oracle Conference Center immediate area]. +
  
@@ -109,7 +109,7 @@ http://www.marriott.com/hotels/travel/sfofs-fairfield-inn-and-suites-san-francis
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees +
  +
@@ -157,7 +157,7 @@ http://www.bjsrestaurants.com/locationdetail.aspx?lcID=38[__BJ's Brewhouse Resta
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees +
  +

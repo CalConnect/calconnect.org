@@ -46,21 +46,21 @@ Please see http://www.learn4good.com/travel/czech_republic_visa.htm#req for info
  The March 2011 IETF meeting was in Prague and the host provided some useful information about Prague and Czech for travelers: see http://www.ietf80.cz[].
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. +
  +
 *Special Registration Fees*: For CalConnect XXII, the registration fee for non-members is a single fee of $350 which covers one participant in either the Interoperability Test Event, the Roundtable Technical Conference, or both. You must still execute separate registration forms. For members who are not calendaring vendors, the registration for the Interoperability Test Event is $350 which covers one participant but does not include the Roundtable. In all cases additional participants will be charged the regular fee for additional Test Event participants ($150 each) or Roundtable participants ($350 before 17 Setember, $395 thereafter).
 
 [[location]]
-Location
+== Location
 
 The venue for CalConnect week will be the Conference Hotel, http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Our event will take place in the *Majestic II Room*. The Interoperability Test Event (Monday, Tuesday, and Wednesday until noon), and the Roundtable, including the Thursday and Friday symposia and workshops, will take place there; the Wednesday reception will also be in the hotel. Monday and Thursday dinners will be off site. See http://calconnect.org/calconnect22.shtml#hotel[Conference Hotel] for more information about the hotel. +
  +
  For a map of Prague showing the location of the Conference Hotel and venue, and Kerio's offices in Prague, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=214983185398130768599.0004a41d0c26516d67a20&ll=50.076257,14.425049&spn=0.012311,0.035148&z=15[]. 
 
 [[transportation]]
-Transportation
+== Transportation
 
 Prague is served by http://www.prg.aero/en/[Ruzyne], Prague International Airport. Direct connections are available from most European cities and some connections from North America, mostly from the East Coast. Additionally, low-cost airlines such as Easyjet and Ryanair serve Prague from smaller airports in Europe and the U.K. +
  +
@@ -69,7 +69,7 @@ Prague is served by http://www.prg.aero/en/[Ruzyne], Prague International Airpor
  Additionally, the hotel will arrange shuttle service in advance for individuals or small groups from or to the airport at the following rates: Car for max 3-4 people, 680 CZK - $40 USD; Minibus for 8, 1050 CZK - $60 USD; Minibus for 12-15, 1990 CZK - $110 USD. The hotel service must be booked in advance; you will be offered the option to book a transfer from the airport to the hotel as part of your room booking proces, and you may arrange service back to the airport during your stay.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our Conference Hotel is the http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Hotel Majestic Plaza is a four-star hotel and a Premier member of the Best Western Chain. It is located in one of the most desirable localities, in the touristic and business centre of Prague, just few steps from the famous Wenceslas Square. +
  +
@@ -78,7 +78,7 @@ Our Conference Hotel is the http://www.hotel-majestic.cz/en/index[Hotel Majestic
  You may also book your transfer from the airport to the hotel during your room booking and have it charged to your room if you wish. To book, visit http://goo.gl/H3PrG[]. 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 As noted above all events for the week will be at the Conference Hotel. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
  +
@@ -121,7 +121,7 @@ _http://www.kolkovna-restaurant.cz/[Restaurant Kolkovna]_
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 As noted above all events for the week will be at the Conference Hotel. Please note that the IOP Test Events begin at 0830 Monday morning and run all day Monday and Tuesday, plus Wednesday morning through noon. The Roundtable begins with lunch on Wednesday and runs through Friday afternoon. Roundtable Technical Committee sessions will be held in the afternoon to facilitate remote participation; symposia and workshops will be held Thursday and Friday mornings. +
  +

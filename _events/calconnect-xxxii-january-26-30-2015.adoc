@@ -54,19 +54,19 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
  As noted above, San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
-Location
+== Location
 
 Monday and Tuesday of the Interoperability Test Event will take place at Kerio Technologies' Santa Jose Headquarters, 111 North Market Street, 6th Floor, San Jose, California 95113. Kerio is within walking distance of the Conference hotel (see below). There is a large parking garage about a block south of the Kerio buildling at 43-51 North Market Street with a maximum rate of about $20 per day, and an open air public parking lot across the street from Kerio that charges $10 per day (at the corner of West St James and North San Pedro Streets). +
  +
  Wednesday through Friday, comprising the last part of the test event, all 10th Anniversary activities, and the CalConnect Conference, will take place in the De Anza Room of the Conference Hotel, Hotel De Anza, 233 West Santa Clara Street, Downtown San Jose, CA 95113.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
  +
@@ -75,7 +75,7 @@ Transportation
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. Using public transportation is not straightforward from any of the airports to the conference hotel, although it is possible with time and ingenuity.
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our conference hotel for this event is the Hotel De Anza in San Jose, also the location of the event Wednesday through Friday. Unfortunately space in the De Anza and other hotels in the area has become expensive and scarce, due to other activities in San Jose that week. Hotels within a few miles seem to be possible and we will try and help arrange carpooling if we can; options such as AirBnB are also possible. The De Anza is within walking distance of Kerio Technologies, where the test event will be held on Monday and Tuesday; the rest of the week will be at the hotel. The Hotel De Anza does offer valeted parking at $20 per day; their website also offers links to other parking facilities nearby. +
  
@@ -97,7 +97,7 @@ http://hoteldeanza.com +
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday at Kerio HQ. It will continue Wednesday morning at the De Anza hotel. The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
  +
@@ -139,7 +139,7 @@ http://www.britanniaarmsdowntown.com/[_The Britannia Arms_] +
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
  +

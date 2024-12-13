@@ -44,19 +44,19 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
  Chattanooga is is not an international airport and you will need to clear customs at your arrival airport in the United States prior to journeying on to Chattanooga.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place in BALLROOM C at the Chattanooga Doubletree Hotel, 407 Chestnut Street, Chattanooga, Tennessee 37402. The Doubletree will be the conference hotel. +
  +
 *Parking:* Valet and self parking are available for $12 or $8 per day respectively. However as all functions will be at or close to the hotel you should not need an automobile at all.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Chattanooga is served by http://www.chattairport.com[Chattanooga Metropolitan Airport]. The airport is less than 10 miles from downtown and the conference hotel, and is served by several airlines. See http://www.chattairport.com/www/docs/6.274/chattanooga-airport-destinations.html[Chattanooga Airport Destinations] for current service from Chattanooga (and by inference, to Chattanooga). +
  +
@@ -67,7 +67,7 @@ Transportation
  Our hosts have also indicated they would be willing to provide transportation from the airport with advance notice. If you wish to take advantage of this please e-mail Patricia Egen directly with your arrival date, time, and airline, so they can consolidate trips as much as possible. We will sort out return trips to the airport during CalConnect week.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The Chattanooga Doubletree is our conference hotel; all meeting functions and the Wednesday Reception, will take place at the Doubltree. We strongly encourage you to stay at the Doubletree. They are offering a special rate of $129 per night (plus taxes and fees) for CalConnect participants who book **prior to May 3, 2012**, so long as the room block is not exhaused. After that the discounted rate may not be available. The hotel has free Wifi in all rooms and throughout the public areas. +
  +
@@ -89,7 +89,7 @@ http://doubletree1.hilton.com/en_US/dt/hotel/CHACHDT-DoubleTree-by-Hilton-Hotel-
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +
@@ -138,7 +138,7 @@ The Interoperability Test Event begins with breakfast at 0800 Monday morning and
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +

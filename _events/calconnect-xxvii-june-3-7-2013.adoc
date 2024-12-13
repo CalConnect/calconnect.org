@@ -47,12 +47,12 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
  Dane County Regional Airport does not offer international service, so international travelers will have to clear customs and immigration at a transit point, such as Chicago O'Hare.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place at the Union South building, 1308 West Dayton Street, Madison, Wisconsin 53706. We will be in the *Industry* Room Monday through Thursday 3-6 June, and the *Northwoods* Room on Friday 7 June. +
  +
@@ -61,7 +61,7 @@ The Interoperability Test Event and the Roundtable will take place at the Union 
  This map shows the location of the Doubletree Hotel, the Union South Building, and other points of interest: https://mapsengine.google.com/map/edit?mid=zAsY2cEyHcf8.k3ZOyuvNadNU/
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Madison is served by http://www.msnairport.com[Dane County Regional Airport], which is less than ten miles from the University. This is a regional airport and most travelers will have to route though a larger airport. You may also fly to O'Hare International Airport (Chicago) and drive, but it is at least a three hour drive from the airport to Madison. +
  +
@@ -70,7 +70,7 @@ Transportation
  Major rental car companies are available onsite at Dane County Airport; see http://www.msnairport.com/guide/car_rentals.aspx[]. However, due to the closeness of the conference hotel and the meeting site, and the lack of available parking at the meeting site, we recommend that you not bother with a rental car at all unless you have special circumstances.
 
 [[lodging]]
-Lodging
+== Lodging
 
 We have arranged a block of rooms at a special conference rate at the http://doubletree3.hilton.com/en/hotels/wisconsin/doubletree-by-hilton-hotel-madison-MSNDTDT/index.html[Doubletree Madison] hotel, 525 West Johnson Street, Madison. The hotel is approximately eight blocks from the Union South building. +
  +
@@ -81,7 +81,7 @@ We have arranged a block of rooms at a special conference rate at the http://dou
  Several other hotels are available in the area if you are unable to stay at the Doubletree but we encourage you to stay at the conference hotel.
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  
@@ -128,7 +128,7 @@ _http://www.brocach.com/home.html[Brocach Irish Pub]_ +
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 

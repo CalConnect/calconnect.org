@@ -2,7 +2,7 @@
 layout: page
 title: Closed technical committees
 type: about
-permalink: about/technical-committees/closed-tcs
+permalink: /about/technical-committees/closed-tcs
 ---
 :page-liquid:
 

@@ -66,34 +66,34 @@ Morning coffee and continental breakfast, lunch, and morning and afternoon break
 Dress at all CalConnect events is casual to business casual.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
-Location
+== Location
 
 CalConnect XXXIX will be held at http://www.galvanize.com/campuses/seattle-pioneer-square/[Galvanize Pioneer Square], 111 S. Jackson Street at First Avenue, Seattle, Washington 98104, in the Pioneer Square district of Seattle. We will be in the **main conference room on the fiifth floor**, next to the elevator.
 
 The closest Light Rail Station is International/Chinatown Bay C, a short walk down S. Jackson Street to the venue. Here is a https://www.google.com/maps/place/International+District/Chinatown+Station+-+Bay+C/@47.5980932,-122.3303273,17z/data=!3m1!4b1!4m5!3m4!1s0x54906abcb9710af5:0xeec22da20dd8928f!8m2!3d47.5980932!4d-122.3281333[map of the immediate area of the venue] showing the light rail station. The venue is about 8 blocks from the Conference Hotel, the http://www.alexishotel.com/[Kimpton Alexis Seattle], at 1007 First Avenue at Madison.
 
 [[transportation]]
-Transportation
+== Transportation
 
 Seattle is served by the http://www.portseattle.org/Sea-Tac/Pages/default.aspx[Seattle-Tacoma International Airport], generally called SeaTac. SeaTac is about 20 miles south of Seattle, and offers both public transportation and rental cars. (We do not recommend a rental car unless you must, due to the high cost of parking in downtown Seattle.)
 
 The easiest way to get from SeaTac to downtown Seattle is the http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx[Seattle Light Rail] system. As noted under Location, the nearest Light Rail station to the venue is International District/Chinatown Bay C. The nearest Light Rail station to the conference hotel is the Pioneer Square Station or University Street Station, the next two stations north. The journey takes about 40 minutes and the cost is less than $4 U.S. Trains run every 6-15 minutes depending on time of day, and are available from 5 a.m. until midnight or later.
 
 [[lodging]]
-Lodging
+== Lodging
 
-Lodging costs in Seattle for the period of the event, June 12-16, are quite high, probably because of the tourist season. We have managed to identify a conference hotel; however the CalConnect rate will depend on availability. We encourage you to book your room as soon as possible. 
+Lodging costs in Seattle for the period of the event, June 12-16, are quite high, probably because of the tourist season. We have managed to identify a conference hotel; however the CalConnect rate will depend on availability. We encourage you to book your room as soon as possible.
 
 The conference hotel is the http://www.alexishotel.com/[Kimpton Alexis Seattle], at 1007 First Avenue at Madison, about half a mile from the venue. The nearest http://www.soundtransit.org/schedules/light-rail/link-light-rail/map[Light Rail] stations to the hotel are the Pioneer Square station and the University Street station, one and two stops north of the https://www.google.com/maps/place/International+District%2FChinatown+Station+-+Bay+C/@47.6038734,-122.3341736,17z/data=!4m6!3m5!1s0x54906abcb9710af5:0xeec22da20dd8928f!4b1!8m2!3d47.5980932!4d-122.3281333[International District/Chinatown Bay C station].
 
 The Kimpton has offered us a group rate of $275 per night for those willing to commit to their stay to us, such that CalConnect will guarantee the room costs. In order to secure this offer we had to commit at the beginning of April following a quick notification to possible attendees. The Kimpton has offered to make this rate available to other CalConnect attendees as long as availability permits.
 
-The least expensive hotel in the area of the venue appears to be the https://www.bestwestern.com/en_US/book/hotel-details.48128.html?iata=00170260&ssob=PSPBM0304G&cid=PSPBM0304G:google:PBMS3%20|%20Best%20Western%20|%20Exact:best%20western%20plus%20pioneer%20square%20hotel[Best Western Plus Pioneer Square], which is quoting a best rate of $289 per night for the days of our event (slightly less for AAA/CAA or Senior). 
+The least expensive hotel in the area of the venue appears to be the https://www.bestwestern.com/en_US/book/hotel-details.48128.html?iata=00170260&ssob=PSPBM0304G&cid=PSPBM0304G:google:PBMS3%20|%20Best%20Western%20|%20Exact:best%20western%20plus%20pioneer%20square%20hotel[Best Western Plus Pioneer Square], which is quoting a best rate of $289 per night for the days of our event (slightly less for AAA/CAA or Senior).
 
 AirBnB is certainly an alternative especially in the Capitol Hill Light Rail station area, a few stops north of Pioneer Square. Additionally, lower rates may be available very close to CalConnect week if hotels still have vacancies, but have backup plans.
 
@@ -102,15 +102,15 @@ AirBnB is certainly an alternative especially in the Capitol Hill Light Rail sta
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
 [cols=3]
 |===
-3+| 
+3+|
 
-===== CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS FORUM
+CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS FORUM
 
 a| *Monday 12 June* +
  0800-0830 Coffee & Rolls +
@@ -242,142 +242,139 @@ for the CalConnect Interoperability Test Event.
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 [[conference-schedule]]
-Conference Schedule
-
-===== CALCONNECT XXXIX CONFERENCE
+== Conference Schedule
 
 [cols=3]
 |===
-2+| *Wednesday 14 June* | 
+2+| *Wednesday 14 June* |
 
 | 1100-1200
 a| Introduction to CalConnect Q&A +
 _An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
-| 
+|
 
-| 1230-1330 | Lunch | 
+| 1230-1330 | Lunch |
 | 1330-1400
 a| Opening and Introductions +
 _Welcome, Logistics, Introductions_
-| 
+|
 
 | 1400-1530
 a| Public Workshop - Introduction to Calendaring and to Scheduling +
 _Please see https://www.calconnect.org/misc/calconnect-public-workshop-june-14-2017-calconnect-xxxix-seattle[Public Workshop at CalConnect XXXIX] for details._
-| 
+|
 
-| 1530-1600 | Break and Refreshments | 
-| 1600-1800 | Public Workshop (continued) | 
+| 1530-1600 | Break and Refreshments |
+| 1600-1800 | Public Workshop (continued) |
 | 1800-2000
 a| Welcome Reception +
 _On premises_
-| 
+|
 
-2+| *Thursday 15 June* | 
-| 0800-0830 | Coffee & Rolls | 
-| ____0830-0915 
+2+| *Thursday 15 June* |
+| 0800-0830 | Coffee & Rolls |
+| 0830-0915
 a| CalConnect Conference Opening +
 _Welcome, logistics, test event report, Liaison reports, review of conference schedule, introductions._
-| 
+|
 
-| 0915-1000 | Host Presentation (Tandem) | 
+| 0915-1000 | Host Presentation (Tandem) |
 | 1000-1030
 a| Enhanced Synchronization and Update +
 _Mechanisms to pass smaller packets of data using new iCalendar constructs_
-| 
+|
 
-| 1030-1100 | Break and refreshments | 
+| 1030-1100 | Break and refreshments |
 | 1100-1130
 a| VALARM Extensions +
 _Review and progress on alarm acknowledgement/snoozing, proximity-based alarms, new alarm action(s), defaut alarms_
-| 
+|
 
 | 1130-1200
 a| DAV PUSH Overview and Status +
 _Standardized notification and push mechanism for DAV_
-| 
+|
 
 | 1200-1230
 a| Calendar Subscription Upgrades +
 _Provisions to allow a server to advertise more efficient forms of subscription, and enhancements to HTTP GET for simple synchronization._
-| 
+|
 
-| 1230-1330 | Lunch | 
+| 1230-1330 | Lunch |
 | 1330-1430
 a| New JSON Representation for Calendar Data +
-_TC API status and issues; support for VCARD, VTODO, categories._ 
-| 
+_TC API status and issues; support for VCARD, VTODO, categories._
+|
 
 | 1430-1500
 a| Calendar Developers Guide (DEVGUIDE) +
 _Implementation and additions to the Developers Guide, discussion of future additions._
-| 
+|
 
 | 1500-1530
 a| IETF and CalConnect +
 _Review of IETF processes and how CalConnect relates to them._
-| 
+|
 
-| 1530-1600 | Break and refreshments | 
+| 1530-1600 | Break and refreshments |
 | 1600-1700
 a| VCARD, TC 211 and ISO 19160 +
 _Representing non-western address formats in VCARDs, collaboration with ISO TC 211, synchronization with ISO 19160._
-| 
+|
 
 | 1700-1730
 a| Security concerns for calendar and contact data +
 _Safely validating source of events and VCARDs in QRCODEs, etc._
-| 
+|
 
 | 1730-1800
 a| CalConnect iCal4J +
 _Proposed future developments for iCal4J, direction towards a common CalConnect implementation._
-| 
+|
 
 | 1915-2130
 a| Conference Dinner +
 _TBA_
-| 
+|
 
-2+| *Friday 16 June* | 
-| 0800-0830 | Coffee & Rolls | 
+2+| *Friday 16 June* |
+| 0800-0830 | Coffee & Rolls |
 | 0830-0930
 a| Categorization and event types +
 _Being able to categorize events in a standardized manner will help in aggregation and allow applications to discover events of interest._
-| 
+|
 
 | 0930-1030
 a| Calendaring extensions for improved grouping of properties +
 _PARTICIPANT and ATTENDEE in event publication and scheduling._
-| 
+|
 
-| 1030-1100 | Break and refreshments | 
-| 1100-1130 | Calendar Spam Update and M3AAWG | 
+| 1030-1100 | Break and refreshments |
+| 1100-1130 | Calendar Spam Update and M3AAWG |
 | 1130-1200
 a| Status of issues from CalConnect XXXVIII +
 _Status and discussion_
-| 
+|
 
 | 1200-1230
 a| Future Areas of Engagement for CalConnect +
 _(Internet of Things, Health Care, Travel, etc.)_
-| 
+|
 
-| 1230-1330 | Lunch | 
-| 1330-1400 | Future Areas of Engagement (continued) | 
+| 1230-1330 | Lunch |
+| 1330-1400 | Future Areas of Engagement (continued) |
 | 1400-1430
 a| CalConnect CalDAV Tester +
 _Working towards a certification suite for CalDAV servers_
-| 
+|
 
-| 1430-1445 | Technical Committee Directions for period to CalConnect XL | 
+| 1430-1445 | Technical Committee Directions for period to CalConnect XL |
 | 1445-1530
 a| CalConnect Plenary Meeting +
 _Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
-| 
+|
 
-| 1530 | Close of CalConnect XXXIX | 
+| 1530 | Close of CalConnect XXXIX |
 
 |===
 *Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*
- 

@@ -1,7 +1,7 @@
 ---
 layout: page
 name: CalConnect Virtual Conference 2021
-host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2021-04-12
 image: /assets/images/CalConnectEventTBD_0.jpg
 ---
@@ -31,8 +31,6 @@ Recent Changes:
 
 09 Apr 2021 - Thursday sessions content updates
 
-
-
 14 Apr 2021 - corrected schedule reference to UTC offset for daylight time, removed Friday reference from schedule
 
 *Introduction*
@@ -50,12 +48,12 @@ The Virtual Conferences will be open to members and non-members. You must regist
 Registration for the Virtual Conference is $50 U.S. per person.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is open through Sunday April 11 2021; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. See the registration pages linked above for more information. Registrants will be sent the access information prior to the Virtual Conference.
 
 [[location]]
-Location
+== Location
 
 Via Zoom. URL and access credentials will be provided to all registered attendees before the Virtual Conference.
 
@@ -64,12 +62,12 @@ Via Zoom. URL and access credentials will be provided to all registered attendee
 [[lodging]]
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 To be announced.
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT VIRTUAL CONFERENCE APRIL 2021
 
@@ -82,25 +80,33 @@ _This schedule will be updated as new information and new sessions are added.  P
 2+| *Monday 12 April 2021*
 
 | 1100-1130
-a| *Intros and Familiarization* +
- _- Quick discussion on Zoom and tools +
- - Introductions and welcome to newcomers_
+a| *Intros and Familiarization*
 
-| ____1130-1200 
-a| *Conference Welcome and Plenary* +
- _- TC Status +
- - Report from Board, next steps +
- - Plans for Autumn 2021 and beyond_ 
+- Quick discussion on Zoom and tools
+- Introductions and welcome to newcomers
+
+| 1130-1200
+a| *Conference Welcome and Plenary*
+
+- TC Status
+
+- Report from Board, next steps
+
+- Plans for Autumn 2021 and beyond
 
 | 1200-1300
-a| *Implementing JSCalendar _HIGHLIGHT SESSION_* +
-_- Report on implementing JSCalendar in Bedework and Fastmail_
+a| *Implementing JSCalendar _HIGHLIGHT SESSION_*
+
+- Report on implementing JSCalendar in Bedework and Fastmail
 
 | 1300-1400
-a| *Testing and Certification Discussion* +
- _- CalDAV Tester improvements and client support +
- - Automated testing of calendar clients +
- -CalConnect Certification discussion: should CalConnect offer certification of calendar servers or clients?_
+a| *Testing and Certification Discussion*
+
+- CalDAV Tester improvements and client support
+
+- Automated testing of calendar clients
+
+- CalConnect Certification discussion: should CalConnect offer certification of calendar servers or clients?
 
 | 1400-1430 | *Interoperability Testing opportunity / Chat Time*
 2+| *Tuesday 13 April 2021*
@@ -110,16 +116,21 @@ a| *DMARC and iMIP Constraints and Incompatibilities _HIGHLIGHT SESSION_* +
 _There are known issues with iMip and DMARC. For example, forwarding of invitations and sending on behalf of another user. We will outline the problems and possibly suggest solutions._
 
 | 1200-1300
-a| *Date and Time Representations* +
- _- Non-Gregorian Calendar Systems +
- - What to expect from calendar systems? +
- - Standard representation of dates +
- - What is already there (RSCALE)? +
- - A new implementation of RSCALE in Java_
+a| *Date and Time Representations*
+
+- Non-Gregorian Calendar Systems
+
+- What to expect from calendar systems?
+
+- Standard representation of dates
+
+- What is already there (RSCALE)?
+
+- A new implementation of RSCALE in Java
 
 | 1300-1315
 a| *TC-CALENDAR Review* +
-_Review of ongoing work; status of current draft specifications_ 
+_Review of ongoing work; status of current draft specifications_
 
 | 1315-1400
 a| *Calendar Privacy and Encrypted CalDAV* +
@@ -157,7 +168,5 @@ _Presentations and discussion_
 | 0300-0430
 a| *JMAP and JSCalendar/JSContacts Joint Session with IETF CALEXT and JMAP WGs* +
 _Joint public working group call with IETF CALEXT and JMAP workin groups_
-
-|  | 
 
 |===

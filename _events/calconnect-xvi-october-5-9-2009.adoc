@@ -45,19 +45,19 @@ International Visitors
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for these events.
 
 [[location]]
-Location
+== Location
 
 The Interoperability Test Event and the Roundtable will take place in the Beatles meeting room on the first floor of Building De Anza 3, 10500 N. De Anza Blvd, Cupertino, California. This building is immediately south of the Infinite Loop campus. For a view of the Cupertino campus showing the location of building De Anza 3 see http://calconnect.org/cc16-cupertino_campus.pdf[Cupertino Campus Map]. For a map of the general area showing the location of the conference hotel, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Cupertino Campus vicinity]. +
  +
  Please note that you can park in the De Anza 3 parking lot, or anywhere in any of the parking areas within Infinite Loop itself.
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)]. +
  +
@@ -66,7 +66,7 @@ Transportation
 *Ground Transportation:*Information on rental cars and shuttles are available on all three airport websites. The conference hotel listed below is within easy walking distance of the Apple campus are are several other hotels, so it is possible to avoid having a rental car if you wish to use a shuttle or public transportation to and from the airport.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to http://calconnect.org/membersonly/cc16.shtml[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area. +
  +
@@ -95,7 +95,7 @@ http://www.cupertinoinn.com
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +
@@ -144,7 +144,7 @@ __Piano Bar Room__, Building IL4 (see campus map)
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
  +

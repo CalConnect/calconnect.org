@@ -56,19 +56,19 @@ We will begin each day at 0830 with coffee and tea.. The first session will be a
 Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast earlier if you wish a more substantial repast.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XLV; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
 
 [[location]]
-Location
+== Location
 
 CalConnect XLV will take place June 3-7 2019 at the Bedford Centre Hotel, 2 St. Mary's lane, Bedford, United Kingdom. Signs to the meeting room will be posted at the hotel.
 
 
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information*: The most convenient airport to Bedford is https://www.london-luton.co.uk/[London Luton Airport]. London Luton serves European and U.K. destinations, and is recommended for European travelers arriving by air.
 
@@ -93,7 +93,7 @@ For those arriving from more distant locations, you would probably fly into eith
 
 
 [[lodging]]
-Lodging
+== Lodging
 
 The conference hotel for CalConnect XLV is the Bedford Centre Hotel, located at 2 St. Mary's Lane, Bedford, which is also our event venue. The hotel is in central Bedford on the Great Ouse river, next to the A6, and is directly across the river from our 2015 Bedford venue. See: https://www.booking.com/hotel/gb/bedfordmoathouse.en-gb.html for ore about the hotel.
 
@@ -121,7 +121,7 @@ Alternative hotels nearby are the http://www.bedfordswanhotel.co.uk/[Swan Hote]l
 [[test-schedule]]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT XLV
 
@@ -132,7 +132,7 @@ _This schedule will be updated as new information and new sessions are added.  P
 2+| *Monday 3 June 2019*
 
 | 0830-0900 | Coffee and Tea
-| ____0900-0930 
+| 0900-0930 
 a| Conference Opening +
 _Welcome, logistics, introductions, review of schedule for week_ 
 

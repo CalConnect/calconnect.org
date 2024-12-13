@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="container container-columns">
+    <div class="col-sm-9">
+        <ol class="breadcrumb">
+            <li><a href="{{ "/public" | relative_url }}">Home</a></li>
+            {% if page.path contains '_appendixes' %}
+                <!-- Do Nothing -->
+            {% else %}
+                <!-- <li><a href="/Table-of-Contents">Table of Contents</a></li> -->
+            {% endif %}
+            {% assign pageParents = page.parents | split:';' %}
+            {% for parent in pageParents %}
+                {% assign pageParentsDetails = parent| split:':' %}
+                <li><a href="{{pageParentsDetails[1]}}">{{pageParentsDetails[0]}}</a></li>
+            {% endfor %}
+        </ol>
+
+        {% if content.size != 1 %}
+            {{ content }}
+        {% else %}
+            For information on {{page.title}} see:
+            {% assign currentMainParent = page.mainParent %}
+
+            {% if page.path contains '_appendixes' %}
+                {% assign loopPages = site.appendixes | where: "parent", "/public" | sort: "order" %}
+            {% else %}
+                {% assign loopPages = site.pages | where: "parent", "/public" | sort: "order" %}
+            {% endif %}
+
+            {% include toc-mainPage-placeholder.html loopPages=loopPages currentMainParent=currentMainParent %}
+        {% endif %}
+
+    </div>
+    <div class="col-sm-3">
+       <ul class="menu-sidebar">
+            {% assign currentPageUrl = page.url %}
+            {% assign currentPageTitle = page.title %}
+            {% assign pages = site.pages | where: "parent", "/public" | sort: "order" %}
+            {% include toc-sidebar.html pages=pages currentPageUrl=currentPageUrl currentMainParent=page.mainParent currentPageTitle=currentPageTitle%}
+        </ul>
+    </div>
+</div>

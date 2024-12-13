@@ -57,12 +57,12 @@ We will begin each day at 0830 (rather than 0800 as in the past) with coffee and
 Morning coffee and tea will be accompanied by fruit or rolls; however, you should plan to have your real breakfast prior to arriving at the venue.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XLIV; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register. There is only one registration and one payment per person for the entire event.
 
 [[location]]
-Location
+== Location
 
 CalConnect XLIV and related events will be held at the Google Zurich Europaallee campus, Building H, Lagerstrasse 100, which is about 5 minutes from the Zurich Central Train Station. We will be in *Meeting Room Heidi* *on the 2nd Floor*.
 
@@ -71,7 +71,7 @@ Come to the main door of 100 Lagerstrasse on the SE corner. There is a "door bel
 Please see this map of central Zurich and the area of the Central Train Station: https://www.google.com/maps/d/edit?hl=en&mid=1Zxtd71LX8a5DuPugkT3U4LcMkjJ-tBAh&ll=47.3763806765764%2C8.528456845368964&z=16[]__.__
 
 [[transportation]]
-Transportation
+== Transportation
 
 If you travel by air, the easiest connection is via https://www.zurich-airport.com/[Zurich International Airport (ZRH)].
 
@@ -86,7 +86,7 @@ Train connections are also plentiful from nearby countries such as Germany, Fran
 
 
 [[lodging]]
-Lodging
+== Lodging
 
 Google does not have a corporate rate at local hotels, so please book your hotel directly. Four choices are shown below in order of increasing distance from the venue.
 
@@ -131,7 +131,7 @@ https://www.galahotels.com/en/Hotel/switzerland_217/zurich_20528/novotel_zurich_
 [[test-schedule]]
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT XLIV
 
@@ -146,7 +146,7 @@ Please Note: The schedule and content may be altered during the course of the ev
 2+| *Tuesday 5 February 2019*
 
 | 0830-0900 | Coffee and Tea
-| ____0900-0930 
+| 0900-0930 
 a| *A* Conference Opening +
 _Welcome, logistics, introductions, review of schedule for week_ 
 

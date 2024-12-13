@@ -60,12 +60,12 @@ Breakfast is included with your room at the Conference Hotel, Hotel Irvine, if y
 Dress at all CalConnect events is casual to business casual.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
-Location
+== Location
 
 CalConnect XXXVIII will be held in the Student Center building, A, 311 W Peltason Dr, Irvine, CA 92697 The Test Event (Monday, Tuesday, and Wednesday morning) will be in Aliso Beach B (room A309) on the third floor. The Conference (Wednesday afternoon, Thursday and Friday) will be in Pacific Ballroom A (room G118A) on the first (ground) floor. More information about the conference center is at http://conferencecenter.uci.edu/event-facilities/conference-center/[Conference Center]. See https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489919,-117.8421662,15z/data=!4m5!3m4!1s0x0:0x54a63a5775b1ff92!8m2!3d33.6489919!4d-117.8421662[UCI Student Center] for a map of the area.
 
@@ -74,7 +74,7 @@ The Student Center Parking Structure is located on the corner of West Peltason D
 
 
 [[transportation]]
-Transportation
+== Transportation
 
 The nearest airport to UC Irvine is http://www.ocair.com/[John Wayne Airport] (SNA), less than five miles from UC Irvine and close to the conference hotel. Although the airport is called international, travelers from Europe or Asia will almost certainly have to arrive at http://www.lawa.org/welcomeLAX.aspx[Los Angeles Interanational Airport] (LAX) in order to pass customs. Los Angeles International is about a 45 minute drive from UC Irvine (be warned that in heavy traffic it can take quite a bit longer). Alternatively foreign travelers can arrive at a more distant airport, such as San Francisco, and transfer to a short flight to John Wayne Airport.
 
@@ -85,7 +85,7 @@ If you have a rental car you will be able to drive to and from the meeting venue
 The conference hotel offers a shuttle service between the hotel and UC Irvine, which must be booked in advance. Nearer to the event we will see if it is practical to arrange for a group shuttle in the morning and evening.
 
 [[lodging]]
-Lodging
+== Lodging
 
 The Conference Hotel is the http://www.hotelirvine.com[Hotel Irvine], 17900 Jamboree Road, Irvine, California 92614, 888-230-4452. Hotel Irvine is a large business-oriented hotel within a few miles from both John Wayne Airport and UC Irvine.
 
@@ -105,7 +105,7 @@ _We plan to survey registered participants a week or so before the event and fin
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
@@ -263,7 +263,7 @@ for the CalConnect Interoperability Test Event.
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 ==== CALCONNECT XXXVIII CONFERENCE - Room Pacific A (G118A), 1st Floor
 _As of January 18 2017._*Theme session titles are**highlighted*.
@@ -304,7 +304,7 @@ _On Premises_
 
 2+| *Thursday 16 February*
 | 0800-0830 | Coffee & Rolls
-| ____0830-0915
+| 0830-0915
 a| Calendaring Developer's Guide +
 _The guide is published at http://devguide.calconnect.org[]. This session will present and discuss the bigger picture of the DEVGUIDE being a resource for the outside world, and who we think the recipients should be in order to shape the content. TC DEVGUIDE._
 

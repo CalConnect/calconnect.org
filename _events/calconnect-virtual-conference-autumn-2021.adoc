@@ -1,7 +1,7 @@
 ---
 layout: page
 name: CalConnect Virtual Conference Spring 2022
-host_info: Hosted by CalConnect and conducted entirely via Zoom. 
+host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2022-05-09
 image: /assets/images/CalConnectEventTBD_0.jpg
 ---
@@ -10,8 +10,6 @@ image: /assets/images/CalConnectEventTBD_0.jpg
 == CalConnect Virtual Conference Spring 2022
 
 image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
-
-CalConnect Virtual Conference Spring 2022
 
 Monday, May 09, 2022 to Friday, May 13, 2022
 
@@ -27,17 +25,17 @@ Recent Changes:
 
 *Introduction*
 
-CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning has not yet begun as of mid-January but we hope to have a schedule developed over the next few weeks. These may follow the model we used for the Autumn 2021 Virtual Conference, or the related CalendarFest or specialized one-day in-depth topics.
-
+CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning has not yet begun as of mid-January but we hope to have a schedule developed over the next few weeks. These may follow the model we used for the Autumn 2021 Virtual Conference, or the related
+link:{{'/events/calconnect-calendarfest-2021' | relative_url}}[CalendarFest 2021] or specialized one-day in-depth topics.
 
 
 [[registration]]
-Registration Information
+== Registration Information
 
-See link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][Event Registration]
+See link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]
 
 [[location]]
-Location
+== Location
 
 Via Zoom. URL and access credentials will be provided to all registered attendees before the Virtual Conferencess.
 
@@ -46,12 +44,12 @@ Via Zoom. URL and access credentials will be provided to all registered attendee
 [[lodging]]
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 To be announced.
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 === CALCONNECT VIRTUAL CONFERENCE MAY 2022
 
@@ -59,68 +57,77 @@ _This schedule will be updated as needed prior to May_
 
 *All times shown are Eastern North America UTC-4 (daylight saving time)*
 
-[cols="1,9"]
+[cols="1,9s"]
 |===
 2+| *Monday 09 May 2022*
 
 | 1030-1430
-a| *Open discussion or specific topic* +
-_- More information forthcoming_
+a| *Open discussion or specific topic*
+
+- More information forthcoming
 
 2+| *Tuesday 10 May 2022*
 | 1100-1130
-a| *Intros and Familiarization* +
- _- Quick discussion on Zoom and tools +
- - Introductions and welcome to newcomers_
+a| *Intros and Familiarization*
 
-| ____1130-1200 
-a| *Conference Welcome and Plenary* +
- _- TC Status +
- - Report from Board, next steps +
- - Plans for Autumn 2022 and beyond_ 
+- Quick discussion on Zoom and tools
+- Introductions and welcome to newcomers
+
+| 1130-1200
+a| *Conference Welcome and Plenary*
+
+- TC Status
+- Report from Board, next steps
+- Plans for Autumn 2022 and beyond
 
 | 1200-1300
-a| *Implementing JSCalendar* +
-_- Report on implementing JSCalendar in Bedework and Fastmail_
+a| *Implementing JSCalendar*
+
+- Report on implementing JSCalendar in Bedework and Fastmail
 
 | 1300-1400
-a| *Fractional date/time in iCalendar and JSCalendar* +
-_- Supporting subsecond intervals in iCalendar and JSCalendar_
+a| *Fractional date/time in iCalendar and JSCalendar*
+
+- Supporting subsecond intervals in iCalendar and JSCalendar
 
 | 1400-1430 | *Chat Time*
 2+| *Wednesday 11 May 2022*
 | 1045-1100 | *Chat Time*
 | 1100-1200
-a| *Avoiding pitfalls with DMARC and iMIP* +
-_Some clients have known problems handling DMARC and iMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these prolems._ 
+a| *Avoiding pitfalls with DMARC and iMIP*
+
+_Some clients have known problems handling DMARC and iMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these prolems.
 
 | 1200-1245
 a| *TC-CALENDAR REVIEW* +
- _Review of ongoing work; status of current draft specifications including +
- - Relations +
- - Alarms +
- - Event Publication_
+_Review of ongoing work; status of current draft specifications including:_
+
+* Relations
+* Alarms
+* Event Publication
 
 | 1245-1330
-a| *Review of the current status of VPOLL* +
-_Having the relations RFC published it is time to review VPOLL again_ 
+a| *Review of the current status of VPOLL*
+
+_Having the relations RFC published it is time to review VPOLL again
 
 | 1330-1400 | *BoF*
 | 1400-1430 | *Chat Time*
 2+| *Thursday 12 May 2022 - Open Day for scheduling*
 2+| *Friday 13 May 2022*
 | 0100-0200
-a| *TC-LOCALIZATION, TC-VCARD and ISO/TC 211* +
+a| *TC-LOCALIZATION, TC-VCARD and ISO/TC 211*
+
 _Presentations and discussion_
 
 | 0200-0300
-a| *TC-DATETIME and ISO/TC 154 WG 5* +
+a| *TC-DATETIME and ISO/TC 154 WG 5*
+
 _Presentations and discussion_
 
 | 0300-0430
-a| *JMAP and JSCalendar/JSContacts Joint Session with IETF CALEXT and JMAP WGs* +
-_Joint public working group call with IETF CALEXT and JMAP working groups_
+a| *JMAP and JSCalendar/JSContacts Joint Session with IETF CALEXT and JMAP WGs*
 
-|  | 
+_Joint public working group call with IETF CALEXT and JMAP working groups_
 
 |===

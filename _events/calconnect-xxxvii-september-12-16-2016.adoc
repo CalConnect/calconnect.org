@@ -44,7 +44,7 @@ _Please Note: You donotneed finished or polished code to participate in the IOP 
 
 The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
 
- 
+
 
 
 
@@ -59,14 +59,14 @@ Breakfast is included with your room at the Schloss. Morning coffee, lunch, and 
 Dress at all CalConnect events is casual to business casual.
 
 [[registration]]
-Registration Information
+== Registration Information
 
 Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-registration-payment' | relative_url }}[Event Registration] to register for the developers' forum/test event and/or the conference. Note that you must register separately for the forum/test event and for the conference, however you may request a single invoice and payment.
 
 
 
 [[location]]
-Location
+== Location
 
 The Developers' Forum/Test Event (September 12-14) and the Conference (September 14-16) will be held at http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany. Schloss Eckberg is also the conference hotel for CalConnect XXXVII. The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss: https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en
 
@@ -74,7 +74,7 @@ The meeting room will be in the conference facility of the Schloss and will be a
 
 
 [[transportation]]
-Transportation
+== Transportation
 
 *Airport Information:* Dresden is served by http://www.dresden-airport.de/homepage.html[Dresden International Airport]. Service is offered between Dresden and several European destinations, largely German (however Zurich is also served). Dresden does not offer any intercontinental flights at this time, so if you are coming from another continent you will have to transfer or shift transortation modes.
 
@@ -87,7 +87,7 @@ Unfortunately, Schloss Eckberg does not at this time offer a shuttle service, bu
 The trams also offer a convenient way to get getween the Schloss and the city; please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000296&destinationid=33000003[].
 
 [[lodging]]
-Lodging
+== Lodging
 
 Our conference hotel and meeting venue is http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany.
 
@@ -123,7 +123,7 @@ https://www.calconnect.org/sites/default/files/media/Vdr22.044_Arbeitgeberbestae
 
 
 [[test-schedule]]
-Test Event Schedule
+== Test Event Schedule
 
 The Developers Forum and Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning.
 
@@ -272,7 +272,7 @@ If you are planning to participate, please contact us to let us know which inter
 
 
 [[conference-schedule]]
-Conference Schedule
+== Conference Schedule
 
 ==== CALCONNECT XXXVII CONFERENCE
 
