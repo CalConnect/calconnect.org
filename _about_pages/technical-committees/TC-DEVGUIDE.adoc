@@ -5,11 +5,11 @@ type: about
 permalink: /about/technical-committees/:title
 ---
 
+= CalConnect DEVGUIDE Technical Committee
+
 CalConnect project to provide documentation on Calendaring and related issues.
 
 View the site at link:https://devguide.calconnect.org[https://devguide.calconnect.org].
-
-= CalConnect DEVGUIDE Technical Committee
 
 == Background
 
