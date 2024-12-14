@@ -28,11 +28,11 @@ The Interoperability Test Event will take place all day Monday and Tuesday Octob
 
 *CalConnect Interoperability Test Event*: At this meeting, we will host a regular CalConnect Interoperability Test Event. While we will not host a formal Mobile Calendaring Interoperability Test Event, if participants wish to test mobile applications or devices they are welcome to do so and we will help to establish testing pairs.
 
-The IOP Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1010.shtml[Interoperability Test Event October 2010] for current information. Check back often as this will be updated as more information becomes available.
+The IOP Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1010.shtml[Interoperability Test Event October 2010] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
-*Roundtable XIX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+*Roundtable XIX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
 
 Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
@@ -45,7 +45,7 @@ Please be aware that Boston Logan is an International Airport and offers direct 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
 
 [[location]]
 == Location
@@ -59,7 +59,7 @@ The Interoperability Test Event and the Roundtable will take place at the IBM/Lo
 [[transportation]]
 == Transportation
 
-*Airport Information:* Littleton is served by both Boston's http://www.massport.com/logan/[Boston Logan International Airport], and by Manchester, New Hampshire's http://calconnect.org/www.flymanchester.com[Manchester Boston Regional Airport], and is approximately 30 miles from either. Logan will have more flights and possibly better fares, but it is a bit more complicated to get to and from the airport and may require more time.
+*Airport Information:* Littleton is served by both Boston's http://www.massport.com/logan/[Boston Logan International Airport], and by Manchester, New Hampshire's https://www.flymanchester.com[Manchester Boston Regional Airport], and is approximately 30 miles from either. Logan will have more flights and possibly better fares, but it is a bit more complicated to get to and from the airport and may require more time.
 
 *Ground Transportation:* Some information on rental cars, shuttles, and public transportation is available from the airport websites. http://www.harrislimousines.com/home/[Harris Limosines] and http://www.flightlineinc.com/[Flightline Inc.] provide service from and to both airports for about $65 for Logan and $55 for Manchester one way; reservations are required. Taxi fare is approximately $75 from either airport.
 

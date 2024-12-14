@@ -23,45 +23,45 @@ Recent Changes:
 *Information is current to January 27, 2012* +
 _Location of USIG meeting Wednesday Morning identified_
 
-CalConnect XXIII, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Cupertino, California Monday-Friday, January 30 - February 3, 2012, hosted by http://www.apple.com[Apple Inc.]. +
- +
- The Interoperability Test Events will take place all day Monday and Tuesday January 30-31, and Wednesday morning February 1, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 1st, and last through early afternoon Friday the 3rd. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 1st if we have first-time attendees.
+CalConnect XXIII, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Cupertino, California Monday-Friday, January 30 - February 3, 2012, hosted by http://www.apple.com[Apple Inc.].
 
-*CalConnect Interoperability Test Events*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities. +
- +
- The IOP Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1201.shtml[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-*Roundtable XXIII:* The Roundtable Technical ConferenceMembers Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+The Interoperability Test Events will take place all day Monday and Tuesday January 30-31, and Wednesday morning February 1, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 1st, and last through early afternoon Friday the 3rd. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 1st if we have first-time attendees.
+
+*CalConnect Interoperability Test Events*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
+
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1201.shtml[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Roundtable XXIII:* The Roundtable Technical ConferenceMembers Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- +
- San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place at Apple headquarters, One Infinite Loop, Cupertino, California. Monday morning only we will be in the *Launch* conference room on the first floor of building *Infinite Loop 2 (IL2/1)*. Starting Monday lunch and for the rest of the week we will be in the *Garage 1* conference room on the second floor of building *Infinite Loop 4 (IL4/2)*. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Campus and surrounding area] for a map of the Apple Headquarters campus and surrounding area. Zooming in on the map will show you the location of the separate Infinite Loop buildings. +
- +
+The Interoperability Test Event and the Roundtable will take place at Apple headquarters, One Infinite Loop, Cupertino, California. Monday morning only we will be in the *Launch* conference room on the first floor of building *Infinite Loop 2 (IL2/1)*. Starting Monday lunch and for the rest of the week we will be in the *Garage 1* conference room on the second floor of building *Infinite Loop 4 (IL4/2)*. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Campus and surrounding area] for a map of the Apple Headquarters campus and surrounding area. Zooming in on the map will show you the location of the separate Infinite Loop buildings.
+
 *Parking:* Parking is available in any of the parking areas within Infinite Loop itself.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
- +
- Cupertino is about 30 miles south of San Francisco International Airport, and quite close to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it, but you might be able to find less expensive fares via SJC or OAK. +
- +
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+Cupertino is about 30 miles south of San Francisco International Airport, and quite close to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it, but you might be able to find less expensive fares via SJC or OAK.
+
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. Two of the hotels listed below (Cypress Hotel and Cupertino Inn) are within walking distance of the Apple campus, so it would be psosible to avoid having a rental car if you use a shuttle service or other public transportation to and from the airport; alternatively you may be able to arrange rides between your hotel and the Apple campus with other conference attendees.
 
 [[lodging]]
@@ -98,9 +98,9 @@ http://www.jdvhotels.com/hotels/siliconvalley/wild_palms
 [[test-schedule]]
 == Test Event Schedule
 
-The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- *Please Note: +
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+*Please Note: +
  Monday 0800-1200 we will be in the Launch Conference Room, Building 2, First Floor +
  Monday 1230-1800 and Tuesday-Friday inclusive we will be in the Garage 1 Conference Room, Building 4, Second Floor*
 
@@ -119,9 +119,9 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 http://calconnect.org/calconnect23.shtml#bof1[Update vs replacement of calendar and contact data] +
  1430-1530 Testing +
  1530-1600 Break +
- 1600-1800 Testing +
- +
- 1915-2200 IOP Test Dinner +
+ 1600-1800 Testing
+
+1915-2200 IOP Test Dinner +
  _http://lgbrewingco.com/losgatos/[Los Gatos Brewing Company] +
 130 North Santa Cruz Avenue +
  Los Gatos, CA_
@@ -141,9 +141,9 @@ http://calconnect.org/calconnect23.shtml#bof2[Auto-discovery and account provisi
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -152,9 +152,9 @@ http://calconnect.org/calconnect23.shtml#bof2[Auto-discovery and account provisi
 [[conference-schedule]]
 == Conference Schedule
 
-The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- *Please Note: +
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+*Please Note: +
  Monday 0800-1200 we will be in theLaunchConference Room, Building 2, First Floor +
  Monday 1230-1800 and Tuesday-Friday inclusive we will be in theGarage 1Conference Room, Building 4, Second Floor*
 
@@ -173,9 +173,9 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
  1330-1500 TC FREEBUSY +
  1500-1530 Break +
  1530-1700 TC EVENTPUB +
- 1700-1800 Host Session +
- +
- 1815-2030 Welcome Reception^4^ +
+ 1700-1800 Host Session
+
+1815-2030 Welcome Reception^4^ +
 _Piano Bar, First Floor, Infinite Loop 4_
 .<a| *Thursday 2 February* +
  0800-0830 Breakfast +
@@ -187,9 +187,9 @@ _Piano Bar, First Floor, Infinite Loop 4_
  1330-1500 TC ISCHEDULE +
  1500-1600 BOF: Report on IOP Test Event BOF Sessions +
  1600-1630 Break +
- 1630-1800 Steering Committee^5^ +
- +
- 1900-2200 Group Dinner^6^ +
+ 1630-1800 Steering Committee^5^
+
+1900-2200 Group Dinner^6^ +
  _http://www.californiacafe.com/losgatos/index.php[California Cafe] +
 50 University Avenue +
  Old Town Los Gatos, CA_ 
@@ -211,9 +211,9 @@ _Piano Bar, First Floor, Infinite Loop 4_
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
-^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00 +
- +
- +
+^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
+
++
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -241,8 +241,8 @@ To be established by mid-January
  3.4 Collected CalDAV Extensions +
  4. Moving Forward +
  4.1 Plan of Action +
- 4.2 Next Conference Call +
- +
+ 4.2 Next Conference Call
+
 *TC EVENTPUB* Wed 1530-1700 +
  1. Charter +
  2. Work and accomplishments +
@@ -250,8 +250,8 @@ To be established by mid-January
  4. Rich text properties +
  5. Multi-language support +
  6. Going Forward - new Chair needed +
- 7. Next meeting +
- +
+ 7. Next meeting
+
 *TC FREEBUSY* Wed 1330-1500 +
  1. Introduction +
  1.1 Charter +
@@ -259,11 +259,11 @@ To be established by mid-January
  2. VPOLL current state +
  3. Moving Forward +
  3.1 Plan of action +
- 3.2 Next conference calls +
- +
+ 3.2 Next conference calls
+
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings +
- +
+ Review of IOP test participant findings
+
 *TC iSCHEDULE* Thu 1330-1500 +
  1. Introduction +
  1.1 Charter +
@@ -277,15 +277,15 @@ To be established by mid-January
 *TC MOBILE* Fri 0830-0930 +
  1. Discussion of mobile issues with calendaring +
  2. Consistency of recurrence handling +
- 3. Future direction for TC MOBILE +
- +
+ 3. Future direction for TC MOBILE
+
 *TC RESOURCE* Thu 0930-1030 +
  1. Introduction +
  1.1 TC Charter +
  1.2 Work so far +
  2. vCard4-LDAP Mapping +
- 3. TC Future +
- +
+ 3. TC Future
+
 *TC TIMEZONE* Fri 1100-1200 +
  1. Introduction +
  1.1 Charter +
@@ -296,12 +296,12 @@ To be established by mid-January
  5. Current implementations - and call for more +
  6. Moving Forward +
  6.1 Plan of action +
- 6.2 Next conference calls +
- +
+ 6.2 Next conference calls
+
 *TC USECASE* Fri 0930-1030 +
  1. Discuss final usecases for changing meeting ownership +
- 2. Discuss final usecases for specialized freebusy +
- +
+ 2. Discuss final usecases for specialized freebusy
+
 *TC XML* Thu 0830-0930 +
  1. Introduction +
  1.1 Charter +
@@ -322,9 +322,9 @@ To be established by mid-January
 [[bofs]]
 ==== Scheduled BOFs
 
-[[bof1]] The BOF will discuss the problems with replacement as an update mechanism and how various solutions are being developed to avoid these issues. The problem areas to be covered will include update of attachments in CalDAV and attendee participation status changes. +
- +
-[[bof2]] This BOF will discuss various ways to improve the current process for auto-discovery of server and automatic account provisioning. We will discuss the current standards approach of SRV records + .well-known resource, and look at an alternative pure HTTP solution using the webfinger proposal. +
- +
- +
+[[bof1]] The BOF will discuss the problems with replacement as an update mechanism and how various solutions are being developed to avoid these issues. The problem areas to be covered will include update of attachments in CalDAV and attendee participation status changes.
+
+[[bof2]] This BOF will discuss various ways to improve the current process for auto-discovery of server and automatic account provisioning. We will discuss the current standards approach of SRV records + .well-known resource, and look at an alternative pure HTTP solution using the webfinger proposal.
+
++
  Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.

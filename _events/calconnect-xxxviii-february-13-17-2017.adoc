@@ -62,7 +62,7 @@ Dress at all CalConnect events is casual to business casual.
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
 == Location
@@ -93,8 +93,8 @@ We are offered a *special UC Irvine* rate of $119 for Friday and Saturday nights
 
 *Please note*: if you book via http://www.hotelirvine.com/uci/ , be sure to select the "BOOK YOUR STAY" option to be offered the UCI rate. Alternatively you can use the booking code CR20258.
 
-*Airport Shuttle Service:* The shuttle leaves Hotel Irvine every 30 minutes beginning at 5:00am until 11:00pm. Pick up and John Wayne Airport (SNA) is every 15 and 45 of the hour. Last pick up is at 11:15pm. The airport will open at 5:30am and the last plane will land at 11:00pm. Shuttle pick up and drop off is located at the ground transportation center near baggage claim between Terminal A & B. No reservation is required or needed for this shuttle service. +
- +
+*Airport Shuttle Service:* The shuttle leaves Hotel Irvine every 30 minutes beginning at 5:00am until 11:00pm. Pick up and John Wayne Airport (SNA) is every 15 and 45 of the hour. Last pick up is at 11:15pm. The airport will open at 5:30am and the last plane will land at 11:00pm. Shuttle pick up and drop off is located at the ground transportation center near baggage claim between Terminal A & B. No reservation is required or needed for this shuttle service.
+
 *Hotel Irvine Commuter Shuttle Service:* This service is included in the UCI rate and runs from 6:30am-10:30am and 3:00pm-7:00pm from Monday-Friday. This service does require a 48 hour reservation to guarantee the transfer. The HI commuter can be arranged by emailing them directly at mailto:hicommuter@hotelirvine.com[hicommuter@hotelirvine.com].
 
 _We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._
@@ -113,7 +113,7 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 |===
 3+|
 
-==== CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS' FORUM - Room Aliso B (A309), 3rd Floor
+CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS' FORUM - Room Aliso B (A309), 3rd Floor
 
 a| *Monday 13 February* +
  0800-0830 Coffee & Rolls +
@@ -124,9 +124,9 @@ a| *Monday 13 February* +
  1330-1430 BOF or Testing +
  1430-1530 Testing +
  1530-1600 Break and Refreshments +
- 1600-1800 Testing +
- +
- 1915-2100 Test Event Dinner (TBA)
+ 1600-1800 Testing
+
+1915-2100 Test Event Dinner (TBA)
 a| *Tuesday 14 February* +
  0800-0830 Coffee & Rolls +
  0830-1030 Testing +

@@ -23,19 +23,19 @@ Recent Changes:
 *Information is current through May 11, 2009* +
 _Topical Agendas for Technical Committees Published_
 
-CalConnect XV, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Redwood Shores (San Francisco Bay Area), California, on Monday-Friday, June 1-5, 2009, hosted by http://www.oracle.com[Oracle]. +
- +
- The IOP Testing will take place all day Monday and Tuesday June 1-2, and Wednesday morning, ending at noon on Wednesday June 3rd. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
+CalConnect XV, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Redwood Shores (San Francisco Bay Area), California, on Monday-Friday, June 1-5, 2009, hosted by http://www.oracle.com[Oracle].
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop0906.shtml[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been confirmed but will probably take place in Europe in November 2009._ +
- +
-*Roundtable XV:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.  
+The IOP Testing will take place all day Monday and Tuesday June 1-2, and Wednesday morning, ending at noon on Wednesday June 3rd. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
+
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0906.shtml[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been confirmed but will probably take place in Europe in November 2009._
+
+*Roundtable XV:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.  
 
 International Visitors
 
@@ -44,7 +44,7 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. 
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. 
 
 [[location]]
 == Location
@@ -55,10 +55,10 @@ The Interoperability Test Event and the Roundtable will take place in Room 202 o
 [[transportation]]
 == Transportation
 
-*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)]. +
- +
- Redwood Shores is only about 10 miles south of San Francisco International Airport, and perhaps 30 miles north of San Jose International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK. +
- +
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)].
+
+Redwood Shores is only about 10 miles south of San Francisco International Airport, and perhaps 30 miles north of San Jose International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK.
+
 *Ground Transportation:*Information on rental cars and shuttles are available on all three airport websites. The hotels listed below are all within walking distance of the Conference Center (the Fairfield Inn is furthest), so it is possible to avoid having a rental car if you wish to use an shuttle or public transportation to and from the airport.
 
 [[lodging]]
@@ -73,16 +73,16 @@ There are several hotels very close to the Oracle Conference Center. The hotels 
  Phone: +1 650 598 9000 +
 http://www.sofitel.com/gb/hotel-0922-sofitel-san-francisco-bay/index.shtml +
  Fee for Internet, Free Parking, Smoke Free +
- Ask for Oracle Rate - $178 if available. +
- +
+ Ask for Oracle Rate - $178 if available.
+
 *Towneplace Suites Redwood Shores* +
  1000 Twin Dolphin Drive +
  Redwood City, CA 94065 +
  Tel: +1 650 593 4100 +
 http://www.marriott.com/hotels/travel/sforw-towneplace-suites-redwood-city-redwood-shores/ +
  Free Internet, Free Parking, Smoke Free +
- Special rate $139 before May 18 - ask for "Oracle Conference Group" or go to http://www.marriott.com/hotels/travel/SFORW?groupCode=OCGOCGA&app=resvlink&fromDate=5/31/09&toDate=6/5/09[Reservation for Oracle conference]. +
- +
+ Special rate $139 before May 18 - ask for "Oracle Conference Group" or go to http://www.marriott.com/hotels/travel/SFORW?groupCode=OCGOCGA&app=resvlink&fromDate=5/31/09&toDate=6/5/09[Reservation for Oracle conference].
+
 *Extended Stay America* +
  120 SEM Lane +
  Belmont, CA 94002 +
@@ -96,8 +96,8 @@ http://www.extendedstayamerica.com/minisite/?hotelID=565 +
  Phone: +1 650 591 8600 +
 http://belmont.summerfieldsuites.hyatt.com/hyatt/hotels/summerfield/index.jsp +
  Free Internet, Free Parking, Smoke Free, Free Shuttle +
- Ask for Oracle Rate - $144 one bedroom suite, $194 two bedroom suite +
- +
+ Ask for Oracle Rate - $144 one bedroom suite, $194 two bedroom suite
+
 *Fairfield Inn & Suites San Francisco San Carlos* +
  599 Skyway Road +
  San Carlos, CA 94070 +
@@ -111,9 +111,9 @@ http://www.marriott.com/hotels/travel/sfofs-fairfield-inn-and-suites-san-francis
 [[test-schedule]]
 == Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees +
- +
- A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees
+
+A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
 |===
@@ -127,9 +127,9 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
  1230-1330 Lunch +
  1330-1530 Testing +
  1530-1600 BOFs/Break +
- 1600-1800 Testing +
- +
- 1930-2100 IOP Test Dinner +
+ 1600-1800 Testing
+
+1930-2100 IOP Test Dinner +
 http://www.bjsrestaurants.com/locationdetail.aspx?lcID=38[__BJ's Brewhouse Restaurant__], San Mateo
 .<a| *Tuesday 2 June* +
  0800-0830 Breakfast +
@@ -146,9 +146,9 @@ http://www.bjsrestaurants.com/locationdetail.aspx?lcID=38[__BJ's Brewhouse Resta
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^ 
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^ 
 
 3+| 
 
@@ -159,9 +159,9 @@ http://www.bjsrestaurants.com/locationdetail.aspx?lcID=38[__BJ's Brewhouse Resta
 [[conference-schedule]]
 == Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees +
- +
- A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. This schedule will be updated as we assign specific sessions to Technical Committees
+
+A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
 |===
@@ -174,9 +174,9 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
  1330-1430 TC RESOURCE +
  1430-1530 TC MOBILE +
  1530-1600 Break +
- 1600-1800 Shared Calendar Workshop +
- +
- 1800-1930 Welcome Reception^3^ +
+ 1600-1800 Shared Calendar Workshop
+
+1800-1930 Welcome Reception^3^ +
 __On site__, Hosted by Oracle
 .<a| *Thursday 4 June* +
  0800-0830 Breakfast +
@@ -187,9 +187,9 @@ __On site__, Hosted by Oracle
  1330-1500 TC iSCHEDULE +
  1500-1600 TC FREEBUSY +
  1600-1630 Break +
- 1630-1800 Steering Committee +
- +
- 1930-2130 Group Dinner^3^ +
+ 1630-1800 Steering Committee
+
+1930-2130 Group Dinner^3^ +
 http://mistraldining.com/[__Mistral Restaurant__], Redwood Shores
 .<a| *Friday 5 June* +
  0800-0830 Breakfast +
@@ -206,9 +206,9 @@ http://mistraldining.com/[__Mistral Restaurant__], Redwood Shores
 3+.<a| ^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^2^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^3^All Roundtable and/or IOP Test Event participants are invited to the Wednesday evening reception +
-^4^All Roundtable participants are invited to the group dinner on Thursday +
- +
- +
+^4^All Roundtable participants are invited to the group dinner on Thursday
+
++
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -225,8 +225,8 @@ http://mistraldining.com/[__Mistral Restaurant__], Redwood Shores
  2. Presentation of different shared calendar models in use today +
  3. Discussion of end-user requirements +
  4. Federated security and how it applies to sharing +
- 5. Brainstorm standards based solutions +
- +
+ 5. Brainstorm standards based solutions
+
 *TC CALDAV* Thu 0830-1030 +
  1. Progress and Status Update +
  1.1 IETF +
@@ -236,18 +236,18 @@ http://mistraldining.com/[__Mistral Restaurant__], Redwood Shores
  2.1 Calendaring and CalDAV Extensions +
  3. Moving Forward +
  3.1 Plan of Action +
- 3.2 Next Conference Calls +
- +
+ 3.2 Next Conference Calls
+
 *TC EVENTPUB* Fri 0830-0930 +
  1. Status of Resource spec +
- 2. Future of Technical Committee +
- +
+ 2. Future of Technical Committee
+
 *TC FREEBUSY* Thu 1500-1600 +
  1. Status of TC +
  2. Interop testing of Read Freebusy URL +
  3. Brainstorming invitation/voting systems +
- 4. Next steps for TC +
- +
+ 4. Next steps for TC
+
 *TC IOPTEST* Wed 1315-1330 +
  Review of IOP test participant findings +
  
@@ -256,31 +256,31 @@ http://mistraldining.com/[__Mistral Restaurant__], Redwood Shores
  1.1 iSchedule Deployment +
  2. Moving Forward +
  2.1 Plan of Action +
- 2.2 Next Conference Calls +
- +
+ 2.2 Next Conference Calls
+
 *TC MOBILE* Wed 1430-1530 +
  1. Introduction +
  2. Mobile IOP Test Event Planning +
  3. Mobile Calendaring Vision discussion and brainstorming +
- 4. Future of TC MOBILE +
- +
+ 4. Future of TC MOBILE
+
 *TC RESOURCE* Wed 1330-1430 +
  1. Why TC Resource? +
  2. XML schema for Resource Data representation +
- 3. Next steps +
- +
+ 3. Next steps
+
 *TC TIMEZONE* Thu 1100-1230 +
  1. Presentation on current state of draft RFC +
  2. Next steps +
  2.1 Completion of draft +
  2.2 Possible implementations and testing +
- 2.3 Securing data for the future +
- +
+ 2.3 Securing data for the future
+
 *TC USECASE* Fri 1100-1200 +
  1. Completion of the Resource documents +
  2. New usecases work: +
-  community calendar user set of usecases +
- +
+  community calendar user set of usecases
+
 *TC XML* Fri Feb 6 0930-1030 +
  1. Review final submission to IETF +
  2. Summarize and discuss IETF feedback, if any +

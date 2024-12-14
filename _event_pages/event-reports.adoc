@@ -432,4 +432,4 @@ Prior to the formation of CalConnect, the CALSCH Working Group of the IETF
 sponsored three interoperability testing events between April 2000 and September
 2002.
 
-Please see link:interop/interop[CALSCH IOP Tests] for information about those events.
+Please see link:{{'/interop' | relative_url}}[CALSCH IOP Tests] for information about those events.

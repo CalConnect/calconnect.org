@@ -82,7 +82,7 @@ For those arriving from more distant locations, you would probably fly into eith
 
 *From London Gatwick:* You can take the First Capitol Connect train directly to Bedford from London Gatwick (South Terminal) via St. Pancras International station. _Note: This is NOT the Gatwick Express! NOTE: If you are buying train tickets online (http://www.thetrainline.com/), please select Bedford (BDM) as the destination._ Estimated transfer time about 2 hours 15 minutes.
 
-*From London Heathrow:* The best option is to book a long distance taxi hire such as http://www.abbeycarsbedford.com/ to transfer you. It take sabout 1-1/4 hours and costs about $90. There is no direct train service from Heathrow. If you wish public transportation take the Heathrow Express to Paddington Station, transfer to St. Pancras Station, and take the train north to Bedford. The Heathrow Express is $35 single/$55 return; the trains run every 15 minutes and the trip takes about 15 minutes. Book tickets online https://www.heathrowexpress.com[]. You can transfer to St. Pancras Station via the Underground (Circle line) or by Taxi. Alternatively you can take the Underground from Heathrow to St. Pancras station; it will cost less than the Heathrow Express, but take considerably longer. 
+*From London Heathrow:* The best option is to book a long distance taxi hire such as http://www.abbeycarsbedford.com/ to transfer you. It take sabout 1-1/4 hours and costs about $90. There is no direct train service from Heathrow. If you wish public transportation take the Heathrow Express to Paddington Station, transfer to St. Pancras Station, and take the train north to Bedford. The Heathrow Express is $35 single/$55 return; the trains run every 15 minutes and the trip takes about 15 minutes. Book tickets online https://www.heathrowexpress.com[]. You can transfer to St. Pancras Station via the Underground (Circle line) or by Taxi. Alternatively you can take the Underground from Heathrow to St. Pancras station; it will cost less than the Heathrow Express, but take considerably longer.
 
 *From London St. Pancras Station to Bedford:* Trains from St. Pancras run very regularly and journey times are 40 minutes to an hour. A one way ticket is about $35. The fast service is operated by East Midlands (upper concourse), the slower service is operated by First Capital Connect (lower concourse).
 
@@ -104,11 +104,11 @@ The booking is for the *Youcanbook.me* CalConnect Event +
  Address +
  Date of Arrival and number of nights +
  Telephone number +
- E-Mail address +
- +
- In order to secure your booking you must supply a credit card number and expiry date. Alternatively you may telephone Nick directly with credit card information at +44 (0)1234 799933. +
- +
- Your card will not be charged; it is just to guarantee your booking. Cancellation is free up to 2 p.m. date of arrival.
+ E-Mail address
+
+In order to secure your booking you must supply a credit card number and expiry date. Alternatively you may telephone Nick directly with credit card information at +44 (0)1234 799933.
+
+Your card will not be charged; it is just to guarantee your booking. Cancellation is free up to 2 p.m. date of arrival.
 
 (Note: Nick will confirm your booking by return e-mail. You may also receive a confirmation e-mail from the hotel booking system, which you should ignore as it will have the wrong amounts.)
 

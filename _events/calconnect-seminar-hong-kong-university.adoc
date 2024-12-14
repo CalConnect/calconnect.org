@@ -37,16 +37,16 @@ CalConnect members, calendaring & scheduling entrepreneurs and software develope
 
 Following the formal program, there will be an opportunity to speak with the CalConnect presenters.
 
-Although CalConnect is not a formal standards body, over the last five years, most of the Calendaring standards development and discussion have taken place in CalConnect. Our http://www.calconnect.org/membership[membership] includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities.
+Although CalConnect is not a formal standards body, over the last five years, most of the Calendaring standards development and discussion have taken place in CalConnect. Our link:{{'/membership' | relative_url}}[membership] includes some of the world's largest software development organizations, as well as emergent vendors and startups, end user organizations, interested individuals, and research universities.
 
-CalConnect is very excited to be coming to Hong Kong for our http://www.calconnect.org/events/calconnect-public-day-hong-kong-it-festhttps://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[36th Conference], and we are equally excited to be able to share and discuss our work with the students and faculty at Hong Kong University.
+CalConnect is very excited to be coming to Hong Kong for our link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url}}[CalConnect Public Day at the Hong Kong IT Fest] and the link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[36th Conference], and we are equally excited to be able to share and discuss our work with the students and faculty at Hong Kong University.
 
 To learn more about CalConnect, our events in Hong Kong, and the CalConnect members who are attending these events, see:
 
-https://www.calconnect.org/ +
-https://www.calconnect.org/email-announce/20160420-calconnect-hkitfest.html +
-https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest +
-https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-festhttps://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016[https://www.calconnect.org/events/calconnect-xxxvi-april-18-22-2016]
+link:{{'/' | relative_url}} +
+link:{{'/email-announce/20160420-calconnect-hkitfest.html' | relative_url}} +
+link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url}}[CalConnect Public Day at the Hong Kong IT Fest] +
+link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[CalConnect XXXVI 36th Conference]
 
 We look forward to speaking with you on April 19th.
 
@@ -81,23 +81,24 @@ image::/sites/default/files/media/sponsor-logos3.png[]
 
 * https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
  Hon. Charles Mok, JP, Legislative Councillor (IT)]
-* http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
+* http://www.hkstp.org/[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
 * https://cloudsecurityalliance.org/[Cloud Security Alliance (CSA)]
 * http://www.lscm.hk/[Hong Kong R&D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM)]
 * http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
-* http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
+* http://www.hkcs.org.hk/[Hong Kong Computer Society (HKCS)]
 * http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
 
 ==== Special thanks to
 
 * https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
-* http://www.cad.gov.hk/english/home.html[Civil Aviation Department]
-* http://www.mtr.com.hk/en/customer/tourist/index.php[Mass Transit Railways (MTR)]
-* http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
+* http://www.cad.gov.hk/[Civil Aviation Department]
+* http://www.mtr.com.hk/[Mass Transit Railways (MTR)]
+* http://www.hongkongairport.com/[Hong Kong International Airport]
 
-Conference Details
+
+=== Conference Details
 
 CalConnect conference planners share a "reading list" for conference attendees to help them prepare for, and participate in conference discussions. It is not a requirement that attendees familiarize themselves with all these material,s, but we believe it will make the experience more enjoyable and valuable, especially for first time attendees.
 

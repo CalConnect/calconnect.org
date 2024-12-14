@@ -296,7 +296,7 @@ mailto:peter.brosi@softwareag.com[peter.brosi@softwareag.com]
 
 ==== Cronofy (Observer organization)
 
-Cronofy provides a unified calendar API to allow application developers to integrate their apps and services with Google, Apple, Exchange and many other calendar services. With Cronofy, developers dont have to worry which calendar service their customers have chosen. They can just focus on leveraging the rich, two-way calendar interaction provided to augment their service and embed their offering deep within their customers lives.
+Cronofy provides a unified calendar API to allow application developers to integrate their apps and services with Google, Apple, Exchange and many other calendar services. With Cronofy, developers don't have to worry which calendar service their customers have chosen. They can just focus on leveraging the rich, two-way calendar interaction provided to augment their service and embed their offering deep within their customers lives.
 
 http://www.cronofy.com
 
@@ -352,21 +352,21 @@ image::/assets/images/sponsor-logos3.png[""]
 
 * https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
  Hon. Charles Mok, JP, Legislative Councillor (IT)]
-* http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
+* http://www.hkstp.org/[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
 * https://cloudsecurityalliance.org/[Cloud Security Alliance (CSA)]
 * http://www.lscm.hk/[Hong Kong R&D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM)]
 * http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
-* http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
+* http://www.hkcs.org.hk/[Hong Kong Computer Society (HKCS)]
 * http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
 
 ==== Special thanks to
 
 * https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
-* http://www.cad.gov.hk/english/home.html[Civil Aviation Department]
-* http://www.mtr.com.hk/en/customer/tourist/index.php[Mass Transit Railways (MTR)]
-* http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
+* http://www.cad.gov.hk/[Civil Aviation Department]
+* http://www.mtr.com.hk/[Mass Transit Railways (MTR)]
+* http://www.hongkongairport.com/[Hong Kong International Airport]
 
 [[conference-schedule]]
 == Conference Schedule

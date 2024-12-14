@@ -23,68 +23,68 @@ Recent Changes:
 *Information is current to May 16, 2011* +
 _Thursday schedule adjusted to put CalDAV and iSchedule in the morning_
 
-CalConnect XXI, consisting of a CalConnect Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held at NASA Ames Research Center, Mountain View, California, **Monday-Friday, May 23-27, 2011**, hosted by http://www.nasa.gov/centers/ames/home/index.html[NASA Ames]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday May 23-24, and Wednesday morning May 25, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 25thh, and last through early afternoon Friday the 27th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 25th if we have first-time attendees. +
- +
- A special *Workshop on Tasks* will be held Wednesday afternoon during the Roundtable, and an optional tour of two major simulation facilities at the NASA Ames Research Center will be offered by NASA Friday afternoon the 27th after the close of the Roundtable.
+CalConnect XXI, consisting of a CalConnect Interoperability Test Event, and a CalConnect Roundtable (Members Meeting), will be held at NASA Ames Research Center, Mountain View, California, **Monday-Friday, May 23-27, 2011**, hosted by http://www.nasa.gov/centers/ames/home/index.html[NASA Ames].
 
-*CalConnect Interoperability Test Event*: +
- +
- The Interoperability Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1105.shtml[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-*Roundtable XXI:* +
- +
- The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium. +
- +
-*Special Events:* +
- +
-*Workshop on Tasks*: The workshop will be held Wednesday afternoon from 1330-1530 as part of the Roundtable; however it is open to non-Roundtable attendees by invitation and registration. The goal of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and possibly CalDAV may be needed to support the key features that application developers require. For more information about the Workshop please see http://calconnect.wordpress.com/2011/04/27/calconnect-workshop-on-tasks-may-25-2011/[]. +
- +
+The Interoperability Test Event will take place all day Monday and Tuesday May 23-24, and Wednesday morning May 25, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 25thh, and last through early afternoon Friday the 27th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 25th if we have first-time attendees.
+
+A special *Workshop on Tasks* will be held Wednesday afternoon during the Roundtable, and an optional tour of two major simulation facilities at the NASA Ames Research Center will be offered by NASA Friday afternoon the 27th after the close of the Roundtable.
+
+*CalConnect Interoperability Test Event*:
+
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1105.shtml[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Roundtable XXI:*
+
+The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+*Special Events:*
+
+*Workshop on Tasks*: The workshop will be held Wednesday afternoon from 1330-1530 as part of the Roundtable; however it is open to non-Roundtable attendees by invitation and registration. The goal of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and possibly CalDAV may be needed to support the key features that application developers require. For more information about the Workshop please see http://calconnect.wordpress.com/2011/04/27/calconnect-workshop-on-tasks-may-25-2011/[].
+
 *NASA Ames Research Center Tour*: NASA is offering us a tour of the FutureFlight Centra and Crew-Vehicle Systems Research Facility after the close of the Roundtabler on Friday afternoon. The tour will take about an hour; we will leave from the Conference Center at 1330 and we should be back before 1500. For more information about these simulation simulation labs in the Aviation Systems Division at NASA Ames see: http://www.aviationsystemsdivision.arc.nasa.gov/facilities/index.shtml[].  
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service. +
- +
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
+
 *Special Considerations for non-U.S. Citizens at NASA Ames*: NASA Ames is a government facility and has security restrictions to enter the Ames area, which includes the Conference Center. U.S. citizens and non-citizen permanent residents ("Green Card" holders) must show a Driver's License or proof of citienship and, if a non-citizen, your green card to enter. If you are not a U.S. citizen or permanent resident as defined above, you must have applied for an official visitor invitiation and visitor pass. CalConnect has initiated this process for all member representatives who may attend and who would fall into this category. *If you are considering attending CalConnect XXI, are not a U.S. citizen or permanent resident, and have not heard from us already, you must contact us immediately to apply for a visitor pass. You will not be able to enter the NASA Ames area without a visitor pass.* If you have any questions please contact Dave Thewlis at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org] as soon as possible; it can take up to 8 weeks to receive a visitor pass and we have to arrange this through NASA's international visitors department.
 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
-*Workshop Registration*: +
- +
- If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see http://calconnect.org/workshopreg.shtml[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
+*Workshop Registration*:
+
+If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see http://calconnect.org/workshopreg.shtml[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place at the http://naccenter.arc.nasa.gov/index.php[NASA Ames Conference Center], 500 Severyns Road, NASA Ames Research Center, Moffett Field, Mountain View, California. Please see http://naccenter.arc.nasa.gov/index.php for information about the Conference Center. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=214983185398130768599.0004a01af2a11e4c9c429&z=15[NASA Ames and surrounding area] for the NASA Ames area, including the location of the meeting venue and our conference hotel. +
- +
+The Interoperability Test Event and the Roundtable will take place at the http://naccenter.arc.nasa.gov/index.php[NASA Ames Conference Center], 500 Severyns Road, NASA Ames Research Center, Moffett Field, Mountain View, California. Please see http://naccenter.arc.nasa.gov/index.php for information about the Conference Center. Please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=214983185398130768599.0004a01af2a11e4c9c429&z=15[NASA Ames and surrounding area] for the NASA Ames area, including the location of the meeting venue and our conference hotel.
+
 *Parking:* Parking is available near the Conference Center. See http://naccenter.arc.nasa.gov/maps/img/NACC_Parking.pdf[Parking at the NASA Ames Conference Center] for a map showing the conference center and parking areas.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
- +
- The nearest airport is San Jose Mineta International Airport, which is about 8 miles from NASA and the conference hotel. However, San Francisco International (about 30 miles) is likely to have more flights (especially more international flights) and possibly less expensive flights. +
- +
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+The nearest airport is San Jose Mineta International Airport, which is about 8 miles from NASA and the conference hotel. However, San Francisco International (about 30 miles) is likely to have more flights (especially more international flights) and possibly less expensive flights.
+
 *Ground Transportation:* Information on rental cars and shuttles are available on all three airport websites. It is also possible to get to the conference hotel via public transportation. It is not feasible to walk to the venue from any hotel but the NASA Lodge, but we will be trying to arrange car pooling between the conference hotel and the venue. 
 
 [[lodging]]
 == Lodging
 
-Our conference hotel will be the Sunnyvale Sheraton. The Sheraton is very close to NASA Ames (just south) and offers attractive facilities and a convenient location. The Sheraton will also host our Thursday evening dinner. We plan to arrange car pools between the Sheraton and the NASA Ames Conference Center each morning and evening. In addition, the Sheraton offers a by-request complimentary shuttle within a 5 mile radius which you may also use; however it is first-come first-served and by request. The shuttle operations between 0700 and 1900. +
- +
- The Sheraton is offering us a special discounted rate for our conference of $189 per night, which also includes internet access. To book your room at this rate, please use the following link: http://www.starwoodmeeting.com/Book/CalConnect2011[]. Note that this rate is only available until the end of April, and is subject to room availability. Alternatively, or if you have any questions, please contact Michelle Rodrigues, Sales Coordinator, at mailto:michelle.rodrigues@sunnyvalesheraton.com[michelle.rodrigues@sunnyvalesheraton.com], or call her at +1 408-542-8261. If you are contacting her to book instead of using the web link above, be sure to tell her you are attending the CalConnect Conference at NASA, and give her your name and the dates you wish the room. +
- +
+Our conference hotel will be the Sunnyvale Sheraton. The Sheraton is very close to NASA Ames (just south) and offers attractive facilities and a convenient location. The Sheraton will also host our Thursday evening dinner. We plan to arrange car pools between the Sheraton and the NASA Ames Conference Center each morning and evening. In addition, the Sheraton offers a by-request complimentary shuttle within a 5 mile radius which you may also use; however it is first-come first-served and by request. The shuttle operations between 0700 and 1900.
+
+The Sheraton is offering us a special discounted rate for our conference of $189 per night, which also includes internet access. To book your room at this rate, please use the following link: http://www.starwoodmeeting.com/Book/CalConnect2011[]. Note that this rate is only available until the end of April, and is subject to room availability. Alternatively, or if you have any questions, please contact Michelle Rodrigues, Sales Coordinator, at mailto:michelle.rodrigues@sunnyvalesheraton.com[michelle.rodrigues@sunnyvalesheraton.com], or call her at +1 408-542-8261. If you are contacting her to book instead of using the web link above, be sure to tell her you are attending the CalConnect Conference at NASA, and give her your name and the dates you wish the room.
+
 _Please be aware that this is a courtesy rate based on availability. It is only available through the end of April, and no room block has been established. Be sure to book early to take advantage of this rate._ +
  
 
@@ -95,9 +95,9 @@ _Please be aware that this is a courtesy rate based on availability. It is only 
  1100 North Mathilda Avenue +
  Sunnyvale, CA 94089 +
  (408) 745-6000 +
-http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=754 +
- +
- +
+http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=754
+
++
  A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[]. 
 
 |===
@@ -121,9 +121,9 @@ The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
  1230-1330 Lunch +
  1330-1530 Testing +
  1530-1600 Break +
- 1600-1800 Testing +
- +
- 1900-2100 IOP Test Dinner +
+ 1600-1800 Testing
+
+1900-2100 IOP Test Dinner +
  _http://www.tiedhouse.com[The Tied House] +
 954 Villa Street, Mountain View_
 .<a| *Tuesday 24 May* +
@@ -141,9 +141,9 @@ The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -166,9 +166,9 @@ the IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
  1315-1330 IOP Test Report +
  1330-1600 Workshop on Tasks +
  1600-1630 Break +
- 1630-1730 USIG Presentation: NASA +
- +
- 1730-2000 Welcome Reception^4^ +
+ 1630-1730 USIG Presentation: NASA
+
+1730-2000 Welcome Reception^4^ +
 _NASA Ames Conference Center_
 .<a| *Thursday 26 May* +
  0800-0830 Breakfast +
@@ -181,9 +181,9 @@ _NASA Ames Conference Center_
  1430-1530 TC EVENTPUB +
  1530-1600 Break +
  1600-1700 TC FREEBUSY +
- 1700-1800 Steering Committee^5^ +
- +
- 1900-2130 Group Dinner^6^ +
+ 1700-1800 Steering Committee^5^
+
+1900-2130 Group Dinner^6^ +
  _Faz Restaurant (Tea Room), +
  Sheraton Sunnyvale_
 .<a| *Friday 27 May* +
@@ -206,9 +206,9 @@ _NASA Ames Conference Center_
 ^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:00; seating for dinner at 7:45 +
-^7^The tour will leave from and return to the NASA Conference Center. +
- +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+^7^The tour will leave from and return to the NASA Conference Center.
+
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
 
@@ -227,8 +227,8 @@ _NASA Ames Conference Center_
  - where do iCalendar and CalDAV fall short? +
  5. Conclusions +
  5.1 What is needed to support a standards-based task management system +
- 5.2 What can CalConnect do to help? +
- +
+ 5.2 What can CalConnect do to help?
+
 *TC CALDAV* Thu 1300-1430 +
  1. Overview +
  1.1 Charter +
@@ -242,8 +242,8 @@ _NASA Ames Conference Center_
  3.4 Multiple Component Types Support +
  4. Moving Forward +
  4.1 Plan of Action +
- 4.2 Next Conference Calls +
- +
+ 4.2 Next Conference Calls
+
 *TC DSI* Fri 0830-0930 +
  1. Problem statement/charter recap +
  2. Icon design progress on hold +
@@ -251,8 +251,8 @@ _NASA Ames Conference Center_
  4. Demo of a few proof-of-concepts +
  5. You can help! +
  - Javascript skills needed +
- - Scripting calendars from Google, Yahoo, etc. +
- +
+ - Scripting calendars from Google, Yahoo, etc.
+
 *TC EVENTPUB* Thu 1530-1630 +
  1. Review of the TC +
  2. Updates on vpoll status +
@@ -267,11 +267,11 @@ _NASA Ames Conference Center_
  3. Office Hours applications +
  4. Vavailability +
  5. Meeting proposal protocol +
- 6. Next +
- +
+ 6. Next
+
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings +
- +
+ Review of IOP test participant findings
+
 *TC iSCHEDULE* Thu 1430-1500 +
  1. Overview +
  1.1 Charter +
@@ -280,26 +280,26 @@ _NASA Ames Conference Center_
  3.1 DomainKeys Security Tagging (DOSETA) +
  4. Moving Forward +
  4.1 Plan of Action +
- 4.2 Next Conference Calls +
- +
+ 4.2 Next Conference Calls
+
 *TC MOBILE* Thu 1630-1700 +
  1. Microsoft EAS Announcement +
  2. Discussion of mobile-specific location-based use cases +
  3. CalDAV Extensions for use cases +
- 4. Next calls +
- +
+ 4. Next calls
+
 *TC TIMEZONE* Fri 1100-1130 +
  1. Update on the timezones spec +
  2. Timezones by reference - do clients need the spec? +
  3. Timezones and DATE values +
  4. The state of Olson data and IANA +
  5. Plans for the next 4 months +
- 6. Next call +
- +
+ 6. Next call
+
 *TC USECASE* Fri 0930-1030 +
  1. Open discussion on possible UseCase work +
- to benefit other Technical Committees. +
- +
+ to benefit other Technical Committees.
+
 *TC XML* Thu 1030-1200 +
  1. Introduction +
  2. State of the iCalendar in XML (xCal) Internet Draft +

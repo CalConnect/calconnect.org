@@ -23,55 +23,55 @@ Recent Changes:
 *Information is current to May 14, 2012* +
 _TC CALDAV and TC ISCHEDULE Sessions Swapped_
 
-CalConnect XXIV, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Chattanooga, Tennessee Monday-Friday, May 21-25, 2012, hosted by http://www.egenconsulting.com[Patricia Egen Consulting]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday May 21-22, and Wednesday morning May 23, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 23rd, and last through early afternoon Friday the 25th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 23rd if we have first-time attendees.
+CalConnect XXIV, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Chattanooga, Tennessee Monday-Friday, May 21-25, 2012, hosted by http://www.egenconsulting.com[Patricia Egen Consulting].
 
-*CalConnect Interoperability Test Event*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities. +
- +
- The IOP Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1205.shtml[CalConnect Interoperability Test Event May 2012] for current information and a list of what WILL be tested at this event, plus other things that MAY be tested if there is sufficient interest. Check back often as this will be updated as more information becomes available. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-*Roundtable XXIV:* The Roundtable Technical Conference / Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+The Interoperability Test Event will take place all day Monday and Tuesday May 21-22, and Wednesday morning May 23, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 23rd, and last through early afternoon Friday the 25th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 23rd if we have first-time attendees.
+
+*CalConnect Interoperability Test Event*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
+
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1205.shtml[CalConnect Interoperability Test Event May 2012] for current information and a list of what WILL be tested at this event, plus other things that MAY be tested if there is sufficient interest. Check back often as this will be updated as more information becomes available.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Roundtable XXIV:* The Roundtable Technical Conference / Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- +
- Chattanooga is is not an international airport and you will need to clear customs at your arrival airport in the United States prior to journeying on to Chattanooga.
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+Chattanooga is is not an international airport and you will need to clear customs at your arrival airport in the United States prior to journeying on to Chattanooga.
 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Roundtable and for the Test Events. You may register at any time for the next events.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in BALLROOM C at the Chattanooga Doubletree Hotel, 407 Chestnut Street, Chattanooga, Tennessee 37402. The Doubletree will be the conference hotel. +
- +
+The Interoperability Test Event and the Roundtable will take place in BALLROOM C at the Chattanooga Doubletree Hotel, 407 Chestnut Street, Chattanooga, Tennessee 37402. The Doubletree will be the conference hotel.
+
 *Parking:* Valet and self parking are available for $12 or $8 per day respectively. However as all functions will be at or close to the hotel you should not need an automobile at all.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* Chattanooga is served by http://www.chattairport.com[Chattanooga Metropolitan Airport]. The airport is less than 10 miles from downtown and the conference hotel, and is served by several airlines. See http://www.chattairport.com/www/docs/6.274/chattanooga-airport-destinations.html[Chattanooga Airport Destinations] for current service from Chattanooga (and by inference, to Chattanooga). +
- +
- It may be more convenient for you to fly into Atlanta or Nashville than directly to Chattanooga (although Delta does fly between Atlanta and Chattanooga). There is an hourly shuttle between the Atlanta or Nashville airports and the Chattanooga Airport which takes about two hours; see htp://www.groometransportation.com[Groome Transportation]. The fare is less than $100 round trip. +
- +
-*Ground Transportation:* Information on rental cars, taxis and shuttles available at the Chattanooga airport may be found at http://www.chattairport.com/www/docs/6.28/ground-transportation-car-rental.html[Ground Transportation]. +
- +
- Our hosts have also indicated they would be willing to provide transportation from the airport with advance notice. If you wish to take advantage of this please e-mail Patricia Egen directly with your arrival date, time, and airline, so they can consolidate trips as much as possible. We will sort out return trips to the airport during CalConnect week.
+*Airport Information:* Chattanooga is served by http://www.chattairport.com[Chattanooga Metropolitan Airport]. The airport is less than 10 miles from downtown and the conference hotel, and is served by several airlines. See http://www.chattairport.com/www/docs/6.274/chattanooga-airport-destinations.html[Chattanooga Airport Destinations] for current service from Chattanooga (and by inference, to Chattanooga).
+
+It may be more convenient for you to fly into Atlanta or Nashville than directly to Chattanooga (although Delta does fly between Atlanta and Chattanooga). There is an hourly shuttle between the Atlanta or Nashville airports and the Chattanooga Airport which takes about two hours; see htp://www.groometransportation.com[Groome Transportation]. The fare is less than $100 round trip.
+
+*Ground Transportation:* Information on rental cars, taxis and shuttles available at the Chattanooga airport may be found at http://www.chattairport.com/www/docs/6.28/ground-transportation-car-rental.html[Ground Transportation].
+
+Our hosts have also indicated they would be willing to provide transportation from the airport with advance notice. If you wish to take advantage of this please e-mail Patricia Egen directly with your arrival date, time, and airline, so they can consolidate trips as much as possible. We will sort out return trips to the airport during CalConnect week.
 
 [[lodging]]
 == Lodging
 
-The Chattanooga Doubletree is our conference hotel; all meeting functions and the Wednesday Reception, will take place at the Doubltree. We strongly encourage you to stay at the Doubletree. They are offering a special rate of $129 per night (plus taxes and fees) for CalConnect participants who book **prior to May 3, 2012**, so long as the room block is not exhaused. After that the discounted rate may not be available. The hotel has free Wifi in all rooms and throughout the public areas. +
- +
- A variety of other hotels are within a few blocks of the Doubletree for those who may not be able to stay at the Doubletree.
+The Chattanooga Doubletree is our conference hotel; all meeting functions and the Wednesday Reception, will take place at the Doubltree. We strongly encourage you to stay at the Doubletree. They are offering a special rate of $129 per night (plus taxes and fees) for CalConnect participants who book **prior to May 3, 2012**, so long as the room block is not exhaused. After that the discounted rate may not be available. The hotel has free Wifi in all rooms and throughout the public areas.
+
+A variety of other hotels are within a few blocks of the Doubletree for those who may not be able to stay at the Doubletree.
 
 [cols="1,9"]
 |===
@@ -80,9 +80,9 @@ The Chattanooga Doubletree is our conference hotel; all meeting functions and th
  407 Chestnut Street +
  Chattanooga, TN 37402 +
  Tel: +1 423-756-5150. Fax: +1 423-752-6950 +
-http://doubletree1.hilton.com/en_US/dt/hotel/CHACHDT-DoubleTree-by-Hilton-Hotel-Chattanooga-Downtown-Tennessee/accommodations.do[Doubletree Hilton Chattanooga] +
- +
- To book at the CalConnect Rate: Call 423-756-5150 and ask for the CalConnect rate, or go to the following web page: http://doubletree.hilton.com/en/dt/groups/personalized/C/CHACHDT-PEC-20120520/index.jhtml?WT.mc_id=POG[Chattanooga Doubletree CalConnect Room Bookings]. _The web page will specify May 20-25 but you may book up to two days before and after those dates at the same rate_.
+http://doubletree1.hilton.com/en_US/dt/hotel/CHACHDT-DoubleTree-by-Hilton-Hotel-Chattanooga-Downtown-Tennessee/accommodations.do[Doubletree Hilton Chattanooga]
+
+To book at the CalConnect Rate: Call 423-756-5150 and ask for the CalConnect rate, or go to the following web page: http://doubletree.hilton.com/en/dt/groups/personalized/C/CHACHDT-PEC-20120520/index.jhtml?WT.mc_id=POG[Chattanooga Doubletree CalConnect Room Bookings]. _The web page will specify May 20-25 but you may book up to two days before and after those dates at the same rate_.
 
 |===
 
@@ -91,9 +91,9 @@ http://doubletree1.hilton.com/en_US/dt/hotel/CHACHDT-DoubleTree-by-Hilton-Hotel-
 [[test-schedule]]
 == Test Event Schedule
 
-The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
+The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
 
 [cols=3]
 |===
@@ -109,9 +109,9 @@ The Interoperability Test Event begins with breakfast at 0800 Monday morning and
  1400-1430 http://calconnect.org/calconnect24.shtml#bof2[CalDAV Test Suites] +
  1430-1530 Testing +
  1530-1600 Break +
- 1600-1800 Testing +
- +
- 1915-2200 IOP Test Dinner +
+ 1600-1800 Testing
+
+1915-2200 IOP Test Dinner +
  _http://www.bigrivergrille.com/index.php?pg=location&sub=loc&location_id=21[Big River Grille] +
 222 Broad Street, Chattanooga_
 .<a| *Tuesday 22 May* +
@@ -129,9 +129,9 @@ The Interoperability Test Event begins with breakfast at 0800 Monday morning and
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -140,9 +140,9 @@ The Interoperability Test Event begins with breakfast at 0800 Monday morning and
 [[conference-schedule]]
 == Conference Schedule
 
-The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
+The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
 
 [cols=3]
 |===
@@ -157,9 +157,9 @@ The Interoperability Test Event begins with breakfast at 0800 Monday morning and
  1330-1500 TC FREEBUSY +
  1500-1530 Break +
  1530-1700 TC EVENTPUB +
- 1700-1800 http://calconnect.org/calconnect24.shtml#bof3[Autodiscovery moving forward] +
- +
- 1815-2030 Welcome Reception^4^ +
+ 1700-1800 http://calconnect.org/calconnect24.shtml#bof3[Autodiscovery moving forward]
+
+1815-2030 Welcome Reception^4^ +
 _Doubletree Hotel_
 .<a| *Thursday 24 May* +
  0800-0830 Breakfast +
@@ -171,9 +171,9 @@ _Doubletree Hotel_
  1330-1500 TC CALDAV +
  1500-1600 BOF: Report on IOP Testing BOFs +
  1600-1630 Break +
- 1630-1800 Steering Committee^5^ +
- +
- 1900-2200 Group Dinner^6^ +
+ 1630-1800 Steering Committee^5^
+
+1900-2200 Group Dinner^6^ +
  _http://www.waldenclub.org[The Walden Club] +
 633 Chestnut #2100, Chattanooga_
 .<a| *Friday 25 May* +
@@ -193,9 +193,9 @@ _Doubletree Hotel_
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
-^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00 +
- +
- +
+^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
+
++
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -214,8 +214,8 @@ _Doubletree Hotel_
  3.1 webfinger +
  3.2 Andrew (McMillan)'s approach +
  3.3 anything else +
- 4. Way forward +
- +
+ 4. Way forward
+
 *TC CALDAV* Thu 1330-1500 +
  1. Introduction +
  1.1 Charter +
@@ -231,8 +231,8 @@ _Doubletree Hotel_
  3.5 Collected CalDAV Extensions +
  4. Moving Forward +
  4.1 Plan of Action +
- 4.2 Next Conference Call +
- +
+ 4.2 Next Conference Call
+
 *TC EVENTPUB* Wed 1530-1700 +
  1. Charter +
  2. Work and accomplishments +
@@ -240,8 +240,8 @@ _Doubletree Hotel_
  4. Multi-language support +
  5. New properties +
  6. Going Forward - new Chair needed +
- 7. Next meeting +
- +
+ 7. Next meeting
+
 *TC FREEBUSY* Wed 1330-1500 +
  1. Introduction +
  1.1 Charter +
@@ -250,8 +250,8 @@ _Doubletree Hotel_
  2.1. Demo of VPOLL +
  3. Moving Forward +
  3.1 Plan of action +
- 3.2 Next conference calls +
- +
+ 3.2 Next conference calls
+
 *TC IOPTEST* Wed 1315-1330 +
  Review of IOP test participant findings
 .<a| +
@@ -264,8 +264,8 @@ _Doubletree Hotel_
  2.2 Planning for Zurich IOP testing +
  3. Moving Forward +
  3.1 Plan of Action +
- 3.2 Next Conference Calls +
- +
+ 3.2 Next Conference Calls
+
 *TC RESOURCE* Thu 0930-1030 +
  1. Introduction +
  2. TC Charter +
@@ -274,8 +274,8 @@ _Doubletree Hotel_
  4.1 Enhanced attendee search accuracy +
  4.2 Properties to be exposed on CalDAV principals +
  to provide more relevant search responses +
- 5. TC Future +
- +
+ 5. TC Future
+
 *TC TIMEZONE* Fri 1100-1200 +
  1. Introduction +
  1.1 Charter +
@@ -287,8 +287,8 @@ _Doubletree Hotel_
  6. Current implementations - and call for more +
  7. Moving Forward +
  7.1 Plan of action +
- 7.2 Next conference calls +
- +
+ 7.2 Next conference calls
+
 *TC USECASE* Thu 0830-0930 +
  1. Introduction +
  1.1 Charter +
@@ -298,8 +298,8 @@ _Doubletree Hotel_
  4. Future work +
  5. Moving Forward +
  5.1 Call for participation +
- 5.2 Nest conference calls +
- +
+ 5.2 Nest conference calls
+
 *TC XML* Fri 0830-1030 +
  1. Introduction +
  1.1 Charter +
@@ -318,11 +318,11 @@ _Doubletree Hotel_
 [[bofs]]
 ==== BOFs
 
-[[bof1]] A discussion of the issues and proposed model for sharing contacts on a CardDAV server. +
- +
-[[bof2]] A discussion and demonstration of the open source http://calendarserver.org[calendarserver.org] test suite and performance tool, to elicit feedback on whether these tools can be made more useful for others. +
- +
-[[bof3]] Follow-on to previous autodiscovery BOFs to establish a way forward for CalConnect. +
- +
- +
+[[bof1]] A discussion of the issues and proposed model for sharing contacts on a CardDAV server.
+
+[[bof2]] A discussion and demonstration of the open source http://calendarserver.org[calendarserver.org] test suite and performance tool, to elicit feedback on whether these tools can be made more useful for others.
+
+[[bof3]] Follow-on to previous autodiscovery BOFs to establish a way forward for CalConnect.
+
++
  Requests for additional BOF sessions may be made at any time and will be scheduled as time permits.

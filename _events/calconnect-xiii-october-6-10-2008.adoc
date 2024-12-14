@@ -23,20 +23,20 @@ CalConnect XIII, consisting of both a CalConnect Interoperability Test Event, fo
 
 The IOP Testing will take place all day Monday and Tuesday, and Wednesday morning, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 8th, and last through early afternoon Friday the 10th. An optional Introductory Q & A about CalConnect is scheduled at 11:00 on Wednesday the 8th.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop0810.shtml[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0810.shtml[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
 _*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. Please see http://calconnect.org/miop0811.shtml[Mobile IOP Test Event November 4-6 2008] for more information about the next Mobile IOP Test Event._
 
-*Roundtable XIII:* The Roundtable Members Meeting will as usual offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. A Technical Preview of current work is also planned; see below.
+*Roundtable XIII:* The Roundtable Members Meeting will as usual offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. A Technical Preview of current work is also planned; see below.
 
 Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event.
 
 *Please note:* After September 21st the registration fee is now *$395*.
 

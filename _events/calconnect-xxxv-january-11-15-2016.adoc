@@ -26,27 +26,27 @@ Recent Changes:
 
 Change of meeting room at AOL
 
-CalConnect XXXV, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Palo Alto, California, on January 11-15, 2016, hosted byhttp://www.aol.com[AOL]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday January 11-12, and Wednesday morning January 13, ending at noon. The Conference will begin with lunch at noon on Wednesday January 13 and last through Friday January 15. +
- +
- An informal__Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 13th for first-time attendees. +
- +
-*CalConnect Interoperability Test Event*: +
- +
- The Interoperabilty Test Events are open to both members and non-members as participants or ashttp://calconnect.org/observer.shtml[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available. +
- +
-_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
- +
-*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andhttp://calconnect.org/observer.shtml[observers]are welcome. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+CalConnect XXXV, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in Palo Alto, California, on January 11-15, 2016, hosted byhttp://www.aol.com[AOL].
+
+The Interoperability Test Event will take place all day Monday and Tuesday January 11-12, and Wednesday morning January 13, ending at noon. The Conference will begin with lunch at noon on Wednesday January 13 and last through Friday January 15.
+
+An informal__Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 13th for first-time attendees.
+
+*CalConnect Interoperability Test Event*:
+
+The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url}}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available.
+
+_Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
+*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url}}[observers]are welcome.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- +
- San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 Conference Details
 
@@ -57,40 +57,40 @@ Dress at all CalConnect events is casual to business casual.
 [[registration]]
 == Registration Information
 
-Please seehttp://calconnect.org/regtypes.shtml[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+Please seelink:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options]to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Conference will take place at AOL's Palo Alto Headquarters, 395 Page Mill Road, Palo Alto, California 94306. We will be in the Auditorium on the first (ground) floor the entire week. When you arrive, please enter at the main entrance and check in with the Receptionist on the first floor, who will direct you to the Auditorium. You will not require an AOL badge; CalConnect badges will be issued in the meeting room. (Be warned that most entries to the building do require a badge, so if you leave the building you will have to re-enter through the main entrance.) +
- +
+The Interoperability Test Event and the Conference will take place at AOL's Palo Alto Headquarters, 395 Page Mill Road, Palo Alto, California 94306. We will be in the Auditorium on the first (ground) floor the entire week. When you arrive, please enter at the main entrance and check in with the Receptionist on the first floor, who will direct you to the Auditorium. You will not require an AOL badge; CalConnect badges will be issued in the meeting room. (Be warned that most entries to the building do require a badge, so if you leave the building you will have to re-enter through the main entrance.)
+
 *Please do not park in Visitor Parking as these are limited to 20 minutes. You are welcome to park anywhere else in the building parking lot.*
 
 [[transportation]]
 == Transportation
 
-*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],http://www.flyoakland.com/[Oakland International (OAK)], andhttp://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
- +
- Palo Alto is closest to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK. +
- +
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],http://www.flyoakland.com/[Oakland International (OAK)], andhttp://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+Palo Alto is closest to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK.
+
 *Ground Transportation:*Information on rental cars and shuttles is available on all three airport websites. Hotels are not likely to offer direct shuttles, so driving, taxis or commercial shuttle services are your best bet.
 
 [[lodging]]
 == Lodging
 
-The Conference Hotel is +
- +
+The Conference Hotel is
+
 http://www.dinahshotel.com[Dinah's Garden Hotel] +
  4261 El Camino Real +
  Palo Alto, California 94306 +
  +1 800 227 8820 +
  +1 650 493 2844 +
-http://www.dinahshotel.com +
- +
- The hotel offers an AOL rate of $240 for a standard "Garden" room. In order to obtain the AOL rate you must call the hotel at the number above and request the AOL rate. +
- +
- This hotel is about 1.5 miles from AOL. Several other hotels within a few miles of AOL offer AOL rates, in particular the Creekside Inn, Homewood Suites Palo Alto, Hotel Avante, Residence Inn Palo Alto/Los Altos, and Wild Palms Sunnyvale. +
- +
+http://www.dinahshotel.com
+
+The hotel offers an AOL rate of $240 for a standard "Garden" room. In order to obtain the AOL rate you must call the hotel at the number above and request the AOL rate.
+
+This hotel is about 1.5 miles from AOL. Several other hotels within a few miles of AOL offer AOL rates, in particular the Creekside Inn, Homewood Suites Palo Alto, Hotel Avante, Residence Inn Palo Alto/Los Altos, and Wild Palms Sunnyvale.
+
 _*Be warned:* the Superbowl will be Santa Clara in early February and is already affecting availability and hotel rates even three weeks in advance of the event. Hotels that normally offer AOL rates may elect not to offer them during this period as they can charge quite a bit more. We *strongly* recommend you book as early as possible even if you have to change or cancel your booking later._
 
 [[test-schedule]]
@@ -115,9 +115,9 @@ a|
  1330-1430 BOF or Testing +
  1430-1530 Testing +
  1530-1600 Break and Refreshments +
- 1600-1800 Testing +
- +
- 1915-2130 IOP Test
+ 1600-1800 Testing
+
+1915-2130 IOP Test
 
 *Dinner* +
 http://tiedhouse.com/[_Tied House_] +
@@ -141,9 +141,9 @@ a| *Wednesday 13 January* +
  1000-1030 Break and Refreshments +
  1030-1130 Testing +
  1130-1200 Wrap-up +
- 1200 End of IOP Testing +
- +
- 1200-1300 Lunch/Opening
+ 1200 End of IOP Testing
+
+1200-1300 Lunch/Opening
 
 |===
 
