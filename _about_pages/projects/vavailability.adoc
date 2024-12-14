@@ -20,4 +20,4 @@ allow the implementation of "office hours" applications, in particular
 for academic institutions, and has significant use also in the smart
 grid work being undertaken by OASIS.
 
-Details: link:{{'/tc-freebusy' | relative_url }}[TC FREEBUSY]
+Details: link:{{'/about/technical-committees/tc-freebusy' | relative_url }}[TC FREEBUSY]

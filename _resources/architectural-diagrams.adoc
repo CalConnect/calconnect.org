@@ -14,7 +14,7 @@ Diagrams linked from this page are Copyright by The Calendaring and
 Scheduling Consortium whether or not any copyright statement appears on
 the diagram itself, and are made available under a Creative Commons
 license; see
-link:{{'/about/policies/copyright-licensing' | relative_url }}[Copyright and License Information].
+link:{{'/about/policies/copyright-and-licensing' | relative_url }}[Copyright and License Information].
 
 * link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url }}[*Calendaring Service Architecture*]:
 A high-level architectural diagram of the calendaring

@@ -1,0 +1,20 @@
+---
+layout: page
+title:  Stockholm University Joins CalConnect
+type: news
+date: 2007-12-10
+categories: press-releases
+excerpt: |
+  The Calendaring and Scheduling Consortium has announced that Stockholm
+  University has joined the membership, bringing the total number of
+  participating organizations to 40.
+---
+:page-liquid:
+
+*December 10, 2007* +
+*Stockholm University Joins CalConnect*: The Calendaring and Scheduling
+Consortium (link:{{'/' | relative_url }}[www.CalConnect.org]) has announced
+that Stockholm University has joined the membership, bringing the total
+number of participating organizations to 40:
+link:{{'/docs/Stockholm%20University%20Joins%20CalConnect%20final.doc' | relative_url }}[Stockholm
+University Joins CalConnect]

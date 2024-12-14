@@ -4,7 +4,9 @@ title: April Conference Schedule and Highlighted Sessions
 date: 2021-02-18
 type: news
 categories: special-focus current-events announcements
-excerpt: The preliminary schedule for our April 2021 Virtual Conference is now available at https://www.calconnect.org/events/calconnect-virtual-conference-2021#conference-schedule.
+excerpt: |
+  The preliminary schedule for our April 2021 Virtual Conference is now
+  available.
 ---
 :page-liquid:
 
@@ -12,7 +14,7 @@ excerpt: The preliminary schedule for our April 2021 Virtual Conference is now a
 
 Posted February 18, 2021
 
-The *preliminary schedule* for our April 2021 Virtual Conference is now available at link:{{'/events/calconnect-virtual-conference-2021#conference-schedule' | relative_url }}[]
+The *preliminary schedule* for our April 2021 Virtual Conference is now available at link:{{'/events/calconnect-virtual-conference-2021#conference-schedule' | relative_url }}[link].
 
 *Highlighted sessions:*
 

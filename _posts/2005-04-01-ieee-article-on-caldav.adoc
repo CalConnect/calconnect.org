@@ -1,0 +1,17 @@
+---
+layout: page
+title:  IEEE publishes article on CalDAV and the Consortium
+type: news
+date: 2005-04-01
+categories: press-releases
+excerpt: |
+  The IEEE publishes an article on CalDAV which also talks about the
+  Consortium.
+---
+:page-liquid:
+
+*April, 2005* +
+*IEEE Article on CalDAV*: Article on CalDAV which also talks about the
+Consortium:
+http://dsonline.computer.org/portal/site/dsonline/menuitem.9ed3d9924aeb0dcd82ccc6716bbe36ec/index.jsp?&pName=dso_level1&path=dsonline/0504&file=w2sta.xml&xsl=article.xsl&[IEEE
+CalDAV Article].

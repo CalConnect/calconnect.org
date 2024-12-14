@@ -1,0 +1,16 @@
+---
+layout: page
+title:  Harvard Arts & Sciences Computing Services and New York University
+type: news
+date: 2005-11-14
+categories: press-releases
+excerpt: |
+  Harvard Arts & Sciences Computing Services and New York University have joined
+  CalConnect.
+---
+:page-liquid:
+
+*November 14, 2005* +
+*Harvard Arts & Sciences Computing Services* and *New York University*
+have joined the Consortium:
+link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relative_url }}[Harvard ASCS/NYU].

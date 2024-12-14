@@ -26,7 +26,7 @@ Intellectual Property Rights policy.
 
 == Copyright and licensing
 
-Details: link:{{'/about/policies/copyright-licensing' | relative_url }}[Copyright and Licensing Information]
+Details: link:{{'/about/policies/copyright-and-licensing' | relative_url }}[Copyright and Licensing Information]
 
 Copyright and Licensing Information for Published Material.
 

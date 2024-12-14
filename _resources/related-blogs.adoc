@@ -1,0 +1,32 @@
+---
+layout: page
+title:  Related blogs
+type: resources
+---
+:page-liquid:
+
+= Related blogs
+
+== Calendar Weblog
+
+http://weblogs.mozillazine.org/calendar/
+
+A blog focused on the development and updates of the Mozilla Calendar project.
+
+== Francesco D'Alessio
+
+https://www.youtube.com/channel/UCYyaQsm2HyneP9CsIOdihBw
+
+A YouTube channel by Francesco D'Alessio, covering productivity tips and calendar management.
+
+== Sumatra's Calendar Server Blog
+
+http://calendarservermigration.blogspot.com/
+
+A blog detailing the migration and management of calendar servers, with technical insights and updates.
+
+== The Calendar Swamp
+
+http://calendarswamp.blogspot.com/
+
+A blog discussing the challenges and solutions in calendar interoperability and synchronization.

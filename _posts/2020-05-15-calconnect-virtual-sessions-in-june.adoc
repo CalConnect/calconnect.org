@@ -44,6 +44,8 @@ _Status of ongoing work, structured name Interchange, digital addressing registr
 _Reference time scales, date/time representation, vocabulary, ISO 8601-1 and -2._ +
 *0800 Eastern, 1400 CET, 2000 Hong Kong, 2200 Melbourne*
 
-The Virtual Sessions appear on the CalConnect Master Calendar and on a dedicated Virtual Sessions calendar. You may subscribe to the master calendar at http://webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0[webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0] or the Virtual Sessions calendar at http://webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0[webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0.]
-
-
+The Virtual Sessions appear on the CalConnect Master Calendar and on a dedicated
+Virtual Sessions calendar. You may subscribe to the
+link:webcal://p48-calendars.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0[master calendar]
+or the at
+link:webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yFZJeW2Bj3qTBfmX6oQ8So7XqE-qib0_uflYqsRuFgWwjuy6XKlkOzZUVDFFicq0[Virtual Sessions calendar]

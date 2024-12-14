@@ -1,0 +1,22 @@
+---
+layout: page
+title:  Media Coverage on the Consortium and the Energy Policy Act of 2005
+type: news
+date: 2005-08-07
+categories: press-releases
+excerpt: |
+  The Executive Director of the Consortium was interviewed by the Associated
+  Press for an article that received wide distribution following the signing
+  of the Energy Policy Act of 2005 by the President.
+---
+:page-liquid:
+
+*August 7, 2005* +
+*Media Coverage on the Consortium and the Energy Policy Act of 2005*:
+Following the signing of the Energy Policy Act of 2005 by the President,
+the Associated Press interviewed Dave Thewlis, the Executive Director of
+the Consortium, for an article that received wide distribution including
+http://www.usatoday.com/tech/news/2005-08-07-daylight-saving_x.htm[USA Today]
+and many other local and national newspapers. Dave Thewlis was
+also interviewed on several radio talk shows and a podcast on
+http://www.ddj.com/documents/s=9824/ddj050809pc/[Dr. Dobb's Journal].

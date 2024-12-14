@@ -1,17 +1,25 @@
 ---
 layout: page
-title: CalConnect, OASIS Team Up on Key Smart-Grid Project
-date: 2010-09-13
+title:  CalConnect, OASIS Team Up on Key Smart-Grid Project
 type: news
-categories: announcements current-events general-information special-focus
-excerpt: CalConnect and OASIS, the Organization for the Advancement of Structured Information Systems, have been tasked jointly by the National Institute for Standards and Technology (NIST) to produce one of the standards that will make it possible to monitor, predict and manage power consumption see CalConnect, OASIS, Team Up on Key Smart-Grid Project. For a PDF version see CalConnect, OASIS, Team Up on Key Smart-Grid Project.
+date: 2010-09-13
+categories: press-releases
+excerpt: |
+  CalConnect and OASIS, the Organization for the Advancement of Structured
+  Information Systems, have been tasked jointly by the National Institute for
+  Standards and Technology (NIST) to produce one of the standards that will make
+  it possible to monitor, predict and manage power consumption.
 ---
 :page-liquid:
 
-== CalConnect, OASIS Team Up on Key Smart-Grid Project
-
-Posted September 13, 2010
-
-CalConnect and OASIS, the Organization for the Advancement of Structured Information Systems, have been tasked jointly by the National Institute for Standards and Technology (NIST) to produce one of the standards that will make it possible to monitor, predict and manage power consumption: see link:{{'/publicity/20100913-calconnect-oasis.doc' | relative_url}}[CalConnect, OASIS, Team Up on Key Smart-Grid Project]. For a PDF version see: link:{{'/publicity/20100913-calconnect-oasis.pdf' | relative_url}}[CalConnect, OASIS, Team Up on Key Smart-Grid Project].
-
-
+*September 13, 2010* +
+*CalConnect, OASIS Team Up on Key Smart-Grid Project*: CalConnect and
+OASIS, the Organization for the Advancement of Structured Information
+Systems, have been tasked jointly by the National Institute for
+Standards and Technology (NIST) to produce one of the standards that
+will make it possible to monitor, predict and manage power consumption:
+see
+link:{{'/docs/press-releases/20100913-calconnect-oasis.doc' | relative_url }}[CalConnect&#44;
+OASIS&#44; Team Up on Key Smart-Grid Project]. For a PDF version see:
+link:{{'/docs/press-releases/20100913-calconnect-oasis.pdf' | relative_url }}[CalConnect&#44;
+OASIS&#44; Team Up on Key Smart-Grid Project].

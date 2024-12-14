@@ -1,0 +1,20 @@
+---
+layout: page
+title: Roundtable III reported by media
+type: news
+date: 2005-05-24
+categories: press-releases
+excerpt: |
+  Two media alerts were issued prior to the Roundtable and CalConnect
+  Interoperability Event at Duke University on 1-3 Jone 2005.
+---
+:page-liquid:
+
+*May 24, 2005* +
+*Media Alerts for Roundtable III*: Two media alerts were issued prior to
+the Roundtable and CalConnect Interoperability Event at Duke University
+on 1-3 Jone 2005:
+link:{{'/docs/press-releases/050329mediaalertrtiop3.pdf' | relative_url }}[Roundtable
+III Registration] and
+link:{{'/docs/press-releases/050524mediaalertrtiop3.pdf' | relative_url }}[Roundtable
+III Attendance].

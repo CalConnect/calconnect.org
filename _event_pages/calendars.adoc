@@ -44,37 +44,49 @@ calendars contain only those events relevant to that committee.
 |Calendar |*subscribe* to this calendar
 
 |*CalConnect_Calendar*
-|webcal://p48-caldav.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0
+|
+link:webcal://p48-caldav.icloud.com/published/2/PhsnNIf3otjjRswv8DhQHhIXAEgPBmBzxL1YHIYfT5jmkaJEzA-snuNosN8PAgE6VXtdyZfYKxkjSHTmPfp5fTRwC-5rF5GdJ3f6DsPAcq0[click here]
 
 |*Board_of_Directors*
-|webcal://p48-caldav.icloud.com/published/2/jNv2Cs2oEWMhV2wzKVcXZYi10qsfWqo0liSMn3bNmZFbcVAirmZKwAJwh9wi-FZjHAOKlei83O5XhzZ2alVQIOrw5FdY9sS-QCuB4dTjEnI
+|
+link:webcal://p48-caldav.icloud.com/published/2/jNv2Cs2oEWMhV2wzKVcXZYi10qsfWqo0liSMn3bNmZFbcVAirmZKwAJwh9wi-FZjHAOKlei83O5XhzZ2alVQIOrw5FdY9sS-QCuB4dTjEnI[click here]
 
 |*Event_Planning*
-|webcal://p48-caldav.icloud.com/published/2/nNGX2lGFZ5oBDereT3K-O5P_aKyLimt_5SIxjG2D5l4b2PSfDbQN9CqPNvTZ1XUxvEl-sV1dFC5NN6qzL95Hk-kxSbllOqKkHUpeNd1NTUc
+|
+link:webcal://p48-caldav.icloud.com/published/2/nNGX2lGFZ5oBDereT3K-O5P_aKyLimt_5SIxjG2D5l4b2PSfDbQN9CqPNvTZ1XUxvEl-sV1dFC5NN6qzL95Hk-kxSbllOqKkHUpeNd1NTUc[click here]
 
 |*MarCom*
-|webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAAA8d83fZoFlTR54yaPPPrCJhpSNa7s1xy3pYQ_oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE
+|
+link:webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAAA8d83fZoFlTR54yaPPPrCJhpSNa7s1xy3pYQ_oKTYSTiwDf0hrXrf4y6VSVkSXd6M-Ui8ypDRdUncbUw1-HIE[click here]
 
 |*TCC*
-|webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV4icYsjNN3Uzsw9x9WG0lzQ5Muq52Nshz7YO1tZsS7DYvkEUxqMImgzP44a02GGyaY
+|
+link:webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV4icYsjNN3Uzsw9x9WG0lzQ5Muq52Nshz7YO1tZsS7DYvkEUxqMImgzP44a02GGyaY[click here]
 
 |*TC-CALENDAR*
-|webcal://p48-caldav.icloud.com/published/2/dSUpewv79UfhExQrrKuXgF_TQz9YrzGvJRLNs7ql1pBNUwui2I8EH7oaiW1fTnbNxdLn0JSmlg9XAwhEfRNXdytE7_PNVZimdWXDQsf_jj4
+|
+link:webcal://p48-caldav.icloud.com/published/2/dSUpewv79UfhExQrrKuXgF_TQz9YrzGvJRLNs7ql1pBNUwui2I8EH7oaiW1fTnbNxdLn0JSmlg9XAwhEfRNXdytE7_PNVZimdWXDQsf_jj4[click here]
 
 |*TC-CALSPAM*
-|webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAPt32jQikub55iiytC9_eGB8eNna1vYfaRiLGz50-zgA-l6dS9wMyA2E1mfd5W286r8_Qeg3umXsv4__XWaCGMk
+|
+link:webcal://p48-caldav.icloud.com/published/2/AAAAAAAAAAAAAAAAAAAAAPt32jQikub55iiytC9_eGB8eNna1vYfaRiLGz50-zgA-l6dS9wMyA2E1mfd5W286r8_Qeg3umXsv4__XWaCGMk[click here]
 
 |*TC-CLIENT*
-|webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yhG6Hkfxua7pm3N_1lmx9YoQy-KYcZTsAtzElbIe_jGoIAqzzAEaXS8q9B-qqGVw
+|
+link:webcal://p48-caldav.icloud.com/published/2/MjA5OTc4NTc4MjA5OTc4NYPAre1eU33EoiR3Bg4yHV5yhG6Hkfxua7pm3N_1lmx9YoQy-KYcZTsAtzElbIe_jGoIAqzzAEaXS8q9B-qqGVw[click here]
 
 |*TC-DEVGUIDE*
-|webcal://p48-caldav.icloud.com/published/2/DaPvIsVSxVpyNRkNmLNmOSwpBf8LqiJNxMHO-fQz58VJPf7VLygmm6yOtrcZP3rKIDKabp2hhlLPd4fNlq3gaGET8TPZdA1Marjw1HxLcN8
+|
+link:webcal://p48-caldav.icloud.com/published/2/DaPvIsVSxVpyNRkNmLNmOSwpBf8LqiJNxMHO-fQz58VJPf7VLygmm6yOtrcZP3rKIDKabp2hhlLPd4fNlq3gaGET8TPZdA1Marjw1HxLcN8[click here]
 
 |*TC-SHARING*
-|webcal://p48-caldav.icloud.com/published/2/ZCAt8RggQZqis1KHhvt6wRNgzKURmhkinMfYop3cYiCSqEezjQKU8J3ZvQ0oeEMNnMSpB99iUr1RoCMqtJE2UQFEsrGSKoKpxbyngIIJj9s
+|
+link:webcal://p48-caldav.icloud.com/published/2/ZCAt8RggQZqis1KHhvt6wRNgzKURmhkinMfYop3cYiCSqEezjQKU8J3ZvQ0oeEMNnMSpB99iUr1RoCMqtJE2UQFEsrGSKoKpxbyngIIJj9s[click here]
 
 |*TC-STREAMING*
-|webcal://p48-caldav.icloud.com/published/2/njl567QsPg-2ZtX8D79hXwIlsln3ye21rDlki3IYOAjEsU2tABEX61URHOG9u9xwjZIK09DGADOpsy6BCgPlrOjS05Q3aEgfbT40g7m02s4
+|
+link:webcal://p48-caldav.icloud.com/published/2/njl567QsPg-2ZtX8D79hXwIlsln3ye21rDlki3IYOAjEsU2tABEX61URHOG9u9xwjZIK09DGADOpsy6BCgPlrOjS05Q3aEgfbT40g7m02s4[click here]
+
 |===
 
 
@@ -89,7 +101,7 @@ schedule is defined._
 
 To subscribe to this calendar:
 
-* webcal://p48-caldav.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[click here].
+* link:webcal://p48-caldav.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[click here].
 
 
 NOTE: CalConnect's use of a shared calendar service does not represent an

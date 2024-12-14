@@ -1,0 +1,18 @@
+---
+layout: page
+title:  Top Vendors, Users Launch Calendaring and Scheduling Consortium
+type: news
+date: 2004-12-14
+categories: press-releases
+excerpt: |
+  Seven vendors, six universities, two open source foundations, and a research
+  facility form the founding membership of the Calendaring and Scheduling
+  Consortium.
+---
+:page-liquid:
+
+*December 14, 2004* +
+*Public Launch Release*: The publicity release issued by the Consortium
+to mark its public launch.
+link:{{'/docs/press-releases/041214publiclaunch.pdf' | relative_url }}[Public Launch
+Release].

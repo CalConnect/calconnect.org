@@ -1,0 +1,18 @@
+---
+layout: page
+title: eSchool News reports on CalConnect
+type: news
+date: 2005-02-02
+categories: press-releases
+excerpt: |
+  eSchool News reports on the Calendaring and Scheduling Consortium
+  and its aims through interviewing several members.
+---
+:page-liquid:
+
+*February 2, 2005* +
+*eSchool News*: A fairly in-depth article with comments from interviews
+of several Members explaining the Consortium, and the issues we are
+trying to address.
+http://www.eschoolnews.com/news/showStory.cfm?ArticleID=5489&page=1[CalConnect
+aims for better electronic calendars].

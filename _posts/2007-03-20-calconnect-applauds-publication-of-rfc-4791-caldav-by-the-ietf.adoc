@@ -1,0 +1,19 @@
+---
+layout: page
+title:  CalConnect applauds publication of CalDAV as RFC 4791 at the IETF
+type: news
+date: 2007-03-20
+categories: press-releases
+excerpt: |
+  CalDAV, a technology for calendaring extensions to WebDAV, that was heavily
+  developed by CalConnect members, has been published as RFC 4791.
+---
+:page-liquid:
+
+*March 20, 2007* +
+*CalConnect applauds publication of RFC 4791, CalDAV, by the IETF*: The
+IETF has published http://www.rfc-editor.org/rfc/rfc4791.txt,
+Calendaring Extensions to WebDAV (CalDAV). The Consortium has issued a
+press release concerning the significance of CalDAV and its relationship
+to the Consortium at
+link:{{'/docs/press-releases/070320calconnectcaldavrelease.pdf' | relative_url }}[CalConnect CalDAV Release].

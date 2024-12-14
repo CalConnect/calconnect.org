@@ -16,4 +16,4 @@ server. Beyond the basic storage aspect, the server also becomes
 responsible for ensuring that only attendees of a meeting have access to
 those attachments.
 
-Details: link:{{'/tc-caldav' | relative_url }}[TC CALDAV]
+Details: link:{{'/about/technical-committees/tc-caldav' | relative_url }}[TC CALDAV]

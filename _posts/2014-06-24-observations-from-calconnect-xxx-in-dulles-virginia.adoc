@@ -35,7 +35,7 @@ It is always very gratifying for any organization to pick up new members, but it
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
-* link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY]
+* link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY]
 +
 provided a live demo of VPOLL (consensus scheduling) interoperability across three different implementations each on its own server via iSCHEDULE (server-server scheduling).
 * The CONTACTS (Contacts Sharing) Provisional Committee will begin the transformation into a Technical Committee; the Committee provided a live demo of existing contacts sharing implementations.
@@ -75,7 +75,7 @@ Following the success of the Workshop, CalConnect plans to begin determining wha
 
 *Wrapping it all together*
 
-We are very excited, as were observers at the event, with the live demonstration by link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY] of multiple servers interconnected by http://tools.ietf.org/html/draft-desruisseaux-ischedule[iSCHEDULE] and doing live consensus scheduling via http://tools.ietf.org/html/draft-york-vpoll/[VPOLL], as it shows a tangible result of the work going on in our Technical Committees to extend the calendaring and scheduling standards to provide new and relevant capabilities, both within the mainstream of human calendaring, and in more general applications of scheduling in areas such as health care and logistics management.
+We are very excited, as were observers at the event, with the live demonstration by link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY] of multiple servers interconnected by http://tools.ietf.org/html/draft-desruisseaux-ischedule[iSCHEDULE] and doing live consensus scheduling via http://tools.ietf.org/html/draft-york-vpoll/[VPOLL], as it shows a tangible result of the work going on in our Technical Committees to extend the calendaring and scheduling standards to provide new and relevant capabilities, both within the mainstream of human calendaring, and in more general applications of scheduling in areas such as health care and logistics management.
 
 CalConnect wishes to again thank AOL for helping to make CalConnect XXX such a productive and enjoyable week, and to the organizations who presented at the Workshop or participated in the Panel Discussion. AOL did an outstanding job with event logistics, including adapting to a rapidly growing attendance in the last several days prior to the event (49 people from 29 organizations attended some part of the week, a very successful turnout for an East Coast CalConnect event), but perhaps more importantly, the genuine hospitality and cordiality by all members of the AOL staff made all the attendees feel very welcomed.
 

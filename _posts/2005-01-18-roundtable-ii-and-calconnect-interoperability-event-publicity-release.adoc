@@ -1,0 +1,20 @@
+---
+layout: page
+title:  Roundtable II and CalConnect Interoperability Event
+type: news
+date: 2005-01-18
+categories: press-releases
+excerpt: |
+  The Consortium's second Roundtable, 11-13 January 2005, hosted by the
+  University of Washington, and the companion January 11-12 2005 Interop,
+  have been concluded.
+---
+:page-liquid:
+
+*January 18, 2005* +
+*Roundtable II and CalConnect Interoperability Event Publicity Release*:
+The publicity release issued by the Consortium following its second
+Roundtable, 11-13 January 2005, hosted by the University of Washington,
+and the companion January 11-12 2005 Interop.
+link:{{'/docs/press-releases/050111roundtable2.pdf' | relative_url }}[Roundtable II
+Publicity Release].

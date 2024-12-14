@@ -44,7 +44,7 @@ both member representatives and for observers.
 == Other CalConnect Activities
 
 The technical work of CalConnect is largely done by
-link:{{'/tcs-active' | relative_url }}[Technical Committees].
+link:{{'/about/technical-committees/tcs-active' | relative_url }}[Technical Committees].
 
 Any member of CalConnect may propose a Technical Committee, and nominate
 an individual to Chair the TC if it is approved. Approval of a new
