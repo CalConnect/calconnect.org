@@ -3,7 +3,7 @@ layout: page
 name: CalConnect XIX - October 4-8 2010
 host_info: Hosted by IBM/Lotus, Littleton, Massachusetts
 date: 2010-10-04
-image: /assets/images/CalConnectEventTBD_0.jpg
+image: /assets/images/CalConnectEventTBD.jpg
 ---
 :page-liquid:
 
@@ -13,7 +13,7 @@ image: /assets/images/CalConnectEventTBD_0.jpg
 CalConnect Roundtable XIX - 6-8 October
 
 [[intro]]
-image:{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD_0,width=800,height=530]
+image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD,width=800,height=530]
 
 Monday, October 04, 2010 to Friday, October 08, 2010
 

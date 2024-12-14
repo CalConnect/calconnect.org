@@ -3,7 +3,7 @@ layout: page
 name: CalConnect XVI - October 5-9 2009
 host_info: Hosted by Apple, Inc., Cupertino, California
 date: 2009-10-05
-image: /assets/images/AppleCupertino_0.jpg
+image: /assets/images/AppleCupertino.jpg
 ---
 :page-liquid:
 
@@ -14,7 +14,7 @@ CalConnect Roundtable XVI - 7-9 October
 
 
 [[intro]]
-image:{{'/assets/images/AppleCupertino_0.jpg' | relative_url }}[Apple,
+image:{{'/assets/images/AppleCupertino.jpg' | relative_url }}[Apple,
 Inc., Cupertino, California,width=800,height=557]
 
 Monday, October 05, 2009 to Friday, October 09, 2009
@@ -71,11 +71,11 @@ Cupertino is about 30 miles south of San Francisco International Airport, and qu
 The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to http://calconnect.org/membersonly/cc16.shtml[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
 
 The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative. +
- 
+
 
 [cols="4,17,2,17"]
 |===
-| 
+|
 .<a| *The Cypress Hotel* +
  10050 South De Anza Blvd +
  Cupertino, CA 95014 +
@@ -83,7 +83,7 @@ The Cupertino Inn is also close to the Apple campus and frequently used by Apple
 http://www.thecypresshotel.com +
  Apple rate available to CalConnect members; +
  see http://calconnect.org/membersonly/cc16.shtml[Book the Apple Rate].
-| 
+|
 .<a| *The Cupertino Inn* +
  10889 North De Anza Blvd +
  Cupertino, CA 95014-6301 +
@@ -99,7 +99,7 @@ http://www.cupertinoinn.com
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
+A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics].
 
 [cols=3]
 |===
@@ -148,7 +148,7 @@ __Piano Bar Room__, Building IL4 (see campus map)
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
+A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics].
 
 [cols=3]
 |===
@@ -194,7 +194,7 @@ http://www.zitune.com[_Zitune Restaurant_] +
  1230-1400 CalConnect Plenary Session +
  1400 Close of Meeting
 
-3+| 
+3+|
 3+.<a| ^1^The "Meet the Apple Engineers" session is a Q&A sesson with iCal server, iCal client, and iPhone Calendar engineers. It is open to all Interoperability Test Event participants, and also to registered Roundtable participants who wish to arrive early for this event. The informal cocktail and chat hour following this event is open to everyone who attends the session. _*Please Note:* You must indicate that you wish to attend this session on your registration form if you are registered for the Roundtable but not the IOP Test Event._ +
 ^2^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
@@ -203,7 +203,7 @@ http://www.zitune.com[_Zitune Restaurant_] +
 ^6^The User Special Interest Group will meet separately from the IOP test event in the Doors Conference room, 1st Floor, Building De Anza 3. _This meeting is limited to representatives of user (i.e. customer) organizations._
 
 +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+ Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 

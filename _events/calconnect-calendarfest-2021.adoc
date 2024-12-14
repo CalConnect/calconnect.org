@@ -3,13 +3,13 @@ layout: page
 name: CalConnect CalendarFest 2021 📆🎉 (Autumn 2021)
 host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2021-10-18
-image: /assets/images/CalConnectEventTBD_0.jpg
+image: /assets/images/CalConnectEventTBD.jpg
 ---
 :page-liquid:
 
 = CalConnect CalendarFest 2021 📆🎉 (Autumn 2021)
 
-image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
+image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
 
 CalendarFest is a novel (virtual) event, which wants to let users and developers
 of (electronic) calendar applications, servers, and related groupware systems,
