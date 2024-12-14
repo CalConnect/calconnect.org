@@ -22,26 +22,26 @@ Recent Changes:
 
 Updated 22 January 2014 - Restaurants for Monday and Thursday Dinners
 
-CalConnect XXIX, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in San Francisco, California Monday-Friday, February 3-7, 2014, hosted by http://www.mozilla.org[Mozilla]. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday February 3-4, and Wednesday morning February 5, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday February 5, and last until mid-afternoon on Friday February 7. +
- +
- An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled on Wednesday morning the 5th for first-time attendees. More information for first-time participants may be found at http://calconnect.org/gettingstarted.shtml[Getting Started...]. +
- +
- 
+CalConnect XXIX, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in San Francisco, California Monday-Friday, February 3-7, 2014, hosted by http://www.mozilla.org[Mozilla].
+
+The Interoperability Test Event will take place all day Monday and Tuesday February 3-4, and Wednesday morning February 5, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday February 5, and last until mid-afternoon on Friday February 7.
+
+An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled on Wednesday morning the 5th for first-time attendees. More information for first-time participants may be found at http://calconnect.org/gettingstarted.shtml[Getting Started...].
+
+
 
 [cols="1,19"]
 |===
-| 
-a| *CalConnect Interoperability Test Event*: At this meeting, we expect both regular interoperability testing with local and remote servers and clients, and mobile device testing. A participating organization may register for either or both for a single registration fee, but should be aware that they may require additional individuals to participate in both activities. +
- +
- The Interoperability Test Event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1402.shtml[CalConnect Interoperability Test Event February 2014] for current information. Check back often as this will be updated as more information becomes available. +
- +
-_Please Note: You do not need finished or polished code to participate in the Interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
- +
-*Roundtable XXIX:* The Roundtable Technical Conference/Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon's final sessions will be the Technical Committee wrap-up and the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+|
+a| *CalConnect Interoperability Test Event*: At this meeting, we expect both regular interoperability testing with local and remote servers and clients, and mobile device testing. A participating organization may register for either or both for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
+
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1402.shtml[CalConnect Interoperability Test Event February 2014] for current information. Check back often as this will be updated as more information becomes available.
+
+_Please Note: You do not need finished or polished code to participate in the Interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
+*Roundtable XXIX:* The Roundtable Technical Conference/Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon's final sessions will be the Technical Committee wrap-up and the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 |===
 
@@ -54,57 +54,57 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Event. You may register at any time once registration has been announced and the registration pages are available.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Event. You may register at any time once registration has been announced and the registration pages are available.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place at Mozilla's San Francisco Facility, located at 2 Harrison Street, San Francisco, California. (For those who know San Francisco, this is the Hills Bros Coffee building), at the foot of Harrison Street at The Embarcadero http://is.gd/0rPlGH[]. It is about than a kilometer from the Embarcadero BART (Bay Area Rapid Transit, the local metro system) Station, and on the Muni "N" light rail line running from the Embarcadero Station down The Embarcadero and past Harrison Street. +
- +
-_Please note: Due to high hotel prices in downtown San Francisco we are using a hotel across the San Francisco Bay in Berkeley as our conference hotel. We will commute between the hotel and San Francisco on BART. (While there are more reasonably priced hotels in San Francisco, they are inconvenient in terms of distance and transportation alternatives.)_ +
- +
- For a map showing the locations of Mozilla, the Conference Hotel, and BART/Metro stations, see http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=214983185398130768599.0004e91f6ef73ef7c3a15[CalConnect XXIX Locations]. +
- +
+The Interoperability Test Event and the Roundtable will take place at Mozilla's San Francisco Facility, located at 2 Harrison Street, San Francisco, California. (For those who know San Francisco, this is the Hills Bros Coffee building), at the foot of Harrison Street at The Embarcadero http://is.gd/0rPlGH[]. It is about than a kilometer from the Embarcadero BART (Bay Area Rapid Transit, the local metro system) Station, and on the Muni "N" light rail line running from the Embarcadero Station down The Embarcadero and past Harrison Street.
+
+_Please note: Due to high hotel prices in downtown San Francisco we are using a hotel across the San Francisco Bay in Berkeley as our conference hotel. We will commute between the hotel and San Francisco on BART. (While there are more reasonably priced hotels in San Francisco, they are inconvenient in terms of distance and transportation alternatives.)_
+
+For a map showing the locations of Mozilla, the Conference Hotel, and BART/Metro stations, see http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=214983185398130768599.0004e91f6ef73ef7c3a15[CalConnect XXIX Locations].
+
 *Parking at Mozilla:* There are several parking options nearby at a cost of $16-25/day if you arrive in time for the early bird rates (before 9am). There is a garage directly below 2 Harrison Street which charges about $20/day. The best nearby option is in the 400 block on Spear Street, at $16/day. It's a little awkward to find the first time -- this is the view of the driveway: http://is.gd/9SIm9w[]. It's only a 3 minute walk to Mozilla.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
- +
- The nearest airport to the conference hotel is Oakland International; however San Francisco International is likely to be more convenient as there is direct BART (rapid transit) service from the airport itself to 1/2 block from the conference hotel (from Oakland, there is a short shuttle bus ride from the airport to the nearest BART station). San Jose is substantially further away and less convenient to Berkeley. +
- +
-*Ground Transportation:* We strongly recommend taking http://www.bart.gov[BART], the Bay Area Rapid Transit, from either San Francisco or Oakland airport to Berkeley. http://www.bart.gov/guide/airport/index.aspx[BART Airport Connections] provides specific information on flying into and leaving from these airports. The http://www.bart.gov/stations/index.aspx[Downtown Berkeley] BART Station is 1/2 block from the hotel. +
- +
-_If you arrive at San Francisco International, take the AirTrain to the BART station at Garage G. Take the Pittsburg/Bay Point train and change at the 19th Street Oakland station to the Richmond train to Downtown Berkeley If you arrive at Oakland International, take the Air Bart shuttle to the BART station and take a Richmond train to Downtown Berkeley._ +
- +
- If you must drive, information on rental cars and shuttles are available on all three airport websites, and the hotel offers a parking arrangement with a nearby self-parking garage.
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+The nearest airport to the conference hotel is Oakland International; however San Francisco International is likely to be more convenient as there is direct BART (rapid transit) service from the airport itself to 1/2 block from the conference hotel (from Oakland, there is a short shuttle bus ride from the airport to the nearest BART station). San Jose is substantially further away and less convenient to Berkeley.
+
+*Ground Transportation:* We strongly recommend taking http://www.bart.gov[BART], the Bay Area Rapid Transit, from either San Francisco or Oakland airport to Berkeley. http://www.bart.gov/guide/airport/index.aspx[BART Airport Connections] provides specific information on flying into and leaving from these airports. The http://www.bart.gov/stations/index.aspx[Downtown Berkeley] BART Station is 1/2 block from the hotel.
+
+_If you arrive at San Francisco International, take the AirTrain to the BART station at Garage G. Take the Pittsburg/Bay Point train and change at the 19th Street Oakland station to the Richmond train to Downtown Berkeley If you arrive at Oakland International, take the Air Bart shuttle to the BART station and take a Richmond train to Downtown Berkeley._
+
+If you must drive, information on rental cars and shuttles are available on all three airport websites, and the hotel offers a parking arrangement with a nearby self-parking garage.
 
 [[lodging]]
 == Lodging
 
-The Shattuck Plaza hotel in Berkeley is the Conference Hotel for this meeting. Those who were at the CalConnect event at the University of California, Berkeley three years ago (February 2011) will remember this hotel as it was our conference hotel for that meeting. It is within 1/2 block of a BART station, and six stops from The Embarcadero Station in San Francisco, the closest station to Mozilla. The hotel is offering CalConnect a special rate of 17% below the lowest available rate at the time of booking. Our room block ends on Friday 17 January 2014; after that date the discount may or may not be available depending on hotel occupancy. +
- +
+The Shattuck Plaza hotel in Berkeley is the Conference Hotel for this meeting. Those who were at the CalConnect event at the University of California, Berkeley three years ago (February 2011) will remember this hotel as it was our conference hotel for that meeting. It is within 1/2 block of a BART station, and six stops from The Embarcadero Station in San Francisco, the closest station to Mozilla. The hotel is offering CalConnect a special rate of 17% below the lowest available rate at the time of booking. Our room block ends on Friday 17 January 2014; after that date the discount may or may not be available depending on hotel occupancy.
+
 *Conference Hotel:* +
 *Shattuck Plaza Hotel* +
  2086 Allston Way +
  Berkeley, California 94704 +
  510-845-7300 +
-http://www.hotelshattuckplaza.com/ +
- +
- To book your room by phone, call direct at 510-845-7300 or toll free at 866-466-9199 and ask for the _CalConnect_ conference rate. To book online, please go to https://booking.ihotelier.com/istay/istay.jsp?hotelid=17233[]. Select "Promo/Corporate Code" at the top left and enter __CALCONNECT__as your passcode, and your date range. CalConnect discounted rates and the available room types will immediately be displayed for the selected dates of stay. +
- +
- The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event -- so book early and save! +
- +
+http://www.hotelshattuckplaza.com/
+
+To book your room by phone, call direct at 510-845-7300 or toll free at 866-466-9199 and ask for the _CalConnect_ conference rate. To book online, please go to https://booking.ihotelier.com/istay/istay.jsp?hotelid=17233[]. Select "Promo/Corporate Code" at the top left and enter __CALCONNECT__as your passcode, and your date range. CalConnect discounted rates and the available room types will immediately be displayed for the selected dates of stay.
+
+The room rate will be 17% off the Best Available Rate at the time you book which means it is very likely to be higher as we get closer to the event -- so book early and save!
+
 *Traveling between the conference hotel and the Mozilla Facility:* The Downtown Berkeley BART Station is 1/2 block from the hotel. Take EITHER a Richmond-->Daly City/Milbrae train (which will go to San Francisco), or a Richmond-->Fremont train and change at the 12th street station to any train going to Daly City/Milbrae. Get off at the http://www.bart.gov/stations/embr/index.aspx[Embarcadero] station (first San Francisco station). From this station the Mozilla building is about a kilometer walk,or you can take the F, J, KT, or N light rail lines directly from the Embarcadero station (different level) to the Embarcadero at Harrison Street Metro stop.
 
 [[test-schedule]]
 == Test Event Schedule
 
-The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday mid-afternoon. +
- +
+The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday mid-afternoon.
+
 _This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._ +
- 
+
 
 [cols=3]
 |===
@@ -119,9 +119,9 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
  1330-1430 CalDAV Test Suite +
  1430-1530 Interop Testing +
  1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing +
- +
- 1830-2030 Interop Dinner +
+ 1600-1800 Interop Testing
+
+1830-2030 Interop Dinner +
 http://perryssf.com/general-information/embarcadero/[_Perry's_] _(in the Hotel Griffon) +
  155 Steuart Street San Francisco_
 .<a| *Tuesday 4 February* +
@@ -140,9 +140,9 @@ http://perryssf.com/general-information/embarcadero/[_Perry's_] _(in the Hotel G
  1000-1030 Break and Refreshments +
  1030-1200 Interop Testing +
  1200-1230 Wrap-up +
- 1230 End of Interoperability Testing +
- +
- 1230-1330 Lunch^1^ 
+ 1230 End of Interoperability Testing
+
+1230-1330 Lunch^1^
 
 |===
 
@@ -157,7 +157,7 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
 |===
 3+.<| *CALCONNECT CONFERENCE XXIX*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 5 February* +
  1030-1200 BOF: iSchedule domain identifier +
  1100-1200 Introduction to CalConnect^3^ +
@@ -166,9 +166,9 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
  1515-1530 TC IOPTEST Reports +
  1530-1600 Break and Refreshments +
  1600-1700 API AD HOC +
- 1700-1800 Host Session - Mozilla +
- +
- 1800-2000 Welcome Reception^4^ +
+ 1700-1800 Host Session - Mozilla
+
+1800-2000 Welcome Reception^4^ +
 _On Site_
 .<a| *Thursday 6 February* +
  0800-0830 Breakfast +
@@ -180,9 +180,9 @@ _On Site_
  1430-1530 FSC AD HOC +
  1530-1600 Break and Refreshments +
  1600-1700 TC TIMEZONE +
- 1700-1800 TC FREEBUSY +
- +
- 1830-2100 Group Dinner^6^ +
+ 1700-1800 TC FREEBUSY
+
+1830-2100 Group Dinner^6^ +
  _http://www.palomino.com/locations.php[Palomino] +
 345 Spear Street, San Francisco_
 .<a| *Friday 7 February* +
@@ -197,18 +197,18 @@ _On Site_
  1315-1400 CalConnect Plenary +
  1400 (approx) Close of Meeting
 
-3+| 
+3+|
 3+.<a| +
 ^1^The Wednesday lunch is for all participants in the Interoperability Test Event and/or Roundtable +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or Interoperability Test Event participants are invited to the Wednesday evening reception +
-^6^All Roundtable participants are invited to the group dinner on Thursday +
- +
- +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees. 
+^6^All Roundtable participants are invited to the group dinner on Thursday
+
++
+ Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
 
 |===
- 
+
 
 [[agendas]]
 ==== Topical Agendas:
@@ -218,26 +218,26 @@ _On Site_
 .<a| *API Ad Hoc* Wed 1600-1700 +
  1. Proposed Charter and milestones +
  2. Outline of abstract API +
- 3. Discussion +
- +
+ 3. Discussion
+
 *CALSCALE Ad Hoc* Fri 1030-1100 +
  1. Status of draft +
  2. Demo +
- 3. Next steps +
- +
+ 3. Next steps
+
 *FSC Ad Hoc* Thu 1430-1530 +
  1. Background +
  2. The Apple sharing spec +
  3. Overview +
  4. Open discussion +
- 5. Next steps +
- +
+ 5. Next steps
+
 *Opening Session* Wed 1330-1515 +
  1. Opening and Logistics +
  2. Introductions +
  3. New Member Presentations +
- 4. Steering Committee and SC Ad Hoc +
- +
+ 4. Steering Committee and SC Ad Hoc
+
 *TC CALDAV* Thu 1030-1230 +
  1. Introduction +
  1.1 Charter +
@@ -252,16 +252,16 @@ _On Site_
  3.4 Scheduling Object Drafts +
  4. Review and Update Charter and Milestones +
  5. Moving Forward +
- 5.1 Plan of Action +
- +
+ 5.1 Plan of Action
+
 *TC EVENTPUB* Fri 1100-1130 +
  1.Work and accomplishments +
  2. Review of iCalendar extensions draft RFC +
  3. Charter and milestones +
  4. Going Forward +
  4.1 Next steps +
- 4.2 Next call +
- +
+ 4.2 Next call
+
 *TC FREEBUSY* Thu 1700-1800 +
  1. Work and accomplishments +
  2. VAVAILABILITY RFC +
@@ -272,8 +272,8 @@ _On Site_
  6. Moving Forward +
  6.1 Plan of Action +
  6.2 New Work +
- 6.3 Next Conference Call +
- +
+ 6.3 Next Conference Call
+
 *TC IOPTEST* Wed 1515-1530 +
  Review of IOP test findings
 .<a| +
@@ -286,8 +286,8 @@ _On Site_
  4. Review and Update Charter and Milestones +
  5. Moving Forward +
  5.1 Plan of Action +
- 5.2 Next Conference Calls +
- +
+ 5.2 Next Conference Calls
+
 *TC PUSH* Thu 0830-1000 +
  1. Review of new TC Charter +
  2. Problem description +
@@ -295,8 +295,8 @@ _On Site_
  2.2 7 Things +
  3. Discussion of requirements +
  4. Next Steps and call for participation +
- 5. Next call +
- +
+ 5. Next call
+
 *TC RESOURCE* Fri 1130-1230 +
  1. Charter +
  2. Review +
@@ -304,8 +304,8 @@ _On Site_
  4. How to expose properties in CalDAV (principal) +
  5. How to expose properties in iCalendar +
  6. Call for participation +
- 7. Next call +
- +
+ 7. Next call
+
 *TC TASKS* Fri 0830-1000 +
  1. Introduction +
  1.1 Recap Charter +
@@ -320,9 +320,9 @@ _On Site_
  3. Next steps +
  3.1 Domain specific data ref WS-Calendar +
  3.2 Protocol impacts +
- 4. Review and Update Charter and Milestones +
- +
- +
+ 4. Review and Update Charter and Milestones
+
++
 **TC TIMEZONE**Thu 1600-1700 +
  1. Introduction +
  1.1 Background to the work +
@@ -338,22 +338,22 @@ _On Site_
 |===
 
  +
- 
+
 
 [[bofs]]
 ==== BOFs
 
-*Peer Review* Tue 1330-1430 +
- +
- This is an opportunity during the interoperability testing to discuss how your product uses the standards and discuss ways in which you could make more use of the standards or extend functionality and capabilities. +
- +
-*iSchedule Domain Identifier* Wed 1030-1200 +
- +
- Goal: define the roadmap of deployment of the iSchedule protocol, taking into account existing service provider features and capabilities related to scheduling (in particular issues like user identifiers, iMIP gatewaying, etc). +
- +
- 1. Statement of overall problem +
+*Peer Review* Tue 1330-1430
+
+This is an opportunity during the interoperability testing to discuss how your product uses the standards and discuss ways in which you could make more use of the standards or extend functionality and capabilities.
+
+*iSchedule Domain Identifier* Wed 1030-1200
+
+Goal: define the roadmap of deployment of the iSchedule protocol, taking into account existing service provider features and capabilities related to scheduling (in particular issues like user identifiers, iMIP gatewaying, etc).
+
+1. Statement of overall problem +
  3:30 2. Overview of proposals to date +
- 3. Decision time: what do we do? +
- +
- +
+ 3. Decision time: what do we do?
+
++
  Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found.

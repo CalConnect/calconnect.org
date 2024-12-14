@@ -24,21 +24,21 @@ Recent Changes:
 *Information is current through September 22, 2009* +
 _Meeting venue changed, Wednesday reception location changed_
 
-CalConnect XVI, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Cupertino, California, on Monday-Friday, October 5-9, 2009, hosted by http://www.apple.com[Apple, Inc.]. +
- +
- The IOP Testing will take place all day Monday and Tuesday October 5-6, and Wednesday morning, ending at noon on Wednesday October 7. The Roundtable will begin with lunch at 12:30 on Wednesday the 7th, and last through early afternoon Friday the 9th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 7th. +
- +
- More information will be posted as it becomes available, in particular a confirmed schedule of Roundtable sessions and topical agendas should be available by mid-September.
+CalConnect XVI, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Cupertino, California, on Monday-Friday, October 5-9, 2009, hosted by http://www.apple.com[Apple, Inc.].
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop0910.shtml[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been confirmed. Some possibility exists for a Mobile Calendaring IOP Test Event at CalConnect XVI in parallel with the regular test event._ +
- +
-*Roundtable XVI:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
+The IOP Testing will take place all day Monday and Tuesday October 5-6, and Wednesday morning, ending at noon on Wednesday October 7. The Roundtable will begin with lunch at 12:30 on Wednesday the 7th, and last through early afternoon Friday the 9th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 7th.
+
+More information will be posted as it becomes available, in particular a confirmed schedule of Roundtable sessions and topical agendas should be available by mid-September.
+
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0910.shtml[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been confirmed. Some possibility exists for a Mobile Calendaring IOP Test Event at CalConnect XVI in parallel with the regular test event._
+
+*Roundtable XVI:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
@@ -47,30 +47,30 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for these events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event. Note that you must register separately for these events.
 
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in the Beatles meeting room on the first floor of Building De Anza 3, 10500 N. De Anza Blvd, Cupertino, California. This building is immediately south of the Infinite Loop campus. For a view of the Cupertino campus showing the location of building De Anza 3 see http://calconnect.org/cc16-cupertino_campus.pdf[Cupertino Campus Map]. For a map of the general area showing the location of the conference hotel, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Cupertino Campus vicinity]. +
- +
- Please note that you can park in the De Anza 3 parking lot, or anywhere in any of the parking areas within Infinite Loop itself.
+The Interoperability Test Event and the Roundtable will take place in the Beatles meeting room on the first floor of Building De Anza 3, 10500 N. De Anza Blvd, Cupertino, California. This building is immediately south of the Infinite Loop campus. For a view of the Cupertino campus showing the location of building De Anza 3 see http://calconnect.org/cc16-cupertino_campus.pdf[Cupertino Campus Map]. For a map of the general area showing the location of the conference hotel, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Cupertino Campus vicinity].
+
+Please note that you can park in the De Anza 3 parking lot, or anywhere in any of the parking areas within Infinite Loop itself.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)]. +
- +
- Cupertino is about 30 miles south of San Francisco International Airport, and quite close to San Jose International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK. +
- +
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)].
+
+Cupertino is about 30 miles south of San Francisco International Airport, and quite close to San Jose International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK.
+
 *Ground Transportation:*Information on rental cars and shuttles are available on all three airport websites. The conference hotel listed below is within easy walking distance of the Apple campus are are several other hotels, so it is possible to avoid having a rental car if you wish to use a shuttle or public transportation to and from the airport.
 
 [[lodging]]
 == Lodging
 
-The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to http://calconnect.org/membersonly/cc16.shtml[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area. +
- +
- The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative. +
+The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to http://calconnect.org/membersonly/cc16.shtml[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
+
+The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative. +
  
 
 [cols="4,17,2,17"]
@@ -97,9 +97,9 @@ http://www.cupertinoinn.com
 [[test-schedule]]
 == Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
 
 [cols=3]
 |===
@@ -113,9 +113,9 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
  1230-1330 Lunch +
  1330-1530 Testing +
  1530-1600 BOFs/Break +
- 1600-1800 Testing +
- +
- 1930-2100 IOP Test Dinner +
+ 1600-1800 Testing
+
+1930-2100 IOP Test Dinner +
 http://www.theduke.com[_Duke of Edinburgh Pub_] +
  Cupertino, CA
 .<a| *Tuesday 6 October* +
@@ -135,9 +135,9 @@ __Piano Bar Room__, Building IL4 (see campus map)
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^2^
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^2^
 
 |===
 
@@ -146,9 +146,9 @@ __Piano Bar Room__, Building IL4 (see campus map)
 [[conference-schedule]]
 == Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
- +
- A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+
+A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics]. 
 
 [cols=3]
 |===
@@ -162,9 +162,9 @@ The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tue
  1330-1500 TC RESOURCE +
  1500-1530 BOF CalDAV Extensions +
  1530-1600 Break +
- 1600-1800 TC XML +
- +
- 1800-1930 Welcome Reception^4^ +
+ 1600-1800 TC XML
+
+1800-1930 Welcome Reception^4^ +
 http://hosted.where2getit.com/outback/state2.html?state=CA[Outback Steakhouse] +
  20630 Valley Green Drive, Cupertino +
  5 minute walk from Apple
@@ -177,9 +177,9 @@ http://hosted.where2getit.com/outback/state2.html?state=CA[Outback Steakhouse] +
  1330-1500 TC iSCHEDULE +
  1500-1600 TC FREEBUSY +
  1600-1630 Break +
- 1630-1800 Steering Committee +
- +
- 1930-2130 Group Dinner^5^ +
+ 1630-1800 Steering Committee
+
+1930-2130 Group Dinner^5^ +
 http://www.zitune.com[_Zitune Restaurant_] +
  325 Main Street, Los Altos
 .<a| *Friday 9 October* +
@@ -200,9 +200,9 @@ http://www.zitune.com[_Zitune Restaurant_] +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Event participants are invited to the Wednesday evening reception +
 ^5^All Roundtable participants are invited to the group dinner on Thursday +
-^6^The User Special Interest Group will meet separately from the IOP test event in the Doors Conference room, 1st Floor, Building De Anza 3. _This meeting is limited to representatives of user (i.e. customer) organizations._ +
- +
- +
+^6^The User Special Interest Group will meet separately from the IOP test event in the Doors Conference room, 1st Floor, Building De Anza 3. _This meeting is limited to representatives of user (i.e. customer) organizations._
+
++
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -225,20 +225,20 @@ http://www.zitune.com[_Zitune Restaurant_] +
  2.4 Calendar Attachments +
  3. Moving Forward +
  3.1 Plan of Action +
- 3.2 Next Conference Calls +
- +
+ 3.2 Next Conference Calls
+
 *TC EVENTPUB* Fri 0830-0900 +
  1. Status Update +
- 2. Way forward +
- +
+ 2. Way forward
+
 *TC FREEBUSY* Thu 1500-1600 +
  1. Work since Roundtable XV +
  2. Consensus Scheduleing +
- 3. TC Freebusy Futures +
- +
+ 3. TC Freebusy Futures
+
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings +
- +
+ Review of IOP test participant findings
+
 *TC iSCHEDULE* Thu 1330-1500 +
  1. Progress and status update +
  2. Open Discussions 3. Moving Forward +
@@ -251,28 +251,28 @@ http://www.zitune.com[_Zitune Restaurant_] +
  4. Mobile Calendaring Vision discussion and brainstorming +
  5. Mobile Calendaring Questionnaire V3 +
  6. Mobile device calendaring certification +
- 7. Future of TC MOBILE +
- +
+ 7. Future of TC MOBILE
+
 *TC RESOURCE* Wed 1330-1500 +
  1. Updated resource attributes table +
  2. Progress on resource schema draft +
  3. Next steps +
  3.1 Finish draft +
- 3.2 Discuss other resource related topics +
- +
+ 3.2 Discuss other resource related topics
+
 *TC TIMEZONE* Thu 1100-1230 +
  1. Olson's post to TZ list about retirement +
  2. Follow-up from IETF discussions +
  3. Progress on RFCs +
- 4. Implementations and demo +
- +
+ 4. Implementations and demo
+
 *TC USECASE* Fri 0930-1030 +
  1. Review work goals from last Roundtable +
  2. Review work progress on goals +
  3. NASA Usecases presentation +
  4. Discussion: Glossary update +
-  solicit additions/deletions/updates +
- +
+  solicit additions/deletions/updates
+
 *TC XML* Wed 1600-1800 +
  1. Current state of TC XML work and discussion. +
  2. Recap of calendaring web service discussion to date. +

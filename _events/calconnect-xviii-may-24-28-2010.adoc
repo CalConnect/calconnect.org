@@ -23,17 +23,17 @@ Recent Changes:
 *Information is current through May 12, 2010* +
 _30 Minute BOF on Interoperability added to Thursday afternoon_
 
-CalConnect XVIII, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable (Members Meeting), will be held in Pittsburgh, Pennsylvania on Monday-Friday, May 24-28 2010, hosted by http://www.cmu.edu[Carnegie Mellon University]. +
- +
- The Interoperability Test Events will take place all day Monday and Tuesday May 24-25, and Wednesday morning May 26, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 26th, and last through early afternoon Friday the 28th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 26th if we have first-time attendees.
+CalConnect XVIII, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable (Members Meeting), will be held in Pittsburgh, Pennsylvania on Monday-Friday, May 24-28 2010, hosted by http://www.cmu.edu[Carnegie Mellon University].
 
-*CalConnect Interoperability Test Events*: At this meeting, we will host both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. The IOP Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iop1005.shtml[Interoperability Test Event May 2010] and http://calconnect.org/miop1005.shtml[Mobile Calendaring Interoperability Test Event May 2010] for current information. Check back often as this will be updated as more information becomes available. +
- +
- You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
- +
-*Roundtable XVIII:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.  
+The Interoperability Test Events will take place all day Monday and Tuesday May 24-25, and Wednesday morning May 26, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday the 26th, and last through early afternoon Friday the 28th. An optional __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 26th if we have first-time attendees.
+
+*CalConnect Interoperability Test Events*: At this meeting, we will host both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1005.shtml[Interoperability Test Event May 2010] and http://calconnect.org/miop1005.shtml[Mobile Calendaring Interoperability Test Event May 2010] for current information. Check back often as this will be updated as more information becomes available.
+
+You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
+
+*Roundtable XVIII:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.  
 
 International Visitors
 
@@ -42,7 +42,7 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Events. Note that you must register separately for the Roundtable and for the Test Events.You may register at any time for the next events.
 
 [[location]]
 == Location
@@ -53,22 +53,22 @@ The Interoperability Test Event and the Roundtable will take place on the campus
 [[transportation]]
 == Transportation
 
-*Parking:*If you are driving, Parking will be in the East Campus Garage, shown as P7 on the Campus Map. It is charged hourly but capped at $10 per day. +
- +
-*Hotel Shuttles and Walking:*The Holiday Inn is approximately a 15 minutes walk; the other hotels mentioned below are somewhat further. All hotels have hotel shuttles but cannot be scheduled in advance and would not be able to accommodate a large group of people traveling at the same time. +
- +
-*Airport Information:*Pittsburgh is served by Pittsburgh International Airport:http://flypittsburgh.com/[flypittsburgh.com]. The airport is approximately 20 miles from the University. +
- +
-*Ground Transportation:*Information on rental cars, shuttles, and public transportation is available from the airport website; see http://flypittsburgh.com/limousines_taxis_busesandhttp://flypittsburgh.com/public_transportation[]._(Caution: the links at the bottom of the aiport website pages are not fully functional; use the ones at the top of the pages.)_Our host recommends the public transportation option for getting from and to the airport. The "28X" route is perfect, starting right on the CMU campus and also going past the Holiday Inn, and it costs less than $3 each way. The link provideed above covers the details. +
- +
+*Parking:*If you are driving, Parking will be in the East Campus Garage, shown as P7 on the Campus Map. It is charged hourly but capped at $10 per day.
+
+*Hotel Shuttles and Walking:*The Holiday Inn is approximately a 15 minutes walk; the other hotels mentioned below are somewhat further. All hotels have hotel shuttles but cannot be scheduled in advance and would not be able to accommodate a large group of people traveling at the same time.
+
+*Airport Information:*Pittsburgh is served by Pittsburgh International Airport:http://flypittsburgh.com/[flypittsburgh.com]. The airport is approximately 20 miles from the University.
+
+*Ground Transportation:*Information on rental cars, shuttles, and public transportation is available from the airport website; see http://flypittsburgh.com/limousines_taxis_busesandhttp://flypittsburgh.com/public_transportation[]._(Caution: the links at the bottom of the aiport website pages are not fully functional; use the ones at the top of the pages.)_Our host recommends the public transportation option for getting from and to the airport. The "28X" route is perfect, starting right on the CMU campus and also going past the Holiday Inn, and it costs less than $3 each way. The link provideed above covers the details.
+
 *Considerations for international arrival and departure:*Pittsburgh is an International Airport and offers direct arrivals from and departures to international locations.
 
 [[lodging]]
 == Lodging
 
-Carnegie Mellon Univesity has arranged a special CalConnect rate of $129/night with the Holiday Inn University Center, which will serve as our conference hotel. It is also the nearest to the meeting venue on the CMU campus, and is about 15 minutes' walk from Margaret Morrison Carnegie Hall. You may book online with the hotel using the Group Code of CAC. You must book by *May 14* to receive this rate. +
- +
- There are other hotels in the immediate area although not as close to the meeting venue. Shadyside Inn also offers a preferred CMU rate, however the others do not. +
+Carnegie Mellon Univesity has arranged a special CalConnect rate of $129/night with the Holiday Inn University Center, which will serve as our conference hotel. It is also the nearest to the meeting venue on the CMU campus, and is about 15 minutes' walk from Margaret Morrison Carnegie Hall. You may book online with the hotel using the Group Code of CAC. You must book by *May 14* to receive this rate.
+
+There are other hotels in the immediate area although not as close to the meeting venue. Shadyside Inn also offers a preferred CMU rate, however the others do not. +
  
 
 [cols="1,20,2,17"]
@@ -82,8 +82,8 @@ Carnegie Mellon Univesity has arranged a special CalConnect rate of $129/night w
 http://www.holidayinn.com/pit-univctr[http://http://www.holidayinn.com/pit-univctr] +
  CalConnect rate $129/night if booked by May 14 +
  Book online from the web page; specify Group Code CAC +
- Free wired internet in rooms; wifi in public areas +
- +
+ Free wired internet in rooms; wifi in public areas
+
 *Marriott Courtyard Pittsburgh Shadyside* +
  5308 Liberty Avenue +
  Pittsburgh, PA 15224 +
@@ -95,15 +95,15 @@ http://www.marriott.com/hotels/travel/pitok-courtyard-pittsburgh-shadyside/ +
  5405 5th Avenue +
  Pittsburgh, PA 15232 +
  Phone: +1 412 441 4444 +
-http://www.shadysideinn.com/ +
- +
+http://www.shadysideinn.com/
+
 *Springhill Suites Pittsburgh Bakery Square* +
  134 Bakery Square Boulevard +
  Pittsburgh, PA 15206 +
  +1 412 362 8600 +
 http://www.marriott.com/hotels/travel/pitel-springhill-suites-pittsburgh-bakery-square +
- \*\*Hotel Opens May 8th** +
- +
+ \*\*Hotel Opens May 8th**
+
 *Wyndham Pittsburgh - University Place* +
  3454 Forbes Avenue +
  Pittsburgh, PA 15213 +
@@ -135,9 +135,9 @@ _All sessions and events are in *Room 203, Margaret Morrison Carnegie Hall* exce
  1230-1330 Lunch +
  1330-1530 Testing +
  1530-1600 BOFs/Break +
- 1600-1800 Testing +
- +
- 1900-2100 IOP Test Dinner +
+ 1600-1800 Testing
+
+1900-2100 IOP Test Dinner +
 http://www.fuelandfuddle.com/[_Food & Fuddle_] 
 .<a| *Tuesday 25 May* +
  0800-0830 Breakfast +
@@ -154,9 +154,9 @@ http://www.fuelandfuddle.com/[_Food & Fuddle_]
  1000-1030 Break +
  1030-1200 Testing +
  1200-1230 Wrap-up +
- 1230 End of IOP Testing +
- +
- 1230-1330 Lunch/Opening^1^
+ 1230 End of IOP Testing
+
+1230-1330 Lunch/Opening^1^
 
 |===
 
@@ -183,9 +183,9 @@ _All sessions and events are in*Room 203, Margaret Morrison Carnegie Hall*except
  1430-1530 TC RESOURCE +
  1530-1545 Break +
  1545-1715 TC XML +
- 1715-1800 USIG Profile: CMU +
- +
- 1800-1930 Welcome Reception^4^ +
+ 1715-1800 USIG Profile: CMU
+
+1800-1930 Welcome Reception^4^ +
  _Danforth Lounge +
  University Ctr 2nd Floor_
 .<a| *Thursday 27 May* +
@@ -199,9 +199,9 @@ _All sessions and events are in*Room 203, Margaret Morrison Carnegie Hall*except
  1430-1500 BOF: Interoperability +
  1500-1600 BOF: CalConnect Directions +
  1600-1630 Break +
- 1630-1800 Steering Committee^5^ +
- +
- 1930-2130 Group Dinner^6^ +
+ 1630-1800 Steering Committee^5^
+
+1930-2130 Group Dinner^6^ +
 http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 .<a| *Friday 28 May* +
  0800-0830 Breakfast +
@@ -221,9 +221,9 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Events participants are invited to the Wednesday evening reception +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
-^6^All Roundtable participants are invited to the group dinner on Thursday +
- +
- +
+^6^All Roundtable participants are invited to the group dinner on Thursday
+
++
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -245,8 +245,8 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
  4.1 Identify Pain Points +
  4.2 Identify Action Items +
  5. Moving Forward +
- 5.1 Next steps +
- +
+ 5.1 Next steps
+
 *TC CALDAV* Thu 0830-0930 +
  1. Overview +
  1.1 Charter +
@@ -257,21 +257,21 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
  3.1 Calendar Alarms +
  4. Moving Forward +
  4.1 Plan of Action +
- 4.2 Next Conference Calls +
- +
+ 4.2 Next Conference Calls
+
 *TC EVENTPUB* Wed 1330-1430 +
  1. Overview of activities since February +
  2. Presentation on REFERENCE draft and status +
  3. Intersections with TC XML and TC RESOURCE +
- 4. Next steps and recruitment +
- +
+ 4. Next steps and recruitment
+
 *TC FREEBUSY* Fri 0930-1030 +
  1. Scenarios for consensus scheduling +
  2. Call for implementations +
  3. Parallels to "smart grid bidding" (TC-XML) +
  4. Going forward; plan of action +
- 5. Next Conference Calls +
- +
+ 5. Next Conference Calls
+
 *TC IOPTEST* Wed 1315-1330 +
  Review of IOP tests participant findings +
  
@@ -288,8 +288,8 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
  2. Report on Mobile Calendaring IOP Test Event +
  3. Outreach efforts +
  4. Next steps +
- 5. Next TC call +
- +
+ 5. Next TC call
+
 *TC RESOURCE* Wed 1430-1530 +
  1. Schema for representing calendar resources +
  1.1 Draft published +
@@ -298,25 +298,25 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
  2.1 Discussion topics: ease of discover and use of resources +
  2.1.1 CardDAV +
  2.1.2 CalDAV (especially scheduling) +
- 3. Next call +
- +
+ 3. Next call
+
 *TC TIMEZONE* Fri 1100-1200 +
  1. Progress Report +
  2. Open discussion: passing Timezones by reference +
  (impacts on iCalendar and CalDAV) +
  3. Next Steps +
- 4. Next TC Call +
- +
+ 4. Next TC Call
+
 *TC USECASE* Thu 1130-1230 +
  1. Discuss Glossary Revision +
- 2. Discuss Non-Institutional/Non-Enterprise Usecases +
- +
+ 2. Discuss Non-Institutional/Non-Enterprise Usecases
+
 *TC XML* Wed 1545-1715 +
  1. Status of "xCal" specification +
  2. Presentation on CalWS +
  3. Status of OASIS and WS-CALENDAR +
- 4. Next steps and calls +
- +
+ 4. Next steps and calls
+
 *USIG Profile: UCI* Wed 1715-1800 +
  Presentation on CMU +
  Calendaring implementation, +

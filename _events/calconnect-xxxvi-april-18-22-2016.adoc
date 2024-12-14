@@ -86,21 +86,21 @@ image::/sites/default/files/media/sponsor-logos3.png[""]
 ==== Supporting Organizations
 
 * https://www.charlesmok.hk/[Office of the Hon. Charles Mok, Hon. Charles Mok, JP, Legislative Councillor (IT)]
-* http://www.hkstp.org/en-US/Homepage.aspx[Hong Kong Science & Technology Park (HKSTP)]
+* http://www.hkstp.org/[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
 * https://cloudsecurityalliance.org/[Cloud Security Alliance (CSA)]
 * http://www.lscm.hk/[Hong Kong R&D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM)]
 * http://www.astri.org/[Hong Kong Applied Science and Technology Research Institute (ASTRI)]
-* http://www.hkcs.org.hk/en_hk/home/home.asp[Hong Kong Computer Society (HKCS)]
+* http://www.hkcs.org.hk/[Hong Kong Computer Society (HKCS)]
 * http://hkitf.org.hk/[Hong Kong Information Technology Federation (HKITF)]
 
 ==== Special thanks to
 
 * https://www.ida.gov.sg/[Info-communications Development Authority (IDA) of Singapore]
-* http://www.cad.gov.hk/english/home.html[Civil Aviation Department]
-* http://www.mtr.com.hk/en/customer/tourist/index.php[Mass Transit Railways (MTR)]
-* http://www.hongkongairport.com/eng/index.html[Hong Kong International Airport]
+* http://www.cad.gov.hk/[Civil Aviation Department]
+* http://www.mtr.com.hk/[Mass Transit Railways (MTR)]
+* http://www.hongkongairport.com/[Hong Kong International Airport]
 
 
 
@@ -150,7 +150,6 @@ All hotel fees are inclusive of internet and offer a choice of king/double beds 
 
 Additionally, we have identified three additional hotels within a 10 minute taxi ride which may have availability.
 
-+
 http://www.starwoodhotels.com/lemeridien/property/overview/index.html?propertyID=1826&language=en_US[*Le M©ridien Cyberport*] +
 Cyberport 1, 100 Cyberport Road, Hong Kong +
 +852 2980 7788
@@ -166,7 +165,6 @@ Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridi
 +852 2980 7812 (Monday to Friday (0900 -- 1800hrs)) +
 Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._)
 
-+
 http://www.mandarinoriental.com/landmark/[*The Landmark Mandarin Oriental*] +
 15 Queen's Road Central, Hong Kong +
 +852 2132 0188
@@ -180,7 +178,6 @@ Cancellation policy: Before 17 March no penalty; after 17 March full booked peri
 To book contact their reservation Hotline: +852 2820 4202 +
 Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mahkg-reservations@mohg.com]
 
-+
 http://www.mandarinoriental.com/hongkong/?htl=MOHKG&eng=google&src=local[The Mandarin Oriental Hong Kong]
 
 5 Connaught Road Central, Hong Kong +
@@ -196,7 +193,6 @@ To book contact their reservation Hotline: +852 2820 4202 +
 Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mohkg-reservations@mohg.com] +
 Or download this http://calconnect.org/mandarinorientalbookingform.pdf[booking form], fill out and fax to the number provided on the form.
 
-+
 *Other Area Hotels*
 
 The Ovolo Aberdeen Harbor (12 minutes by taxi): +
@@ -211,7 +207,6 @@ http://www.lhotelgroup.com/en/hotel/lhotel-island-south/Home
 Ovolo Southside (12 mins): +
 http://www.ovolohotels.com/en/hotels/hongkong/ovolo-southside/
 
-+
 In general Cyberport is far from tourist areas so there are not many choices around.
 
 [[test-schedule]]
@@ -225,7 +220,7 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 |===
 3+|
 
-==== CALCONNECT INTEROPERABILITY TEST EVENT
+CALCONNECT INTEROPERABILITY TEST EVENT
 
 a| *Monday 18 April* +
 0800-0830 Coffee & Rolls +

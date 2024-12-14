@@ -24,54 +24,54 @@ Recent Changes:
 _Information is current to January 14, 2015_ +
  Finish time on Thursday and time of conference dinner updated
 
-CalConnect XXXII, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in San Jose, California, on January 26-30, 2015, hosted by Kerio Technologies. +
- +
- The Interoperability Test Event will take place all day Monday and Tuesday January 26-27, and Wednesday morning January 28, ending at noon. The Conference will begin with lunch at 12:00 on Wednesday January 28, and last through mid-afternoon Friday January 30. +
- +
- An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 28th for first-time attendees. +
- +
- +
+CalConnect XXXII, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in San Jose, California, on January 26-30, 2015, hosted by Kerio Technologies.
+
+The Interoperability Test Event will take place all day Monday and Tuesday January 26-27, and Wednesday morning January 28, ending at noon. The Conference will begin with lunch at 12:00 on Wednesday January 28, and last through mid-afternoon Friday January 30.
+
+An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 28th for first-time attendees.
+
++
 *This event will be CalConnect's 10th Anniversary Meeting, and Wednesday afternoon and evening will be devoted to Anniversary events. The regular Conference will happen Thursday and Friday. For more about the Tenth Anniversary Celebration, which will be open to non-members without a fee, see http://calconnect.org/tenthanniversary.shtml[Tenth Anniversary Celebration]*.
 
-*CalConnect Interoperability Test Event*: +
- +
- The Interoperabilty Test Events are open to both members and non-members as participants or as http://calconnect.org/observer.shtml[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event] for current information. Check back often as this will be updated as more information becomes available. +
- +
-_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
- +
-*CalConnect 10th Anniversary*: See http://calconnect.org/tenthanniversary.shtml[Tenth Anniversary Celebration] for more information about the Anniversary and how to attend. If you are registered for the CalConnect Conference you are automatically registered for the Tenth Anniversary Celebration, however it is possible to register only for the celebration at http://calconnect.org/anniversaryreg.shtml[Tenth Anniversary Registration]. +
- +
-*CalConnect Conference:* The CalConnect Conference will offer Technical Committee sessions, to which all members and http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
- +
- Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium. +
- +
- See this link for a map of the area: https://mapsengine.google.com/map/edit?hl=en&authuser=0&mid=zAGk0uNAIT6I.kXVQlWIS7Quk[CalConnect XXXII].
+*CalConnect Interoperability Test Event*:
+
+The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event] for current information. Check back often as this will be updated as more information becomes available.
+
+_Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
+
+*CalConnect 10th Anniversary*: See http://calconnect.org/tenthanniversary.shtml[Tenth Anniversary Celebration] for more information about the Anniversary and how to attend. If you are registered for the CalConnect Conference you are automatically registered for the Tenth Anniversary Celebration, however it is possible to register only for the celebration at http://calconnect.org/anniversaryreg.shtml[Tenth Anniversary Registration].
+
+*CalConnect Conference:* The CalConnect Conference will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
+
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
+
+See this link for a map of the area: https://mapsengine.google.com/map/edit?hl=en&authuser=0&mid=zAGk0uNAIT6I.kXVQlWIS7Quk[CalConnect XXXII].
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
- +
- As noted above, San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued.
+
+As noted above, San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
 == Location
 
-Monday and Tuesday of the Interoperability Test Event will take place at Kerio Technologies' Santa Jose Headquarters, 111 North Market Street, 6th Floor, San Jose, California 95113. Kerio is within walking distance of the Conference hotel (see below). There is a large parking garage about a block south of the Kerio buildling at 43-51 North Market Street with a maximum rate of about $20 per day, and an open air public parking lot across the street from Kerio that charges $10 per day (at the corner of West St James and North San Pedro Streets). +
- +
- Wednesday through Friday, comprising the last part of the test event, all 10th Anniversary activities, and the CalConnect Conference, will take place in the De Anza Room of the Conference Hotel, Hotel De Anza, 233 West Santa Clara Street, Downtown San Jose, CA 95113.
+Monday and Tuesday of the Interoperability Test Event will take place at Kerio Technologies' Santa Jose Headquarters, 111 North Market Street, 6th Floor, San Jose, California 95113. Kerio is within walking distance of the Conference hotel (see below). There is a large parking garage about a block south of the Kerio buildling at 43-51 North Market Street with a maximum rate of about $20 per day, and an open air public parking lot across the street from Kerio that charges $10 per day (at the corner of West St James and North San Pedro Streets).
+
+Wednesday through Friday, comprising the last part of the test event, all 10th Anniversary activities, and the CalConnect Conference, will take place in the De Anza Room of the Conference Hotel, Hotel De Anza, 233 West Santa Clara Street, Downtown San Jose, CA 95113.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
- +
- San Jose Mineta International Airport is the closest to Kerio Technologies and to the Hotel De Anza (which is about 3 miles from the airport). Unfortunately the hotel does not offer a shuttle service and recommends taking a taxi from the San Jose airport. San Francisco International has the most flights and airlines serving it and is probably the only realistic option for international travelers but is further from San Jose; you will need to drive or use a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area but might offer attractive fares. +
- +
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+
+San Jose Mineta International Airport is the closest to Kerio Technologies and to the Hotel De Anza (which is about 3 miles from the airport). Unfortunately the hotel does not offer a shuttle service and recommends taking a taxi from the San Jose airport. San Francisco International has the most flights and airlines serving it and is probably the only realistic option for international travelers but is further from San Jose; you will need to drive or use a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area but might offer attractive fares.
+
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. Using public transportation is not straightforward from any of the airports to the conference hotel, although it is possible with time and ingenuity.
 
 [[lodging]]
@@ -87,9 +87,9 @@ Our conference hotel for this event is the Hotel De Anza in San Jose, also the l
  233 West Santa Clara Street +
  Downtown San Jose, CA 95113 +
  Phone: +1 408 286 1000 +
-http://hoteldeanza.com +
- +
- To book by telephone, call +1 408 285 1000 or tollfree +1-800-843-3700. +
+http://hoteldeanza.com
+
+To book by telephone, call +1 408 285 1000 or tollfree +1-800-843-3700. +
  To book online, go to http://hoteldeanza.com and click on "Reservations".
 
 |===
@@ -99,8 +99,8 @@ http://hoteldeanza.com +
 [[test-schedule]]
 == Test Event Schedule
 
-The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday at Kerio HQ. It will continue Wednesday morning at the De Anza hotel. The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
- +
+The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday at Kerio HQ. It will continue Wednesday morning at the De Anza hotel. The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday.
+
 *Please note that the schedules and programs below are tentative and will be updated as we have more information.*
 
 [cols=2]
@@ -117,9 +117,9 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
  1330-1430 BOF or Testing +
  1430-1530 Testing +
  1530-1600 Break and Refreshments +
- 1600-1800 Testing +
- +
- 1915-2130 Interoperability Test Event Dinner +
+ 1600-1800 Testing
+
+1915-2130 Interoperability Test Event Dinner +
 http://www.britanniaarmsdowntown.com/[_The Britannia Arms_] +
  173 W. Santa Clara Street, San Jose 
 .<a| *Tuesday 27 January* +
@@ -141,8 +141,8 @@ http://www.britanniaarmsdowntown.com/[_The Britannia Arms_] +
 [[conference-schedule]]
 == Conference Schedule
 
-The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday. +
- +
+The Conference begins with lunch on Wednesday and runs through Friday afternoon. Our 10th Anniversary celebration will occupy most of Wednesday.
+
 *Please note that the schedules and programs below are tentative and will be updated as we have more information.*
 
 [cols=3]
@@ -264,9 +264,9 @@ _Administrative business, coming events, consensus agreements on decisions reach
 ^1^The Wednesday lunch is for all participants in the Test Event and/or Conference +
 ^2^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^3^All Conference and Test Event participants are invited to the Wednesday evening reception +
-^4^All Conference participants are invited to the group dinner on Thursday. +
- +
- +
+^4^All Conference participants are invited to the group dinner on Thursday.
+
++
  Lunch and morning and afternoon breaks will be served to all participants and are included in your registration fees. 
 
 |===

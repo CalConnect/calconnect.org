@@ -23,13 +23,13 @@ CalConnect XIV, consisting of a CalConnect Interoperability Test Event and a Cal
 +
 The IOP Testing will take place all day Monday and Tuesday February 2-3, and Wednesday morning, ending at noon on Wednesday February 4th. The Roundtable will begin with lunch at 12:30 on Wednesday the 4th, and last through early afternoon Friday the 6th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 4th.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/http://calconnect.org/observer.shtml[observers]; please see https://web.archive.org/web/20090126053702/http://calconnect.org/iop0902.shtml[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers]; please see https://web.archive.org/web/20090126053702/http://calconnect.org/iop0902.shtml[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
 +
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
 +
 _*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been scheduled but will take place later in 2009._ +
 +
-*Roundtable XIV:* The Roundtable Members Meeting will feature a presentation by Ben Fortuna, the author of https://web.archive.org/web/20090126053702/http://ical4j.sourceforge.net/[iCal4j], and CalConnect's 2009 Guest Speaker. Additionally, the Roundtable will as usual offer Technical Committee sessions, to which all members and https://web.archive.org/web/20090126053702/http://calconnect.org/observer.shtml[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
+*Roundtable XIV:* The Roundtable Members Meeting will feature a presentation by Ben Fortuna, the author of https://web.archive.org/web/20090126053702/http://ical4j.sourceforge.net/[iCal4j], and CalConnect's 2009 Guest Speaker. Additionally, the Roundtable will as usual offer Technical Committee sessions, to which all members and https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
 +
 Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
 
@@ -40,7 +40,7 @@ International visitors who are not U.S. Citizens or hold a valid U.S. passport s
 [[registration]]
 == Registration Information
 
-Please see https://web.archive.org/web/20090126053702/http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event.
+Please see https://web.archive.org/web/20090126053702/link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the Roundtable and/or the CalConnect Interoperability Test Event.
 
 [[location]]
 == Location

@@ -47,7 +47,7 @@ for all past events can also be found linked from the sidebar from this
 page.
 
 Information about how to register and pay for a CalConnect Conference
-may be found at link:{{'/regtypes' | relative_url }}[Registration and Payment Options].
+may be found at link:{{'/events/event-registration-payment' | relative_url }}[Registration and Payment Options].
 This page is also linked from each logistics page.
 
 Following each CalConnect Event, a report of the Conference is posted to

@@ -74,7 +74,7 @@ CalConnect XLIII is open to members, and to non-members as observers.
 
 International Visitors
 
-In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure, please see http://href="http://www.germany-visa.org[German VISA Information].
+In general most CalConnect participants will not require a Visa to visit Germany. However if you are unsure, please see http://www.germany-visa.org[German VISA Information].
 
 Conference Details
 
@@ -132,7 +132,7 @@ The rate will be paid by each attendee as our service is just to provide the low
 2+| *Monday Morning 24 September - TECHNICAL TRACK*
 
 | 0830-0900 | Coffee, Fruit
-| 0900-0930 
+| 0900-0930
 a| Technical Track Opening +
 _Sign up for Test Lab, additional discussion topics, etc._
 
@@ -140,7 +140,7 @@ _Sign up for Test Lab, additional discussion topics, etc._
 | 1030-1100 | Break and Refreshments
 | 1100-1200
 a| Introduction to CalConnect Q&A +
-_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
 
 | 1100-1215
 a| CalConnect CalDAV Tester status and joint work +
@@ -149,9 +149,9 @@ _Making tests more generally applicable_
 | 1215-1230 | Technical Track wrapup and status for day
 | 1230-1330 | Lunch
 2+| *Monday Afternoon 24 September - CONFERENCE TRACK*
-| 1330-1400 
+| 1330-1400
 a| Conference Track Opening +
-_Welcome, logistics, introductions_ 
+_Welcome, logistics, introductions_
 
 | 1400-1430
 a| Reports on CalConnect Activities +
@@ -169,11 +169,11 @@ https://www.meetup.com/de-DE/TEC-Campus/events/252358527/[_https://www.meetup.co
 
 | 1730-1930
 a| Welcome Reception +
-_On premises_ 
+_On premises_
 
 2+| *Tuesday Morning 25 September - CONFERENCE TRACK*
 | 0830-0900 | Coffee, Fruit
-| 0900-0945 
+| 0900-0945
 a| Developers Guide +
 _Presenting current status, new hosting option, request for content_
 
@@ -204,25 +204,25 @@ _How to store information on how an event ends up on someones calendar includi
 | 0830-0900 | Coffee, Fruit
 | 0900-1000
 a| CalConnect Standards, Publishing and Co-Publishing +
-_As result of our liaisons with other bodies, we will start publishing work done together with these bodies again, to show our contribution and raise the awareness of CalConnect being a standards body. Exchange about whats needed to do so (projects, new processes, voting)._ 
+_As result of our liaisons with other bodies, we will start publishing work done together with these bodies again, to show our contribution and raise the awareness of CalConnect being a standards body. Exchange about whats needed to do so (projects, new processes, voting)._
 
 | 1000-1030
 a| CalConnect Liaisons with other standards bodies +
-_With which bodies, why, what are we doing, value provided, how to get involved_ 
+_With which bodies, why, what are we doing, value provided, how to get involved_
 
 | 1030-1100 | Break and Refreshments
 | 1100-1130 | Introduction to CalConnect/ISO 8601-2
-| 1130-1230 
+| 1130-1230
 a| Calendar Spam +
 _Presenting status of Best Practices Document and process with M3AAWG as well as feedback from technical track session on abuse audit draft_
 
 | 1230-1330 | Lunch
 2+| *Wednesday Afternoon 26 September - TECHNICAL TRACK*
-| 1330-1430 
+| 1330-1430
 a| Authoring CalConnect Standards Lab +
 _Using Asciidoc and GitHub Repositories to author and publish CalConnect Standards_
 
-| 1430-1530 
+| 1430-1530
 a| TC VCARD, ISO TC 211, ISO 19160 +
 _Universal address profiles and evolution of vCard_
 
@@ -238,7 +238,7 @@ _Review JMAP Core status and work on a data model for synchronizing calendar and
 | 1715-1730 | Technical Track wrapup and status for day
 | 1915-2130
 a| Conference Dinner +
-_Lehners_ 
+_Lehners_
 
 2+| *Thursday Morning 27 September - COMBINED*
 | 0830-0900 | Coffee, Fruit
@@ -254,16 +254,16 @@ _The use of ETags in CalDAV appears to conflict with the specifications. We will
 | 1030-1100 | Break and Refreshments
 | 1100-1130
 a| CalDAV handling of public or shared calendars +
-_Supporting searching for, subscriptions and invitations to public calendars_ 
+_Supporting searching for, subscriptions and invitations to public calendars_
 
 | 1130-1145 | Technical Committee Directions for period to CalConnect XLIV
 | 1145-1230
 a| CalConnect Plenary Meeting +
-_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
 
 | 1230-1330 | Lunch
 2+| *Thursday Afternoon 27 September - Working Sessions*
-| 1330-1500 
+| 1330-1500
 a| DevGuide Joint Work +
 _Work on increasing the content of DEVGUIDE following the short list of demanded/suggested content_
 
@@ -272,9 +272,6 @@ _Work on increasing the content of DEVGUIDE following the short list of demanded
 | 1700 | Close of CalConnect XLIII
 
 |===
-
-
-
 
 
 *Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

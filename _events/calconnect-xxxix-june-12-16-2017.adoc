@@ -68,7 +68,7 @@ Dress at all CalConnect events is casual to business casual.
 [[registration]]
 == Registration Information
 
-Please see http://calconnect.org/regtypes.shtml[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
+Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event and Developers Forum. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
 [[location]]
 == Location
@@ -120,9 +120,9 @@ a| *Monday 12 June* +
  1230-1330 Lunch +
  1330-1530 Testing/Forum +
  1530-1600 Break and Refreshments +
- 1600-1800 Testing/Forum +
- +
- 1915-2100 Test Event Dinner (TBA)
+ 1600-1800 Testing/Forum
+
+1915-2100 Test Event Dinner (TBA)
 a| *Tuesday 13 June* +
  0800-0830 Coffee & Rolls +
  0830-1030 Testing/Forum +
