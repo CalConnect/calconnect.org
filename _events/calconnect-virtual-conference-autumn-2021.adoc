@@ -3,13 +3,13 @@ layout: page
 name: CalConnect Virtual Conference Spring 2022
 host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2022-05-09
-image: /assets/images/CalConnectEventTBD_0.jpg
+image: /assets/images/CalConnectEventTBD.jpg
 ---
 :page-liquid:
 
 == CalConnect Virtual Conference Spring 2022
 
-image::{{'/assets/images/CalConnectEventTBD_0.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
+image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
 
 Monday, May 09, 2022 to Friday, May 13, 2022
 

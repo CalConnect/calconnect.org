@@ -3,13 +3,13 @@ layout: page
 name: CalConnect Nottingham November 2022
 host_info: Hosted by Cronofy in Nottingham, United Kingdom
 date: 2022-11-14
-image: /assets/images/nottingham1.jpg
+image: /assets/images/nottingham.jpg
 ---
 :page-liquid:
 
 == CalConnect Nottingham 2022, November, 2022, Hosted By Cronofy
 
-image::{{'/assets/images/nottingham1.jpg' | relative_url }}[Nottingham, U.K.,750,404]
+image::{{'/assets/images/nottingham.jpg' | relative_url }}[Nottingham, U.K.,750,404]
 
 Monday, November 14, 2022 to Wednesday, November 16, 2022
 

@@ -3,13 +3,13 @@ layout: page
 name: CalConnect XLV - June 3-7, 2019
 host_info: Hosted by Youcanbook.me (YCBM), Bedford, United Kingdom
 date: 2019-06-03
-image: /assets/images/BedfordUK_0.jpg
+image: /assets/images/BedfordUK.jpg
 ---
 :page-liquid:
 
 == CalConnect XLV - June 3-7, 2019
 
-image::{{'/assets/images/BedfordUK_0.jpg' | relative_url }}[]
+image::{{'/assets/images/BedfordUK.jpg' | relative_url }}[]
 
 CalConnect XLV in Bedford, United Kingdom, hosted by Youcanbook.me (YCBM)
 
@@ -132,9 +132,9 @@ _This schedule will be updated as new information and new sessions are added.  P
 2+| *Monday 3 June 2019*
 
 | 0830-0900 | Coffee and Tea
-| 0900-0930 
+| 0900-0930
 a| Conference Opening +
-_Welcome, logistics, introductions, review of schedule for week_ 
+_Welcome, logistics, introductions, review of schedule for week_
 
 | 0930-1000
 a| Reports on CalConnect Activities +
@@ -148,20 +148,20 @@ _Short introductions to new and /non-members attending_
 | 1100-1130 | Host Session
 | 1130-1230
 a| Working Sessions and Testing +
-_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._ 
+_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._
 
 | 1130-1230
 a| Introduction to CalConnect Q&A (if needed) +
-_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
 
 | 1230-1330 | Lunch
 | 1330-1400
 a| Update on Privacy by Design and ISO/PC 317 +
-_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the recent meeting and work status of the ISO PC. We will consider our response to ISO during a BOF session later in the week._ 
+_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the recent meeting and work status of the ISO PC. We will consider our response to ISO during a BOF session later in the week._
 
 | 1400-1445
 a| Follow-Up on Time Zone Workshop at CalConnect XLIV +
-_Status of EU Proposal; update since workshop; next steps for CalConnect_ 
+_Status of EU Proposal; update since workshop; next steps for CalConnect_
 
 | 1445-1530 | BOF: TBD
 | 1530-1600 | Break and refreshments
@@ -176,7 +176,7 @@ _The issue is compatibility between iCalendar and JSCalendar. The iCal4J data mo
 
 | 1730-1930
 a| Welcome Reception +
-_The Bedford Swan Hotel_ 
+_The Bedford Swan Hotel_
 
 2+| *Tuesday 4 June 2019*
 | 0830-0900 | Coffee and Tea
@@ -200,7 +200,7 @@ _How can we learn from experiences in writing CalDAV as we move forward with JMA
 | 1230-1330 | Lunch
 | 1330-1430
 a| JSContacts - JSON Representation for Contacts +
-_JSContacts defines a data model and JSON representation of contact information that can be used for data storage and exchange in address book or directory applications. We aim to do the same effort for contacts as we did for calendaring with JSCalendar. Also see: https://datatracker.ietf.org/doc/draft-stepanek-jscontact/[https://datatracker.ietf.org/doc/draft-stepanek-jscontact/.]_ 
+_JSContacts defines a data model and JSON representation of contact information that can be used for data storage and exchange in address book or directory applications. We aim to do the same effort for contacts as we did for calendaring with JSCalendar. Also see: https://datatracker.ietf.org/doc/draft-stepanek-jscontact/[https://datatracker.ietf.org/doc/draft-stepanek-jscontact/.]_
 
 | 1430-1530
 a| Sharing and Scheduling +
@@ -237,7 +237,7 @@ _Status of ongoing work, structured name Interchange, digital addressing registr
 | 1230-1330 | Lunch
 | 1330-1430
 a| VPOLL Update +
-_The VPOLL specification is probably fairly complete but still needs work on iTIP methods. It would be useful to work on some of the alternative VPOLL modes as these may be very useful in social settings. http://tools.ietf.org/html/draft-york-vpoll/_ 
+_The VPOLL specification is probably fairly complete but still needs work on iTIP methods. It would be useful to work on some of the alternative VPOLL modes as these may be very useful in social settings. http://tools.ietf.org/html/draft-york-vpoll/_
 
 | 1430-1530
 a| Subscription Upgrades +
@@ -254,7 +254,7 @@ _Are we interested in expanding our scope to include areas such as e-mail client
 
 | 1915-2130
 a| Conference Dinner +
-https://www.thaliandtandoor.com/[_Thali and Tandoor_] 
+https://www.thaliandtandoor.com/[_Thali and Tandoor_]
 
 2+| *Thursday 6 June 2019*
 | 0830-0900 | Coffee and Tea
@@ -274,7 +274,7 @@ _Metanorma is an open-source framework for writing and publishing standardizatio
 | 1145-1200 | Technical Committee Directions for period to CalConnect XLVI
 | 1200-1230
 a| CalConnect Plenary Session +
-_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
 
 | 1230-1330 | Lunch
 | 1330-1530
