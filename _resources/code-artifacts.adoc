@@ -32,7 +32,7 @@ link:{{'/code-artifacts/calws-soap-wsdl-and-schema' | relative_url }}[*CalWS-SOA
 
 This document provides links to the XML schemas and wsdl for the
 CalWS-SOAP service as defined in the specification
-link:{{'/docs/CD1202%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf' | relative_url }}[CD1202 CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0]. In addition
+link:{{'/publications/CD1202%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf' | relative_url }}[CD1202 CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0]. In addition
 this page provides a directory of references to the specification itself
 and related documents using
 http://www.rddl.org/[Resource Directory Description Language].

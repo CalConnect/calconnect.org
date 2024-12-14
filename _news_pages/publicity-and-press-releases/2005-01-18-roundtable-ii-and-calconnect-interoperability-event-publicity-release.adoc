@@ -12,5 +12,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 The publicity release issued by the Consortium following its second
 Roundtable, 11-13 January 2005, hosted by the University of Washington,
 and the companion January 11-12 2005 Interop.
-link:{{'/docs/050111roundtable2.pdf' | relative_url }}[Roundtable II
+link:{{'/docs/press-releases/050111roundtable2.pdf' | relative_url }}[Roundtable II
 Publicity Release].

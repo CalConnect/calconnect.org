@@ -12,7 +12,7 @@ excerpt: The CalConnect Calendaring and Scheduling Glossary of Terms was origina
 
 Posted July 20, 2009
 
-The CalConnect link:{{'/docs/CD0610%20Calendaring%20and%20Scheduling%20Glossary%20of%20Terms.pdf' | relative_url}}[Calendaring and Scheduling Glossary of Terms] was originally published in 2006 and is strongly in need of an update to reflect changes and advances in Calendaring and Scheduling since that time.
+The CalConnect link:{{'/publications/CD0610%20Calendaring%20and%20Scheduling%20Glossary%20of%20Terms.pdf' | relative_url}}[Calendaring and Scheduling Glossary of Terms] was originally published in 2006 and is strongly in need of an update to reflect changes and advances in Calendaring and Scheduling since that time.
 
 We have initiated a public review and comment process from all interested parties. Please see link:{{'/pubcomment_glossary' | relative_url}}[Public Review and Comment for the Glossary] for information about the process and the mailing list for comments. All comments, corrections, and updates are encouraged.
 

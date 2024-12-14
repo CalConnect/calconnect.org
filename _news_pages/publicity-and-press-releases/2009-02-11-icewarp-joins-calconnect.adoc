@@ -10,5 +10,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 *February 11, 2009* +
 *IceWarp Joins CalConnect*: The Calendaring and Scheduling Consortium
 has announced that IceWarp has joined the Consortium:
-link:{{'/docs/IceWarp%20Joins%20US%20release%20FINAL.doc' | relative_url }}[IcwWarp
+link:{{'/docs/press-releases/IceWarp%20Joins%20US%20release%20FINAL.doc' | relative_url }}[IcwWarp
 Joins CalConnect].

@@ -10,5 +10,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 *August 20, 2004* +
 *CalConnect Interopability Event Publicity Release*: The first publicity
 release issued by the Consortium following the July 29-30 2004 Event.
-link:{{'/docs/0407interop1.pdf' | relative_url }}[CalConnect
+link:{{'/docs/press-releases/0407interop1.pdf' | relative_url }}[CalConnect
 Interoperability Event Publicity Release].

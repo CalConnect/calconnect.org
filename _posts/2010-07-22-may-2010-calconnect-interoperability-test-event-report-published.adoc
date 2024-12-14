@@ -12,7 +12,7 @@ excerpt: The public report from the CalConnect Interoperability Test Event on Ma
 
 Posted July 22, 2010 
 
-The public report from the CalConnect Interoperability Test Event on May 24-26 2010 has been published. This test event included both a "`regular`" test event and a Mobile Calendaring test event focused on ActiveSync. The test event was hosted by Carnegie Mellon University in conjunction with Roundtable XVIII. Please see link:{{'/docs/CD1009%20May%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url}}[May 2010 CalConnect Interoperability Test Event Report].
+The public report from the CalConnect Interoperability Test Event on May 24-26 2010 has been published. This test event included both a "`regular`" test event and a Mobile Calendaring test event focused on ActiveSync. The test event was hosted by Carnegie Mellon University in conjunction with Roundtable XVIII. Please see link:{{'/publications/CD1009%20May%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url}}[May 2010 CalConnect Interoperability Test Event Report].
 
 The complete internal test event report is available to CalConnect members on the CalConnect website members area.
 

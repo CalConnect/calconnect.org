@@ -9,5 +9,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 
 *October 24, 2005* +
 *IBM and Trumba Join the Consortium*:
-link:{{'/docs/051024ibmjoinscalconnect.pdf' | relative_url }}[IBM has joined the Consortium], and
-link:{{'/docs/051024trumbajoinscalconnect.pdf' | relative_url }}[Trumba has joined the Consortium]
+link:{{'/docs/press-releases/051024ibmjoinscalconnect.pdf' | relative_url }}[IBM has joined the Consortium], and
+link:{{'/docs/press-releases/051024trumbajoinscalconnect.pdf' | relative_url }}[Trumba has joined the Consortium]

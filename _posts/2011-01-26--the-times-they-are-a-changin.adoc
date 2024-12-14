@@ -42,7 +42,7 @@ DST in Britain:
 
 CalConnect's technical work in timezones:
 
-* link:{{'/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url}}[]
+* link:{{'/publications/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url}}[]
 * link:{{'/CD1007%20Timezone%20Service.pdf' | relative_url}}[]
 * link:{{'/CD1008%20Timezone%20XML.pdf' | relative_url}}[]
 

@@ -11,4 +11,4 @@ permalink: '/news/publicity-and-press-releases/:title'
 *Media Alert for Roundtable and CalConnect Interoperability Event*: The
 media alert for the January 2006 Roundtable and CalConnect
 Interoperability Event was issued on 8 December:
-link:{{'/docs/051208mediaalertrtiop5.pdf' | relative_url }}[Roundtable V Media Alert].
+link:{{'/docs/press-releases/051208mediaalertrtiop5.pdf' | relative_url }}[Roundtable V Media Alert].

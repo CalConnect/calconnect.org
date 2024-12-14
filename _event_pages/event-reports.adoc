@@ -20,180 +20,180 @@ Conference" report will cover all activities at the event.
 [#conferences]
 == CalConnect Conferences
 
-link:{{'/pubdocs/conference46rpt.pdf' | relative_url }}[*CalConnect Conference XLVI*] (October 7-10 2019). +
+link:{{'/publications/conference46rpt.pdf' | relative_url }}[*CalConnect Conference XLVI*] (October 7-10 2019). +
 Hosted by Fastmail, Philadelphia, Pennsylvania USA
 
-link:{{'/pubdocs/conference45rpt.pdf' | relative_url }}[*CalConnect Conference XLV*] (June 3-6 2019). +
+link:{{'/publications/conference45rpt.pdf' | relative_url }}[*CalConnect Conference XLV*] (June 3-6 2019). +
 Hosted by Youcanbook.me, Bedford, United Kingdom
 
-link:{{'/pubdocs/conference44rpt.pdf' | relative_url }}[*CalConnect Conference XLIV*] (February 05-08 2019). +
+link:{{'/publications/conference44rpt.pdf' | relative_url }}[*CalConnect Conference XLIV*] (February 05-08 2019). +
 Hosted by Google, Zürich, Switzerland
 
-link:{{'/pubdocs/conference43rpt.pdf' | relative_url }}[*CalConnect Conference XLIII*] (September 24-27 2018). +
+link:{{'/publications/conference43rpt.pdf' | relative_url }}[*CalConnect Conference XLIII*] (September 24-27 2018). +
 Hosted by 1&1, Karlsruhe, Germany
 
-link:{{'/pubdocs/conference42rpt.pdf' | relative_url }}[*CalConnect Conference XLII*] (June 6-8 2018). +
+link:{{'/publications/conference42rpt.pdf' | relative_url }}[*CalConnect Conference XLII*] (June 6-8 2018). +
 Hosted by Jorte, Tokyo, Japan
 
-link:{{'/pubdocs/conference41rpt.pdf' | relative_url }}[*CalConnect Conference XLI*] (January 31 - February 02 2018). +
+link:{{'/publications/conference41rpt.pdf' | relative_url }}[*CalConnect Conference XLI*] (January 31 - February 02 2018). +
 Hosted by Oath, Sunnyvale, California
 
-link:{{'/pubdocs/conference40rpt.pdf' | relative_url }}[*CalConnect Conference XL*] (September
+link:{{'/publications/conference40rpt.pdf' | relative_url }}[*CalConnect Conference XL*] (September
 27-29, 2017). +
 Hosted by Open-Xchange, Cologne, Germany
 
-link:{{'/pubdocs/conference39rpt.pdf' | relative_url }}[*CalConnect Conference XXXIX*] (June
+link:{{'/publications/conference39rpt.pdf' | relative_url }}[*CalConnect Conference XXXIX*] (June
 14-16, 2017). +
 Hosted by Tandem, Seattle, Washington
 
-link:{{'/pubdocs/conference38rpt.pdf' | relative_url }}[*CalConnect Conference XXXVIII*]
+link:{{'/publications/conference38rpt.pdf' | relative_url }}[*CalConnect Conference XXXVIII*]
 (February 15-17, 2017). +
 Hosted by the University of California, Irvine, in Irvine, California
 
-link:{{'/pubdocs/conference37rpt.pdf' | relative_url }}[*CalConnect Conference XXXVII*]
+link:{{'/publications/conference37rpt.pdf' | relative_url }}[*CalConnect Conference XXXVII*]
 (September 14-16, 2016). +
 Hosted by dmfs in Dresden, Germany
 
-link:{{'/pubdocs/conference36rpt.pdf' | relative_url }}[*CalConnect Conference XXXVI*] (April
+link:{{'/publications/conference36rpt.pdf' | relative_url }}[*CalConnect Conference XXXVI*] (April
 21-22, 2016). +
 Hosted by Ribose and OGCIO in Cyberport, Hong Kong SAR.
 
-link:{{'/pubdocs/conference35rpt.pdf' | relative_url }}[*CalConnect Conference XXXV*] (January
+link:{{'/publications/conference35rpt.pdf' | relative_url }}[*CalConnect Conference XXXV*] (January
 13-15, 2016). +
 Hosted by AOL in Palo Alto, California.
 
-link:{{'/pubdocs/conference34rpt.pdf' | relative_url }}[*CalConnect Conference XXXIV*]
+link:{{'/publications/conference34rpt.pdf' | relative_url }}[*CalConnect Conference XXXIV*]
 (September 30 - October 2, 2015). +
 Hosted by Gershon Janssen in Amsterdam, The Netherlands.
 
-link:{{'/pubdocs/conference33rpt.pdf' | relative_url }}[*CalConnect Conference XXXIII*] (May
+link:{{'/publications/conference33rpt.pdf' | relative_url }}[*CalConnect Conference XXXIII*] (May
 20-22, 2015). +
 Hosted by 1&1 in Bucharest, Romania.
 
-link:{{'/pubdocs/conference32rpt.pdf' | relative_url }}[*CalConnect Conference XXXII*]
+link:{{'/publications/conference32rpt.pdf' | relative_url }}[*CalConnect Conference XXXII*]
 (January 28-30, 2015). +
 Hosted by Kerio Technologies in San Jose, California.
 
-link:{{'/pubdocs/conference31rpt.pdf' | relative_url }}[*CalConnect Conference XXXI*] (October
+link:{{'/publications/conference31rpt.pdf' | relative_url }}[*CalConnect Conference XXXI*] (October
 1-3, 2014). +
 Hosted by Youcanbook.me in Bedford, United Kingdom.
 
-link:{{'/pubdocs/conference30rpt.pdf' | relative_url }}[*CalConnect Conference XXX*] (May
+link:{{'/publications/conference30rpt.pdf' | relative_url }}[*CalConnect Conference XXX*] (May
 21-23, 2014). +
 Hosted by AOL in Dulles, Virginia.
 
 _Note: through CalConnect XXIX the Conference was called a Roundtable_
 
-link:{{'/pubdocs/roundtable29rpt.pdf' | relative_url }}[*Roundtable XXIX*] (February 5-7,
+link:{{'/publications/roundtable29rpt.pdf' | relative_url }}[*Roundtable XXIX*] (February 5-7,
 2014). +
 Hosted by Mozilla, San Francisco, California.
 
-link:{{'/pubdocs/roundtable28rpt.pdf' | relative_url }}[*Roundtable XXVIII*] (September 25-27,
+link:{{'/publications/roundtable28rpt.pdf' | relative_url }}[*Roundtable XXVIII*] (September 25-27,
 2013). +
 Hosted by DHL, Prague, Czech Republic.
 
-link:{{'/pubdocs/roundtable27rpt.pdf' | relative_url }}[*Roundtable XXVII*] (June 5-7,
+link:{{'/publications/roundtable27rpt.pdf' | relative_url }}[*Roundtable XXVII*] (June 5-7,
 2013). +
 Hosted by the University of Wisconsin, Madison, Wisconsin.
 
-link:{{'/pubdocs/roundtable26rpt.pdf' | relative_url }}[*Roundtable XXVI*] (January 30 -
+link:{{'/publications/roundtable26rpt.pdf' | relative_url }}[*Roundtable XXVI*] (January 30 -
 February 1, 2013). +
 Hosted by Oracle, Santa Clara, California.
 
-link:{{'/pubdocs/roundtable25rpt.pdf' | relative_url }}[*Roundtable XXV*] (October 3-5
+link:{{'/publications/roundtable25rpt.pdf' | relative_url }}[*Roundtable XXV*] (October 3-5
 2012). +
 Hosted by Google, Zürich, Switzerland.
 
-link:{{'/pubdocs/roundtable24rpt.pdf' | relative_url }}[*Roundtable XXIV*] (May 23-25 2012). +
+link:{{'/publications/roundtable24rpt.pdf' | relative_url }}[*Roundtable XXIV*] (May 23-25 2012). +
 Hosted by Patricia Egen Consulting, Chattanooga, Tennessee.
 
-link:{{'/pubdocs/roundtable23rpt.pdf' | relative_url }}[*Roundtable XXIII*] (February 1-3
+link:{{'/publications/roundtable23rpt.pdf' | relative_url }}[*Roundtable XXIII*] (February 1-3
 2012). +
 Hosted by Apple, Cupertino, California.
 
-link:{{'/pubdocs/roundtable22rpt.pdf' | relative_url }}[*Roundtable XXII*] (October 5-7
+link:{{'/publications/roundtable22rpt.pdf' | relative_url }}[*Roundtable XXII*] (October 5-7
 2011). +
 Hosted by Kerio Technologies, Prague, Czech Republic.
 
-link:{{'/pubdocs/roundtable21rpt.pdf' | relative_url }}[*Roundtable XXI*] (May 25-27 2011). +
+link:{{'/publications/roundtable21rpt.pdf' | relative_url }}[*Roundtable XXI*] (May 25-27 2011). +
 Hosted by NASA Ames, Moffett Field, California.
 
-link:{{'/pubdocs/roundtable20rpt.pdf' | relative_url }}[*Roundtable XX*] (February 9-11
+link:{{'/publications/roundtable20rpt.pdf' | relative_url }}[*Roundtable XX*] (February 9-11
 2011). +
 Hosted by the University of California, Berkeley, California.
 
-link:{{'/pubdocs/roundtable19rpt.pdf' | relative_url }}[*Roundtable XIX*] (October 6-8
+link:{{'/publications/roundtable19rpt.pdf' | relative_url }}[*Roundtable XIX*] (October 6-8
 2010). +
 Hosted by IBM/Lotus, Littleton, Massachusetts.
 
-link:{{'/pubdocs/roundtable18rpt.pdf' | relative_url }}[*Roundtable XVIII*] (May 26-28
+link:{{'/publications/roundtable18rpt.pdf' | relative_url }}[*Roundtable XVIII*] (May 26-28
 2010). +
 Hosted by Carnegie Mellon University, Pittsburgh, Pennsylvania.
 
-link:{{'/pubdocs/roundtable17rpt.pdf' | relative_url }}[*Roundtable XVII*] (February 3-5
+link:{{'/publications/roundtable17rpt.pdf' | relative_url }}[*Roundtable XVII*] (February 3-5
 2010). +
 Hosted by the University of California, Irvine, in Irvine, California.
 
-link:{{'/pubdocs/roundtable16rpt.pdf' | relative_url }}[*Roundtable XVI*] (October 7-9
+link:{{'/publications/roundtable16rpt.pdf' | relative_url }}[*Roundtable XVI*] (October 7-9
 2009). +
 Hosted by Apple in Cupertino, California.
 
-link:{{'/pubdocs/roundtable15rpt.pdf' | relative_url }}[*Roundtable XV*] (June 3-5 2009). +
+link:{{'/publications/roundtable15rpt.pdf' | relative_url }}[*Roundtable XV*] (June 3-5 2009). +
 Hosted by Oracle Corporation in Redwood Shores, California.
 
-link:{{'/pubdocs/roundtable14rpt.pdf' | relative_url }}[*Roundtable XIV*] (February 4-6
+link:{{'/publications/roundtable14rpt.pdf' | relative_url }}[*Roundtable XIV*] (February 4-6
 2009). +
 Hosted by Microsoft in Redmond, Washington.
 
-link:{{'/pubdocs/roundtable13rpt.pdf' | relative_url }}[*Roundtable XIII*] (October 8-10
+link:{{'/publications/roundtable13rpt.pdf' | relative_url }}[*Roundtable XIII*] (October 8-10
 2008). +
 Hosted by Yahoo!/Zimbra in Santa Clara, California.
 
-link:{{'/pubdocs/roundtable12rpt.pdf' | relative_url }}[*Roundtable XII*] (June 4-6 2008). +
+link:{{'/publications/roundtable12rpt.pdf' | relative_url }}[*Roundtable XII*] (June 4-6 2008). +
 Hosted by the University of Wisconsin–Madison in Madison, Wisconsin.
 
-link:{{'/pubdocs/roundtable11rpt.pdf' | relative_url }}[*Roundtable XI*] (February 6-8
+link:{{'/publications/roundtable11rpt.pdf' | relative_url }}[*Roundtable XI*] (February 6-8
 2008). +
 Hosted by Sun Microsystems in Menlo Park, California.
 
-link:{{'/pubdocs/roundtable10rpt.pdf' | relative_url }}[*Roundtable X*] (September 19-21
+link:{{'/publications/roundtable10rpt.pdf' | relative_url }}[*Roundtable X*] (September 19-21
 2007). +
 Hosted by The Massachusetts Institute of Technology in Cambridge,
 Massachusetts.
 
-link:{{'/pubdocs/roundtable9rpt.pdf' | relative_url }}[*Roundtable IX*] (May 9-11 2 2007). +
+link:{{'/publications/roundtable9rpt.pdf' | relative_url }}[*Roundtable IX*] (May 9-11 2 2007). +
 Hosted by Boeing in Seattle, Washington.
 
-link:{{'/pubdocs/roundtable8rpt.pdf' | relative_url }}[*Roundtable VIII*] (January 31 -
+link:{{'/publications/roundtable8rpt.pdf' | relative_url }}[*Roundtable VIII*] (January 31 -
 February 2 2007). +
 Hosted by Novell in Provo, Utah.
 
-link:{{'/pubdocs/roundtable7rpt.pdf' | relative_url }}[*Roundtable VII*] (September 27-29
+link:{{'/publications/roundtable7rpt.pdf' | relative_url }}[*Roundtable VII*] (September 27-29
 2006). +
 Hosted by Apple in Cupertino, California.
 
-link:{{'/pubdocs/roundtable6rpt.pdf' | relative_url }}[*Roundtable VI*] (May 22-23 2006). +
+link:{{'/publications/roundtable6rpt.pdf' | relative_url }}[*Roundtable VI*] (May 22-23 2006). +
 Hosted by IBM/Lotus in Cambridge, Massachusetts.
 
-link:{{'/pubdocs/roundtable5rpt.pdf' | relative_url }}[*Roundtable V*] (January 9-12 2006). +
+link:{{'/publications/roundtable5rpt.pdf' | relative_url }}[*Roundtable V*] (January 9-12 2006). +
 Hosted by Novell in Provo, Utah. This was the first event at which the
 IOP test event was held prior to the Roundtable, rather than
 concurrently with it.
 
-link:{{'/pubdocs/roundtable4rpt.pdf' | relative_url }}[*Roundtable IV*] (September 13-15
+link:{{'/publications/roundtable4rpt.pdf' | relative_url }}[*Roundtable IV*] (September 13-15
 2005). +
 Hosted by the Open Source Applications Foundation in San Francisco,
 California.
 
-link:{{'/pubdocs/roundtable3rpt.pdf' | relative_url }}[*Roundtable III*] (June 1-3 2005). +
+link:{{'/publications/roundtable3rpt.pdf' | relative_url }}[*Roundtable III*] (June 1-3 2005). +
 Hosted by Duke University in Durham, North Carolina.
 
-link:{{'/pubdocs/roundtable2rpt.pdf' | relative_url }}[*Roundtable II*] (January 11-13
+link:{{'/publications/roundtable2rpt.pdf' | relative_url }}[*Roundtable II*] (January 11-13
 2005). +
 Hosted by The University of Washington in Seattle, Washington. This was
 the first member meeting of the Consortium.
 
-link:{{'/pubdocs/roundtable1rpt.pdf' | relative_url }}[*Roundtable I*] (September 23-24
+link:{{'/publications/roundtable1rpt.pdf' | relative_url }}[*Roundtable I*] (September 23-24
 2004). +
 Hosted by Oracle Corporation in Montreal, Canada. This was the
 invitation-only meeting held during the formation of the Consortium and
@@ -209,87 +209,87 @@ called the Interoperability Test Event or Interop.
 *Jun 04-06, 2018*: Hosted by Jorte in Tokyo, Japan, as part of
 CalConnect XLII. +
 Please refer to
-link:{{'/pubdocs/ioptestevent42rpt.pdf' | relative_url }}[June
+link:{{'/publications/ioptestevent42rpt.pdf' | relative_url }}[June
 2018 CalConnect Test Event / Developers Forum Report].
 
 *Jan 29-31, 2018*: Hosted by Oath in Sunnyvale, California, as part of
 CalConnect XLI. +
 Please refer to
-link:{{'/pubdocs/ioptestevent41rpt.pdf' | relative_url }}[January 2018
+link:{{'/publications/ioptestevent41rpt.pdf' | relative_url }}[January 2018
 CalConnect Test Event / Developers Forum Report].
 
 *Sep 25-27, 2017*: Hosted by Open-Xchange in Cologne, Germany as part of
 CalConnect XL. +
 Please refer to
-link:{{'/pubdocs/ioptestevent40rpt.pdf' | relative_url }}[September 2017
+link:{{'/publications/ioptestevent40rpt.pdf' | relative_url }}[September 2017
 CalConnect Test Event / Developers Forum Report].
 
 *Jun 12-14, 2017*: Hosted by Tandem in Seattle, Washington as part of
 CalConnect XXXIX. +
 Please refer to
-link:{{'/pubdocs/ioptestevent39rpt.pdf' | relative_url }}[June 2017
+link:{{'/publications/ioptestevent39rpt.pdf' | relative_url }}[June 2017
 CalConnect Test Event / Developers Forum Report].
 
 *Feb 13-15, 2017*: Hosted by the University of California, Irvine as
 part of CalConnect XXXVIII. +
-Please refer to link:{{'/pubdocs/ioptestevent38rpt.pdf' | relative_url }}[February 2017
+Please refer to link:{{'/publications/ioptestevent38rpt.pdf' | relative_url }}[February 2017
 CalConnect Test Event / Developers Forum Report].
 
 *Sep 12-14, 2016*: Hosted by dmfs as part of CalConnect XXXVII. +
-Please refer to link:{{'/pubdocs/ioptestevent37rpt.pdf' | relative_url }}[September 2016
+Please refer to link:{{'/publications/ioptestevent37rpt.pdf' | relative_url }}[September 2016
 CalConnect Test Event / Developers Forum Report].
 
 *Apr 18-19, 2016*: Hosted by Ribose and OGCIO as part of CalConnect
 XXXVI. +
-Please refer to link:{{'/pubdocs/ioptestevent36rpt.pdf' | relative_url }}[April 2016
+Please refer to link:{{'/publications/ioptestevent36rpt.pdf' | relative_url }}[April 2016
 CalConnect Interoperability Test Event Report].
 
 *Jan 11-13, 2016*: Hosted by AOL as part of CalConnect XXXV. +
-Please refer to link:{{'/pubdocs/ioptestevent35rpt.pdf' | relative_url }}[January 2016
+Please refer to link:{{'/publications/ioptestevent35rpt.pdf' | relative_url }}[January 2016
 CalConnect Interoperability Test Event Report].
 
 *Sep 28-30, 2015*: Hosted by Gershon Janssen as part of CalConnect
 XXXIV. +
-Please refer to link:{{'/pubdocs/ioptestevent34rpt.pdf' | relative_url }}[September 2015
+Please refer to link:{{'/publications/ioptestevent34rpt.pdf' | relative_url }}[September 2015
 CalConnect Interoperability Test Event Report].
 
 *May 18-20, 2015*: Hosted by 1&1 as part of CalConnect XXXIII. +
-Please refer to link:{{'/pubdocs/ioptestevent33rpt.pdf' | relative_url }}[May 2015 CalConnect
+Please refer to link:{{'/publications/ioptestevent33rpt.pdf' | relative_url }}[May 2015 CalConnect
 Interoperability Test Event Report].
 
 *January 26-28, 2015*: Hosted by Kerio Technologies as part of
 CalConnect XXXII. +
-Please refer to link:{{'/pubdocs/ioptestevent32rpt.pdf' | relative_url }}[January 2015
+Please refer to link:{{'/publications/ioptestevent32rpt.pdf' | relative_url }}[January 2015
 CalConnect Interoperability Test Event Report].
 
 *September 29 - October 1, 2014*: Hosted by Youcanbook.me in conjunction
 with CalConnect Conference XXXI. +
-Please refer to link:{{'/pubdocs/ioptestevent31rpt.pdf' | relative_url }}[September 2014
+Please refer to link:{{'/publications/ioptestevent31rpt.pdf' | relative_url }}[September 2014
 CalConnect Interoperability Test Event Report].
 
 *May 19-21, 2014*: Hosted by AOL in conjunction with CalConnect
 Conference XXX. +
-Please refer to link:{{'/pubdocs/ioptestevent30rpt.pdf' | relative_url }}[May 2014 CalConnect
+Please refer to link:{{'/publications/ioptestevent30rpt.pdf' | relative_url }}[May 2014 CalConnect
 Interoperability Test Event Report].
 
 *February 3-5, 2014*: Hosted by Mozilla in conjunction with Roundtable
 XXIX. +
-Please refer to link:{{'/pubdocs/ioptestevent29rpt.pdf' | relative_url }}[February 2014
+Please refer to link:{{'/publications/ioptestevent29rpt.pdf' | relative_url }}[February 2014
 CalConnect Interoperability Test Event Report].
 
 *September 23-25, 2013*: Hosted by DHL in conjunction with Roundtable
 XXVIII. +
-Please refer to link:{{'/pubdocs/ioptestevent28rpt.pdf' | relative_url }}[September 2013
+Please refer to link:{{'/publications/ioptestevent28rpt.pdf' | relative_url }}[September 2013
 CalConnect Interoperability Test Event Report].
 
 *June 3-5, 2013*: Hosted by the University of Wisconsin in conjunction
 with Roundtable XXVII. +
-Please refer to link:{{'/pubdocs/ioptestevent27rpt.pdf' | relative_url }}[June 2013 CalConnect
+Please refer to link:{{'/publications/ioptestevent27rpt.pdf' | relative_url }}[June 2013 CalConnect
 Interoperability Test Event Report].
 
 *January 28-30, 2013*: Hosted by Oracle in conjunction with Roundtable
 XXVI. +
-Please refer to link:{{'/pubdocs/ioptestevent26rpt.pdf' | relative_url }}[January 2013
+Please refer to link:{{'/publications/ioptestevent26rpt.pdf' | relative_url }}[January 2013
 CalConnect Interoperability Test Event Report].
 
 *Please Note*: In 2011 and 2012 CalConnect did not produce separate
@@ -300,130 +300,130 @@ longer published.
 *October 4-6, 2010*: Hosted by IBM/Lotus in conjunction with Roundtable
 XIX. +
 Please refer to
-link:{{'/pubdocs/CD1014%20October%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[October
+link:{{'/publications/CD1014%20October%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[October
 2010 CalConnect Interoperability Test Event Report].
 
 *May 24-26, 2010*: TC MOBILE Interoperability Test Event Report. +
 Please refer to
-link:{{'/pubdocs/CD1010%20TC%20MOBILE%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[TC
+link:{{'/publications/CD1010%20TC%20MOBILE%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[TC
 MOBILE Interoperability Test Event Report].
 
 *May 24-26, 2010*: Hosted by Carnegie Mellon University in conjunction
 with Roundtable XVIII. +
 Please refer to
-link:{{'/pubdocs/CD1009%20May%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[May
+link:{{'/publications/CD1009%20May%202010%20CalConnect%20Interoperability%20Test%20Event%20Report.pdf' | relative_url }}[May
 2010 CalConnect Interoperability Test Event Report].
 
 *February 1-3, 2010*: Hosted by UC Irvine in conjunction with Roundtable
 XVII. +
 Please refer to
-link:{{'/pubdocs/CD1002%20February%202010%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[February
+link:{{'/publications/CD1002%20February%202010%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[February
 2010 CalConnect Interoperability Test Report].
 
 *October 5-7, 2009*: Hosted by Apple in conjunction with Roundtable
 XVI. +
 Please refer to
-link:{{'/pubdocs/CD0911%20October%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[October
+link:{{'/publications/CD0911%20October%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[October
 2009 CalConnect Interoperability Test Report].
 
 *June 1-3, 2009*: Hosted by Oracle in conjunction with Roundtable XV. +
 Please refer to
-link:{{'/pubdocs/CD0909%20June%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[June
+link:{{'/publications/CD0909%20June%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[June
 2009 CalConnect Interoperability Test Report].
 
 *February 2-4, 2009*: Hosted by Microsoft in conjunction with Roundtable
 XIV. +
 Please refer to
-link:{{'/pubdocs/CD0902%20February%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0902%20February%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report February 2009].
 
 *November 4-8, 2008*: Second Mobile Calendaring IOP Test Event, Hosted
 by Kerio Technologies in Plzen, Czech Republic. +
 Please refer to
-link:{{'/pubdocs/CD0808%20November%202008%20CalConnect%20Mobile%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0808%20November%202008%20CalConnect%20Mobile%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Mobile Calendaring Interoperability Test Report November 2008].
 
 *October 6-8, 2008*: Hosted by Yahoo!/Zimbra in conjunction with
 Roundtable XIII. +
 Please refer to
-link:{{'/pubdocs/CD0807%20October%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0807%20October%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report October 2008].
 
 *June 2-4, 2008*: Hosted by The University of Wisconsin–Madison in
 conjunction with Roundtable XII. +
 Please refer to
-link:{{'/pubdocs/CD0804%20June%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0804%20June%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report June 2008].
 
 *February 4-5, 2008*: Hosted by Sun Microsystems in conjunction with
 Roundtable XI. +
 Please refer to
-link:{{'/pubdocs/CD0802%20February%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0802%20February%202008%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report February 2008] and
-link:{{'/pubdocs/CD0803%20February%202008%20CalConnect%20Mobile%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0803%20February%202008%20CalConnect%20Mobile%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 MOBILE Interoperability Test Report February 2008].
 
 *September 17-19, 2007*: Hosted by the Massachusetts Institute of
 Technology in conjunction with Roundtable X. +
-link:{{'/pubdocs/CD0710%20September%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0710%20September%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report September 2007].
 
 *May 7-9, 2007*: Hosted by Boeing in conjunction with Roundtable IX. +
 Please refer to
-link:{{'/pubdocs/CD0704%20May%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0704%20May%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report May 2007].
 
 *January 29-31, 2007*: Hosted by Novell in conjunction with Roundtable
 VIII. +
-link:{{'/pubdocs/CD0702%20January%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0702%20January%202007%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report January 2007].
 
 *September 26-27, 2006*: Hosted by Apple Computer in conjunction with
 Roundtable VII. +
 Please refer to
-link:{{'/pubdocs/CD0612%20September%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0612%20September%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report Sep 2006].
 
 *May 22-23 2006*: Hosted by IBM/Lotus in conjunction with Roundtable
 VI. +
 Please refer to
-link:{{'/pubdocs/CD0607%20May%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
+link:{{'/publications/CD0607%20May%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[CalConnect
 Interoperability Test Report May 2006].
 
 *January 9-10 2006*: Hosted by Novell, Inc. in conjunction with
 Roundtable V. +
 Please refer to
-link:{{'/pubdocs/CD0603%20January%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[January
+link:{{'/publications/CD0603%20January%202006%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[January
 2006 Interoperability Test Report].
 
 *September 13-14 2005*: Hosted by the Open Source Applications
 Foundation in conjunction with Roundtable IV. +
 Please refer to
-link:{{'/pubdocs/CD0506%20September%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[September
+link:{{'/publications/CD0506%20September%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[September
 2005 Interoperability Test Report]
 
 *June 1-2 2005*: Hosted by Duke University in conjunction with
 Roundtable III. +
 Please refer to
-link:{{'/pubdocs/CD0503%20June%202005%20CalConnect%20Interoperability%20Test%20Scenarios.pdf' | relative_url }}[June
+link:{{'/publications/CD0503%20June%202005%20CalConnect%20Interoperability%20Test%20Scenarios.pdf' | relative_url }}[June
 2005 Interoperability Test Scenarios] and
-link:{{'/pubdocs/CD0504%20June%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[June
+link:{{'/publications/CD0504%20June%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[June
 2005 Interoperability Test Report].
 
 *January 11-12 2005*: Hosted by the University of Washington in
 conjunction with Roundtable II. +
 Please refer to
-link:{{'/pubdocs/CD0501%20January%202005%20CalConnect%20Interoperability%20Test%20Scenarios.pdf' | relative_url }}[January
+link:{{'/publications/CD0501%20January%202005%20CalConnect%20Interoperability%20Test%20Scenarios.pdf' | relative_url }}[January
 2005 Test Scenarios] and
-link:{{'/pubdocs/CD0502%20January%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[January
+link:{{'/publications/CD0502%20January%202005%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[January
 2005 Interoperability Test Report]
 
 *July 29-30 2004*: Hosted by the University of California at Berkeley. +
-link:{{'/pubdocs/CD0401%20July%202004%20CalConnect%20Interoperability%20Test%20Rules%20and%20Test%20Scenarios.pdf' | relative_url }}[July
+link:{{'/publications/CD0401%20July%202004%20CalConnect%20Interoperability%20Test%20Rules%20and%20Test%20Scenarios.pdf' | relative_url }}[July
 2004 Rules and Test Scenarios],
-link:{{'/pubdocs/CD0402%20July%202004%20CalConnect%20Interoperability%20Test%20Results%20Spreadsheet.pdf' | relative_url }}[July
+link:{{'/publications/CD0402%20July%202004%20CalConnect%20Interoperability%20Test%20Results%20Spreadsheet.pdf' | relative_url }}[July
 2004 Spreadsheet], and
-link:{{'/pubdocs/CD0403%20July%202004%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[July
+link:{{'/publications/CD0403%20July%202004%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[July
 2004 Interoperability Test Report].
 
 == CALSCH Interoperability Testing

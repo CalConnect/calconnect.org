@@ -13,4 +13,4 @@ IETF has published http://www.rfc-editor.org/rfc/rfc4791.txt,
 Calendaring Extensions to WebDAV (CalDAV). The Consortium has issued a
 press release concerning the significance of CalDAV and its relationship
 to the Consortium at
-link:{{'/docs/070320calconnectcaldavrelease.pdf' | relative_url }}[CalConnect CalDAV Release].
+link:{{'/docs/press-releases/070320calconnectcaldavrelease.pdf' | relative_url }}[CalConnect CalDAV Release].
