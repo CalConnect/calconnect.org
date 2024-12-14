@@ -3,9 +3,7 @@
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
   {% if page.collection == 'posts' %}
   {% comment %} News post-specific logic {% endcomment %}
-  {% assign news_link = '/news/' + page.categories.first | downcase | replace: ' ', '-' %}
   / <a href="{{news_link | relative_url}}">News</a>
-  / <a href="{{news_link | relative_url}}">{{ page.categories.first }}</a>
   / {{ page.title }}
   {% else %}
   {% for crumb in crumbs offset: 1 %}
