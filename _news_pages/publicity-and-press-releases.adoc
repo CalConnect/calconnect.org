@@ -1,18 +1,18 @@
 ---
 layout: page
-title:  Publicity and Press Releases
+title: Publicity and Press Releases
 type: news
 ---
 :page-liquid:
 
 == Publicity and Press Releases
 
-
 ++++
-    {% assign press-releases = site.news_pages | where_exp: "page", "page.path contains '/publicity-and-press-releases/'" %}
-    {% for press-release in press-releases %}
-        <a href="{{ press-release.url | relative_url }}">
-            <h3>{{ press-release.title }}</h3>
-        </a>
-    {% endfor %}
+{% assign press-releases = site.news_pages | where_exp: "page", "page.path contains '/publicity-and-press-releases/'" %}
+
+{% for press-release in press-releases %}
+<a href="{{ press-release.url | relative_url }}">
+  <h3>{{ press-release.title }}</h3>
+</a>
+{% endfor %}
 ++++

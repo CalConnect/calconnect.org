@@ -12,4 +12,4 @@ permalink: '/news/publicity-and-press-releases/:title'
 CalConnect has implemented advisory and vendor information about the
 potential impact of the DST change and how to deal with it at
 link:{{'/dstdocs' | relative_url }}[DST recommendations]. The CalConnect press release is
-at link:{{'/docs/070208edstrecommendations.pdf' | relative_url }}[DST Guidance].
+at link:{{'/docs/press-releases/070208edstrecommendations.pdf' | relative_url }}[DST Guidance].

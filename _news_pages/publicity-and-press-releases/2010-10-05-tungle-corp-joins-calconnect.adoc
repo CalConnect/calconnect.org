@@ -10,5 +10,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 *October 5, 2010* +
 *Tungle Corp. Joins CalConnect*: The Calendaring and Scheduling
 Consortium has announced that Tungle Corporation has joined CalConnect:
-link:{{'/docs/20101005-tungle.doc' | relative_url }}[Tungle Joins The
+link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle Joins The
 Calendaring and Scheduling Consortium].

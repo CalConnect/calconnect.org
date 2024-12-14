@@ -12,20 +12,18 @@ presentations made at CalConnect events by other parties. Some but not
 all of these presentations may be formal CalConnect documents; those
 which are will have CalConnect Document (CD) numbers.
 
-* link:{{'/docs/CC32%20A%20History%20of%20CalConnect.pdf' | relative_url }}[An
-Anecdotal History of CalConnect] (January 28, 2015): +
+* link:{{'/docs/presentations/CC32%20A%20History%20of%20CalConnect.pdf' | relative_url }}[An Anecdotal History of CalConnect] (January 28, 2015): +
 Dave Thewlis Executive Director of CalConnect, gave this presentation as
 part of the CalConnect Tenth Anniversary Celebration at CalConnect
 XXXII.
 
-* link:{{'/docs/Kepler%20Mission%20Operations%20Scheduling.pdf' | relative_url }}[Kepler
-Mission Operations Scheduling] (May 25 2011): +
+* link:{{'/docs/presentations/Kepler%20Mission%20Operations%20Scheduling.pdf' | relative_url }}[Kepler Mission Operations Scheduling] (May 25 2011): +
 Charlie Sobeck, Kepler Deputy Project Manager, NASA Ames, gave this
 presentation to CalConnect Roundtable XXI, discussing the Kepler Mission
 with a focus on the scheduling and resource optimization issues involved
 in the mission.
 
-* link:{{'/docs/Calendaring%20in%20a%20Public%20University.pdf' | relative_url }}[Calendaring
+* link:{{'/docs/presentations/Calendaring%20in%20a%20Public%20University.pdf' | relative_url }}[Calendaring
 in a Public University] (February 9 2011): +
 Shel Waggener, Associate Vice Chancellor and Chief Information Officer
 of the University of California, Berkeley, gave this presentation to
@@ -33,14 +31,14 @@ CalConnect Roundtable XX, discussing the issues that face a public
 institution and the need for calendaring to become inclusive instead of
 exclusive.
 
-* link:{{'/docs/iCal4j_Calconnect.pdf' | relative_url }}[Ben
+* link:{{'/docs/presentations/iCal4j_Calconnect.pdf' | relative_url }}[Ben
 Fortuna's iCal4j Presentation at Roundtable XIV February 2009] (February
 4 2009): +
 Ben Fortuna was CalConnect's first Guest Speaker. He spoke on ical4j:
 its history, the reasons for embarking on it, issues encountered, and
 what he sees for the future of ical4j.
 
-* link:{{'/docs/CD0812%20Meet%20CalConnect%202008.zip' | relative_url }}[Presentations
+* link:{{'/publications/CD0812%20Meet%20CalConnect%202008.zip' | relative_url }}[Presentations
 from Meet CalConnect Event in Europe November 2008] (November 7 and 10,
 2008): +
 This zip file contains the following presentations from the Meet
@@ -60,19 +58,19 @@ perspective on CalConnect
 ** Meet CalConnect - Stockholm University - A member perspective on
 CalConnect
 
-* link:{{'/docs/CD0806%20CalConnect%20Technical%20Preview%20Roundtable%20XIII.pdf' | relative_url }}[Public
+* link:{{'/publications/CD0806%20CalConnect%20Technical%20Preview%20Roundtable%20XIII.pdf' | relative_url }}[Public
 CalConnect Technical Preview from Roundtable XIII] (October 8, 2008): +
 A presentation from CalConnect Roundtable XIII on the Technical Preview
 of seperate previews of CalDAV Scheduling, iSchedule, and Freebusy URL,
 involving multiple calendaring servers and clients.
 
-* link:{{'/docs/CD0801%20CalConnect%20Technical%20Preview%20Roundtable%20XI.pdf' | relative_url }}[Public
+* link:{{'/publications/CD0801%20CalConnect%20Technical%20Preview%20Roundtable%20XI.pdf' | relative_url }}[Public
 CalConnect Technical Preview from Roundtable XI] (February 6, 2008): +
 A presentation from CalConnect Roundtable XI on the Technical Preview of
 seperate previews of CalDAV Scheduling, Server-Server Scheduling, and
 Freebusy URL, involving multiple calendaring servers and clients.
 
-* link:{{'/docs/Danish%20Government%20eKalender.dk%20Presentation%20Roundtable%20XI.pdf' | relative_url }}[The
+* link:{{'/docs/presentations/Danish%20Government%20eKalender.dk%20Presentation%20Roundtable%20XI.pdf' | relative_url }}[The
 Danish Government eKalender.dk Project] (February 6, 2008): +
 A presentation from CalConnect Roundtable XI by representatives from the
 Danish IT & Telecoms Agenday and the Danish Ministry of the Environment
@@ -81,47 +79,40 @@ calendaring services to the public sector in Denmark. This presentation
 is ©2008 by the Danish IT & Telecoms Agency and the Kingdom of
 Denmark.
 
-* link:{{'/docs/Cabo%20Communications%20Presentation%20Roundtable%20XI.pdf' | relative_url }}[Ekalendar.dk
+* link:{{'/docs/presentations/Cabo%20Communications%20Presentation%20Roundtable%20XI.pdf' | relative_url }}[Ekalendar.dk
 from the Developer's Perspective] (February 6, 2008): +
 A presentation from CalConnect Roundtable XI by Cabo Communications, the
 primary contractor to the Danish Government on the eKalendar.dk Project.
 This presentation is ©2008 by Cabo Communications.
 
-* link:{{'/docs/CD0705%20CalConnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf' | relative_url }}[Calconnect&#44;
+* link:{{'/publications/CD0705%20CalConnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf' | relative_url }}[Calconnect&#44;
 Calendaring Interoperability and Calendaring Standards] (November 11,
 2007): +
 A recent presentation on CalConnect, Calendaring Standards, and
 CalConnect activities. A briefing for a potential member of the
 Consortium.
 
-* link:{{'/docs/CD0608%20The%20Open%20Group%20Federated%20Freebusy%20Challenge%20Demo.pdf' | relative_url }}[Federated
-Free/Busy Demo] (July 17, 2006): +
-Members of the Consortium succssfully demonstrated a proof-of-concept
-application which aggregated and displayed Free/Busy information for
-multiple individuals across seven different calendaring systems. The
-demo was conducted at The Open Group's meeting in Miami on Monday, July
-17th in response to The Open Group's Federated Freebusy Challenge. The
-joint press release from CalConnect and The Open Group is at
-link:{{'/docs/060724freebusydemorelease.pdf' | relative_url }}[Federated
-Freebusy Demo Press Release]. This presentation discussing the Freebusy
-challenge and how it was met was given at the demo in Miami. The
-aggregation technnology is based on the Bedework CalDAV implementation,
-and the intent of the Consortium is to make the freebusy aggregator, the
-connectors to non-CalDAV-based calendaring systems, and the web
-interface publicly available as open source.
+* link:{{'/docs/presentations/CD0608%20The%20Open%20Group%20Federated%20Freebusy%20Challenge%20Demo.pdf' | relative_url }}[Federated Freebusy Demo Presentation] (July 24, 2006): +
+In response to The Open Group's Federated Freebusy Challenge, a team at the Consortium applied aggregation technology based on the Bedework
+CalDAV implementation with an intent to make the
+freebusy aggregator, the connectors to non-CalDAV-based calendaring
+systems, and the web interface publicly available as open source.
+The corresponding press release is at
+link:{{'/news/2006-07-24-federated-freebusy-demo' | relative_url }}[Federated Freebusy Demo Press Release].
 
-* link:{{'/docs/CD0605%20OMA%20DS%20Briefing%20April%202006.pdf' | relative_url }}[OMA/DS
+* link:{{'/publications/CD0605%20OMA%20DS%20Briefing%20April%202006.pdf' | relative_url }}[OMA/DS
 Liaison Briefing] (April 5, 2006): +
 The briefing given to the Open Mobile Alliance/Data Synchronization
 working group as part of the establishment of a liaison between the two
 organizations.
 
-* link:{{'/docs/CD0508%20Overview%20of%20The%20Calendaring%20and%20Scheduling%20Consortium.pdf' | relative_url }}[CalConnect
+* link:{{'/publications/CD0508%20Overview%20of%20The%20Calendaring%20and%20Scheduling%20Consortium.pdf' | relative_url }}[CalConnect
 Overview] (October 2005): +
 The original overview presentation for The Calendaring and Scheduling
 Consortium developed at its inception and revised after Roundtable
 III.
 
-* link:{{'/docs/CD0509%20Educause%202005%20Overview%20of%20The%20Calendaring%20and%20Scheduling%20Consortium.pdf' | relative_url }}[Educause
+* link:{{'/publications/CD0509%20Educause%202005%20Overview%20of%20The%20Calendaring%20and%20Scheduling%20Consortium.pdf' | relative_url }}[Educause
 2005 Presentation] (October 2005): +
 A short overview of the Consortium presented at Educause 2005.
+

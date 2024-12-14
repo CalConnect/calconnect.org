@@ -12,5 +12,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 Scheduling Consortium (link:{{'/' | relative_url }}[www.CalConnect.org])
 has announced that the University of Pennsylvania has joined the
 membership:
-link:{{'/docs/071016Penn%20Joins%20CalConnect.doc' | relative_url }}[Penn
+link:{{'/docs/press-releases/071016Penn%20Joins%20CalConnect.doc' | relative_url }}[Penn
 Joins CalConnect.doc]

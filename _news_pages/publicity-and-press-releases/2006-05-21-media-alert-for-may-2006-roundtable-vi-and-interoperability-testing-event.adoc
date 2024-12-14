@@ -11,4 +11,4 @@ permalink: '/news/publicity-and-press-releases/:title'
 *Media Alert for May 2006 Roundtable VI and Interoperability Testing
 Event*: The media alert for the May 2006 Roundtable and IOP testing
 event was issued at the beginning of May:
-link:{{'/docs/0605mediaalert.doc' | relative_url }}[May 2006 Media Alert].
+link:{{'/docs/press-releases/0605mediaalert.doc' | relative_url }}[May 2006 Media Alert].

@@ -9,5 +9,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 
 *August 6, 2012* +
 *CalConnect Announces New Diverse Technical Leadership*:
-link:{{'/docs/20120806%20Steering%20Committee.pdf' | relative_url }}[20120806
+link:{{'/docs/press-releases/20120806%20Steering%20Committee.pdf' | relative_url }}[20120806
 Steering Committee.pdf].

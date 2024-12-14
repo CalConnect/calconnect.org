@@ -10,5 +10,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 *August 18, 2011* +
 *CalConnect will hold its First European Interoperability Test Event and
 Conference in Prague*:
-link:{{'/docs/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect
+link:{{'/docs/press-releases/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect
 Prague Release.pdf].

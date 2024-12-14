@@ -63,10 +63,10 @@ iCalendar/iMIP/iTIP testing +
 CalDAV, including implicit scheduling +
 CardDAV +
 CalDAV/CardDAV SRV discovery and well-known URI +
-link:{{'/docs/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Freebusy Read URL] protocol +
+link:{{'/publications/CD0903%20Freebusy%20Read%20URL.pdf' | relative_url}}[Freebusy Read URL] protocol +
 The new https://datatracker.ietf.org/doc/draft-douglass-timezone-service/[Timezone Service Protocol] +
 http://tools.ietf.org/html/rfc6321[xCal, the XML format for iCalendar] +
-CalWS, the link:{{'/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url}}[Web Services protocol for calendaring]** +
+CalWS, the link:{{'/publications/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf' | relative_url}}[Web Services protocol for calendaring]** +
 Mobile CalDAV client/server testing +
 If there is interest, synchronization testing for mobile clients in general
 

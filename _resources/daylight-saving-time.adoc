@@ -66,7 +66,7 @@ governments to prepare for the impact.
 
 === CalConnect EDST reflections and recommendations
 
-Details: link:{{'/pubdocs/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url }}[CalConnect EDST Reflections and Recommendations]
+Details: link:{{'/publications/CD0707%20CalConnect%20EDST%20Reflections%20and%20Recommendations.pdf' | relative_url }}[CalConnect EDST Reflections and Recommendations]
 
 This document, prepared by the CalConnect DST Ad Hoc Committee, reflects on the
 impact of the Extended Daylight Savings Time change to the start of DST in the
@@ -103,7 +103,7 @@ Please send references and URLs to:
 
 === Extended daylight saving time advisory notice
 
-Details: link:{{'/pubdocs/CD0514%20DST%20Advisory%20Notice.pdf' | relative_url }}[Extended Daylight Saving Time Advisory Notice]
+Details: link:{{'/publications/CD0514%20DST%20Advisory%20Notice.pdf' | relative_url }}[Extended Daylight Saving Time Advisory Notice]
 
 This document, developed just prior to the signing of the Energy Policy Act into
 law, was an advisory intended to explain the impact of the Act's proposed

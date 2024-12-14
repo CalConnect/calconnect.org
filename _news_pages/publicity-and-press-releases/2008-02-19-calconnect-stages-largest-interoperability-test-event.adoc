@@ -14,5 +14,5 @@ and Scheduling Consortium
 recent CalConnect Interoperability Test Event, February 4-5, 2008, was
 its largest IOP test event ever, and incorporated the first ever
 CalConnect Mobile Calendaring Interoperabilty Test Event:
-link:{{'/docs/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc' | relative_url }}[CalConnect
+link:{{'/docs/press-releases/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc' | relative_url }}[CalConnect
 Stages Largest Interoperabiity Test Event].

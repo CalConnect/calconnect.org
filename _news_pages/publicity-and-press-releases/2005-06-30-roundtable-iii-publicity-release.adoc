@@ -10,4 +10,4 @@ permalink: '/news/publicity-and-press-releases/:title'
 *June 30, 2005* +
 *Roundtable III Publicity Release*: The publicity release issued by the
 Consortium following Roundtable III at Duke University, 1-3 June, 2005:
-link:{{'/docs/050630roundtableinterop3.pdf' | relative_url }}[Roundtable/CalConnect Interoperability Event Publicity Release].
+link:{{'/docs/press-releases/050630roundtableinterop3.pdf' | relative_url }}[Roundtable/CalConnect Interoperability Event Publicity Release].

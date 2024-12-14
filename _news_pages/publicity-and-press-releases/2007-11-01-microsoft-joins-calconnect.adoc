@@ -12,5 +12,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 (link:{{'/' | relative_url }}[www.CalConnect.org]) has announced that
 Microsoft has joined the membership, bringing the total number of
 participating organizations to 39:
-link:{{'/docs/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft
+link:{{'/docs/press-releases/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft
 Joins CalConnect.doc]

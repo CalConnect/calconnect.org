@@ -14,5 +14,5 @@ The Calendaring and Scheduling Consortium
 Princeton University, Scalix Corporation, Sun Microsystems, Synchronica
 Plc, and Zimbra, Inc. have joined the membership, bringing the young
 organization to 35 companies, universities, and research facilities:
-link:{{'/docs/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May
+link:{{'/docs/press-releases/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May
 Release].

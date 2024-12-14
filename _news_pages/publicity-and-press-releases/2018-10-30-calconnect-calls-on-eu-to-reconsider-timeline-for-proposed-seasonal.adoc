@@ -12,5 +12,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 time changes:*
 link:{{'/news/2018-10-30-calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes].
 The full text of the Advisory Notice is available at
-link:{{'/docs/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[Advisory
+link:{{'/docs/press-releases/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[Advisory
 Notice].

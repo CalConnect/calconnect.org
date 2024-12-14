@@ -21,8 +21,8 @@ As a follow-on for TC-XML, we have identified a need to codify a complete, gener
 Work Products:
 
 http://tools.ietf.org/html/rfc6321[xCal: The XML Format for iCalendar (RFC 6321)] +
-link:{{'/docs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.1.pdf' | relative_url}}[CalWS-Rest Restful Web Services Protocol for Calendaring] +
-link:{{'/docs/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf' | relative_url}}[CalWS-SOAP SOAP Web Services Protocol for Calendar] +
+link:{{'/publications/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.1.pdf' | relative_url}}[CalWS-Rest Restful Web Services Protocol for Calendaring] +
+link:{{'/publications/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf' | relative_url}}[CalWS-SOAP SOAP Web Services Protocol for Calendar] +
 https://datatracker.ietf.org/doc/draft-ietf-jcardcal-jcal[jCal: The JSON Format for iCalendar (IETF Draft)]
 
 

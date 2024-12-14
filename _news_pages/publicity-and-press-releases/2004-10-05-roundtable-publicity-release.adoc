@@ -12,5 +12,5 @@ permalink: '/news/publicity-and-press-releases/:title'
 Consortium following the 23-24 September 2004 Roundtable on the Future
 of Interoperable Calendaring and Scheduling sponsored by the Consortium
 and hosted by Oracle.
-link:{{'/docs/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity
+link:{{'/docs/press-releases/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity
 Release].

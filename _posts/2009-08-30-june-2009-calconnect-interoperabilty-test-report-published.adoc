@@ -12,7 +12,7 @@ excerpt: The IOPTEST Technical Committee has published the public report from th
 
 Posted August 30, 2009 
 
-The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in June 2009. See link:{{'/docs/CD0909%20June%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url}}[June 2009 CalConnect Interoperabilty Test Report].
+The IOPTEST Technical Committee has published the public report from the CalConnect Interoperability Test Event in June 2009. See link:{{'/publications/CD0909%20June%202009%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url}}[June 2009 CalConnect Interoperabilty Test Report].
 
 
 
