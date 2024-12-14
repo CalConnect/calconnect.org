@@ -1,0 +1,1121 @@
+
+
+
+Network Working Group                                           C. Daboo
+Internet-Draft                                                     Apple
+Intended status: Standards Track                             M. Douglass
+Expires: July 26, 2009                                               RPI
+                                                        January 22, 2009
+
+
+                           Timezones Service
+                  draft-douglass-timezones-service-00
+
+Status of this Memo
+
+   By submitting this Internet-Draft, each author represents that any
+   applicable patent or other IPR claims of which he or she is aware
+   have been or will be disclosed, and any of which he or she becomes
+   aware will be disclosed, in accordance with Section 6 of BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF), its areas, and its working groups.  Note that
+   other groups may also distribute working documents as Internet-
+   Drafts.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   The list of current Internet-Drafts can be accessed at
+   http://www.ietf.org/ietf/1id-abstracts.txt.
+
+   The list of Internet-Draft Shadow Directories can be accessed at
+   http://www.ietf.org/shadow.html.
+
+   This Internet-Draft will expire on July 26, 2009.
+
+Abstract
+
+   This document defines a timezone service used for the delivery of
+   timezone information for use by calendaring sytems, operating systems
+   and so on.
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 1]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+Table of Contents
+
+   1.  Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  3
+     1.1.  XML Namespaces . . . . . . . . . . . . . . . . . . . . . .  3
+     1.2.  Conventions Used in This Document  . . . . . . . . . . . .  3
+       1.2.1.  Glossary of terms  . . . . . . . . . . . . . . . . . .  3
+   2.  Architectural Overview . . . . . . . . . . . . . . . . . . . .  4
+   3.  Timezone Specification Implications  . . . . . . . . . . . . .  4
+   4.  Timezones Service  . . . . . . . . . . . . . . . . . . . . . .  5
+     4.1.  Discovery  . . . . . . . . . . . . . . . . . . . . . . . .  5
+     4.2.  Server Requirements  . . . . . . . . . . . . . . . . . . .  5
+     4.3.  Server XML Data Format . . . . . . . . . . . . . . . . . .  5
+     4.4.  Zoneinfo XML Data Format . . . . . . . . . . . . . . . . .  7
+     4.5.  Server Refresh . . . . . . . . . . . . . . . . . . . . . .  8
+     4.6.  Server Protocol  . . . . . . . . . . . . . . . . . . . . .  9
+       4.6.1.  Request Parameters . . . . . . . . . . . . . . . . . .  9
+       4.6.2.  Get author names . . . . . . . . . . . . . . . . . . . 10
+       4.6.3.  Get timezone identifiers . . . . . . . . . . . . . . . 10
+       4.6.4.  Get timezones  . . . . . . . . . . . . . . . . . . . . 11
+     4.7.  Example: Get author names  . . . . . . . . . . . . . . . . 12
+     4.8.  Example: Get preferred author  . . . . . . . . . . . . . . 13
+     4.9.  Example: Get timezone identifiers  . . . . . . . . . . . . 14
+   5.  IANA Considerations  . . . . . . . . . . . . . . . . . . . . . 14
+     5.1.  Timezone Service Name  . . . . . . . . . . . . . . . . . . 14
+   6.  Server XML Data Format Definition  . . . . . . . . . . . . . . 14
+     6.1.  TZ:timezones XML element . . . . . . . . . . . . . . . . . 14
+     6.2.  TZ:version XML element . . . . . . . . . . . . . . . . . . 15
+     6.3.  calscale XML element . . . . . . . . . . . . . . . . . . . 15
+     6.4.  timezone XML element . . . . . . . . . . . . . . . . . . . 15
+     6.5.  alias XML element  . . . . . . . . . . . . . . . . . . . . 15
+     6.6.  observance XML element . . . . . . . . . . . . . . . . . . 15
+     6.7.  observance-name XML element  . . . . . . . . . . . . . . . 15
+     6.8.  tzoffset XML element . . . . . . . . . . . . . . . . . . . 16
+     6.9.  alias XML element  . . . . . . . . . . . . . . . . . . . . 16
+     6.10. rule XML element . . . . . . . . . . . . . . . . . . . . . 16
+     6.11. year XML element . . . . . . . . . . . . . . . . . . . . . 16
+     6.12. gteq XML element . . . . . . . . . . . . . . . . . . . . . 17
+     6.13. lteq XML element . . . . . . . . . . . . . . . . . . . . . 17
+     6.14. gt XML element . . . . . . . . . . . . . . . . . . . . . . 17
+     6.15. lt XML element . . . . . . . . . . . . . . . . . . . . . . 17
+     6.16. eq XML element . . . . . . . . . . . . . . . . . . . . . . 17
+   7.  Security Considerations  . . . . . . . . . . . . . . . . . . . 17
+   8.  Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . 17
+   9.  Normative References . . . . . . . . . . . . . . . . . . . . . 18
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . . 18
+   Intellectual Property and Copyright Statements . . . . . . . . . . 20
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 2]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+1.  Introduction
+
+   The lack of a standardized timezone registry and service has led to a
+   number of significant problems for vendors and users alike, for
+   example, the daylight savings time changes for the US in 2007.
+
+   Two timezone registries are defined elsewhere (refs) which together,
+   provide the information needed by the timezone service defined in
+   this document.
+
+1.1.  XML Namespaces
+
+   Definitions of XML elements in this document use XML element type
+   declarations (as found in XML Document Type Declarations), described
+   in Section 3.2 of [W3C.REC-xml-20060816].
+
+   The namespace "urn:ietf:params:xml:ns:timezones" is reserved for the
+   XML elements defined in this specification, or in other Standards
+   Track IETF RFCs written to extend timezones.  It MUST NOT be used for
+   proprietary extensions.
+
+   Note that the XML declarations used in this document are incomplete,
+   in that they do not include namespace information.  Thus, the reader
+   MUST NOT use these declarations as the only way to validate timezones
+   XML element types.
+
+1.2.  Conventions Used in This Document
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   [RFC2119].
+
+1.2.1.  Glossary of terms
+
+   The following terms with the given meanings are used throughout this
+   document.
+
+   Application:  Software which usually interacts with or provides
+      servies for users and which calls (possibly indirectly) the client
+      api for timezone information;
+
+   Author:  A registered organization of some kind which creates
+      timezone information, e.g.  Olson;
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 3]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   Client:  Software which interacts with a timezone service;
+
+   Local Server:  A service (probably using http) which provides
+      timezone data to clients.  This may be combined with the Root
+      Server;
+
+   Provider:  A registered organization which makes timezone information
+      produced by an Author available;
+
+   Registry:  A file maintained by IANA;
+
+   Root Server:  A service (probably using http) which provides timezone
+      data to Local Servers;
+
+   Timezone Identifier:  A name which identifies the timezone.  The
+      format and meaning is unchanged from the definition in section
+      3.8.3.1 [RFC2445].  See below for further clarification of the use
+      of the timezone identifier.
+
+
+2.  Architectural Overview
+
+   The applications view of the timezones service is the client api used
+   by developers to interact with timezone service.  This api may in
+   fact lie under a particular frameworks implementation of time and
+   date code.
+
+   The client api implementation interacts with the timezone service,
+   possibly using discovery to determine the location of an appropriate
+   timezone server, using http GET to retrieve all or some timezones and
+   probably caching those results for reuse by applications.
+
+   Timezone servers offer an http based service providing the retrieval
+   of timezone information for a given named timezone, or all timezones
+   possibly for a named author.
+
+   These in turn retrieve xml definitions of timezones from the root
+   servers identified in the timezone provider registry.  They use the
+   same protocol for refresh as the client api implementation.
+
+   Root servers use the author registry to locate the original source of
+   the tiemzone information.  This may be a manual process, for example
+   download a file periodically and update a database.
+
+
+3.  Timezone Specification Implications
+
+   The timezone service no implications for the current timezone
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 4]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   specification as defined in [RFC2445] beyond those stated in the
+   author registry specification (ref).
+
+
+4.  Timezones Service
+
+   The timezone service consists of one or more tiers of servers which
+   allow the retrieval of timezone information using http GET.  A common
+   protocol is used throughout and the tiers may be collapsed into a
+   single large clustered server or expanded to multiple layers to
+   reduce traffic at the root.
+
+4.1.  Discovery
+
+   Client implementations need to either know where the timezone service
+   is located or discover it through some mechanism.  Using discovery,
+   given a domain, we will use SRV records to locate a timezone server
+   based on a standard service name as defined in Section 5.1
+
+   Organizations can provide local servers if they wish.  Those local
+   servers will cache and periodically refresh data from the root
+   servers.  A requirement for local servers, given the use of SRV
+   records for discovery, is that they be at the root context, possibly
+   defined as a virtual host.  The client api implementation MUST
+   support redirects so the SRV entry may direct the client to a server
+   which will redirect to the actual local server.
+
+   Alternatively a client implementation may choose to build in a url so
+   no further discovery is required.  Redirects MUST be supported by the
+   client implementation so the targetted server could redirect to some
+   other server.
+
+4.2.  Server Requirements
+
+   All servers MUST deliver timezone information for any author.  This
+   means that any client api implementation can go to any server to get
+   all timezone information.  In turn, any server can refresh any of the
+   data from any other server - though the root servers may provide the
+   most up-to-date copy of the data.
+
+   All servers MUST support all of the protocol defined below.
+
+4.3.  Server XML Data Format
+
+   The timezone information will be stored and can be delivered as an
+   xml representation which is intended to be capable of expressing all
+   known timezone rules currently in use and allowing the possibility of
+   extension.
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 5]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   Transitions are not restricted to daylight or standard, allowing more
+   complex timezone information to be represented.These rules are a
+   restated and simplified form of the standard [RFC2445] recurrence
+   rules: all frequencies are yearly, some parts are invalid (e.g.
+   BYSETPOS) and recurrence rules need not handle seconds or
+   microseconds.
+
+   Each part of the rule defines one or more conditions on a date
+   segment.  Where possible rules with inequalities are used to define
+   future transitions.  Rules with parts containing only equalities
+   define fixed dates, in the same way RDATE specifies a fixed date in
+   recurrence rules.
+
+   A rule part may contain conditions in certain fixed combinations as
+   defined by the dtd fragments in Section 6.  Observances defined using
+   inequalities SHOULD specify the starting year and the inclusive
+   ending year for that observance.  This allows for faster calculation
+   of observance onsets.
+
+   The xml format is not intended for delivery to applications but only
+   for use by the timezone services which will convert the xml to the
+   appropriate form for delivery.  These formats will include VTIMEZONE,
+   a zoneinfo like format defined in this specification and any agreed
+   upon xml formats.
+
+   The following is a truncated example of a timezone definition in the
+   server xml format.  Only a single observance is shown.
+
+         <?xml version="1.0" encoding="UTF-8" ?>
+
+         <timezones xmlns="urn:ietf:params:xml:ns:timezones">
+           <version>1.0<version>
+           <timezone>
+             <tzid>America/New_York</tzid>
+             <calscale>Gregorian</calscale>
+
+             <observance>
+               <observance-name>daylight</observance-name>
+               <tzoffset>-0400</tzoffset>
+
+               <tzname>EDT</tzname>
+
+               <rule>
+                 <year>
+                   <gteq>2007</gteq>
+                 </year>
+                 <month>
+                   <eq>3</eq>
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 6]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+                 </month>
+                 <day-of-week>
+                   <eq>Sunday</eq>
+                 </day-of-week>
+                 <day-of-month>
+                   <gteq>8</gteq>
+                 </day-of-month>
+                 <day-of-month>
+                   <lteq>14</lteq>
+                 </day-of-month>
+                 <hour>
+                   <eq>7</eq>
+                 </hour>
+                 <minute>
+                   <eq>0</eq>
+                 </minute>
+               </rule>
+
+               <rule>
+               ...
+               </rule>
+               ...
+             </observance>
+
+             <observance>
+               ...
+             </observance>
+             ...
+           </timezone>
+         </timezones>
+
+
+4.4.  Zoneinfo XML Data Format
+
+   This data format provides a list of transition times allowing easier
+   calculation of local times.  The supplied dates are all in UTC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 7]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   The following is an truncated example of a timezone definition in the
+   zoneinfo format.
+
+         <?xml version="1.0" encoding="UTF-8" ?>
+
+         <timezones xmlns="urn:ietf:params:xml:ns:timezones">
+           <version>1.0<version>
+           <timezone>
+             <tzid>America/New_York</tzid>
+             <calscale>Gregorian</calscale>
+
+             <onset>
+               <observance-name>daylight</observance-name>
+               <tzname>EDT</tzname>
+               <date>20080309T070000Z</date>
+               <tzoffset>-0400</tzoffset>
+             </onset>
+
+             <onset>
+               <observance-name>standard</observance-name>
+               <tzname>EDT</tzname>
+               <date>20081102T070000Z</date>
+               <tzoffset>-0500</tzoffset>
+             </onset>
+
+             <onset>
+               <observance-name>daylight</observance-name>
+               <tzname>EDT</tzname>
+               <date>20090308T070000Z</date>
+               <tzoffset>-0400</tzoffset>
+             </onset>
+
+             ...
+           </timezone>
+         </timezones>
+
+
+4.5.  Server Refresh
+
+   When servers believe they need to refresh they can fetch the provider
+   registry information (if they don't already have it) and, for each
+   provider in the registry, use the supplied url to fetch the full set
+   of data using the "format=service" parameter.
+
+   Timezone information is slow moving so a daily refresh should be more
+   than sufficient.  During a transition, when timezone information has
+   changed, it is possible clients and applications will receive data
+   from systems that are ahead of them in the update cycle.
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 8]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   The timezone service should not attempt to use this data to force a
+   refresh of servers as invalid data is indistinguishable from data
+   that is simply up to date.  Clients however, may refresh less
+   frequently and choose to move a refresh forward if they detect what
+   appears to be a timezone change.  They MUST NOT attempt a refresh on
+   every instance of mismatched data.
+
+4.6.  Server Protocol
+
+   The interactions are simple http and can be encapsulated in a single
+   url.  Any security considerations are already handled adequately by
+   http servers.  All interactions between servers MUST take place using
+   ssl connections.
+
+   Only the GET mehod is required, all information is passed as request
+   parameters (that is the path is not used) and the following
+   capabilities are provided:
+
+   o  Get author names
+
+   o  Get preferred author name
+
+   o  Get all timezones for a given author
+
+   o  Get all timezones for the preferred author (server decision)
+
+   o  Get timezones by identifiers (repeated parameter) - possibly
+      including localized names.
+
+   o  Get all timezone identifiers - possibly including localized names.
+
+4.6.1.  Request Parameters
+
+   Servers recognize the following request parameters.  Their usage will
+   be described in subsequent sections.
+
+   format:  Specify the format for the result.  If absent a standard
+      icalendar format will be returned with the timezones contained
+      within a VCALENDAR.  Valid values are:
+
+      icalendar:  Default.  Return as VTIMEZONE objects.
+
+      identifiers:  Returns an xml formatted result listing timezone
+         identifiers and an associated latest modification timestamp.
+         Included, if requested, will be localized names.
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                 [Page 9]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+      service:  Returns the internal xml format.  Used for server
+         refresh.  MUST NOT be used by clients or applications as the
+         format is open to changes.
+
+      xcalendar:  Will be available when an xcalendar standard
+         definition arises.
+
+   author:  Limits the result to the specified author.  The value may be
+      one of:
+
+      *: All authors
+
+      preferred:  The preferred author for this server
+
+      <name>:  Names a specific author
+
+   tzid:  A fully specified (that is prefixed with "/") or a non-fully
+      specified timezone identifier:
+
+4.6.2.  Get author names
+
+   Description:  The absence of the tzid parameter indicates a request
+      for author names.  The response is all author names as an xml
+      formatted response.
+
+   Request parameters:
+
+      author=*  Return all author names
+
+      author=preferred  Return the preferred author name
+
+4.6.3.  Get timezone identifiers
+
+   Description:  The presence of the tzid and format=identifiers
+      parameter indicates a request for timezone identifiers.  If the
+      language parameter is present will include a localized form for
+      each language.
+
+   Request parameters:
+
+      author=<name>  Return information for the named author.
+
+      author=preferred  The default; return information for the
+         preferred author.
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 10]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+      format=identifiers:  Return timezone identifiers as an xml
+         formatted object.
+
+      language=<lang-code>  This parameter may occur multiple times.
+         Specifies the language or languages for localized information.
+
+      tzid=<identifier>  Return information for the named timezone.  The
+         identifiers may be fully specified, that is it starts with "/"
+         and contains the author name, for example "/EXAMPLE.COM/
+         America/New_York" or it may be the identifiers-part only, for
+         example "America/New_York".  This parameter may occur multiple
+         times.
+
+      tzid=*  Return information for all timezones.
+
+      dtstamp=<value>  Return information only for timezones that have
+         changed since the given timestamp value.  The value is that
+         returned in a previous request for timezone identifiers.
+
+4.6.4.  Get timezones
+
+   Description:  The presence of the tzid parameter indicates a request
+      for timezone information.
+
+   Request parameters:
+
+      author=<name>  Return information for the named author.
+
+      author=preferred  The default; return information for the
+         preferred author.
+
+      format=icalendar:  The default; return information as a VCALENDAR
+         component containing all requested timezone information as
+         VTIMEZONE objects.
+
+      format=xcalendar:  Currently unsupported; will return information
+         as an xcalendar object containing all requested timezone
+         information as timezone objects.
+
+      format=service:  This is used for server refresh and returns an
+         xml response which is in the internal timezone service format.
+
+      language=<lang-code>  This parameter may occur multiple times.
+         Specifies the language or languages for localized information.
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 11]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+      tzid=<identifier>  Return information for the named timezone.  The
+         identifiers may be fully specified, that is it starts with "/"
+         and contains the author name, for example "/EXAMPLE.COM/
+         America/New_York" or it may be the identifiers-part only, for
+         example "America/New_York".  This parameter may occur multiple
+         times.
+
+      tzid=*  Return information for all timezones.
+
+4.7.  Example: Get author names
+
+   In this example the client requests all author names
+
+      >> Request <<
+
+      GET /?author=* HTTP/1.1
+      Host: tz.example.com
+
+      >> Response <<
+
+      HTTP/1.1 200 OK
+      Date: Wed, 4 Jun 2008 09:32:12 GMT
+      Content-Type: application/xml; charset="utf-8"
+      Content-Length: xxxx
+
+      <?xml version="1.0" encoding="utf-8" ?>
+      <TZ:authors xmlns:TZ="urn:ietf:params:xml:ns:timezones">
+        <TZ:author>EXAMPLE.ORG</TZ:author>
+        <TZ:author>EXAMPLE.COM</TZ:author>
+      </TZ:authors>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 12]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+4.8.  Example: Get preferred author
+
+   In this example the client requests the preferred author name
+
+      >> Request <<
+
+      GET /?author=preferred HTTP/1.1
+      Host: tz.example.com
+
+      >> Response <<
+
+      HTTP/1.1 200 OK
+      Date: Wed, 4 Jun 2008 09:32:12 GMT
+      Content-Type: application/xml; charset="utf-8"
+      Content-Length: xxxx
+
+      <?xml version="1.0" encoding="utf-8" ?>
+      <TZ:authors xmlns:TZ="urn:ietf:params:xml:ns:timezones">
+        <TZ:author>EXAMPLE.COM</TZ:author>
+      </TZ:authors>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 13]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+4.9.  Example: Get timezone identifiers
+
+   In this example the client requests the timezone identifiers and in
+   addition requests that the US-English and Spanish version be
+   returned.  No author is named so the server returns the preferred
+   author information.
+
+     >> Request <<
+
+     GET /?tzid=*&format=identifiers&language=en_US&language=sp HTTP/1.1
+     Host: tz.example.com
+
+     >> Response <<
+
+     HTTP/1.1 200 OK
+     Date: Wed, 4 Jun 2008 09:32:12 GMT
+     Content-Type: application/xml; charset="utf-8"
+     Content-Length: xxxx
+
+     <?xml version="1.0" encoding="utf-8" ?>
+     <TZ:timezones xmlns:TZ="urn:ietf:params:xml:ns:timezones">
+       <TZ:dtstamp>2008-06-0409:32:11:123</TZ:dtstamp>
+       ...
+       <TZ:timezone>
+         <tz:identifier>/EXAMPLE.ORG/America_New_York</TZ:identifier>
+         <tz:local-name lang="en_US">America/New_York</TZ:local-name>
+         <tz:local-name lang="sp_SP">America?New_York</TZ:local-name>
+       </TZ:timezone>
+       ...
+     </TZ:timezones>
+
+
+
+5.  IANA Considerations
+
+5.1.  Timezone Service Name
+
+   Register timezone service "_TIMEZONES" for SRV records
+
+
+6.  Server XML Data Format Definition
+
+6.1.  TZ:timezones XML element
+
+   The TZ:timezones element identifies a response containing zero or
+   more timezone xml elements.
+
+           <!ELEMENT timezones (version, calscale?, timezone*)>
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 14]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+6.2.  TZ:version XML element
+
+   The TZ:version element identifies the version of the XML data.
+   Currently only version 1.0 is defined.
+
+           <!ELEMENT version (#PCDATA)>
+
+6.3.  calscale XML element
+
+   The calscale element identifies the calendar system for which the
+   timezone is defined.
+
+   Currently only Gregorian is supported.
+
+           <!ELEMENT calscale (#PCDATA)>
+
+6.4.  timezone XML element
+
+   The timezone element defines a timezone specification.
+
+           <!ELEMENT timezone (tzid, alias*, observance*)>
+
+6.5.  alias XML element
+
+   The timezone alias element defines a localized alias for the timezone
+   name.  The xml:lang attribute is used to select 0 or more aliases for
+   the timezone.  If multiple aliases are provided for a given locale
+   the first is considered the preferred alias
+
+           <!ELEMENT alias  (#PCDATA)>
+
+           <!ATTLIST alias xml:lang CDATA #REQUIRED>
+
+6.6.  observance XML element
+
+   The observance element defines a timezone observance specification as
+   a name with a set of rules.  In addition localized names may be
+   provided as alias elements.
+
+           <!ELEMENT observance (observance-name, tzoffset, alias*,
+                     ruleset*)>
+
+6.7.  observance-name XML element
+
+   The observance-name element defines which timezone observance is
+   being referred to.
+
+           <!ELEMENT observance-name  (#PCDATA)>
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 15]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+6.8.  tzoffset XML element
+
+   The tzoffset element defines the offset in hours and minutes from
+   UTC.
+
+           <!ELEMENT tzoffset  (#PCDATA)>
+
+6.9.  alias XML element
+
+   The observance alias element defines a localized alias for the
+   observance name.  The xml:lang attribute is used to select 0 or more
+   aliases for the observance.  If multiple aliases are provided for a
+   given locale the first is considered the preferred alias
+
+           <!ELEMENT alias  (#PCDATA)>
+
+           <!ATTLIST alias xml:lang CDATA #REQUIRED>
+
+6.10.  rule XML element
+
+   The rule element defines a rule for the observance.  This takes the
+   form of a restricted number of conditions applied to possible dates.
+
+   It is assumed that the frequency is yearly and seconds and
+   microseconds are disallowed as options.  Each element defines a
+   condition as a comparison.
+
+   If all terms are equality the rule defines a single onset date for
+   the observance.  Otherwise the rule will define a set of onset dates.
+
+   Together all the rules define a set of onset dates.
+
+           <!ELEMENT ruleset (year?, month?, day-of-week?,
+                             day-of-month?, hour?, minute?>
+
+6.11.  year XML element
+
+   The year element defines values for the year part of the date, either
+   as one or more single values a condition or a range.
+
+           <!ELEMENT year (eq+ |
+                           ((lt | lteq) (gt | gteq)?) |
+                           gt | gteq)>
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 16]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+6.12.  gteq XML element
+
+   The gteq element defines a condition in which the element must be
+   greater than or equal the provided value
+
+           <!ELEMENT lt (#PCDATA)>
+
+6.13.  lteq XML element
+
+   The lteq element defines a condition in which the element must be
+   less than or equal the provided value
+
+           <!ELEMENT lt (#PCDATA)>
+
+6.14.  gt XML element
+
+   The gt element defines a condition in which the element must be
+   greater than the provided value
+
+           <!ELEMENT lt (#PCDATA)>
+
+6.15.  lt XML element
+
+   The lt element defines a condition in which the element must be less
+   than the provided value
+
+           <!ELEMENT lt (#PCDATA)>
+
+6.16.  eq XML element
+
+   The lt element defines a condition in which the element must be equal
+   to the provided value
+
+           <!ELEMENT lt (#PCDATA)>
+
+
+7.  Security Considerations
+
+   Fill this in
+
+
+8.  Acknowledgements
+
+   The authors would like to thank the members of the Calendaring and
+   Scheduling Consortium timezones technical committee and the following
+   individuals for contributing their ideas and support: Ciny Joy,
+   Arnaud Quillaud, ...
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 17]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   The author would also like to thank the Calendaring and Scheduling
+   Consortium for advice with this specification.
+
+
+9.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119, March 1997.
+
+   [RFC2445]  Dawson, F. and Stenerson, D., "Internet Calendaring and
+              Scheduling Core Object Specification (iCalendar)",
+              RFC 2445, November 1998.
+
+   [RFC2446]  Silverberg, S., Mansour, S., Dawson, F., and R. Hopson,
+              "iCalendar Transport-Independent Interoperability Protocol
+              (iTIP) Scheduling Events, BusyTime, To-dos and Journal
+              Entries", RFC 2446, November 1998.
+
+   [RFC3688]  Mealling, M., "The IETF XML Registry", BCP 81, RFC 3688,
+              January 2004.
+
+   [W3C.REC-xml-20060816]
+              Paoli, J., Yergeau, F., Sperberg-McQueen, C., Maler, E.,
+              and T. Bray, "Extensible Markup Language (XML) 1.0 (Fourth
+              Edition)", World Wide Web Consortium FirstEdition REC-xml-
+              20060816, August 2006,
+              <http://www.w3.org/TR/2006/REC-xml-20060816>.
+
+
+Authors' Addresses
+
+   Cyrus Daboo
+   Apple Inc.
+   1 Infinite Loop
+   Cupertino, CA  95014
+   USA
+
+   Email: cyrus@daboo.name
+   URI:   http://www.apple.com/
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 18]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+   Michael Douglass
+   Rensselaer Polytechnic Institute
+   110 8th Street
+   Troy, NY  12180
+   USA
+
+   Email: douglm@rpi.edu
+   URI:   http://www.rpi.edu/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 19]
+
+Internet-Draft              Timezones Service               January 2009
+
+
+Full Copyright Statement
+
+   Copyright (C) The IETF Trust (2009).
+
+   This document is subject to the rights, licenses and restrictions
+   contained in BCP 78, and except as set forth therein, the authors
+   retain all their rights.
+
+   This document and the information contained herein are provided on an
+   "AS IS" basis and THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS
+   OR IS SPONSORED BY (IF ANY), THE INTERNET SOCIETY, THE IETF TRUST AND
+   THE INTERNET ENGINEERING TASK FORCE DISCLAIM ALL WARRANTIES, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF
+   THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED
+   WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Intellectual Property
+
+   The IETF takes no position regarding the validity or scope of any
+   Intellectual Property Rights or other rights that might be claimed to
+   pertain to the implementation or use of the technology described in
+   this document or the extent to which any license under such rights
+   might or might not be available; nor does it represent that it has
+   made any independent effort to identify any such rights.  Information
+   on the procedures with respect to rights in RFC documents can be
+   found in BCP 78 and BCP 79.
+
+   Copies of IPR disclosures made to the IETF Secretariat and any
+   assurances of licenses to be made available, or the result of an
+   attempt made to obtain a general license or permission for the use of
+   such proprietary rights by implementers or users of this
+   specification can be obtained from the IETF on-line IPR repository at
+   http://www.ietf.org/ipr.
+
+   The IETF invites any interested party to bring to its attention any
+   copyrights, patents or patent applications, or other proprietary
+   rights that may cover technology that may be required to implement
+   this standard.  Please address the information to the IETF at
+   ietf-ipr@ietf.org.
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires July 26, 2009                [Page 20]
+
+

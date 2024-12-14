@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>CD0904 xCal - The XML Format for iCalendar</title>
+
+  <link rel="stylesheet" href="mainstyle.css">
+
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  
+  <meta name="author" content="David C. Thewlis">
+  
+   
+
+</head>
+
+<body>
+
+<!-- Include the top header line and top navigation elements -->
+<!--#include file="snippettopheader.html"-->
+
+<div align="center">
+<table width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Included the side navigation elements for the HOME section -->
+<!--#include file="snippetresources.html"-->
+  
+    <td width="*" valign="top" align="left">	
+
+<pre> 	
+CALCONNECT DOCUMENT CD 0904
+Type:	   Proposal
+Title:     xCal - The XML Format for iCalendar
+Version:   1
+Date:      2009-06-04 (original submission)
+Status:    Published; submitted to IETF; RFC 6321
+Source:    XML Technical Committee
+</pre>		
+	
+<div align="center">
+
+<h2>xCal - The XML Format for iCalendar</h2>
+</div>
+<br>
+This proposal was submitted to the IETF as an Internet Draft for the Standards Track
+on 4 June 2009, and was published by the IETF as RFC 6321 on 8 August 2011.  It may be found at the following URL:
+<br><br>
+<a href="http://tools.ietf.org/html/rfc6321" target="_blank">http://tools.ietf.org/html/rfc6321</a>
+<br><br>
+The purpose of this specification is to define an XML format that allows iCalendar data
+to be converted to XML, and then back to iCalendar, without losing any semantic
+meaning in the data. Anyone creating XML calendar data according to this specification
+will know that their data can be converted to a valid iCalendar representation as well.
+<br>
+<br>
+<br>
+<!-- Include the Service Mark and Copyright line -->
+<!--#include file="snippetend.html"-->
+
+</td>
+</tr>
+</table>
+<br>
+
+</body>
+</html> 

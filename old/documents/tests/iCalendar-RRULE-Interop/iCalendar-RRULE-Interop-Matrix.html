@@ -1,0 +1,2083 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="iCalendar-RRULE-Interop-Matrix_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="iCalendar-RRULE-Interop-Matrix_files/editdata.mso">
+<link rel=OLE-Object-Data
+href="iCalendar-RRULE-Interop-Matrix_files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bernard Desruisseaux</o:Author>
+  <o:LastAuthor>Bernard Desruisseaux</o:LastAuthor>
+  <o:LastPrinted>2008-04-01T15:08:57Z</o:LastPrinted>
+  <o:Created>2008-03-24T18:59:13Z</o:Created>
+  <o:LastSaved>2009-02-04T23:17:21Z</o:LastSaved>
+  <o:Company>Oracle Corporation</o:Company>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///D:\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+.font0
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font9
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style21
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:Hyperlink;
+	mso-style-id:8;}
+a:link
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+a:visited
+	{color:purple;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;}
+.xl26
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	vertical-align:middle;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl31
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl33
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl34
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl35
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl38
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl39
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl40
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl41
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:red;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl42
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl43
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl44
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl45
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl46
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl47
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl48
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl49
+	{mso-style-parent:style21;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl50
+	{mso-style-parent:style21;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	vertical-align:middle;}
+.xl51
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl52
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;}
+.xl53
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl54
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl55
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl56
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl57
+	{mso-style-parent:style21;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl58
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl59
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl60
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl61
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl62
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl63
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl64
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;}
+.xl65
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl68
+	{mso-style-parent:style21;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:FitToPage/>
+     <x:FitToPage/>
+     <x:Print>
+      <x:FitHeight>4</x:FitHeight>
+      <x:ValidPrinterInfo/>
+      <x:Scale>75</x:Scale>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+    <x:PublishObjects>
+     <x:PublishObject>
+      <x:Id>28055</x:Id>
+      <x:DivID>iCalendar-RRULE-Interop-Matrix_28055</x:DivID>
+      <x:SourceType>SourceSheet</x:SourceType>
+      <x:HtmlType>HtmlStatic</x:HtmlType>
+      <x:Location
+       HRef="C:\home\bdesruis\rrule\iCalendar-RRULE-Interop-Matrix.mht"/>
+     </x:PublishObject>
+    </x:PublishObjects>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9120</x:WindowHeight>
+  <x:WindowWidth>14910</x:WindowWidth>
+  <x:WindowTopX>240</x:WindowTopX>
+  <x:WindowTopY>60</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:ExcelName>
+  <x:Name>_FilterDatabase</x:Name>
+  <x:Hidden/>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=Sheet1!$C$9:$K$89</x:Formula>
+ </x:ExcelName>
+ <x:ExcelName>
+  <x:Name>Print_Area</x:Name>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=Sheet1!$C$1:$I$87</x:Formula>
+ </x:ExcelName>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple class=xl27>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1227 style='border-collapse:
+ collapse;table-layout:fixed;width:922pt'>
+ <col class=xl27 width=20 span=2 style='mso-width-source:userset;mso-width-alt:
+ 731;width:15pt'>
+ <col class=xl26 width=110 style='mso-width-source:userset;mso-width-alt:4022;
+ width:83pt'>
+ <col class=xl26 width=75 style='mso-width-source:userset;mso-width-alt:2742;
+ width:56pt'>
+ <col class=xl53 width=216 style='mso-width-source:userset;mso-width-alt:7899;
+ width:162pt'>
+ <col class=xl26 width=37 style='mso-width-source:userset;mso-width-alt:1353;
+ width:28pt'>
+ <col class=xl27 width=137 span=3 style='mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt'>
+ <col class=xl27 width=137 span=2 style='mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt'>
+ <col class=xl27 width=64 style='width:48pt'>
+ <tr class=xl24 height=35 style='height:26.25pt'>
+  <td height=35 class=xl24 width=20 style='height:26.25pt;width:15pt'></td>
+  <td class=xl24 width=20 style='width:15pt'></td>
+  <td class=xl24 colspan=6 width=712 style='mso-ignore:colspan;width:535pt'><a
+  name="Print_Area">iCalendar Recurrence Rules Interoperability Matrix</a></td>
+  <td class=xl24 width=137 style='width:103pt'></td>
+  <td class=xl24 width=137 style='width:103pt'></td>
+  <td class=xl24 width=137 style='width:103pt'></td>
+  <td class=xl24 width=64 style='width:48pt'></td>
+ </tr>
+ <tr class=xl24 height=35 style='height:26.25pt'>
+  <td height=35 colspan=4 class=xl24 style='height:26.25pt;mso-ignore:colspan'></td>
+  <td class=xl52></td>
+  <td colspan=7 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl25 height=20 style='height:15.0pt'>
+  <td height=20 colspan=2 class=xl25 style='height:15.0pt;mso-ignore:colspan'></td>
+  <td class=xl25 x:str="Author: ">Author:<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl25 colspan=4 style='mso-ignore:colspan'>Bernard Desruisseaux
+  &lt;bernard.desruisseaux@oracle.com&gt;</td>
+  <td colspan=5 class=xl25 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl25 height=20 style='height:15.0pt'>
+  <td height=20 colspan=2 class=xl25 style='height:15.0pt;mso-ignore:colspan'></td>
+  <td class=xl25 x:str="Author: ">Author:<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl25 colspan=2 style='mso-ignore:colspan'>Long Vu
+  &lt;tuan.long.vu@oracle.com&gt;</td>
+  <td colspan=7 class=xl25 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl25 height=20 style='height:15.0pt'>
+  <td height=20 colspan=2 class=xl25 style='height:15.0pt;mso-ignore:colspan'></td>
+  <td class=xl25 x:str="Version: ">Version:<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl25 colspan=2 style='mso-ignore:colspan'>2009-FEB-04</td>
+  <td colspan=7 class=xl25 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl25 height=20 style='height:15.0pt'>
+  <td height=20 colspan=12 class=xl25 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl25 height=20 style='height:15.0pt'>
+  <td height=20 colspan=2 class=xl25 style='height:15.0pt;mso-ignore:colspan'></td>
+  <td class=xl25>iCalendar files:</td>
+  <td class=xl50 colspan=4 style='mso-ignore:colspan'><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/">http://www.calconnect.org/tests/iCalendar-RRULE-Interop/</a></td>
+  <td colspan=5 class=xl25 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl27 height=18 style='height:13.5pt'>
+  <td height=18 colspan=2 class=xl27 style='height:13.5pt;mso-ignore:colspan'></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl53></td>
+  <td class=xl26></td>
+  <td colspan=6 class=xl27 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl28 height=43 style='height:32.25pt'>
+  <td height=43 class=xl28 style='height:32.25pt'></td>
+  <td class=xl59 width=20 style='width:15pt' x:str="'#">#</td>
+  <td class=xl60 width=110 style='border-left:none;width:83pt'
+  x:str="Recurrence&#10;Pattern ">Recurrence<br>
+    Pattern<span style='mso-spacerun:yes'> </span></td>
+  <td class=xl60 width=75 style='border-left:none;width:56pt'>Client</td>
+  <td class=xl60 width=216 style='border-left:none;width:162pt'>RRULE</td>
+  <td class=xl60 width=37 style='border-left:none;width:28pt'>ics</td>
+  <td class=xl60 width=137 style='border-left:none;width:103pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl60 width=137 style='border-left:none;width:103pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl60 width=137 style='border-left:none;width:103pt'>Apple iCal
+  3.0.6</td>
+  <td class=xl60 width=137 style='border-left:none;width:103pt'>Zimbra 4.5</td>
+  <td class=xl61 width=137 style='border-left:none;width:103pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl28></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td rowspan=5 class=xl67 x:str="'01">01</td>
+  <td rowspan=5 class=xl42 width=110 style='width:83pt'>Daily every 1 day</td>
+  <td class=xl42 width=75 style='border-left:none;width:56pt'>Microsoft Outlook
+  2003</td>
+  <td class=xl56 width=216 style='border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D10,&quot; &quot;,&quot;_&quot;),&quot;/01.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/01.ics">ics</a></td>
+  <td class=xl58 style='border-left:none'>N/A</td>
+  <td class=xl42 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl42 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl42 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl48 width=137 style='border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D11,&quot; &quot;,&quot;_&quot;),&quot;/01.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/01.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D12,&quot; &quot;,&quot;_&quot;),&quot;/01.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/01.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl47 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D13,&quot; &quot;,&quot;_&quot;),&quot;/01.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/01.ics">ics</a></td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'02">02</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Daily
+  every weekday<br>
+    <br>
+    <span style='mso-spacerun:yes'>     </span><font class="font9">or<br>
+    </font><font class="font0"><br>
+    Weekly on<br>
+    Mo,Tu,We,Th,Fr</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1;<br>
+    WKST=SU;<br>
+    BYDAY=MO,TU,WE,TH,FR</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D15,&quot; &quot;,&quot;_&quot;),&quot;/02.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/02.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU,WE,TH,FR</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D16,&quot; &quot;,&quot;_&quot;),&quot;/02.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/02.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU,WE,TH,FR;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D17,&quot; &quot;,&quot;_&quot;),&quot;/02.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/02.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl34 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=DAILY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU,WE,TH,FR;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D18,&quot; &quot;,&quot;_&quot;),&quot;/02.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/02.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    BYDAY=MO,TU,WE,TH,FR</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'03">03</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Weekly
+  on Monday</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    WKST=SU;<br>
+    BYDAY=MO</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D20,&quot; &quot;,&quot;_&quot;),&quot;/03.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/03.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl65 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D21,&quot; &quot;,&quot;_&quot;),&quot;/03.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/03.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl65 width=216 style='border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D22,&quot; &quot;,&quot;_&quot;),&quot;/03.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/03.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D23,&quot; &quot;,&quot;_&quot;),&quot;/03.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/03.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'04">04</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Weekly
+  on Monday and Tuesday</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    WKST=SU;<br>
+    BYDAY=MO,TU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D25,&quot; &quot;,&quot;_&quot;),&quot;/04.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/04.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D26,&quot; &quot;,&quot;_&quot;),&quot;/04.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/04.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D27,&quot; &quot;,&quot;_&quot;),&quot;/04.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/04.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl34 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=WEEKLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D28,&quot; &quot;,&quot;_&quot;),&quot;/04.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/04.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'05">05</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  on day 1</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYMONTHDAY=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D30,&quot; &quot;,&quot;_&quot;),&quot;/05.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/05.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D31,&quot; &quot;,&quot;_&quot;),&quot;/05.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/05.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D32,&quot; &quot;,&quot;_&quot;),&quot;/05.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/05.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D33,&quot; &quot;,&quot;_&quot;),&quot;/05.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/05.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'06">06</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  on<br>
+    day 1 and 2</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYMONTHDAY=1,2</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D36,&quot; &quot;,&quot;_&quot;),&quot;/06.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/06.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl62 width=216 style='border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYMONTHDAY=1,2</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D37,&quot; &quot;,&quot;_&quot;),&quot;/06.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/06.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl63 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl64 style='border-left:none'>N/A</td>
+  <td class=xl63 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl48 width=137 style='border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-left:none;width:162pt'>Not supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl27 style='height:76.5pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'07">07</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  the first Monday</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    BYDAY=MO;<br>
+    BYSETPOS=1;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D40,&quot; &quot;,&quot;_&quot;),&quot;/07.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/07.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every Monday<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=1MO</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D41,&quot; &quot;,&quot;_&quot;),&quot;/07.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/07.ics">ics</a></td>
+  <td class=xl43 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl46 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl43 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl43 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl44 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=1MO</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D42,&quot; &quot;,&quot;_&quot;),&quot;/07.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/07.ics">ics</a></td>
+  <td class=xl43 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl43 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl46 style='border-left:none'>N/A</td>
+  <td class=xl43 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl45 style='border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=1MO;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D43,&quot; &quot;,&quot;_&quot;),&quot;/07.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/07.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl27 style='height:76.5pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'08">08</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  the first <font class="font5">weekday</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=MO,TU,WE,TH,FR;<br>
+    BYSETPOS=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D45,&quot; &quot;,&quot;_&quot;),&quot;/08.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/08.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every weekdays<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl39 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl27 style='height:76.5pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'09">09</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  the first <font class="font5">weekend day</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=SU,SA;<br>
+    BYSETPOS=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D50,&quot; &quot;,&quot;_&quot;),&quot;/09.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/09.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every Weekend days<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl39 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl27 style='height:76.5pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'10">10</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  the last <font class="font5">day of the month</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=SU,MO,TU,WE,TH,FR,SA;<br>
+    BYSETPOS=-1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D55,&quot; &quot;,&quot;_&quot;),&quot;/10.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/10.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Daily everyday<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=MONTHLY;<br>
+    INTERVAL=1;<br>
+    BYMONTHDAY=-1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D56,&quot; &quot;,&quot;_&quot;),&quot;/10.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/10.ics">ics</a></td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>IMPORT
+  FAILS</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'11">11</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Monthly
+  the last 10th day of the month</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=85 style='height:63.75pt'>
+  <td height=85 class=xl27 style='height:63.75pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'12">12</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Yearly
+  on<br>
+    April 1</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    BYMONTHDAY=1;<br>
+    BYMONTH=4;<br>
+    INTERVAL=1;<br>
+    WKST=SU;</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D65,&quot; &quot;,&quot;_&quot;),&quot;/12.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/12.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D66,&quot; &quot;,&quot;_&quot;),&quot;/12.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/12.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D67,&quot; &quot;,&quot;_&quot;),&quot;/12.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/12.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl45 style='border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=85 style='height:63.75pt'>
+  <td height=85 class=xl27 style='height:63.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYMONTH=4;<br>
+    BYMONTHDAY=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D68,&quot; &quot;,&quot;_&quot;),&quot;/12.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/12.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl29 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl27 style='height:76.5pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'13">13</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Yearly
+  the first Monday of April</td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    BYDAY=MO;<br>
+    BYMONTH=4;<br>
+    BYSETPOS=1;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D70,&quot; &quot;,&quot;_&quot;),&quot;/13.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/13.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every Monday of Apri<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=1MO;<br>
+    BYMONTH=4</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D71,&quot; &quot;,&quot;_&quot;),&quot;/13.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/13.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYDAY=1MO;<br>
+    BYMONTH=4</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D72,&quot; &quot;,&quot;_&quot;),&quot;/13.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/13.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=85 style='height:63.75pt'>
+  <td height=85 class=xl27 style='height:63.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYMONTH=4;<br>
+    BYDAY=1MO;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D73,&quot; &quot;,&quot;_&quot;),&quot;/13.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/13.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl29 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=119 style='height:89.25pt'>
+  <td height=119 class=xl27 style='height:89.25pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'14">14</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Yearly
+  the first <font class="font5">weekday</font><font class="font0"> of
+  April<span style='mso-spacerun:yes'> </span></font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    BYDAY=MO,TU,WE,TH,FR;<br>
+    BYMONTH=4;<br>
+    BYSETPOS=1;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D75,&quot; &quot;,&quot;_&quot;),&quot;/14.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/14.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every weekdays of April<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl34 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl49 width=37 style='border-top:none;border-left:none;width:28pt'><u
+  style='visibility:hidden;mso-ignore:visibility'>&nbsp;</u></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=119 style='height:89.25pt'>
+  <td height=119 class=xl27 style='height:89.25pt'></td>
+  <td rowspan=5 class=xl66 style='border-top:none' x:str="'15">15</td>
+  <td rowspan=5 class=xl29 width=110 style='border-top:none;width:83pt'>Yearly
+  the first <font class="font5">weekend day</font><font class="font0"> of April</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    BYDAY=SU,SA;<br>
+    BYMONTH=4;<br>
+    BYSETPOS=1;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D80,&quot; &quot;,&quot;_&quot;),&quot;/15.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/15.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Weekly every weekend days of April<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl34 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl27 style='height:25.5pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 style='height:12.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl54 width=216 style='border-top:none;border-left:none;width:162pt'>Not
+  supported</td>
+  <td class=xl35 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl35 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl40 width=137 style='border-top:none;border-left:none;width:103pt'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr class=xl27 height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl29 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl32 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl33 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=119 style='height:89.25pt'>
+  <td height=119 class=xl27 style='height:89.25pt'></td>
+  <td rowspan=5 class=xl66 style='border-bottom:1.0pt solid black;border-top:
+  none' x:str="'16">16</td>
+  <td rowspan=5 class=xl29 width=110 style='border-bottom:1.0pt solid black;
+  border-top:none;width:83pt'>Yearly the first <font class="font5">day</font><font
+  class="font0"> of April</font></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Microsoft
+  Outlook 2003</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    BYDAY=SU,MO,TU,WE,TH,FR,SA;<br>
+    BYMONTH=4;<br>
+    BYSETPOS=1;<br>
+    INTERVAL=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D85,&quot; &quot;,&quot;_&quot;),&quot;/16.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Microsoft_Outlook_2003/16.ics">ics</a></td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl41 width=137 style='border-top:none;border-left:none;width:103pt'>Display
+  as Daily every days of April<br>
+    <br>
+    Rrule displayed: Custom without any other explanations</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl27 style='height:51.0pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Mozilla
+  Lightning 0.9</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYMONTHDAY=1;<br>
+    BYMONTH=4</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D86,&quot; &quot;,&quot;_&quot;),&quot;/16.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Mozilla_Lightning_0.9/16.ics">ics</a></td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=51 style='height:38.25pt'>
+  <td height=51 class=xl27 style='height:38.25pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Apple
+  iCal 3.0.6</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYMONTH=4</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D87,&quot; &quot;,&quot;_&quot;),&quot;/16.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Apple_iCal_3.0.6/16.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl34 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=85 style='height:63.75pt'>
+  <td height=85 class=xl27 style='height:63.75pt'></td>
+  <td class=xl29 width=75 style='border-top:none;border-left:none;width:56pt'>Zimbra
+  4.5</td>
+  <td class=xl51 width=216 style='border-top:none;border-left:none;width:162pt'>FREQ=YEARLY;<br>
+    INTERVAL=1;<br>
+    BYMONTH=4;<br>
+    BYMONTHDAY=1;<br>
+    WKST=SU</td>
+  <td class=xl57 width=37 style='border-left:none;width:28pt'
+  x:fmla="=HYPERLINK(CONCATENATE($D$7,SUBSTITUTE(D88,&quot; &quot;,&quot;_&quot;),&quot;/16.ics&quot;),&quot;ics&quot;)"><a
+  href="http://www.calconnect.org/tests/iCalendar-RRULE-Interop/Zimbra_4.5/16.ics">ics</a></td>
+  <td class=xl39 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl32 style='border-top:none;border-left:none'>OK</td>
+  <td class=xl29 width=137 style='border-top:none;border-left:none;width:103pt'>OK</td>
+  <td class=xl30 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl31 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=52 style='height:39.0pt'>
+  <td height=52 class=xl27 style='height:39.0pt'></td>
+  <td class=xl36 width=75 style='border-top:none;border-left:none;width:56pt'>Windows
+  Calendar 1.0</td>
+  <td class=xl55 width=216 style='border-top:none;border-left:none;width:162pt'>&nbsp;</td>
+  <td class=xl36 width=37 style='border-top:none;border-left:none;width:28pt'>&nbsp;</td>
+  <td class=xl36 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl37 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl36 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl36 width=137 style='border-top:none;border-left:none;width:103pt'>&nbsp;</td>
+  <td class=xl38 style='border-top:none;border-left:none'>N/A</td>
+  <td class=xl27></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl27 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl53></td>
+  <td class=xl26></td>
+  <td colspan=6 class=xl27 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl27 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl53></td>
+  <td class=xl26></td>
+  <td colspan=6 class=xl27 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 colspan=2 class=xl27 style='height:25.5pt;mso-ignore:colspan'></td>
+  <td class=xl26 width=110 style='width:83pt'>Mozilla bug 322458</td>
+  <td colspan=3 class=xl68 width=328 style='width:246pt'><a
+  href="https://bugzilla.mozilla.org/show_bug.cgi?id=322458">https://bugzilla.mozilla.org/show_bug.cgi?id=322458</a></td>
+  <td colspan=6 class=xl27 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=110 style='width:83pt'></td>
+  <td width=75 style='width:56pt'></td>
+  <td width=216 style='width:162pt'></td>
+  <td width=37 style='width:28pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

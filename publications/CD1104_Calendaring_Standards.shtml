@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Index to Calendaring and Scheduling Standards - The Calendaring and Scheduling Consortium</title>
+
+  <link rel="stylesheet" href="mainstyle.css">
+
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  
+  <meta name="author" content="David C. Thewlis">
+  
+<!--#include file="snippetanalytics.html"-->   
+
+</head>
+
+<body>
+
+<!-- Include the top header line and top navigation elements -->
+<!--#include file="snippettopheader.html"-->
+
+<div align="center">
+<table width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Included the side navigation elements for the HOME section -->
+<!--#include file="snippetresources.html"-->
+  
+    <td width="*" valign="top" align="left">	
+	
+
+<pre> 	
+CALCONNECT DOCUMENT CD 1104
+Type:	   Report
+Title:     Index to Calendaring and Scheduling Standards
+Version:   2.0
+Date:      2011-05-18
+Status:    Published
+Source:    CalConnect
+</pre>
+<small>This work is Copyright &copy; 2011 The Calendaring and Scheduling Consortium, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</small>
+	
+<div align="center">
+<br>
+<h2>Index to Calendaring and Scheduling Standards</h2>
+</div>
+
+<br>
+This page provides links, titles, and very brief abstracts of Calendaring and Calendaring-related (e.g. WebDAV, vCard)
+standards, specifications, and guides.  The material is divided by category and subdivided in turn to base standards,
+additions and extensions, and work in progress. Entries are alphabetical by title within section.  The material linked is largely but not entirely IETF and CalConnect.  
+<br><br> 
+We would appreciate additions and corrections to the list; please send any recommendations
+to <a href="mailto:info@calconnect.org?subject=Standards Recommendations">Standards Recommendations to CalConnect</a>.
+<br><br>
+<div align="center">
+<i>This page last updated September 01, 2011</i>
+<br><br>
+
+<a name="top">
+
+<table cellspacing="5" cellpadding="5" border="1">
+  <tr>
+    <td colspan="7" align="center">
+	  <b>Index and Links</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+	  <a href="#General">General</a>
+    </td>
+    <td>
+	  <a href="#iCalendar">iCalendar</a>
+    </td>  
+    <td>
+	  <a href="#CalDAV">CalDAV</a>
+    </td>  
+    <td>
+	  <a href="#vCard">vCard</a>
+    </td>  
+    <td>
+	  <a href="#CardDAV">CardDAV</a>
+    </td>  
+    <td>
+	  <a href="#WebDAV">WebDAV</a>
+    </td>
+    <td>
+	  <a href="#Related">Related</a>
+    </td>	
+	
+	  
+  </tr>
+</table>  
+
+  
+</div>
+
+<br><br>
+<hr>
+
+<a name="General"></a>
+<h3>General</h3>
+
+<a href="http://www.calconnect.org/CD1012_Intro_Calendaring.shtml" target="_blank">
+<b>An Introduction to Internet Calendaring</b></a><br>
+ <i>This CalConnect guide introduces internet calendaring and the major
+ standards and specifications related to calendaring and scheduling.</i>
+
+
+<br><br>
+<a href="http://www.calconnect.org/CD1102%20Glossary.shtml">
+<b>Calendaring and Scheduling Glossary of Terms</b></a><br>
+<i>A Glossary of Calendaring and Scheduling Terms, developed by CalConnect.</i>
+
+<br><br>
+<small>Return to <a href="#top">Top</a></small>
+<br><br>
+<hr>
+
+<a name="iCalendar"></a>
+<h3>iCalendar</h3>
+<h4>Base Standards</h4>
+
+<a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">
+<b>Internet Calendaring and Scheduling Core Object Specification (iCalendar) RFC 5545</b></a><br>
+<i>iCalendar is the core data schema for calendaring information.
+This is the new version and obsoletes RFC2445.</i>
+
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">
+<b>iCalendar Transport-Independent Interoperability Protocol (iTIP) - 
+   Scheduling Events, BusyTime, To-dos and Journal Entries RFC 5546</b></a><br>
+<i>Specifies the mechanisms for calendaring event interchange between calendar servers.
+This is the new version and obsoletes RFC2446.</i>
+   
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc6047.txt" target="_blank">
+<b>iCalendar Message-Based Interoperability Protocol (iMIP) RFC 6047</b></a><br>
+<i>Specifies how to exchange calendaring data via e-mail.
+This is the new version and obsoletes RFC2447.</i>
+
+
+<br><br>
+<a href="http://tools.ietf.org/html/rfc6321" target="_blank">
+<b>xCal: The XML format for iCalendar RFC 6321</b></a><br>
+<i>This specification defines a format for representing iCalendar data in XML.
+More specifically, is to define an XML format that allows iCalendar data
+to be converted to XML, and then back to iCalendar, without losing any semantic
+meaning in the data. Anyone creating XML calendar data according to this specification
+will know that their data can be converted to a valid iCalendar representation as well.</i>
+
+<br>
+<h4>Additional and Extensions</h4>
+
+<a href="http://www.calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring.pdf" target="_blank">
+<b>CalWS RESTful Web Services Protocol for Calendaring</b></a><br>
+<i>This document, developed by the XML Technical Committee, specifies a RESTful web services Protocol for calendaring operations. This protocol has been contributed to OASIS WS-CALENDAR as a component of the WS-CALENDAR Specification under development by OASIS.</i>
+
+<br><br>
+<a href="http://www.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf" tareget="_blank">
+<b>Freebusy Read URL</b></a><br>
+<i>This proposal, developed by the Freebusy Technical Committee, defines a standardized form of Freebusy Read URL to improve interoperability between client and server implementations, while extending functionality and utility through the use of optional parameters. </i>
+
+<br><br>
+<a href="http://microformats.org/wiki/hcalendar" target="_bl;ank">
+<b>hCalendar 1.0 microformat</b></a><br>
+<i>hCalendar is a simple, open, distributed calendaring and events format, using a 1:1 representation of standard iCalendar (RFC2445) VEVENT properties and values in semantic HTML or XHTML. </i>
+   
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5333.txt" target="_blank">
+<b>IANA Registration of Enumservices for Internet Calendaring RFC 5333</b></a><br>
+<i>This document registers Enumservices for Internet calendaring.
+   Specifically, this document focuses on Enumservices for scheduling
+   with iMIP (iCalendar Message-Based Interoperability Protocol) and for
+   accessing Internet calendaring information with CalDAV (Calendaring
+   Extensions to WebDAV).</i>	
+
+<br>
+<h4>Work in Progress</h4>
+
+<a href="http://tools.ietf.org/html/draft-daboo-calendar-availability/" target="_blank">
+<b>Calendar Availability</b></a><br>
+<i>This document specifies a new iCalendar calendar component VAVAILABILITY that allows the 
+publication of available and unavailable time periods associated with a calendar 
+user. This component can be used in standard iCalendar free-busy lookups, including 
+iTIP free-busy requests, to generate repeating blocks of available or busy time 
+with exceptions as needed.</i>
+   
+<br><br>
+<a href="http://tools.ietf.org/html/draft-douglass-calendar-extension/" target="_blank">
+<b>Event Publication Extensions to iCalendar</b></a><br>
+<i>This specification introduces a number of new iCalendar properties which are of particular use for 
+event publishers and in social networking. </i>  
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-desruisseaux-ischedule" target="_blank">
+<b>Internet Calendar Scheduling Protocol (iSchedule)</b></a><br>
+<i>This document defines the Internet Calendar Scheduling Protocol
+(iSchedule), which is a binding from the iCalendar Transport-
+independent Interoperability Protocol (iTIP) to the Hypertext
+Transfer Protocol (HTTP) to enable interoperability between
+calendaring and scheduling systems over the Internet.</i>
+ 
+<br><br>
+<a href="http://tools.ietf.org/html/draft-douglass-link-extension/" target="_blank">
+<b>LINK Property Extension to iCalendar</b></a><br>
+<i>This specification introduces a new iCalendar property LINK to provide ancillary information for iCalendar components.</i>
+
+ <br><br>
+<a href="http://svn.macosforge.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/icalendar-maskuids.txt" target="_blank">  
+<b>Masking existing meetings in iCalendar free busy requests</b></a><br>
+<i>This document defines an extension to the iTIP calendar scheduling
+   protocol to allow an organizer to have a specific event that may
+   exist on an attendee's calendar ignored when the attendee calculates
+   and returns their free-busy information after a request from the
+   organizer.</i>
+  
+<br><br>
+<a href="http://tools.ietf.org/html/draft-daboo-icalendar-extensions" target="_blank">
+<b>New Properties for iCalendar</b></a><br>
+<i>This document defines a set of new properties for iCalendar data.</i>
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-cal-resource-schema/" target="_blank">
+<b>Schema for representing resources for calendaring and scheduling services</b></a><br>
+<i>This specification describes a schema for representing resources for
+   calendaring and scheduling.  A resource in the scheduling context is
+   any shared entity that can be scheduled by a calendar user, but does
+   not control its own attendance status.</i>
+   
+<br><br>
+<a href="http://tools.ietf.org/html/draft-daboo-valarm-extensions/" target="_blank">
+<b>VALARM Extensions for iCalendar</b></a><br>
+<i>This document defines a set of extensions to the iCalendar VALARM
+   component to enhance use of alarms and improve interoperability
+   between clients and servers.</i>
+
+
+<br><br>
+<small>Return to <a href="#top">Top</a></small>
+<br><br>
+<hr>
+
+<a name="CalDAV"</a>
+<h3>CalDAV</h3>
+
+<h4>Base Standards</h4>
+
+<a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">
+<b>Calendaring Extensions to WebDAV (CalDAV) RFC 4791</b></a><br>
+<i>This document defines extensions to the Web Distributed Authoring and
+Versioning (WebDAV) protocol to specify a standard way of accessing,
+managing, and sharing calendaring and scheduling information based on
+the iCalendar format.  This document defines the "calendar-access"
+feature of CalDAV.</i>	
+
+<br>
+<h4>Additional and Extensions</h4>
+
+<h4>Work in Progress</h4>
+
+<a href="http://trac.calendarserver.org/browser/CalendarServer/trunk/doc/Extensions/caldav-ctag.txt" target="_blank">
+<b>Calendar Collection Entity Tag (CTag) in CalDAV</b></a><br>
+<i>This specification defines an extension to CalDAV that provides a
+   fast way for a client to determine whether the contents of a calendar
+   collection may have changed.</i>
+
+<br><br>
+<a href="http://svn.macosforge.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-proxy.txt" target="_blank">
+<b>Calendar Usery Proxy Functionality in CalDAV</b></a><br>
+<i>This specification defines an extension to CalDAV that makes it easy
+   for clients to setup and manage calendar user proxies, using the
+   WebDAV Access Control List extension as a basis.</i>
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-daboo-srv-caldav" target="_blank">
+<b>Locating CalDAV and CardDAV Services</b></a><br>
+<i>This specification describes how DNS SRV records, DNS TXT records and
+   well-known URIs can be used together or separately to locate
+   Calendaring Extensions to WebDAV (CalDAV) or vCard Extensions to
+   WebDAV (CardDAV) services.</i>     
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-desruisseaux-caldav-sched" target="_blank">
+<b>Scheduling Extensions to CalDAV</b></a><br>
+<i>This document defines extensions to the Web Distributed Authoring and Versioning 
+(WebDAV) protocol to specify a standard way of exchanging and processing scheduling 
+messages based on the iCalendar Transport-Independent Interoperability Protocol 
+(iTIP). This document defines the "calendar-schedule" feature of CalDAV.</i>  
+ 
+<br><br>
+<i>Also see <a href="#WebDAV">Webdav</a></i>
+
+<br><br>
+<small>Return to <a href="#top">Top</a></small>
+<br><br>
+<hr>
+<a name="vCard"></a>
+<h3>vCard</h3>
+<h4>Base Standards</h4>
+
+<a href="http://www.rfc-editor.org/rfc/rfc6350.txt" target="_blank">
+<b>vCard Format Specification RFC 6350</b></a><br>
+<i>This document defines the vCard data format for representing and
+   exchanging a variety of information about individuals and other
+   entities (e.g., formatted and structured name and delivery addresses,
+   email address, multiple telephone numbers, photograph, logo, audio
+   clips, etc.). This is the new version and obsoletes RFCs 2425, 2426, and 4770, and
+   updates RFC 2739.</i>
+  
+<br><br>
+<a href="http://www.rfc-editor.org/rfc/rfc6351.txt" target="_blank">
+<b>xCard: vCard XML Representation RFC 6351</b></a><br>
+<i>This document defines the XML schema of the vCard data format.</i>
+   
+       
+<br>
+<h4>Additional and Extensions</h4>
+
+<a href="http://www.ietf.org/rfc/rfc2739.txt" target="_blank">
+<b>Calendar Attributes for vCard and LDAP RFC 2739</b></a><br>
+<i>This memo defines three mechanisms for obtaining a URI to a user's
+   calendar and free/busy time. These include manual transfer of the information,
+   personal data exchange using the vCard format, and directory lookup using the 
+   LDAP protocol.</i>
+   
+<br><br>   
+<a href="http://microformats.org/wiki/hcard" target="_bl;ank">
+<b>hCard 1.0 microformat</b></a><br>
+<i>hCard is a simple, open, distributed format for representing people, companies, organizations, 
+and places, using a 1:1 representation of vCard (RFC2426) properties and values in semantic HTML or XHTML.</i>
+ 
+
+<br> 
+<h4>Work in Progress</h4>
+  
+<a href="http://tools.ietf.org/html/draft-daboo-vcard-service-type" target="_blank">
+<b>vCard Service Type Parameter</b></a><br>
+<i>This document defines a "Service Type" parameter for use on various
+   vCard properties to help clients distinguish between different types
+   of communication services that may be using the same protocol, yet
+   are distinct.</i>  
+ 
+<br><br>
+<small>Return to <a href="#top">Top</a></small> 
+<br><br>
+<hr>
+
+<a name="CardDAV"</a>
+<h3>CardDAV</h3>
+
+  
+<h4>Base Standards</h4>
+
+<a href="http://www.rfc-editor.org/rfc/rfc6352.txt" target="_blank">
+<b>CardDAV: vCard Extensions to Web Distributed Authoring and Versioning (WebDAV) RFC 6352</b></a><br>
+<i>This document defines extensions to the Web Distributed Authoring and
+   Versioning (WebDAV) protocol to specify a standard way of accessing,
+   managing, and sharing contact information based on the vCard format.</i>
+
+<br>   
+<h4>Additional and Extensions</h4> 
+ 
+<h4>Work in Progress</h4> 
+ 
+<a href="http://tools.ietf.org/html/draft-daboo-carddav-directory-gateway/" target="_blank">
+<b>CardDAV Directory Gateway Extension</b></a><br>
+<i>This document defines an extension to the vCard Extensions to WebDAV
+   (CardDAV) protocol that allows a server to expose a directory as a
+   read-only address book collection.</i> 
+ 
+<br><br>
+<i>Also see <a href="#WebDAV">Webdav</a></i> 
+ 
+<br><br>
+<small>Return to <a href="#top">Top</a></small>
+<br><br>
+<hr>
+<a name="WebDAV"</a>
+<h3>WebDAV</h3>
+
+<h4>Base Standards</h4>
+
+<a href="http://www.ietf.org/rfc/rfc4918.txt" target="_blank">
+<b>HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV) RFC 4918</b></a><br>
+<i>Web Distributed Authoring and Versioning (WebDAV) consists of a set
+   of methods, headers, and content-types ancillary to HTTP/1.1 for the
+   management of resource properties, creation and management of
+   resource collections, URL namespace manipulation, and resource
+   locking (collision avoidance).</i>
+
+<br>
+<h4>Additional and Extensions</h4> 
+ 
+<a href="http://www.ietf.org/rfc/rfc5842.txt" target="_blank">
+<b>Binding Extensions to WebDAV RFC 4842</b></a><br>
+<i>This specification defines bindings, and the BIND method for creating
+   multiple bindings to the same resource.  Creating a new binding to a
+   resource causes at least one new URI to be mapped to that resource.
+   Servers are required to ensure the integrity of any bindings that
+   they allow to be created.</i> 
+   
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5689.txt" target="_blank">
+<b>Extended MKCOL for Web Distributed Authoring and Versioning (WebDAV) RFC 5689</b></a><br>
+<i>This specification extends the Web Distributed Authoring and
+   Versioning (WebDAV) MKCOL (Make Collection) method to allow
+   collections of arbitrary resourcetype to be created and to allow
+   properties to be set at the same time.</i> 
+	
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc4331.txt" target="_blank">
+<b>Quota and Size Properties for Distributed Authoring and Versioning (DAV) Collections RFC 4331 </b></a><br>
+<i>This document discusses the properties and minor behaviors needed for clients to
+   interoperate with quota (size) implementations on WebDAV
+   repositories.</i> 
+   
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5995.txt" target="_blank">
+<b>Using POST to Add Members to WebDAV Collectons RFC 5995</b></a><br>
+<i>This specification defines a discovery mechanism through which
+   servers can advertise support for POST requests with the
+   aforementioned "add collection member" semantics.</i>  
+   
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc3253.txt" target="_blank">
+<b>Versioning Extensions to WebDAV RFC 3253</b></a><br>
+<i>This document specifies a set of methods, headers, and resource types
+   that define the WebDAV (Web Distributed Authoring and Versioning)
+   versioning extensions to the HTTP/1.1 protocol.</i>  
+
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5323.txt" target="_blank">
+<b>Web Distributed Authoring and Versioning (WebDAV) SEARCH RFC 5323</b></a><br>
+<i>This document specifies a set of methods, headers and properties
+   composing WebDAV SEARCH, an application of the HTTP/1.1 protocol to
+   efficiently search for DAV resources based upon a set of client-
+   supplied criteria.</i> 
+	
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc3744.txt" target="_blank">
+<b>WebDAV Access Control Protocol RFC 3744</b></a><br>
+<i>This specification extends the Web Distributed Authoring and
+   Versioning (WebDAV) Protocol to support the server-side ordering of
+   collection members.</i>		
+			
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc5397.txt" target="_blank">
+<b>WebDAV Current Principal Extension RFC 5397</b></a><br>
+<i>This specification defines a new WebDAV property that allows clients
+   to quickly determine the principal corresponding to the current
+   authenticated user.</i>	
+ 
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc3648.txt" target="_blank">
+<b>WebDAV Ordered Collections Protocol RFC 3648</b></a><br>
+<i>This specification extends the Web Distributed Authoring and
+   Versioning (WebDAV) Protocol to support the server-side ordering of
+   collection members.</i> 
+
+<br> 
+<h4>Work in Progress</h4>  
+
+<a href="http://tools.ietf.org/html/draft-daboo-webdav-sync/" target="_blank">
+<b>Collection Synchronization for WebDAV</b></a><br>
+<i>This specification defines an extension to WebDAV that allows
+   efficient synchronization of the contents of a WebDAV collection.</i> 
+    
+<br><br>
+<small>Return to <a href="#top">Top</a></small> 
+<br><br>
+<hr>
+<a name="Related"</a>
+<h3>Related</h3> 
+
+<h4>Base Standards</h4> 
+
+<a href="http://www.ietf.org/rfc/rfc3339.txt" target="_blank">
+<b>Date and Time on the Internet: Timestamps RFC 3339 </b></a><br>
+<i>This document defines a date and time format for use in Internet
+   protocols that is a profile of the ISO 8601 standard for
+   representation of dates and times using the Gregorian calendar.</i>    
+    
+<br>
+<h4>Additional and Extensions</h4> 
+ 	
+<h4>Work in Progress</h4>   
+
+<a href="http://portablecontacts.net/draft-spec.html" target="_blank">
+<b>Portable Contacts</b></a><br>
+<i>The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. Specifically, it seeks to create a common access pattern and contact schema that any site can provide, well-specified authentication and access rules, standard libraries that can work with any site, and absolutely minimal complexity, with the lightest possible toolchain requirements for developers.</i>
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-douglass-timezone-service/" target="_blank">
+<b>Timezone Service Protocol</b></a><br>
+<i>This document defines a timezone service protocol that allows
+   reliable, secure and fast delivery of timezone information to client
+   systems such as calendaring and scheduling applications or operating
+   systems.</i>  
+   
+<br><br>
+<a href="http://tools.ietf.org/html/draft-douglass-timezone-xml/" target="_blank">
+<b>Timezone XML Specification</b></a><br>
+<i>This specification describes a format for describing timezone
+   information for software and services.</i> 
+   
+<br><br>   
+<a href="http://docs.oasis-open.org/ws-calendar/ws-calendar/v1.0/ws-calendar-1.0-spec.html" target="_blank">      
+<b> WS-Calendar</b></a><br>
+<i>WS-Calendar is an OASIS cross-domain standard for passing schedule and interval information
+between and within services</i>
+
+<br><br>
+<small>Return to <a href="#top">Top</a></small>  
+<br><br>
+<hr>   
+<br><br>  
+
+
+<!--
+<br><br>
+<a href="http://www.ietf.org/internet-drafts/draft-ietf-enum-calendar-service" target="_blank">
+http://www.ietf.org/internet-drafts/draft-ietf-enum-calendar-service</a><br>
+A Telephone Number Mapping (ENUM) Service Registration for Internet Calendaring Services<br>
+<i>This document registers a Telephone Number Mapping (ENUM) service for
+   Internet Calendaring Services.  Specifically, this document focuses
+   on provisioning 'mailto:' (iMIP) and 'http:' (CalDAV) URIs in ENUM.</i>
+
+<h3>Experimental, Deprecated or Obsolete Standards and Specifications</h3>
+
+<a href="http://www.imc.org/pdi/vcal-10.txt" target-"_blank">
+http://www.imc.org/pdi/vcal-10.txt</a><br>
+vCalendar, The Electronic Calendaring and Scheduling Exchange Format<br>
+<i>vCalendar was the predecessor to iCalendar and is now obsolete, although
+the vCalendar format is still in use, in particular in the mobile and
+travel industries.</i>
+
+<br><br>
+<a href="http://www.ietf.org/rfc/rfc3283.txt" target="_blank">
+http://www.ietf.org/rfc/rfc3283.txt</a><br>
+Guide to Internet Calendaring<br>
+<i>This document describes the various Internet calendaring and
+scheduling standards and works in progress, and the relationships
+between them, as of its publication date (2004).</i>
+
+
+<br><br>
+<a href="http://www.rfc-editor.org/rfc/rfc4324.txt" target-"_blank">
+http://www.rfc-editor.org/rfc/rfc4324.txt</a><br>
+Calendar Access Protocol (CAP)<br>
+<i>This memo defines an Experimental Protocol for the Internet
+   community.  It does not specify an Internet standard of any kind.
+   The Calendar Access Protocol (CAP) described in this memo permits a
+   Calendar User (CU) to utilize a Calendar User Agent (CUA) to access
+   an iCAL-based Calendar Store (CS).</i>
+
+ 
+   
+<br><br>   
+<a href="http://www.ietf.org/rfc/rfc2445.txt" target="_blank">
+http://www.ietf.org/rfc/rfc2445.txt</a><br>   
+RFC22445 Internet Calendaring and Scheduling Core Object Specification (iCalendar)<br>
+<i>This is the old version of iCalendar which was obsoleted by RFC5545.</i>
+
+<br><br>   
+<a href="http://www.ietf.org/rfc/rfc2446.txt" target="_blank">
+http://www.ietf.org/rfc/rfc2446.txt</a><br>   
+RFC 2446 iCalendar Transport-Independent Interoperability Protocol (iTIP)<br>
+<i>This is the old version of iTIP which was obsoleted by RFC5546.</i>
+
+<br><br>   
+<a href="http://www.ietf.org/rfc/rfc2447.txt" target="_blank">
+http://www.ietf.org/rfc/rfc2447.txt</a><br>   
+RFC 2447 iCalendar Message-Based Interoperability Protocol (iMIP)<br>
+<i>This is the old version of iMIP which was obsoleted by RFC6047.</i>
+
+<br><br>
+<a href="http://tools.ietf.org/html/draft-norris-ical-venue/" target="_blank">
+http://tools.ietf.org/html/draft-norris-ical-venue/</a><br>
+<b>VVENUE Component Specification for iCalendar</b><br>
+<i>The current iCalendar standard  provides only a simple 
+text field ("LOCATION" property) for specifying the location where an event (or 
+"TODO" item) will occur. While this may be adequate for human readers, it is 
+difficult for automated systems to make use of. With the recent advent of tools 
+and services (event aggregators, for example) which would benefit greatly from 
+structured location data, the need to specify detailed venue information has 
+become apparent. This document describes a proposed method for addressing this 
+need.</i>
+
+
+
+<br>
+<br>
+<br>
+<!-- Include the Service Mark and Copyright line -->
+<!--#include file="snippetend.html"-->
+
+</td>
+</tr>
+</table>
+<br>
+</body>
+</html>   
+
