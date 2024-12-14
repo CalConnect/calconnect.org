@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>CD1007 Timezone Service Protocol
+</title>
+
+  <link rel="stylesheet" href="mainstyle.css">
+
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  
+  <meta name="author" content="David C. Thewlis">
+  
+   
+
+</head>
+
+<body>
+
+<!-- Include the top header line and top navigation elements -->
+<!--#include file="snippettopheader.html"-->
+
+<div align="center">
+<table width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Included the side navigation elements for the HOME section -->
+<!--#include file="snippetresources.html"-->
+  
+    <td width="*" valign="top" align="left">	
+
+<pre> 	
+CALCONNECT DOCUMENT CD 1007
+Type:	   Proposal
+Title:     Timezone Service Protocol
+Version:   1
+Date:      2010-07-05 (original submission)
+Status:    Published; submitted as Internet Draft
+Source:    TIMEZONE Technical Committee
+</pre>		
+	
+<div align="center">
+
+<h2>Timezone Service Protocol</h2>
+</div>
+<br>
+This proposal was submitted to the IETF as an Internet Draft for the Standards Track
+as of the date shown above, and may be found at the following URL:
+<br><br>
+<a href="https://datatracker.ietf.org/doc/draft-douglass-timezone-service/" target="_blank">https://datatracker.ietf.org/doc/draft-douglass-timezone-service/</a>
+<br><br>
+This document defines a timezone service protocol that allows
+reliable, secure and fast delivery of timezone information to client
+systems such as calendaring and scheduling applications or operating
+systems.
+<br>
+<br>
+<br>
+<!-- Include the Service Mark and Copyright line -->
+<!--#include file="snippetend.html"-->
+
+</td>
+</tr>
+</table>
+<br>
+
+</body>
+</html> 

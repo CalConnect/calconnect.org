@@ -1,0 +1,69 @@
+Test 	Chair 	Invitees 	
+ No. 	Notes/Domino 	Netscape 	StelTor 	Pass/Fail - Comments 
+1 	Single RSVP 	Accept 	Accept 	
+2 	Single RSVP 	Decline 	Decline 	
+3 	Single Broadcast 	Accept 	Accept 	
+4 	Single Broadcast 	Decline 	Decline 	
+5 	Repeat RSVP 	Accept ALL 	Accept ALL 	
+6 	Repeat RSVP 	Decline ALL 	Decline ALL 	
+7 	Repeat Broadcast 	Accept ALL 	Accept ALL 	
+8 	Repeat Broadcast 	Decline ALL 	Decline ALL 	
+9 	Single Span Midnight 	Accept 	Accept 	
+10 	Single Span Midnight 	Decline 	Decline 	
+11 	Repeat Span Midnight 	Accept ALL 	Accept ALL 	
+12 	Repeat Span Midnight 	Decline ALL 	Decline ALL 	
+13 	Repeat RSVP 	Accept ALL but first 	Accept ALL but first 	
+14 	Repeat RSVP 	Decline ALL but first 	Decline ALL but first 	
+15 	Repeat RSVP 	Accept ALL but second 	Accept ALL but second 	
+16 	Repeat RSVP 	Decline ALL but second 	Decline ALL but second 	
+17 	Custom Repeat RSVP 	Accept ALL but first 	Accept ALL but first 	
+18 	Custom Repeat RSVP 	Decline ALL but first 	Decline ALL but first 	
+19 	Custom Repeat RSVP 	Accept ALL but second 	Accept ALL but second 	
+20 	Custom Repeat RSVP 	Decline ALL but second 	Decline ALL but second 	
+21 	Reschedule Date Test #1 	Accept 	Accept 	
+22 	Single RSVP 	Accept 	Accept 	
+23 	Reschedule Date Test #22 	Decline 	Decline 	
+24 	Single RSVP 	Accept 	Accept 	
+25 	Reschedule Time Test #24 	Decline 	Decline 	
+26 	Single RSVP 	Accept 	Accept 	
+27 	Reschedule Time Test #26 	Decline 	Decline 	
+28 	Repeat RSVP 	Accept ALL 	Accept ALL 	
+29 	Reschedule Date Test #28 	Accept ALL 	Accept ALL 	
+30 	Repeat RSVP 	Accept ALL 	Accept ALL 	
+31 	Reschedule Date Test #30 	Decline ALL 	Decline ALL 	
+32 	Repeat RSVP 	Accept ALL 	Accept ALL 	
+33 	Reschedule Time Test #32 	Accept ALL 	Accept ALL 	
+34 	Repeat RSVP 	Accept ALL 	Accept ALL 	
+35 	Reschedule Time Test #34 	Decline ALL 	Decline ALL 	
+36 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+37 	Reschedule Date Test #36 	Accept ALL 	Accept ALL 	
+38 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+39 	Reschedule Date Test #38 	Decline ALL 	Decline ALL 	
+40 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+41 	Reschedule Time Test #40 	Accept ALL 	Accept ALL 	
+42 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+43 	Reschedule Time Test #42 	Accept ALL 	Accept ALL 	
+44 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+45 	Reschedule Time Test #44 	Decline ALL 	Decline ALL 	
+46 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+47 	Reschedule Date & Time Test #46 	Accept ALL 	Accept ALL 	
+48 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+49 	Reschedule Date & Time Test #48 	Accept ALL 	Accept ALL 	
+50 	Custom Repeat RSVP 	Accept ALL 	Accept ALL 	
+51 	Reschedule Date & Time Test #50 	Decline ALL 	Decline ALL 	
+52 	Single RSVP 	Accept 	Accept 	
+53 	Reschedule  Date & Time Test #52 	Accept 	Accept 	
+54 	Single RSVP 	Accept 	Accept 	
+55 	Reschedule Date & Time Test #54 	Decline 	Decline 	
+56 	Single RSVP 	Accept 	Accept 	
+57 	Confirm #56 			
+58 	Single RSVP 	Decline 	Decline 	
+59 	Confirm #58 			
+60 	Single RSVP 	Accept 	Accept 	
+61 	Cancel #60 			
+62 	Single RSVP 	Decline 	Decline 	
+63 	Cancel #62 			
+
+
+
+Repeat this table two more times changing chairs, and invitees

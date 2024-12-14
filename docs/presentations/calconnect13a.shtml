@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title> CalConnect Roundtable XIII and IOP Test Event -- October 6-10 2008</title>
+
+  <link rel="stylesheet" href="mainstyle.css">
+
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  
+  <meta name="author" content="David C. Thewlis">
+  
+</head>
+
+<body>
+
+<!-- Include the top header line and top navigation elements -->
+<!--#include file="snippettopheader.html"-->
+
+<div align="center">
+<table width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Included the side navigation elements for the FUTURE EVENTS section -->
+<!--#include file="snippetfuture.html"-->
+  
+    <td width="*" valign="top" align="left">	
+
+<div align="center">
+<br>
+<h2>CalConnect XIII -- October 6-10 2008</h2>
+<h3>CalConnect Interoperability Test Event - 6-8 October</b><br>
+    CalConnect Roundtable XIII - 8-10 October</h3>
+	
+<b>Information current to August 11, 2008</b><br>
+<b>Change of venue to Yahoo Mission College Campus in Santa Clara and change in recommended hotels</b><br>
+<br><br>
+
+<table width="85%" border="0">
+  <tr>
+    <td valign="top">
+	  <a href="calconnect13.shtml#introduction">Introduction</a><br>
+	  <a href="calconnect13.shtml#registration">Registration</a><br>
+	  <a href="calconnect13.shtml#location">Location</a><br>
+	</td>
+	<td valign="top">
+	  <a href="calconnect13.shtml#transportation">Transportation</a><br>
+	  <a href="calconnect13.shtml#hotel">Conference Hotel</a><br>
+    </td>
+	<td valign="top">
+	  <a href="calconnect13.shtml#schedule">Schedule for week</a><br>
+<!--	  
+	  <a href="CalConnectXIII.ics">Downloadable Schedule .ics file</a><br>	
+-->	  	  
+	  <a href="calconnect13.shtml#agendas">Roundtable Sessions Topical Agendas</a><br>  
+  
+	</td>
+  </tr>
+</table>
+
+</div>
+<br><br>
+<a name="introduction"></a>
+CalConnect XIII, consisting of both a CalConnect Interoperability Test
+Event, followed by a CalConnect Roundtable (Members Meeting), will be held in
+Santa Clara, California, <u>Monday-Friday, October 6-10, 2008</u>, hosted by
+<a href="http://info.yahoo.com" target="_blank">Yahoo/Zimbra</a>  
+<br><br>
+The IOP Testing will take place all day Monday and Tuesday,
+and Wednesday morning, ending at noon on Wednesday.  The Roundtable will begin 
+with lunch at 12:30 on Wednesday the 8th, 
+and last through early afternoon Friday the 10th. 
+An optional Introductory Q &amp; A about CalConnect is scheduled at 11:00 on 
+Wednesday the 8th.
+<br><br>
+
+<table width="100%">
+  <tr>
+    <td width=50">
+	</td>
+	<td valign-"top">
+<b>CalConnect Interoperability Test Event</b>:
+
+The IOP Test Event event is open to both members and non-members as
+participants or as <a href="observer.shtml">observers</a>; please
+see <a href="iop0810.shtml">IOP Test Event October 2008</a> for current information.  Check
+back often as this will be updated as we get nearer to the event.
+<br><br>
+You do <u>not</u> need finished or polished code to participate
+in the IOP testing; in fact as soon as you have something working at all, testing
+against other participants can help debugging and code development, 
+especially in identifying red herrings and wrong decisions.
+<br><br>
+<i><b>Please Note:</b> This is a regular IOP test event focused on calendaring servers
+and desktop clients.  Please see <a href="miop0811.shtml">Mobile IOP Test Event 
+November 4-6 2008</a> for more information about the next Mobile IOP Test Event.</i>
+<br><br> 
+<b>Roundtable XIII:</b>
+The Roundtable Members Meeting will as usual offer Technical Committee sessions, 
+to which all members and <a href="observer.shtml">observers</a> are welcome, informal
+BOFs (Birds of a Feather sessions), plus additional sessions and committee 
+meetings. A Technical Preview of current work is also planned; see below.
+<br><br> 
+
+Friday morning will be the full Plenary meeting of the
+Consortium, open to all participants.  This session will include report-outs
+from all Technical Committees, possibly demonstrations resulting from the IOP
+testing earlier in the week, and establishment of future goals and directions
+for the Consortium.
+    </td>
+  </tr>
+</table>
+
+<br>
+<a name="registration"></a>
+<h3>Registration:</h3>
+
+<!--
+For member or <a href="observer.shtml">observer</a> individual registration for the Roundtable please go to
+<a href="roundtablereg.shtml">Roundtable XIII Registration</a>.  
+<br><br>
+For Corporate Registration badges please go go 
+<a href="roundtablecorpreg.shtml">Roundtable XIII Corporate Registrations</a>.
+<br><br>
+For member or non-member registration for the IOP test event as a 
+<u>participant</u> please go to 
+<a href="iopregparticipant.shtml">IOP Test Event Participant Registration</a>.
+For member or non-member registration for the Iop test event as an
+<u>observer</u> please go to 
+<a href="iopregobserver.shtml">IOP Test Observer Registration</a>.
+<br><br>
+<b>You must register separately for the Roundtable and for the IOP Test
+Event if you plan to do both</b>.
+<br><br>
+<b>Please note:</b> The early registration fee of <b>$350</b> for Roundtable XIII ends on 
+<u>September 21</u>.  After that date the registration fee will be <b>$395</b>.<br>
+
+-->
+
+Please go to <a href="regtypes.shtml">Registration and Payment Options</a> to choose
+your registration type and payment option for both the Roundtable and the CalConnect
+Interoperability Test Event.
+<br><br>
+<br>
+<a name="location"></a>
+<h3>Location</h3>
+
+CalConnect XIII will take place in <b>Building 2</b> at the Yahoo! Mission College
+Campus in Santa Clara at 2821 Mission Boulevard, Santa Clara, California, 95054.
+(This location is about two miles south of the main Yahoo! Sunnyvale campus.)
+<a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&lat=37.390832&lon=-121.978496&zoom=15&q1=2821%20Mission%20College%20Blvd%2C%20Santa%20Clara%2C%20CA%2C%2095054&gid1=31215286" target="_blank">
+Yahoo! Mission College Campus</a>.
+<br><br>
+
+<b>Meeting Room:</b> The IOP Test Event and the Roundtable will both take
+place in Training Rooms 5&amp;6 on the second floor of Building 2.<br>
+<br>
+<b>Visitor Registration:</b>We will provide a list of registered individuals 
+the week prior to the event.  When you arrive, come to Building 2 reception, and
+a visitor badge will be waiting for you; you will then be "buzzed" into the
+secure area. <i>If there is no badge waiting for you, please have them check
+with Training Rooms 5&amp;6 or call 707-498-2238 (Dave Thewlis).</i>
+<br><br>
+
+
+<b>Parking:</b> There are no parking restrictions at this location; you may
+park wherever you find a place.
+<br><br />
+
+<a name="transportation"></a>
+<h3>Transportation</h3>
+
+<b>Airport Information:</b> 
+The San Francisco Bay Area is served by three airports: 
+<a href="http://www.sjc.org/" target="_blank">San Jose Mineta Airport (SJC)</a>,
+<a href="http://www.flysfo.com/default.asp" target="_blank">San Francisco International (SFO)</a>,
+and <a href="http://www.flyoakland.com/" target="_blank">Oakland International (OAK)</a>.
+<br><br>
+Santa Clara is approximately eight miles from the San Jose Airport, and approximately
+30 miles from San Francisco International. Oakland International is
+on the east side of the Bay and less convenient.  SFO has the most
+flights and airlines serving it, but you may be able to find less
+expensive fares via SJC or OAK.  
+<br><br>
+<b>Ground Transportation:</b>
+Information on rental cars and shuttles are available on all three 
+airport websites.
+<br><br>
+
+<a name="hotel"></a>
+<h3>Hotels:</h3>
+There are many  hotels close to the Mission College Campus.
+The four hotels listed below all offer Yahoo! corporate rates and are
+within walking distance.  The Holiday Inn is only about two blocks, followed by the Marriott, the
+Hyatt Regency, and the Biltmore at a bit over a mile.  The Biltmore is fairly close to the 101 Freeway.
+<br><br>
+
+
+<table>
+  <tr>
+    <td width="100"</td>
+	<td valign="top">
+	  Holiday Inn Santa Clara-Great America<br>
+	  4200 Great America Pkwy<br>
+	  Santa Clara, CA 95054<br>
+	  Phone: 408-235-8900<br>
+	  Free internet<br>
+	  Complimentary shuttle to/from San Jose Airport<br>
+	  Yahoo Rate:  $119, $149 Executive Room<br>	
+	  <br>
+	  Hyatt Regency Santa Clara<br> 
+	  5101 Great America Parkway <br>
+	  Santa Clara, California , USA 95054<br> 
+	  Tel: +1 408 200 1234 Fax: +1 408 980 3990<br> 
+	  http://santaclara.hyatt.com/hyatt/hotels/<br>
+	  Internet $9.95/24 hours<br>
+	  Yahoo Rate $180<br>
+	</td>
+	<td width="50"></td>
+	<td valign="top">
+	  Marriott Santa Clara<br> 
+	  2700 Mission College Boulevard<br>
+	  Santa Clara, California 95054 USA<br>
+	  Phone:  1-408-988-1500<br>
+	  Fax:  1-408-352-4353<br>
+	  Sales fax:  1-408-748-9529<br>
+	  http://www.marriott.com/hotels/travel/sjcga-santa-clara-marriott/<br>		
+	  Internet $9.95/24 hours<br>
+	  Yahoo Rate: $184<br>	
+
+	  <br>
+	  Biltmore Hotel and Suites<br>
+	  2151 Laurelwood Road, Santa Clara, CA 95054<br>
+	  Tel: 408.988.8411  Reservations/Sales: 800.255.9925<br>
+	  http://www.hotelbiltmore.com/<br>
+	  Free Internet<br>
+	  Yahoo Rate:  $127, $147 suite<br>
+	</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<br><br>
+<a name="schedule"></a>
+<h3>Schedule:</h3>
+
+This is the <u>preliminary</u> schedule for the week.  The IOP Test Event begins at 0800
+Monday morning and runs all day Monday and
+Tuesday, plus Wednesday morning.  The Roundtable begins with lunch on Wednesday
+and runs until early afternoon on Friday.</b>  The exact assignment of TC sessions to
+dates and times <u>is tentative and will probably change</u>.  A final schedule and agendas 
+for the sessions and BOFs will be posted nearer to the event.
+<br><br>
+
+A downloadable iCalendar.ics file with the entire schedule will be available
+once the specific sessions are scheduled.
+<!-- 
+<a href="CalConnectXIII.ics">CalConnectXIII.ics</a>.
+-->
+
+<br><br>
+<br>
+
+<table width="90%" border="0">
+  <tr>
+    <td valign="top" colspan="3">
+	  <b>CALCONNECT INTEROPERABILITY TEST EVENT</b> 
+	</td>
+  </tr>
+  <tr>
+    <td valign="top">
+	  <Font size="-2">
+      <b>Monday 6 October</b><br>
+	  0800-0830 Opening Breakfast<br />
+	  0830-1000 Testing<br />
+	  1000-1030 Break<br />
+	  1030-1230 Testing<br />
+	  1230-1330 Lunch<br />
+      1330-1530 Testing<br />
+      1530-1600 BOFs/Break<br />
+	  1600-1800 Testing<br />
+	  <br>
+	  1900-2030 IOP Test Dinner<br>
+	  &nbsp;&nbsp;&nbsp;<i>Location TBD</i>
+	  </font>
+    </td>
+    <td valign="top">
+	  <font size="-2">
+      <b>Tuesday 7 October</b><br>
+      0800-0830 Breakfast<br />
+      0830-1000 Testing<br />
+      1000-1030 Break<br />
+      1030-1230 Testing<br />
+      1230-1330 Lunch<br />
+      1330-1530 Testing<br />
+	  1530-1600 Break<br>
+	  1600-1800 Testing<br />
+	</td>
+	<td valign="top">
+	  <font size="-2">
+      <b>Wednesday 8 October</b><br>
+      0800-0830 Breakfast<br />
+      0830-1000 Testing<br />
+      1000-1030 Break<br />
+      1030-1200 Testing<br />
+	  1200-1230 Wrap-up<br>
+	  1230 End of IOP Testing</br />
+	  <br>
+	  1230-1330 Lunch/Opening<sup>1</sup>
+	</td>
+	
+	
+  </tr>
+  <tr><td colspan="3" height="40"></td></tr>
+  <tr>
+    <td valign="top" colspan="3">
+	  <b>ROUNDTABLE XIII</b> **Tentative Schedule**<br>
+	</td>
+  </tr>
+  <tr>
+	<td valign="top">
+	  <font size="-2">
+	  <b>Wednesday 8 October</b><br />
+	  1115-1200 Introduction to CalConnect<sup>2</sup><br />	  
+	  1230-1330 Lunch/Opening<br />
+	  1330-1530 TC CALDAV<br />
+	  1530-1600 Break<br />
+	  1600-1800 Tech Demos:<br>
+	         &nbsp;&nbsp;&nbsp; Freebusy URL<br />
+	         &nbsp;&nbsp;&nbsp; CalDAV Scheduling<br>
+			 &nbsp;&nbsp;&nbsp; iSCHEDULE Server-Server Scheduling<br />
+	  <br>
+	  1800-1930 Welcome Reception<sup>3</sup><br>
+	  &nbsp;&nbsp;&nbsp;On site; Hosted by Yahoo/Zimbra<br />
+	  </font>
+    </td>
+	<td valign="top"> 
+	  <font size="-2">
+      <b>Thursday 9 October</b><br />
+      0800-0830 Breakfast<br />
+	  0830-0930 TC MOBILE<br />
+	  0930-1000 IOP Virtual Test Area Demo<br />
+	  1000-1030 Break<br>
+	  1030-1130 TC TIMEZONE<br />
+	  1130-1230 TC XML<br>
+	  1230-1330 Lunch<br />
+	  1330-1500 TC iSCHEDULE<br>
+	  1500-1600 TC FREEBUSY<br>
+	  1600-1630 Break<br />
+	  1630-1800 Steering Committee<br />
+	  <br>
+	  1930-2130 Group Dinner<sup>3</sup><br />
+	  &nbsp;&nbsp;&nbsp;<i>Location TBD</i>
+    </td>
+
+	<td valign="top"> 
+	  <font size="-2">
+      <b>Friday 10 October</b><br />
+
+      0800-0830 Breakfast<br />
+	  0830-1000 TC EVENTPUB<br>
+      1000-1030 Break<br />
+	  1030-1200 TC USECASE<br>
+	  1200-1300 Working Lunch<br />
+	  1200-1245 TC Wrapup<br />
+	  1245-1400 CalConnect Plenary Session<br />
+	  1400 Close of Meeting<br />
+      </font>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="25"></td></tr>
+  <tr>
+    <td colspan="3" valign="top">
+	  <font size="-2">
+	  <sup>1</sup>The Wednesday noon lunch is for all opening break is for all attendees as they arrive<br />
+	  <sup>2</sup>The Introduction to CalConnect is an optional informal Q&amp;A session for
+	  new attendees (observers or new member representatives)<br />
+  	  <sup>3</sup>All Roundtable and IOP Test Event participants are invited
+	  to the Wednesday evening reception<br />
+	  <sup>4</sup>All Roundtable participants are invited to the group dinner<br />
+	  <br /><br />
+	  Breakfast, lunch, and morning and afternoon breaks will be served to all
+	  participants in the Roundtable and the IOP test events and are included in your
+	  registration fees.
+	  </font>
+	</td>
+  </tr>
+</table>
+
+</div>
+
+
+<a name="agendas"></a>
+<h3>Topical Agendas:</h3>
+Topical Agendas for all Technical Committee sessions will be provided nearer
+to the event.
+<!--
+<div align="center">
+<table width="90%">
+  <tr>
+    <td width="50%" valign="top">
+       <font size="-2">
+   
+<b>TC CALDAV</b> Thu 0900-1030<br>
+1 Progress and Status Update<br>
+1.1 IETF &amp; CalConnect<br>
+1.2 CalDAV Scheduling<br>
+1.3 Scheduling Privileges<br>
+2. Open Discussions<br>
+2.1 Access Control Groups<br>
+2.2 Varia<br>
+3. Moving Forward<br>
+3.1 Plan of Action<br>
+3.2 Next Conference Calls<br>
+
+<br>
+<b>TC EVENTPUB</b> Fri 1000-1100<br>
+TBD<br>
+
+<br>
+<b>TC FREEBUSY</b> Wed 1530-1700<br>
+1. Update on issues and progress<br>
+2. Overview of existing Freebusy services<br>
+3. Review of Freebusy URL Draft<br>
+
+<br>
+<b>TC IOPTEST</b> Wed 1245-1300<br>
+1. Review of IOP test participant findings<br>
+2. Planning for RFC<i>bis</i> IOP Testing<br>
+
+<br>
+<b>TC MOBILE</b> Thu 1330-1445<br>
+1. Progress and Status<br>
+1.1 Update on work activites since Roundtable XI<br>
+2. Discussion: Mobile Recurrence Interoperability Recommendations document<br>
+3. Discussion: Requirements for a Virtual Test Area document<br>
+4. Planning for Mobile Calendaring IOP Test Event in Q4 2008<br>
+5. Planning for future work<br>
+5.1 Identify future work items<br>
+5.2 Review &amp; update charter &amp; milestones<br>
+
+</td>
+<td width="*" valign="top">
+  <font size="-2">
+
+<b>TC REALTIME</b> Wed 1300-1500<br>
+1. Progress and Status Update<br>
+2. Overview of DKIM<br>
+3. Security discussion and DKIM applicability<br>
+4. Plan of Action<br>
+5. Next Conference Calls<br>
+
+<br>
+<b>TC TIMEZONE</b> Thu 1445-1600<br>
+1. Progress since Roundtable XI<br>
+2. Presentation of draft RFC<br>
+3. Further discussion - next steps<br>
+
+<br>
+<b>TC USECASE</b> Fri 0900-1000</br>
+1. Review recent work on Attribute sets:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Survey, vCard, Usecase, User<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Intersection Sets<br>
+3. Possible recommendations<br>
+4. vCard/iCalendar integration possibilities><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Resource Alt-Ref?<br>
+
+<br>
+<b>TC XML</b> Thu 1100-1230<br>
+1. Reminder of Charter and Goals<br>
+2. Discuss progress to date<br>
+3. Review and example mapping<br>
+4. Review key issues raised in discussions<br>
+
+<br>
+<b>SCHEDULED BOFS</b><br>
+1. Notification Issues (Mon 1530-1600)<br>
+2. Technical Previews in October;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Value of public demo or conference (Wed 1700-1800)<br> 
+
+    </td>
+  </tr>
+</table>
+</div>
+<br>
+<b>Please Note:</b> Additional requests for BOF sessions can be made at the
+Wednesday opening and known BOFs will be scheduled at that time.  However 
+spontaneous BOF sessions are welcome to be called at BOF session during the
+Roundtable.<br>
+
+
+</font>
+-->
+
+
+<br>
+<br>
+<br>
+<!-- Include the Service Mark and Copyright line -->
+<!--#include file="snippetend.html"-->
+
+</td>
+</tr>
+</table>
+<br>
+
+</body>
+</html>

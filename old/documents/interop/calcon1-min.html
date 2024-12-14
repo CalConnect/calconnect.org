@@ -1,0 +1,78 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Pat Egen">
+   <meta name="GENERATOR" content="Mozilla/4.73 [en] (WinNT; U) [Netscape]">
+   <title>CalConnect 1 - April 11-12,2000</title>
+</head>
+<body>
+On April 11 and 12, 2000, CalConnect Spring
+was held in Boston. It was graciously hosted by MIT and chaired by Bob
+Mahoney.
+<p>The following companies and representatives were in attendance:
+<p>Tom Ransdell, Lotus,
+<br>Dan Gurney, Iris/Lotus,
+<br>John Sun, iPlanet,
+<br>Ki Wong, iPlanet,
+<br>Katia Hage, Microsoft,
+<br>Colin DuPlantis, Critical Path,
+<br>Bob Mahoney, MIT,
+<br>Paul Hill, MIT.
+<p>Pat Egen sat at home with a broken leg, and assisted (poorly) from the
+sidelines.
+<p>The following products and versions were tested:
+<p>EventCenter Version 3.0 (Critical Path)
+<br>Outlook 2000 and Outlook Express 5.0 (Microsoft)
+<br>iPlanet - internal unreleased alpha version iCS 5.0, server and client
+(Netscape)
+<br>Organizer (Lotus)
+<p>First off, thanks to everyone for their efforts.&nbsp; There was&nbsp;
+consensus that all participants have a lot of work to do, and that
+<br>another testing event should be held in the fall.&nbsp; A west coast&nbsp;
+location was suggested, although some interest was also expressed&nbsp;
+for New Orleans or San Antonio.&nbsp; All participants felt that great
+progress would be made in the coming months.
+<p>Little interoperability has occurred so far. Repeating events and&nbsp;
+canceled events seem to be causing problems. Parsers are working OK&nbsp;
+but the actual generation of the data objects is very inconsistent.
+<p>Problems found with recurrence included the following:
+<br>- one vendor always generates and expects rrules, but cannot handle
+rdates.
+<br>- two vendors always generate rdates and cannot currently handle rrules.
+<br>- one vendor handles rrules but cannot handle exceptions.
+<p>There was a brief discussion about redesigning recurrence. Some useful
+alternatives were suggested but the developers also seemed to be willing
+to live with the current specification. They did feel that word-smithing
+would help.&nbsp; This will be brought back to the list in more detail
+for some review.
+<p>The biggest complaints are currently with iMIP and the MIME handling.
+"iMIP under-constrains what may be emitted by a data source; this requires
+a client to handle every possible case" which is perceived as a heavy burden
+by the developers.
+<p>Regarding MIME: "(multipart mixed vs. multipart alternative vs. text-alternative
+vs.attachments ...)" - the developers would be happier if there fewer options,
+or perhaps some stronger assertions in the draft.&nbsp; This too will be
+put on the list.
+<p>There has been virtually no interoperability testing of alarms yet.
+There were some side issues relating to alarms, which will be brought back
+to the list.
+<p>There has been virtually no testing of conformance with line lengths
+yet.
+<p>A number of minor problems with blank spaces, terminating lines, and
+MIME boundaries were observed and are in the process of being fixed by
+the implementors.
+<p>No tester has fully implemented Journals. One vendor has the support
+in the parser but no support in the front end, so they cannot be generated
+or displayed by the product. All of the implementors indicate that supporting
+Journals is intended and that no obstaclesare seen, they are just lower
+on the priority list so far.
+<p>There has been no testing of signed or encrypted objects. This should
+be a major goal of the next testing event.
+<p>Some progress is better than no progress.&nbsp; Look for additional
+activity on the list as we post some of the items referenced above.&nbsp;
+CalConnect Fall will be announced later in the year.
+<p>Respectfully submitted,
+<p>Pat Egen and Bob Mahoney
+</body>
+</html>

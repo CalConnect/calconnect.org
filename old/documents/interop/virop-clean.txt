@@ -1,0 +1,137 @@
+Program:
+
+Vendors and Products:
+=========
+Oracle Collaboration Suite - Calendar Server 9.0.4 Alpha
+Oracle Outlook Connector 3.3
+Oracle CorporateTime Native Client 6.1 Alpha
+Oracle CorporateTime iMIP/iTIP Helper Application
+=========
+KOrganizer - CVS for 3.1
+=========
+Lotus Notes/Domino - Ver 6.0
+=========
+Novell NIMS
+
+Vendor1 problems:
+•	If the ical-attachment is send MIME-encoded, in a form that affects it's    plaintext appearence (in the mail), Vendor1 can't read it properly/at all. This occured only with Vendor4-products.
+•	Vendor1 doesn't send timezone information when dealing with recurring events.
+•	"UNTIL" in RRULE isn't set as correct UTC-value
+•	Vendor1 can't deal with ical-attachments
+•	almost all other bugs that occured are fixed already
+
+Other Problems:
+•	Vendor2's Client didn't send "Organizer"-information in their REPLY-messages as requestred in RFC 2445 3.2.3
+•	some more I can't remember, and which may be fixed already
+
+Communication with Vendor3 had no problems.
+Communication with Vendor2 had only the one above mentioned REPLY-problem.
+Communication with Vendor4 is very limited (see MIME-problem).
+
+Personal note:
+It's unluky, that we had some technical problems, that handicaped communication,and stole a lot of time. So testing was limited to some basics of 
+
+Results:
+=========
+We were not able to test as much as in the previous calconnect, which was more
+productive. We mostly tried creating and replying to events, thus the methods
+that were tested were REQUEST and REPLY.
+
+Event With One Occurrence Created By Vendor4:
+-------------------------------------------
+                                |  Vendor4 |  Vendor2 |  Vendor1       | Vendor3 |
+--------------------------------+----------+----------+----------------+----+
+Able To Process REQUEST         |   Yes    |   Yes    |     Yes        |  Yes    |
+--------------------------------+----------+----------+----------------+----+
+Able To Send REPLY to REQUEST   |   Yes    |   Yes    |     Yes        |  Yes    |
+--------------------------------+----------+----------+----------------+----+
+Able To Process REPLY           |   Yes    |   Yes    |     Yes        |  Yes    |
+--------------------------------+----------+----------+----------------+----+
+
+Event With One Occurrence Created By Other Vendor:
+-------------------------------------------------
+
+                                       |  Vendor4  |  Vendor2  |  Vendor1  |  Vendor3  |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor4 Able To Process REQUEST         |   Yes    |   Yes    |     Yes        |  Yes   |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor4 Able To Send REPLY to REQUEST   |   Yes    |   Yes    |     Yes        |  Yes   |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor Able To Process REPLY           |   Yes    |   Yes    |     Yes        |  Yes    |
+---------------------------------------+----------+----------+----------------+---------+
+Event With an RRULE Created By Vendor4:
+--------------------------------------
+                                |  Vendor4  |  Vendor2  |  Vendor1  |  Vendor3  |
+--------------------------------+----------+----------+----------------+---------+
+Able To Process REQUEST         |   Yes    |   Yes    |      No        |  Yes    |
+--------------------------------+----------+----------+----------------+---------+
+Able To Send REPLY to REQUEST   |   Yes    |   Yes    |      No        |  Yes    |
+--------------------------------+----------+----------+----------------+---------+
+Able To Process REPLY           |   Yes    |   Yes    |      No        |  Yes    |
+--------------------------------+----------+----------+----------------+---------+
+
+Event With an RRULE Created By Other Vendor:
+--------------------------------------------
+                                       |  Vendor4  |  Vendor2  |  Vendor1  |  Vendor3  |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor4 Able To Process REQUEST         |   Yes    |   Yes    |      No        |  Yes   |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor4 Able To Send REPLY to REQUEST   |   Yes    |   Yes    |      No        |  Yes   |
+---------------------------------------+----------+----------+----------------+---------+
+Vendor Able To Process REPLY           |   Yes    |   Yes    |      No        |  Yes    |
+---------------------------------------+----------+----------+----------------+---------+
+
+Miscellaneous:
+--------------
+•	We had some success with CANCEL and updates (REQUEST). However, we do not remember with
+which vendors. Vendor3 had success processing a VEVENT that we sent to it that had different character set in it. Some vendors were also able to process a REQUEST we sent that had multiple RDATEs.
+•	Vendor2 had trouble with line folding, multipart/mixed, and they required that attendees
+have a common name ("CN").
+•	Vendor1 had trouble with quoted-printable, and had a DTSTART in UTC for events
+with RRULEs. According to iCalendar, when a DTSTART is used with a recurrence rule,
+it must be specified local time.
+
+Vendor 3 Notes: 
+
+Microsoft and 2 others were scheduled to participate but did not show up.  Unfortunately we had some technical issues testing w/Vendor4 folks and there were some server uptime issues inhouse that increased the testing lag on our end. 
+
+The Good News: 
+
+We were successfully able to do non-repeating and repeating meeting testing with all implementations.  We were able to both send and receive invitations to single instance and repeating meetings just fine.  We were also able to send attachments along with each type of invitation and they were at least received correctly by the other testers (although some did not know how to deal with multipart MIME data yet for assorted reasons). 
+
+Particular notes relating to specific implementations: 
+
+Vendor4: 
+Vendor4 did not send us any tests with attachments so we were not able to fully test that feature inbound to Notes. 
+
+Vendor 1: 
+Vendor 1 is not multipart MIME savy given how it is wired into the mail client (via scripting).  As such it has limitations on it that prevented it from dealing with any attachments we sent.  This is not a failure of the test but a restriction of the receiving client. 
+
+Vendor2: 
+Vendor2 was able to send back multiple responses to both the single and repeating instances; to Accept, Decline and Tentatively Accept.  We were able to properly detect this status change and render it on our end. 
+
+The Not-so-good News: 
+
+The testing done was more at an vendor to vendor level than a pure IETF "RFC Conformance" test (where we test the explicit MUST/SHOULD/MAY/etc requirements).  We need to find a way to identify all of the IETF requirements and map them to vendor to vendor tests that we generally do (or provide some matrix of what we must test to satisfy the IETF requirements for an interop event). 
+
+We did not attempt any VTODO (aka Tasks) or VJOURNAL interop testing.   Per IETF rules, if we do not get any implementations that support them then we must remove them from the standard in the future (but no timeframe for this removal is clear). 
+
+Particular notes relating to specific implementations: 
+
+Vendor4: 
+Vendor4 attempted to invite a Vendor3 user to a single instance of a repeating set by sending the correct iCalendar message that uniquely identified the single instance.  We misconverted it to be a single instance meeting that repeated at the original date/time (which was before the actual instance date/time so thats not so good). 
+
+Vendor1: 
+Vendor1 had some small issues with adhering to the RFCs.  Guenter was very active in either fixing or explaining them.  For example, Vendor1 sends back ALL invitees on a REFRESH request but RFC 2446 expressly states that only the requestors ATTENDEE info is allowed.  As a result, we incorrectly identify the "Request for Update" as being from the 1st listed ATTENDEE rather than from the actual requestor. 
+
+Vendor2: 
+Vendor2 does not have full featured workflow support in yet.  They do not support delegation, counter proposals or anything associated with them.  While they do support the basic accept, decline and tentative acceptances, the other iTIP messages are ignored or not supported so trying them against an invitation from VENDOR2 results in an undetermined state or loss of workflow (at least from the non-VENDOR2 POV). 
+We did not receive any Vendor2 originating workflow, they simply responded to the ones we sent out.  As such, we do not know how well we interoperate with them when they are the Organzier of an event or repeating event.  I was not able to find out if this was because we did not have enough testing time or if they are unable to originate iCalendar workflow just yet 
+
+Summary: 
+
+Multipart support/formatting seems to be a source of confusion still given the discussions held during the interop and on the chats.  This should NOT be a repeat issue but since its come up again we need to draft some guidelines for the 'proper' multipart bundling of iCalendar above and beyond the flat ASCII messages. 
+
+By the next event we plan to have a formalized testing matrix and plan that we can all use to do interop testing.   There needs to be some kind of mapping between what the IETF is looking for relating to standards acceptance and what we implementors are looking for such as feature C&S workflow level interop. 
+
+I'm working on making an understandable matrix of the MUST/SHOULD/MAY/etc clauses in the RFCs and what they mean for testing.  Given our pending release schedules I did not have time to complete this lately.  Hopefully I can get it done after some hard earned time off and before we spin up again. 

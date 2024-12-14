@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE rfc SYSTEM "rfc2629.dtd" [
+<!ENTITY RFC2119 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2119.xml">
+<!ENTITY RFC2445 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2445.xml">
+<!ENTITY RFC2446 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2446.xml">
+<!ENTITY RFC3688 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.3688.xml">
+<!ENTITY W3C.REC-xml-20060816 SYSTEM "http://xml.resource.org/public/rfc/bibxml4/reference.W3C.REC-xml-20060816.xml">
+]>
+<?xml-stylesheet type='text/xsl' href='rfc2629.xslt' ?>
+<?rfc strict="yes" ?>
+<?rfc toc="yes"?>
+<?rfc tocdepth="5"?>
+<?rfc symrefs="yes"?>
+<?rfc sortrefs="yes" ?>
+<?rfc compact="yes" ?>
+<?rfc subcompact="no" ?>
+<rfc category="std" docName="draft-douglass-timezone-provider-registry-00" ipr="full3978">
+
+  <front>
+    <title abbrev="Timezones Provider Registry">Timezones Provider Registry</title>
+
+    <!-- add 'role="editor"' below for the editors if appropriate -->
+
+    <author initials="C." surname="Daboo" fullname="Cyrus Daboo">
+      <organization abbrev="Apple">Apple Inc.</organization>
+      <address>
+        <postal>
+          <street>1 Infinite Loop</street>
+          <city>Cupertino</city>
+          <region>CA</region>
+          <code>95014</code>
+          <country>USA</country>
+        </postal>
+        <email>cyrus@daboo.name</email>
+        <uri>http://www.apple.com/</uri>
+      </address>
+    </author>
+
+    <author initials="M." surname="Douglass" fullname="Michael Douglass">
+      <organization abbrev="RPI">Rensselaer Polytechnic Institute</organization>
+      <address>
+        <postal>
+          <street>110 8th Street</street>
+          <city>Troy</city>
+          <region>NY</region>
+          <code>12180</code>
+          <country>USA</country>
+        </postal>
+        <email>douglm@rpi.edu</email>
+        <uri>http://www.rpi.edu/</uri>
+      </address>
+    </author>
+
+    <date year="2009" />
+
+    <area>Applications</area>
+
+    <keyword>timezones</keyword>
+
+    <keyword>registry</keyword>
+
+    <abstract>
+      <t>
+        This document defines a timezone provider registry.
+      </t>
+    </abstract>
+  </front>
+
+  <middle>
+    <section title="Introduction">
+      <t>The lack of a standardized timezone registry and service has led to a
+         number of significant problems for vendors and users alike, for example,
+         the daylight savings time changes for the US in 2007.
+      </t>
+
+      <t>
+         In XXX, an author registry is defined. Here we define a provider
+         registry which supplies the information needed by a
+         timezone service to locate timezone information.
+       </t>
+
+      <section title="XML Namespaces">
+        <t>
+          Definitions of XML elements in this document use XML element
+          type declarations (as found in XML Document Type Declarations),
+          described in Section 3.2 of <xref target="W3C.REC-xml-20060816"/>.
+        </t>
+        <t>
+          The namespace "urn:ietf:params:xml:ns:timezones" is reserved for the
+          XML elements defined in this specification, or in other Standards
+          Track IETF RFCs written to extend timezones. It MUST NOT be used
+          for proprietary extensions.
+        </t>
+        <t>
+          Note that the XML declarations used in this document are
+          incomplete, in that they do not include namespace information.
+          Thus, the reader MUST NOT use these declarations as the only way
+          to validate timezones XML element types.
+        </t>
+      </section><!-- XML Namespace -->
+
+      <section anchor="conventions" title='Conventions Used in This Document'>
+        <t>
+          The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
+          NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED",
+          "MAY", and "OPTIONAL" in this document are to be interpreted as
+          described in <xref target='RFC2119'/>.
+        </t>
+
+        <section anchor="glossary of terms" title="Glossary of terms">
+          <t>The following terms with the given meanings are used throughout this
+            document.
+
+            <list style='hanging'>
+              <t hangText="Author:">
+                A registered organization of some kind which creates timezone
+                information, e.g. Olson;
+              </t>
+
+              <t hangText="Provider:">
+                A registered organization which makes available timezone
+                information produced by an Author;
+              </t>
+
+              <t hangText="Registry:">
+                A file maintained by IANA;
+              </t>
+            </list>
+          </t>
+        </section>
+      </section>
+    </section>
+
+    <section anchor="timezone_data_authors_providers"
+             title="Timezone Data Authors and Providers">
+      <t>
+        Timezone data is created and maintained by timezone authors. An author
+        is an organization or individual. An example is Olson which is a person
+        which represents a group of individuals maintaining the well known Olson
+        database.
+      </t>
+
+      <t>
+        Timezone authors will generally have some well-known process for locating
+        and maintaining the data they provide as the consumers of that data need
+        to be able to reply on its correctness and the longevity of the source.
+      </t>
+
+      <t>
+        Timezone providers are organizations which provide a root service to deliver
+        information supplied by authors. Thus, an international standards body
+        may choose to provide a root service which publishes the Olson data.
+      </t>
+
+      <t>
+        Timezone providers do not necessarily check or endorse the data they
+        provide. They do guarantee to provide a usable level of service.
+      </t>
+    </section>
+
+    <section anchor="timezone_provider_registry"
+             title="Timezones Provider Registry">
+      <t>
+        Each provider element in the registry identifies a provider and has the
+        following sub-elements:
+        <list style='hanging'>
+          <t hangText="name:">
+            a name used to identify the particular entry.
+          </t>
+          <t hangText="service-root:">
+            The host, port and context for the root server. Users of the registry
+            will append the appropriate request parameters to retrieve the
+            timezone data.
+          </t>
+          <t hangText="contact:">
+            Provides a way - which may require human intervention - to contact
+            the provider. This may be for example,  a vcard url, a telephone
+            number or a web site
+          </t>
+          <t hangText="description:">
+            Some further human-readable information.
+          </t>
+        </list>
+      </t>
+
+      <section anchor="updating_timezone_provider_registry"
+               title="Updating the Timezone Provider Registry">
+        <t>
+          This section should describe how a provider gets registered and how the
+          registry gets updated and who can do it.
+        </t>
+      </section>
+
+      <section anchor="example_timezone_provider_registry"
+               title="Example: Timezone Provider Registry">
+        <figure>
+          <preamble>In this example we show an xml formatted timezone registry.
+          </preamble>
+
+          <artwork><![CDATA[
+<?xml version="1.0" encoding="utf-8" ?>
+<timezone-provider-registry xmlns="urn:ietf:params:xml:ns:timezones">
+  <version>1.0</version>
+  <provider>
+    <name>example.com</name>
+    <service-root>https://example.com/olsontzs</service-root>
+    <contact>http://example.com/carddav/orgs/Olson</contact>
+    <description>This producer serves the information authored by
+      Olson et al.
+    </description>
+  </provider>
+  <provider>
+    <name>EXAMPLE.ORG</name>
+    <service-root>https://example.org/egtzs</service-root>
+    <contact>telephone:+1 555 555 1234</contact>
+  </provider>
+</timezone-provider-registry>
+
+        ]]></artwork>
+        </figure>
+      </section>
+    </section>
+
+    <section anchor="iana_considerations" title='IANA Considerations'>
+      <section anchor="iana_xml_namespace"
+               title='Namespace Registration'>
+        <t>
+         This document uses one new URN to identify a new XML namespace.  The
+         URN conforms to a registry mechanism described in <xref target='RFC3688'/>.
+        </t>
+
+        <t>
+          Registration request for the timezones namespace:
+        </t>
+
+        <t>
+          URI: urn:ietf:params:xml:ns:timezones
+        </t>
+
+        <t>
+          Registrant Contact: See the "Authors' Addresses" section of this
+          document.
+        </t>
+
+        <t>
+          XML: None.  Namespace URIs do not represent an XML specification.
+        </t>
+      </section>
+      <section anchor="iana_registries"
+               title='Registries'>
+        <t>
+          Registry implications.
+        </t>
+      </section>
+    </section>
+
+    <section anchor="XML_definition"
+             title="XML Definitions">
+      <section title="TZ:timezone-provider-registry XML element">
+        <t>
+          The TZ:timezone-provider-registry element is the top level provider
+          registry element and contains a version and one or more provider elements.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT timezone-provider-registry (version, provider*)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="TZ:version XML element">
+        <t>
+          The TZ:version element identifies the version of the registry definition.
+          Currently only version 1.0 is defined.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT version (#PCDATA)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="provider XML element">
+        <t>
+          The provider element identifies a timezones data provider.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT provider (name, service-root,
+                            contact, description)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="name XML element">
+        <t>
+          The name element identifies the author or provider. In the case of the
+          author this name appears as a prefix to teh timezone identifiers.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT name  (#PCDATA)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="service-root XML element">
+        <t>
+          The service-root element defines the host, port and context for the
+          root server. Users of the registry will append the appropriate request
+          parameters to retrieve the timezone data.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT service-root  (#PCDATA)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="contact XML element">
+        <t>
+          The contact element provides a provides a way - which may require human
+          intervention - to contact the author or provider.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT contact  (#PCDATA)>
+            ]]></artwork>
+        </figure>
+      </section>
+
+      <section title="description XML element">
+        <t>
+          The description element provides some furtehr information.
+        </t>
+        <figure>
+          <artwork><![CDATA[
+        <!ELEMENT description  (#PCDATA)>
+            ]]></artwork>
+        </figure>
+      </section>
+    </section>
+
+    <section title='Security Considerations'>
+      <t>
+        Fill this in
+      </t>
+    </section>
+
+    <section title="Acknowledgements">
+      <t>
+        The authors would like to thank the members of the Calendaring and
+        Scheduling Consortium timezones technical committee and the following
+        individuals for contributing their ideas and support:
+        Ciny Joy,
+        Arnaud Quillaud,
+        ...
+      </t>
+      <t>
+        The authors would also like to thank the Calendaring and
+        Scheduling Consortium for advice with this specification.
+      </t>
+    </section>
+  </middle>
+
+  <!--  *****BACK MATTER ***** -->
+
+  <back>
+    <!-- References split into informative and normative -->
+
+    <!-- There are 2 ways to insert reference entries from the citation libraries:
+     1. define an ENTITY at the top, and use "ampersand character"RFC2629; here (as shown)
+     2. simply use a PI "less than character"?rfc include="reference.RFC.2119.xml"?> here
+        (for I-Ds: include="reference.I-D.narten-iana-considerations-rfc2434bis.xml")
+
+     Both are cited textually in the same manner: by using xref elements.
+     If you use the PI option, xml2rfc will, by default, try to find included files in the same
+     directory as the including file. You can also define the XML_LIBRARY environment variable
+     with a value containing a set of directories to search.  These can be either in the local
+     filing system or remote ones accessed by http (http://domain/dir/... ).-->
+
+    <references title="Normative References">
+      &RFC2119;
+      &RFC2445;
+      &RFC2446;
+      &RFC3688;
+      &W3C.REC-xml-20060816;
+    </references>
+
+    <!-- Change Log
+
+v00 2007-10-19  MD    Initial version
+                      -->
+  </back>
+</rfc>

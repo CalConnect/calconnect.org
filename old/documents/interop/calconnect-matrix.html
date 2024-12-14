@@ -1,0 +1,201 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Pat Egen">
+   <meta name="GENERATOR" content="Mozilla/4.61 [en] (WinNT; U) [Netscape]">
+   <title>CalConnect-Matrix</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#8080FF" vlink="#808080" alink="#008080">
+
+<center><b>Interoperability Testing</b></center>
+
+<center><table BORDER COLS=5 WIDTH="55%" >
+<tr>
+<td>
+<center>
+<b><a href="#a1">Description&nbsp;</a></b></td>
+<td><b><a href="test-scenarios.txt">Test Scenarios&nbsp;</a></b></td>
+<td><b><a href="test-script.txt">Test Script&nbsp;</a></b></td>
+<td><b><a href="#c1">Conditions&nbsp;</a></b></td>
+<td><b><a href="#b1">Matrix&nbsp;</a></b></td>
+</tr>
+</table></center>
+
+<p>
+<hr SIZE=1 NOSHADE WIDTH="100%">
+<br><a NAME="a1"></a>The purpose of this testing is to move the iCalendar,
+iMIP and iTIP proposed standards to the next level, Draft Standard.&nbsp;
+The following text describes what must occur.&nbsp; This is from RFC2026,
+section 4.1.2.
+<br>- - - - - - - -
+<br>A specification from which at least two independent and interoperable
+implementations from different code bases have been developed, and for
+which sufficient successful operational experience has been obtained, may
+be elevated to the "Draft Standard" level.&nbsp; For the purposes of this
+section, "interoperable" means to be functionally equivalent or interchangeable
+components of the system or process in which they are used.&nbsp; If patented
+or otherwise controlled technology is required for implementation, the
+separate implementations must also have resulted from separate exercise
+of the licensing process.&nbsp;&nbsp; Elevation to Draft Standard is a
+major advance in status, indicating a strong belief that the specification
+is mature and will be useful.
+<p>The requirement for at least two independent and interoperable implementations
+applies to all of the options and features of the
+<br>specification.&nbsp; In cases in which one or more options or features
+have not been demonstrated in at least two interoperable
+<br>implementations, the specification may advance to the Draft Standard
+level only if those options or features are removed.
+<p>The Working Group chair is responsible for documenting the specific
+implementations which qualify the specification for Draft or Internet Standard
+status along with documentation about testing of the interoperation of
+these implementations.&nbsp; The documentation must include information
+about the support of each of the individual options and features.&nbsp;
+This documentation should be submitted to the Area Director with the protocol
+action request. (see Section 6)
+<p>A Draft Standard must be well-understood and known to be quite stable,
+both in its semantics and as a basis for developing an
+<br>implementation.&nbsp; A Draft Standard may still require additional
+or more widespread field experience, since it is possible for
+<br>implementations based on Draft Standard specifications to demonstrate
+unforeseen behavior when subjected to large-scale use in production environments.
+A Draft Standard is normally considered to be a final specification, and
+changes are likely to be made only to solve specific problems encountered.&nbsp;
+In most circumstances, it is reasonable for vendors to&nbsp; deploy implementations
+of Draft Standards into a disruption sensitive environment.
+<br>
+<hr NOSHADE WIDTH="100%">
+<br><a NAME="c1"></a><b>CONDITIONS AND THEIR MEANINGS</b>
+<p>1. <b>MUST</b>&nbsp;&nbsp; This word, or the terms "REQUIRED" or "SHALL",
+mean that the definition is an absolute requirement of the specification.
+<br>2. <b>MUST NOT</b>&nbsp;&nbsp; This phrase, or the phrase "SHALL NOT",
+mean that the definition is an absolute prohibition of the specification.
+<br>3. <b>SHOULD</b>&nbsp;&nbsp; This word, or the adjective "RECOMMENDED",
+mean that there may exist valid reasons in particular circumstances to
+ignore a particular item, but the full implications must be understood
+and carefully weighed before choosing a different course.
+<br>4. <b>SHOULD NOT</b>&nbsp;&nbsp; This phrase, or the phrase "NOT RECOMMENDED"
+mean that there may exist valid reasons in particular circumstances when
+the particular behavior is acceptable or even useful, but the full implications
+should be understood and the case carefully weighed before implementing
+any behavior described with this label.
+<br>5. <b>MAY</b>&nbsp;&nbsp; This word, or the adjective "OPTIONAL", mean
+that an item is truly optional.&nbsp; One vendor may choose to include
+the item because a particular marketplace requires it or because the vendor
+feels that it enhances the product while another vendor may omit the same
+item. An implementation which does not include a particular option MUST
+be prepared to interoperate with another implementation which does include
+the option, though perhaps with reduced functionality. In the&nbsp;&nbsp;&nbsp;
+same vein an implementation which does include a particular option MUST
+be prepared to interoperate with another&nbsp; implementation which does
+not include the option (except, of course, for the feature the option provides.)
+<br>
+<hr NOSHADE WIDTH="100%">
+<br><a NAME="b1"></a><b>Number of Conditions per RFC</b>
+<table BORDER COLS=4 WIDTH="99%" >
+<tr>
+<td><b>Conditions</b></td>
+
+<td><b>iCalendar (RFC 2445)</b></td>
+
+<td><b>iMIP (RFC 2446)</b></td>
+
+<td><b>iTIP (RFC 2447)</b></td>
+</tr>
+
+<tr>
+<td>MUST</td>
+
+<td>159</td>
+
+<td>195</td>
+
+<td>16</td>
+</tr>
+
+<tr>
+<td>REQUIRED</td>
+
+<td>17</td>
+
+<td>67</td>
+
+<td>2</td>
+</tr>
+
+<tr>
+<td>MUST NOT</td>
+
+<td>55</td>
+
+<td>60</td>
+
+<td>0</td>
+</tr>
+
+<tr>
+<td>SHALL</td>
+
+<td>14</td>
+
+<td>0</td>
+
+<td>0</td>
+</tr>
+
+<tr>
+<td>SHALL NOT</td>
+
+<td>1</td>
+
+<td>0</td>
+
+<td>0</td>
+</tr>
+
+<tr>
+<td>SHOULD</td>
+
+<td>39</td>
+
+<td>36</td>
+
+<td>7</td>
+</tr>
+
+<tr>
+<td>SHOULD NOT</td>
+
+<td>6</td>
+
+<td>2</td>
+
+<td>0</td>
+</tr>
+
+<tr>
+<td>MAY</td>
+
+<td>79</td>
+
+<td>217</td>
+
+<td>7</td>
+</tr>
+
+<tr>
+<td>MAY NOT</td>
+
+<td>2</td>
+
+<td>5</td>
+
+<td>0</td>
+</tr>
+</table>
+
+<p><b><a href="calconnect-2445-matrix.html">RFC 2445 - Condition Matrix</a></b>
+<br><b><a href="rfc2446grep.html">RFC 2446 (iTIP) - Condition Matrix</a></b>
+<br><b><a href="rfc2447grep.html">RFC 2447 (iMIP) - Condition Matrix</a></b>
+</body>
+</html>

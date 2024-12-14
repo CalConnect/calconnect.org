@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>CD1102 Calendaring And Scheduling Glossary of Terms
+</title>
+
+  <link rel="stylesheet" href="mainstyle.css">
+
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  
+  <meta name="author" content="David C. Thewlis">
+  
+   
+
+</head>
+
+<body>
+
+<!-- Include the top header line and top navigation elements -->
+<!--#include file="snippettopheader.html"-->
+
+<div align="center">
+<table width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Included the side navigation elements for the HOME section -->
+<!--#include file="snippetresources.html"-->
+  
+    <td width="*" valign="top" align="left">	
+
+<pre> 	
+CALCONNECT DOCUMENT CD 1102
+Type:	   Report
+Title:     Calendaring and Scheduling Glossary of Terms
+Version:   2.0
+Date:      2011-02-23
+Status:    Published
+Source:    TC USECASE
+</pre>		
+<!--
+The glossary is also available as a PDF at <a href="pubdocs/CD1102 Calendaring and Scheduling Glossary of Terms V2.0.pdf">CD1102 Calendaring and Scheduling Glossary of Terms</a>.
+-->
+<br><br>
+<div align="center">
+<br><br>
+
+<h2>Calendaring and Scheduling Glossary of Terms V2.0</h2>
+</div>
+<br>
+This document came about in an effort to compile, in one location, a common set of terminology with respect to calendaring and scheduling applications and standards. The document incorporates terminology already existing in calendaring standards such as <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a> (Internet Calendaring and Scheduling Core Object Specification (<a href="#iCalendar">iCalendar</a>)), <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a> (iCalendar Transport-Independent Interoperability Protocol (<a href="#iTIP">iTIP</a>)), <a href="http://www.ietf.org/rfc/rfc6047.txt" target="_blank">RFC6047</a> (iCalendar Message-Based Interoperability Protocol (<a href="#iMIP">iMIP</a>)), <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a> (Calendaring Extensions to WebDAV (<a href="#CalDAV">CalDAV</a>)) as well as input from members of the Calendaring and Scheduling Consortium (<a href="#CalConnect">CalConnect</a>).
+<br><br>
+Some glossary terms may not appear in published standards today. These are common calendaring terms that are included so that everyone refers to components in the same manner.
+<br><br>
+As new standards evolve, the glossary will serve as a resource for those creating documents so that all the standards share a common set of terms.
+<br><br>
+Calendaring and scheduling implementers will be able to utilize the glossary to assist them as they read and decipher calendaring standards. Calendaring and scheduling users will be able to use the glossary to help them better understand the terminology deployed by applications written using calendaring standards.
+<br><br>
+<hr>
+<br>
+<a name="Access Control"><b>Access Control</b></a> - Access control is a system which enables an authority (e.g., user or resource administrator) to control access to different entities in a calendar system. Typically vendors create Preference/Settings options to instantiate access control. Terminology varies considerably across products but broadly speaking access control is usually broken into two areas, read access and write access. Vendor terminology used for read access includes: 'read', 'reviewer', 'proxy read', 'viewer', 'see all', and 'see only freebusy'. Vendor terminology for write access includes: 'write', 'editor', 'proxy write', 'proxy', 'manager', 'administrator', 'designate', 'read/create/edit', 'make changes', 'manage', and 'edit'. (Cp. <a href="#Delegate">Delegate</a> and <a href="#Designate">Designate</a> below.)
+<br><br>
+<a name="Access Control List"><b>Access Control List</b></a> <a name="ACL"><b>(ACL)</b></a> - A list of access control elements that define access control to a particular calendar system entity. (Reference: <a href="http://www.ietf.org/rfc/rfc3744.txt" target="_blank">RFC3744</a> for its use in a WebDAV context.)
+<br><br>
+<a name="Accessibility"><b>Accessibility</b></a> - Information pertaining to access to a resource by the physically disabled. This applies to Location Resources.
+<br><br>
+<a name="Admittance Info"><b>Admittance Info</b></a> - All information required to gain access to a resource. It applies to Location Resources.
+<br><br>
+<a name="Agenda"><b>Agenda</b></a> - See <a href="#Calendar">Calendar</a>.
+<br><br>
+<a name="Alarm"><b>Alarm</b></a> - Use of the terms alarm, reminder, alert, and notifications vary by implementation and can represent several things. They can represent a setting applied to an event by which a user indicates they want a 'notification' to be triggered to 'remind' them about some event or action (cp. <a href="#VALARM">VALARM</a> in <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>). They can also be used to designate the type of 'alert' that serves as the notification (e.g., email message, audible sound, pop-up window). (Reference <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>, <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>, <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>.)
+<br><br>
+<a name="Application/calendar + XML"><b>Application/calendar + XML</b></a> - The MIME content type that indicates an iCalendar object expressed in XML.
+<br><br>
+<a name="Appointment"><b>Appointment</b></a> - See  <a href="#Calendar">Calendar</a>.
+<br><br>
+<a name="Attendee"><b>Attendee</b></a> - Specifies the participants or non-participants (e.g., room or resources) for an event. This property in iCalendar can contain multiple attributes specifying additional information, i.e., role, participation status, group membership, delegation, etc. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Auto schedule"><b>Auto schedule</b></a> - Accept scheduling invitations automatically with no human intervention.
+<br><br>
+
+<hr>
+<br>
+<a name="Booking Window"><b>Booking Window</b></a> - Defines a window of time a resource can be booked for a particular date. That is, what is the earliest and latest opportunity to book a resource for a given date and time.
+<br><br>
+
+<hr>
+<br>
+<a name="CalDAV"><b>CalDAV</b></a> - A standard protocol to allow calendaring and scheduling via extensions to the WebDAV protocol. Defined by two specifications, the first, <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>, specifies a calendar access protocol that allows Calendar User Agents to access and manage calendar data. The second specification, <a href="http://tools.ietf.org/html/draft-desruisseaux-caldav-sched" target="_blank">draft-desruisseaux-caldav-sched</a>, specifies a standard way of performing scheduling transactions with iCalendar-based calendar components. This document defines the "calendar-auto-schedule" feature of CalDAV. 
+(Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>, and <a href="http://tools.ietf.org/html/draft-desruisseaux-caldav-sched" target="_blank">draft-desruisseaux-caldav-sched</a>.)
+<br><br>
+<a name="Calendar"><b>Calendar</b></a> - A collection of events. Examples include a person's or group's schedule, resource availability, and event listings. May also include items such as tasks, journal entries, etc.
+<br><br>
+<a name="Calendar Access Rights"><b>Calendar Access Rights</b></a> - See <a href="#Access Control">Access Control</a>, <a href="#Access Control List">Access Control List</a>, <a href="#Delegate">Delegate</a>, and <a href="#Designate">Designate</a>.
+<br><br>
+<a name="Calendar Collection"><b>Calendar Collection</b></a> - A calendar collection contains calendar object resources (e.g., VEVENT, VTODO, VJOURNAL, VFREEBUSY, etc.) that represent calendar components within a calendar. (Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a> and <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Calendar Object"><b>Calendar Object</b></a> - A single object that can be any of the constituent components of a calendar (cp. <a href="#Component">Component</a>). (Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>.)
+<br><br>
+<a name="Calendar Service"><b>Calendar Service</b></a> - A server application that provides calendar user agents access to calendar stores. 
+<br><br>
+<a name="Calendar Store"><b>Calendar Store</b></a> <a name="CS"><b>(CS)</b></a> - A data repository that may contain several calendars as well as properties and components of those calendars. A local calendar store is on the same device as the calendar user agent (CUA). A remote calendar store is not on the same machine/device as the calendar user agent. (Reference: <a href="http://www.ietf.org/rfc/rfc3283.txt" target="_blank">RFC3283</a>.)
+<br><br>
+<a name="Calendar User"><b>Calendar User</b></a> <a name="CU"><b>(CU)</b></a> - A person who accesses or modifies calendar information. 
+<br><br>
+<a name="Calendar User Agent"><b>Calendar User Agent</b></a> <a name="CUA"><b>(CUA)</b></a> - (1) Software with which the calendar user communicates with a calendar service or local calendar store to access calendar information. (2) Software that gathers calendar data on the Calendar User's behalf. 
+<br><br>
+<a name="CalConnect"><b>CalConnect</b></a> - The Calendaring and Scheduling Consortium is focused on the interoperable exchange of calendaring and scheduling information between dissimilar programs, platforms, and technologies. The Consortium's mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing.
+<br><br>
+<a name="CalWS"><b>CalWS</b></a> - <a name="CalWS-REST">CalWS-REST</a> is a CalConnect Proposal and <a name="CalWS-SOAP">CalWS-SOAP</a> will be a parallel CalConnect Proposal which define an API of basic operations which allow creation, retrieval, update and deletion of calendar objects. In addition, query and freebusy operations are defined to allow efficient, partial retrieval of calendar data.
+<br><br>
+<a name="Capacity"><b>Capacity</b></a> - Capacity of a resource, expressed as a numerical quantity. This applies to a Location Resource.
+<br><br>
+<a name="Component"><b>Component</b></a> - A piece of calendar data such as an event, a task or an alarm. Information about components is stored as properties of those components (cp. <a href="#Property">Property</a>). (Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a> and <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Counter"><b>Counter</b></a> - A response sent by a Attendee of an event to the event Organizer to propose a change to the event or task such as the scheduled date/time, list of participants, etc. (Reference: <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>.)
+<br><br>
+
+<hr>
+<br>
+<a name="Delegate"><b>Delegate</b></a> - In common usage 'delegate' may mean either a person who acts for someone else (cp. Designate below) or refer to the act of appointing someone as a representative. The term has very specific meaning in the <a href="#iCalendar">iCalendar</a> and <a href="#iTIP">iTIP</a> RFCs. In iCalendar, delegate means to specify that another individual, rather than oneself, should <em>attend</em> an event (cp. <a href="#Delegator">Delegator </a>and <a href="#Delegatee">Delegatee</a>). In iTIP, delegate means to <em>assign ownership</em> of a task to another individual. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a> and <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>.)
+<br><br>
+<a name="Delegatee"><b>Delegatee</b></a> - The attribute in iCalendar that specifies the calendar user(s) to whom a calendar user has delegated participation in an event. The actual attribute name is DELEGATED-TO. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Delegator"><b>Delegator</b></a> - The attribute in iCalendar that specifies the calendar user(s) that have delegated their participation in an event to another calendar user. The actual attribute name is DELEGATED-FROM. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Designate"><b>Designate</b></a> - A calendar user authorized to act on behalf of another calendar user. An example of a designate is an assistant who schedules meetings for his or her superior. (Cp. <a href="#Access Control">Access Control</a> and <a href="#Access Control List">Access Control List</a> above.) (Reference: <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>.)
+<br><br>
+<a name="DTEND"><b>DTEND</b></a> - The DTEND property for a <a href="VEVENT">VEVENT</a> calendar component specifies the non-inclusive end of the event.
+<br><br>
+<a name="DTSTART"><b>DTSTART</b></a> - The DTSTART property for a <a href="#VEVENT">VEVENT</a> specifies the inclusive start of the event.  For <a href="#Recurring">recurring</a> events, it also specifies the very first instance in the recurrence set.
+<br><br>
+
+<hr>
+<br>
+<a name="Event"><b>Event</b></a> - A calendar object that is commonly used to represent things that mark time or use time. Examples include meetings, appointments, anniversaries, start times, arrival times, closing times.
+<br><br>
+
+<hr>
+<br>
+<a name="Freebusy"><b>Freebusy</b></a> - A list of free and busy periods for a particular calendar user or resource. Primarily used for scheduling resources or meetings with other people. Time periods may be marked as busy, free, busy-unavailable (sometimes referred to as out of office) and busy-tentative.
+<br><br>
+
+<hr>
+<br>
+<a name="iCal"><b>iCal</b></a> - The name of Apple, Inc's desktop calendar user agent. Often used as an abbreviation for the <a href="#iCalendar">iCalendar</a> standard. 
+<br><br>
+<a name="iCalendar"><b>iCalendar</b></a> - The Internet Calendaring and Scheduling Core Object Specification. An IETF standard (<a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>) for a text representation of calendar data. Scheduling operations are specified in <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>.
+<br><br>
+<a name="IETF"><b>IETF</b></a> (The Internet Engineering Task Force) - According to IETF <a href="http://www.ietf.org/rfc/rfc3935.txt" target="_blank">RFC3935</a>, "The IETF has traditionally been a community for experimentation with things that are not fully understood, standardization of protocols for which some understanding has been reached, and publication of (and refinement of) protocols originally specified outside the IETF process ...The mission of the IETF is to produce high quality, relevant technical and engineering documents that influence the way people design, use, and manage the Internet in such a way as to make the Internet work better. These documents include protocol standards, best current practices, and informational documents of various kinds."
+<br><br>
+<a name="iMIP"><b>iMIP</b></a> (iCalendar Message-Based Interoperability Protocol) - An IETF standard (<a href="http://www.ietf.org/rfc/rfc6047.txt" target="_blank">RFC6047</a>) that describes how iTIP messages are exchanged via email. 
+<br><br>
+<a name="iTIP"><b>iTIP</b></a> (iCalendar Transport-Independent Interoperability Protocol) - An IETF Standard (<a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>) that specifies a protocol that uses the iCalendar object specification to provide scheduling interoperability between different calendaring systems without reference to a specific transport protocol so as to allow multiple methods of communication between systems (see <a href="#iMIP">iMIP</a>, <a href="#iSchedule">iSchedule</a>).
+<br><br>
+<a name="iSchedule"><b>iSchedule</b></a> - A draft specification that describes how <a href="#iTIP">iTIP</a> messages are exchanged via HTTP (Reference: Internet Calendar Scheduling Protocol (iSchedule) <a href="http://tools.ietf.org/html/draft-desruisseaux-ischedule" target="_blank">draft-desruisseaux-ischedule</a>.)
+<br><br>
+<a name="Instance"><b>Instance</b></a> - A single event of a larger group of events specified as a recurring event (cp. <a href="#Recurring">Recurring</a>). (Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a> and <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Inventory Info"><b>Inventory Info</b></a> - All information on other resources available as part of a resource.
+<br><br>
+<a name="Invitation"></a><a name="Invite"></a>
+<a name="Invitation/Invite"><b>Invitation/Invite</b></a> - A general term from common usage to convey a request for an attendee's participation in an event. In RFC documents the more specific term is request (cp. <a href="#Request">Request</a>).
+<br><br>
+
+<hr>
+<br>
+<a name="Journal entry"><b>Journal entry</b></a> - From <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>, one or more descriptive text notes associated with a particular calendar date. Examples of a journal entry include a daily record of a legislative body or a journal entry of individual telephone contacts for the day or an ordered list of accomplishments for the day.
+<br><br>
+
+<hr>
+<br>
+<a name="Maximum Instances"><b>Maximum Instances</b></a> - Maximum number of instances of an event a resource can be scheduled for from a given point in time.
+<br><br>
+<a name="Meeting"><b>Meeting</b></a> - See <a href="#Event">Event</a>.
+<br><br>
+<a name="MIME"><b>MIME</b></a> - An acronym for Multipurpose Internet Mail Extensions, a specification for formatting non-ASCII text message content, including iCalendar data, graphics, audio and video, so that they can be sent over the Internet. MIME is supported by email clients and web browsers (see <a href="http://www.ietf.org/rfc/rfc2045.txt" target="_blank">RFC2045</a>,<a href="http://www.ietf.org/rfc/rfc2046.txt" target="_blank">RFC2046</a>, <a href="http://www.ietf.org/rfc/rfc2047.txt" target="_blank">RFC2047</a>). 
+<br><br>
+<a name="Mime Type"><b>Mime Type</b></a> - An Internet media type, sometimes a Content-type after the name of a header in several protocols whose value is such a type, is a two-part identifier for file formats on the Internet. The identifiers were originally defined in RFC2046 for use in e-mail sent through SMTP, but their use has expanded to other protocols such as HTTP, RTP and SIP and for other uses (e.g., OS-level file type identification for application/file association).
+<br><br>
+<a name="Multiple Bookings"><b>Multiple Bookings</b></a> - Number of simultaneous bookings allowed by a resource, during scheduling.
+<br><br>
+
+<hr>
+<br>
+<a name="Notifications"><b>Notification</b></a> - See <a href="#Alarm">Alarm</a>.
+<br><br>
+
+<hr>
+<br>
+<a name="OASIS"><b>OASIS</b></a> (Organization for the Advancement of Structured Information Standards) - A Standards Development Organization primarily focused on web services standards.  OASIS and CalConnect have reciprocal memberships for joint work on <a href="#WS-Calendar">WS-Calendar</a>. 
+(Reference <a href="http://www.oasis-open.org" target="_blank">http://www.oasis-open.org</a>.)
+<br><br>
+
+<a name="Organizer"><b>Organizer</b></a> - A calendar user who creates a calendar item, requests free/busy information, or published free/busy information. It is an Organizer who invites Attendees. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+
+<hr>
+<br>
+<a name="Priority"><b>Priority</b></a> - A level of importance and/or urgency calendar users can apply to Tasks and Events. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Property"><b>Property</b></a> - RFCs define the objects and components of their subject which in turn have properties which have values (sometimes referred to as 'property parameters' or 'property attributes'). These "property parameters" contain meta-information about the property or the property value. Property parameters are provided to specify such information as the location of an alternate text representation for a property value, the language of a text property value, the value type of the property value, and other attributes. Throughout this glossary are references to component, property, and attribute following this usage. (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+<a name="Publish"><b>Publish</b></a> - Generally, to make calendar information, such as freebusy time, available to a select group or to the public. From the RFC for<a href="#iTIP">iTIP</a>, "The 'PUBLISH' method in a 'VEVENT' calendar component is an unsolicited posting of an iCalendar object."
+<br><br>
+
+<hr>
+<br>
+
+<a name="RECURRENCE-ID"><b>RECURRENCE-ID</b></a> - This property is used to identify a specific instance of a <a href="#Recurring">recurring</a> <a href="#VEVENT">VEVENT</a>, <a href="#VTODO">VTODO</a>, or <a href="#VJOURNAL">VJOURNAL</a> calendar component.
+<br><br>
+<a name="Recurring"><b>Recurring</b></a> - An event or task that happens more than once either with a regular interval (ex. daily, weekly, monthly) that can be expressed by a rule or with an explicit series of dates/times. 
+<br><br>
+<a name="Request"><b>Request</b></a> - A broadly used term in multiple RFCs to represent an action. That action may be a query for property values from a client to a server (cp. <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>), a query between a client and a server that results in object creation, modification, or deletion (cp. <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a> and <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>), and it is the name of a method in iTIP that makes "an explicit invitation to one or more attendees" (among other things, cp. <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>). (Reference: <a href="http://www.ietf.org/rfc/rfc4791.txt" target="_blank">RFC4791</a>, <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>, <a href="http://www.ietf.org/rfc/rfc5546.txt" target="_blank">RFC5546</a>, and Internet Calendar Scheduling Protocol (<a href="#iSchedule">iSchedule</a>).)
+<br><br>
+<a name="Reminder"><b>Reminder</b></a> - See <a href="#Alarm">Alarm</a>.
+<br><br>
+<a name="Repeating"><b>Repeating</b></a> - See <a href="#Recurring">Recurring</a>.
+<br><br>
+<a name="Resource"><b>Resource</b></a> - A resource in the scheduling context is any shared entity,that can be scheduled by a calendar user, but does not control its own attendance status. Resources can be of "Location", "Equipment", or "Role" type.
+<br><br>
+<a name="Resource Kind"><b>Resource Kind</b></a> - Specifies the kind of resource object represented. Some of the possible values are "Location", "Thing", or "Group". Location is used for any physical location resource such as room, building, etc. Thing is used for any physical object that can scheduled like projector, printer, etc. Group is used to specify a group of resources with a specific skill set. For example: drivers, electricians, etc.
+<br><br>
+<a name="Resource Manager Info"><b>Resource Manager Info</b></a> - Information on the person(s) responsible for the daily upkeep of a resource.
+<br><br>
+<a name="Response"><b>Response</b></a> - acceptance or refusal of a meeting request sent to a meeting proposer.
+<br><br>
+<a name="RFC"><b>RFC</b></a> (Request for Comments) - The IETF and some other standards bodies use RFCs to define Internet standards. They document most of the protocols, mechanisms, procedures and best practices in use on the Internet (Reference: <a href="http://ietf.org" target="_blank">ietf.org</a>).
+<br><br>
+<a name="RSVP"><b>RSVP</b></a> - Specifies whether there is an expectation of a reply from a specific calendar user (Reference: <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>.)
+<br><br>
+
+<hr>
+<br>
+<a name="Scheduling"><b>Scheduling</b></a> - Briefly, the process by which organizers and attendees plan events or assign tasks. More specifically the term encompasses the exchange of request/invitations and responses between organizers and attendees of scheduled events, tasks or journal entries.
+<br><br>
+<a name="Scheduling Admin Contact Info"><b>Scheduling Admin Contact Info</b></a> - An attribute that contains contact information for the scheduling approvers, if approval is required.
+<br><br>
+
+<hr>
+<br>
+<a name="Task"><b>Task</b></a> - A representation of an item of work assigned to an individual. In <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>, these are "VTODO" calendar components, which are groupings of component properties and possibly "VALARM" calendar components that represent an action-item or assignment.
+<br><br>
+<a name="Text/calendar"><b>Text/calendar</b></a> - The MIME content type for encoding iCalendar objects. Example usage includes: email, web pages.
+<br><br>
+<a name="Timezone"></a>
+<a name="Time Zone"><b>Time Zone</b></a>  - Areas of the Earth that have adopted the same local time. Time zones are generally centered on meridians of a longitude, that is a multiple of 15, thus making neighboring time zones one hour apart. However, the one hour separation is not universal and the shapes of time zones can be quite irregular because they usually follow the boundaries of states, countries or other administrative areas. In <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a>, time zones are represented using "VTIMEZONE" calendar components, each with a Time Zone Identifier (TZID) that can be used to tie a particular date and time to a specific timezone.
+<br><br>
+<a name="Transparency"><b>Transparency</b></a> - A property of an event that defines whether it will appear free or busy in free/busy time searches.
+<br><br>
+
+<hr>
+<br>
+<a name="UTC"><b>UTC</b></a> (Coordinated Universal Time) - UTC is designated to be at zero longitude. Also known as Zulu Time (NATO/military designation). Formerly <a name="GMT">GMT</a> (Greenwich Mean Time) although there is a slight difference. UTC is the basis for all local time offsets. Offsets are either positive or negative. An example is UTC-8 (Pacific Standard Time). Some iCalendar examples: 
+<br>
+<blockquote>
+DTSTART:19970714T133000 ;Local time<br>
+DTSTART:19970714T173000Z ;UTC time<br>
+DTSTART;TZID=US-Eastern:19970714T133000 ;Local time and time zone reference
+</blockquote>
+
+<hr>
+<br>
+<a name="VALARM"><b>VALARM</b></a> - A VALARM calendar component is a grouping of component properties that is a reminder or alarm for an event or a to-do.  For example, it may be used to define a reminder for a pending event or an overdue to-do. VALARMs will thus be included within <a href="#VEVENT">VEVENT</a> and <a href="#VTODO">VTODO</a> components.
+<br><br>
+<a name="vCalendar"><b>vCalendar</b></a> - A text representation of calendar and scheduling data created by the Versit consortium (also, the vCalendar specification). The <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a> iCalendar specification supersedes the work of vCalendar, though VCALENDAR remains as a component type in the <a href="http://www.ietf.org/rfc/rfc5545.txt" target="_blank">RFC5545</a> iCalendar specification.
+<br><br>
+<a name="VEVENT"><b>VEVENT</b></a> - A VEVENT calendar component represents a scheduled amount of time on a calendar.  For example, it can be an activity; such as a one-hour long, department meeting from 8:00 AM to 9:00 AM, tomorrow. Generally, an event will take up time on an individual calendar. The VEVENT is also the calendar component used to specify an anniversary or daily reminder within a calendar.
+<br><br>
+<a name="VFREEBUSY"><b>VFREEBUSY</b></a> - A grouping of component properties that represents either a request for free or busy time information, a reply to a request for free or busy time information, or a published set of busy time information.
+<br><br>
+<a name="VJOURNAL"><b>VJOURNAL</b></a> - A VJOURNAL calendar component is a grouping of component properties that represent one or more descriptive text notes associated with a particular calendar date.  The <a href="#DTSTART">DTSTART</a> property is used to specify the calendar date with which the journal entry is associated. Examples of a journal entry include a daily record of a legislative body or a journal entry of individual telephone contacts for the day or an ordered list of accomplishments for the day.  The VJOURNAL calendar component can also be used to associate a document with a calendar date.
+<br><br>
+<a name="VTODO"><b>VTODO</b></a> - A VTODO calendar component is a grouping of component properties and possibly <a href="#VALARM">VALARM</a> calendar components that represent an action-item or assignment.  For example, it can be used to represent an item of work assigned to an individual; such as "turn in travel expense today".
+<br><br>
+<hr>
+<br>
+<a name="WS-Calendar"><b>WS-Calendar</b></a> - An OASIS (Organization for the Advancement of Structured Information Standards) working group tasked with defining a cross-domain standard for passing schedule and interval information between and within services built around CalWS. The product of the working group will be a standard also named "WS-Calendar" (from http://www.oasis-open.org/committees/workgroup.php?wg_abbrev=ws-calendar). (See <a href="#CalWS">CalWS</a>.)
+<br><br>
+
+<hr>
+<br>
+<a name="xCal"><b>xCal</b></a> - A draft specification that defines an XML representation of iCalendar data. (Reference: xCal: The XML format for iCalendar - <a href="http://tools.ietf.org/html/draft-daboo-et-al-icalendar-in-xml" target="_blank">draft-daboo-et-al-icalendar-in-xml</a>.)
+<br>
+<br>
+<hr>
+<br><br><br><br>
+
+
+<!-- Include the Service Mark and Copyright line -->
+<!--#include file="snippetend.html"-->
+
+</td>
+</tr>
+</table>
+<br>
+
+</body>
+</html> 

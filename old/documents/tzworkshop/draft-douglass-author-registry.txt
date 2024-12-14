@@ -1,0 +1,617 @@
+
+
+
+Network Working Group                                           C. Daboo
+Internet-Draft                                                     Apple
+Intended status: Standards Track                             M. Douglass
+Expires: May 22, 2009                                                RPI
+                                                       November 18, 2008
+
+
+                       Timezones Author Registry
+              draft-douglass-timezones-author-registry-00
+
+Status of this Memo
+
+   By submitting this Internet-Draft, each author represents that any
+   applicable patent or other IPR claims of which he or she is aware
+   have been or will be disclosed, and any of which he or she becomes
+   aware will be disclosed, in accordance with Section 6 of BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF), its areas, and its working groups.  Note that
+   other groups may also distribute working documents as Internet-
+   Drafts.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   The list of current Internet-Drafts can be accessed at
+   http://www.ietf.org/ietf/1id-abstracts.txt.
+
+   The list of Internet-Draft Shadow Directories can be accessed at
+   http://www.ietf.org/shadow.html.
+
+   This Internet-Draft will expire on May 22, 2009.
+
+Abstract
+
+   This document defines a timezone author registry identifying timezone
+   information authors and the location of that information.
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 1]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+Table of Contents
+
+   1.  Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  3
+     1.1.  XML Namespaces . . . . . . . . . . . . . . . . . . . . . .  3
+     1.2.  Conventions Used in This Document  . . . . . . . . . . . .  3
+       1.2.1.  Glossary of terms  . . . . . . . . . . . . . . . . . .  3
+   2.  Timezone Specification Implications  . . . . . . . . . . . . .  4
+     2.1.  Timezone Identifiers . . . . . . . . . . . . . . . . . . .  4
+     2.2.  Timezone Names . . . . . . . . . . . . . . . . . . . . . .  5
+     2.3.  Timezone Url . . . . . . . . . . . . . . . . . . . . . . .  5
+   3.  Timezone Data Authors  . . . . . . . . . . . . . . . . . . . .  5
+   4.  Timezones Author Registry  . . . . . . . . . . . . . . . . . .  5
+     4.1.  Updating the Timezone Author Registry  . . . . . . . . . .  6
+     4.2.  Example: Timezone Author Registry  . . . . . . . . . . . .  6
+   5.  XML Definitions  . . . . . . . . . . . . . . . . . . . . . . .  6
+     5.1.  TZ:timezone-author-registry XML element  . . . . . . . . .  7
+     5.2.  TZ:version XML element . . . . . . . . . . . . . . . . . .  7
+     5.3.  TZ:dtstamp XML element . . . . . . . . . . . . . . . . . .  7
+     5.4.  author XML element . . . . . . . . . . . . . . . . . . . .  7
+     5.5.  name XML element . . . . . . . . . . . . . . . . . . . . .  7
+     5.6.  url XML element  . . . . . . . . . . . . . . . . . . . . .  7
+     5.7.  contact XML element  . . . . . . . . . . . . . . . . . . .  7
+     5.8.  description XML element  . . . . . . . . . . . . . . . . .  8
+   6.  Security Considerations  . . . . . . . . . . . . . . . . . . .  8
+   7.  IANA Considerations  . . . . . . . . . . . . . . . . . . . . .  8
+     7.1.  Namespace Registration . . . . . . . . . . . . . . . . . .  8
+     7.2.  Registry . . . . . . . . . . . . . . . . . . . . . . . . .  8
+   8.  Acknowledgements . . . . . . . . . . . . . . . . . . . . . . .  9
+   9.  Normative References . . . . . . . . . . . . . . . . . . . . .  9
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  9
+   Intellectual Property and Copyright Statements . . . . . . . . . . 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 2]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+1.  Introduction
+
+   The lack of standardized timezone registries and service has led to a
+   number of significant problems for vendors and users alike, for
+   example, the daylight savings time changes for the US in 2007.
+
+   In this document we define a timezone author registry which will
+   allow authors of timezone information to make themselves known in a
+   standardized manner.
+
+   No guarantee as to the quality of that data or of the means of
+   production is implied by registration.  It is up to the providers of
+   that information and the services to make such guarantees.
+
+   Later specification will define the role of timezone information
+   providers a timezone service and apis.
+
+1.1.  XML Namespaces
+
+   Definitions of XML elements in this document use XML element type
+   declarations (as found in XML Document Type Declarations), described
+   in Section 3.2 of [W3C.REC-xml-20060816].
+
+   The namespace "urn:ietf:params:xml:ns:timezones" is reserved for the
+   XML elements defined in this specification, or in other Standards
+   Track IETF RFCs written to extend timezones.  It MUST NOT be used for
+   proprietary extensions.
+
+   Note that the XML declarations used in this document are incomplete,
+   in that they do not include namespace information.  Thus, the reader
+   MUST NOT use these declarations as the only way to validate timezones
+   XML element types.
+
+1.2.  Conventions Used in This Document
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   [RFC2119].
+
+1.2.1.  Glossary of terms
+
+   The following terms with the given meanings are used throughout this
+   document.
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 3]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+   Author:  A registered organization of some kind which creates
+      timezone information, e.g.  Olson;
+
+   Client:  Software which interacts with a timezone service;
+
+   Provider:  A registered organization which makes timezone information
+      produced by an Author available;
+
+   Registry:  A file maintained by IANA;
+
+   Timezone Identifier:  A name which identifies the timezone.  The
+      format and meaning is unchanged from the definition in section
+      3.8.3.1 [RFC2445].  See below for further clarification of the use
+      of the timezone identifier.
+
+
+2.  Timezone Specification Implications
+
+   The timezone author registry has minimal implications for the current
+   timezone specification as defined in [RFC2445].  However certain
+   assumptions are made about property values as outlined below.
+
+2.1.  Timezone Identifiers
+
+   In [RFC2445] the timezone identifier used in the VTIMEZONE TZID
+   property is defined as being an optional "/" followed by text.  When
+   the leading "/" is present the name is defined as being a globally
+   unique name.
+
+   With this specification we achieve this uniqueness by defining a
+   timezone identifier as having the following format:
+
+   [ "/" author-part "/" ] name-part
+
+   The author-part identifies an author as defined in the author
+   registry for example "EXAMPLE.COM" and may not contain the "/"
+   character.  The name part identifies the timezone for example,
+   "America/New_York" and may contain the "/" character.
+
+   The expectation is that a primary timezone author will be used almost
+   universally.  However, certain organizations may have special needs
+   that require special purpose timezone definitions or more rigorous
+   control over their production, for example government or military
+   uses.
+
+   This scheme allows for multiple authors where necessary.
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 4]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+2.2.  Timezone Names
+
+   The TZNAME property can occur multiple times and has an optional
+   language parameter.  Its intent was clearly to provide the localized
+   forms of the timezone name for presentation to users.
+
+   This property will NOT be maintained by the timezone service.
+   Instead there will be a separate option to fetch identifiers and
+   their associated localized forms.
+
+2.3.  Timezone Url
+
+   The timezone url WILL be maintained by timezone providers and will be
+   a url by which that individual timezone specification can be
+   retrieved.  Etags WILL be used to allow clients to determine that the
+   timezone is up to date.
+
+
+3.  Timezone Data Authors
+
+   Timezone data is created and maintained by timezone authors.  An
+   author is an organization or individual.  An example is Olson, a
+   person who represents a group of individuals maintaining the well
+   known Olson database.
+
+   Timezone authors will generally have some well-known process for
+   locating and maintaining the data they provide as the consumers of
+   that data need to be able to reply on its correctness and the
+   longevity of the source.
+
+
+4.  Timezones Author Registry
+
+   The author registry provides an identifying name for an author of
+   timezone information, some form of contact information and a location
+   from which the timezone data can be fetched.  It is assumed that the
+   data will be fetched infrequently - for example when it changes.
+
+   The author registry consists of an xml formatted file containing some
+   informational elements, version, timestamp, and one or more author
+   elements.
+
+   Each author element in the registry identifies an author and has the
+   following sub-elements:
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 5]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+   name:  The text that appears as the author-name part of timezone
+      identifiers supplied by this provider.
+
+   url:  Provides a way - which may require human intervention - to
+      obtain the information provided by this author.
+
+   contact:  Provides a way - which may require human intervention - to
+      contact the author.  This may be for example, a vcard url, a
+      telephone number or a web site
+
+   description:  Some further human-readable information.
+
+4.1.  Updating the Timezone Author Registry
+
+   This section should describe how an author gets registered and how
+   the registry gets updated and who can do it.
+
+4.2.  Example: Timezone Author Registry
+
+   In this example we show an xml formatted timezone registry.
+
+   <?xml version="1.0" encoding="utf-8" ?>
+   <timezone-author-registry xmlns="urn:ietf:params:xml:ns:timezones">
+     <version>1.0</version>
+     <dtstamp>2008-11-13T03:45:06Z</dtstamp>
+
+     <author>
+       <name>OLSON</name>
+       <url>https://example.org/downloads/OlsonData</url>
+       <contact>http://example.org/carddav/orgs/Olson</contact>
+       <description>An author of timezone information
+       </description>
+       <certficate type="X509">...</certificate>
+     </author>
+
+     <author>
+       <name>EXAMPLE.ORG</name>
+       <url>ftp://example.org/ExampleData</url>
+       <contact>telephone:+1 555 555 1234</contact>
+     </author>
+   </timezone-author-registry>
+
+
+
+5.  XML Definitions
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 6]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+5.1.  TZ:timezone-author-registry XML element
+
+   The TZ:timezone-author-registry element is the top level author
+   registry element and contains a version and one or more author
+   elements.
+
+           <!ELEMENT timezone-author-registry (version, author*)>
+
+5.2.  TZ:version XML element
+
+   The TZ:version element identifies the version of the registry
+   definition.  Currently only version 1.0 is defined.
+
+           <!ELEMENT version (#PCDATA)>
+
+5.3.  TZ:dtstamp XML element
+
+   The TZ:dtstamp element allows consumers to determine if the registry
+   has changed.
+
+           <!ELEMENT dtstamp (#PCDATA)>
+
+5.4.  author XML element
+
+   The author element identifies a timezones data author.
+
+           <!ELEMENT author (name, url, contact, description)>
+
+5.5.  name XML element
+
+   The name element identifies the author.  This name appears as a
+   prefix to the timezone identifiers.
+
+           <!ELEMENT name  (#PCDATA)>
+
+5.6.  url XML element
+
+   The url element provides a provides a way - which may require human
+   intervention - to obtain the information provided by this author.
+
+           <!ELEMENT url  (#PCDATA)>
+
+5.7.  contact XML element
+
+   The contact element provides a provides a way - which may require
+   human intervention - to contact the author.
+
+           <!ELEMENT contact  (#PCDATA)>
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 7]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+5.8.  description XML element
+
+   The description element provides some further information.
+
+           <!ELEMENT description  (#PCDATA)>
+
+
+6.  Security Considerations
+
+   The information maintained by the IANA will be authoritative and will
+   be a target for attack.  The content maintained by the IANA may be
+   directly input into software, thus, extra care should be taken by the
+   IANA to maintain the security precautions required for an important
+   reference location for the Internet.
+
+   To increase the level of confidence in the registry data itself it
+   should be digitally signed.
+
+   Beyond this concern, there are no other security considerations not
+   already found with any other IANA registry.
+
+
+7.  IANA Considerations
+
+7.1.  Namespace Registration
+
+   This document uses one new URN to identify a new XML namespace.  The
+   URN conforms to a registry mechanism described in [RFC3688].
+
+   Registration request for the timezones namespace:
+
+   URI: urn:ietf:params:xml:ns:timezones
+
+   Registrant Contact: See the "Authors' Addresses" section of this
+   document.
+
+   XML: None.  Namespace URIs do not represent an XML specification.
+
+7.2.  Registry
+
+   This document seeks to create a registry for which the IANA (at the
+   direction of the IESG) will be primarily responsible.  The amount of
+   effort required to maintain this registry is not insignificant and
+   the policies and procedures surrounding any approval process are non-
+   trivial.  The registry is on a First Come First Served basis, but a
+   Specification is Required.  Once the IETF has some experience with
+   this registry, these policies may change.
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 8]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+   (Note: this comes directly from RFC 3688 and is intended as a
+   starting point foir this section)
+
+
+8.  Acknowledgements
+
+   The authors would like to thank the members of the Calendaring and
+   Scheduling Consortium timezones technical committee and the following
+   individuals for contributing their ideas and support: Ciny Joy,
+   Arnaud Quillaud, ...
+
+   The authors would also like to thank the Calendaring and Scheduling
+   Consortium for advice with this specification.
+
+
+9.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119, March 1997.
+
+   [RFC2445]  Dawson, F. and Stenerson, D., "Internet Calendaring and
+              Scheduling Core Object Specification (iCalendar)",
+              RFC 2445, November 1998.
+
+   [RFC2446]  Silverberg, S., Mansour, S., Dawson, F., and R. Hopson,
+              "iCalendar Transport-Independent Interoperability Protocol
+              (iTIP) Scheduling Events, BusyTime, To-dos and Journal
+              Entries", RFC 2446, November 1998.
+
+   [RFC3688]  Mealling, M., "The IETF XML Registry", BCP 81, RFC 3688,
+              January 2004.
+
+   [W3C.REC-xml-20060816]
+              Paoli, J., Maler, E., Sperberg-McQueen, C., Yergeau, F.,
+              and T. Bray, "Extensible Markup Language (XML) 1.0 (Fourth
+              Edition)", World Wide Web Consortium Recommendation REC-
+              xml-20060816, August 2006,
+              <http://www.w3.org/TR/2006/REC-xml-20060816>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                  [Page 9]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+Authors' Addresses
+
+   Cyrus Daboo
+   Apple Inc.
+   1 Infinite Loop
+   Cupertino, CA  95014
+   USA
+
+   Email: cyrus@daboo.name
+   URI:   http://www.apple.com/
+
+
+   Michael Douglass
+   Rensselaer Polytechnic Institute
+   110 8th Street
+   Troy, NY  12180
+   USA
+
+   Email: douglm@rpi.edu
+   URI:   http://www.rpi.edu/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                 [Page 10]
+
+Internet-Draft          Timezones Author Registry          November 2008
+
+
+Full Copyright Statement
+
+   Copyright (C) The IETF Trust (2008).
+
+   This document is subject to the rights, licenses and restrictions
+   contained in BCP 78, and except as set forth therein, the authors
+   retain all their rights.
+
+   This document and the information contained herein are provided on an
+   "AS IS" basis and THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS
+   OR IS SPONSORED BY (IF ANY), THE INTERNET SOCIETY, THE IETF TRUST AND
+   THE INTERNET ENGINEERING TASK FORCE DISCLAIM ALL WARRANTIES, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF
+   THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED
+   WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Intellectual Property
+
+   The IETF takes no position regarding the validity or scope of any
+   Intellectual Property Rights or other rights that might be claimed to
+   pertain to the implementation or use of the technology described in
+   this document or the extent to which any license under such rights
+   might or might not be available; nor does it represent that it has
+   made any independent effort to identify any such rights.  Information
+   on the procedures with respect to rights in RFC documents can be
+   found in BCP 78 and BCP 79.
+
+   Copies of IPR disclosures made to the IETF Secretariat and any
+   assurances of licenses to be made available, or the result of an
+   attempt made to obtain a general license or permission for the use of
+   such proprietary rights by implementers or users of this
+   specification can be obtained from the IETF on-line IPR repository at
+   http://www.ietf.org/ipr.
+
+   The IETF invites any interested party to bring to its attention any
+   copyrights, patents or patent applications, or other proprietary
+   rights that may cover technology that may be required to implement
+   this standard.  Please address the information to the IETF at
+   ietf-ipr@ietf.org.
+
+
+
+
+
+
+
+
+
+
+
+Daboo & Douglass          Expires May 22, 2009                 [Page 11]
+
+
