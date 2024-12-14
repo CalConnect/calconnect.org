@@ -4,10 +4,9 @@ title: CalConnect CALSPAM Technical Committee
 type: about
 permalink: /about/technical-committees/:title
 ---
+= CalConnect CALSPAM Technical Committee
 
 CalConnect project to provide documentation on calendar spam best practices.
-
-= CalConnect CALSPAM Technical Committee
 
 == Background
 
