@@ -106,7 +106,7 @@ As noted above all events for the week will be at the Google campus. Please note
 
 At this time the schedule is preliminary and there may be changes in when specific sessions occur.
 
-A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/calendar/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
+A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/calendar/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
 
 [cols=3]
 |===
@@ -151,7 +151,7 @@ As noted above all events for the week will be at the Google campus. Please note
 
 At this time the schedule is preliminary and there may be changes in when specific sessions occur.
 
-A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/calendar/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
+A downloadable iCalendar.ics file with the entire schedule is available at http://calconnect.org/calendar/CalConnectConference.ics[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
 
 [cols=3]
 |===

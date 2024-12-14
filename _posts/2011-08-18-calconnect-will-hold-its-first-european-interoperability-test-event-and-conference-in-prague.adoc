@@ -1,0 +1,17 @@
+---
+layout: page
+title:  CalConnect will hold its First European Interoperability Test Event and Conference in Prague
+type: news
+date: 2011-08-18
+categories: press-releases
+excerpt: |
+  CalConnect will hold its First European Interoperability Test Event and
+  Conference in Prague.
+---
+:page-liquid:
+
+*August 18, 2011* +
+*CalConnect will hold its First European Interoperability Test Event and
+Conference in Prague*:
+link:{{'/docs/press-releases/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect
+Prague Release.pdf].

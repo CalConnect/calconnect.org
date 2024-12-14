@@ -23,4 +23,4 @@ contacts
 support
 * images
 
-Details: link:{{'/tc-eventpub' | relative_url }}[TC EVENTPUB]
+Details: link:{{'/about/technical-committees/tc-eventpub' | relative_url }}[TC EVENTPUB]

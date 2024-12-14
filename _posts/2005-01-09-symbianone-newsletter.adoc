@@ -1,0 +1,18 @@
+---
+layout: page
+title:  Launch of the Calendaring and Scheduling Consortium - SymbianOne Newsletter
+type: news
+date: 2005-01-09
+categories: press-releases
+excerpt: |
+  The SymbianOne Newsletter reports on the public launch of the Calendaring and
+  Scheduling Consortium.
+---
+:page-liquid:
+
+*January 9, 2005* +
+*SymbianOne Newsletter*: Symbian, a Founding Member of the Consortium,
+issued its own press release on the public launch of the Consortium.
+http://www.symbianone.com/index.php?option=content&task=view&id=1311&Itemid=97[Top
+Vendors (including Symbian)&#44; Users Launch Calendaring and Scheduling
+Consortium].

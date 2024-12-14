@@ -16,4 +16,4 @@ standard calendar service protocol) will allow for effective user
 management of alarms, including choosing which device(s) should enable
 each alarm, and the form of the alarm.
 
-Details: link:{{'/tc-caldav' | relative_url }}[TC CALDAV]
+Details: link:{{'/about/technical-committees/tc-caldav' | relative_url }}[TC CALDAV]

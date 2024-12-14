@@ -1,0 +1,19 @@
+---
+layout: page
+title: e-Pro Magazine writes on Roundtable II and CalConnect Interoperability Event
+type: news
+date: 2005-02-07
+categories: press-releases
+excerpt: |
+  An article from e-Pro magazine on the just-completed CalConnect
+  Interoperability Event and the Consortium Roundtable II in January.
+---
+:page-liquid:
+
+*February 7, 2005* +
+*e-Pro Magazine on Roundtable II and CalConnect Interoperability Event*:
+
+An article from e-Pro magazine on the just-completed CalConnect
+Interoperability Event and the Consortium Roundtable II in January.
+link:{{'/docs/press-release/eproarticle.html' | relative_url }}[Calendaring Consortium
+Builds Momentum].

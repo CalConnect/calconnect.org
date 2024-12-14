@@ -1,0 +1,20 @@
+---
+layout: page
+title:  Roundtable discsussion on the future of interoperable calendaring and scheduling
+type: news
+date: 2004-10-05
+categories: press-releases
+excerpt: |
+  Second event sponsored by the Calendaring and Scheduling Consortium.
+  Hosted by Oracle Corporation in Montreal, “A Roundtable Discussion on the
+  Future  of Interoperable Calendaring and Scheduling”
+---
+:page-liquid:
+
+*October 5, 2004* +
+*Roundtable Publicity Release*: The publicity release issued by the
+Consortium following the 23-24 September 2004 Roundtable on the Future
+of Interoperable Calendaring and Scheduling sponsored by the Consortium
+and hosted by Oracle.
+link:{{'/docs/press-releases/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity
+Release].

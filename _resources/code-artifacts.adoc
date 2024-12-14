@@ -16,7 +16,7 @@ All CalConnect code artifacts and schema are licensed for public use
 under the http://www.apache.org/licenses/LICENSE-2.0[Apache 2 License].
 
 Please see
-link:{{'/about/policies/copyright-licensing' | relative_url }}[Copyright and Licensing for Published Material]
+link:{{'/about/policies/copyright-and-licensing' | relative_url }}[Copyright and Licensing for Published Material]
 for more information about CalConnect licenses.
 
 

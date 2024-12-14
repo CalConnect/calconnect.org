@@ -31,14 +31,14 @@ In the weeks immediately preceding CalConnect XXXI, two organizations joined Cal
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
-* link:{{'/tc-freebusy' | relative_url}}[TC FREEBUSY]
+* link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY]
 +
 provided a live demo of a VPOLL (consensus scheduling) client, and expects to be able to demonstrate multiple clients and servers at the next CalConnect Event featuring multiple implementations each on its own server via iSCHEDULE (server-server scheduling).
-* link:{{'/tc-fsc' | relative_url}}[TC FSC]
+* link:{{'/about/technical-committees/tc-fsc' | relative_url}}[TC FSC]
 +
 (Federated Shared Calendars) and
 +
-link:{{'/tc-sharing' | relative_url}}[TC SHARING]
+link:{{'/about/technical-committees/tc-sharing' | relative_url}}[TC SHARING]
 +
 (Contacts and Calendar Sharing for CalDAV and CardDAV) were formed from the Contacts Sharing and FSC Provisional Committees at the end of the last event, and offered their first sessions as Technical Committees at this event.
 

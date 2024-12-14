@@ -20,7 +20,7 @@ CalConnect XXXV at AOL's Palo Alto Headquarters, January 11-15, 2016
 
 Monday, January 11, 2016 to Friday, January 15, 2016
 
-webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
 
 Recent Changes:
 

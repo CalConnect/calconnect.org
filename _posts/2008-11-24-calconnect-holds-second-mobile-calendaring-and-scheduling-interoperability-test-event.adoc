@@ -1,0 +1,21 @@
+---
+layout: page
+title:  CalConnect Holds Second Mobile Calendaring and Scheduling Interoperability Test Event
+type: news
+date: 2008-11-24
+categories: press-releases
+excerpt: |
+  CalConnect's Second Mobile Calendaring and Scheduling Interoperability Test
+  Event was hosted by Kerio Technologies in Plzen, Czech Republic, on November
+  4-6, 2008.
+---
+:page-liquid:
+
+*November 24, 2008* +
+*CalConnect Holds Second Mobile Calendaring and Scheduling
+Interoperability Test Event*: CalConnect's Second Mobile Calendaring and
+Scheduling Interoperability Test Event was hosted by Kerio Technologies
+in Plzen, Czech Republic, on November 4-6, 2008:
+link:{{'/docs/press-releases/CalConnect%20Holds%20Second%20Mobile.doc' | relative_url }}[CalConnect
+Holds Second Mobile Calendaring and Scheduling Interoperability Test
+Event].

@@ -17,6 +17,6 @@ running on a system can use the API to perform calendar and scheduling
 operations against any calendaring and scheduling implementation running
 on that system.
 
-Work item of: link:{{'/tc-api' | relative_url }}[TC API].
+Work item of: link:{{'/about/technical-committees/tc-api' | relative_url }}[TC API].
 
 Details: link:{{'/7_things_api' | relative_url }}[*Abstract Calendaring API*]

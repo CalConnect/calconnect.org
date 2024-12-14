@@ -16,7 +16,7 @@ CalConnect XLIV in Zurich, Switzerland, hosted by Google
 
 Monday, February 04, 2019 to Friday, February 08, 2019
 
-webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
+link:webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[Subscribe] to the CalConnect Week Calendar.
 
 Recent Changes:
 
@@ -135,7 +135,7 @@ https://www.galahotels.com/en/Hotel/switzerland_217/zurich_20528/novotel_zurich_
 
 === CALCONNECT XLIV
 
-webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[*Subscribe*] to this calendar.
+link:webcal://p48-calendars.icloud.com/published/2/lYLdmehfxPPXFJb6UG45eNn1BtQ_JuuKwVffIvBx6CoC3tu_6W3vy2rY-ntnnPP3CVNSbw2-_vcAuwlN7O51PZ3494ByL9Jod25b3LJg_C8[*Subscribe*] to this calendar.
 
 Please Note: The schedule and content may be altered during the course of the event as circumstances dictate or new issues arise to be covered.
 

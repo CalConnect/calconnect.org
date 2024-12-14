@@ -20,7 +20,7 @@ CalConnect XXXVII in Dresden, September 12-16 2016, hosted by dmfs
 
 Monday, September 12, 2016 to Friday, September 16, 2016
 
-webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
 
 Recent Changes:
 

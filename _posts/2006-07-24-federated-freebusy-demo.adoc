@@ -1,0 +1,34 @@
+---
+layout: page
+title:  Federated Freebusy Demo with The Open Group
+type: news
+date: 2006-07-24
+categories: press-releases
+excerpt: |
+  CalConnect and The Open Group successfully demonstrated a proof-of-concept
+  application which aggregated and displayed Free/Busy information for multiple
+  individuals across seven different calendaring systems.
+---
+:page-liquid:
+
+*July 24, 2006* +
+*Federated Freebusy Demo*
+
+Members of the Consortium succssfully demonstrated a proof-of-concept
+application which aggregated and displayed Free/Busy information for multiple
+individuals across seven different calendaring systems. The demo was conducted
+at The Open Group's meeting in Miami on Monday, July 17th in response to The
+Open Group's Federated Freebusy Challenge.
+
+The aggregation technnology is based on the Bedework CalDAV implementation, and
+the intent of the Consortium is to make the freebusy aggregator, the connectors
+to non-CalDAV-based calendaring systems, and the web interface publicly
+available as open source.
+
+The joint press release from
+CalConnect and The Open Group is at
+link:{{'/docs/press-releases/060724freebusydemorelease.pdf' | relative_url }}[Federated Freebusy Demo Press Release].
+
+The presentation discussing the Freebusy
+challenge and how it was met is at
+link:{{'/publications/CD0608%20The%20Open%20Group%20Federated%20Freebusy%20Challenge%20Demo.pdf' | relative_url }}[Federated Freebusy Demo Presentation].

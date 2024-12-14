@@ -23,7 +23,7 @@ Join us for CalConnect XXXVI Hong Kong, April 18-22 2016
 
 Monday, April 18, 2016 to Friday, April 22, 2016
 
-webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
+link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe] to the CalConnect Week Calendar.
 
 Recent Changes:
 

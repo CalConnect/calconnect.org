@@ -1,0 +1,17 @@
+---
+layout: page
+title:  First CalConnect Interoperability Event
+type: news
+date: 2004-08-20
+categories: press-releases
+excerpt: |
+  The first calendaring consortium-sponsored testing event on the interoperable
+  exchange of calendaring and scheduling information between dissimilar programs, platforms, and technologies.
+---
+:page-liquid:
+
+*August 20, 2004* +
+*CalConnect Interoperability Event Publicity Release*: The first publicity
+release issued by the Consortium following the July 29-30 2004 Event.
+link:{{'/docs/press-releases/0407interop1.pdf' | relative_url }}[CalConnect
+Interoperability Event Publicity Release].

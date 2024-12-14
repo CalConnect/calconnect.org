@@ -20,4 +20,4 @@ scheduling - the ability to schedule a meeting or appointment with
 anybody with a calendar and a calendar server, regardless of what system
 they are on.
 
-Details: link:{{'/tc-ischedule' | relative_url }}[TC ISCHEDULE]
+Details: link:{{'/about/technical-committees/tc-ischedule' | relative_url }}[TC ISCHEDULE]

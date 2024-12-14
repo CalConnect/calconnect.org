@@ -13,35 +13,35 @@ about:
         url: /about/technical-committees
         subsubfolderitems:
           - page: TCC Technical Coordination Committee
-            url: /about/technical-committees/TCC/
+            url: /about/technical-committees/tcc/
           - page: TC-API
-            url: /about/technical-committees/TC-API/
+            url: /about/technical-committees/tc-api/
           - page: TC-AUTODISCOVERY
-            url: /about/technical-committees/TC-AUTODISCOVERY/
+            url: /about/technical-committees/tc-autodiscovery/
           - page: TC-CALENDAR
-            url: /about/technical-committees/TC-CALENDAR/
+            url: /about/technical-committees/tc-calendar/
           - page: TC-CALSPAM
-            url: /about/technical-committees/TC-CALSPAM/
+            url: /about/technical-committees/tc-calspam/
           - page: TC-CLIENT
-            url: /about/technical-committees/TC-CLIENT/
+            url: /about/technical-committees/tc-client/
           - page: TC-DATETIME
-            url: /about/technical-committees/TC-DATETIME/
+            url: /about/technical-committees/tc-datetime/
           - page: TC-DEVGUIDE
-            url: /about/technical-committees/TC-DEVGUIDE/
+            url: /about/technical-committees/tc-devguide/
           - page: TC-LOCALIZATION
-            url: /about/technical-committees/TC-LOCALIZATION/
+            url: /about/technical-committees/tc-localization/
           - page: TC-PUBLISH
-            url: /about/technical-committees/TC-PUBLISH/
+            url: /about/technical-committees/tc-publish/
           - page: TC-PUSH
-            url: /about/technical-committees/TC-PUSH/
+            url: /about/technical-committees/tc-push/
           - page: TC-SHARING
-            url: /about/technical-committees/TC-SHARING/
+            url: /about/technical-committees/tc-sharing/
           - page: TC-STREAMING
-            url: /about/technical-committees/TC-STREAMING/
+            url: /about/technical-committees/tc-streaming/
           - page: TC-TESTER
-            url: /about/technical-committees/TC-TESTER/
+            url: /about/technical-committees/tc-tester/
           - page: TC-VCARD
-            url: /about/technical-committees/TC-VCARD/
+            url: /about/technical-committees/tc-vcard/
           - page: Closed TCs
             url: /about/technical-committees/closed-tcs
       - page: Major Work Projects
@@ -59,6 +59,8 @@ about:
         url: /about/board-directors
       - page: Liaisons and Relationships
         url: /about/liaisons-and-relationships
+      - page: Media Resources
+        url: /about/media-resources
       - page: History
         url: /about/history
 membership:
@@ -145,30 +147,28 @@ resources:
       - page: Patent Information Database
         url: https://standards.calconnect.org/patents/
       - page: Presentations
-        url: /news/presentations
+        url: /resources/presentations
       - page: Public Discussion Lists
         url: /resources/discussion-lists
       - page: Public Review
         url: /resources/public-review
       - page: Timezone changes knowledge base
         url: /resources/timezone-changes
+      - page: Related Blogs
+        url: /resources/related-blogs
 news: &news_content
   - title:
     subfolderitems:
       - page: Latest News
         url: /news
-      - page: Presentations
-        url: /news/presentations
-      - page: Press Releases
-        url: /news/publicity-and-press-releases
-      - page: Media Resources
-        url: /news/media-resources
   - title: Categories
     subfolderitems:
       - page: Announcements
         url: /news/announcements
       - page: Current Events
         url: /news/current-events
+      - page: Press Releases
+        url: /news/press-releases
       - page: General Information
         url: /news/general-information
       - page: Member Focus
@@ -176,22 +176,8 @@ news: &news_content
         active: true
       - page: Member News
         url: /news/member-news
-      - page: Press Releases
-        url: /news/press-releases
       - page: Special Focus
         url: /news/special-focus
       - page: The World of Calendaring
         url: /news/the-world-of-calendaring
-  - title: Blog Roll
-    subfolderitems:
-      - page: CalConnect News
-        url: /news
-      - page: Calendar Weblog
-        url: http://weblogs.mozillazine.org/calendar/
-      - page: Francesco D'Alessio
-        url: https://www.youtube.com/channel/UCYyaQsm2HyneP9CsIOdihBw
-      - page: Sumatra's Calendar Server Blog
-        url: http://calendarservermigration.blogspot.com/
-      - page: The Calendar Swamp
-        url: http://calendarswamp.blogspot.com/
 category: *news_content

@@ -1,0 +1,17 @@
+---
+layout: page
+title:  Roundtable VI and Interoperability Testing Event
+type: news
+date: 2006-05-21
+categories: press-releases
+excerpt: |
+  CalConnect announces the May 2006 Roundtable VI and Interoperability Testing
+  event have been completed.
+---
+:page-liquid:
+
+*May 21, 2006* +
+*Media Alert for May 2006 Roundtable VI and Interoperability Testing
+Event*: The media alert for the May 2006 Roundtable and IOP testing
+event was issued at the beginning of May:
+link:{{'/docs/press-releases/0605mediaalert.doc' | relative_url }}[May 2006 Media Alert].

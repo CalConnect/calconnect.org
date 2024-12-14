@@ -21,4 +21,4 @@ to be included by reference in events, rather than embedded in them, and
 ensure correct interpretation of dates and times even if the information
 changes.
 
-Details: link:{{'/tc-timezone' | relative_url }}[TC TIMEZONE].
+Details: link:{{'/about/technical-committees/tc-timezone' | relative_url }}[TC TIMEZONE].

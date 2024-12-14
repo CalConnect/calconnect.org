@@ -15,8 +15,8 @@ In keeping with the goal of TC RESOURCE to develop recommendations for
 seamless interoperable resource scheduling, we have been working on
 defining how such resources should be represented. RFC 6350 defines the
 vCard format which allows the electronic capture and exchange of
-information on users, devices, and more. link:{{'/tc-resource' | relative_url }}[TC RESOURCE]
+information on users, devices, and more. link:{{'/about/technical-committees/tc-resource' | relative_url }}[TC RESOURCE]
 is working on an extension of the vCard RFC to include all
 required information for representing calendaring resources.
 
-Details: link:{{'/tc-resource' | relative_url }}[TC RESOURCE]
+Details: link:{{'/about/technical-committees/tc-resource' | relative_url }}[TC RESOURCE]

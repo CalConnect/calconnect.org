@@ -1,0 +1,15 @@
+---
+layout: page
+title: Linux Business Week covers Consortium launch
+type: news
+date: 2005-01-02
+categories: press-releases
+excerpt: |
+  The launch of the Calendaring and Scheduling Consortium is picked up by Linux
+  Business Week.
+---
+:page-liquid:
+
+*Linux Business Week*: A pick-up of the Consortium public launch
+release. http://www.linuxbusinessweek.com/story/47727.htm[Oracle&#44;
+Yahoo&#44; Novell&#44; Symbian&#44; Mozilla...Yet Another Consortium].
