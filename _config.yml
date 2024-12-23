@@ -5,8 +5,8 @@ description: >-
   collaboration systems and tools, in particular calendaring and scheduling.
 
 # domain: # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://calconnect.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /calconnect.org # place folder name if the site is served in a subfolder
+url: https://www.calconnect.org  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /calconnect.org # place folder name if the site is served in a subfolder
 
 twitter_username: CalConnect
 github_username:  CalConnect
