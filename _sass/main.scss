@@ -1009,3 +1009,9 @@ ul.action-links {
   display: list-item;
   list-style: circle !important;
 }
+
+@media only screen and (max-width: 767px) {
+  .hero-section {
+    margin-top: 3em;
+  }
+}
