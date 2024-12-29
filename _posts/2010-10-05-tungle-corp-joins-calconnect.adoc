@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Tungle Corp. Joins CalConnect
+title:  Tungle Joins The Calendaring and Scheduling Consortium
 type: news
 date: 2010-10-05
 categories: press-releases
@@ -10,20 +10,17 @@ excerpt: |
 ---
 :page-liquid:
 
-*October 5, 2010* +
-*Tungle Corp. Joins CalConnect*: The Calendaring and Scheduling
-Consortium has announced that Tungle Corporation has joined CalConnect:
-link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle Joins The
-Calendaring and Scheduling Consortium].
+DOC: link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle Joins The Calendaring and Scheduling Consortium].
 
-*Tungle Joins The Calendaring and Scheduling Consortium* +
+== Tungle Joins The Calendaring and Scheduling Consortium
+
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*– October 5, 2010 –* The Calendaring and Scheduling Consortium
-(www.calconnect.org) has announced that Tungle Corp. (www.tungle.com) has become one of
-the 32 organizations that make up the consortium. CalConnect’s members are universities,
-companies, open-source organizations, and government agencies. Tungle is headquartered in
-Montreal, Canada.
+*– October 5, 2010 –* The Calendaring and Scheduling Consortium has
+announced that Tungle Corp. ([.underline]#www.tungle.com#) has become
+one of organizations that make up the consortium. CalConnect’s members
+are universities, companies, open-source organizations, and government
+agencies. Tungle is headquartered in Montreal, Canada.
 
 “Today’s calendar is a static repository of events,” said Marc Gingras,
 Founder and CEO of Tungle. “It’s a snapshot, a moment in time. Contrast
@@ -39,18 +36,18 @@ pleased to be members of CalConnect and look forward to collaborating
 with such an impressive group of companies and individuals."
 
 CalConnect’s Executive Director Dave Thewlis noted, “As companies and
-organizations become
+organizations become international in scope and spread across more and more time
+zones, the work of CalConnect’s members assumes greater economic significance.
+CalConnect is finding strong interest in the challenges related to calendaring
+and scheduling among both North American and European organizations. The
+commonality among all of our members is their support of and increasing reliance
+on published protocols and implementation of open standards in calendaring and
+scheduling solutions. Our focus is on interoperability, and open standards are
+the key.”
 
-international in scope and spread across more and more time zones, the
-work of CalConnect’s members assumes greater economic significance.
-CalConnect is finding strong interest in the challenges related to
-calendaring and scheduling among both North American and European
-organizations. The commonality among all of our members is their support
-of and increasing reliance on published protocols and implementation of
-open standards in calendaring and scheduling solutions. Our focus is on
-interoperability, and open standards are the key.”
+== About Tungle
 
-*About Tungle* +
+
 Tungle Corp.’s Tungle.me makes scheduling meetings easy–across
 organizations, calendar systems and time zones–by eliminating the
 multiple emails, phone calls and double bookings that typically come
@@ -65,7 +62,8 @@ Founded in 2006, the Montreal-based company is venture-backed by
 investors Commonwealth Capital Ventures, JLA Ventures and Desjardins
 Venture Capital.
 
-*About CalConnect* +
+== About CalConnect
+
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
 among vendors, developers, and customers to advance calendaring and
 scheduling standards and +
@@ -88,5 +86,3 @@ Egen Consulting, PeopleCube, Rensselaer Polytechnic Institute, Stanford
 University, Stockholm University, SWAMI (Swedish Alliance for Middleware
 Infrastructure), Synchronica, Tungle, University of California,
 University of Wisconsin, Yahoo!, and Zimbra.
-
-

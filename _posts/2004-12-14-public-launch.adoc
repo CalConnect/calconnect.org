@@ -1,0 +1,131 @@
+---
+layout: page
+title: Top Vendors, Users Launch Calendaring and Scheduling Consortium
+type: news
+date: 2004-12-14
+categories: press-releases
+excerpt: |
+  Seven vendors, six universities, two open source foundations, and a research
+  facility have joined to form the Calendaring and Scheduling Consortium, which
+  named David C. Thewlis the first Executive Director. The Consortium focuses
+  on the interoperable exchange of calendaring and scheduling information between
+  dissimilar programs, platforms, and technologies.
+---
+:page-liquid:
+
+== Top Vendors, Users Launch Calendaring and Scheduling Consortium
+
+*Goal: End the Problem of Incompatible Calendaring and Scheduling Products*
+
+PDF: link:{{'/docs/press-releases/041214publiclaunch.pdf' | relative_url }}[Public Launch Release].
+
+*McKinleyville, CA – December 14, 2004 –* Seven vendors, six universities, two
+open source foundations, and a research facilityembership of the Calendaring and
+Scheduling Consortium (www.calconnect.org), which named David C.
+
+Thewlis the first Executive Director. The on the interoperable exchange
+of calendaring and scheduling information between dissimilar programs,
+platforms, and technologies. The founding members are (in alphabetical
+order) Duke University, EVDB, Isamet, Jet Propulsion Laboratory, Meeting
+Maker, M.I.T., The Mozilla Foundation, Novell, Open Source Application
+Foundation, Oracle Corporation, Stanford University, Symbian, UC
+Berkeley, University of Washington, University of Wisconsin Madison, and
+Yahoo! Inc.
+
+“Our members’ intent is to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing,” said Dave Thewlis.
+“After email, the World Wide Web, and instant messaging, calendaring and
+scheduling capabilities are what business people and consumers will
+really care about.”
+
+“This isn’t simply about calendar programs,” noted Patricia Egen,
+Interop manager and member of the Board of Directors, who originated the
+idea of the Consortium. “This is about seamlessly connecting your
+calendar with others so that your professional and personal life runs
+more smoothly.”
+
+The Consortium, planned to have a three- to five-year lifespan in which
+to achieve its objectives, builds on work already accomplished or in
+progress within the Internet Engineering Task Force (IETF). Currently,
+large consumers such as universities and corporations face costly
+problems coordinating resources because departmental calendaring and
+scheduling applications may not be based on open standards that allow
+interoperability. Even standards-based systems from different vendors
+may not work together. With sets of IETF specifications as the heart of
+a solution, the Consortium provides a forum for vendors to mitigate
+conflicts between their competing products.
+
+The Consortium has a schedule of activities that give the relevant
+standards commercial value, that is, promotion, requirements setting,
+and validation. Events on the agenda include:
+
+* Three to four interoperability testing events (“Interops”) a year, with
+the next one scheduled for January 11-12 in Seattle, WA.
+
+* Roundtables and Technical Committee meetings of the Consortium; the next
+is scheduled for 11-13 January in Seattle, WA, co-located with the
+Interop event.
+
+* Ongoing Technical Committee work, intended to provide feedback or
+information to IETF standards activities
+
+* Presentations at related conferences
+
+* Non-members are welcome to participate in the Interops, but Roundtables
+and Technical Committees are for members only.
+
+_Quotes from Members of the Steering Committee_
+
+Duke University (www.duke.edu) +
+“The Calendaring and Scheduling Consortium appears to be re-invigorating
+the
+development of calendaring standards that became stalled for a few
+years,” Michael Gettes, senior IT architect at Duke University, said.
+“We now have customer involvement along with all the important calendar
+standards leaders and vendors to ensure we develop interoperable
+solutions as quickly as possible. It is an exciting time for the
+calendaring industry.”
+
+The Mozilla Foundation (www.mozilla.org) +
+“The launch of the Calendaring and Scheduling Consortium represents a
+promising step forward in the development of critical calendaring
+standards,” said Mike Shaver of the Mozilla Foundation. “The Mozilla
+Foundation is excited to participate in the
+Consortium's efforts to link users, vendors and protocol architects in
+pursuit of
+universally interoperable calendaring.”
+
+Open Source Application Foundation (www.osafoundation.org) +
+“OSAF is pleased to be able to support the development of
+interoperable
+calendaring solutions by becoming a founding member of the Calendaring
+and Scheduling Consortium,” said Lisa Dusseault, Development manager,
+standards architect, OSAF. “The Consortium plays an important role in
+enabling the dialog between partners that is essential for the
+establishment of open and interoperable standards.”
+
+The University of Washington (www.cac.washington.edu) +
+“For years there has been a large need within higher education for
+interoperable standards-based calendaring,” noted Oren Sreebny;
+Director, Client Services
+and Learning Technologies; Computing & Communications; University of
+Washington. “This need is growing with the proliferation of online
+scheduling and pervasive portable devices. The ability for an
+organization like CalConnect to provide a neutral forum to encourage all
+interested parties to collaborate on solving these sets of issues and to
+demonstrate the usefulness of interoperation is critical for moving this
+mission forward. We are proud to be part of the founding of this
+organization, and look forward to working with the members to advance
+the state of the art in calendaring and scheduling.”
+
+The University of Wisconsin (www.doit.wisc.edu) +
+“The University of Wisconsin-Madison became a founding member of the
+Calendaring and Scheduling Consortium to help our campus customers,”
+explained Bill Scheuerell Director of Enterprise Internet Services,
+Division of Information Technology,
+University of Wisconsin-Madison Campus. “Departments rely on integrated
+calendaring to organize university schedules. The consortium will help
+all of us set interoperability standards and system features, and
+communicate them to potential vendors.”
+
+Contact: Maryann Karinch, 970-577-8500, maryann@karinch.com

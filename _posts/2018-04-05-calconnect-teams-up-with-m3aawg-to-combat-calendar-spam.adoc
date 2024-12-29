@@ -4,7 +4,10 @@ title: CalConnect teams up with M3AAWG to combat calendar spam
 date: 2018-04-05
 type: news
 categories: announcements current-events special-focus the-world-of-calendaring
-excerpt: CalConnect and the global anti-abuse association M3AAWG have joined forces to develop new methods to protect end-users from unsolicited and malicious event notices.
+excerpt: |
+  CalConnect and the global anti-abuse association M3AAWG have joined forces to
+  develop new methods to protect end-users from unsolicited and malicious event
+  notices.
 ---
 :page-liquid:
 
@@ -12,7 +15,12 @@ excerpt: CalConnect and the global anti-abuse association M3AAWG have joined for
 
 Posted April 5, 2018
 
-*McKinleyville, CA and San Francisco, April 5, 2018*  Recognizing that calendar spam is a growing exploitation channel, CalConnect and the global anti-abuse association M3AAWG have joined forces to develop new methods to protect end-users from unsolicited and malicious event notices. The new liaison between the scheduling developers  organization and the Messaging, Malware and Mobile Anti-Abuse Working Group will accelerate industry efforts to develop techniques that block invites to fake events and other malicious notices on popular calendaring platforms.
+PDF: link:{{'/docs/press-releases/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf' | relative_url }}[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf].
+
+
+*McKinleyville, CA and San Francisco, April 5, 2018*
+
+Recognizing that calendar spam is a growing exploitation channel, CalConnect and the global anti-abuse association M3AAWG have joined forces to develop new methods to protect end-users from unsolicited and malicious event notices. The new liaison between the scheduling developers  organization and the Messaging, Malware and Mobile Anti-Abuse Working Group will accelerate industry efforts to develop techniques that block invites to fake events and other malicious notices on popular calendaring platforms.
 
 Calendar spam is a new form of abuse that takes advantage of the application layer across multiple technologies, including scheduling, calendaring and messaging systems. For example, users have received fraudulent emails impersonating well-known brands that include calendar invites to special "`discount`" events. As is the case with email spam, calendar spam can be used for malicious purposes such as phishing or to deliver malware payloads.
 
@@ -20,7 +28,7 @@ CalConnect (The Calendaring and Scheduling Consortium) also has established a ne
 
 "Calendaring is an intimate part of everyone's lives. Calendar spam is particularly unsettling because the abuse directly pops up on a person's calendar. It's personally disruptive and especially disturbing," said Thomas SchÃ¤fer, 1&1's Head of Technical Site Management who chairs TC CALSPAM.
 
-*Differs from Other Abuse Schemes*
+=== Differs from Other Abuse Schemes
 
 CalConnect and M3AAWG will develop the measures and best practices for developers and system operators to ensure legitimate usage of their platforms. The collaborative effort is important because calendar spam is unique as an abuse vector in a number of ways:
 
@@ -31,7 +39,7 @@ CalConnect and M3AAWG will develop the measures and best practices for developer
 
 M3AAWG Executive Director Jerry Upton said, "Calendar spam has shown itself to be a new but rapidly maturing vector for spammers. As we ve seen in addressing other abuse issues in M3AAWG, cross-domain problems like this require input from experts in multiple disciplines and collaborating with CalConnect and their subject matter is the most direct route to combatting this evolving threat."
 
-*Call for Industry Participation*
+=== Call for Industry Participation
 
 The reciprocal membership agreement between the two organizations became effective in February and allows the calendaring and scheduling developers, vendors and service providers in CalConnect and the messaging and email authentication experts in M3AAWG to share information and work. CalConnect members participated in the M3AAWG 42nd General Meeting in San Francisco in February, kicking off the joint work on applicable anti-abuse methodologies. The 43rd M3AAWG General Meeting will be held June 4-7 in Munich, Germany.
 
@@ -39,21 +47,15 @@ CalConnect President Rutger Geelen said, "We recognize that calendar spam is a r
 
 Organizations interested in joining the CalConnect calendar spam committee should contact CalConnect Executive Director Dave Thewlis at mailto:dave.thewlis@calconnect.org?subject=CalSPAM[dave.thewlis@calconnect.org] or CalConnect Director of External Relations Ronald Tse at mailto:ronald.tse@calconnect.org?subject=CalSPAM[ronald.tse@calconnect.org].
 
-*About The Calendaring and Scheduling Consortium (CalConnect)*
+=== About The Calendaring and Scheduling Consortium (CalConnect)
 
 CalConnect, The Calendaring and Scheduling Consortium, CalConnect, is a not-for-profit organization advancing the state of interoperable calendaring, scheduling and digital contacts. Founded in 2004 as a partnership between vendors and users of calendaring and scheduling tools and technologies, its membership includes some of the world's largest software companies as well as small startups. Virtually every important calendaring-related standard since 2004 has been authored, edited, and/or co-edited by members of a CalConnect Technical Committee. https://www.calconnect.org[].
 
-*About the Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)*
+=== About the Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)
 
 The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) is where the industry comes together to work against bots, malware, spam, viruses, denial-of-service attacks and other online exploitation. M3AAWG (http://www.m3aawg.org[www.m3aawg.org]) members represent more than one billion mailboxes from some of the largest network operators worldwide. It leverages the depth and experience of its global membership to tackle abuse on existing networks and new emerging services through technology, collaboration and public policy, and works to educate global policy makers on the technical and operational issues related to online abuse and messaging.
 
-*For a PDF of this press release:*
-
-https://www.calconnect.org/sites/default/files/media/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf]
-
----
-
-*Media Contacts:*
+=== Media Contacts
 
 Ronald Tse, Director, External Relations, mailto:ronald.tse@calconnect.org[ronald.tse@calconnect.org] +
 CalConnect (The Calendaring and Scheduling Consortium), https://www.calconnect.org

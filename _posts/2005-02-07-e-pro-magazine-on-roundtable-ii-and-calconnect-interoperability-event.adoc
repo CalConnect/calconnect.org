@@ -10,22 +10,23 @@ excerpt: |
 ---
 :page-liquid:
 
-*February 7, 2005* +
-*e-Pro Magazine on Roundtable II and CalConnect Interoperability Event*:
+== e-Pro Magazine on Roundtable II and CalConnect Interoperability Event
+
+*February 7, 2005*
 
 An article from e-Pro magazine on the just-completed CalConnect
 Interoperability Event and the Consortium Roundtable II in January.
-link:{{'/docs/press-release/eproarticle.html' | relative_url }}[Calendaring Consortium
-Builds Momentum].
 
-*Calendaring Consortium Builds Momentum - February 5, 2005, ePro
-Magazine*
+
+=== Calendaring Consortium Builds Momentum - February 5, 2005, ePro Magazine
 
 by Chris Alan Miller
 
-The  https://www.calconnect.org[Calendaring and Scheduling Consortium], a.k.a. CalConnect, started showing https://www.e-promag.com/article.cfm?id=5100[signs of life] last September, officially
-launched in mid-December, held its second interoperability event January
-11-13, and is now gearing up for a busy 2005.
+The Calendaring and Scheduling Consortium[Calendaring and Scheduling
+Consortium], a.k.a. CalConnect, started showing
+http://www.e-promag.com/article.cfm?id=5100[signs of life] last September,
+officially launched in mid-December, held its second interoperability event
+January 11-13, and is now gearing up for a busy 2005.
 
 CalConnect is a consortium that focuses on the interoperable exchange of
 calendaring and scheduling information between dissimilar programs,
@@ -50,8 +51,8 @@ scheduling information across the Internet.
 
 In addition to the testing, 32 participants representing 16
 organizations, worked together to create a game plan and method for
-building momentum, including how to best work with the http://www.ietf.org[e Internet Engineering Task Force
-(IETF)] . During
+building momentum, including how to best work with the
+http://www.ietf.org/[Internet Engineering Task Force (IETF)]. During
 roundtable meetings, both technical and strategic, participants worked
 to determine which features of iCalendar are commonly implemented and
 need to be in a simplified iCalendar specification that can actually be
@@ -75,8 +76,7 @@ the January 2005 event. In addition, there will be testing of iCalendar
 standards by vendors who have implemented the protocols and want to test
 their applications with other vendors.
 
-If you're interested in learning more or getting involved, check out  http://www.calconnect.org.
-
----
+If you're interested in learning more or getting involved, check out
+www.calconnect.org.
 
 Copyright © 2005 - Penton Technology Media

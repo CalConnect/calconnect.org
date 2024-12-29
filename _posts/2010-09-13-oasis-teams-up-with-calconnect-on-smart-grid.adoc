@@ -1,0 +1,117 @@
+---
+layout: page
+title: CalConnect, OASIS Team Up on Key Smart-Grid Project
+type: news
+date: 2010-09-13
+categories: press-releases
+excerpt: |
+  CalConnect and OASIS have been tasked jointly by the National Institute for
+  Standards and Technology (NIST) to produce one of the standards that will make
+  it possible to monitor, predict and manage power consumption, known
+  as WS-Calendar.
+---
+:page-liquid:
+
+== CalConnect, OASIS Team Up on Key Smart-Grid Project
+
+_Outcome May Have Big Potential Impact on Any Industry with Time-related
+Problems_
+
+*McKinleyville, CA – September 13, 2010*
+
+CalConnect and
+OASIS have been tasked jointly by the National Institute
+for Standards and Technology (NIST) to produce one of the standards that
+will make it possible to monitor, predict and manage power consumption.
+The standard known as WS-Calendar addresses the need for the accurate
+and secure exchange of scheduling data in Smart Grid applications and
+elsewhere.
+
+“First and foremost, the result of our joint technical effort is
+intrinsic to making the Smart Grid intelligent in terms of power
+management,” says CalConnect Executive Director Dave Thewlis. “But
+beyond that, it has profound implications for any other industry with
+time-related issues, such as finance and medicine.”
+
+At the outset of the WS-Calendar project, OASIS joined CalConnect and
+CalConnect joined OASIS as part of a reciprocal membership agreement
+between the two organizations. OASIS then formed the WS-Calendar
+Technical Committee to adapt existing calendaring standards (those used
+in human interactions) for Web services, while CalConnect’s XML
+Technical Committee developed standards for use by and within
+WS-Calendar.
+
+“Existing calendaring standards are CalConnect’s home territory,”
+Thewlis added, “and that is why collaborating with OASIS makes so much
+sense in terms of technical expertise and efficiency.”
+
+The WS-Calendar Committee’s work is based on the iCalendar (IETF RFC
+5545) xCal XML serialization specification from CalConnect.org, and on
+the CalWS-Restful Web Services Calendaring API specification developed
+by CalConnect for this project, and which is a core part of WS-Calendar.
+
+“Although the current impetus accelerating the development of
+WS-Calendar is the needs of smart grids,” explained Toby Considine of
+the University of North Carolina at Chapel Hill, chair of the OASIS
+WS-Calendar Technical Committee, “the specification’s model for
+requesting and coordinating service performance can be used wherever
+different organizations must coordinate long running processes,
+including business process applications, emergency management, and smart
+buildings.”
+
+Thewlis noted the importance of the CalWS work and the relationship with
+OASIS by saying, “While CalWS was originally developed with the OASIS
+Smart Grid effort in mind, it is our intention for it to evolve to
+become a full web services interface for calendaring and scheduling
+operations. Hence CalWS will continue to be enhanced, and CalConnect and
+OASIS will work together to ensure that the CalConnect and OASIS
+versions are fully harmonized going forward.”
+
+Participation in the WS-Calendar Technical Committee is open to all
+interested parties. Archives
+of the Committee's work are accessible to both members and non-members.
+OASIS is expected to announce a first public review of WS-Calendar 1.0
+next month.
+
+Participation in the XML Technical Committee is open to all members of
+CalConnect. CalConnect will formally publish CalWS this month as a
+CalConnect Proposal.
+
+In recognition of the level and closeness of the joint work done by the
+OASIS WS-Calendar Technical Committee and the CalConnect XML Technical
+Committee, OASIS and CalConnect are providing press releases in
+parallel; the OASIS release may be found at
+http://www.oasis-open.org/news/oasis-news-2010-09-13.php.
+
+== About CalConnect
+
+
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and
+implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote
+broad understanding of these methodologies so that calendaring and
+scheduling tools and applications can enter the mainstream of computing.
+
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, conducts interoperability testing for
+calendaring and scheduling implementations, and promotes calendaring and
+scheduling.
+
+Organizational members are Apple, Binary Tree, Cabo Communications,
+Carnegie Mellon, dotCal, Eventful, Genentech, Google, IBM, IceWarp,
+Intand, Kerio Technologies, MailSite, Microsoft, Mozilla Foundation,
+NASA, New York University, Nokia, Notify Technology, OASIS, Oracle,
+Patricia Egen Consulting, PeopleCube, Rensselaer Polytechnic Institute,
+Stanford University, Stockholm University, SWAMI (Swedish Alliance for
+Middleware Infrastructure), Synchronica, University of California,
+University of Wisconsin, Yahoo!, and Zimbra.
+
+Additional information: +
+OASIS WS-Calendar Technical Committee +
+http://www.oasis-open.org/committees/ws-calendar/
+
+CalConnect XML Technical Committee +
+http://www.calconnect.org/tc-xml.shtml

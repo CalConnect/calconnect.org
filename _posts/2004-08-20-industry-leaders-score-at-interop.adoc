@@ -1,0 +1,75 @@
+---
+layout: page
+title:  Industry Leaders Score at Calendaring and Scheduling Interop
+type: news
+date: 2004-08-20
+categories: press-releases
+excerpt: |
+  IBM, Oracle Demonstrate Conformance with Key Parts of IETF Specification;
+  Interoperability Testing Highlights Need for Well-Focused Consortium
+---
+:page-liquid:
+
+== Industry Leaders Score at Calendaring and Scheduling Interop
+
+_IBM, Oracle Demonstrate Conformance with Key Parts of IETF
+Specification; Interoperability Testing Highlights Need for Well-Focused
+Consortium_
+
+PDF: link:{{'/docs/press-releases/0407interop1.pdf' | relative_url }}[CalConnect Interoperability Event Publicity Release].
+
+*Berkeley, CA – August 20, 2004 –* On July 29-30, the University of
+California at Berkeley hosted the first calendaring consortium-sponsored
+testing event on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies.
+
+“UC Berkeley has long depended on and fostered the use and development
+of standards,” noted Jeffrey McCullough, Principal Programmer,
+University of California, Berkeley. “Hosting this event was a great
+opportunity to further enhance interoperability in calendaring by
+providing forward thinking, standards compliant vendors a place to come
+together and test their products.”
+
+The technical goal of the Interop was to test a set of specifications
+developed by the Internet Engineering Task Force (IETF), specifically
+RFC 2445-6 and 7: iCalendar, iTIP and iMIP. Organizers produced the
+event to move the RFCs forward toward standards status as well as to
+ascertain the need for an industry/customer consortium on calendaring
+and scheduling.
+
+Dr. Nathaniel S. Borenstein, Distinguished Engineer, IBM Lotus Division,
+said, “IBM's Lotus Software helped lead the definition of the original
+iCal standards, and has supported them in our products since their
+publication in 1998. The standards represented an important step
+forward, but since then, the implementor community has learned a great
+deal about calendar
+interoperation.”
+
+Regarding the Interop, Dr. Borenstein added, “IBM's Lotus Software
+enthusiastically supports the efforts of the emerging Calendaring &
+Scheduling Consortium to revitalize the standards process and iron out
+the wrinkles that have kept Internet calendaring from reaching its full
+potential. We view this Interop as another step in the long march
+towards fully interoperable calendar systems, and look forward to
+further cooperation and progress.”
+
+“Oracle is delighted to have contributed to this interoperability
+testing event for the benefit of our customers and the global
+calendaring and scheduling community,” said Marten den Haring, Director
+of Product Management, Oracle Collaboration Suite Calendar. “We support
+the development and promotion of emerging open standards as well as the
+efforts of a number of standards bodies, including the IETF. These
+efforts help build momentum for the adoption of an open protocol to
+access and manage calendaring information.”
+
+*Media Contact* +
+Maryann Karinch +
+970-577-8500 +
+[.underline]#maryann@karinch.com#
+
+*Consortium Contact* +
+Dave Thewlis +
+707-840-9391 +
+[.underline]#dave.thewlis@calconnect.org#
+

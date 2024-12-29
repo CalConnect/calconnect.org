@@ -1,0 +1,69 @@
+---
+layout: page
+title: Duke University to Host Calendaring and Scheduling Roundtable/Interop
+type: news
+date: 2005-03-29
+categories: press-releases
+excerpt: |
+  Registration for the 1-3 June, 2005 Roundtable and associated Interop hosted by
+  Duke University in Durham, North Carolina, is now open.
+---
+:page-liquid:
+
+== Duke University to Host Calendaring and Scheduling Roundtable/Interop
+
+Item: Registration for the 1-3 June, 2005 Roundtable and associated
+Interop hosted by Duke University in Durham, North Carolina, is now
+open.
+
+Sponsor: The Calendaring and Scheduling Consortium (Calconnect) +
+The Consortium, launched December 2004, focuses on the interoperable
+exchange of calendaring and scheduling information between dissimilar
+programs, platforms, and technologies. Calconnect promotes general
+understanding of and provide mechanisms to allow interoperable
+calendaring and scheduling methodologies, tools and applications to
+enter the mainstream of computing. Membership listed below.
+
+Background: This is Calconnect’s third Roundtable and Interop. Events
+occur
+concurrently; full participation requires that a company send at least
+two representatives.
+
+Interop test events are open to members and non-members. They involve
+developers of Calendaring and Scheduling products or implementations
+that are based upon Calendaring and Scheduling standards and open
+specifications, in particular the IETF iCal, iMIP and iTIP RFCs and
+related drafts. At the events, implementers test their implementations
+for accuracy in implementing the Calendaring and Scheduling +
+Standards, and test interoperability with other implementations. Goals
+of the Interops include assessing the C&S standards, assessing the
+implementations, and determining interoperability.
+
+Roundtables include technical committee meetings and a general plenary
+where members set the technical work agenda and administrative
+priorities; prospective members may attend one meeting as observers.
+
+Registration: Roundtable fee – $275 per person for registrations
+received by 15 May 2005. After 15 May 2005 the fee rises to $325 per
+person.
+
+Interop fee – $1500 for Consortium members and $2500 for non-members.
+The fee covers two individuals; additional individuals are $275 each.
+(Participation in more than one Interop scenario may require more than
+two people.)
+
+To register, call 707-840-9391 or e-mail . Credit cards (Visa, Master
+Charge or American Express) payment. Space is limited to 40 participants.
+
+Roundtable Information
+
+Interop Information: +
+Details about the agenda and be posted soon.
+
+Members: Duke University, EVDB, Isamet, Jet Propulsion Laboratory,
+Meeting Maker, M.I.T., The Mozilla Foundation, Novell, Open Source
+Application Foundation, Oracle Corporation, Rensselaer Polytechnic
+Institute, Stanford University, Symbian, UC Berkeley, University of
+Washington, University of Wisconsin Madison, and Yahoo! Inc.
+
+Media Contact: Maryann Karinch, 970-577-8500

@@ -1,0 +1,72 @@
+---
+layout: page
+title: CalConnect Testing Event Largest Ever; Mobile Interop Tests Set Precedent
+type: news
+date: 2008-02-19
+categories: press-releases
+excerpt: |
+  The Calendaring and Scheduling Consortium announced that its most recent
+  CalConnect Interoperability Test Event, February 4-5, 2008, was its largest
+  IOP test event ever, and incorporated the first ever CalConnect Mobile
+  Calendaring Interoperabilty Test Event.
+---
+:page-liquid:
+
+== CalConnect Testing Event Largest Ever; Mobile Interop Tests Set Precedent
+
+DOC: link:{{'/docs/press-releases/CalConnect%20Stages%20Largest%20Interoperability%20Test%20Event%20v2.doc' | relative_url }}[CalConnect Stages Largest Interoperabiity Test Event]
+
+*McKinleyville, CA – February 19, 2008*
+
+The Calendaring and Scheduling Consortium opened a week of meetings with a
+CalConnect Interoperability Test Event (C.I.T.E.) on February 3-4 that involved
+10 organizations testing their calendaring and scheduling technology and a total
+of 30 representatives (including four observers) It was the largest C.I.T.E.
+that the group has staged in its four-year history. As part of the C.I.T.E.,
+CalConnect also hosted its first Mobile Calendaring Interoperability Test Event,
+a series of interoperability tests focused on mobile calendaring data exchange.
+
+“There are significant problems in mobile calendaring today,” said Dave
+Thewlis, CalConnect’s Executive Director. “The synchronization protocols
+used to “sync” mobile device calendars are not sensitive to the validity
+of the data, only that the bits were transmitted successfully. As a
+result, regular synchronization testing cannot detect whether the data
+transferred is actually valid. Our Mobile Calendar Interoperability Test
+Suite was developed to allow tests of the real calendar data.”
+
+Thewlis also noted that mobile devices have limited capabilities, so
+calendar data is often transformed to send to or from mobile devices,
+resulting in interoperability challenges, In addition, in the mobile
+world, data must exchange between a range of device
+
+manufacturers, mobile operators, and calendaring systems. “To further
+complicate the issue, most mobile devices use the obsolete “vcalendar”
+standard instead of the current icalendar standard, which means they
+cannot reliably support the same functions as desktop calendar systems.”
+
+Organizations participating in the C.I.T.E. events were Apple, Kerio
+Technologies, Marware, Microsoft, Oracle, Rensselaer Polytechnic
+Institute, Scalix (a Xandros company), Sony Ericsson, Sun Microsystems,
+and Zimbra (a Yahoo! company).
+
+== The Calendaring and Scheduling Consortium (www.calconnect.org)
+
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership among
+vendors, developers, and customers to advance calendaring and scheduling
+standards and implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote broad
+understanding of these methodologies so that calendaring and scheduling tools
+and applications can enter the mainstream of computing. The Consortium develops
+recommendations for improvement and extension of relevant standards, develops
+requirements and use cases for calendaring and scheduling specifications,
+conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling. Organizational members
+are Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno
+State, Google, IBM, Kerio Technologies, MailSite, Marware, Microsoft, Mirapoint,
+MIT, Mozilla Foundation, New York University, Open Connector Groupware, Open
+Source Applications Foundation, Oracle, PeopleCube, Princeton University,
+Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford University,
+Stockholm University, Sun Microsystems, Symbian, Synchronica, TimeBridge,
+Trumba, UC Berkeley, University of Chicago, University of Michigan, University
+of Pennsylvania, University of Washington, University of Wisconsin, Yahoo! Inc.,
+Zimbra.

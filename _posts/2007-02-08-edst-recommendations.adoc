@@ -1,0 +1,119 @@
+---
+layout: page
+title: CalConnect Gives Guidance to IT Staff on Impact of DST Change
+type: news
+date: 2007-02-08
+categories: press-releases
+excerpt: |
+  CalConnect announces recommendations and reference links to vendor sites to
+  aid system administrators in handling the Congressionally mandated change in
+  Daylight Saving Time (DST).
+---
+:page-liquid:
+
+== CalConnect Gives Guidance to IT Staff on Impact of DST Change
+
+_University and Vendor Experts Offer Ways to Avert Problems_
+
+*McKinleyville, CA (PRWeb) February 8, 2007 –* The Calendaring and
+Scheduling Consortium (CalConnect) has composed recommendations and
+reference links to vendor sites to aid system administrators in handling
+the Congressionally mandated change in Daylight Saving Time (DST). A
+provision of the Energy Policy Act of 2005 changed DST to begin three
+weeks earlier and end one week later, as of the second Sunday in March
+2007.
+
+“This modification to the DST rules is the first in 20 years, and it’s
+causing headaches for system administrators because the change was
+rather abrupt,” noted Dave Thewlis, Executive Director of the
+Calendaring and Scheduling Consortium.
+
+CalConnect’s members offer two recommendations: +
+--Apply system patches to implement the new extended DST period.
+
+--Consider whether corrections are needed to systems that store
+date/time values, such as calendar software or spreadsheets
+
+CalConnect also offers a collection of links to vendor web pages where
+DST updates are discussed and patches offered. Visit
+https://www.calconnect.org to access this information.
+
+“The change in DST rules will remind some of the Y2K problems in
+programs that referred to a year using two digits,” explained Joseph
+Jackson, Computing Services, Carnegie Mellon University. “The impact of
+the DST changes should be smaller, but is still a concern for system
+administrators. There may be significant impact on computer support
+organizations in cases where meetings in a calendar system need to be
+corrected manually.”
+
+_Details of the Recommendations_ +
+1. System clock updates
+
+Issue: Systems or devices that include a date/time clock which adjust
+automatically for DST use rules to decide when to switch from Standard
+to DST.
+
+Recommendation: For computer devices or systems with DST-aware clocks,
+apply updates related to the new DST rules. This applies to
+workstations, servers, handheld devices, phones, and embedded devices
+such as automatic door lock systems.
+
+Impact: Systems that are not updated will have their clocks set one hour
+slow during four weeks covered by the extended DST period. Additionally,
+e-mail messages may have incorrect time stamps or have their time stamps
+incorrectly interpreted.
+
+Systems using older versions of Kerberos authentication may not work, as
+they require clocks to be synchronized to within a few minutes.
+
+Don Deutsch +
+Vice President Standards Strategy and Architecture Oracle
+
+“This is the most exciting progress we've seen in our 12 years of
+involvement defining open Calendaring and Scheduling standards. Having
+co-authored the CalDAV specification, Oracle plans to support it as part
+of a future release of our collaborative product. The support of this
+standard will enable customers to provide their end user communities
+with a choice of calendaring interfaces and allows partners to more
+easily and cost-effectively develop derivative products and services.”
+
+Katie Parlante +
+VP, Engineering +
+OSAF +
+"CalDAV is a critical part of our interoperability strategy. We support
+CalDAV in both our Chandler™ desktop client and our server product. We
+are pleased to see steady progress and increasing adoption of CalDAV.
+Calendaring adoption is really subject to 'network effects'; with more
+adoption, the more valuable the standards become."
+
+Gary Schwartz +
+Director Communications & Middleware Technologies +
+Rensselaer Polytechnic Institute +
+“RPI’s Bedework, an open-source, standards-compliant, calendaring
+server, was designed to be CalDAV capable from its inception. We began
+implementing CalDAV support in January 2005, when we first learned of
+CalDAV. It was clear to us then, two years ago, that CalDAV would play a
+significant role in calendaring interoperability, and with the
+publication of the CalDAV RFC, and the increasing number of CalDAV +
+implementations, CalDAV is fulfilling this promise.”
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and implementations. The mission is to provide
+mechanisms to allow calendaring and scheduling methodologies to
+interoperate, and to promote broad understanding of these methodologies
+so that calendaring and scheduling tools and applications can enter the
+mainstream of computing. The Consortium develops recommendations for
+improvement and extension of relevant standards, develops requirements
+and use cases for calendaring and scheduling specifications, conducts
+interoperability testing for calendaring and scheduling implementations,
+and promotes calendaring and scheduling. Organizational members are
+Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
+Fresno State, Google, IBM, Jet Propulsion Lab, Kerio Technologies,
+Marware, MIT, Mozilla Foundation, New York University, Novell, Open
+Source Applications +
+Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
+Institute, Rockliffe, Stanford University, Symbian, Synchronica,
+TimeBridge, Trumba, UC Berkeley, University of Chicago, University of
+Washington, University of Wisconsin, Yahoo! Inc.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  CalConnect will hold its First European Interoperability Test Event and Conference in Prague
+title: CalConnect Will Hold its First European Interoperability Test Event and Conference in Prague
 type: news
 date: 2011-08-18
 categories: press-releases
@@ -10,27 +10,22 @@ excerpt: |
 ---
 :page-liquid:
 
-*August 18, 2011* +
-*CalConnect will hold its First European Interoperability Test Event and
-Conference in Prague*:
-link:{{'/docs/press-releases/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect
-Prague Release.pdf].
+== CalConnect Will Hold its First European Interoperability Test Event and Conference in Prague
 
+_CalConnect XXII Focuses on Advancing Calendaring and Scheduling Standards for More Effective Business Communication_
 
-*CalConnect Will Hold its First European Interoperability Test Event and
-Conference in Prague*
+PDF: link:{{'/docs/press-releases/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect Prague Release.pdf].
 
-_CalConnect XXII Focuses on Advancing Calendaring and Scheduling
-Standards for More Effective Business Communication_
-
-*August 18, 2011 – McKinleyville, Calif. –* CalConnect (The Calendaring and Scheduling
-Consortium; www.CalConnect.org) will hold its first European conference in Prague, Czech
-Republic, on October 3-7, 2011. The consortium is a partnership among leading technology
-organizations and universities to promote open standards and the interoperability of calendaring
-systems to give users more choices when it comes to devices and calendaring applications.
+*August 18, 2011 – McKinleyville, Calif. –* CalConnect (The Calendaring
+and Scheduling Consortium; https://www.calconnect.org) will hold
+its first European conference in Prague, Czech Republic, on October 3-7,
+2011. The consortium is a partnership among leading technology
+organizations and universities to promote open standards and the
+interoperability of calendaring systems to give users more choices when
+it comes to devices and calendaring applications.
 
 CalConnect XXII will feature interoperability testing events, symposia,
-meetings, and +
+meetings, and
 roundtable discussions. The event will be hosted by Kerio Technologies,
 a founding CalConnect member. The event is open to any organization or
 software developer with a stake in improving the effectiveness of
@@ -59,17 +54,18 @@ implementations the opportunity to test compatibility with others and
 gather immediate feedback. Events are structured to allow “testing
 pairs” in which each participant gets a chance to test with everyone in
 the course of the 2.5 days. Areas of expected testing in Prague
-include: +
-•iCalendar/iMIP/iTIP testing +
-•CalDAV, including implicit scheduling +
-•CardDAV +
-•CalDAV/CardDAV SRV discovery and well-known URI +
-•Freebusy Read URL protocol +
-•The new Timezone Service Protocol +
-•xCal, the XML format for iCalendar +
-•CalWS, the Web Services protocol for calendaring +
-•Mobile CalDAV client/server testing +
-•Synchronization testing for mobile clients in general
+include:
+
+* iCalendar/iMIP/iTIP testing
+* CalDAV, including implicit scheduling
+* CardDAV
+* CalDAV/CardDAV SRV discovery and well-known URI
+* Freebusy Read URL protocol
+* The new Timezone Service Protocol
+* xCal, the XML format for iCalendar
+* CalWS, the Web Services protocol for calendaring
+* Mobile CalDAV client/server testing
+* Synchronization testing for mobile clients in general
 
 See [.underline]#CalConnect XXII IOP Test Event# for more information.
 
@@ -77,27 +73,22 @@ Full information about the conference may be found at
 [.underline]#CalConnect XXII#. Special pricing is available for
 non-members and individuals.
 
-*About CalConnect* +
-The Calendaring and Scheduling Consortium (www.CalConnect.org) is a
-partnership among vendors, developers, and customers to advance
-calendaring and scheduling standards and implementations. CalConnect’s
-mission is to provide mechanisms to allow calendaring and scheduling
-methodologies to interoperate, and to promote broad understanding of
-these methodologies so that calendaring and scheduling tools and
-applications can enter the mainstream of computing. The Consortium
-develops recommendations for improvement and extension of relevant
-standards, develops requirements and use cases for calendaring and
-scheduling specifications, conducts interoperability testing for
-calendaring and scheduling implementations, and promotes calendaring and
-scheduling.
+== About CalConnect
 
-Organizational members are Apple, Cabo Communications, Carnegie Mellon,
-dotCal, eM Client, Genentech, Google, IBM, IceWarp, Intand, Kerio
-Technologies, MailSite, Microsoft, Mozilla Foundation, NASA, New York
-University, Nokia, OASIS, The Omni Group, Oracle, Patricia Egen
-Consulting, PeopleCube, Rensselaer Polytechnic Institute (Bedework),
-Stanford +
-University, Synchronica, TimeTrade, Tungle, University of California,
-University of Wisconsin, Yahoo!, and Zimbra.
+The Calendaring and Scheduling Consortium (www.CalConnect.org) is a partnership
+among vendors, developers, and customers to advance calendaring and scheduling
+standards and implementations. CalConnect’s mission is to provide mechanisms to
+allow calendaring and scheduling methodologies to interoperate, and to promote
+broad understanding of these methodologies so that calendaring and scheduling
+tools and applications can enter the mainstream of computing. The Consortium
+develops recommendations for improvement and extension of relevant standards,
+develops requirements and use cases for calendaring and scheduling
+specifications, conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling.
 
-
+Organizational members are Apple, Cabo Communications, Carnegie Mellon, dotCal,
+eM Client, Genentech, Google, IBM, IceWarp, Intand, Kerio Technologies,
+MailSite, Microsoft, Mozilla Foundation, NASA, New York University, Nokia,
+OASIS, The Omni Group, Oracle, Patricia Egen Consulting, PeopleCube, Rensselaer
+Polytechnic Institute (Bedework), Stanford University, Synchronica, TimeTrade,
+Tungle, University of California, University of Wisconsin, Yahoo!, and Zimbra.
