@@ -19,3 +19,73 @@ in Plzen, Czech Republic, on November 4-6, 2008:
 link:{{'/docs/press-releases/CalConnect%20Holds%20Second%20Mobile.doc' | relative_url }}[CalConnect
 Holds Second Mobile Calendaring and Scheduling Interoperability Test
 Event].
+
+
+*CalConnect Holds Second Mobile Calendaring and Scheduling
+Interoperability Testing*
+
+*_Kerio Technologies Hosted Test Event in Czech Republic_*
+
+*November 24, 2008 -* The Calendaring and Scheduling Consortium ((www.calconnect.org) held
+its second Mobile Calendaring Interoperability Test Event (C.I.T.E.) 08
+at Kerio Technologies offices in the Czech Republic. Icewarp, Kerio,
+Oracle, Symbian, and Synthesis participated, indicating the growing role
+of European companies in CalConnect’s technical work in the mobile area.
+
+Tests involved calendar interoperability among three clients and four
+servers. Specifically, C.I.T.E. participants tested calendar data
+synchronization between a mobile device and a server using OMA DS (aka
+SyncML) and Microsoft Exchange ActiveSync® protocols. The test cases
+were selected from CalConnect's Mobile Calendar Interoperability Test
+Suite and run in combinations of client and server implementations from
+different vendors.
+
+Dave Thewlis, CalConnect’s Executive Director, noted, “The testing went
+well and, as expected, uncovered a number of difficulties with
+interoperability, and some underlying problems below the calendar data
+level as well. All of the participants felt that it was very worthwhile
+and advanced the interoperability of their products. All participants
+indicated they wished to engage in future mobile interoperability test
+events if possible.”
+
+Pat Egen, Patricia Egen Consulting, who designs and oversees the testing
+events, explained, “The biggest challenge is most mobile devices use an
+older version of the calendaring specification. A major objective of
+CalConnect is to help influence movement, by the device developers and
+the mobile operators, towards the newer, richer specification.
+
+Following the Mobile Interoperability Test Event, CalConnect hosted an
+invitational Meet CalConnect event in Prague, Czech Republic, on Friday
+November 7, and repeated in London on November 10. Representatives of
+five members of CalConnect participated in the events involving
+potential members.
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)*
+
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and +
+implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote
+broad understanding of these methodologies so that calendaring and
+scheduling tools and applications can enter the mainstream of computing.
+
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications,
+
+conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling. Organizational
+members are Apple, Cabo Communications, Carnegie Mellon, Dartmouth, Duke
+University, Eventful, Fresno State, Google, IBM, Kerio Technologies,
+MailSite, Microsoft, MIT, Mozilla Foundation, neutralSpace, New York
+University, Open Source Applications Foundation, Oracle, Patricia Egen
+Consulting, +
+PeopleCube, , Rensselaer Polytechnic Institute, Scalix, Sony Ericsson,
+Stanford University, Stockholm University, Sun Microsystems, SWAMI
+(Swedish Alliance for Middleware Infrastructure), Symbian, Synchronica,
+TimeBridge, University of California, University of Chicago, University
+of Michigan, University of Pennsylvania, University of Washington,
+University of Wisconsin, Yahoo!/Zimbra.
+
+

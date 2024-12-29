@@ -18,3 +18,72 @@ Roundtable, 11-13 January 2005, hosted by the University of Washington,
 and the companion January 11-12 2005 Interop.
 link:{{'/docs/press-releases/050111roundtable2.pdf' | relative_url }}[Roundtable II
 Publicity Release].
+
+*Calendaring and Scheduling Consortium Interop Features IETF
+Specifications* _Oracle, Mozilla, Isamet, and U. of Washington
+Participate in Tests_
+
+*McKinleyville, CA – January 18, 2005 –* The Calendaring and Scheduling
+Consortium (“CalConnect”), launched December 14, 2004, has kicked off
+its 2005 schedule of events with interoperability testing focused on the
+CalDAV and iCalendar specifications. CalDAV is a standard way of
+modeling calendar data using WebDAV, an extension to the HTTP protocol.
+WebDAV allows clients to perform remote web content authoring
+operations, that is, a standard way to save data to web sites as opposed
+to just reading it from a site. iCalendar refers to the Internet
+Calendaring and Scheduling Core Object Specification, a common format
+for openly exchanging calendaring and scheduling information across the
+Internet.
+
+Isamet, the Mozilla Foundation, and Oracle participated in the first
+formal +
+interoperability testing of CalDAV servers and clients. In addition,
+Oracle and the University of Washington tested importing and exporting
+iCalendar (RFC 2445) objects into the Oracle CalDAV server.
+
+“On schedule, the new Consortium is moving forward with interoperability
+testing that will bring calendaring and scheduling applications into
+widespread, mainstream use,” said Executive Director Dave Thewlis.
+“During the next three to five years, our members will work to eliminate
+the interoperability glitches that have inhibited the popular adoption
+of those applications.”
+
+In parallel with the Interop tests, Consortium Technical Committees
+progressed work in several areas: develop use cases and requirements for
+the evolution of calendaring and scheduling, establish what features of
+iCalendar are commonly implemented to determine which ones must be in a
+simplified iCalendar specification, set common testing +
+processes, and advance CalDAV and the CalDAV specification in the IETF.
+
+A Roundtable meeting of members followed the testing events and TC
+meetings. Members use Roundtables, which will routinely be held in
+conjunction with Interops, to refine the group’s technical agenda and
+update objectives. See [.underline]#www.calconnect.org# for a list of
+Consortium members.
+
+The Consortium’s next Roundtable and Interop are set for June 1-3, 2005.
+The upcoming Interop will continue the testing of CalDAV begun during
+the January 2005 event. In addition, there will be testing of iCalendar
+standards by vendors who have implemented the protocols and want to test
+their applications with other vendors.
+
+*The Calendaring and Scheduling Consortium*
+([.underline]#www.calconnect.org#)
+
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies. The mission is to provide mechanisms to allow calendaring
+and scheduling methodologies to interoperate, to promote understanding
+of these methodologies, and to enable calendaring and
+
+scheduling tools and applications to enter the mainstream of computing.
+The founding members are Duke University, EVDB, Isamet, Jet Propulsion
+Laboratory, Meeting Maker, M.I.T., The Mozilla Foundation, Novell, Open
+Source Application Foundation, Oracle Corporation, Stanford University,
+Symbian, UC Berkeley, University of Washington, University of Wisconsin
+Madison, and Yahoo! Inc. Launched December 2004, the Consortium will
+hold a series of interoperability testing events, Roundtables and
+Technical Committee meetings to achieve its objectives within a
+five-year time frame.
+
+

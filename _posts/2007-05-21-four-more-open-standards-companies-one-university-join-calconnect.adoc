@@ -19,3 +19,58 @@ Plc, and Zimbra, Inc. have joined the membership, bringing the young
 organization to 35 companies, universities, and research facilities:
 link:{{'/docs/press-releases/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May
 Release].
+
+*Four More Open-Standards Companies, One University Join CalConnect* +
+_Princeton, Scalix, Sun Microsystems, Synchronica, Zimbra Add Clout To
+Fast-Growing_
+
+_Consortium_
+
+*McKinleyville, CA – May 21, 2007–* The Calendaring and Scheduling
+Consortium (www.CalConnect.org) has announced that Princeton University,
+Scalix Corporation, Sun Microsystems, Synchronica Plc, and Zimbra, Inc.
+have joined the membership, bringing the young organization to 35
+companies, universities, and research facilities. All new vendor members
+participated in CalConnect’s recently concluded Roundtable—the group’s
+ninth—hosted by The Boeing Company. Two of the new members also +
+participated in the Interoperability Testing Event held in conjunction
+with the +
+Roundtable.
+
+“The commonality among all of our member companies is their support of
+and increasing reliance on non-propriety protocols and implementation of
+open standards in calendaring and scheduling solutions,” noted Dave
+Thewlis, Executive Director of CalConnect.
+
+For additional information on these companies, visit www.scalix.com**,**
+www.sun.com**,** www.synchronica.com**,** and www.zimbra.com**.** The
+Princeton University site is www.princeton.edu.
+
+CalConnect membership is open to vendors, open source organizations,
+academic institutions, customers, standards-setting organizations, and
+consulting organizations.
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and implementations. The mission is to provide
+mechanisms to allow calendaring and scheduling methodologies to
+interoperate, and to promote broad understanding of these methodologies
+so that calendaring and scheduling tools and applications can enter the
+mainstream of computing. The Consortium develops recommendations for
+improvement and extension of relevant standards, develops requirements
+and use cases for calendaring and scheduling specifications, conducts
+interoperability testing for calendaring and scheduling implementations,
+and promotes calendaring and scheduling. Organizational members are
+Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
+Fresno State, Google, IBM, Jet Propulsion Lab, Kerio Technologies,
+Marware, MIT, Mozilla Foundation, New York University, Novell, Open
+Source Applications +
+Foundation, Oracle, PeopleCube, Princeton University, Rensselaer
+Polytechnic Institute, Rockliffe, Scalix, Stanford University, Sun
+Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley,
+University of Chicago, University of Washington, University of
+Wisconsin, Yahoo! Inc., Zimbra.
+
+
+

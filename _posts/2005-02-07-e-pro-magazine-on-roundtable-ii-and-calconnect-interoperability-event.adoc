@@ -17,3 +17,66 @@ An article from e-Pro magazine on the just-completed CalConnect
 Interoperability Event and the Consortium Roundtable II in January.
 link:{{'/docs/press-release/eproarticle.html' | relative_url }}[Calendaring Consortium
 Builds Momentum].
+
+*Calendaring Consortium Builds Momentum - February 5, 2005, ePro
+Magazine*
+
+by Chris Alan Miller
+
+The  https://www.calconnect.org[Calendaring and Scheduling Consortium], a.k.a. CalConnect, started showing https://www.e-promag.com/article.cfm?id=5100[signs of life] last September, officially
+launched in mid-December, held its second interoperability event January
+11-13, and is now gearing up for a busy 2005.
+
+CalConnect is a consortium that focuses on the interoperable exchange of
+calendaring and scheduling information between dissimilar programs,
+platforms, and technologies. Led by Executive Director Dave Thewlis, its
+mission is to provide mechanisms to help calendaring and scheduling
+methodologies to interoperate and enter mainstream computing.
+
+At its most recent Interop in Seattle, which was hosted by the
+University of Washington, Isamet, the Mozilla Foundation, and Oracle
+participated in the first formal interoperability testing of CalDAV
+servers and clients. In addition, Oracle and the University of
+Washington tested importing and exporting iCalendar (RFC 2445) objects
+in the Oracle CalDAV server.
+
+CalDAV, by the way, is a standard method of modeling calendar data using
+WebDAV, an extension to the HTTP protocol. WebDAV allows clients to
+perform remote web content authoring operations, that is, a standard way
+to save data to web sites as opposed to just reading it from a site.
+iCalendar refers to the Internet Calendaring and Scheduling Core Object
+Specification, a common format for openly exchanging calendaring and
+scheduling information across the Internet.
+
+In addition to the testing, 32 participants representing 16
+organizations, worked together to create a game plan and method for
+building momentum, including how to best work with the http://www.ietf.org[e Internet Engineering Task Force
+(IETF)] . During
+roundtable meetings, both technical and strategic, participants worked
+to determine which features of iCalendar are commonly implemented and
+need to be in a simplified iCalendar specification that can actually be
+used to become a standard.
+
+"We started a lot of work in use cases, which is a stated instance of
+what a user is really trying to do," Thewlis says. "The way you find out
+what organizations need most is to get people who are trying to do this,
+learn what barriers they are running up against. We identified 27 use
+cases… which will be a tremendous advantage to the calendar
+simplification people because they will be able to base the simplified
+specification on the real world."
+
+In addition, Thewlis notes, it's hard for vendors to get unfiltered user
+experiences, and CalConnect is now in a position to help provide that
+interaction between customers and Consortium members.
+
+The Consortium's next Roundtable and Interop are set for June 1-3, 2005.
+The upcoming Interop will continue the testing of CalDAV begun during
+the January 2005 event. In addition, there will be testing of iCalendar
+standards by vendors who have implemented the protocols and want to test
+their applications with other vendors.
+
+If you're interested in learning more or getting involved, check out  http://www.calconnect.org.
+
+---
+
+Copyright © 2005 - Penton Technology Media

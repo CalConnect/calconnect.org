@@ -15,3 +15,81 @@ excerpt: |
 has announced that IceWarp has joined the Consortium:
 link:{{'/docs/press-releases/IceWarp%20Joins%20US%20release%20FINAL.doc' | relative_url }}[IcwWarp
 Joins CalConnect].
+
+*DRAFT of Feb 11*
+
+*IceWarp Joins US-Based Calendaring and Scheduling Consortium*
+_Membership Expands CalConnect’s Growth in the International Arena_
+
+*– February 11, 2009 –* The Calendaring and Scheduling Consortium
+(www.calconnect.org) has announced that IceWarp (www.icewarp.com) has become one of the
+14 universities, 21 companies, and 2 open-source organizations that make up the consortium.
+Headquartered in the Washington, D.C. Metro Area, IceWarp has its development center in
+Europe (Prague) and technical teams are located on both sides of the Atlantic.
+
+
+Headquartered in the Washington, D.C. Metro Area, IceWarp has its
+development center in Europe (Prague) and technical teams are located on
+both sides of the Atlantic.
+
+IceWarp participated in CalConnect’s second Mobile Calendaring
+Interoperability Test Event on November 4-6 in the Czech Republic and
+plans to be active in CalConnect’s Technical +
+Committees for Mobile, CalDAV and iSchedule.
+
+“Having participated in a few CalConnect events, we were able to
+progress on the planned features of our upcoming product version faster
+and with confidence of compatibility,” said Jakub Klos, the founder of
+IceWarp. “We have learned that CalConnect is unique in bringing vendors
+together on a broad range of standards-related issues in the arena of
+calendaring, scheduling, and synchronization. Its methodology is also
+extremely effective in deploying the outcomes of committees and test
+events into recognized standards. By closing the loop between vendors,
+the end user will profit; we are happy to interact with others who share
+the same priority within CalConnect."
+
+“As companies and organizations become international in scope and spread
+across more and more time zones, the work of CalConnect’s members
+assumes greater economic significance,” said the Consortium’s Executive
+Director Dave Thewlis. “CalConnect is finding strong interest in the
+challenges related to calendaring and scheduling among both North
+American and European organizations. The commonality among all of our
+members is their support of and increasing reliance on published
+protocols and implementation of open standards in calendaring and
+scheduling solutions. Our focus is on interoperability, and open
+standards are the key.”
+
+*About IceWarp®* +
+IceWarp® Limited is an independent software developer targeting office, ISP, and enterpriseclass communications solution with a 10-year track record in the messaging industry. 
+
+IceWarp® Server is a premium messaging and collaboration platform that provides a full range
+of services, including secure Email, WebMail, Anti-Virus, multi-layer Anti-Spam, GroupWare,
+Instant Messaging, VoIP and mobile synchronization. To date, it has been adopted in more than
+90 thousand installations and is servicing millions of end users worldwide. For more
+information, visit www.icewarp.com, email info@icewarp.com or call 1.888.ICEWARP.
+
+*About CalConnect* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and +
+implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling
+methodologies to interoperate, and to promote broad understanding of
+these methodologies so that calendaring and scheduling tools and
+applications can enter the mainstream of computing.
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, conducts interoperability testing for
+calendaring and scheduling implementations, and promotes calendaring and
+scheduling. Organizational members are Apple, Cabo Communications,
+Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno State,
+Google, IBM, IceWarp, Kerio Technologies, MailSafe, Microsoft, Mozilla
+Foundation, neutralSpace, New York University, Oracle, Patricia Egen
+Consulting, PeopleCube, Rensselaer Polytechnic Institute, Scalix, Sony
+Ericsson, Stanford University, Stockholm University, Sun Microsystems,
+SWAMI (Swedish Alliance for Middleware Infrastructure), Symbian,
+Synchronica, TimeBridge, University of California, University of
+Chicago, University of Michigan, University of Pennsylvania, University
+of Washington, University of Wisconsin, Yahoo!/Zimbra.
+
+

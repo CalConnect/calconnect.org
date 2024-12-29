@@ -14,6 +14,159 @@ excerpt: |
 *CalConnect calls on EU to reconsider timeline for proposed seasonal
 time changes:*
 link:{{'/news/2018-10-30-calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes].
+
 The full text of the Advisory Notice is available at
-link:{{'/docs/press-releases/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[Advisory
-Notice].
+link:{{'/docs/press-releases/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[Advisory Notice].
+
+CalConnect calls on EU to reconsider timeline for proposed seasonal time
+changesWorkshop and mailing list announced for discussion of technical impactSummary
+
+The European Commission has proposed, after public consultation, that
+its member states discontinue seasonal changes of time, effective
+October 2019. The member states must decide how to implement the
+proposed change before April 1st 2019. Several governments and
+organizations have since expressed concerns on such a tight timeline for
+the far-reaching change.
+
+CalConnect, a global non-profit organization shares these concerns, and
+recommends the European Commission extend the timelines specified in the
+proposal.
+
+Specifically, we recommend providing a transition period of at least one
+year (12 months) after the final decision of the change has been set.
+CalConnect will host a public workshop on the proposed EU changes at its
+next conference in early February 2019, and has recently launched a
+public mailing list for the discussion of best practices for planning
+new time zone changes.
+
+The European Commission’s Proposal
+
+The European Commission has proposed requiring European Union (EU)
+member states to decide whether to permanently keep summer or winter
+time by 1 April 2019. (​ ​​​ ).​ For countries opting for permanent winter
+time, the last daylight-saving time change will occur in October 2019.
+
+This proposal was made in response to the corresponding public
+consultation that ended in August 2018, where the majority of
+participating EU citizens voted to abandon daylight saving time in the
+EU.
+
+CalConnect - CC/R EU DST Advisory Notice - October 30th, 2018
+
+Specifically, the timeline specified in this proposal only gives EU
+member states 6 months of lead time from the decision date of March 2019
+(since the adoption date is set to 1 April 2019) to the effective date
+of October 2019.
+
+Our concerns
+
+CalConnect is concerned insufficient notice has been provided to EU
+member states to make their decisions and implement changes. CalConnect
+is deeply aware of potential repercussions of such a change with short
+notice. Our membership is comprised of technology vendors and end-user
+organizations focused on the areas of date and time, calendaring,
+scheduling, and for more than a decade, time zone issues.
+
+CalConnect’s experience from similar DST changes in the past indicates
+that such changes pose serious risks to the accuracy of stored
+time-related data and schedules (such as meetings, appointments, flights
+and transit schedules).
+
+Users of services and products that depend on correct time zone
+information -- universities, companies of all sizes, and many other
+types of organizations, as well as their suppliers -- will face a major
+challenge to assess which software and hardware is vulnerable, and to
+implement mitigation measures.
+
+While customers need adequate time for budgeting, procurement, and
+installation of upgrades or replacements for this change, vendors also
+need time to implement and test product changes, all the while under
+pressure to meet market needs and fulfill regulatory compliance. An
+extended timeline will benefit all parties.
+
+Change management
+
+Serious technical and operational problems can occur when insufficient
+time is allowed for time zone changes.
+
+Over the last decade, a number of time zone related changes performed
+were enforced in diverse areas without consideration of best practices
+and adequate planning, leaving user
+organizations, especially small and medium businesses, scrambling and
+suffering from the effects of using incorrect time zone information.
+
+We strongly suggest extending the effective implementation date of
+October 2019 to March 2020, allowing a transition period of at one year
+from the decision deadline of March 2019. This would provide consumer
+and technology vendors alike ample time to implement the necessary
+changes.
+
+What CalConnect is doing to help the transition
+
+CalConnect is pursuing a number of initiatives in order to assist policy
+makers and IT specialists in implementing the proposed time zone
+changes.
+
+Public workshop
+
+CalConnect is organizing a public workshop on the EU proposal to abandon
+seasonal time change at our next conference in Zurich, Switzerland (Feb
+4-8, 2019).
+
+We call on all stakeholders (e.g., vendors, consumers, policymakers)
+interested in, or affected by this Directive, to​​​ and participate in the
+workshop.
+
+Time zone distribution standard
+
+Our members have created the standard for​​​ (IETF RFC 7808). Today, most
+services and devices still rely on patching and manually updating time
+zone information instead of automated or dynamic updates.
+
+We recommend the European Commission strongly support adoption of
+relevant open standards, and encourage its member states to collaborate
+with each other as well as the international standards bodies.
+
+Coordinated global effort with ISO/TC 154
+
+We are working closely with other standards-setting organizations
+(including ISO/TC 154 and UNECE) to harmonize time zone data and time
+zone distribution internationally.
+
+We recommend regional standards bodies in the European Union, such as​​​
+and ​,​ and standards bodies in its member states participate in this
+global partnership.
+
+---
+
+Public time zone change mailing list
+
+We have set up a public mailing list to discuss the challenges and best
+practices relating to timezone and DST changes worldwide at:
+
+
+Contact
+
+For further information or to discuss these issues, please contact
+Rutger Geelen, President ​ or Dave Thewlis, Executive Director
+
+About CalConnect
+
+_CalConnect, The Calendaring & Scheduling Consortium, pursues the wide
+availability of truly interoperable collaboration tools through the use
+of open standards. We are the authoritative voice of calendaring and
+scheduling; much of our work touches on, or is applicable to, other
+collaboration technologies.
+
+Articles relating this to proposal:
+
+* Abschaffung der Zeitumstellung braucht mehr Zeit
+* EU members complain about a lack of detail and a tight timeline.
+* IANA statement - ​
+* Mit dem Ende der Zeitumstellung droht ein neues Jahr-2000-Problem -
+
+Articles relating to past time changes and their challenges
+
+* What is the daylight saving time (DST) problem?
+
+* Daylight Saving Time – The Year 2007 Problem -
