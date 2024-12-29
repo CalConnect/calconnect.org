@@ -15,3 +15,105 @@ excerpt: |
 media alert for the January 2006 Roundtable and CalConnect
 Interoperability Event was issued on 8 December:
 link:{{'/docs/press-releases/051208mediaalertrtiop5.pdf' | relative_url }}[Roundtable V Media Alert].
+
+Item: Calendaring and Scheduling Consortium’s Fifth Interop and
+Roundtable
+
+News: CalConnect is now accepting registrations for its fifth Interop
+(see below) and +
+Roundtable. Status of Technical Committees and their action plans will
+be the focal point of the Roundtable, open to members and observers.
+
+This event reflects the Consortium’s ability to stay on target to
+produce interoperable calendaring and scheduling solutions within five
+years of inception.
+
+[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
+|===
+| Date: 
+| Interop: January 9-10, 2006 +
+Roundtable: January 10-12, 2006
+
+| Sponsor: 
+| Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#)
+
+| Host and Location: 
+| Novell, Inc., 1860 South Novell Place, Building H, +
+Executive Briefing Center, Provo, Utah
+|===
+
+
+The Interop, open to members and non-members, will comprise multiple
+scenarios including CalDAV server and client testing, Min-IOP testing,
+and iCAL, iTIP, iMIP interoperability testing. Interop test events are
+open to members and non-members. They involve developers of Calendaring
+and Scheduling products or implementations that are based upon
+Calendaring and Scheduling standards and open specifications, in
+particular the IETF iCal, iMIP and iTIP RFCs and related drafts. At the
+events, implementers test their implementations for accuracy in
+implementing the Calendaring and Scheduling Standards, and test
+interoperability with other implementations. Goals of the Interops
+include assessing the C&S standards, assessing the implementations, and
+determining interoperability.
+
+The Roundtable will be comprised of Technical Committee meetings, to
+which all members and observers are welcome, plus some additional
+sessions and committee meetings. Thursday morning will be the full
+Plenary meeting of the Consortium, open to all participants. This
+session will include report-outs from all Technical Committees,
+demonstrations resulting from the Interop testing earlier in the week,
+and establishment of future goals and directions for the Consortium.
+
+Selected Technical Committees of CalConnect and summaries of their focus
+are as follows:
+
+[width="100%",cols="50%,50%",frame="none",grid="none",align="left"]
+|===
+| TC-AUTHENTICATE
+| Assess Calendaring authentication and authorization issues and +
+develop recommendations 
+
+| TC-CALDAV
+| Define Consortium requirements for CalDAV extensions to
+WebDAV 
+
+| TC-EVENTPUB
+|Support Interops, develop test suites, reference implementation,
+identify areas to test 
+
+
+| TC-IOPTEST 
+| Define and describe event publishing and how it differs from
+general scheduling 
+
+| TC-MOBILE  
+| Develop recommendations for open standards-based Calendaring
+on mobile devices
+
+| TC-REALTIME   
+| Address realtime Server-Server Interoperability
+
+| TC-TIMEZONE
+| Define and develop proposals for Timezone provisioning and
+possible Timezone registry and service 
+
+| TC-USECASE
+| Develop Use Cases & Terminology 
+
+|===
+
+Interop and Roundtable Information: [.underline]#www.calconnect.org#
+
+Members: California State University (Fresno), Carnegie Mellon
+University, Dartmouth College, Duke University, EVDB, IBM, Harvard Arts
+and Sciences Computer Services, Jet Propulsion Laboratory, Meeting
+Maker, M.I.T., The Mozilla Foundation, New York University, Novell, Open
+Source Application Foundation, Oracle Corporation, Rensselaer
+Polytechnic Institute, Stanford University, Symbian, Trumba, UC
+Berkeley, University of Washington, University of Wisconsin Madison, and
+Yahoo! Inc.
+
+Media Contact: Maryann Karinch, [.underline]#maryann@karinch.com#,
+970-577-8500
+
+

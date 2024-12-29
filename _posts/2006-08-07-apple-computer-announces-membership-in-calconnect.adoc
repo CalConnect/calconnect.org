@@ -17,3 +17,50 @@ involved in the development of CalDAV and other calendaring standards,
 and today announced its CalDAV-based iCAL calendar server and an open
 source implementation of the server. The CalConnect press release is at
 link:{{'/docs/press-releases/060807applejoinscalconnect.pdf' | relative_url }}[Apple Computer Joins CalConnect].
+
+*Apple Computer Joins CalConnect* +
+_Move Escalates Focus on Open, Standards-Based Calendaring and
+Scheduling Protocols_
+
+*McKinleyville, CA – August 7, 2006 –* Apple Computer, Inc. has publicly
+announced its membership in The Calendaring and Scheduling Consortium
+(www.calconnect.org), as well as an open source implementation of
+Apple’s calendaring server, at the Apple Worldwide Developers Conference
+this week in San Francisco. The announcement follows closely on the
+addition of The Boeing Company and Timebridge to the roster of vendor
+members, which now includes eleven companies. CalConnect’s membership
+also includes open-source foundations, a research facility and thirteen
+universities.
+
+“Apple has been a significant contributor to the development of CalDAV
+and other calendaring standards, and to the work of the Consortium,”
+noted Dave Thewlis, Executive Director of the Calendaring and Scheduling
+Consortium. “Apple’s release of its new iCAL calendaring server to the
+open source community demonstrates a solid commitment to open standards
+and to interoperable calendaring and scheduling, which are keystones of
+CalConnect’s mission.” Apple has made source to iCal Server in Mac OS X
+Server Leopard available.
+
+Apple will serve as host for the Seventh Roundtable of The Calendaring
+and Scheduling Consortium, together with a CalConnect Interoperability
+Test Event (C.I.T.E.) on September 26-29, 2006. Details on the
+Roundtable and C.I.T.E., as well as registration information, may be
+found at www.calconnect.org.
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies. The mission is to provide mechanisms to allow calendaring
+and scheduling methodologies to interoperate to promote understanding of
+these methodologies, and to enable calendaring and +
+scheduling tools and applications to enter the mainstream of computing.
+Organizational members are Apple Computer, Boeing, Carnegie Mellon,
+Dartmouth, Duke University, EVDB, Fresno State, Harvard ASCS, IBM, Jet
+Propulsion Lab, MIT, Mozilla +
+Foundation, New York University, Novell, Open Source Applications
+Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
+Institute, Stanford University,
+Symbian, TimeBridge, Trumba, UC Berkeley, University of Chicago,
+University of Washington, University of Wisconsin, Yahoo! Inc.
+
+

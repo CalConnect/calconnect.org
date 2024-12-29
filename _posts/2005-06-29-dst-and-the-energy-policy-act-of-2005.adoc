@@ -27,3 +27,72 @@ lack of time being suggested before the extended DST change might occur.
 The CalConnect press release is at
 link:{{'/docs/press-releases/050629dstchangeuntimely.pdf' | relative_url }}[EDST Change
 Untimely]
+
+*Energy Bill’s Proposed Daylight-Savings-Time Change Is Untimely*
+_Language Ignores Realities of Fixing Software Nationally and
+Internationally_
+
+*McKinleyville, CA – June 29, 2005 –* The Energy Policy Act of 2005 as
+passed by the House of Representatives contains a potentially costly
+“energy saving” provision regarding daylight savings time. It calls for
+a change in start and end dates of daylight savings time (DST) observed
+in the United States, with the new DST period stretching from March to
+November. This change would take effect in March 2006 if the House
+language prevails over Senate language, which does not contain the
+extension.
+
+“It’s not a matter of whether the proposal is right or wrong. It’s a
+matter of practicality,” noted Dave Thewlis, Executive Director of the
+Calendaring and Scheduling Consortium. “Members of the Consortium
+suggest a simple delay of the effective date to insure that calendar
+and +
+scheduling vendors and consumers have ample time to prepare for any
+changes.”
+
+If the House language survives, software and hardware calendaring and
+scheduling products based on the Internet Engineering Task Force’s
+(IETF) iCalendar standard will need to be changed. Users of such
+products—universities, companies of all sizes, and many other types of
+organizations—as well as their suppliers will face a major challenge:
+
+• Vendors may be unable to issue “patches” to the problem in so short a
+time, and if they did, their customers—with millions of end users—may be
+unable to deploy those fixes in so short a time.
+
+• As a corollary, organizations in the U.S. that depend on such products
+could have great difficulty in making the necessary changes to remain
+synchronized with colleagues outside of the US.
+
+“The proposed change generally affects any calendaring and scheduling
+product whether or not it’s based on the iCalendar standard,” added
+Thewlis. “Anything that keeps a calendar, including cell phones, is
+potentially affected. Many embedded environmental systems such as
+building management systems, time-lock control, work-shift and time
+clocks, may also be affected. The problem will also affect any division
+the U.S. government itself that depends on a software or hardware
+calendaring solution.”
+
+Documents addressing the issues for both US and international users are
+posted at the Consortium website ([.underline]#www.calconnect.org#).
+
+*The Calendaring and Scheduling Consortium*
+
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling +
+information between dissimilar programs, platforms, and technologies.
+The mission is to provide mechanisms to allow calendaring and scheduling
+methodologies to interoperate, to promote understanding of these
+methodologies, and to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing. Members are
+California State University (Fresno), Carnegie Mellon University,
+Dartmouth College, Duke University, EVDB, Isamet, Jet Propulsion
+Laboratory, Meeting Maker, M.I.T., The Mozilla Foundation, Novell, Open
+Source Application Foundation, Oracle Corporation, Rensselaer
+Polytechnic Institute, StanfordUniversity, Symbian, UC Berkeley, University of Washington, University of Wisconsin
+Madison, and Yahoo! Inc. Launched December 2004, the Consortium will hold a series of
+interoperability testing events, Roundtables and Technical Committee meetings to achieve its
+objectives within a five-year time frame.Media Contact +
+Maryann Karinch +
+970-577-8500Consortium Contact +
+Dave Thewlis +
+707-840-9391 

@@ -18,3 +18,78 @@ February 3, 2009, at Microsofot in Redmond, Washington, during
 CalConnect week:
 link:{{'/docs/Timezone%20workshop%20release.doc' | relative_url }}[Timezone
 Workshop at Microsoft].
+
+*CalConnect to Hold Timezone Workshop at Microsoft* +
+_Registration Limited to 30; Presentations from Affected Industry
+Sectors Invited_
+
+The Calendaring and Scheduling Consortium (www.calconnect.org) has opened registration for
+a one-day workshop on timezone implementatio information technology, and
+how it can be improved. The workshop will be held Tuesday, February 3,
+2009, from 0830-1730, hosted by Microsoft in Redmond, Washington.
+Registration is limited to 30 people. There is no charge for attendance,
+but interested parties must request an invitation, to ensure a balance
+of interests in the limited space.
+
+“This workshop is intended for parties with an interest in timezones,
+how they are currently implemented and managed, and what to do about
+them in the future,” said Dave Thewlis, Executive Director of
+CalConnect. “We want to attract representatives of other industry and
+technology areas to gain a broad perspective on the problems with
+timezones as implemented today, and the relevance of our proposed
+direction.”
+
+“We invite those representatives to contribute problem statements and
+use cases, and offer topical presentations on the issues their
+industries face,” Thewlis continued.
+
+The lack of a standardized timezone registry and service has led to
+significant problems for vendors and users alike. A recent example is
+the widespread impact of, and changes required to implement, Extended
+Daylight Savings Time in the United States in 2007.
+
+Among these problems are +
+•No good way for applications to detect timezone definition changes.
+
+•No standard definition for timezones, causing interoperability issues.
+
+•Need for clients to store huge amounts of timezone information, due to
+the lack of a standard repository.
+
+•Need to send timezone related information with any time data.
+
+CalConnect members are working on and promoting the development of
+standards and services to address this pressing need. This workshop is
+intended to inform consumers of timezone data from a variety of
+industries and areas on CalConnect’s approach, and to develop consensus
+on an approach acceptable to all.
+
+To request an invitation to the event, go to https://www.calconnect.org/timezoneworkshopreq.shtml[Timezone Workshop Request for Invitation].
+
+CalConnect has established a public discussion list to allow workshop participants and others to
+discuss the topics in advance of the workshop. Go to https://www.calconnect.org/timezoneworkshoplist.shtml[CalConnect Timezone WorkshopDiscussion List]
+for more information and to sign up for the discussion list. 
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and 
+implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote
+broad understanding of these methodologies so that calendaring and scheduling tools and applications can enter the
+mainstream of computing. The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, conducts interoperability testing for
+calendaring and scheduling implementations, and promotes calendaring and
+scheduling. Organizational members are Apple, Cabo Communications,
+Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno State,
+Google, IBM, Kerio Technologies, MailSafe, Microsoft, Mozilla
+Foundation, neutralSpace, New York University, Oracle, Patricia Egen
+Consulting, PeopleCube, Rensselaer Polytechnic Institute, Scalix, Sony
+Ericsson, Stanford University, Stockholm University, Sun Microsystems,
+SWAMI (Swedish Alliance for Middleware Infrastructure), Symbian,
+Synchronica, TimeBridge, University of California, University of
+Chicago, University of Michigan, University of Pennsylvania, University
+of Washington, University of Wisconsin, Yahoo!/Zimbra.
+
+

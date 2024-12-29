@@ -10,7 +10,7 @@ excerpt: CalConnect and the XML Technical Committee have made the in-progress wo
 
 == Cal-WS Web Services API draft available for Public Review
 
-Posted May 19, 2010 
+Posted May 19, 2010
 
 CalConnect and the XML Technical Committee have made the in-progress work document, __Cal-WS Web Services API for Calendaring and Scheduling__, available for 30-day Public Review and Comment. This work has been undertaken in conjunction with the NIST Smart Grid Standards Roadmap effort and with OASIS and the OASIS WS-Calendar Technical Committee.
 

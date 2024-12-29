@@ -17,3 +17,61 @@ has announced that the University of Pennsylvania has joined the
 membership:
 link:{{'/docs/press-releases/071016Penn%20Joins%20CalConnect.doc' | relative_url }}[Penn
 Joins CalConnect.doc]
+
+*Penn Joins CalConnect* +
+_Collaboration Aimed at Advancing Calendar Interoperability_
+
+*McKinleyville, CA -- October 16, 2007 --* The Calendaring and
+Scheduling Consortium (www.CalConnect.org) has announced that the
+University of Pennsylvania +
+(www.upenn.edu) has joined the membership, bringing the young
+organization to 37 companies, universities, and research facilities.
+
+“Key online activities like exchanging email and using the web work so
+well because the protocols and the applications that implement them are
+inherently interoperable. You
+
+don't have to know what email program someone uses in order to send them
+email,” said Deke Kassabian, Senior Technology Director at the
+University of Pennsylvania. “Selective calendar sharing and
+sophisticated scheduling - whether on desktops, laptops, or mobile
+handhelds - has the potential to be that way, too. I think the goal of
+achieving interoperability places CalConnect and its member
+organizations on the right path.”
+
+“The commonality among all of our member companies is their support of
+and increasing reliance on non-propriety protocols and implementation of
+open standards in calendaring
+
+and scheduling solutions,” noted Dave Thewlis, Executive Director of
+CalConnect. “Calconnect's focus is on interoperability and open
+standards are the key.”
+
+CalConnect membership is open to vendors, open source organizations,
+academic institutions, customers, standards-setting organizations, and
+consulting organizations.
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and implementations. The mission is to provide
+mechanisms to allow calendaring and scheduling methodologies to
+interoperate, and to promote broad understanding of these methodologies
+so that calendaring and scheduling tools and applications can enter the
+mainstream of computing. The Consortium develops recommendations for
+improvement and extension of relevant standards, develops requirements
+and use cases for calendaring and scheduling specifications, conducts
+interoperability testing for calendaring and scheduling implementations,
+and promotes calendaring and scheduling. Organizational members are
+Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
+Fresno State, Google, IBM, Kerio Technologies, Marware, MIT, Mozilla
+Foundation, New York University, Novell, Open Connector Groupware, Open
+Source Applications Foundation, Oracle, PeopleCube, Princeton
+University, Rensselaer Polytechnic Institute, Rockliffe, Scalix, Sony
+Ericsson, Stanford University, Sun Microsystems, Symbian, Synchronica,
+TimeBridge, Trumba, UC Berkeley, University of Chicago, University of
+Michigan, University of Pennsylvania, University of Washington,
+University of +
+Wisconsin, Yahoo! Inc., Zimbra.
+
+

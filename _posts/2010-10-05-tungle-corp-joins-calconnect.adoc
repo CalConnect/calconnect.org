@@ -15,3 +15,78 @@ excerpt: |
 Consortium has announced that Tungle Corporation has joined CalConnect:
 link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle Joins The
 Calendaring and Scheduling Consortium].
+
+*Tungle Joins The Calendaring and Scheduling Consortium* +
+_Membership Expands CalConnect’s Growth in the International Arena_
+
+*– October 5, 2010 –* The Calendaring and Scheduling Consortium
+(www.calconnect.org) has announced that Tungle Corp. (www.tungle.com) has become one of
+the 32 organizations that make up the consortium. CalConnect’s members are universities,
+companies, open-source organizations, and government agencies. Tungle is headquartered in
+Montreal, Canada.
+
+“Today’s calendar is a static repository of events,” said Marc Gingras,
+Founder and CEO of Tungle. “It’s a snapshot, a moment in time. Contrast
+that against our dynamic and ever changing lives and we have a
+significant disconnect. We believe the time to think about the calendar
+of the future is now.”
+
+“CalConnect members strive to create standards and tackle issues of
+interoperability among all calendar platformsa topic we very much
+believe in,” Gingras continued. “The current state of the calendar
+industry represents a tremendous opportunity for innovation. We are
+pleased to be members of CalConnect and look forward to collaborating
+with such an impressive group of companies and individuals."
+
+CalConnect’s Executive Director Dave Thewlis noted, “As companies and
+organizations become
+
+international in scope and spread across more and more time zones, the
+work of CalConnect’s members assumes greater economic significance.
+CalConnect is finding strong interest in the challenges related to
+calendaring and scheduling among both North American and European
+organizations. The commonality among all of our members is their support
+of and increasing reliance on published protocols and implementation of
+open standards in calendaring and scheduling solutions. Our focus is on
+interoperability, and open standards are the key.”
+
+*About Tungle* +
+Tungle Corp.’s Tungle.me makes scheduling meetings easy–across
+organizations, calendar systems and time zones–by eliminating the
+multiple emails, phone calls and double bookings that typically come
+with finding a time to meet. Tungle.me synchronizes with leading online
+calendar systems including Outlook, Google Calendar, Apple iCal,
+Entourage for Mac, Lotus Notes, Yahoo!, Windows Live and others, and
+does not require visitors to sign in or register to schedule meetings.
+Tungle.me supports scheduling meetings on-the-go with Tungle.me for
+iPhone and BlackBerry.
+
+Founded in 2006, the Montreal-based company is venture-backed by
+investors Commonwealth Capital Ventures, JLA Ventures and Desjardins
+Venture Capital.
+
+*About CalConnect* +
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership
+among vendors, developers, and customers to advance calendaring and
+scheduling standards and +
+implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote
+broad understanding of these methodologies so that calendaring and
+scheduling tools and applications can enter the mainstream of computing.
+
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, conducts interoperability testing for
+calendaring and scheduling implementations, and promotes calendaring and
+scheduling.
+
+Organizational members are Apple, Binary Tree, Cabo Communications,
+Carnegie Mellon, dotCal, Eventful, Genentech, Google, IBM, IceWarp,
+Intand, Kerio Technologies, MailSite, Microsoft, Mozilla Foundation,
+NASA, New York University, Nokia, Notify Technology, Oracle, Patricia
+Egen Consulting, PeopleCube, Rensselaer Polytechnic Institute, Stanford
+University, Stockholm University, SWAMI (Swedish Alliance for Middleware
+Infrastructure), Synchronica, Tungle, University of California,
+University of Wisconsin, Yahoo!, and Zimbra.
+
+

@@ -23,3 +23,70 @@ link:{{'/publications/iCalendarforthemobileindustryv1.0.pdf' | relative_url }}[T
 and the press release is
 at
 link:{{'/docs/press-releases/061214%20icalendarbenefits.pdf' | relative_url }}[Consortium Paper specifies how and why of iCalendar].
+
+*Calendaring & Scheduling Consortium Paper Specifies How, Why of
+iCalendar* _Interoperability Issues Squarely Addressed in Freely
+Available Guidelines_
+
+*McKinleyville, CA – December 14, 2006 –* The Mobile Technical Committee
+of the Calendaring & Scheduling Consortium has released key findings of
+interoperability tests and a questionnaire in *“The benefits of
+iCalendar for the mobile industry*.” The impetus for the White Paper,
+which is freely available at [.underline]#www.calconnect.org#, came from
+a questionnaire of mobile users about calendaring on mo[.underline]#bile
+devices. One of t#he key findings was that user experience of
+synchronization was not good enough due to problems with reliability and
+interoperability with desktop applications. The White Paper covers how
+iCalendar provides a solution to these interoperability issues.
+
+The paper does the following:
+
+• Explains the differences between the vCalendar and iCalendar
+standards.
+
+• Identifies the advantages of wider usage of iCalendar.
+
+• Describes on-going activities to improve calendar interoperability
+based on iCalendar
+
+“Consumers stand to gain a lot with the adoption of iCalendar,” said
+Dave Thewlis, Executive Director of the Calendaring & Scheduling
+Consortium (CalConnect). “With the work the members of our Technical
+Committee have done with iCalendar, we now have a direct route to
+interoperability between devices and platforms. It will allow users to
+synchronize data easily between multiple devices and servers, and to see
+the same set of information wherever they look.”
+
+Chris Dudding, Editor of the White Paper, added, “Mobile operating
+system vendors and device manufacturers will benefit from wider adoption
+of iCalendar. The improved interoperability with third party software
+and server implementations will help consumers by synchronizing personal
+information, such as calendars and to-do lists, even more seamlessly.”
+Dudding is a Technology Architect with Symbian Ltd.
+
+“The benefits of iCalendar continue to improve as ongoing work to
+clarify and +
+simplify the standard continues in the Internet Engineering Task Force
+(IETF) Calsify working group,” Thewlis continued. “While vCalendar can
+no longer evolve, iCalendar as a data object format continues to take
+steps towards being the needed standard data object format.”
+
+*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies. The mission is to provide mechanisms to allow calendaring
+and scheduling methodologies to interoperate to promote understanding of
+these methodologies, and to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing. Organizational
+members are Apple Computer, Boeing, Carnegie Mellon, Dartmouth, Duke
+University, EVDB, Fresno State, Harvard ASCS, IBM, Jet Propulsion Lab,
+Kerio Technologies, Marware, MIT, Mozilla Foundation, New York
+University, Novell, Open Source Applications Foundation, Oracle
+Corporation, PeopleCube, Rensselaer Polytechnic
+
+Institute, Rockliffe, Stanford University, Symbian, TimeBridge, Trumba,
+UC Berkeley, University of Chicago, University of Washington, University
+of Wisconsin, Yahoo! Inc.
+
+
+
