@@ -5,28 +5,20 @@ type: news
 date: 2008-11-24
 categories: press-releases
 excerpt: |
-  CalConnect's Second Mobile Calendaring and Scheduling Interoperability Test
-  Event was hosted by Kerio Technologies in Plzen, Czech Republic, on November
-  4-6, 2008.
+  CalConnect Holds Second Mobile Calendaring and Scheduling Interoperability
+  Test Event*: CalConnect's Second Mobile Calendaring and Scheduling
+  Interoperability Test Event was hosted by Kerio Technologies in Plzen, Czech
+  Republic, on November 4-6, 2008
 ---
 :page-liquid:
 
-*November 24, 2008* +
-*CalConnect Holds Second Mobile Calendaring and Scheduling
-Interoperability Test Event*: CalConnect's Second Mobile Calendaring and
-Scheduling Interoperability Test Event was hosted by Kerio Technologies
-in Plzen, Czech Republic, on November 4-6, 2008:
-link:{{'/docs/press-releases/CalConnect%20Holds%20Second%20Mobile.doc' | relative_url }}[CalConnect
-Holds Second Mobile Calendaring and Scheduling Interoperability Test
-Event].
+== CalConnect Holds Second Mobile Calendaring and Scheduling Interoperability Testing
 
+_Kerio Technologies Hosted Test Event in Czech Republic_
 
-*CalConnect Holds Second Mobile Calendaring and Scheduling
-Interoperability Testing*
+DOC: link:{{'/docs/press-releases/CalConnect%20Holds%20Second%20Mobile.doc' | relative_url }}[CalConnect Holds Second Mobile Calendaring and Scheduling Interoperability Test Event].
 
-*_Kerio Technologies Hosted Test Event in Czech Republic_*
-
-*November 24, 2008 -* The Calendaring and Scheduling Consortium ((www.calconnect.org) held
+*November 24, 2008 -* The Calendaring and Scheduling Consortium held
 its second Mobile Calendaring Interoperability Test Event (C.I.T.E.) 08
 at Kerio Technologies offices in the Czech Republic. Icewarp, Kerio,
 Oracle, Symbian, and Synthesis participated, indicating the growing role
@@ -64,7 +56,7 @@ potential members.
 
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
 among vendors, developers, and customers to advance calendaring and
-scheduling standards and +
+scheduling standards and
 implementations. The mission is to provide mechanisms to allow
 calendaring and scheduling methodologies to interoperate, and to promote
 broad understanding of these methodologies so that calendaring and
@@ -80,7 +72,7 @@ members are Apple, Cabo Communications, Carnegie Mellon, Dartmouth, Duke
 University, Eventful, Fresno State, Google, IBM, Kerio Technologies,
 MailSite, Microsoft, MIT, Mozilla Foundation, neutralSpace, New York
 University, Open Source Applications Foundation, Oracle, Patricia Egen
-Consulting, +
+Consulting,
 PeopleCube, , Rensselaer Polytechnic Institute, Scalix, Sony Ericsson,
 Stanford University, Stockholm University, Sun Microsystems, SWAMI
 (Swedish Alliance for Middleware Infrastructure), Symbian, Synchronica,

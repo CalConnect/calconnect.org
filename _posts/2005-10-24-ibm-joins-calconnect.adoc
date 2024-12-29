@@ -1,0 +1,70 @@
+---
+layout: page
+title:  IBM Joins Calendaring and Scheduling Consortium
+type: news
+date: 2005-10-24
+categories: press-releases
+excerpt: |
+  IBM has joined the Calendaring and Scheduling Consortium to work with other
+  members to end the complexity, ambiguity, and lack of interoperability related
+  to current calendaring standards.
+---
+:page-liquid:
+
+== IBM Joins Calendaring and Scheduling Consortium
+
+_Use of Calendaring Standards in IBM Lotus Notes Boosts CalConnect’s Momentum_
+
+PDF: link:{{'/docs/press-releases/051024ibmjoinscalconnect.pdf' | relative_url }}[IBM has joined the Consortium]
+
+
+*McKinleyville, CA – October 24, 2005 –* The Calendaring and Scheduling
+Consortium (https://www.calconnect.org) announced today that IBM has joined the
+Consortium, with the expressed intent of working wit#h other members to end the
+complexity, ambiguity, and lack of interoperability related to current
+calendaring standards. With its Lotus Notes products, IBM pioneered calendaring
+tools in the enterprise environment and led the initial development of the
+iCalendar standard, a key point of focus for CalConnect’s interoperability
+events, held three times a year.
+
+Today, users enjoy seamless interoperability with telephone and email
+tools. CalConnect is pursuing a similar goal in the area of calendaring
+and scheduling that will allow users to send invitations, view available
+time slots and accept and add invitations to their calendars, regardless
+of the technology used by individual parties or organizations. As a
+widely recognized supporter of open standards, IBM's participation will
+help drive this development forward, ultimately providing organizations
+with ability to select the calendaring and scheduling options that best
+suit their individual needs.
+
+“Our members’ intent is to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing,” said Dave Thewlis.
+“IBM’s participation will help us reach that goal, which we aim to
+achieve in the next few years.”
+
+“This is the next logical step to ensure our LotusNotes and IBMWorkplace
+calendar
+functionality meets the ongoing needs of our customers,”said Chris
+Stoner, Project Leader for Lotus Notes, Mail Calendaring and Scheduling,
+IBM. “With this membership, IBM will continue to lead revisions to the
+standards and promote industry cooperation and interoperability.”
+
+*The Calendaring and Scheduling Consortium (https://www.calconnect.org)*
+
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling
+information between dissimilar programs, platforms, and technologies.
+The mission is to provide mechanisms to allow calendaring and scheduling
+methodologies to interoperate, to promote understanding of these
+methodologies, and to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing. Organizational
+members include California State University (Fresno), Carnegie Mellon
+University, Dartmouth College, Duke University, EVDB, IBM, Jet
+Propulsion Laboratory, Meeting Maker, M.I.T., The Mozilla Foundation,
+Novell, Open Source Application Foundation, Oracle Corporation,
+Rensselaer Polytechnic Institute, Stanford University, Symbian, Trumba,
+UC Berkeley, University of Washington, University of Wisconsin Madison,
+and Yahoo! Inc. Launched December 2004, the Consortium will hold a
+series of interoperability testing events, Roundtables and Technical
+Committee meetings to achieve its objectives within a five-year time
+frame.

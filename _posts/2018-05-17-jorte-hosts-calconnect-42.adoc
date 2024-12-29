@@ -1,0 +1,156 @@
+---
+layout: page
+title: Jorte to host CalConnect 42nd meeting in Tokyo
+type: news
+date: 2018-05-17
+categories: press-releases
+excerpt: |
+  Jorte Corporation to host the 42nd meeting of CalConnect, the leading global
+  producer of digital calendaring & scheduling standards, in Tokyo on June 4-8,
+  2018.
+---
+:page-liquid:
+
+
+
+== Jorte to host the 42ⁿ, mee.ng of CalConnect, the leading global producer of digital calendaring & scheduling standards, in Tokyo on June 4-8, 2018
+
+NOTE: This is a very free translation into English of an earlier draft of the press release.
+
+PDF: link:{{ '/assets/press-releases/JortePressRelease-redrafted-v2.1.pdf' | relative_url }}[JortePressRelease-redrafted-v2.1.pdf]
+
+*May 17, 2018*
+
+Jorte Corporation, (Head Office: Minato-ku, Tokyo,) the developer of the
+"Jorte - calendar and personal ,000 downloads worldwide, and a member of
+the CalConnect consortium, is concurrently hosting the CalConnect meeting,
+and co-hosting the"Event Information Utilization Consortium" (JEDC) "Digital
+Event Summit"which starts on June 6XY.
+
+CalConnect and the JDEC will meet on June 6XY to discuss adoption of
+unified standards and the international distribution of the event
+information and delivery format in Japan.
+
+The program for the June 6XY “Digital Event Summit”:
+
+1. Cabinet Secretariat Information Communication Technology Comprehensive
+Strategy Office Cabinet Counselor Eisuke Yamasudo, "Open Data Policy in
+Japan"
+
+2. Ministry of Internal Affairs and Information Distribution Administra-ve
+Bureau Takao Ueno. "Open data efforts at the Ministry of Internal
+Affairs and Communications"
+
+3. Sharp Corporation TV System Division Headquarters Matsumoto Mitsuho /
+Horii Miho / Atsumi Tadayudo , "About Calendar Service Approach for TV
+(Tenta-ve)"
+
+4. Kuniyuki Kawashima Director COO of Jorte Co., Ltd.
+"About the realiza-on of a unified standardized and international
+distribution of the Japanese event information delivery format."
+
+
+5. CalConnect - Dave Thewlis, Execu-ve Director, "Introduc-on to
+CalConnect"
+
+6. Spherical Cow Group - Mike Douglass / 1 & 1 - Thomas Schafer
+“Calendaring and Scheduling standards and protocols overview”
+
+Ministry of Internal Affairs and Communications:
+
+*_Eisaku YAMAJI_* +
+Counsellor, National Strategy Office of Information and Communications
+Technology, Cabinet Secretariat, Government of Japan
+
+*_Takahiro Ueno_* +
+Deputy Director, Advanced Information Systems and Software Division,
+Information and Communications Bureau, Ministry of Internal Affairs and
+Communications (MIC)
+
+*_Yu Matsumoto_* +
+Service Marketing Div. IoT Cloud Business Unit IoT BU Sharp Corporation
+
+*_Tadamichi Atsumi_* +
+Products Planning Div.1 Domestic Business Unit TV Systems BU Sharp
+Corporation
+
+*_Miho Horii_* +
+Products Planning Div.1 Domestic Business Unit TV Systems BU Sharp
+CorporationAtsumi Tadamichi, Sharp Corporation, TV System Division
+Headquarters
+
+*_Eisaku YAMAJI_* +
+Counsellor, National Strategy Office of Information and Communications
+Technology, Cabinet Secretariat, Government of Japan
+
+*_Takahiro Ueno_* +
+Deputy Director, Advanced Information Systems and Sokware Division,
+Information and Communications Bureau, Ministry of Internal Affairs and
+Communications (MIC)
+
+*_Yu Matsumoto_* +
+Service Marketing Div. IoT Cloud Business Unit IoT BU Sharp Corporation
+
+*_Tadamichi Atsumi_* +
+Products Planning Div.1 Domestic Business Unit TV Systems BU Sharp
+Corporation
+
+*_Miho Horii_* +
+Products Planning Div.1 Domestic Business Unit TV Systems BU Sharp
+Corporation
+
+*_Atsumi Tadamichi_*, Sharp Corporation, TV System Division
+Headquarters
+
+Jorte Corporation +
+Director, COO Kuniyuki Kawashima +
+Title: "About the realiza-on of a unified standardized and international
+distribution of the Japanese event information delivery format."
+
+
+=== Overview
+
+Calconnect, more formally “The Calendaring and Scheduling Consortium” is a
+member-driven, non-profit corporation of the leading developers of calendaring &
+scheduling products and services, representing research & educational
+ins-tu-ons, and North American, European and Asia/Pacific IT companies, ranging
+from small startups to the world’s largest IT organizations. CalConnect members
+gather three times a year to discuss current interoperability problems, and to
+develop next genera-on open standards and services.
+
+
+CalConnect meetings are held all over the world, with previous meeting in 2018
+January meeting Sunnyvale, California (hosted by Oauth- formerly Yahoo! and
+Verizon), and upcoming meetings in September 2018 in Karlsruhe Germany (hosted
+by 1&1), and February 2019 in Zurich, Switzerland (hosted by Google).
+
+=== CalConnect member list
+
+link:{{'/members' | relative_url}}[CalConnect members]
+
+
+=== Summary of the event
+
+Held period: June 4th to 8th, 2018
+
+Co-organizer event: "Digital Event Summit" +
+Wednesday, June 6, 2018 1 3: 00-16: 00 +
+Social gathering: 1 8 : 00 - 20 : 00 +
+Venue: Akasaka Minato-ku, Tokyo 7-2-21 Sogetsukaikan 2F
+
+=== Overview
+
+Jorte (free) http://www.jorte.com/#download
+
+CalConnect (English) https://Www.Calconnect.Org/
+
+Event information utilization consortium http://www.elab.gr.jp/
+
+=== Inquiries concerning participation, holding summary
+
+■ Jorte plasorm Co., Ltd. promo-on group
+
+TEL : 03-6804-6988 +
+FAX : 03-6804-6999
+
+MAIL:  info@jorte.co.jp

@@ -1,0 +1,159 @@
+---
+layout: page
+title: The Open Group and The Calendaring and Scheduling Consortium Move Closer to Solving Free/Busy Problem
+type: news
+date: 2006-07-24
+categories: press-releases
+excerpt: |
+  CalConnect demonstrated a proof-of-concept application at The Open Group’s IT
+  Architecture Practitioners Conference, showcasing the ability to aggregate and
+  display free/busy information from multiple organizations using various
+  calendaring applications.
+---
+:page-liquid:
+
+== The Open Group and The Calendaring and Scheduling Consortium Move Closer to Solving Free/Busy Problem
+
+PDF: link:{{'/docs/press-releases/060724freebusydemorelease.pdf' | relative_url }}[Federated Freebusy Demo Press Release].
+
+*FOR IMMEDIATE RELEASE*
+
+*SAN FRANCISCO & MCKINLEYVILLE, Calif., July 24, 2006* – During The Open
+Group’s IT Architecture Practitioners Conference held last week at the
+Hyatt Regency Coral Gables in Miami, members of The Calendaring and
+Scheduling Consortium (CalConnect) demonstrated a proof-of-concept
+application to aggregate and display free/busy information collected
+from multiple organizations using multiple calendaring applications.
+
+This demonstration was in response to The Open Group Free/Busy Challenge
+issued in January 2006 on behalf of The Boeing Company. The challenge
+had a very aggressive schedule and was based upon specific needs
+identified by Boeing. The Open Group and Boeing, which is a member of
+both consortia, invited CalConnect to partner with them in addressing
+the challenge.
+
+The proof-of-concept demonstration represents a coordinated effort
+between The Open Group’s Messaging Forum and CalConnect to find ways to
+identify free/busy status for people from different organizations using
+different calendaring systems as an aid to scheduling joint activities,
+such as meetings and teleconferences.
+
+The specific objectives of the proof-of-concept project were:
+* a real-time mechanism;
+* ability to extract and collate/display free/busy information;
+* at least three major calendaring systems;
+* open standard protocols; and
+* can be implemented today.
+
+“Our members identified the need for a simple mechanism to see when a
+group of people would be available for a meeting, whether within or
+outside of their companies,” said Allen Brown, president and CEO, The
+Open Group. “The members of CalConnect and The Open Group came together
+to meet that challenge.”
+
+CalConnect is working on comprehensive standards-based solutions for
+calendar and scheduling functionality and interoperability, of which
+exchange of free/busy information is an important part.
+
+The objectives of the proof-of-concept project were fully achieved
+within the specified time frame. The demonstration in Miami included
+display of free/busy data aggregated across seven different calendaring
+systems, including Bedework, Google Calendar, Lotus Notes, Microsoft
+Exchange, Oracle Calendar, OSAF’s Chandler and TimeBridge. The core
+technology used was CalDAV, an open standard for calendar access and
+management. Rensselaer Polytechnic Institute, the developer of the
+Bedework Calendar, used its open source CalDAV implementation and
+developed a Free/Busy Aggregator and browser interface. Boeing and IBM
+contributed connectors to interface CalDAV with Exchange and Notes
+respectively. TimeBridge
+demonstrated its scheduling service’s ability to aggregate free/busy
+information across multiple organizations directly within a user’s
+Microsoft Outlook client.
+
+“CalConnect was very pleased to demonstrate a practical application of
+the emerging CalDAV standard to address a real world problem, and thanks
+its members, in particular Rensselaer Polytechnic, The Boeing Company,
+IBM and TimeBridge, for their efforts,” said Dave Thewlis, the Executive
+Director of CalConnect. “The only way that this accomplishment could
+have been met within the timeframe was by building upon open
+standards-based implementations.”
+
+Based upon CalDAV and other standards, such as iCalendar, the free/busy
+technology demonstrated can readily be enhanced as the standards are
+evolved to address such issues as calendar user discovery, automated
+scheduling and authentication.
+
+The Open Group and CalConnect members will continue to work together to
+produce a comprehensive report of the achievements to date, encourage
+the deployment of the solutions demonstrated, and plan how to enrich the
+functionality and applicability of the solutions.
+
+A presentation describing the process and the demonstration may be found
+at:
+
+* http://www.calconnect.org/presentations/Federated or
+* http://www.opengroup.org/messaging/public/jul-2006/freebusydemo.pdf
+
+=== The Calendaring and Scheduling Consortium (www.calconnect.org)*
+
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling
+information between dissimilar programs, platforms, and technologies.
+The mission is to provide mechanisms to allow calendaring and scheduling
+methodologies to interoperate to promote understanding of these
+methodologies, and to enable calendaring and scheduling tools and
+applications to enter the mainstream of computing. Organizational
+members include Boeing, Carnegie Mellon, Dartmouth, Duke University,
+EVDB, Fresno State, Harvard ASCS, IBM, Jet Propulsion Lab, MIT, Mozilla
+Foundation, New York University, Novell, Open Source Applications
+Foundation, Oracle Corporation, PeopleCube, Rensselaer Polytechnic
+Institute, Stanford University, Symbian, TimeBridge, Trumba, UC
+Berkeley, University of Chicago, University of Washington, University of
+Wisconsin, Yahoo! Inc.
+
+Rensselaer Polytechnic Institute, founded in 1824, is the oldest
+technological university in the U.S. See http://www.rpi.edu for more information about
+Rensselaer.
+
+Bedework is an open source, standards-based, calendaring system. For
+more information about Bedework, see http://www.bedework.orgTimeBridge is a venture-backed start up that is building an innovative
+meeting scheduling and collaboration service for busy professionals.
+Based in San Francisco, the company is currently in stealth mode and
+expects to launch its services later this year. TimeBridge is currently
+recruiting select users for its private beta program at
+www.timebridge.com. PR Contact: John Stormer, 510-589-8353, pr@timebridge.com.
+
+=== About The Open Group’s IT Architecture Practitioners Conference
+The Open Group’s IT Architecture Practitioners Conference, now in its
+third year, is a globally recognized event created by and for IT
+Architecture professionals to engage in interactive discussions about a
+wide variety of topics impacting the profession, such as SOA,
+architecture disciplines, architecture team development, and setting up
+an architecture practice. The conference examines the evolving
+disciplines of IT Architecture with a focus on further defining a common
+set of core competencies for individuals involved with professional
+enterprise architecture. Additional information is available at:
+
+=== About The Open Group
+The Open Group is a vendor-neutral and technology-neutral consortium,
+which drives the creation of Boundaryless Information Flow™ that will
+enable access to integrated information within and between enterprises
+based on open standards and global interoperability. The Open Group
+works with customers, suppliers, consortia and other standard bodies.
+Its role is to capture, understand and address current and emerging
+requirements, establish policies and share best practices; to facilitate
+interoperability, develop consensus, and evolve and integrate
+specifications and open source technologies, to offer a comprehensive
+set of services to enhance the operational efficiency of consortia; and
+to operate the industry’s premier certification service. Further
+information on The Open Group can be found at http://www.opengroup.org.
+
+
+*Note to Editors*: TOGAF and Boundaryless Information Flow are
+trademarks of The Open Group.
+
+*CalConnect Media Contact*: Maryann Karinch, maryann@karinch.com, 970-577-8500 +
+*CalConnect Contact*: Dave Thewlis, dave.thewlis@calconnect.org, 707-840-9391
+
+*Open Group Media Contact:* Fred Bateman, The Bateman Group,
+fbateman@bateman-group.com, 415-503-1818, ext. 13

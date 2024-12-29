@@ -5,25 +5,20 @@ type: news
 date: 2009-04-30
 categories: press-releases
 excerpt: |
-  The Calendaring and Scheduling Consortium has announced that ZideOne has
-  joined the Consortium.
+  The Calendaring and Scheduling Consortium has announced that IceWarp has
+  joined the Consoritum.
 ---
 :page-liquid:
 
-*April 30, 2009* +
-*ZideOne Joins CalConnect*: The Calendaring and Scheduling Consortium
-has announced that IceWarp has joined the Consoritum:
-link:{{'/docs/ZideOne%20Joins%20US%20release%20FINAL-2009-04-29.doc' | relative_url }}[ZideOne
-Joins CalConnect].
-
-*ZideOne Joins US-Based Calendaring and Scheduling Consortium*
+== ZideOne Joins US-Based Calendaring and Scheduling Consortium
 
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*McKinleyville, CA – April 29, 2009 –* The Calendaring and Scheduling Consortium
-(www.calconnect.org) has announced that ZideOne (www.zideone.com) has become one of the
-13 universities, 23 companies, and 2 open-source organizations that make up the consortium.
-ZideOne is headquartered in Magdeburg, Germany.
+DOC: link:{{'/docs/ZideOne%20Joins%20US%20release%20FINAL-2009-04-29.doc' | relative_url }}[ZideOne Joins CalConnect].
+
+*McKinleyville, CA – April 30, 2009 –* The Calendar and Scheduling Consortium
+has announced that ZideOne has become one of the 2 open-source organizations in
+the consortium. ZideOne is headquartered in Magdeburg, Germany.
 
 ZideOne participated in CalConnect’s “Meet CalConnect” event in Prague,
 Czech Republic.
@@ -46,37 +41,33 @@ reliance on published protocols and implementation of open standards in
 calendaring and scheduling solutions. Our focus is on interoperability,
 and open standards are the key.”
 
-*About ZideOne* +
-ZideOne aims to add Internet standards based calendaring and contact
-management to Microsoft
+== About ZideOne
 
-Outlook. The company’s product “ZideOne Connector” can be used to
-connect arbitrary CalDAV and CardDAV servers to the popular calendaring
-and contact management client of Microsoft. ZideOne is headquartered in
-Magdeburg, Germany.
+ZideOne aims to add Internet standards based calendaring and contact management
+to Microsoft Outlook. The company’s product “ZideOne Connector” can be used to
+connect arbitrary CalDAV and CardDAV servers to the popular calendaring and
+contact management client of Microsoft. ZideOne is headquartered in Magdeburg,
+Germany.
 
-*About CalConnect* +
-The Calendaring and Scheduling Consortium (CalConnect) is a partnership
-among vendors, developers, and customers to advance calendaring and
-scheduling standards and +
-implementations. The mission is to provide mechanisms to allow
-calendaring and scheduling methodologies to interoperate, and to promote
-broad understanding of these methodologies so that calendaring and
-scheduling tools and applications can enter the mainstream of computing.
+== About CalConnect
+
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership among
+vendors, developers, and customers to advance calendaring and scheduling
+standards and implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote broad
+understanding of these methodologies so that calendaring and scheduling tools
+and applications can enter the mainstream of computing.
+
 The Consortium develops recommendations for improvement and extension of
-relevant standards, develops requirements and use cases for calendaring
-and scheduling specifications, conducts interoperability testing for
-calendaring and scheduling implementations, and promotes calendaring and
-scheduling. Organizational members are Apple, Cabo Communications,
-Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno State,
-Google, IBM, IceWarp, Kerio Technologies, MailSafe, Microsoft, Mozilla
-Foundation, NASA, neutralSpace, New York University, Notify Technology,
-Oracle, Patricia Egen Consulting, PeopleCube, Rensselaer Polytechnic
-Institute, Scalix, Sony Ericsson, Stanford University, Stockholm
-University, Sun Microsystems, SWAMI (Swedish Alliance for Middleware
-Infrastructure), Symbian, +
-Synchronica, TimeBridge, University of California, University of
-Chicago, University of Michigan, University of Pennsylvania, University
-of Wisconsin, Yahoo!/Zimbra, and ZideOne.
-
-
+relevant standards, develops requirements and use cases for calendaring and
+scheduling specifications, conducts interoperability testing for calendaring and
+scheduling implementations, and promotes calendaring and scheduling.
+Organizational members are Apple, Cabo Communications, Carnegie Mellon,
+Dartmouth, Duke University, Eventful, Fresno State, Google, IBM, IceWarp, Kerio
+Technologies, MailSafe, Microsoft, Mozilla Foundation, NASA, neutralSpace, New
+York University, Notify Technology, Oracle, Patricia Egen Consulting,
+PeopleCube, Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford
+University, Stockholm University, Sun Microsystems, SWAMI (Swedish Alliance for
+Middleware Infrastructure), Symbian, Synchronica, TimeBridge, University of
+California, University of Chicago, University of Michigan, University of
+Pennsylvania, University of Wisconsin, Yahoo!/Zimbra, and ZideOne.

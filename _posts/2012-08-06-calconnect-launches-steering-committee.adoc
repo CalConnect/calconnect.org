@@ -1,0 +1,94 @@
+---
+layout: page
+title: CalConnect Announces New Diverse Technical Leadership
+type: news
+date: 2012-08-06
+categories: press-releases
+excerpt: |
+  CalConnect launches new Steering Committee with major vendors, universities,
+  and tech start-ups to bring interoperable calendaring and scheduling to
+  consumers worldwide.
+---
+:page-liquid:
+
+== CalConnect Announces New Diverse Technical Leadership
+
+_Major Vendors Join with Ed and Small Business; Set to Meet Next in Zurich_
+
+*August 6, 2012 – McKinleyville, CA –* CalConnect (The Calendaring and
+Scheduling Consortium; https://www.calconnect.org) announces its technical
+leadership team that takes office September 9. The organizations and individual
+members assuming roles on the organization’s Steering Committee represent a
+diverse and international membership. Major corporate, university, and
+consumer-service members, as well as tech start-ups, are dedicated to ensuring
+that consumers worldwide have calendaring and scheduling software that
+interoperates to ensure reliability on mobile and desktop platforms.
+
+New members of CalConnect’s Steering Committee are:
+
+*Andrew McMillan*, who developed the DAViCal CalDAV Server and the aCal
+CalDAV Client for Android +
+*Carnegie Mellon University*, currently developing the Cyrus CalDAV
+Calendaring Server *Kerio Technologies*, a growing presence among U.S.
+and European vendors that hosted the first full European CalConnect
+event, including interoperability testing and roundtable technical
+conferences +
+*Intand*, the creator of Tandem for Schools, school calendar software
+solutions
+
+These new members join those remaining on the Steering Committee:
+*Apple, Rensselaer Polytechnic Institute, University of California,* and
+*Oracle*.
+
+“Organizations and entrepreneurs just like our Steering Committee
+members are among CalConnect’s founding members,” noted Executive
+Director Dave Thewlis. “Standards and interoperability are central to
+CalConnect’s mission and are strong core values of all our members—large
+and small from around the world.”
+
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, develops initial specifications and
+proposals submitted to relevant standards organizations for progression,
+and conducts interoperability testing for calendaring and scheduling +
+implementations, in support of its purpose to improve and promote
+calendaring and scheduling.
+
+Google is sponsoring CalConnect’s upcoming testing event and technical
+meetings in Zurich, Switzerland October 1-5. CalConnect’s
+interoperability test events offer those with calendaring
+implementations a chance to test against others one-on-one. Events are
+structured to allow “testing pairs” in which each participant gets a
+chance to test with everyone in the course of the 2.5 days. Testing
+events always accompany Roundtables, during which critical issues of
+calendaring and scheduling specifications and market opportunities
+dominate discussion.
+
+Non-members are welcome to participate; contact the executive director
+at [.underline]#dave.thewlis@calconnect.org#.
+
+== About CalConnect
+
+The Calendaring and Scheduling Consortium (www.CalConnect.org) is a
+partnership among vendors, developers, and customers to advance
+calendaring and scheduling standards and implementations. The mission is
+to provide mechanisms to allow calendaring and scheduling methodologies
+to interoperate, and to promote broad understanding of these
+methodologies so that calendaring and scheduling tools and applications
+can enter the mainstream of computing.
+
+The Consortium develops recommendations for improvement and extension of
+relevant standards, develops requirements and use cases for calendaring
+and scheduling specifications, conducts interoperability testing for
+calendaring and scheduling implementations, and promotes calendaring and
+scheduling.
+
+Members are AOL, Apple, Ralf Becker, Cabo Communications, Carnegie
+Mellon, eM Client, Gershon Janssen, Google, Inc., IBM Corporation,
+IceWarp, Ltd., Intand, Kerio Technologies, MailSite Software, Inc.,
+Andrew McMillan, Microsoft, Mozilla Foundation, New York University,
+Nokia Corporation, OASIS, The Omni Group, Oracle, Patricia Egen
+Consulting, PeopleCube, Rensselaer Polytechnic Inst. (Bedework), Pascal
+Robert, Synchronica Plc, TimeTrade Systems, University of California,
+University of Wisconsin, Madison, Yahoo!, and Zimbra, a division of
+VMware

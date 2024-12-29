@@ -1,0 +1,84 @@
+---
+layout: page
+title:  Trumba Joins Calendaring and Scheduling Consortium
+type: news
+date: 2005-10-24
+categories: press-releases
+excerpt: |
+  Trumba has joined the Calendaring and Scheduling Consortium to work with other
+  members to end the complexity, ambiguity, and lack of interoperability related
+  to current calendaring standards.
+---
+:page-liquid:
+
+== Trumba Joins Calendaring and Scheduling Consortium
+
+PDF: link:{{'/docs/press-releases/051024trumbajoinscalconnect.pdf' | relative_url }}[Trumba has joined the Consortium]
+
+*Seattle, WA and McKinleyville, CA – October 24, 2005–* The Calendaring
+and Stium (https://www.calconnect.org) announced today that
+Trumba
+() has [.underline]#joined the Consortium#. Trumba’s OneCalendar is a
+leading oplication that focuses on helping people and organizations
+share event information in an open and flexible way. In becoming a
+member of the consortium, Trumba affirms its commitment to providing an
+application that helps people stay connected regardless of the type of
+calendar they use.
+
+“Since our beginning, we have approached calendaring with the point of
+view that people should be able to communicate event information to
+others even if they don’t share the same calendaring system,” said Ted
+Johnson, Vice President Products, Trumba. “We are excited to work with
+the Calendaring and Scheduling Consortium to make our vision of
+connected calendaring a reality for all Internet users.”
+
+“The intent of our organization is to increase calendar and schedule
+interoperability so that so that these applications and tools can enter
+the mainstream of computing,” said Dave Thewlis, Executive Director of
+the Calendaring and Scheduling Consortium.
+
+“Trumba’s participation moves us closer to our goal.”
+
+== About Trumba OneCalendar
+
+Trumba OneCalendar is an online calendar service that provides
+publishing tools that enable users to easily share event information
+with others. Organizations as broad as museums, newspapers, schools,
+churches and businesses are already using OneCalendar to publish event
+information as Web pages and through email. Visitors to calendars
+published through OneCalendar can add event information to their
+personal calendars with the click of a button, making it easier to
+schedule their own lives and stay connected to the organizations they
+care about.
+
+== About The Calendaring and Scheduling Consortium (https://www.calconnect.org)
+
+The Consortium focuses on the interoperable exchange of calendaring and
+scheduling information between dissimilar programs, platforms, and
+technologies. The mission is to provide mechanisms to allow calendaring
+and scheduling methodologies to interoperate, to promote understanding
+of these methodologies, and to enable calendaring and scheduling tools
+and applications to enter the mainstream of computing. Organizational
+members include California State University (Fresno), Carnegie Mellon
+University, Dartmouth College, Duke University, EVDB, IBM, Jet
+Propulsion Laboratory, Meeting Maker, M.I.T., The Mozilla Foundation,
+Novell, Open Source Application Foundation, Oracle Corporation,
+Rensselaer Polytechnic Institute, Stanford University, Symbian, Trumba,
+UC Berkeley, University of Washington, University of Wisconsin Madison,
+and Yahoo! Inc. Launched December 2004, the Consortium will hold a
+series of
+interoperability testing events, Roundtables and Technical Committee
+meetings to achieve its objectives within a five-year time frame.
+
+*Trumba* +
+Trumba wber 2003 to help connect people and communities through the
+events they share by creating a new type of connected calendar, Trumba
+OneCalendar. Trumba OneCalendar is available by subscription for $39.95
+annually and is offered as a free trial online calendar. Trumba is
+privately held and venture funded by the founders and venture capital
+firal and Kleiner Perkins Caufield & Byers. For more information, visit
+.
+
+For more information: +
+Erika Shaffer, SutherlandGold Group for Trumba, 415-934-9600, ext 309,
+erika@sutherlandgold.com

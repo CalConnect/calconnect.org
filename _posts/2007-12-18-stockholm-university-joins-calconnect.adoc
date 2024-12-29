@@ -1,0 +1,61 @@
+---
+layout: page
+title: Stockholm University Joins US-Based Calendaring and Scheduling Consortium
+type: news
+date: 2007-12-18
+categories: press-releases
+excerpt: |
+  The Calendaring and Scheduling
+  Consortium has announced
+  that Stockholm University has joined the membership, bringing the total
+  number of participating organizations to 40.
+---
+:page-liquid:
+
+== Stockholm University Joins US-Based Calendaring and Scheduling Consortium
+
+_Membership Marks CalConnect’s Growth in the International Arena_
+
+DOC: link:{{'/docs/Stockholm%20University%20Joins%20CalConnect%20final.doc' | relative_url }}[Stockholm University Joins CalConnect]
+
+*McKinleyville, CA – December 18, 2007*
+
+The Calendaring and Scheduling
+Consortium (www.CalConnect.org) has announced that Stockholm University has
+become one of the 16 universities, 22 companies, and 2 open-source organizations
+that make up the four-year-old consortium. Membership of Stockholm University,
+one of the largest in Sweden, follows a series of meetings between a CalConnect
+delegation and organizations in four European nations.
+
+“As companies and organizations become international in scope and spread across
+more and more time zones, the work of CalConnect’s members assume greater and
+greater economic significance,” said the Consortium’s Executive Director Dave
+Thewlis.  “CalConnect is finding strong interest in the issues and problems
+related to calendaring and scheduling among European organizations.  The
+commonality among all of our members is their support of and increasing reliance
+on published protocols and implementation of open standards in calendaring and
+scheduling solutions. Our focus is on interoperability, and open standards are
+the key.”
+
+== The Calendaring and Scheduling Consortium (www.calconnect.org)
+
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership among
+vendors, developers, and customers to advance calendaring and scheduling
+standards and implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote broad
+understanding of these methodologies so that calendaring and scheduling tools
+and applications can enter the mainstream of computing. The Consortium develops
+recommendations for improvement and extension of relevant standards, develops
+requirements and use cases for calendaring and scheduling specifications,
+conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling. Organizational members
+are Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno
+State, Google, IBM, Kerio Technologies, MailSite, Marware, Microsoft, Mirapoint,
+MIT, Mozilla Foundation, New York University, Open Connector Groupware, Open
+Source Applications Foundation, Oracle, PeopleCube, Princeton University,
+Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford University,
+Stockholm University, Sun Microsystems, Symbian, Synchronica, TimeBridge,
+Trumba, UC Berkeley, University of Chicago, University of Michigan, University
+of Pennsylvania, University of Washington, University of Wisconsin, Yahoo! Inc.,
+Zimbra.
+

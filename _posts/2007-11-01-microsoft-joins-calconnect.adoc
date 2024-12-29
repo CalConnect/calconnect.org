@@ -1,80 +1,73 @@
 ---
 layout: page
-title:  Microsoft Joins CalConnect
+title: Microsoft Joins CalConnect to Focus on Global Time-Zone Solution
 type: news
 date: 2007-11-01
 categories: press-releases
 excerpt: |
-  The Calendaring and Scheduling Consortium has announced that Microsoft has
-  joined the membership.
+  Microsoft Corporation has joined the Calendaring and Scheduling Consortium to
+  focus on a global time-zone solution.
 ---
 :page-liquid:
 
-*November 1, 2007* +
-*Microsoft Joins CalConnect*: The Calendaring and Scheduling Consortium
-(link:{{'/' | relative_url }}[www.CalConnect.org]) has announced that
-Microsoft has joined the membership, bringing the total number of
-participating organizations to 39:
-link:{{'/docs/press-releases/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft
-Joins CalConnect.doc]
+== Microsoft Joins CalConnect to Focus on Global Time-Zone Solution
 
-*Microsoft Joins CalConnect to Focus on Global Time-Zone Solution*
+*McKinleyville, CA – November 1, 2007*
 
-*McKinleyville, CA – November 1, 2007 –* The Calendaring and Scheduling Consortium(www.CalConnect.org) has announced that Microsoft Corporation (www.microsoft.com) has joined CalConnect. Through the non-profit consortium, Microsoft is collaborating
-with universities, research facilities, and other technology companies to define a formal
-time zone registry and online time zone service similar to the Network Time Protocol.
+DOC: link:{{'/docs/press-releases/071101Microsoft%20Joins%20CalConnect%202.doc' | relative_url }}[Microsoft Joins CalConnect.doc]
 
-CalConnect’s work in the area of time zones has involved both public
-education and assistance towards resolution of technical problems
-related to government-mandated time-zone shifts. By creating a global
-time zone service, software programs on PCs, mobile phones, and other
-electronic devices could update automatically with the latest time zone
-changes.
+The Calendaring and Scheduling Consortium (www.CalConnect.org) has announced
+that Microsoft Corporation (www.microsoft.com) has joined CalConnect.  Through
+the non-profit consortium, Microsoft is collaborating with universities,
+research facilities, and other technology companies to define a formal time zone
+registry and online time zone service similar to the Network Time Protocol.
 
-“What could be more frustrating than missing a meeting next Monday
-morning because your computer or mobile phone calendar hasn’t
-automatically adjusted to the time change? Time zone resolution is a
-great example of how we as an industry must improve in providing users
-the kind of ‘just works’ experiences they expect,” said Ray Ozzie, chief
-software architect, Microsoft Corp. “We look forward to contributing to
-this consortium and working together to eliminate this annoyance for our
-customers.”
+CalConnect’s work in the area of time zones has involved both public education
+and assistance towards resolution of technical problems related to
+government-mandated time-zone shifts. By creating a global time zone service,
+software programs on PCs, mobile phones, and other electronic devices could
+update automatically with the latest time zone changes.
 
-“We expect Microsoft to be a significant contributor to CalConnect, and
-in particular the Timezone Registry and Timezone Service Protocol—things
-that truly require a +
-collaborative effort and cannot be done by a single vendor,” noted Dave
-Thewlis, Executive Director of CalConnect. “The commonality among all of
-our member companies is their support of and increasing reliance on
-published protocols and implementation of open standards in calendaring
-and scheduling solutions. Our focus is on interoperability, and open
-standards are the key.”
+“What could be more frustrating than missing a meeting next Monday morning
+because your computer or mobile phone calendar  hasn’t automatically adjusted to
+the time change? Time zone resolution is a great example of how we as an
+industry must improve in providing users the kind of ‘just works’ experiences
+they expect,” said Ray Ozzie, chief software architect, Microsoft Corp.  “We
+look forward to contributing to this consortium and working together to
+eliminate this  annoyance for our customers.”
 
-With this announcement, CalConnect’s membership now stands at 39
+“We expect Microsoft to be a significant contributor to CalConnect, and in
+particular the Timezone Registry and Timezone Service Protocol—things that truly
+require a collaborative effort and cannot be done by a single vendor,” noted
+Dave Thewlis, Executive Director of CalConnect. “The commonality among all of
+our member companies is their support of and increasing reliance on published
+protocols and implementation of open standards in calendaring and scheduling
+solutions. Our focus is on interoperability, and open standards are the key.”
+
+With this announcement, CalConnect’s membership now stands at 39 organizations.
+CalConnect membership is open to vendors, open source organizations, academic
+institutions, customers, standards-setting organizations, and consulting
 organizations.
 
-CalConnect membership is open to vendors, open source organizations,
-academic institutions, customers, standards-setting organizations, and
-consulting organizations.
+== The Calendaring and Scheduling Consortium (www.calconnect.org)
 
-*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
-The Calendaring and Scheduling Consortium (CalConnect) is a partnership
-among vendors, developers, and customers to advance calendaring and
-scheduling standards and implementations. The mission is to provide
-mechanisms to allow calendaring and scheduling methodologies to
-interoperate, and to promote broad understanding of these methodologies
-so that calendaring and scheduling tools and applications can enter the
-mainstream of computing. The Consortium develops recommendations for
-improvement and extension of relevant standards, develops requirements
-and use cases for calendaring and scheduling specifications, conducts
-interoperability testing for calendaring and scheduling implementations,
-and promotes calendaring and scheduling. Organizational members are
-Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
-Fresno State, Google, IBM, Kerio Technologies, MailSite, Marware,
-Microsoft, +
-Mirapoint, MIT, Mozilla Foundation, New York University, Open Connector
-Groupware, Open Source Applications Foundation, Oracle, PeopleCube, Princeton University,
-Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford University, Sun
-Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley, University of
-Chicago, University of Michigan, University of Pennsylvania, University of Washington,
-University of Wisconsin, Yahoo! Inc., Zimbra.
+The Calendaring and Scheduling Consortium (CalConnect) is a partnership among
+vendors, developers, and customers to advance calendaring and scheduling
+standards and implementations. The mission is to provide mechanisms to allow
+calendaring and scheduling methodologies to interoperate, and to promote broad
+understanding of these methodologies so that calendaring and scheduling tools
+and applications can enter the mainstream of computing. The Consortium develops
+recommendations for improvement and extension of relevant standards, develops
+requirements and use cases for calendaring and scheduling specifications,
+conducts interoperability testing for calendaring and scheduling
+implementations, and promotes calendaring and scheduling. Organizational members
+are Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful, Fresno
+State, Google, IBM, Kerio Technologies, MailSite, Marware, Microsoft, Mirapoint,
+MIT, Mozilla Foundation, New York University, Open Connector Groupware, Open
+Source Applications Foundation, Oracle, PeopleCube, Princeton University,
+Rensselaer Polytechnic Institute, Scalix, Sony Ericsson, Stanford University,
+Sun Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley,
+University of Chicago, University of Michigan, University of Pennsylvania,
+University of Washington, University of Wisconsin, Yahoo! Inc., Zimbra.
+
+

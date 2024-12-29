@@ -10,5 +10,7 @@ excerpt: IBM and Trumba have joined CalConnect.
 
 *October 24, 2005* +
 *IBM and Trumba Join the Consortium*:
-link:{{'/docs/press-releases/051024ibmjoinscalconnect.pdf' | relative_url }}[IBM has joined the Consortium], and
-link:{{'/docs/press-releases/051024trumbajoinscalconnect.pdf' | relative_url }}[Trumba has joined the Consortium]
+
+link:{{'/news/2005-10-24-ibm-joins-calconnect' | relative_url }}[IBM Joins Calendaring and Scheduling Consortium]
+
+link:{{'/news/2005-10-24-trumba-joins-calconnect' | relative_url }}[Trumba has joined the Consortium]

@@ -1,56 +1,48 @@
 ---
 layout: page
-title:  Four More Open-Standards Companies, One University Join CalConnect
+title: Four More Open-Standards Companies, One University Join CalConnect
 type: news
 date: 2007-05-21
 categories: press-releases
 excerpt: |
-  CalConnect welcomes Princeton University, Scalix Corporation, Sun Microsystems,
-  Synchronica Plc, and Zimbra, Inc. to its membership.
+  The Calendaring and Scheduling Consortium has announced that Princeton
+  University, Scalix Corporation, Sun Microsystems, Synchronica Plc, and Zimbra,
+  Inc. have joined the membership, bringing the young organization to 35
+  companies, universities, and research facilities
 ---
 :page-liquid:
 
-*May 21, 2007* +
-*Four More Open-Standards Companies, One University Join CalConnect*:
-The Calendaring and Scheduling Consortium
-(link:{{'/' | relative_url }}[www.CalConnect.org]) has announced that
-Princeton University, Scalix Corporation, Sun Microsystems, Synchronica
-Plc, and Zimbra, Inc. have joined the membership, bringing the young
-organization to 35 companies, universities, and research facilities:
-link:{{'/docs/press-releases/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May
-Release].
+== Four More Open-Standards Companies, One University Join CalConnect
 
-*Four More Open-Standards Companies, One University Join CalConnect* +
 _Princeton, Scalix, Sun Microsystems, Synchronica, Zimbra Add Clout To
-Fast-Growing_
+Fast-Growing Consortium_
 
-_Consortium_
+PDF: link:{{'/docs/press-releases/070521fourmoreopenrev.pdf' | relative_url }}[CalConnect May Release].
 
-*McKinleyville, CA – May 21, 2007–* The Calendaring and Scheduling
-Consortium (www.CalConnect.org) has announced that Princeton University,
-Scalix Corporation, Sun Microsystems, Synchronica Plc, and Zimbra, Inc.
-have joined the membership, bringing the young organization to 35
-companies, universities, and research facilities. All new vendor members
-participated in CalConnect’s recently concluded Roundtable—the group’s
-ninth—hosted by The Boeing Company. Two of the new members also +
-participated in the Interoperability Testing Event held in conjunction
-with the +
-Roundtable.
+*McKinleyville, CA – May 21, 2007–* The Calendaring and Scheduling Consortium
+(www.CalConnect.org) has announced that Princeton University, Scalix
+Corporation, Sun Microsystems, Synchronica Plc, and Zimbra, Inc. have joined the
+membership, bringing the young organization to 35 companies, universities, and
+research facilities. All new vendor members participated in CalConnect’s
+recently concluded Roundtable—the group’s ninth—hosted by The Boeing Company.
+Two of the new members also participated in the Interoperability Testing Event
+held in conjunction with the Roundtable.
 
 “The commonality among all of our member companies is their support of
 and increasing reliance on non-propriety protocols and implementation of
 open standards in calendaring and scheduling solutions,” noted Dave
 Thewlis, Executive Director of CalConnect.
 
-For additional information on these companies, visit www.scalix.com**,**
-www.sun.com**,** www.synchronica.com**,** and www.zimbra.com**.** The
+For additional information on these companies, visit www.scalix.com,
+www.sun.com, www.synchronica.com, and www.zimbra.com. The
 Princeton University site is www.princeton.edu.
 
 CalConnect membership is open to vendors, open source organizations,
 academic institutions, customers, standards-setting organizations, and
 consulting organizations.
 
-*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+*The Calendaring and Scheduling Consortium (www.calconnect.org)*
+
 The Calendaring and Scheduling Consortium (CalConnect) is a partnership
 among vendors, developers, and customers to advance calendaring and
 scheduling standards and implementations. The mission is to provide
@@ -65,12 +57,9 @@ and promotes calendaring and scheduling. Organizational members are
 Apple, Boeing, Carnegie Mellon, Dartmouth, Duke University, Eventful,
 Fresno State, Google, IBM, Jet Propulsion Lab, Kerio Technologies,
 Marware, MIT, Mozilla Foundation, New York University, Novell, Open
-Source Applications +
+Source Applications
 Foundation, Oracle, PeopleCube, Princeton University, Rensselaer
 Polytechnic Institute, Rockliffe, Scalix, Stanford University, Sun
 Microsystems, Symbian, Synchronica, TimeBridge, Trumba, UC Berkeley,
 University of Chicago, University of Washington, University of
 Wisconsin, Yahoo! Inc., Zimbra.
-
-
-

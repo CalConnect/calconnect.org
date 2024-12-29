@@ -1,43 +1,33 @@
 ---
 layout: page
-title:  neutralSpace Joins CalConnect
+title: neutralSpace, Inc Joins CalConnect
 type: news
 date: 2008-12-11
 categories: press-releases
 excerpt: |
-  The Calendaring and Scheduling Consortium has announced that neutralSpace has
-  joined the Consortium.
+  neutralSpace, Inc, developer of dotCal, joins CalConnect to collaborate on
+  calendaring and scheduling standards
 ---
 :page-liquid:
 
-*December 11, 2008* +
-*neutralSpace Joins CalConnect*: The Calendaring and Scheduling
-Consortium has announced that neutralSpace has joined the Consortium:
-link:{{'/docs/neutralSpace%20Joins%20CalConnect%20v1.doc' | relative_url }}[neutralSpace
-joins CalConnect].
-
-
-*neutralSpace, Inc Joins CalConnect*
+== neutralSpace, Inc Joins CalConnect
 
 _Calendaring and Scheduling Consortium Welcomes Creators of dotCal
-Global Calendaring Hub_
-
-_and Social Network Environment_
+Global Calendaring Hub and Social Network Environment_
 
 *McKinleyville, CA – December 11, 2008 –* The Calendaring and Scheduling
-Consortium(www.CalConnect.org) has announced that neutralSpace, Inc has become one of the 14
-nies, and 2 open-source organizations that make up the consortium.
+Consortium has announced that neutralSpace, Inc has become one of the 14
+companies, and 2 open-source organizations that make up the consortium.
+
 Membership of neutralSpace reflects the recent growth of the
 organization through the addition of young, innovative companies.
 neutralSpace, was founded in early 2007 “to explore and
-
 leverage upcoming disruptive changes in calendaring and internet
 infrastructure.”
 
 “CalConnect’s members take an energetic and focused approach to creating
 solutions in calendaring and scheduling through their collaborative
 efforts in our interoperability testing
-
 events and technical committees,” said the Consortium’s Executive
 Director Dave Thewlis.
 
@@ -49,7 +39,7 @@ implementation of open standards in calendaring and scheduling
 solutions. Our focus is on interoperability, and open standards are the
 key.”
 
-Danton (Dan) Mendell, President and CEO of neutralSpace(www.neutralspace.com), stated, “Our
+Danton (Dan) Mendell, President and CEO of neutralSpace , stated, “Our
 innovative and open-source solutions to these difficult cake
 collaboration within the CalConnect standards a natural step. Our
 mission for dotCal is to do for calendar sharing what email did for
@@ -77,10 +67,7 @@ Foundation, neutralSpace, New York University, Oracle, Patricia Egen
 Consulting, PeopleCube, Rensselaer Polytechnic Institute, Scalix, Sony
 Ericsson, Stanford University, Stockholm University, Sun Microsystems,
 SWAMI (Swedish
-
 Alliance for Middleware Infrastructure), Symbian, Synchronica,
 TimeBridge, University of California, University of Chicago, University
 of Michigan, University of Pennsylvania, University of Washington,
 University of Wisconsin, Yahoo!/Zimbra.
-
-

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Harvard Arts & Sciences Computing Services and New York University
+title: CalConnect Adds Two More Top University Members
 type: news
 date: 2005-11-14
 categories: press-releases
@@ -10,21 +10,15 @@ excerpt: |
 ---
 :page-liquid:
 
-*November 14, 2005* +
-*Harvard Arts & Sciences Computing Services* and *New York University*
-have joined the Consortium:
-link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relative_url }}[Harvard ASCS/NYU].
+== CalConnect Adds Two More Top University Members
 
+PDF: link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relative_url }}[Harvard ASCS/NYU].
 
-*CalConnect Adds Two More Top University Members*
-
-*McKinleyville, CA – November 14, 2005 –* Harvard Arts and Sciences
-Computer Services and have joined the Calendaring and Scheduling
-Consortium +
-(www.calconnect.org) to bring the number of university members to twelve. This follows
-closely oM and Trumba to the roster of vendor members. CalConnect’s
-membership also includes open-source foundations and a research
-facility.
+*McKinleyville, CA – November 14, 2005 –* Harvard Arts and Sciences Computer
+Services and have joined the Calendaring and Scheduling Consortium to bring the
+number of university members to twelve. This follows closely oM and Trumba to
+the roster of vendor members. CalConnect’s membership also includes open-source
+foundations and a research facility.
 
 “Harvard Arts and Sciences Computer Services realizes that the
 complexities of calendaring in the academic world are constantly
@@ -39,9 +33,10 @@ make calendar information as available as possible, via HTML, RSS, and
 iCal, so others can view and use the information as they need it, not as
 dictated by the calendar software.”
 
-*The Calendaring and Scheduling Consortium (www.calconnect.org)* +
+== The Calendaring and Scheduling Consortium (www.calconnect.org)*
+
 The Consortium focuses on the interoperable exchange of calendaring and
-scheduling +
+scheduling
 information between dissimilar programs, platforms, and technologies.
 The mission is to provide mechanisms to allow calendaring and scheduling
 methodologies to interoperate,to promote understanding of these
@@ -57,5 +52,3 @@ Berkeley, University of Washington, University of Wisconsin Madison, and
 Yahoo! Inc. Launched December 2004, the Consortium will hold a series of
 interoperability testing events, Roundtables and Technical Committee
 meetings to achieve its objectives within a five-year time frame.
-
-
