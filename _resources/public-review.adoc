@@ -5,7 +5,7 @@ type: resources
 ---
 :page-liquid:
 
-= CalConnect Public Review Documents
+== CalConnect Public Review Documents
 
 CalConnect Public Review documents are [.underline]#in-progress#
 documents still in development (either never published or new versions

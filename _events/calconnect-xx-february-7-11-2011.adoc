@@ -10,8 +10,7 @@ image: /assets/images/UCBerkeley.jpg
 == CalConnect XX - February 7-11 2011
 
 
-=== CalConnect Interoperability Test Events - 7-9 February +
-CalConnect Roundtable XX - 9-11 February
+=== CalConnect Interoperability Test Events - 7-9 February and CalConnect Roundtable XX - 9-11 February
 
 [[intro]]
 image:{{'/assets/images/UCBerkeley.jpg' | relative_url }}[The
@@ -194,7 +193,7 @@ _Hotel Shattuck Plaza_
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===

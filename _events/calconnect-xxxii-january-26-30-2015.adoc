@@ -9,8 +9,7 @@ image: /assets/images/SanJoseCA.jpg
 
 == CalConnect XXXII - January 26-30, 2015
 
-=== CalConnect Interoperability Test Event - Monday-Wednesday +
-CalConnect 10th Anniversary Celebration - Wednesday +
+=== CalConnect Interoperability Test Event - Monday-Wednesday and CalConnect 10th Anniversary Celebration - Wednesday +
 CalConnect Conference - Thursday-Friday
 
 [[intro]]

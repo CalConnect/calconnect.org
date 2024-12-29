@@ -9,8 +9,7 @@ image: /assets/images/Prague.jpg
 
 == CalConnect XXII -- October 3-7 2011
 
-=== CalConnect Interoperability Test Events - 3-5 October +
-CalConnect Roundtable Technical Conference - 5-7 October
+=== CalConnect Interoperability Test Events - 3-5 October and CalConnect Roundtable Technical Conference - 5-7 October
 
 [[intro]]
 image:{{'/assets/images/Prague.jpg' | relative_url }}[Prague,
@@ -131,7 +130,7 @@ A downloadable iCalendar.ics file with the entire schedule is available at http:
 |===
 3+.<| *ROUNDTABLE TECHNICAL CONFERENCE - Majestic II Room, Hotel Majestic Plaza*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 5 October* +
  1200-1300 Lunch^1^ +
  1300-1400 Opening/Introduction +
@@ -169,22 +168,21 @@ _http://www.ambi.cz/ambi_brasiliero2_kontakt_eng.php[Ambiente Brasiliero]_
  1730-1800 CalConnect Plenary +
  1800 Close of Meeting
 
-3+| 
+3+|
 3+.<a| +
 ^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^2^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^3^All Roundtable participants are invited to the group dinner on Thursday
 
-Lunch and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. Breakfast is included with your hotel booking. 
+Lunch and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. Breakfast is included with your hotel booking.
 
 |===
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 +
- +
  Please see http://calconnect.wordpress.com/2011/09/01/symposia-and-workshops-at-calconnect-xxii-in-prague/[CalConnect XXII Symposia] for more information about the Thursday and Friday morning symposia and workshops.
 
 [cols=2]

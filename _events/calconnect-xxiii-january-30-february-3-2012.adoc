@@ -9,8 +9,7 @@ image: /assets/images/AppleCupertino.jpg
 
 == CalConnect XXIII - January 30-February 3 2012
 
-=== CalConnect Interoperability Test Event - January 30 - February 1 +
-CalConnect Roundtable XXIII - 1-3 February
+=== CalConnect Interoperability Test Event - January 30 - February 1 and CalConnect Roundtable XXIII - 1-3 February
 
 [[intro]]
 image:{{'/assets/images/AppleCupertino.jpg' | relative_url }}[Apple,
@@ -220,7 +219,7 @@ _Piano Bar, First Floor, Infinite Loop 4_
  
 
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 To be established by mid-January
 
@@ -316,7 +315,6 @@ To be established by mid-January
 
 |===
 
- +
  
 
 [[bofs]]

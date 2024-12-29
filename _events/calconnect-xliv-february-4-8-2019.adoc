@@ -291,4 +291,4 @@ _CalDAV Tester, DevGuide, Joint Testing_
 
 
 
-*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*
+*Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

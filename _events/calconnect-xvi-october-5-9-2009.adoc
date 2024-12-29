@@ -9,8 +9,7 @@ image: /assets/images/AppleCupertino.jpg
 
 == CalConnect XVI - October 5-9 2009
 
-=== CalConnect Interoperability Test Event - 5-7 October +
-CalConnect Roundtable XVI - 7-9 October
+=== CalConnect Interoperability Test Event - 5-7 October and CalConnect Roundtable XVI - 7-9 October
 
 
 [[intro]]
@@ -209,7 +208,7 @@ http://www.zitune.com[_Zitune Restaurant_] +
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===

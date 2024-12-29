@@ -9,8 +9,7 @@ image: /assets/images/CalConnectEventTBD.jpg
 
 == CalConnect XIX - October 4-8 2010
 
-=== CalConnect Interoperability Test Event - 4-6 October +
-CalConnect Roundtable XIX - 6-8 October
+=== CalConnect Interoperability Test Event - 4-6 October and CalConnect Roundtable XIX - 6-8 October
 
 [[intro]]
 image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD,width=800,height=530]
@@ -208,7 +207,7 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 |===
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===

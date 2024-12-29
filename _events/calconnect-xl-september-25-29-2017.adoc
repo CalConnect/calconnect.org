@@ -9,8 +9,7 @@ image: /assets/images/cologne.jpg
 
 == CalConnect XL - September 25-29, 2017
 
-=== CalConnect Interoperability Test Event and Developers' Forum - Monday-Wednesday +
-CalConnect Conference - Wednesday-Friday
+=== CalConnect Interoperability Test Event and Developers' Forum - Monday-Wednesday and CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/cologne.jpg' | relative_url }}[CalConnect
@@ -153,13 +152,11 @@ a| *Wednesday 27 September* +
 |===
 
 
-Test Event Agenda
+== Test Event Agenda
 
-Specific Areas for testing as identified by participants
+=== Specific Areas for testing as identified by participants
 
-
-
-Specific testing areast may include the following; also see Baseline Testing below.
+Specific testing areas may include the following; also see Baseline Testing below.
 
 * Sharing
 * CalDAV
@@ -168,9 +165,7 @@ Specific testing areast may include the following; also see Baseline Testing bel
 * API <--> iCalendar
 * Calendar publication and subscription models
 
-==== Technical Topics for Developers Forum Discussions
-
-
+=== Technical Topics for Developers Forum Discussions
 
 
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
@@ -196,9 +191,9 @@ Specific discussion areas for CalConnec XL include at least:
 * Open floor
 
 
-==== Please see the Reading List for the event at . The list contains URLs to all standards, drafts and specifications to be discussed or tested.
+Please see the Reading List for the event at . The list contains URLs to all standards, drafts and specifications to be discussed or tested.
 
-==== Baseline Testing
+=== Baseline Testing
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
@@ -247,10 +242,10 @@ Final determination of what will be tested will depend on what the participants 
 ** Mobile
 ** vCard 4
 
-==== Who May Participate or Observe
+== Who May Participate or Observe
 Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
-==== Registration
+== Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * https://www.calconnect.org/events/event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
@@ -264,7 +259,7 @@ link:{{'/events/observers' | relative_url }}[observers]
 +
 for the CalConnect Interoperability Test Event.
 
-==== Interoperability Event Scenarios
+== Interoperability Event Scenarios
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 
@@ -389,4 +384,5 @@ a| CalConnect Plenary Meeting +
 | 1500 | Close of CalConnect XL
 
 |===
-*Please see the Reading List for at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List] The list contains URLs for all standards, drafts and specifications to be discussed.*
+
+*Please see the Reading List for at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List] The list contains URLs for all standards, drafts and specifications to be discussed*

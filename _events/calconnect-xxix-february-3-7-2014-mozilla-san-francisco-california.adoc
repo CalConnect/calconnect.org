@@ -9,8 +9,7 @@ image: /assets/images/SanFranciscoCA.jpg
 
 == CalConnect XXIX - February 3-7, 2014
 
-=== CalConnect Interoperability Test Event - February 3-5 +
-CalConnect Roundtable Technical Conference XXIX - February 5-7
+=== CalConnect Interoperability Test Event - February 3-5 and CalConnect Roundtable Technical Conference XXIX - February 5-7
 
 [[intro]]
 image:{{'/assets/images/SanFranciscoCA.jpg' | relative_url }}[San
@@ -211,7 +210,7 @@ _On Site_
 
 
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===
@@ -322,7 +321,6 @@ _On Site_
  3.2 Protocol impacts +
  4. Review and Update Charter and Milestones
 
-+
 **TC TIMEZONE**Thu 1600-1700 +
  1. Introduction +
  1.1 Background to the work +
@@ -337,11 +335,10 @@ _On Site_
 
 |===
 
- +
 
 
 [[bofs]]
-==== BOFs
+=== BOFs
 
 *Peer Review* Tue 1330-1430
 
@@ -352,8 +349,9 @@ This is an opportunity during the interoperability testing to discuss how your p
 Goal: define the roadmap of deployment of the iSchedule protocol, taking into account existing service provider features and capabilities related to scheduling (in particular issues like user identifiers, iMIP gatewaying, etc).
 
 1. Statement of overall problem +
- 3:30 2. Overview of proposals to date +
- 3. Decision time: what do we do?
+3:30
 
-+
- Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found.
+2. Overview of proposals to date
+3. Decision time: what do we do?
+
+Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found.

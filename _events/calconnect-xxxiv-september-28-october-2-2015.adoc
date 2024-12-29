@@ -9,8 +9,7 @@ image: /assets/images/Amsterdam.jpg
 
 == CalConnect XXXIV - September 28 - October 2, 2015
 
-=== CalConnect Interoperability Test Event - Monday-Wednesday +
-CalConnect Conference - Wednesday-Friday
+=== CalConnect Interoperability Test Event - Monday-Wednesday and CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/Amsterdam.jpg' | relative_url }}[Amsterdam,
@@ -25,15 +24,15 @@ CalConnect XXXIV, consisting of a CalConnect Interoperability Test Event and a C
 The Interoperability Test Event will take place all day Monday and Tuesday September 28-29, and Wednesday morning September 30, ending at noon. The Conference will begin with lunch at noon on Wednesday September 30 and last through Friday October 2.
 
 An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 30th for first-time attendees. +
- 
+
 
 *CalConnect Interoperability Test Event*:
 
-The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url}}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available.
+The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available.
 
 _Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
-*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url}}[observers]are welcome.
+*CalConnect Conference:*The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and link:{{'/events/observers' | relative_url}}[observers]are welcome.
 
 Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
@@ -51,7 +50,7 @@ Conference Details
 
 Morning coffee and rolls, lunch, and morning and afternoon breaks will be served to all participants in the Interop Test Event and Conference and are included in your registration fees. The Monday and Thursday group dinners are hosted by CalConnect.
 
-Dress at all CalConnect events is casual to business casual.  
+Dress at all CalConnect events is casual to business casual.
 
 [[registration]]
 == Registration Information
@@ -65,7 +64,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 The Interoperability Test Event, Conference and Wednesday evening Reception will take place at http://www.rosarium.net/[Rosarium Amsterdam], Amstelpark 1, Europaboulevard, 1083 HZ Amsterdam, The Netherlands. Meeting room information will be available on the LCD displays in the reception area at the venue.
 
-The venue is located in the Amstelpark http://www.amsterdam.info/parks/amstelpark/), just behind the freeway and close to the RAI congress and exhibition halls. The park has been established since 1972, as one of the sites of the second world garden fair -- Floriade. Since the fair ended, the municipality strived to maintain some of it attractions, and today Amstelpark is one of the two most popular parks in Amsterdam.
+The venue is located in the Amstelpark (http://www.amsterdam.info/parks/amstelpark/), just behind the freeway and close to the RAI congress and exhibition halls. The park has been established since 1972, as one of the sites of the second world garden fair -- Floriade. Since the fair ended, the municipality strived to maintain some of it attractions, and today Amstelpark is one of the two most popular parks in Amsterdam.
 
 Wireless and wired internet connectivity will be available for all visitors.
 
@@ -73,7 +72,7 @@ Wireless and wired internet connectivity will be available for all visitors.
 
 *By Car*: A large public parking area is available right outside Amstelpark. During the day parking rates apply.
 
-For a map of the area, please see https://www.google.com/maps/d/u/0/viewer?mid=z9wMRkgdKQT0.k3BHPySM51KM&usp=sharing[]. 
+For a map of the area, please see https://www.google.com/maps/d/u/0/viewer?mid=z9wMRkgdKQT0.k3BHPySM51KM&usp=sharing[].
 
 [[transportation]]
 == Transportation
@@ -112,9 +111,9 @@ The CalConnect rate for a single is ¬139 between 26-29 September, and ¬69 betw
 The hotel now offers online booking at http://www.motel-one.com/en/hotels/amsterdam/hotel-amsterdam/[]. Unfortunately you cannot request the CalConnect room block (however the rates will be the same as for our room block). Therefore if you are booking before 1 September (when the room block ends) and you cannot secure a room online, please book by calling the hotel at the phone number above, or sending an e-mail to the e-mail address above, and request a CalConnect group room.
 
 Please mention the booking code "CalConnect" and include a call-back telephone number and what time zone you are in. The hotel may then call you for additional details to complete the reservation or send you a confirmed booking letter by return e-mail. A credit card is required to guarantee the reservation, which is necessary if you wish late arrival. If you are requested to fax anything to the hotel, you can simply include it as an attachment to an e-mail to the e-mail address above. +
- 
 
-==== Things to do in Amsterdam
+
+=== Things to do in Amsterdam
 
 General visitor's Information: http://www.iamsterdam.com/en/
 
@@ -153,7 +152,7 @@ a| *Monday 28 September* +
  1600-1800 Testing
 
 1915-2130 Interop Test Dinner +
-_TBD_ 
+_TBD_
 a| *Tuesday 29 September* +
  0800-0830 Coffee & Rolls +
  0830-1000 Testing +
@@ -164,7 +163,7 @@ a| *Tuesday 29 September* +
  1530-1600 Break and Refreshments +
  1600-1800 Testing
 
-Background Session all day Tuesday: Working on CalDAV Test Suite 
+Background Session all day Tuesday: Working on CalDAV Test Suite
 a| *Wednesday 30 September* +
  0800-0830 Coffee & Rolls +
  0830-1000 Testing +
@@ -187,24 +186,24 @@ The Conference begins with lunch on Wednesday and runs through Friday.
 2+| *CALCONNECT XXXIV CONFERENCE*
 
 2+| *Wednesday 30 September*
-2+| 
+2+|
 | 1100-1200
 a| Introduction to CalConnect Q&A +
-_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._ 
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, and how CalConnect works, followed by questions._
 
 | 1200-1300 | Lunch
 | 1300-1330 | Welcome and IOPTEST Reports
 | 1330-1400
 a| Technical Committee Summaries and IETF Status +
-_A summary of what each Technical Committee (TC) has worked on and the interoperability testing that has taken place. Will also cover new and changed draft specifications, and a description of new "stable" specifications that implementors should begin working on._ 
+_A summary of what each Technical Committee (TC) has worked on and the interoperability testing that has taken place. Will also cover new and changed draft specifications, and a description of new "stable" specifications that implementors should begin working on._
 
 | 1400-1445
 a| Event-type Registry +
-_Developing standard categorizations for event publication to aid searching and relating events._ 
+_Developing standard categorizations for event publication to aid searching and relating events._
 
 | 1445-1530
 a| CalConnect XXXVI in Hong Kong +
-_Event introduction, overview and planning for CalConnect's first Asia/Pacific event in April 2016._ 
+_Event introduction, overview and planning for CalConnect's first Asia/Pacific event in April 2016._
 
 | 1530-1600 | Break and Refreshments
 | 1600-1800
@@ -215,28 +214,28 @@ a| Calendaring in Government +
 
 | 1800-2000
 a| Welcome Reception +
-_On Premises_ 
+_On Premises_
 
-2+| 
+2+|
 2+| *Thursday 1 October*
-2+| 
+2+|
 | 0800-0830 | Coffee & Rolls
 | 0830-0930
 a| API - JMAP+REST +
-_Developing a new lighter-weight API for calendaring._ 
+_Developing a new lighter-weight API for calendaring._
 
 | 0930-1030
 a| Time Zone Data Distribution Service and standards promotion +
-_How to promote the adoption, implementation and use of standards once they are available._ 
+_How to promote the adoption, implementation and use of standards once they are available._
 
 | 1030-1100 | Break and refreshments
 | 1100-1145
 a| VPOLL and VAVAILABILITY +
-_Consensus Scheduling and Office Hours applications (i.e. reverse scheduling)_ 
+_Consensus Scheduling and Office Hours applications (i.e. reverse scheduling)_
 
 | 1145-1230
 a| CalDAV Topics +
-_The new Server Information Document for DAV servers_ 
+_The new Server Information Document for DAV servers_
 
 | 1230-1330 | Lunch
 | 1330-1415 | Sharing -- state and status of the specifications
@@ -244,51 +243,51 @@ _The new Server Information Document for DAV servers_
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| Changing the Scheduling Model +
-_Extend the enterprise scheduling model to support the social calendaring interactions which take place today, e.g. multiple organizers, self-invitation (signup), etc._ 
+_Extend the enterprise scheduling model to support the social calendaring interactions which take place today, e.g. multiple organizers, self-invitation (signup), etc._
 
 | 1700-1800
 a| Recurrences - alternative models +
-_A new model to avoid the issues with long-running recurring events that are always modified; e.g. the weekly meeting with a different agenda each week._ 
+_A new model to avoid the issues with long-running recurring events that are always modified; e.g. the weekly meeting with a different agenda each week._
 
 | 1930-2200
 a| Conference Dinner +
-_TBD_ 
+_TBD_
 
-2+| 
+2+|
 2+| *Friday 2 October*
-2+| 
+2+|
 | 0800-0830 | Coffee & Rolls
 | 0830-0945
 a| DEVGUIDE progress +
-_Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, updating_ 
+_Creating a Developer's Guide to iCalendar, etc. - content, delivery mechanism, updating_
 
 | 0945-1030
 a| RSCALE - non-Gregorian calendar scales +
-_How RSCALE allows non-Gregorian recurrences to be specified as part of iCalendar events._ 
+_How RSCALE allows non-Gregorian recurrences to be specified as part of iCalendar events._
 
 | 1030-1100 | Break and refreshments
 | 1100-1145
 a| iCalendar Patch +
-_Discussion of a proposed patch format to allow small updates to iCalendar data to be efficiently applied to large iCalendar objects._ 
+_Discussion of a proposed patch format to allow small updates to iCalendar data to be efficiently applied to large iCalendar objects._
 
 | 1145-1230
 a| iCalendar Version 3 +
-_When should we stop updating V2 and define a new version._ 
+_When should we stop updating V2 and define a new version._
 
 | 1230-1330 | Lunch
 | 1330-1430
 a| Pubishing events with QRCODE and data URI +
-_Formulate an approach to publishing events within the limitations of QRCODEs and data URIs; develop rules for publishing recurrences and instances._ 
+_Formulate an approach to publishing events within the limitations of QRCODEs and data URIs; develop rules for publishing recurrences and instances._
 
 | 1430-1530
 a| PUSH Notifications for DAV +
-_New specifications to provide standardized PUSH notifications for CalDAV and CardDAV_ 
+_New specifications to provide standardized PUSH notifications for CalDAV and CardDAV_
 
 | 1530-1600 | Break and refreshments
 | 1600-1700
 a| Technical Committee Futures and CalConnect Plenary Meeting +
-_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
 
-| 1700 | Close of meeting. 
+| 1700 | Close of meeting.
 
 |===

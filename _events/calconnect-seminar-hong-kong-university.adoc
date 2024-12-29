@@ -9,7 +9,8 @@ image: /assets/images/hku-academic-event.jpg
 
 == CalConnect Seminar - April 19, 2016
 
-=== April 19, 2016 - 5pm to 7pm +
+=== April 19, 2016 - 5pm to 7pm
+
 University of Hong Kong, K.K. Leung Building, Room KK102
 
 === Schedule

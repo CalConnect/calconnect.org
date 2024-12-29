@@ -43,13 +43,13 @@ CalConnect XXXVI, consisting of a CalConnect Interoperability Test Event and a C
 
 The Interoperability Test Event will take place all day Monday and Tuesday April 18-19. Wednesday April 20 will be an https://www.itfest.hk/template?series=2&id=141&lang=en#[all-day Public Event] hosted by CalConnect at the https://www.itfest.hk/template[Hong Kong ITFest]. The Conference will be Thursday and Friday, April 21-22.
 
-*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available.
+*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available.
 
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
 *CalConnect Public Day:* The Public Day is Wednesday April 20 at the Hong Kong Convention Centre. The schedule for the day is available at https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[]. Please see:https://www.itfest.hk/template?series=2&id=141&lang=en# for more information about the Hong Kong ITFEST and the Public Day.
 
-*CalConnect Conference:* The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+*CalConnect Conference:* The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and link:{{'/events/observers' | relative_url }}[observers]are welcome.
 
 The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
@@ -248,9 +248,9 @@ a| *Tuesday 19 April* +
 |===
 *Please Note:* It is our intention to make this Interoperability Test Event as useful as possible for members and non-members. To this end we welcome suggestions from interested parties on what they might want to test, and with whom.Tuesday late afternoon is the Seminar at Hong Kong University, 1700-1900; some people may need to leave early in order to participate in the Seminar.Wednesday will be our Public Day at the Convention Center in Central Hong Kong; we encourage everyone to attend the Public Day and participate or offer support. We expect to offer transportation to and from the Convention Center on Wednesday.
 
-Test Event Agenda
+=== Test Event Agenda
 
-==== _Updated 23 February 2016_
+_Updated 23 February 2016_
 
 
 ==== Specific Areas for testing as identified by participants
@@ -276,6 +276,7 @@ Simultaneous support of Apple sharing spec and new standards-based sharing specs
 
 
 ==== Technical Topics for Developers' Discussions
+
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
 
 These discussions can cover implementation approaches, protocol issues, data models etc. and may involve the entire group or small breakout sessions.
@@ -332,6 +333,7 @@ Managed attachments:
 
 
 ==== Baseline Testing
+
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
@@ -381,11 +383,11 @@ Final determination of what will be tested will depend on what the participants 
 ** vCard 4
 
 
-==== Who May Participate or Observe
+== Who May Participate or Observe
 
 Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url}}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
-==== Registration
+== Registration
 
 Please see link:/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
@@ -394,7 +396,7 @@ Please see link:/events-activities/interoperability-test-events/participation-an
 * link:/event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]: Register one to six people as link:{{'/events/observers' | relative_url}}[observers]
 for the CalConnect Interoperability Test Event.
 
-==== Interoperability Event Scenarios
+== Interoperability Event Scenarios
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 [[conference-schedule]]
@@ -402,7 +404,7 @@ If you are planning to participate, please contact us to let us know which inter
 
 The Conference takes place all day Thursday and Friday April 21-22.
 
-==== CALCONNECT XXXVI CONFERENCE SCHEDULE AND AGENDA
+=== CALCONNECT XXXVI CONFERENCE SCHEDULE AND AGENDA
 
 [cols=2]
 |===
