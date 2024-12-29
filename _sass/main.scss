@@ -297,7 +297,7 @@ body.front h3 {
   height: 50px;
 }
 #block-carousel {
-  margin: -30px -15px -35px;
+  margin: -30px -15px 0px;
 }
 #block-carousel .flex-caption {
   color: white;
@@ -682,8 +682,6 @@ ul.action-links {
     text-align: center;
   }
 }
-@media only screen and (min-width: 480px) {
-}
 @media only screen and (min-width: 768px) {
   body {
   }
@@ -693,6 +691,7 @@ ul.action-links {
   }
   #navbar {
     padding: 0;
+    margin-bottom: 0;
   }
   #navbar .navbar-header {
     margin-top: 1em;
@@ -727,7 +726,7 @@ ul.action-links {
     float: left;
     margin: 0;
     margin-right: 2em;
-    margin-bottom: -40px;
+    margin-bottom: 0px;
     width: 350px;
   }
   #calconnect-for ul {
@@ -923,8 +922,6 @@ ul.action-links {
   }
 }
 @media only screen and (min-width: 992px) {
-  body {
-  }
   #titleBar {
     font-size: 18px;
   }
