@@ -9,8 +9,7 @@ image: /assets/images/NASA-Ames.jpg
 
 == CalConnect XXI - May 23-27 2011
 
-=== CalConnect Interoperability Test Events - 23-25 May +
-CalConnect Roundtable XXI - 25-27 May
+=== CalConnect Interoperability Test Events - 23-25 May and CalConnect Roundtable XXI - 25-27 May
 
 [[intro]]
 image:{{'/assets/images/NASA-Ames.jpg' | relative_url }}[NASA
@@ -214,7 +213,7 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===

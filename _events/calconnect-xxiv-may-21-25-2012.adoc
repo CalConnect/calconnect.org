@@ -9,8 +9,7 @@ image: /assets/images/Chattanooga.jpg
 
 == CalConnect XXIV - May 21-25 2012
 
-=== CalConnect Interoperability Test Event - 1-3 October +
-CalConnect Roundtable Technical Conference - 3-5 October
+=== CalConnect Interoperability Test Event - 1-3 October and CalConnect Roundtable Technical Conference - 3-5 October
 
 [[intro]]
 image:{{'/assets/images/Chattanooga.jpg' | relative_url }}[Zürich,
@@ -202,7 +201,7 @@ _Doubletree Hotel_
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===
@@ -314,9 +313,8 @@ _Doubletree Hotel_
 |===
 
 +
- +
 [[bofs]]
-==== BOFs
+=== BOFs
 
 [[bof1]] A discussion of the issues and proposed model for sharing contacts on a CardDAV server.
 

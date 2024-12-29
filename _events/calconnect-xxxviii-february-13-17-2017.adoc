@@ -9,8 +9,7 @@ image: /assets/images/UCIrvine_0.jpg
 
 == CalConnect XXXVIII - February 13-17, 2017
 
-=== CalConnect Interoperability Test Event and Developers Forum - Monday-Wednesday +
-CalConnect Conference - Wednesday-Friday
+=== CalConnect Interoperability Test Event and Developers Forum - Monday-Wednesday and CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/UCIrvine.jpg' | relative_url }}[University
@@ -40,11 +39,11 @@ Recent Changes:
 
 CalConnect XXXVIII, consisting of a CalConnect Interoperability Test Event and Developers Forum, and a CalConnect Conference, will be held in Irvine, California, on February 13-17, 2017, hosted by the http://www.uci.edu[University of California, Irvine].
 
-*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxviiI-february%2013-17-2017#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually, so check back periodically).
+*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxviiI-february%2013-17-2017#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually, so check back periodically).
 
 _Please Note: You donotneed finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
-*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and link:{{'/events/observers' | relative_url }}[observers]are welcome.
 
 The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
 
@@ -149,7 +148,7 @@ a| *Wednesday 15 February* +
 |===
 
 
-Test Event Agenda
+== Test Event Agenda
 
 Specific Areas for testing as identified by participants
 Current specific testing areas include
@@ -166,7 +165,7 @@ Current specific testing areas include
 * JCAL
 * XCAL
 
-==== Technical Topics for Developers' Discussions
+== Technical Topics for Developers' Discussions
 
 
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
@@ -191,9 +190,10 @@ Current discussion topics include
 * Preparation for Calendar Spam session
 * Recommendations on alternative to Titanpad
 
-==== Please see the Reading List for the Developer's Forum at
+Please see the Reading List for the Developer's Forum at
 
-==== Baseline Testing
+== Baseline Testing
+
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
@@ -242,10 +242,10 @@ Final determination of what will be tested will depend on what the participants 
 ** Mobile
 ** vCard 4
 
-==== Who May Participate or Observe
+== Who May Participate or Observe
 Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that non-members pay a 25% surchange on the Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
-==== Registration
+== Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
@@ -259,14 +259,15 @@ link:{{'/events/observers' | relative_url }}[observers]
 +
 for the CalConnect Interoperability Test Event.
 
-==== Interoperability Event Scenarios
+== Interoperability Event Scenarios
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 [[conference-schedule]]
 == Conference Schedule
 
-==== CALCONNECT XXXVIII CONFERENCE - Room Pacific A (G118A), 1st Floor
-_As of January 18 2017._*Theme session titles are**highlighted*.
+=== CALCONNECT XXXVIII CONFERENCE - Room Pacific A (G118A), 1st Floor
+
+_As of January 18 2017._ Theme session titles are *highlighted*.
 
 [cols=2]
 |===
@@ -375,4 +376,5 @@ _Administrative business, coming events, consensus agreements on decisions reach
 | 1530 | Close of CalConnect XXXVIII
 
 |===
-*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*
+
+*Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

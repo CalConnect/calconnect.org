@@ -9,8 +9,7 @@ image: /assets/images/Bucharest.jpg
 
 == CalConnect XXXIII - May 18-22, 2015
 
-=== CalConnect Interoperability Test Event - Monday-Wednesday +
-CalConnect Conference - Wednesday-Friday
+=== CalConnect Interoperability Test Event - Monday-Wednesday and CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/Bucharest.jpg' | relative_url }}[Skytower

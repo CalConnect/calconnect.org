@@ -10,8 +10,7 @@ image: /assets/images/Zurich.jpg
 == CalConnect XXV - October 1-5 2012
 
 
-=== CalConnect Interoperability Test Event - 1-3 October +
-CalConnect Roundtable Technical Conference - 3-5 October
+=== CalConnect Interoperability Test Event - 1-3 October and CalConnect Roundtable Technical Conference - 3-5 October
 
 [[intro]]
 image:{{'/assets/images/Zurich.jpg' | relative_url }}[Zürich,
@@ -207,7 +206,7 @@ Lunch and morning and afternoon breaks will be served to all participants in the
 
 +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 Please see https://calconnect.wordpress.com/2012/09/12/symposia-at-calconnect-xxv-in-zurich/[CalConnect XXV Symposia] for more information about the Thursday and Friday morning symposia. +
  

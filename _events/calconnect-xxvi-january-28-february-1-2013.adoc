@@ -9,8 +9,7 @@ image: /assets/images/OracleSantaClara.jpg
 
 == CalConnect XXVI - January 28-February 1, 2013
 
-=== CalConnect Interoperability Test Event - January 28-30 +
-CalConnect Roundtable XXVI - January 30 - February 1
+=== CalConnect Interoperability Test Event - January 28-30 and CalConnect Roundtable XXVI - January 30 - February 1
 
 [[intro]]
 image:{{'/assets/images/OracleSantaClara.jpg' | relative_url }}[Oracle

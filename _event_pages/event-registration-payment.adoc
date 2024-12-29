@@ -21,7 +21,7 @@ test requests from TCs to confirm application behavior.
 
 The Virtual Conference is open to members and non-members.
 
-=== Registration
+== Registration
 
 * link:event-registration-payment/standard-conference-registration-form[Conference Registration]:
 Register from one to six people for the CalConnect Conference, with a choice of

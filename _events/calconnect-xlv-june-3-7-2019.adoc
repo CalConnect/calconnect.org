@@ -295,4 +295,4 @@ _Working sessions at offsite location for conference participants. Please notify
 
 
 
-*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*
+*Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

@@ -9,8 +9,7 @@ image: /assets/images/UCIrvine.jpg
 
 == CalConnect XVII - February 1-5 2010
 
-=== CalConnect Interoperability Test Event - 1-3 February +
-CalConnect Roundtable XVII - 3-5 February
+=== CalConnect Interoperability Test Event - 1-3 February and CalConnect Roundtable XVII - 3-5 February
 
 [[intro]]
 image:{{'/assets/images/UCIrvine.jpg' | relative_url }}[The
@@ -215,9 +214,8 @@ _Library Room, University Club_
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
- +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===

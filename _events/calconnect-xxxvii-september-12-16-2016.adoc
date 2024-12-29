@@ -9,8 +9,7 @@ image: /assets/images/Dresden.jpg
 
 == CalConnect XXXVII - September 12-16, 2016
 
-=== CalConnect Developers' Forum - Monday-Wednesday +
-CalConnect Conference - Wednesday-Friday
+=== CalConnect Developers' Forum - Monday-Wednesday and CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/Dresden.jpg' | relative_url }}[CalConnect
@@ -36,11 +35,11 @@ CalConnect XXXVII, consisting of a CalConnect Developers' Forum (Interoperabilit
 
 The Developers' Forum will take place all day Monday and Tuesday September 12-13, and Wednesday morning, ending before lunch. The Conference will open following lunch on Wednesday, and will run through Thursday and Friday.
 
-*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or aslink:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxvii-september-12-16-2016#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
+*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxvii-september-12-16-2016#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
 
 _Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
-*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives andlink:{{'/events/observers' | relative_url }}[observers]are welcome.
+*Conference:*The Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and link:{{'/events/observers' | relative_url }}[observers]are welcome.
 
 The last session on Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include future directions for Technical Committees, and establishment of future goals and directions for the Consortium.
 
@@ -68,9 +67,9 @@ Registration is now open for CalConnect XXXVI; please see link:{{'/events/event-
 [[location]]
 == Location
 
-The Developers' Forum/Test Event (September 12-14) and the Conference (September 14-16) will be held at http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strae 134, 01099 Dresden, Germany. Schloss Eckberg is also the conference hotel for CalConnect XXXVII. The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss: https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en
+The Developers' Forum/Test Event (September 12-14) and the Conference (September 14-16) will be held at http://www.schloss-eckberg.de/en/[Schloss Eckberg], Bautzner Strasse 134, 01099 Dresden, Germany. Schloss Eckberg is also the conference hotel for CalConnect XXXVII. The Schloss is on a hill next to the river Elbe, and is a short tram ride from the center of Dresden.This map shows the location of the Schloss: https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data=!4m2!3m1!1s0x4709c8c376138fad:0x7d37734c04fb0fc8?hl=en
 
-The meeting room will be in the conference facility of the Schloss and will be announced closer to the event. 
+The meeting room will be in the conference facility of the Schloss and will be announced closer to the event.
 
 
 [[transportation]]
@@ -166,7 +165,7 @@ a| *Wednesday 14 September* +
 |===
 
 
-Test Event Agenda
+== Test Event Agenda
 
 Specific Areas for testing as identified by participants
 
@@ -179,7 +178,7 @@ Current specific testing areas include
 * API <--> iCalendar
 * Calendar publication and subscription models
 
-==== Technical Topics for Developers' Discussions
+== Technical Topics for Developers' Discussions
 
 
 The developer discussions provide an opportunity for those who may not have been able to get on calls to engage other developers in detailed discussions.
@@ -199,9 +198,10 @@ Current discussion topics include
 * Subscription models and their relation to sharing
 * TC API work
 
-==== Please see the Reading List for the Developer's Forum at
+Please see the Reading List for the Developer's Forum at
 
-==== Baseline Testing
+== Baseline Testing
+
 Final determination of what will be tested will depend on what the participants in the test event wish to test; the current set of interests is noted above. Participants may also request to test things that are not mentioned in this list (the registration form offers a place to indicate areas you wish to test). In all cases at least two participating organizations must be interested in testing a particular area or scenario to form testing pairs._Please note that you do not need finished or polished code to participate in the testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._*Possible Testing areas*
 
 * CalDAV testing:
@@ -250,10 +250,10 @@ Final determination of what will be tested will depend on what the participants 
 ** Mobile
 ** vCard 4
 
-==== Who May Participate or Observe
+== Who May Participate or Observe
 Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
-==== Registration
+== Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
@@ -267,14 +267,14 @@ link:{{'/events/observers' | relative_url }}[observers]
 +
 for the CalConnect Interoperability Test Event.
 
-==== Interoperability Event Scenarios
+== Interoperability Event Scenarios
 If you are planning to participate, please contact us to let us know which interoperability event scenarios you wish to pursue or if you would like to propose a new scenario.CalConnect will invite all registered participants to two or three conference calls prior to the event to discuss logistics, testing scenarios, etc.
 
 
 [[conference-schedule]]
 == Conference Schedule
 
-==== CALCONNECT XXXVII CONFERENCE
+=== CALCONNECT XXXVII CONFERENCE
 
 [cols=2]
 |===
@@ -384,4 +384,5 @@ _Administrative business, coming events, consensus agreements on decisions reach
 | 1530 | Close of CalConnect XXXVII
 
 |===
-*Please see the Reading List for the Conference at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*
+
+*Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

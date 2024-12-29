@@ -206,7 +206,7 @@ http://dparys.co.uk/[_d'Parys_] +
 |===
 
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===
@@ -350,7 +350,6 @@ http://dparys.co.uk/[_d'Parys_] +
 
 |===
 
- +
 
 
 [[workshops]]

@@ -9,8 +9,7 @@ image: /assets/images/CarnegieMellon.jpg
 
 == CalConnect XVIII - May 24-28 2010
 
-=== CalConnect Interoperability Test Event - 24-26 May +
-CalConnect Roundtable XVIII - 26-28 May
+=== CalConnect Interoperability Test Event - 24-26 May and CalConnect Roundtable XVIII - 26-28 May
 
 [[intro]]
 image:{{'/assets/images/CarnegieMellon.jpg' | relative_url }}[Carnegie
@@ -227,9 +226,8 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
- +
 [[agendas]]
-==== Topical Agendas:
+=== Topical Agendas
 
 [cols=2]
 |===
