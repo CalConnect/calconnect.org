@@ -19,7 +19,7 @@ excerpt: |
 
 PDF: link:{{'/docs/press-releases/041214publiclaunch.pdf' | relative_url }}[Public Launch Release].
 
-*McKinleyville, CA – December 14, 2004\*
+*McKinleyville, CA – December 14, 2004*
 
 Seven vendors, six universities, two
 open source foundations, and a research facilityembership of the Calendaring and

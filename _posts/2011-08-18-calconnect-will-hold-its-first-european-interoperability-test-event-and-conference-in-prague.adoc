@@ -16,7 +16,7 @@ _CalConnect XXII Focuses on Advancing Calendaring and Scheduling Standards for M
 
 PDF: link:{{'/docs/press-releases/20110818%20CalConnect%20Prague%20Release.pdf' | relative_url }}[CalConnect Prague Release.pdf].
 
-*August 18, 2011 – McKinleyville, Calif.\*
+*August 18, 2011 – McKinleyville, Calif.*
 
 CalConnect (The Calendaring
 and Scheduling Consortium; https://www.calconnect.org) will hold

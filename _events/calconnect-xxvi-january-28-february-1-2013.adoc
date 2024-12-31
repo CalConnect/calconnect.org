@@ -79,7 +79,7 @@ Santa Clara is very close to San Jose International Airport (the meeting site is
 [[lodging]]
 == Lodging
 
-Our conference hotel for this event is the Embassy Suites Santa Clara. The hotel is offering us a special rate of $177/night, which includes free internet access\* and a full breakfast\*\* every morning. If you wish to extend your stay by a day or two on either side, you can do so at the same rate assuming availability. You **must book by January 14th to receive the special conference rate**; after the 14th the room block and special rate will no longer be available.
+Our conference hotel for this event is the Embassy Suites Santa Clara. The hotel is offering us a special rate of $177/night, which includes free internet access* and a full breakfast** every morning. If you wish to extend your stay by a day or two on either side, you can do so at the same rate assuming availability. You **must book by January 14th to receive the special conference rate**; after the 14th the room block and special rate will no longer be available.
 
 _*In order to access the internet connect to the "attwifi" network and open your browser. Their splash page will automatically come up. Select the option "bill my room" ignoring the left hand side of the screen and follow the prompts from there. All charges will automatically be taken off._
 
@@ -202,7 +202,7 @@ _http://www.thefishmarket.com/locations.aspx?id=2[The Fish Market]_ +
 1400 Close of Meeting
 
 3+|
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group meeting location will be announced prior to Wednesday January 30. +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
@@ -285,7 +285,7 @@ Review of IOP test participant findings +
 3. Moving Forward +
 3.1 Plan of Action +
 3.2 Next Conference Calls
-.<a| +
+.<a|
 *TC RESOURCE* Fri 0915-1000 +
 1. Introduction +
 1.1 TC Charter +

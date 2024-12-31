@@ -190,7 +190,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
  1800 Close of Meeting
 
 3+|
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or Interoperability Test Events participants are invited to the Wednesday evening reception +
@@ -207,7 +207,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *CALSCALE Ad Hoc* Thu 1700-1800 +
  TBA
 
@@ -266,7 +266,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 
 *TC IOPTEST* Wed 1445-1500 +
  Review of IOP test findings
-.<a| +
+.<a|
 *TC iSCHEDULE* Fri 1300-1430 +
  1. Introduction +
  1.1 Charter +

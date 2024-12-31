@@ -72,9 +72,9 @@ Google has preferential rates available at three nearby hotels. The first one is
 _If you or your organization is not a CalConnect Member, we will send you the preferred booking codes upon request once you have registered for the event; contact mailto:dave.thewlis@calconnect.org[Dave Thewlis]._ +
  
 
-All prices quoted below are inclusive of service, most taxes\* and VAT, and include breakfast (except for the Seestrasse Apartments)
+All prices quoted below are inclusive of service, most taxes* and VAT, and include breakfast (except for the Seestrasse Apartments)
 
-\*May not include city tax of about CHF 2.50 per day.
+*May not include city tax of about CHF 2.50 per day.
 
 *ENGIMATT*_(Primary hotel for CalConnect attendees)_ +
 http://www.worldhotels.com/en/Hotel-Engimatt +
@@ -195,7 +195,7 @@ _Restaurant eCHo_
  1800 Close of Meeting
 
 3+| 
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^2^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^3^All Roundtable participants are invited to the group dinner on Thursday

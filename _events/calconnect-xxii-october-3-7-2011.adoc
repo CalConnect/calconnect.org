@@ -169,7 +169,7 @@ _http://www.ambi.cz/ambi_brasiliero2_kontakt_eng.php[Ambiente Brasiliero]_
  1800 Close of Meeting
 
 3+|
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^2^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^3^All Roundtable participants are invited to the group dinner on Thursday
@@ -187,7 +187,7 @@ Lunch and morning and afternoon breaks will be served to all participants in the
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *TC CALDAV* Wed 1400-1530 +
  1. Introduction +
  1.1 Charter +
@@ -236,7 +236,7 @@ Lunch and morning and afternoon breaks will be served to all participants in the
  3. Moving Forward +
  3.1 Plan of Action +
  3.2 Next Conference Calls
-.<a| +
+.<a|
 *TC MOBILE* Fri 1600-1700 +
  1. Review of TC Mobile's charter and summary of work and accomplishments +
  2. Discussion of interop results and issues as they pertain to mobile calendaring +

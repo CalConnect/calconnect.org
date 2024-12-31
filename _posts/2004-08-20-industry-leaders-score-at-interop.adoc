@@ -18,7 +18,7 @@ Consortium_
 
 PDF: link:{{'/docs/press-releases/0407interop1.pdf' | relative_url }}[CalConnect Interoperability Event Publicity Release].
 
-*Berkeley, CA – August 20, 2004\*
+*Berkeley, CA – August 20, 2004*
 
 On July 29-30, the University of
 California at Berkeley hosted the first calendaring consortium-sponsored

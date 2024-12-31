@@ -16,7 +16,7 @@ DOC: link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle 
 
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*– October 5, 2010\*
+*– October 5, 2010*
 
 The Calendaring and Scheduling Consortium has
 announced that Tungle Corp. ([.underline]#www.tungle.com#) has become

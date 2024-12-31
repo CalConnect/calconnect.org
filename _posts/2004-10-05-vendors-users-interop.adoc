@@ -15,7 +15,7 @@ excerpt: |
 
 PDF: link:{{'/docs/press-releases/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity Release].
 
-*McKinleyville, CA – October 5, 2004\*
+*McKinleyville, CA – October 5, 2004*
 
 On September 23-24, industry
 leaders and major academic customers of calendaring and scheduling

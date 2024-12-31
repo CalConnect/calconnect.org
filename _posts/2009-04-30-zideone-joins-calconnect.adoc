@@ -16,7 +16,7 @@ _Membership Expands CalConnect’s Growth in the International Arena_
 
 DOC: link:{{'/docs/ZideOne%20Joins%20US%20release%20FINAL-2009-04-29.doc' | relative_url }}[ZideOne Joins CalConnect].
 
-*McKinleyville, CA – April 30, 2009\*
+*McKinleyville, CA – April 30, 2009*
 
 The Calendar and Scheduling Consortium
 has announced that ZideOne has become one of the 2 open-source organizations in

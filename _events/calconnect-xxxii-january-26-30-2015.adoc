@@ -259,7 +259,7 @@ _Administrative business, coming events, consensus agreements on decisions reach
 
 .<| 1700 |  .<| Close of meeting.
 3+| 
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the Test Event and/or Conference +
 ^2^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^3^All Conference and Test Event participants are invited to the Wednesday evening reception +
