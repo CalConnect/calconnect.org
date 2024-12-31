@@ -7,7 +7,7 @@ image: /assets/images/CalConnectEventTBD.jpg
 ---
 :page-liquid:
 
-= CalConnect CalendarFest 2021 📆🎉 (Autumn 2021)
+== CalConnect CalendarFest 2021 📆🎉 (Autumn 2021)
 
 image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
 
