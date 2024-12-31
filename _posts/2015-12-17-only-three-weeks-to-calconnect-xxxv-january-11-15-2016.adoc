@@ -10,7 +10,6 @@ excerpt: If you're planning to come to AOL in Palo Alto for CalConnect XXXV, it'
 
 == Only three weeks to CalConnect XXXV January 11-15 2016
 
-Posted December 17, 2015
 image::link:{{'/assets/images/AOLPaloAlto-02.jpg' | relative_url}}[AOL Palo Alto,480,360]
 
 AOL Palo Alto

@@ -11,8 +11,6 @@ excerpt: |
 ---
 :page-liquid:
 
-Posted May 10, 2016
-
 https://www.cronofy.com[Cronofy], our newest member, has blogged about their
 experience coming to their first CalConnect event in Hong Kong last month, and
 about their reasons for joining CalConnect and participating in our work:

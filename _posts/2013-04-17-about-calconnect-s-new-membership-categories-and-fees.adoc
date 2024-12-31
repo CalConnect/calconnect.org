@@ -10,8 +10,6 @@ excerpt: Earlier this week, we announced new membership categories and interoper
 
 == About CalConnect's New Membership Categories and Fees
 
-Posted April 17, 2013 
-
 Earlier this week, we announced new membership categories and interoperability test event fees. We have been discussing and shaping these changes, the first since CalConnect was established in 2005, for the past 6 months. We want to share with our members and non-members alike what motivated these changes, and what we hope they will accomplish.
 
 CalConnect has two sources of revenue  membership fees, and fees associated with CalConnect events. This revenue underwrites the technical work of CalConnect, as well as our Roundtable Technical Conferences (member meetings) and Interoperability Test events.

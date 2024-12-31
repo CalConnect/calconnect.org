@@ -10,8 +10,6 @@ excerpt: CalConnect has established a new Technical Committee, TC TASKS, followi
 
 == CalConnect Establishes TC TASKS Technical Committee
 
-Posted February 11, 2013 
-
 CalConnect has established a new Technical Committee, link:{{'/about/technical-committees/tc-tasks' | relative_url}}[TC TASKS], following the report-out of the VTODO Ad Hoc Committee. The TC's Charter is to "`Extend the functionality of the iCalendar and specifically VTODO object model to provide enhanced support for tasks including needs such as project management, smart power grids and business task scheduling, in a way that allows a calendaring system to manage the data and calendaring clients to display and change it.`"
 
 The new Technical Commitee has a very aggressive schedule and deliverables (see the charter and schedule at link:{{'/about/technical-committees/tc-tasks' | relative_url}}[TC TASKS Charter]).

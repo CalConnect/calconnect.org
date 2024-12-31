@@ -10,8 +10,6 @@ excerpt: It's only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1!
 
 == Only 10 days to CalConnect XLIII in Karlsruhe September 24-27
 
-Posted September 14, 2018
-
 It's only 10 days to CalConnect XLIII in Karlsruhe, hosted by 1&1! If you are
 thinking about coming, it's time to register:
 link:{{'/events/event-registration-payment' | relative_url}}[]. Please note that

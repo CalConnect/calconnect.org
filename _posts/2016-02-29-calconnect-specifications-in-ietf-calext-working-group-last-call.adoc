@@ -10,8 +10,6 @@ excerpt: The IETF CALEXT Working Group has issued a Last Call for Comments on tw
 
 == CalConnect Specifications in IETF CALEXT Working Group Last Call
 
-Posted February 29, 2016
-
 The IETF CALEXT Working Group has issued a Last Call for Comments on two
 CalConnect specifications: Calendar Availability (VAVAILABILITY)
 https://datatracker.ietf.org/doc/draft-ietf-calext-availability/ and Calendar

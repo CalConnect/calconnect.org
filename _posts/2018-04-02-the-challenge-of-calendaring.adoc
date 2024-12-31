@@ -12,8 +12,6 @@ excerpt: |
 
 == The Challenge of Calendaring
 
-Posted April 2, 2018
-
 https://fastmail.com[Fastmail] joined CalConnect just over three years ago and have been active in CalConnect and calendaring-related standards activities since then. They summarized their involvement in CalConnect in a blog post last year: https://www.fastmail.com/blog/calconnect/[].
 
 Recently they poste this article on their news feed about the challenge of calendaring to FastMail and how they are addressing that challenge within FastMail and within CalConnect: https://www.fastmail.com/blog/challenge-of-calendaring/[]. Again, our thanks to FasMail for their involvement and contributions, and this window of how their CalConnect involvement connects with their internal work to improve their product.

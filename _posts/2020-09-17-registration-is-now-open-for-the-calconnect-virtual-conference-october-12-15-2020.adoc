@@ -10,8 +10,6 @@ excerpt: The CalConnect Virtual Conference web page contains information about t
 
 == Registration is now open  for the CalConnect Virtual Conference October 12-15, 2020
 
-Posted September 17, 2020 
-
 The link:{{'/events/calconnect-virtual-conference-2020' | relative_url }}[CalConnect Virtual Conference web page] contains information about the timing, structure, and sessions offered for this virtual conference. .
 
 The CalConnect Conference is planned for four days, Monday-Thursday, October 12-15, with the possibility of scheduling additional working sessions or testing on Friday October 16.

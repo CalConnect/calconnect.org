@@ -10,8 +10,6 @@ excerpt: CalConnect held its thirtieth Interoperability Test Event and Conferenc
 
 == Observations from CalConnect XXX in Dulles, Virginia
 
-Posted June 24, 2014
-
 CalConnect held its thirtieth Interoperability Test Event and Conference (formerly "`Roundtable`") the week of May 19-23, hosted by AOL at their facility in Dulles, Virginia.
 
 The week led off with the Interoperability test Event on Monday, which had 12 participants from 9 organizations onsite. On Wednesday afternoon, the Conference opened with a very productive workshop about calendaring & scheduling in health care, which included 21 participants from 8 non-member organizations in addition to the regular conference attendees.

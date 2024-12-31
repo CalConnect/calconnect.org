@@ -10,7 +10,5 @@ excerpt: CalConnect will hold its Autumn, 2013 Interoperability Test Event and T
 
 == CalConnect Returns to Europe and to Prague
 
-Posted February 11, 2013 
-
 CalConnect will hold its Autumn, 2013 Interoperability Test Event and Technical Conference (Roundtable) on September 23-27, 2013 in Prague, Czech Republic, hosted by http://www.dhl.com[DHL Express] at its ITS Data Center. Our Autumn 2011 event was hosted by http://www.kerio.com[Kerio Technologies] in Prague, and we will very much enjoy returning to one of Europe's most charming cities.
 

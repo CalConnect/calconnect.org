@@ -10,8 +10,6 @@ excerpt: The IETF has published Scheduling Extensions to CalDAV as RFC 6638; see
 
 == Scheduling Extensions to CalDAV published as RFC 6638
 
-Posted June 18, 2012 
-
 The IETF has published Scheduling Extensions to CalDAV as RFC 6638; see http://www.ietf.org/rfc/rfc6638.txt[http://www.ietf.org/rfc/rfc6638.txt] Congratulations to Bernard Desruisseaux and Cyrus Daboo for their hard work, and also to the members of TC CalDAV for their support and contributions.
 
 

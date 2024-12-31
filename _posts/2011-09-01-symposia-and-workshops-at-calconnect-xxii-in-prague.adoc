@@ -10,8 +10,6 @@ excerpt: In addition to our regular Roundtable Technical Conference sessions, Ca
 
 == Symposia and Workshops at CalConnect XXII in Prague
 
-Posted September 1, 2011 
-
 In addition to our regular Roundtable Technical Conference sessions, CalConnect is offering special Symposia/Workshops Thursday and Friday mornings October 6th and 7th. These sessions are covered by your Roundtable Conference registration fee and are open to all registered participants.
 
 The Symposia Chairs, presenters and discussion leaders will be principal authors of key calendaring and scheduling specifications such as CalDAV, xCal, and CalWS, and are major contributors to leading calendaring and scheduling applications.

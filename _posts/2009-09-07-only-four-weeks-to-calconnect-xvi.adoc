@@ -10,8 +10,6 @@ excerpt: CalConnect XVI, the week of October 5th at Apple in Cupertino, Californ
 
 == Only four weeks to CalConnect XVI!
 
-Posted September 7, 2009 
-
 CalConnect XVI, the week of October 5th at Apple in Cupertino, California, is only four weeks away! If you are planning to come to the Roundtable, register before September 15th to take advantage of the early registration price break. And remember, the conference hotel is small, so book your room now before the hotel fills up. Details on the logistics page at link:{{'/calconnect16' | relative_url}}[CalConnect XVI].
 
 

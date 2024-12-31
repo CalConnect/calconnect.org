@@ -10,8 +10,6 @@ excerpt: The Roundtable technical conference is going well. We have 20 participa
 
 == CalConnect Roundtable as of Thursday afternoon 6 October
 
-Posted October 6, 2011 
-
 The Roundtable technical conference is going well. We have 20 participants which for our very first full CalConnect event in Europe is pretty respectable, and this includes four non-member organizations (ARC Informatique, DHL, Intel open source lab, and Stylite AG.
 
 We moved the regular Technical Committee sessions to the afternoon to allow people in North America to join the sessions via GotoMeeting, which gave us time for symposia and workshops Thursday and Friday morning. This morning the symposia were "`The Evolution of Internet Calendaring Standards`" and "`Integrating Internet Calendaring Systems into products and services`".

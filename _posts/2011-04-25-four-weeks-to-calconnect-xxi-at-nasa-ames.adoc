@@ -10,8 +10,6 @@ excerpt: Only four weeks until CalConnect XXI, the week of May 23-27, 2011, at N
 
 == Four weeks to CalConnect XXI at NASA Ames
 
-Posted April 25, 2011
-
 Only four weeks until CalConnect XXI, the week of May 23-27, 2011, at NASA Ames in Mountain View, California. If you are planning to come, you should get your registration done by May 6th as the early registration rate ends on that day, and registration will change from $350 to $395 for the Roundtable. We re also going to be holding a workshop on Tasks on Wednesday afternoon the 25th, and of course our interoperability test event on Monday-Wednesday. You can find information about the week, including schedules, logistics, and registration information, at link:{{'/calconnect21' | relative_url}}[].
 
 Remember, you don't have to be CalConnect members to attend the interoperability test event. And if you re not members you can attend the Roundtable as observers. We ll post more about the tasks workshop in the next day or two  it will be available to individuals not attending either the Roundtable or the IOP test event, subject to room and advance registration.

@@ -10,8 +10,6 @@ excerpt: Registration has now opened for CalConnect XXV, which will take place i
 
 == CalConnect Returns to Europe this October
 
-Posted June 22, 2012
-
 Registration has now opened for CalConnect XXV, which will take place in Zurich, Switzerland on October 1-5, hosted by Google. Logistics information and a very preliminary schedule may be found at link:{{'/calconnect25' | relative_url}}[calconnect25].
 
 As usual, the week will consist of a 2.5 day Interoperability Test Event, followed by 2.5 day Roundtable Technical Conference. Separate registration is required for each; however, CalConnect is offering an introductory rate for first-time attendees from non-members, of $350 per person for the test event and the conference (or either, if you can t be with us for the entire week).

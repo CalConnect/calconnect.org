@@ -10,8 +10,6 @@ excerpt: CalConnect Minutes is the CalConnect newsletter published after each Ca
 
 == CalConnect Minutes from Roundtable XVIII
 
-Posted July 22, 2010 
-
 *CalConnect _Minutes_* is the CalConnect newsletter published after each CalConnect Roundtable. Each edition contains information from the previous Roundtable and IOP Test Event plus articles and guest contributions. It is intended for CalConnect members and for others interested in CalConnect and in calendaring and scheduling.
 
 The current edition of CalConnect Minutes is available at link:{{'/minutes/CalConnect%20Minutes%20July%202010.pdf' | relative_url}}[CalConnect Minutes Roundtable XVIII].

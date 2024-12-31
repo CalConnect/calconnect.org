@@ -10,8 +10,6 @@ excerpt: CalConnect needs your help! We are seeking guidance and assistance from
 
 == CalConnect seeks assistance from travel industry technology experts
 
-Posted November 25, 2013
-
 CalConnect needs your help! We are seeking guidance and assistance from travel industry technology experts to explore the travel itinerary model within calendaring and scheduling.
 
 Traditional travel agencies have given way to travel that is booked directly by the traveler him/herself, using online services providing digital transactions from end to end  searching/selection, booking, payment, ticketing, itineraries, and other ancillary services. Many of these online systems are impressive in their capabilities and their comprehensiveness. However, much of their sophistication is the result of proprietary mechanisms which provide great workflow within their systems, but integrate less successfully with other calendaring & scheduling systems and third party applications.

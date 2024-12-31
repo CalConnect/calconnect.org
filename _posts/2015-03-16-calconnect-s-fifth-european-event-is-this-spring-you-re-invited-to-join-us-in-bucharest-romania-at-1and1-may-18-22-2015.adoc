@@ -10,8 +10,6 @@ excerpt: CalConnect -- The Calendaring and Scheduling Consortium -- is returning
 
 == CalConnect's fifth European event is this spring! You're invited to join us in Bucharest, Romania, at 1and1, May 18-22, 2015
 
-Posted March 16, 2015
-
 link:{{'/' | relative_url}}[CalConnect  The Calendaring and Scheduling Consortium]  is returning to Europe this spring
 
 Our previous European conferences, in 2011, 2013 and 2014, were very successful. In the past we ve come to Europe in the autumn, but we re coming early. link:{{'/calconnect33' | relative_url}}[CalConnect XXXIII] will take place in Bucharest, Romania, on May 18-22, 2015, hosted by http://1und1.de/[1and1].

@@ -10,8 +10,6 @@ excerpt: Registration is now open and hotel rooms may be booked for CalConnect X
 
 == Registration Open for CalConnect XXXVII in Dresden, September 12-16, 2016
 
-Posted June 27, 2016
-
 Registration is now open and hotel rooms may be booked for CalConnect XXXVII Dresden, September 12-16, 2016, hosted by http://smoothsync.org/[dmfs (SmoothSync)].
 
 The CalConnect XXXVII web page is located at link:{{'/events/calconnect-xxxvii-september-12-16-2016' | relative_url }} and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc.

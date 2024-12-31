@@ -10,8 +10,6 @@ excerpt: CalConnect's FREEBUSY Technical Committee has just published a Proposal
 
 == CalConnect publishes Proposal for Freebusy Read URL
 
-Posted April 15, 2009
-
 CalConnect's FREEBUSY Technical Committee has just published a Proposal for
 Freebusy Read URL. This Proposal defines a standardized form of Freebusy Read
 URL to improve interoperability between client and server implementations, while

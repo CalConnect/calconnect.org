@@ -10,8 +10,6 @@ excerpt: The CalConnect XLII web page is located at link:{{'/events/.calconnect-
 
 == Registration is now open  for CalConnect XLII in Tokyo, Japan, June 4-8, 2018, hosted by Jorte
 
-Posted March 9, 2018 
-
 The CalConnect XLII web page is located at link:{{'/events/.calconnect-xlii-june-04-08-2018' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, etc.
 
 The meeting venue is at http://www.sogetsu.or.jp/e/know/hall/[Sogetsu Hall], Akasaka, Tokyo. The venue is about a five minute walk from the conference hotel, https://www.hotelmonterey.co.jp/en/akasaka/[Hotel Monterey Akasaka].

@@ -10,8 +10,6 @@ excerpt: This blog is for and about CalConnect -- The Calendaring and Scheduling
 
 == Welcome to CalConnect
 
-Posted February 20, 2009
-
 This blog is for and about link:{{'/' | relative_url}}[CalConnect]  The Calendaring and Scheduling Consortium  and occasional other posts related to the quest for interoperable calendaring and scheduling.
 
 I'm Dave Thewlis, the Executive Director of CalConnect. I hope to use this blog to keep interested folks apprised of what's going on with CalConnect in a timely fashion, and so it will be prone to "`announcements`". But I ll try to keep it from being too dry and uninteresting.

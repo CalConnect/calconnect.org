@@ -11,8 +11,6 @@ excerpt: |
 
 == Thunderbird Joins CalConnect
 
-Posted March 15, 2020
-
 image::link:{{'/assets/images/thunderbird-logo.png' | relative_url}}[Thunderbird,220,217]
 
 CalConnect welcomes https://www.thunderbird.net[Thunderbird], developer of the

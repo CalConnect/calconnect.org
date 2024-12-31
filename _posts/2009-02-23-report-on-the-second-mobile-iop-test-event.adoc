@@ -10,8 +10,6 @@ excerpt: Since its inception, CalConnect has conducted Interoperability Test Eve
 
 == Report on the second Mobile IOP Test Event
 
-Posted February 23, 2009 
-
 Since its inception, CalConnect has conducted Interoperability Test Events. They are generally held over 2-1/2 days in conjunction with a Roundtable (members meeting), and we do them three times a year. Public reports on these events are posted on our website.
 
 Last year, however, we held our first and second Mobile Calendaring Interoperability Test Events, the first in February and the second in November. In another landmark for CalConnect, the second event was held in Plzen, Czech Republic, hosted by Kerio Technologies.

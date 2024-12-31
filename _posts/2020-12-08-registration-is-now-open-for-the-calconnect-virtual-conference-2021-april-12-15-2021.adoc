@@ -10,8 +10,6 @@ excerpt: The CalConnect Virtual Conference 2021 web page contains information ab
 
 == Registration is now open  for the CalConnect Virtual Conference 2021, April 12-15, 2021
 
-Posted December 8, 2020
-
 The link:{{'/events/calconnect-virtual-conference-2020' | relative_url }}[CalConnect Virtual Conference 2021 web page] contains information about the timing, structure, and sessions offered for this virtual conference. .
 
 The CalConnect Conference is planned for four days, Monday-Thursday, April 12-15, with the possibility of scheduling additional working sessions or testing on Friday April 16.

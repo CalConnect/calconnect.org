@@ -10,7 +10,6 @@ excerpt: In beautiful late summer weather dmfs hosted CalConnect XXXVII at Schlo
 
 == From Our President: CalConnect XXXVII in Dresden
 
-Posted October 5, 2016
 image::link:{{'/assets/images/Conference%20sketch%20small.jpg' | relative_url}}["",480,360]
 
 Conference Sketch by Thomas SchÃ¤fer, 1&1

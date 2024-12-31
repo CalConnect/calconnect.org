@@ -10,8 +10,6 @@ excerpt: CalConnect has established a Category A Liaison with ISO TC 211, Geogra
 
 == CalConnect Announces Liaison with ISO TC 211
 
-Posted December 11, 2016
-
 CalConnect has established a Category A Liaison with http://www.isotc211.org/[ISO TC 211], Geographic Information / Geomatics, and nominated a technical representative to http://www.isotc211.org/organizn.htm#WG7[TC 211 WG 7], Information Communities. This liaison will allow CalConnect representatives to participate in the work of ISO TC 211, initially in particular WG 7, and allow ISO TC 211 representatives to participate in the work of CalConnect.
 
 Our initial focus with TC 211 and WG 7 is the ISO 19160 standard, which addresses worldwide addressing, and the applicability to the work of CalConnect link:{{'/about/technical-committees/vcard-technical-committee' | relative_url }}[TC VCARD] which will explore expanding VCARD to support worldwide addresses in structured, standard formats.

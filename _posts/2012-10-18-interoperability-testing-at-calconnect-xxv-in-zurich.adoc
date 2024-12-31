@@ -10,8 +10,6 @@ excerpt: This was a relatively large session with 22 on-site participants, 14 fr
 
 == Interoperability Testing at CalConnect XXV in Zurich
 
-Posted October 18, 2012 
-
 This was a relatively large session with 22 on-site participants, 14 from Europe, representing the following organizations/implementations:
 
 * Apple (iCal Server, iCal Client, iCloud Server, iCloud Outlook Client, IOS 6)

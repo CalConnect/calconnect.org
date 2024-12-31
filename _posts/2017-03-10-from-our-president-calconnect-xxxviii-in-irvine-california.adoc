@@ -10,7 +10,6 @@ excerpt: This was the second time that the University of California, Irvine host
 
 == From Our President:  CalConnect XXXVIII in Irvine, California
 
-Posted March 10, 2017 
 image::link:{{'/assets/images/UCI%20Anteater.jpg' | relative_url}}["",480,480]
 
 This was the second time that the https://uci.edu/[University of California, Irvine] hosted a CalConnect event. UCI stipulates on its website 'We believe that true progress is made when different perspectives come together to advance our understanding of the world around us. And we enlighten our communities and point the way to a better future.'. Compare that to CalConnect's mission 'Our purpose is to improve all aspects of calendaring and scheduling [..] collaborating with other organizations with similar goals, and conducting periodic conferences [..] in a collegial atmosphere.' and it is clear that UCI was and is in a perfect position to host .. a place where colleagues and competitors come together solve common problems.

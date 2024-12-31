@@ -10,8 +10,6 @@ excerpt: Oracle recently announced the release of Oracle Communications Unified 
 
 == Oracle announces Oracle Communications Unified Communications Suite 7 update 1
 
-Posted October 26, 2010
-
 Oracle recently announced the release of Oracle Communications Unified Communications Suite 7 Update 1 at Oracle Open World in San Francisco. Oracle Communications Unified Communications Suite (formerly Sun Java System Communications Suite) is a carrier-grade, highly scalable, secure, and reliable messaging and collaboration platform. It enables service providers to quickly bring to market a full-featured communication platform -- one that takes advantage of existing and emerging standards, includes innovations in message management, and better enables cost-effective communication.
 
 Oracle Communications Unified Communications Suite 7 Update 1 includes the Oracle Communications Calendar Server that is based on CalDAV and related Calendaring and Scheduling standards. It enables users to manage and co-ordinate appointments, events, and tasks, on any CalDAV-compliant client. It has a rich feature set, a highly scalable and flexible deployment architecture and seamless integration with other suite products.

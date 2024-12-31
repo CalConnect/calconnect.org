@@ -10,8 +10,6 @@ excerpt: CalConnect welcomes Burbio as a member of the Calendaring and Schedulin
 
 == CalConnect Welcomes Burbio
 
-Posted August 26, 2014
-
 CalConnect welcomes http://burbio.com[Burbio] as a member of the Calendaring and Scheduling Consortium. Burbio, based in Pelham, New York, offers a calendar sharing and synchronization platform built for local communities such as suburban towns.
 
 

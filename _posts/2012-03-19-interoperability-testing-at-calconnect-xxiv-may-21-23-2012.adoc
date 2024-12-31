@@ -10,8 +10,6 @@ excerpt: At the upcoming CalConnect XXIV event we will as usual be offering an I
 
 == Interoperability Testing at CalConnect XXIV May 21-23 2012
 
-Posted March 19, 2012
-
 At the upcoming link:{{'/calconnect24' | relative_url}}[CalConnect XXIV] event we will as usual be offering an Interoperability Test Event all day Monday and Tuesday May 21-22, and Wednesday morning the 23rd. At this event we *will be testing* the following:
 
 * CalDAV Access

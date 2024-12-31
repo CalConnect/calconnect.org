@@ -10,8 +10,6 @@ excerpt: Several days ago the New York Times ran an article about paper versus e
 
 == Calendar Technology is not a “War”
 
-Posted August 4, 2011
-
 Several days ago the New York Times ran an article about paper versus electronic calendars which suggested a "`war`" between paper versus electronic calendars: http://www.nytimes.com/2011/07/31/fashion/calendar-wars-pit-electronics-against-paper.html?pagewanted=1&_r=2[].
 
 The article is interesting and makes valid points about why some choose to stay with paper calendars, but I would argue that positioning the distinction as a "`war`" between paper versus electronic calendars is wide of the mark. In actuality, the choice of paper or silicon, or both, is based on one's needs, likes, and comfort level.

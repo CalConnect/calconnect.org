@@ -10,8 +10,6 @@ excerpt: Our first three European conferences, in 2011, 2012, and 2013, were ver
 
 == CalConnect -- The Calendaring and Scheduling Consortium -- is returning to Europe this autumn
 
-Posted July 17, 2014
-
 Our first three European conferences, in 2011, 2012, and 2013, were very successful, and our European colleagues encouraged us to return again this autumn. Therefore, link:{{'/calconnect31' | relative_url}}[CalConnect XXXI] will take place in Bedford, United Kingdom, on September 29  October 3, 2014, hosted by https://ga.youcanbook.me[Youcanbook.me].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect event without having to incur the travel costs and time of coming to North America.

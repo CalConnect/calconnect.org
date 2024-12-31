@@ -10,8 +10,6 @@ excerpt: I'm honored to announce that as of yesterday, September 26th 2016, Thom
 
 == New Chair of TC CHAIRS
 
-Posted September 28, 2016
-
 I'm honored to announce that as of yesterday, September 26th 2016, Thomas SchÃ¤fer of 1&1 is the new Chair of TC CHAIRS. The Chair of TC Chairs has a central role in coordinating and progressing our work. Thomas takes over this role from Cyrus Daboo. On behalf of all members, my gratitude goes out to Cyrus who has served as chair for all but two years since 2006. In 2013 Cyrus received the link:{{'/membership/distinguished-service-award' | relative_url }}[CalConnect Distinguished Service Award], also for his work as chair.
 
 In his role of chair Cyrus has been very active and effective in authoring and progressing specifications and standards, identifying new work areas, conducting workshops and sessions, helping to progress our work and liaise with the IETF. And all of this with exemplary good spirit, humor and collegiality.

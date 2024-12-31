@@ -10,8 +10,6 @@ excerpt: CalConnect welcomes audriga as a member of the Consortium. audriga, bas
 
 == audriga Joins CalConnect
 
-Posted January 27, 2018 
-
 CalConnect welcomes https://www.audriga.com[audriga] as a member of the Consortium. audriga, based in Karlsruhe, Germany, provides email, groupware, and storage migration for customers, hosters and telcos of all sizes inclding white-label self-service customer onboarding and large-scale platform migrations. audriga can migrate nearly any kind of data such as files, emails, contacts, calendars, account settings and rules between virtually any types of system.
 
 

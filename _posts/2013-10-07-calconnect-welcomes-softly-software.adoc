@@ -10,8 +10,6 @@ excerpt: CalConnect welcomes Softly Software as a member of The Calendaring and 
 
 == CalConnect welcomes Softly Software
 
-Posted October 7, 2013 
-
 CalConnect welcomes Softly Software as a member of The Calendaring and Scheduling Consortium.
 
 http://www.softlysoftware.com[Softly Software], based in Bedford, United Kingdom, offers online scheduling tools.

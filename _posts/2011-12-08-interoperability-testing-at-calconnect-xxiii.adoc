@@ -10,8 +10,6 @@ excerpt: Our next Interoperability Testing Event will be at CalConnect XXIII, Ja
 
 == Interoperability Testing at CalConnect XXIII
 
-Posted December 8, 2011
-
 Our next Interoperability Testing Event will be at CalConnect XXIII, January 30-31 and Wednesday morning February 1. CalConnect XXIII will be hosted by Apple in Cupertino, California.
 
 Testing scenarios at this event will continue to evolve but at this point we are looking at the following possibilities:

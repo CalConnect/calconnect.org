@@ -10,8 +10,6 @@ excerpt: CalConnect offers two general public discussion lists for calendaring a
 
 == CalConnect Calendar Developers and System Administrators Public Discussion Lists
 
-Posted February 15, 2013 
-
 CalConnect offers two general public discussion lists for calendaring and scheduling, one primarily for calendaring system developers and one for system administrators of calendaring and scheduling systems. Each list has a home page on the CalConnect website with information about the purpose of the list, charter and rules of use, and a link to subscribe, maintain, and unsubscribe. Each list has well over 100 subscribers.
 
 CalConnect public discussion lists are moderated, and new subscription requests must be approved to be activated. Only subscribers may post to lists, or receive postings from the list. The list archives are publicly available.

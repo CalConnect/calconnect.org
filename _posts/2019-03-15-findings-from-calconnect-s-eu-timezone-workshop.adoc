@@ -10,8 +10,6 @@ excerpt: CalConnect held a timezone workshop on February 5th 2019, in conjunctio
 
 == Findings from CalConnect's EU Timezone workshop
 
-Posted March 15, 2019 
-
 CalConnect held a timezone workshop on February 5th 2019, in conjunction with its meeting in Zurich. This workshop was initiated to discuss the EU's proposal allowing member states the option to select permanently remain on either "Standard Time" or "Summer Time", addressing issues of governance and challenges of technical implementation. Workshop attendees represented a number of major vendors and the https://www.iana.org/time-zones[IANA tz database].
 
 Discussions revolved around three central themes:

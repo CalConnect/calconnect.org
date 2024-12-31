@@ -10,8 +10,6 @@ excerpt:
 
 == CalConnect XXXIX in Seattle, Washington
 
-Posted June 29, 2017 
-
 
 
 This was our fourth event in the Seattle area over the last 12+ years, but the first one in downtown Seattle, hosted by https://www.tandemcal.com/[Tandem]. In many ways this was a "`level-set`" meeting where we reviewed progress in a variety of new and ongoing areas; in particular were reports on the progress of the vCard enhancements TC-VCARD is working on, in conjunction with ISO TC-211, and the extensions of the new JSON-based data model for iCalendar data to include VTODOs and contacts.

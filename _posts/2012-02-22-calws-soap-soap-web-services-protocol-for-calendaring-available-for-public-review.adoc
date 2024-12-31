@@ -12,8 +12,6 @@ excerpt: |
 
 == CalWS-SOAP SOAP Web Services Protocol for Calendaring available for Public Review
 
-Posted February 22, 2012
-
 The SOAP version of the Web Services Protocol for Calendaring is now available for public review and comment for a period of at least one month; the public comment period will last until at least 22 March 2012. To review the document and comment, please see link:{{'/publicreviewdocuments' | relative_url}}[Public Review Documents] on the CalConnect website. (Note: This public review is being carried out in parallel with the public review of the OASIS WS-Calendar version of the protocol.)
 
 

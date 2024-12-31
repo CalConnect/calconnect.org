@@ -10,8 +10,6 @@ excerpt: CalConnect has posted a short report on Roundtable XVI, held October 7-
 
 == Report on CalConnect Roundtable XVI
 
-Posted October 19, 2009 
-
 CalConnect has posted a short report on Roundtable XVI, held October 7-9 at Apple in Cupertino, CA. The report may be found at link:{{'/roundtable16rpt' | relative_url}}[Roundtable XVI].
 
 

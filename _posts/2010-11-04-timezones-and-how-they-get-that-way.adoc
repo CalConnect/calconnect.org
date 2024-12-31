@@ -10,8 +10,6 @@ excerpt: With this weekend's transition in the U.S. from Daylight Saving Time to
 
 == Timezones and how they get that way
 
-Posted November 4, 2010
-
 With this weekend's transition in the U.S. from Daylight Saving Time to Standard Time, let's resume the discussion of timezones we started in a posting earlier this month on this blog, "`Shifting Time Zones on Online Calendars  A CalConnect Perspective`". One of the way stations in our journey to understanding the issues raised in David Pogue's New York Times  posting of October 13th, "`Shifting Time Zones on Online Calendars`" is understanding timezones at a high level.
 
 For at least the last 200 years, people have been grappling with non-interoperable systems of weights and measures when necessity demanded greater interoperability. Len Adler's "`The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World`" is the (surprisingly) fascinating story of the effort to establish and standardize the length of the meter. As Adler writes,

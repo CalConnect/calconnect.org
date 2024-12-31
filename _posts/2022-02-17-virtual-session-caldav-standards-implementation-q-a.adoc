@@ -11,8 +11,6 @@ excerpt: |
 
 == Virtual Session:  CalDAV Standards, Implementation, Q&A
 
-Posted February 17, 2022
-
 *Virtual Session: CalDAV Standards, Implementation, Q&A -- 3 MARCH 2022*
 
 CalConnect is planning a virtual session via Zoom to provide some assistance and information for developers working on implementations of CalDAV.

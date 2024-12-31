@@ -10,8 +10,6 @@ excerpt: CalConnect recently published a Starter List of CalDAV and CardDAV Stan
 
 == Starter List of CalDAV and CardDAV Standards and Specifications
 
-Posted May 27, 2014 
-
 CalConnect recently published a link:{{'/starterlistcaldavcarddav' | relative_url}}[Starter List of CalDAV and CardDAV Standards and Specifications], a list of specifications and protocols recommended to people getting started with developing a CalDAV and/or CardDAV server but not yet fully conversant with the specs. The list is divided by major topic (HTTP, CalDAV, etc.) and each spec is identified by a short description indicating what it is and what it is used for in this context.
 
 This page may be found in the link:{{'/resources' | relative_url}}[RESOURCES] section of the CalConnect website; see the link:{{'/developers' | relative_url}}[Developer Resources] entry in the sidebar.

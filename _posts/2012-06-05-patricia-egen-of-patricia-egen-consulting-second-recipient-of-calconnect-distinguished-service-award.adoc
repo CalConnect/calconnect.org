@@ -10,8 +10,6 @@ excerpt: CalConnect is honored to announce that Patricia Egen, of Patricia Egen 
 
 == Patricia Egen of Patricia Egen Consulting Second Recipient of CalConnect Distinguished Service Award
 
-Posted June 5, 2012
-
 CalConnect is honored to announce that Patricia Egen, of Patricia Egen Consulting and the founder of CalConnect, is the second recipient of the CalConnect Service Award. The award was presented at CalConnect XXIV on May 24th, 2012.
 
 Pat has been involved with calendaring and scheduling for many years, and was responsible for a mainframe calendaring system, yes -- such things really existed, some years ago. She became a champion for users and interoperability long ago, leading to her involvement in calendaring and scheduling standards in the IETF, which took over the original calendaring specification and established the CALSCH Working Group to move forward with calendaring standards. Pat became co-chair of CALSCH in 1999, and she organized the initial interoperability testing efforts.

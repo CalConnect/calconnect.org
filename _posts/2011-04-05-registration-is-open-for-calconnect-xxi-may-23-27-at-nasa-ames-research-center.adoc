@@ -10,8 +10,6 @@ excerpt: Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA A
 
 == Registration is open for CalConnect XXI May 23-27 at NASA Ames Research Center
 
-Posted April 5, 2011
-
 Registration is now open for CalConnect XXI, May 23-27, 2011, at NASA Ames Research Center, Moffett Field, Mountain View, California. Please see link:{{'/calconnect21' | relative_url}}[/calconnect21] for logistics and registration information.
 
 As usual, we will be conducting an Interoperability Test Event Monday-Wednesday, May 23-25. Information about the Test Event is at link:{{'/iop1105' | relative_url}}[]. The Roundtable Members  Meeting will be Wednesday-Friday May 25-27.

@@ -10,8 +10,6 @@ excerpt: Registration is now open for CalConnect's first event in Asia CalConnec
 
 == CalConnect's first Asian event:  CalConnect XXXVI in Hong Kong
 
-Posted February 2, 2016
-
 Registration is now open for CalConnect's first event in Asia: link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }}[CalConnect XXXVI], April 18-22 2016, in Hong Kong, hosted by http://www.ribose.com/[Ribose] and http://www.ogcio.gov.hk/[OGCIO] (the Office of the Government Chief Information Officer).
 
 CalConnect XXXVI will be a first for us in other ways: in addition to being our first Asian event, it will be our first CalConnect as part of a larger event, Hong Kong's https://www.itfest.hk/template[2016 ITFEST]. This three-week series of programs, sessions, forums and other IT-related programming will include a https://www.itfest.hk/template?series=2&id=141&lang=en#[CalConnect Public Day] on Wednesday the 20th, and a CalConnect Seminar Tuesday evening at Hong Kong University.

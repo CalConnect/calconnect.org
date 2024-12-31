@@ -10,8 +10,6 @@ excerpt: TC XML has published its Proposal for iCalendar XML Representation, and
 
 == TC XML has published “iCalendar XML Representation”
 
-Posted June 9, 2009
-
 TC XML has published its Proposal for iCalendar XML Representation, and the proposal has been submitted to the IETF as an Internet Draft. Please see link:{{'/publications/CD0904%20iCalendar%20XML%20Representation.pdf' | relative_url}}[iCalendar XML Representation]. This Proposal defines an XML format that allows iCalendar data to be converted to XML, and then back to iCalendar, without losing any semantic meaning in the data.
 
 CalConnect Proposals are experimental specifications which may be submitted to the IETF or other standards bodies for progression to become standards.

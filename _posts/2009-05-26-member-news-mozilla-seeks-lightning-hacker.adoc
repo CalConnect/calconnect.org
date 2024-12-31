@@ -10,8 +10,6 @@ excerpt: Mozilla Messaging wants to help ensure that current users of the Lightn
 
 == Member News -- Mozilla Seeks Lightning Hacker
 
-Posted May 26, 2009 
-
 Mozilla Messaging wants to help ensure that current users of the Lightning calendaring extension for Thunderbird 2 will be able to migrate to a new (pre-1.0) version that works well with Thunderbird 3.0.
 
 Mozilla is looking for a "`hacker`" (contractor) with strong open-source engineering and project management background to help make that happen. See http://weblogs.mozillazine.org/dmose/archives/2009/05/lightning_hacker_sought.html[Mozilla Seeks Lightning Hacker].

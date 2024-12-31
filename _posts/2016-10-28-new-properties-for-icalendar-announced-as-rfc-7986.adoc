@@ -10,8 +10,6 @@ excerpt: The IETF has announced that New Properties for iCalendar, a CalConnect 
 
 == New Properties for iCalendar Announced as RFC 7986
 
-Posted October 28, 2016 
-
 The IETF has announced that New Properties for iCalendar, a CalConnect specification submitted to the IETF, has been approved and published as RFC 7986. This document defines a set of new properties for iCalendar data and extends the use of some existing properties to the entire iCalendar  object.
 
 RFC 7986, New Properties for iCalendar, https://tools.ietf.org/html/rfc7986 was developed in conjunction with multiple Technical Committees. Following submission to the IETF it was subsequently adopted by the IETF CALEXT workng group and progressed to final submission.

@@ -10,8 +10,6 @@ excerpt: CalConnect is focused on the interoperable exchange of calendaring and 
 
 == In calendaring, success means the right thing, the right way!
 
-Posted December 27, 2010
-
 CalConnect, as you learn from our web site, link:{{'/,' | relative_url}}[/,] "`is focused on the interoperable exchange of calendaring and scheduling information between dissimilar programs, platforms, and technologies. The Consortium's mission is to promote general understanding of and provide mechanisms to allow interoperable calendaring and scheduling methodologies, tools and applications to enter the mainstream of computing.`"
 
 We encourage, promote, and provide assistance in doing the "`right thing`" with respect to interoperable calendaring. Sometimes, however, doing the right thing is not quite enough  you need to do the right thing the "`right way`". A recent example helps illustrate this point.

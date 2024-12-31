@@ -10,8 +10,6 @@ excerpt: Registration is now open for CalConnect XX, February 7-11, 2011, at the
 
 == Registration has opened for CalConnect XX at UC Berkeley, February 7-11 2011
 
-Posted December 27, 2010
-
 Registration is now open for CalConnect XX, February 7-11, 2011, at the University of California, Berkeley, in Berkeley California. Please see link:{{'/calconnect20' | relative_url}}[/calconnect20] for logistics and registration information for the Roundtable and for the Interoperability Test Events.
 
 Note that we will be conducting both a regular Interoperability Test Event and a Mobile Calendaring Interoperability Test Event on February 7-9, 2011. More information about the regular IOP Test Event is at link:{{'/iop1102' | relative_url}}[]. Information about the Mobile Calendaring IOP Test Event is at link:{{'/miop1102' | relative_url}}[].

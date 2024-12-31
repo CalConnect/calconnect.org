@@ -10,8 +10,6 @@ excerpt: A petition has been initiated on the White House petition site to elimi
 
 == On a recent petition to eliminate the time change caused by Daylight Saving Time
 
-Posted March 6, 2013
-
 A petition has been initiated on the https://petitions.whitehouse.gov/petition/eliminate-bi-annual-time-change-caused-daylight-savings-time/ShChxpKh[White House petition site] to eliminate the twice-yearly time shift caused by Daylight Saving Time, either by eliminating it completely or imposing it all year.
 
 CalConnect has no stance either for or against the suggestion itself. However, we strongly advise that any decision to change the current DST rules be made long in advance to allow enough time for the necessary changes to software and computer systems which accommodate DST.

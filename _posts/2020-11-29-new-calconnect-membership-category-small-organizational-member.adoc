@@ -10,8 +10,6 @@ excerpt: CalConnect has added a new membership category, “small organizational
 
 == New CalConnect Membership Category: Small Organizational Member
 
-Posted November 29, 2020
-
 CalConnect has added a new membership category, "`small organizational member`", effective immediately. This membership category is intended for very small organizations such as independent client developers, that have minimal staff and revenue. The membership fee is $1,000 per year.
 
 Please see link:{{'/membership/membership-categories-and-fees' | relative_url}}[Membership Categories and Fees] and link:{{'/membership/membership-application' | relative_url }}[Membership Application] for more information, or contact mailto:executive.director@calconnect.org[executive.director@calconnect.org] with any questions.

@@ -10,8 +10,6 @@ excerpt: CalConnect XXXIII consists of an Interoperability Test Event Monday thr
 
 == Highlighted Sessions at the CalConnect XXXIII Conference in Bucharest
 
-Posted April 27, 2015
-
 CalConnect XXXIII consists of an Interoperability Test Event Monday through Wednesday noon May 18-20, and a CalConnect Conference Wednesday afternoon through Friday May 20-22. The schedule for the entire week may be seen at link:{{'/calconnect33#schedule' | relative_url}}[CalConnect XXXIII Conference Schedule].
 
 We would like to draw your attention to a few highlighted conference sessions:

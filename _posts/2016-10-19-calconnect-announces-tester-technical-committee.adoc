@@ -10,8 +10,6 @@ excerpt: A new Technical Committee, TC TESTER, has been formed to improve testin
 
 == CalConnect Announces TESTER Technical Committee
 
-Posted October 19, 2016 
-
 A new Technical Committee, TC TESTER, has been formed to improve testing tools for CalDAV and CardDAV. The TC is building on the CalDAV Tester from the Apple Darwin site, making it less vendor-specific and defining smaller sets of tests to target specific features, provide a quick regression test, or allow exclusion or inclusion of individual tests. New tests can then be developed in parallel with the creation or extension of standards. A long term possibility could be to evolve the new tools into a reference client for CalDAV and CardDAV servers. See link:{{'/about/technical-committees/tc-tester' | relative_url }}[].
 
 

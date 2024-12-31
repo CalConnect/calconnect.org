@@ -10,7 +10,5 @@ excerpt: There's a brief report on Roundtable XIV, up on the CalConnect website.
 
 == Report on Roundtable XIV
 
-Posted March 2, 2009
-
 There's a brief report on Roundtable XIV, up on the CalConnect website at link:{{'/roundtable14rpt' | relative_url}}[Roundtable XIV Report].
 

@@ -10,8 +10,6 @@ excerpt: The CalConnect XLI web page is located at link:{{'/events/calconnect-xl
 
 == Registration is now open  for CalConnect XLI in Sunnyvale, California, January 29 - February 2, 2018, hosted by Oath
 
-Posted November 15, 2017 
-
 The _CalConnect XLI_ web page is located at link:{{'/events/calconnect-xli-winter-2018' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, etc.
 
 The meeting venue is at 700 First Avenue, Building E, Sunnyvale, California 94089 (note: the building is likely to still have the "`Yahoo`" sign). There is free parking available.
