@@ -72,7 +72,6 @@ Please see link:{{'/iop1110' | relative_url}}[CalConnect XXII IOP Test Event] fo
 
 **The existing REST specification will also have a SOAP version published before October. CalWS is being developed in support of the WS Calendar specification from OASIS as part of the NIST Smart Grid initiative; however it is a general implementation of calendaring and scheduling operations via web services.
 
-+
 *Technical Workshops and Symposia*
 
 Thursday and Friday mornings will be dedicated to four 1.5 hour workshops and symposia. The workshops are included in the Roundtable Registration. We have not finalized the subjects as yet but the areas under discussion include:

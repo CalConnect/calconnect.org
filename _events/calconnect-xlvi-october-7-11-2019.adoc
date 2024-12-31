@@ -30,7 +30,7 @@ Recent Changes:
 
 CalConnect XLVI will be held in Philadelphia, Pennsylvania, hosted by http://www.fastmail.com[FastMail], In addition to our regular conference Monday-Thursday we will have an open format working day on Friday.
 
-The location is 1500 Walnut Street, a shared conference facility. . This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. CalConnect XLVI is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration][].
+The location is 1500 Walnut Street, a shared conference facility. . This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. CalConnect XLVI is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the conference at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration].
 
 Testing Interests: We will contact all those who register for CalConnect XLVI as to their testing interests. There will be time scheduled Monday morning to initiate testing plans and agree on partners, and opportujnities through the week for ongoing work.
 

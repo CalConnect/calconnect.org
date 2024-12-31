@@ -91,7 +91,6 @@ The exact testing scenarios will be decided based on who is coming and what (and
 
 Please see link:{{'/iop1409' | relative_url}}[CalConnect XXXI Interoperability Test Event] for more information.
 
-+
 *Technical Workshops and Symposia*
 
 Thursday and Friday mornings will be dedicated to workshops and symposia, which are included in the Conference Registration. The specific events are in the early planning stages; the link:{{'/calconnect31#schedule' | relative_url}}[CalConnect XXXI Schedule] will reflect more detail as soon as we have it.

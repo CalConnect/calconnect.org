@@ -23,11 +23,11 @@ CalConnect XIII, consisting of both a CalConnect Interoperability Test Event, fo
 
 The IOP Testing will take place all day Monday and Tuesday, and Wednesday morning, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 8th, and last through early afternoon Friday the 10th. An optional Introductory Q & A about CalConnect is scheduled at 11:00 on Wednesday the 8th.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0810.shtml[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0810.shtml' | relative_url}}[IOP Test Event October 2008] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
-_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. Please see http://calconnect.org/miop0811.shtml[Mobile IOP Test Event November 4-6 2008] for more information about the next Mobile IOP Test Event._
+_*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. Please see link:{{'/miop0811.shtml' | relative_url}}[Mobile IOP Test Event November 4-6 2008] for more information about the next Mobile IOP Test Event._
 
 *Roundtable XIII:* The Roundtable Members Meeting will as usual offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. A Technical Preview of current work is also planned; see below.
 
@@ -45,7 +45,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 *Monday, Tuesday, Wednesday,* and *Friday* we will be in *Building 2, Training Rooms 5&6* at the *Yahoo! Mission College Campus in Santa Clara* at 2821 Mission College Boulevard, Santa Clara, California, 95054. (This location is about two miles south of the main Yahoo! Sunnyvale campus.) http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&lat=37.390832&lon=-121.978496&zoom=15&q1=2821%20Mission%20College%20Blvd%2C%20Santa%20Clara%2C%20CA%2C%2095054&gid1=31215286[Yahoo! Mission College Campus]. There are no parking restrictions at the Mission College Campus location; you may park wherever you find a place. This location is also within walking distance from the hotels listed below.
 
-On **Thursday ONLY**, we will meet all day in *Building F, Classroom "SS MINNOW"* on the *Yahoo! Main Campus in Sunnyvale* at 1350 North Mathilda Avenue, Sunnyvale, California 94089 http://maps.yahoo.com/index.php?ard=1&q1=1350+North+Mathilda+Avenue%2C+Sunnyvale%2C+CA+94089&q2=#mvt=m&lat=37.415728&lon=-122.024625&zoom=15&q1=1350%20North%20Mathilda%20Avenue%2C%20Sunnyvale%2C%20CA%2094089[Yahoo! Main Campus Location]. Coming from US 101 on Mathilda Avenue, right on First / Bordeaux Avenue and then right into parking lots. There is ample parking and no problem with security. http://calconnect.org/yahoo-sunnyvale-campus.png[Arrival at Building F]. Alternatively, you may take the *Yahoo! shuttle busses between the campuses* (they run every 20 minutes). http://calconnect.org/Yahoo%20Intercampus.shuttle.schedule.1.28.2008.pdf[Shuttle Schedule and pickup/dropoff points].
+On **Thursday ONLY**, we will meet all day in *Building F, Classroom "SS MINNOW"* on the *Yahoo! Main Campus in Sunnyvale* at 1350 North Mathilda Avenue, Sunnyvale, California 94089 http://maps.yahoo.com/index.php?ard=1&q1=1350+North+Mathilda+Avenue%2C+Sunnyvale%2C+CA+94089&q2=#mvt=m&lat=37.415728&lon=-122.024625&zoom=15&q1=1350%20North%20Mathilda%20Avenue%2C%20Sunnyvale%2C%20CA%2094089[Yahoo! Main Campus Location]. Coming from US 101 on Mathilda Avenue, right on First / Bordeaux Avenue and then right into parking lots. There is ample parking and no problem with security. link:{{'/yahoo-sunnyvale-campus.png' | relative_url}}[Arrival at Building F]. Alternatively, you may take the *Yahoo! shuttle busses between the campuses* (they run every 20 minutes). link:{{'/Yahoo%20Intercampus.shuttle.schedule.1.28.2008.pdf' | relative_url}}[Shuttle Schedule and pickup/dropoff points].
 
 *Visitor Registration:* We will provide a list of registered individuals to our hosts the week prior to the event. When you arrive, come to Building 2, and a visitor badge will be waiting for you; you will then be "buzzed" into the secure area. _If there is no badge waiting for you, please have them check with Training Rooms 5&6 or call 707-498-2238 (Dave Thewlis)._
 
@@ -209,7 +209,6 @@ Bldg 2, Training Rooms 5&6* +
 ^3^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^4^All Roundtable participants are invited to the group dinner
 
-+
 Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
@@ -279,5 +278,4 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 
 |===
 
-+
 Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session during the Roundtable.

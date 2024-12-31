@@ -67,7 +67,6 @@ CalConnect XLIII is open to members, and to non-members as observers.
 * Development of data formats, protocols, standards (incl. Whiteboard work).
 * Joint work on CalConnect efforts such as the CalDAV Tester, iCal4J, DEVGUIDE, perhaps a reference specification for CalDAV or JSCalendar or...
 * *Test Lab*
-+
 : testing of new components, testing and resolution of bugs and issues, test requests from TCs to confirm application behavior.
 
 *Public Workshop:* Monday 24 September, 1600-1730 - Introduction into Calendaring, Scheduling, address book and Date&Time, followed by a reception at 1800. See https://www.meetup.com/de-DE/TEC-Campus/events/252358527/ for more information.

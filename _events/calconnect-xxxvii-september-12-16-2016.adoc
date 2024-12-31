@@ -141,7 +141,6 @@ a| *Monday 12 September* +
 1430-1530 Testing +
 1530-1600 Break and Refreshments +
 1600-1800 Testing +
-+
 1915-2130 Test Event Dinner (TBA)
 a| *Tuesday 13 September* +
 0800-0830 Coffee & Rolls +
@@ -257,14 +256,10 @@ Any vendor or organization wishing to test a calendaring and scheduling implemen
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
-+
 : Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
-+
 : Register one to six people as
-+
 link:{{'/events/observers' | relative_url }}[observers]
-+
 for the CalConnect Interoperability Test Event.
 
 == Interoperability Event Scenarios

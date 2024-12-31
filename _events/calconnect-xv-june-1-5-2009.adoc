@@ -26,7 +26,7 @@ CalConnect XV, consisting of a CalConnect Interoperability Test Event and a CalC
 
 The IOP Testing will take place all day Monday and Tuesday June 1-2, and Wednesday morning, ending at noon on Wednesday June 3rd. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0906.shtml[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0906.shtml' | relative_url}}[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -48,7 +48,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in Room 202 of the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores, California 94065. For a view of the immediate area and the location of the Oracle Conference Center, see http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=350+oracle+parkway,+redwood+shores,+CA&sll=37.531799,-122.264287&sspn=0.003233,0.006952&ie=UTF8&ll=37.532012,-122.266631&spn=0.006466,0.017982&t=h&z=17&iwloc=A[Oracle Conference Center]. For information on parking and driving directions to get to the Conference Center, see http://calconnect.org/OCC.doc[OCC.doc]. +
+The Interoperability Test Event and the Roundtable will take place in Room 202 of the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores, California 94065. For a view of the immediate area and the location of the Oracle Conference Center, see http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=350+oracle+parkway,+redwood+shores,+CA&sll=37.531799,-122.264287&sspn=0.003233,0.006952&ie=UTF8&ll=37.532012,-122.266631&spn=0.006466,0.017982&t=h&z=17&iwloc=A[Oracle Conference Center]. For information on parking and driving directions to get to the Conference Center, see link:{{'/OCC.doc' | relative_url}}[OCC.doc]. +
 
 
 [[transportation]]

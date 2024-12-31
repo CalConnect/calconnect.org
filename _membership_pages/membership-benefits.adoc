@@ -3,7 +3,7 @@ layout: page
 title:  Benefits of Membership
 type: membership
 ---
-= Benefits of Membership
+== Benefits of Membership
 
 All members of CalConnect have the same benefits and rights regardless
 of membership type or membership fee. Membership benefits include:

@@ -28,7 +28,7 @@ The Interoperability Test Events will take place all day Monday and Tuesday Janu
 
 *CalConnect Interoperability Test Events*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
 
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1201.shtml[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available.
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1201.shtml' | relative_url}}[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -115,7 +115,7 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
  1200-1215 Relocate to IL4/2 GARAGE conference room +
  1230-1330 Lunch +
  1330-1430 BOF: +
-http://calconnect.org/calconnect23.shtml#bof1[Update vs replacement of calendar and contact data] +
+link:{{'/calconnect23.shtml#bof1' | relative_url}}[Update vs replacement of calendar and contact data] +
  1430-1530 Testing +
  1530-1600 Break +
  1600-1800 Testing
@@ -130,7 +130,7 @@ http://calconnect.org/calconnect23.shtml#bof1[Update vs replacement of calendar 
  1000-1030 Break +
  1030-1230 Testing +
  1230-1330 Lunch and BOF +
-http://calconnect.org/calconnect23.shtml#bof2[Auto-discovery and account provisioning] +
+link:{{'/calconnect23.shtml#bof2' | relative_url}}[Auto-discovery and account provisioning] +
  1330-1530 Testing +
  1530-1600 Break +
  1600-1800 Testing
@@ -212,7 +212,6 @@ _Piano Bar, First Floor, Infinite Loop 4_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-+
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
@@ -324,5 +323,4 @@ To be established by mid-January
 
 [[bof2]] This BOF will discuss various ways to improve the current process for auto-discovery of server and automatic account provisioning. We will discuss the current standards approach of SRV records + .well-known resource, and look at an alternative pure HTTP solution using the webfinger proposal.
 
-+
  Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.

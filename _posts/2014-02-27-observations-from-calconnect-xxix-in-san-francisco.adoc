@@ -25,21 +25,15 @@ Six of the seven new "`link:{{'/emergentvendor' | relative_url}}[Emergent Vendor
 *Trending Technical Committees (TC s) and Provisional Committees (PC s)*
 
 * link:{{'/about/technical-committees/tc-push' | relative_url}}[TC PUSH]
-+
 (PUSH protocol for CalDAV and CardDAV)
 * link:{{'/about/technical-committees/tc-ischedule' | relative_url}}[TC ISCHEDULE]
-+
 (intersystem iTIP scheduling via HTTP)
 * link:{{'/about/technical-committees/tc-tasks' | relative_url}}[TC TASKS]
-+
 (VTODO extensions for new scheduling areas such as logistics, project and energy management)
 * link:{{'/about/technical-committees/tc-api' | relative_url}}[TC API]
-+
 (Abstract API for Calendaring and Scheduling) was established from the provisional committee of the same name
 * link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY]
-+
 Demo-ed a prototype web client supporting
-+
 http://tools.ietf.org/html/draft-york-vpoll-00[VPOLL]
 * A Contacts Sharing Provisional Committee was established to look at developing a single standard for Contacts Sharing
 

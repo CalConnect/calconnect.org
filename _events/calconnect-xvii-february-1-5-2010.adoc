@@ -26,7 +26,7 @@ CalConnect XVII, consisting of a CalConnect Interoperability Test Event, and a C
 
 The IOP Testing will take place all day Monday and Tuesday February 1-2, and Wednesday morning February 3, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
 
-*CalConnect Interoperability Test Events*: At this meeting, we will host a regular CalConnect Interoperability Test Event. The IOP Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1002.shtml[IOP Test Event February 2010] for current information. Check back often as these will be updated as more information becomes available.
+*CalConnect Interoperability Test Events*: At this meeting, we will host a regular CalConnect Interoperability Test Event. The IOP Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1002.shtml' | relative_url}}[IOP Test Event February 2010] for current information. Check back often as these will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -75,37 +75,45 @@ Please note that you must have booked your room and guaranteed with a credit car
 |===
 |
 .<a| *The Ayres Hotel & Suites +
- Costa Mesa / Newport Beach* +
- 325 Bristol Street +
- Costa Mesa, CA 92626 +
- Phone: +1 714 549 0300 +
+Costa Mesa / Newport Beach* +
+325 Bristol Street +
+Costa Mesa, CA 92626 +
+Phone: +1 714 549 0300 +
 http://www.ayreshotels.com/costamesa/ +
- UCI CalConnect rate $79/night single/double +
- Call 800-322-9992 to book your room; +
- request the "CalConnect Group Block". +
- Includes complimentary parking and wireless internet, +
- breakfast buffet, airport and local shuttle.* +
- See http://calconnect.org/CalConnect17%20Ayres%20Hotel.pdf[Ayres Hotel & Suites].
+UCI CalConnect rate $79/night single/double +
+Call 800-322-9992 to book your room; +
+request the "CalConnect Group Block". +
+Includes complimentary parking and wireless internet, +
+breakfast buffet, airport and local shuttle.* +
+See link:{{'/CalConnect17%20Ayres%20Hotel.pdf' | relative_url}}[Ayres Hotel & Suites].
 |
 .<a| *Atrium Hotel* +
- 18700 MacArthur Blvd. +
- Irvine, CA 92612 +
- (949) 833-2770, Fax: (949) 757-0330 +
- UCI Rate $89/night single/double +
+18700 MacArthur Blvd. +
+Irvine, CA 92612 +
+(949) 833-2770, Fax: (949) 757-0330 +
+UCI Rate $89/night single/double +
 http://www.atriumhotel.com/ +
- Includes complimentary parking and in-room internet, +
- breakfast buffet, airport and local shuttle.
+Includes complimentary parking and in-room internet, +
+breakfast buffet, airport and local shuttle.
 
 |===
 
-*We hope to arrange scheduled shuttle runs to and from the Ayres Hotel and the UCI Campus in the morning and evening. All registered participants will be asked prior to the event if they plan to use the shuttle so we can tell the hotel how many people to expect.
+We hope to arrange scheduled shuttle runs to and from the Ayres Hotel and the
+UCI Campus in the morning and evening. All registered participants will be asked
+prior to the event if they plan to use the shuttle so we can tell the hotel how
+many people to expect.
 
-If you have a preferred hotel chain or your company does, the usual hotel chains have hotels in the area; these hotels are mostly clustered more or less in the vicinity of the airport. There are no hotels within comfortable walking distance of the UCI campus.
+If you have a preferred hotel chain or your company does, the usual hotel chains
+have hotels in the area; these hotels are mostly clustered more or less in the
+vicinity of the airport. There are no hotels within comfortable walking distance
+of the UCI campus.
 
 [[test-schedule]]
 == Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and
+Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday
+and runs until early afternoon on Friday.
 
 [cols=3]
 |===
@@ -153,7 +161,9 @@ http://www.steelheadbrewery.com[www.steelheadbrewery.com]
 [[conference-schedule]]
 == Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and
+Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday
+and runs until early afternoon on Friday.
 
 [cols=3]
 |===
@@ -209,8 +219,9 @@ Costa Mesa/Newport Beach_
 ^5^All Roundtable participants are invited to the group dinner on Thursday +
 ^6^The User Special Interest Group will meet separately from the IOP test event.
 
-+
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
+Breakfast, lunch, and morning and afternoon breaks will be served to all
+participants in the Roundtable and the IOP test events and are included in your
+registration fees.
 
 |===
 [[agendas]]

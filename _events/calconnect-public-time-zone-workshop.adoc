@@ -37,16 +37,21 @@ Work towards mitigating the effect of tz (such as DST) changes in the future in 
 
 *Goals:*
 
-Collect known and anticipated issues, data not anecdotes. +
- Develop guidance and best practices for people, governments, organizations on how to deal with it, what could go wrong if not done correctly +
- Identify technologies and methodologies, existing or practical to develop and implement that could ease tz change transitions, e.g. TZDIST, Apple and ?Google? variants
+* Collect known and anticipated issues, data not anecdotes.
+
+* Develop guidance and best practices for people, governments, organizations on
+how to deal with it, what could go wrong if not done correctly
+
+* Identify technologies and methodologies, existing or practical to develop and
+implement that could ease tz change transitions, e.g. TZDIST, Apple and ?Google?
+variants
 
 *Content (proposed):*
 
-Presentation about the EU proposal and possible political consequences +
- Presentation on TZDIST and variants and what they do (and don't do) +
- Open discussion on known and anticipated issues +
- Guidance and best practices (separate discussions on vendors, consumers, governments?)
+* Presentation about the EU proposal and possible political consequences
+* Presentation on TZDIST and variants and what they do (and don't do)
+* Open discussion on known and anticipated issues
+* Guidance and best practices (separate discussions on vendors, consumers, governments?)
 
 *Possible Participants:*
 

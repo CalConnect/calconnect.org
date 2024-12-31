@@ -26,7 +26,8 @@ Recent Changes:
 *Introduction*
 
 CalConnect intends to hold several Virtual Conference days or specialized topic sessions in the Spring of 2022. Detailed planning has not yet begun as of mid-January but we hope to have a schedule developed over the next few weeks. These may follow the model we used for the Autumn 2021 Virtual Conference, or the related
-link:{{'/events/calconnect-calendarfest-2021' | relative_url}}[CalendarFest 2021] or specialized one-day in-depth topics.
+link:{{'/events/calconnect-calendarfest-2021' | relative_url}}[CalendarFest 2021]
+or specialized one-day in-depth topics.
 
 
 [[registration]]

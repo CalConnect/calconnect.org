@@ -28,7 +28,7 @@ An informal __Introductory Q & A about CalConnect__, intended for first-time att
 
 *CalConnect Interoperability Test Event*:
 
-The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please seehttp://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available.
+The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please seelink:{{'/iopnextalias.html' | relative_url}}[Next CalConnect Interoperability Test Event]for current information. Check back often as this will be updated as more information becomes available.
 
 _Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
@@ -57,7 +57,7 @@ Dress at all CalConnect events is casual to business casual.
 
 Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
-*Special Registration Fees for first-time attendees*: For CalConnect XXXIV, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the http://calconnect.org/iopregparticipant.shtml[Interoperability Test Event Registration], and $0 on the http://calconnect.org/conferencereg.shtml[Conference Registration], for each person being registered.
+*Special Registration Fees for first-time attendees*: For CalConnect XXXIV, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the link:{{'/iopregparticipant.shtml' | relative_url}}[Interoperability Test Event Registration], and $0 on the link:{{'/conferencereg.shtml' | relative_url}}[Conference Registration], for each person being registered.
 
 [[location]]
 == Location

@@ -51,10 +51,10 @@ Administrative Contact if you have identified one.
 *The Calendaring and Scheduling Consortium* +
 226 3rd St +
 Troy, NY 12180 +
-USA 
+USA
 
-+1 617 816 0041 
++1 617 816 0041
 
 Mike Douglass, +
 Executive Director +
-mailto:Dave.Thewlis@calconnect.org[calconnect@calconnect.org]
+mailto:calconnect@calconnect.org[calconnect@calconnect.org]

@@ -4,7 +4,8 @@ title:  Is CalConnect Right for You? Are You Right for CalConnect?
 type: membership
 ---
 :page-liquid:
-= Is CalConnect Right for You? Are You Right for CalConnect?
+
+== Is CalConnect Right for You? Are You Right for CalConnect?
 
 Recently (August 2013), we welcomed Ribose as the newest CalConnect
 member, and our first member organization based in Asia. In our
@@ -65,13 +66,15 @@ CalConnect is anchored in these precepts:
 . CalConnect is a membership driven organization – multidimensional
 diversity, and broad, engaged participation are the keys to
 sustainability and maximum impact.
+
 . CalConnect needs to influence the world, and CalConnect needs to be
 influenced by the world, not just its membership.
+
 . The future of calendaring and the future of CalConnect are intertwined
 – CalConnect helps shape the future of calendaring, and the future of
 calendaring will surely shape CalConnect.
 
-== So, Is CalConnect Right for You? Are you Right for CalConnect?
+=== So, Is CalConnect Right for You? Are you Right for CalConnect?
 
 If you are trying to solve a problem, find a solution, build a product,
 help drive the standards, or simply get to know the people driving

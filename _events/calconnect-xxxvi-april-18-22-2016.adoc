@@ -43,7 +43,7 @@ CalConnect XXXVI, consisting of a CalConnect Interoperability Test Event and a C
 
 The Interoperability Test Event will take place all day Monday and Tuesday April 18-19. Wednesday April 20 will be an https://www.itfest.hk/template?series=2&id=141&lang=en#[all-day Public Event] hosted by CalConnect at the https://www.itfest.hk/template[Hong Kong ITFest]. The Conference will be Thursday and Friday, April 21-22.
 
-*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see http://calconnect.org/iopnextalias.html[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available.
+*CalConnect Interoperability Test Event*: The Interoperabilty Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see link:{{'/iopnextalias.html' | relative_url}}[Next CalConnect Interoperability Test Event]for current information (this will refer to the January CalConnect event until mid-January and then will be reinitialized for CalConnect XXXVI; however the link offers useful information about Interoperabilty Test Events in general). Check back often as this will be updated as more information becomes available.
 
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
@@ -163,7 +163,7 @@ Cancellation policy: before 17 March 1 night charged; after 17 March full booked
 To book contact: +
 Ms Wency Au, Assistant Conferences & Events Manager>br> mailto:wency.au@lemeridien.com[wency.au@lemeridien.com] +
 +852 2980 7812 (Monday to Friday (0900 -- 1800hrs)) +
-Or download this http://calconnect.org/lemeridienbookingform.pdf[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._)
+Or download this link:{{'/lemeridienbookingform.pdf' | relative_url}}[booking form], fill out and fax to the number provided on the form. _(You may also send the completed booking form as an attachment to Ms. Au at her e-mail address above; if you do this you may leave the credit card information out and call her with those details later to complete your booking._)
 
 http://www.mandarinoriental.com/landmark/[*The Landmark Mandarin Oriental*] +
 15 Queen's Road Central, Hong Kong +
@@ -191,7 +191,7 @@ Cancellation policy: before 17 March no penalty; after 17 March 1 night charged.
 
 To book contact their reservation Hotline: +852 2820 4202 +
 Quote "CalConnect Conference" to obtain the rate by phone booking. Email: mailto:mohkg-reservations@mohg.com[mohkg-reservations@mohg.com] +
-Or download this http://calconnect.org/mandarinorientalbookingform.pdf[booking form], fill out and fax to the number provided on the form.
+Or download this link:{{'/mandarinorientalbookingform.pdf' | relative_url}}[booking form], fill out and fax to the number provided on the form.
 
 *Other Area Hotels*
 

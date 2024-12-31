@@ -31,7 +31,7 @@ An informal __Introductory Q & A about CalConnect__, intended for first-time att
 
 A special *BOF on Calendar Sharing and Notifications* will be held Wednesday morning at 10:30-12:30.afternoon during the Roundtable open to all participants at the Interoperability Test Event and the Roundtable.
 
-*CalConnect Interoperability Test Event*: The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1306.shtml[CalConnect Interoperability Test Event June 2013] for current information. Check back often as this will be updated as more information becomes available.
+*CalConnect Interoperability Test Event*: The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1306.shtml' | relative_url}}[CalConnect Interoperability Test Event June 2013] for current information. Check back often as this will be updated as more information becomes available.
 
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
@@ -190,7 +190,6 @@ _http://www.quiveysgrove.com/[Quivey's Grove]_ +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
-+
  Continental Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Interoperability Test Event and the Roundtable and are included in your registration fees.
 
 |===
@@ -293,7 +292,6 @@ _http://www.quiveysgrove.com/[Quivey's Grove]_ +
  2.d Task Relations +
  3. Next steps
 
-+
 *TC TIMEZONE* Thu 1630-1715 +
  1. Introduction +
  1.1 Charter +
@@ -338,5 +336,4 @@ This bof will describe and discuss the current implementations of CalDAV calenda
  3. How iCalendar can be used to improve itinerary management/publication +
  4. Where to go next
 
-+
  Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called during the Roundtable. BOFs will be scheduled as time permits.

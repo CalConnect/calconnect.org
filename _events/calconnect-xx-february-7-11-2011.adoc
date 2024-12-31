@@ -29,7 +29,7 @@ The Interoperability Test Events will take place in parallel all day Monday and 
 
 *CalConnect Interoperability Test Events*: At this meeting, we will host both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel).
 
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1102.shtml[CalConnect Interoperability Test Event February 2011] or http://calconnect.org/miop1102.shtml[Mobile Calendaring Interoperability Test Event February 2011] for current information. Check back often as this will be updated as more information becomes available.
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1102.shtml' | relative_url}}[CalConnect Interoperability Test Event February 2011] or link:{{'/miop1102.shtml' | relative_url}}[Mobile Calendaring Interoperability Test Event February 2011] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -86,7 +86,7 @@ The room rate will be 17% off the Best Available Rate at the time you book which
 
 The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectConference.ics[CalConnectConference.ics].
+A downloadable iCalendar.ics file with the entire schedule is also available at link:{{'/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics].
 
 [cols=3]
 |===
@@ -132,7 +132,7 @@ _TBD_
 
 The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available athttp://calconnect.org/CalConnectConference.ics[CalConnectConference.ics].
+A downloadable iCalendar.ics file with the entire schedule is also available atlink:{{'/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics].
 
 [cols=3]
 |===
@@ -186,12 +186,10 @@ _Hotel Shattuck Plaza_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-+
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas
 
@@ -294,7 +292,6 @@ _Hotel Shattuck Plaza_
 
 |===
 
-+
  
 
 ==== Scheduled BOFs

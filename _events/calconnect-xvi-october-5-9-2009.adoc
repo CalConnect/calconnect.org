@@ -29,7 +29,7 @@ The IOP Testing will take place all day Monday and Tuesday October 5-6, and Wedn
 
 More information will be posted as it becomes available, in particular a confirmed schedule of Roundtable sessions and topical agendas should be available by mid-September.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop0910.shtml[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0910.shtml' | relative_url}}[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -51,7 +51,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in the Beatles meeting room on the first floor of Building De Anza 3, 10500 N. De Anza Blvd, Cupertino, California. This building is immediately south of the Infinite Loop campus. For a view of the Cupertino campus showing the location of building De Anza 3 see http://calconnect.org/cc16-cupertino_campus.pdf[Cupertino Campus Map]. For a map of the general area showing the location of the conference hotel, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Cupertino Campus vicinity].
+The Interoperability Test Event and the Roundtable will take place in the Beatles meeting room on the first floor of Building De Anza 3, 10500 N. De Anza Blvd, Cupertino, California. This building is immediately south of the Infinite Loop campus. For a view of the Cupertino campus showing the location of building De Anza 3 see link:{{'/cc16-cupertino_campus.pdf' | relative_url}}[Cupertino Campus Map]. For a map of the general area showing the location of the conference hotel, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.00046f4f71cfaca40aa04&ll=37.327922,-122.031155&spn=0.02457,0.037122&z=15[Apple Cupertino Campus vicinity].
 
 Please note that you can park in the De Anza 3 parking lot, or anywhere in any of the parking areas within Infinite Loop itself.
 
@@ -67,7 +67,7 @@ Cupertino is about 30 miles south of San Francisco International Airport, and qu
 [[lodging]]
 == Lodging
 
-The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to http://calconnect.org/membersonly/cc16.shtml[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
+The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to link:{{'/membersonly/cc16.shtml' | relative_url}}[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
 
 The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative. +
 
@@ -81,7 +81,7 @@ The Cupertino Inn is also close to the Apple campus and frequently used by Apple
  Phone: +1 408 253 8900 +
 http://www.thecypresshotel.com +
  Apple rate available to CalConnect members; +
- see http://calconnect.org/membersonly/cc16.shtml[Book the Apple Rate].
+ see link:{{'/membersonly/cc16.shtml' | relative_url}}[Book the Apple Rate].
 |
 .<a| *The Cupertino Inn* +
  10889 North De Anza Blvd +
@@ -98,7 +98,7 @@ http://www.cupertinoinn.com
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics].
+A downloadable iCalendar.ics file with the entire schedule is also available at link:{{'/CalConnectWeek.ics' | relative_url}}[CalConnectWeek.ics].
 
 [cols=3]
 |===
@@ -147,7 +147,7 @@ __Piano Bar Room__, Building IL4 (see campus map)
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-A downloadable iCalendar.ics file with the entire schedule is also available at http://calconnect.org/CalConnectWeek.ics[CalConnectWeek.ics].
+A downloadable iCalendar.ics file with the entire schedule is also available at link:{{'/CalConnectWeek.ics' | relative_url}}[CalConnectWeek.ics].
 
 [cols=3]
 |===
@@ -201,12 +201,10 @@ http://www.zitune.com[_Zitune Restaurant_] +
 ^5^All Roundtable participants are invited to the group dinner on Thursday +
 ^6^The User Special Interest Group will meet separately from the IOP test event in the Doors Conference room, 1st Floor, Building De Anza 3. _This meeting is limited to representatives of user (i.e. customer) organizations._
 
-+
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas
 

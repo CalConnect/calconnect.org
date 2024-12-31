@@ -55,7 +55,9 @@ Via Zoom. URL and access credentials will be provided to all registered attendee
 
 === CALCONNECT VIRTUAL CONFERENCE 2020
 
-==== *Please notify us if you have any requests or recommendations for schedule additions or for schedule rearrangements to allow you to attend specific sessions. If you are a CalConnect Member Representative please consider joining our Event Planning calls on alternate Tuesdays -- the CalConnect mailing list is notified the day before of the each call.*
+*Please notify us if you have any requests or recommendations for schedule additions or for schedule rearrangements to allow you to attend specific sessions.*
+
+*If you are a CalConnect Member Representative please consider joining our Event Planning calls on alternate Tuesdays -- the CalConnect mailing list is notified the day before of the each call.*
 
 _This schedule will be updated as new information is available. Please check back periodically. _
 
@@ -68,63 +70,48 @@ _*We will have a 10 minute scheduled break each hour, generally close to or at t
 *Monday 12 October 2020 - 1100-1400 Eastern - CalConnect Opening, Testing and Certification*
 
 * *CalConnect Welcome and Plenary*
-+
-
-
 
 ** TC Status
 ** Report from Board, next steps
 ** Plans for Nottingham and beyond
+
 * *Calendaring, Public Events and Higher education*
-
-
 ** _Details pending_
+
 * *Testing and Certification*
-
-
 ** _CalDAV tester improvements and client support_
 ** _Automated testing of calendar clients_
 ** _CalConnect Certification discussion - should CalConnect offer certification of calendar serviers and/or clients_
+
 * *Interoperability Testing opportunity*
-
-
 
 *Tuesday 13 October 2020 - 1100-1400 Eastern - CALENDAR and CalDAV*
 
 * *Calendar Privacy and encrypted CalDAV*
-
-
 ** _ISO Privacy work, discussion of CalConnect focus_
+
 * *Calendar data model and data portability*
-
-
 ** _Presentation and discussion_
+
 * *DMARC and iMIP constraints and incompatibilities*
-
-
 ** _Some IMIP use cases are currenly prohibited by DMARC. Can we resolve this issue?_
+
+
 * *TC-CALENDAR Review*
-
-
 ** Server-side subscriptions
 
-
 *** _What if anything is implemented. What is needed?_
+
 ** VPOLL
-
-
 *** _Status and next steps; current issues_
+
 ** iCalendar Series
-
-
 *** _Status and next steps; current issues_
+
 ** Subscription Upgrade and enhanced GET
-
-
 *** _Any interest from clients? Is this a chicken and egg issue?_
+
 ** Calendar Sharing issues and Scheduling
-
-
 *** Owner vs organizer
 *** Secretary mode vs team mode
 *** Is there a universal solution? Have services providers implemented their own?
@@ -135,18 +122,14 @@ _*We will have a 10 minute scheduled break each hour, generally close to or at t
 
 * *TC-DEVGUIDE*
 
-
 ** _Latest changes and next steps_
 * *TC-CLIENT working session and moving forward*
-
 
 ** Pending details
 * *Calendar Clients and real world product interoperability*
 
-
 ** _Pending details_
 * *Autodiscovery and PUSH*
-
 
 ** _Status of drafts; determine interest in moving forward or closing the work_
 
@@ -156,21 +139,16 @@ _*We will have a 10 minute scheduled break each hour, generally close to or at t
 
 * *TC-VCARD and ISO/TC 211*
 
-
 ** _Pending details_
 * *TC-DATETIME and ISO/TC 154*
-
 
 ** _Pending details_
 * *Joint Session with ISO/TC 154/WG 5*
 
-
 ** _Details and exact date/time to be announced; to be determined by Chair and may not fall during the times allotted this day. Participants will be notified of the date and time._
 * *Joint Session with IETF CALEXT - JMAP AND JSCalendar/JSContacts working session*
 
-
 ** _Details and exact date/time to be announced; to be determined by Chair and may not fall during the times allotted this day. Participants will be notified of the date and time._
-
 
 
 *Please see the Reading List for the Conference at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]*

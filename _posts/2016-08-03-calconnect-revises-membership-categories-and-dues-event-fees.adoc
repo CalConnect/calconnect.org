@@ -14,7 +14,7 @@ In April 2013 we introduced the emergent vendor category for aspiring members. T
 We replaced all the emergent vendor categories and merged them in one single "All other organizational members" category with a general first year 50% discount, applicable to all new members of any category on their first year's membership fee, as well as a 50% discount for any event registration fees during that first year period.
 
 *Other Categories* +
-Most of the non-vendor other organizational categories have no members and/or don't need special treatment. Consequently, we merged all of the following categories into the "`All other organizational members`" category: Commercial Vendor revenue < $5M; Customer Organization or Company including government agencies; Not-for-Profit Open Source Development Organization; Not-for-Profit Customer Organization; Academic Institution; and Standards-Setting organizations. 
+Most of the non-vendor other organizational categories have no members and/or don't need special treatment. Consequently, we merged all of the following categories into the "`All other organizational members`" category: Commercial Vendor revenue < $5M; Customer Organization or Company including government agencies; Not-for-Profit Open Source Development Organization; Not-for-Profit Customer Organization; Academic Institution; and Standards-Setting organizations.
 The yearly membership fee for this new, simpler "All other organizational members" category is $ 3000.
 
 *Individual Member* +
@@ -25,7 +25,6 @@ We changed the ways we charge for the Developers Forum / Test Event. Instead of 
 Conference registration fee: $450 ($495 for late registration) +
 Developer's forum registration fee: $1000 per registrant for the first two participants and $250 per registration for any additional participants.
 
-+
 You can find the new conference fee structure link:{{'/membership-categories-and-fees' | relative_url }}[here]. The event registration fee changes will be made after CalConnect XXXVII next month.
 
 

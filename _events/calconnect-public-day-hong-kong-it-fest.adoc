@@ -9,7 +9,8 @@ image: /assets/images/public_day_logo_0.jpg
 
 == CalConnect Public Day - Hong Kong IT Fest
 
-=== Public Event at the Hong Kong International ITFest +
+=== Public Event at the Hong Kong International ITFest
+
 Wednesday, April 20, 2016 - All Day
 
 ==== CalConnect, the Calendaring & Scheduling conference, invites you to attend our all-day Public Event at the Hong Kong International ITFest at the Hong Kong Convention and Exhibition Centre.
@@ -351,7 +352,8 @@ image::/assets/images/sponsor-logos3.png[""]
 ==== Supporting Organizations
 
 * https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
- Hon. Charles Mok, JP, Legislative Councillor (IT)]
+Hon. Charles Mok, JP, Legislative Councillor (IT)]
+
 * http://www.hkstp.org/[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]

@@ -29,7 +29,6 @@ https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017#confere
 *TC VCARD, ISO TC 211, and ISO 19160* +
 This session will review the charter, goals and problems facing the evolution of VCARD envisioned by the TC; report on the establishment of a liaison with ISO TC 211; and review ISO 19160 and its applicability to the work of the TC. Discussion will focus on the issues the TC may face in incorporating ISO 19160 elements into VCARD, and how (and if) expanded structured address formats can be made backward compatible. TC VCARD.
 
-+
 *1100-1230 on Thursday, 16 February:*
 
 *Calendar Spam and potential best practices* +

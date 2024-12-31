@@ -53,15 +53,10 @@ So, although timezones are a relatively new invention, the history of how they a
 The following references were consulted in preparation of this posting:
 
 * Web
-+
 http://www.nist.gov
-+
 ,
-+
 http://www.wikipedia.com
-+
 ,
-+
 link:/
 * Books, articles: "`Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time`"  Dava Sobel; "`The Economics of Time Zones`"  Matthew W. White; "`The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World`"  Len Adler; "`Spring Forward  The Annual Madness of Daylight Saving Time`"  Michael Downing
 

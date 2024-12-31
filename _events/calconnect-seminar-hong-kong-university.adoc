@@ -44,8 +44,7 @@ CalConnect is very excited to be coming to Hong Kong for our link:{{'/events/cal
 
 To learn more about CalConnect, our events in Hong Kong, and the CalConnect members who are attending these events, see:
 
-link:{{'/' | relative_url}} +
-link:{{'/email-announce/20160420-calconnect-hkitfest.html' | relative_url}} +
+link:{{'/email-announce/20160420-calconnect-hkitfest.html' | relative_url}}[CalConnect HK IT Fest email announcement] +
 link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url}}[CalConnect Public Day at the Hong Kong IT Fest] +
 link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[CalConnect XXXVI 36th Conference]
 
@@ -60,7 +59,9 @@ mailto:schwag@rpi.edu[schwag@rpi.edu]
 
 === Sponsors
 
-CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
+CalConnect wishes to recognize, and to thank, our hosts, sponsors, and
+supporting organizations, who are collaborating with us on CalConnect XXXVI, our
+first event in the Asia /Pacific region.
 
 image::/sites/default/files/media/sponsor-logos3.png[]
 
@@ -81,7 +82,8 @@ image::/sites/default/files/media/sponsor-logos3.png[]
 ==== Supporting Organizations
 
 * https://www.charlesmok.hk/[Officeof the Hon. Charles Mok, +
- Hon. Charles Mok, JP, Legislative Councillor (IT)]
+Hon. Charles Mok, JP, Legislative Councillor (IT)]
+
 * http://www.hkstp.org/[Hong Kong Science & Technology Park (HKSTP)]
 * http://www.vtc.edu.hk[Vocational Training Council (VTC)]
 * https://www.polyu.edu.hk/[Hong Kong Polytechnic University]
