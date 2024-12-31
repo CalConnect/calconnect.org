@@ -4,7 +4,7 @@ title: Only Four Weeks To CalConnect XXXVI in  Hong Kong
 date: 2016-03-22
 type: news
 categories: announcements current-events general-information special-focus the-world-of-calendaring
-excerpt: Only four weeks left until CalConnect XXXVI in Hong Kong, April 18-22, 2016, hosted by Ribose and OGCIO 
+excerpt: Only four weeks left until CalConnect XXXVI in Hong Kong, April 18-22, 2016, hosted by Ribose and OGCIO
 ---
 :page-liquid:
 
@@ -12,13 +12,28 @@ excerpt: Only four weeks left until CalConnect XXXVI in Hong Kong, April 18-22, 
 
 Posted March 22, 2016
 
-*Only four weeks left until CalConnect XXXVI in Hong Kong, April 18-22, 2016, hosted by Ribose and OGCIO &nbsp;*
+*Only four weeks left until CalConnect XXXVI in Hong Kong, April 18-22, 2016, hosted by Ribose and OGCIO*
 
-If you are planning to come to Hong Kong *it's time to register*! And to book your flights and hotel.
-The CalConnect XXXVI web page is located at link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }} and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc. In additon to information about our Public Day on Wednesday the 20th link:{{'/events/calconnect-public-day-hong-kong-it-fest,' | relative_url }} and optional tours on Saturday after the event.
-The conference hotel is LÃ© Meridien Cyberport, located at our meeting venue for the week. The hotel is offering a special CalConnect rate. A special CalConnect rate is also being offered by two hotels in central Hong Kong, and there are also links on the web page to a few other hotels which are somewhat nearer to the Cyberport than central.
+If you are planning to come to Hong Kong *it's time to register*! And to book
+your flights and hotel. The CalConnect XXXVI web page is located at
+link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url }} and
+contains hotel information and booking, airport and transfer information,
+meeting venue, international travel information, etc. In additon to information
+about our Public Day on Wednesday the 20th
+link:{{'/events/calconnect-public-day-hong-kong-it-fest,' | relative_url }} and
+optional tours on Saturday after the event. The conference hotel is LÃ© Meridien
+Cyberport, located at our meeting venue for the week. The hotel is offering a
+special CalConnect rate. A special CalConnect rate is also being offered by two
+hotels in central Hong Kong, and there are also links on the web page to a few
+other hotels which are somewhat nearer to the Cyberport than central.
 
-We will be at the meeting venue at the Cyberport for the interoperability test event Monday and Tuesday, and the conference Thursday and Friday. Wednesday we are hosting a Public Day at the Convention Centre as part of the Hong Kong ITFEST. More information about all aspects of this event including the Public Day is located on our web page for the event. 
-Hope to see you in Hong Kong for CalCOnnect XXXVI. As always, contact us at mailto:contact@calconnect.org[contact@calconnect.org] with any questions.
+We will be at the meeting venue at the Cyberport for the interoperability test
+event Monday and Tuesday, and the conference Thursday and Friday. Wednesday we
+are hosting a Public Day at the Convention Centre as part of the Hong Kong
+ITFEST. More information about all aspects of this event including the Public
+Day is located on our web page for the event.
+
+Hope to see you in Hong Kong for CalCOnnect XXXVI. As always, contact us at
+mailto:contact@calconnect.org[contact@calconnect.org] with any questions.
 
 

@@ -16,7 +16,9 @@ DOC: link:{{'/docs/press-releases/20101005-tungle.doc' | relative_url }}[Tungle 
 
 _Membership Expands CalConnect’s Growth in the International Arena_
 
-*– October 5, 2010 –* The Calendaring and Scheduling Consortium has
+*– October 5, 2010\*
+
+The Calendaring and Scheduling Consortium has
 announced that Tungle Corp. ([.underline]#www.tungle.com#) has become
 one of organizations that make up the consortium. CalConnect’s members
 are universities, companies, open-source organizations, and government

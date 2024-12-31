@@ -14,7 +14,9 @@ excerpt: |
 
 PDF: link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relative_url }}[Harvard ASCS/NYU].
 
-*McKinleyville, CA – November 14, 2005 –* Harvard Arts and Sciences Computer
+*McKinleyville, CA – November 14, 2005\*
+
+Harvard Arts and Sciences Computer
 Services and have joined the Calendaring and Scheduling Consortium to bring the
 number of university members to twelve. This follows closely oM and Trumba to
 the roster of vendor members. CalConnect’s membership also includes open-source

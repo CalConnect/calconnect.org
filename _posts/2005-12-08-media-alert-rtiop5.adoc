@@ -87,5 +87,5 @@ Polytechnic Institute, Stanford University, Symbian, Trumba, UC
 Berkeley, University of Washington, University of Wisconsin Madison, and
 Yahoo! Inc.
 
-Media Contact: Maryann Karinch, [.underline]#maryann@karinch.com#,
+Media Contact: Maryann Karinch, mailto:maryann@karinch.com[maryann@karinch.com],
 970-577-8500

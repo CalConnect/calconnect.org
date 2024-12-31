@@ -15,7 +15,9 @@ excerpt: |
 
 *For Immediate Release*
 
-*McKinleyville, CA and San Francisco, April 5, 2018* – Recognizing that
+*McKinleyville, CA and San Francisco, April 5, 2018*
+
+Recognizing that
 calendar spam is a growing exploitation channel, CalConnect and the
 global anti-abuse association M3AAWG have joined forces to develop new
 methods to protect end-users from unsolicited and malicious event
@@ -101,7 +103,7 @@ end users themselves."
 
 Organizations interested in joining the CalConnect calendar spam
 committee should contact CalConnect Executive Director Dave Thewlis at
-[.underline]#dave.thewlis@calconnect.org#or CalConnect Director of
+mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org]or CalConnect Director of
 External Relations Ronald Tse at
 [.underline]#ronald.tse@calconnect.org#.
 

@@ -10,24 +10,19 @@ excerpt: |
 ---
 :page-liquid:
 
-*February 8, 2007* +
-*CalConnect Gives Guidance to IT Staff on Impact of DST Change*:
-CalConnect has implemented advisory and vendor information about the
-potential impact of the DST change and how to deal with it at
-link:{{'/dstdocs' | relative_url }}[DST recommendations]. The CalConnect press release is
-at link:{{'/docs/press-releases/070208edstrecommendations.pdf' | relative_url }}[DST Guidance].
+== CalConnect Gives Guidance to IT Staff on Impact of DST Change
 
-
-*CalConnect Gives Guidance to IT Staff on Impact of DST Change*
 _University and Vendor Experts Offer Ways to Avert Problems_
 
-*McKinleyville, CA (PRWeb) February 8, 2007 –* The Calendaring and
-Scheduling Consortium (CalConnect) has composed recommendations and
-reference links to vendor sites to aid system administrators in handling
-the Congressionally mandated change in Daylight Saving Time (DST). A
-provision of the Energy Policy Act of 2005 changed DST to begin three
-weeks earlier and end one week later, as of the second Sunday in March
-2007.
+PDF: link:{{'/docs/press-releases/070208edstrecommendations.pdf' | relative_url }}[DST Guidance].
+
+*McKinleyville, CA (PRWeb) February 8, 2007*
+
+The Calendaring and Scheduling Consortium (CalConnect) has composed
+recommendations and reference links to vendor sites to aid system administrators
+in handling the Congressionally mandated change in Daylight Saving Time (DST). A
+provision of the Energy Policy Act of 2005 changed DST to begin three weeks
+earlier and end one week later, as of the second Sunday in March 2007.
 
 “This modification to the DST rules is the first in 20 years, and it’s
 causing headaches for system administrators because the change was
@@ -43,7 +38,7 @@ date/time values, such as calendar software or spreadsheets
 
 CalConnect also offers a collection of links to vendor web pages where
 DST updates are discussed and patches offered. Visit
-[.underline]#www.CalConnect.org# to access this information.
+https://www.calconnect.org to access this information.
 
 “The change in DST rules will remind some of the Y2K problems in
 programs that referred to a year using two digits,” explained Joseph
@@ -53,9 +48,9 @@ administrators. There may be significant impact on computer support
 organizations in cases where meetings in a calendar system need to be
 corrected manually.”
 
-== Details of the Recommendations
+=== Details of the Recommendations
 
-1. System clock updates
+==== System clock updates
 
 Issue: Systems or devices that include a date/time clock which adjust
 automatically for DST use rules to decide when to switch from Standard
@@ -74,16 +69,19 @@ incorrectly interpreted.
 Systems using older versions of Kerberos authentication may not work, as
 they require clocks to be synchronized to within a few minutes.
 
-Automated Processes that run at a preset time, such as unlocking a door, may happen an
-hour later than expected.
+Automated Processes that run at a preset time, such as unlocking a door, may
+happen an hour later than expected.
 
-2. Stored date/time values
+==== Stored date/time values
 
-Issue: Many computer systems need to represent future dates and times. There may be a
-need to correct some of these to accommodate the new DST rules. +
-In particular, if the system stores the date and time as a combined value that is relative to
-UTC, the data in the system may be off by an hour for the weeks that used to be in
-Standard time, but are now in DST. For example,
+Issue: Many computer systems need to represent future dates and times. There may
+be a need to correct some of these to accommodate the new DST rules.
+
+In particular, if the system stores the date and time as a combined value that
+is relative to UTC, the data in the system may be off by an hour for the weeks
+that used to be in Standard time, but are now in DST.
+
+For example,
 
 ____
 If a person in the Eastern time zone entered a repeating meeting for 9:00
@@ -93,19 +91,21 @@ rules, the person needs to store the meeting as 13:00 UTC in order to have
 it show up as 9:00 am Eastern.
 ____
 
-Recommendation: Systems that store date/times relative to the local time zone are not
-likely to be impacted, but products that support multiple time zones will require review.
-For third-party software, contact the vendor. For solutions developed in-house, look for
-date and time values stored as one field in a format relative to UTC.
+Recommendation: Systems that store date/times relative to the local time zone
+are not likely to be impacted, but products that support multiple time zones
+will require review. For third-party software, contact the vendor. For solutions
+developed in-house, look for date and time values stored as one field in a
+format relative to UTC.
 
-Impact: Systems that store date/time values relative to UTC will display incorrect times
-within the extended DST period. This will affect events not only in 2007, and future
-years.
+Impact: Systems that store date/time values relative to UTC will display
+incorrect times within the extended DST period. This will affect events not only
+in 2007, and future years.
 
-Some calendar systems store day-long events internally as midnight to midnight records.
-These may get shifted by one hour during the new DST weeks, causing the events to
-extend into the day after they were intended to finish.
+Some calendar systems store day-long events internally as midnight to midnight
+records. These may get shifted by one hour during the new DST weeks, causing the
+events to extend into the day after they were intended to finish.
 
-Other unexpected behavior may occur with calendar systems that synchronize events
-between two or more types of devices, such as a computer and a smart phone.
+Other unexpected behavior may occur with calendar systems that synchronize
+events between two or more types of devices, such as a computer and a smart
+phone.
 

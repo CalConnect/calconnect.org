@@ -15,7 +15,9 @@ excerpt: |
 
 _Major Vendors Join with Ed and Small Business; Set to Meet Next in Zurich_
 
-*August 6, 2012 – McKinleyville, CA –* CalConnect (The Calendaring and
+*August 6, 2012 – McKinleyville, CA\*
+
+CalConnect (The Calendaring and
 Scheduling Consortium; https://www.calconnect.org) announces its technical
 leadership team that takes office September 9. The organizations and individual
 members assuming roles on the organization’s Steering Committee represent a
@@ -65,7 +67,7 @@ calendaring and scheduling specifications and market opportunities
 dominate discussion.
 
 Non-members are welcome to participate; contact the executive director
-at [.underline]#dave.thewlis@calconnect.org#.
+at mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org].
 
 == About CalConnect
 
