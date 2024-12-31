@@ -23,7 +23,7 @@ CalConnect XXXIV, consisting of a CalConnect Interoperability Test Event and a C
 
 The Interoperability Test Event will take place all day Monday and Tuesday September 28-29, and Wednesday morning September 30, ending at noon. The Conference will begin with lunch at noon on Wednesday September 30 and last through Friday October 2.
 
-An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 30th for first-time attendees. +
+An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 30th for first-time attendees.
 
 
 *CalConnect Interoperability Test Event*:
@@ -97,11 +97,11 @@ The hotel offers free wi-fi throughout the hotel, a 24-hour lounge and bar, and 
 The hotel is about 800 meters from the conference venue, and 500 meters from the Amsterdam RAI train and metro station, making it extremely convenient.
 
 Motel One Amsterdam-RAI +
- Europaboulevard 23 +
- 1079 PC Amsterdam +
- The Netherlands +
- +31 20 820 47 77 +
- E-mail: mailto:amsterdam@motel-one.com[amsterdam@motel-one.com] +
+Europaboulevard 23 +
+1079 PC Amsterdam +
+The Netherlands +
++31 20 820 47 77 +
+E-mail: mailto:amsterdam@motel-one.com[amsterdam@motel-one.com] +
 http://www.motel-one.com/en/hotels/amsterdam/hotel-amsterdam/[].
 
 We have an agreed rate with the hotel and a room block of 20 rooms. Availability and rates are guaranteed until 1 September 2015, after which rooms might still be available but no guarantees can be given. Free cancellation until 11 September, after which 90% of the first night will be charged.
@@ -110,7 +110,7 @@ The CalConnect rate for a single is ¬139 between 26-29 September, and ¬69 betw
 
 The hotel now offers online booking at http://www.motel-one.com/en/hotels/amsterdam/hotel-amsterdam/[]. Unfortunately you cannot request the CalConnect room block (however the rates will be the same as for our room block). Therefore if you are booking before 1 September (when the room block ends) and you cannot secure a room online, please book by calling the hotel at the phone number above, or sending an e-mail to the e-mail address above, and request a CalConnect group room.
 
-Please mention the booking code "CalConnect" and include a call-back telephone number and what time zone you are in. The hotel may then call you for additional details to complete the reservation or send you a confirmed booking letter by return e-mail. A credit card is required to guarantee the reservation, which is necessary if you wish late arrival. If you are requested to fax anything to the hotel, you can simply include it as an attachment to an e-mail to the e-mail address above. +
+Please mention the booking code "CalConnect" and include a call-back telephone number and what time zone you are in. The hotel may then call you for additional details to complete the reservation or send you a confirmed booking letter by return e-mail. A credit card is required to guarantee the reservation, which is necessary if you wish late arrival. If you are requested to fax anything to the hotel, you can simply include it as an attachment to an e-mail to the e-mail address above.
 
 
 === Things to do in Amsterdam
@@ -124,7 +124,7 @@ Museums: +
 
 Parks: +
  - Vondelpark +
- Historical Places: +
+Historical Places: +
  - Anne Frank House
 
 Exploring Amsterdam: +
@@ -140,37 +140,37 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 3+| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 a| *Monday 28 September* +
- 0800-0830 Coffee & Rolls +
- 0830-0930 Testing +
- 0930-1000 BOF: Intro to DEVGUIDE +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1400 BOF: PUSH or Testing +
- 1400-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-0930 Testing +
+0930-1000 BOF: Intro to DEVGUIDE +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1400 BOF: PUSH or Testing +
+1400-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1915-2130 Interop Test Dinner +
 _TBD_
 a| *Tuesday 29 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 Background Session all day Tuesday: Working on CalDAV Test Suite
 a| *Wednesday 30 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200-1200 Wrap-up +
- 1200 End of Interop Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200-1200 Wrap-up +
+1200 End of Interop Testing
 
 1200-1300 Lunch/Opening
 
@@ -209,7 +209,7 @@ _Event introduction, overview and planning for CalConnect's first Asia/Pacific e
 | 1600-1800
 a| Calendaring in Government +
  _Panel Discussion: Citizens, companies and governments are looking for ways to ease and standardise communication. Time related information could very well be communicated via existing standards and systems. Topics include what makes governments special when it comes to C&S; what are governmental use cases? +
- Speakers include Marijke Salters - Ministry of Internal Affairs, Arend van Beek - President of VIAG, Michel Boerrigter - CEO/Founder Calendar42, Keith Harris - CTO/Founder youcanbook.me. +
+Speakers include Marijke Salters - Ministry of Internal Affairs, Arend van Beek - President of VIAG, Michel Boerrigter - CEO/Founder Calendar42, Keith Harris - CTO/Founder youcanbook.me. +
 *This session is open to the public by invitation; e-mail us if you are interested in attending.*_
 
 | 1800-2000

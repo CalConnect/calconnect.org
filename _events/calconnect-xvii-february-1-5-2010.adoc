@@ -121,36 +121,36 @@ and runs until early afternoon on Friday.
 
 .<a| *Monday 1 February* +
 *Room 2222, Bren Hall* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 BOFs/Break +
- 1600-1800 Testing
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 BOFs/Break +
+1600-1800 Testing
 
 1900-2100 IOP Test Dinner +
 _Steelhead Brewing Company, Irvine_ +
 http://www.steelheadbrewery.com[www.steelheadbrewery.com]
 .<a| *Tuesday 2 February* +
 *Room 2222, Bren Hall* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 3 February* +
 *Room 2222, Bren Hall* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^2^
 

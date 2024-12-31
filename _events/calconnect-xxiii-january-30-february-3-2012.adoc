@@ -73,21 +73,21 @@ We are not designating a "Conference Hotel" for this meeting as we have not been
 |===
 | 
 .<a| *The Cypress Hotel* +
- 10050 South De Anza Blvd +
- Cupertino, CA 95014 +
- Phone: +1 408 253 8900 +
+10050 South De Anza Blvd +
+Cupertino, CA 95014 +
+Phone: +1 408 253 8900 +
 http://www.thecypresshotel.com
 | 
 .<a| *The Cupertino Inn* +
- 10889 North De Anza Blvd +
- Cupertino, CA 95014-6301 +
- Phone: +1 408 996 7700 +
+10889 North De Anza Blvd +
+Cupertino, CA 95014-6301 +
+Phone: +1 408 996 7700 +
 http://www.cupertinoinn.com
 | 
 .<a| *The Wild Palms Hotel* +
- 910 E. Fremont Avenue +
- Sunnyvale, CA 94087 +
- Phone: +1 408 738 0500 +
+910 E. Fremont Avenue +
+Sunnyvale, CA 94087 +
+Phone: +1 408 738 0500 +
 http://www.jdvhotels.com/hotels/siliconvalley/wild_palms
 
 |===
@@ -100,47 +100,47 @@ http://www.jdvhotels.com/hotels/siliconvalley/wild_palms
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 *Please Note: +
- Monday 0800-1200 we will be in the Launch Conference Room, Building 2, First Floor +
- Monday 1230-1800 and Tuesday-Friday inclusive we will be in the Garage 1 Conference Room, Building 4, Second Floor*
+Monday 0800-1200 we will be in the Launch Conference Room, Building 2, First Floor +
+Monday 1230-1800 and Tuesday-Friday inclusive we will be in the Garage 1 Conference Room, Building 4, Second Floor*
 
 [cols=3]
 |===
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 30 January* - IL2/1 LAUNCH Conference Room until noon +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1215 Relocate to IL4/2 GARAGE conference room +
- 1230-1330 Lunch +
- 1330-1430 BOF: +
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1215 Relocate to IL4/2 GARAGE conference room +
+1230-1330 Lunch +
+1330-1430 BOF: +
 link:{{'/calconnect23.shtml#bof1' | relative_url}}[Update vs replacement of calendar and contact data] +
- 1430-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+1430-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 
 1915-2200 IOP Test Dinner +
  _http://lgbrewingco.com/losgatos/[Los Gatos Brewing Company] +
 130 North Santa Cruz Avenue +
- Los Gatos, CA_
+Los Gatos, CA_
 .<a| *Tuesday 31 January* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch and BOF +
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch and BOF +
 link:{{'/calconnect23.shtml#bof2' | relative_url}}[Auto-discovery and account provisioning] +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 1 February* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^1^
 
@@ -154,8 +154,8 @@ link:{{'/calconnect23.shtml#bof2' | relative_url}}[Auto-discovery and account pr
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 *Please Note: +
- Monday 0800-1200 we will be in theLaunchConference Room, Building 2, First Floor +
- Monday 1230-1800 and Tuesday-Friday inclusive we will be in theGarage 1Conference Room, Building 4, Second Floor*
+Monday 0800-1200 we will be in theLaunchConference Room, Building 2, First Floor +
+Monday 1230-1800 and Tuesday-Friday inclusive we will be in theGarage 1Conference Room, Building 4, Second Floor*
 
 
 
@@ -165,43 +165,43 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 
 3+.<| 
 .<a| *Wednesday 1 February* +
- 1000-1200 User Special Interest Group^2^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1500 TC FREEBUSY +
- 1500-1530 Break +
- 1530-1700 TC EVENTPUB +
- 1700-1800 Host Session
+1000-1200 User Special Interest Group^2^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1500 TC FREEBUSY +
+1500-1530 Break +
+1530-1700 TC EVENTPUB +
+1700-1800 Host Session
 
 1815-2030 Welcome Reception^4^ +
 _Piano Bar, First Floor, Infinite Loop 4_
 .<a| *Thursday 2 February* +
- 0800-0830 Breakfast +
- 0830-0930 TC XML +
- 0930-1030 TC RESOURCE +
- 1030-1100 Break +
- 1100-1230 TC CALDAV +
- 1230-1330 Lunch +
- 1330-1500 TC ISCHEDULE +
- 1500-1600 BOF: Report on IOP Test Event BOF Sessions +
- 1600-1630 Break +
- 1630-1800 Steering Committee^5^
+0800-0830 Breakfast +
+0830-0930 TC XML +
+0930-1030 TC RESOURCE +
+1030-1100 Break +
+1100-1230 TC CALDAV +
+1230-1330 Lunch +
+1330-1500 TC ISCHEDULE +
+1500-1600 BOF: Report on IOP Test Event BOF Sessions +
+1600-1630 Break +
+1630-1800 Steering Committee^5^
 
 1900-2200 Group Dinner^6^ +
  _http://www.californiacafe.com/losgatos/index.php[California Cafe] +
 50 University Avenue +
- Old Town Los Gatos, CA_ 
+Old Town Los Gatos, CA_ 
 .<a| *Friday 3 February* +
- 0800-0830 Breakfast +
- 0830-0930 TC MOBILE +
- 0930-1030 TC USECASE +
- 1030-1100 Break +
- 1100-1200 TC TIMEZONE +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1300-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+0800-0830 Breakfast +
+0830-0930 TC MOBILE +
+0930-1030 TC USECASE +
+1030-1100 Break +
+1100-1200 TC TIMEZONE +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1300-1400 CalConnect Plenary Session +
+1400 Close of Meeting
 
 3+| 
 3+.<a|
@@ -212,7 +212,7 @@ _Piano Bar, First Floor, Infinite Loop 4_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
  
@@ -226,91 +226,91 @@ To be established by mid-January
 |===
 .<a|
 *TC CALDAV* Thu 1100-1230 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 CalDAV User Level Notifications +
- 3.2 Managed Attachments +
- 3.3 Calendar Alarms +
- 3.4 Collected CalDAV Extensions +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Call
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 CalDAV User Level Notifications +
+3.2 Managed Attachments +
+3.3 Calendar Alarms +
+3.4 Collected CalDAV Extensions +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Call
 
 *TC EVENTPUB* Wed 1530-1700 +
- 1. Charter +
- 2. Work and accomplishments +
- 3. New properties - link etc - discussion moved to XML +
- 4. Rich text properties +
- 5. Multi-language support +
- 6. Going Forward - new Chair needed +
- 7. Next meeting
+1. Charter +
+2. Work and accomplishments +
+3. New properties - link etc - discussion moved to XML +
+4. Rich text properties +
+5. Multi-language support +
+6. Going Forward - new Chair needed +
+7. Next meeting
 
 *TC FREEBUSY* Wed 1330-1500 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. VPOLL current state +
- 3. Moving Forward +
- 3.1 Plan of action +
- 3.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. VPOLL current state +
+3. Moving Forward +
+3.1 Plan of action +
+3.2 Next conference calls
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 
 *TC iSCHEDULE* Thu 1330-1500 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Open Discussions +
- 2.1 Use of iSchedule in a private network environment +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Open Discussions +
+2.1 Use of iSchedule in a private network environment +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 .<a|
 *TC MOBILE* Fri 0830-0930 +
- 1. Discussion of mobile issues with calendaring +
- 2. Consistency of recurrence handling +
- 3. Future direction for TC MOBILE
+1. Discussion of mobile issues with calendaring +
+2. Consistency of recurrence handling +
+3. Future direction for TC MOBILE
 
 *TC RESOURCE* Thu 0930-1030 +
- 1. Introduction +
- 1.1 TC Charter +
- 1.2 Work so far +
- 2. vCard4-LDAP Mapping +
- 3. TC Future
+1. Introduction +
+1.1 TC Charter +
+1.2 Work so far +
+2. vCard4-LDAP Mapping +
+3. TC Future
 
 *TC TIMEZONE* Fri 1100-1200 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Current timezone service draft +
- 3. Aliases +
- 4. Registries and data formats +
- 5. Current implementations - and call for more +
- 6. Moving Forward +
- 6.1 Plan of action +
- 6.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Current timezone service draft +
+3. Aliases +
+4. Registries and data formats +
+5. Current implementations - and call for more +
+6. Moving Forward +
+6.1 Plan of action +
+6.2 Next conference calls
 
 *TC USECASE* Fri 0930-1030 +
- 1. Discuss final usecases for changing meeting ownership +
- 2. Discuss final usecases for specialized freebusy
+1. Discuss final usecases for changing meeting ownership +
+2. Discuss final usecases for specialized freebusy
 
 *TC XML* Thu 0830-0930 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. CalWS-SOAP current state +
- 3. Vavailability uses +
- 4. iCalendar in JSON +
- 5. Interoperability testing of XML data formats +
- 6. Moving Forward +
- 6.1 Plan of action +
- 6.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. CalWS-SOAP current state +
+3. Vavailability uses +
+4. iCalendar in JSON +
+5. Interoperability testing of XML data formats +
+6. Moving Forward +
+6.1 Plan of action +
+6.2 Next conference calls
 
 |===
 
@@ -323,4 +323,4 @@ To be established by mid-January
 
 [[bof2]] This BOF will discuss various ways to improve the current process for auto-discovery of server and automatic account provisioning. We will discuss the current standards approach of SRV records + .well-known resource, and look at an alternative pure HTTP solution using the webfinger proposal.
 
- Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.
+Requests for BOF sessions can be made at the Wednesday opening and known BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be called at BOF session time during the Roundtable.

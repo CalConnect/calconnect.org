@@ -77,12 +77,12 @@ Taxis are also available at the airport for individuals or small groups.
 The conference hotel for this event is the Corinthia Hotel Prague http://corinthia.com/en/Prague/home/[].
 
 http://corinthia.com/en/Prague/home/[Corinthia Hotel Prague] +
- Kongresov¡ 1 +
- Prague 4, 140 69 +
- Czech Republic +
- Tel: +420 261 191 111 +
- Fax: +420 261 225 011 +
- E-mail: mailto:prague@corinthia.com[prague@corinthia.com]
+Kongresov¡ 1 +
+Prague 4, 140 69 +
+Czech Republic +
+Tel: +420 261 191 111 +
+Fax: +420 261 225 011 +
+E-mail: mailto:prague@corinthia.com[prague@corinthia.com]
 
 We are offered a special rate of 85 euros/night exclusive of VAT for a single room (about $130 inclusive of VAT) or 100 euros/night for a double room. Breakfast and free wifi are included. In order to receive our special rate please book your room online at this link: https://prague.corinthia.cz/en/xdhl230913.asp[]. The booking form will also allow you to request an airport-hotel transfer for 1-4 people for CZK 750. You must request this at the time of booking your room.
 
@@ -102,32 +102,32 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 23 September* +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Interop Testing +
- 1200-1300 Lunch +
- 1300-1530 Interop Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Interop Testing +
+1200-1300 Lunch +
+1300-1530 Interop Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Interop Testing
 
 1930-2130 Interop Dinner +
  _U FLECKU +
 http://www.ufleku.cz/_
 .<a| *Tuesday 24 September* +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200-1300 Lunch +
- 1300-1430 BOF or Testing +
- 1300-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200-1300 Lunch +
+1300-1430 BOF or Testing +
+1300-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 .<a| *Wednesday 25 September* +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1130 Interop Testing +
- 1130-1200 Wrap-up +
- 1200 End of Interoperability Testing
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1130 Interop Testing +
+1130-1200 Wrap-up +
+1200 End of Interoperability Testing
 
 1200-1300 Lunch^1^
 
@@ -150,44 +150,44 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
 
 3+.<|
 .<a| *Wednesday 25 September* +
- 1100-1200 Introduction to CalConnect^3^ +
- 1200-1300 Opening Lunch^1^ +
- 1300-1445 Opening +
- 1445-1500 TC IOPTEST Reports +
- 1500-1530 TC AUTODISCOVERY +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC XML +
- 1700-1800 Host Session - DHL
+1100-1200 Introduction to CalConnect^3^ +
+1200-1300 Opening Lunch^1^ +
+1300-1445 Opening +
+1445-1500 TC IOPTEST Reports +
+1500-1530 TC AUTODISCOVERY +
+1530-1600 Break and Refreshments +
+1600-1700 TC XML +
+1700-1800 Host Session - DHL
 
 1800-2000 Welcome Reception^4^ +
 _On Site_
 .<a| *Thursday 26 September* +
- 0830-1000 Workshop: Travel Itineraries and Calendaring +
- 1000-1030 Break and Refreshments +
- 1030-1200 TC TASKS +
- 1200-1300 Lunch +
- 1300-1430 TC CALDAV +
- 1430-1530 TC TIMEZONE +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC EVENTPUB +
- 1700-1800 CALSCALE Ad Hoc
+0830-1000 Workshop: Travel Itineraries and Calendaring +
+1000-1030 Break and Refreshments +
+1030-1200 TC TASKS +
+1200-1300 Lunch +
+1300-1430 TC CALDAV +
+1430-1530 TC TIMEZONE +
+1530-1600 Break and Refreshments +
+1600-1700 TC EVENTPUB +
+1700-1800 CALSCALE Ad Hoc
 
 1930-2200 Group Dinner^6^ +
  _U MODRE KACHNICKY II +
 http://www.umodrekachnicky.cz/en/retro/welcome_
 .<a| *Friday 27 September* +
- 0830-1000 Workshop: Federated Shared Calendars +
- 1000-1030 Break and Refreshments +
- 1030-1115 BOF: PUSH for CalDAV +
- 1115-1200 BOF: Expanding the CalConnect Remit +
- 1200-1300 Lunch +
- 1300-1430 TC ISCHEDULE +
- 1430-1530 TC RESOURCE +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC FREEBUSY +
- 1700-1730 TC Wrapup +
- 1730-1800 CalConnect Plenary +
- 1800 Close of Meeting
+0830-1000 Workshop: Federated Shared Calendars +
+1000-1030 Break and Refreshments +
+1030-1115 BOF: PUSH for CalDAV +
+1115-1200 BOF: Expanding the CalConnect Remit +
+1200-1300 Lunch +
+1300-1430 TC ISCHEDULE +
+1430-1530 TC RESOURCE +
+1530-1600 Break and Refreshments +
+1600-1700 TC FREEBUSY +
+1700-1730 TC Wrapup +
+1730-1800 CalConnect Plenary +
+1800 Close of Meeting
 
 3+|
 3+.<a|
@@ -196,7 +196,7 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 ^4^All Roundtable and/or Interoperability Test Events participants are invited to the Wednesday evening reception +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
- Lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
+Lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
 
 |===
 
@@ -208,125 +208,125 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 |===
 .<a|
 *CALSCALE Ad Hoc* Thu 1700-1800 +
- TBA
+TBA
 
 *Opening* Wed 1300-1445 +
- 1. Welcome and Logistics +
- 2. Introductions +
- 3. New Member presentations +
- 4. General CalConnect Discussions +
- 4.1 Overview of next few days +
- 4.2 Restructuring the Steering Committee +
- 4.3 Reporting on and leveraging our completed standards/specs
+1. Welcome and Logistics +
+2. Introductions +
+3. New Member presentations +
+4. General CalConnect Discussions +
+4.1 Overview of next few days +
+4.2 Restructuring the Steering Committee +
+4.3 Reporting on and leveraging our completed standards/specs
 
 *TC AUTODISCOVERY* Wed 1500-1530 +
- TBA
+TBA
 
 *TC CALDAV* Thu 1400-1530 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 Managed Attachments +
- 3.2 Scheduling Object Drafts +
- 3.3 Calendar Sharing & Notifications +
- 4. Review and Update Charter and Milestones +
- 5. Moving Forward +
- 5.1 Plan of Action +
- 5.2 Next Conference Call
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 Managed Attachments +
+3.2 Scheduling Object Drafts +
+3.3 Calendar Sharing & Notifications +
+4. Review and Update Charter and Milestones +
+5. Moving Forward +
+5.1 Plan of Action +
+5.2 Next Conference Call
 
 *TC EVENTPUB* Thu 1600-1700 +
- 1.Work and accomplishments +
- 2. iCalendar extensions RFC +
- 2.1 Review of changes +
- 2.2 TZID on VALUE=DATE properties - should we add it? +
- 2.3 Event coloring +
- 2.4 IETF status +
- 3. Review Rich Text and Multi-Language Support Specification +
- 3.1 Review of changes +
- 3.2 GROUP Parameter +
- 3.3 IETF status +
- 4. Charter and milestones +
- 5. Going Forward +
- 5.1 Next steps +
- 5.2 Next call
+1.Work and accomplishments +
+2. iCalendar extensions RFC +
+2.1 Review of changes +
+2.2 TZID on VALUE=DATE properties - should we add it? +
+2.3 Event coloring +
+2.4 IETF status +
+3. Review Rich Text and Multi-Language Support Specification +
+3.1 Review of changes +
+3.2 GROUP Parameter +
+3.3 IETF status +
+4. Charter and milestones +
+5. Going Forward +
+5.1 Next steps +
+5.2 Next call
 
 *TC FREEBUSY* Fri 1600-1700 +
- 1. Work and accomplishments +
- 2. VPOLL RFC +
- 3. Interop test report +
- 4. Update charter and milestones +
- 5. Moving Forward +
- 5.1 Plan of Action +
- 5.2 Next Conference Call
+1. Work and accomplishments +
+2. VPOLL RFC +
+3. Interop test report +
+4. Update charter and milestones +
+5. Moving Forward +
+5.1 Plan of Action +
+5.2 Next Conference Call
 
 *TC IOPTEST* Wed 1445-1500 +
- Review of IOP test findings
+Review of IOP test findings
 .<a|
 *TC iSCHEDULE* Fri 1300-1430 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Open Discussions +
- 2.1 Work with the IETF +
- 2.2 Calendar User Addresses and iSchedule +
- 3. Review and Update Charter and Milestones +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Open Discussions +
+2.1 Work with the IETF +
+2.2 Calendar User Addresses and iSchedule +
+3. Review and Update Charter and Milestones +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
 
 *TC RESOURCE* Fri 1430-1530 +
- 1. Introduction +
- 1.1 TC Charter +
- 1.2 Accomplishments +
- 2 Resource RFC status +
- 2.1 OBJECTCLASS draft +
- 2.2 Schedulable draft +
- 2.3 Resource vCard draft +
- 3. Open Discussions +
- 3.1 Exposing more detailed information about an account through CalDAV +
- 3.2 Improve efficiency in searching for the right resource to schedule +
- 4. Future of TC +
- 4.1 Next conference calls
+1. Introduction +
+1.1 TC Charter +
+1.2 Accomplishments +
+2 Resource RFC status +
+2.1 OBJECTCLASS draft +
+2.2 Schedulable draft +
+2.3 Resource vCard draft +
+3. Open Discussions +
+3.1 Exposing more detailed information about an account through CalDAV +
+3.2 Improve efficiency in searching for the right resource to schedule +
+4. Future of TC +
+4.1 Next conference calls
 
 *TC TASKS* Thu 1030-1200 +
- 1. Introduction +
- 1.a Recap Charter +
- 2. Progress since last Roundtable +
- 2.1 Relationship draft +
- 2.1.1 Three types of relationships +
- 2.2 Task extensions draft +
- 2.2.1 task specific data +
- 2.3 Interop findings +
- 3. Next steps +
- 3.1 Protocol impacts +
- 4. Review and Update Charter and Milestones
+1. Introduction +
+1.a Recap Charter +
+2. Progress since last Roundtable +
+2.1 Relationship draft +
+2.1.1 Three types of relationships +
+2.2 Task extensions draft +
+2.2.1 task specific data +
+2.3 Interop findings +
+3. Next steps +
+3.1 Protocol impacts +
+4. Review and Update Charter and Milestones
 
 **TC TIMEZONE**Thu 1430-1530 +
- 1. Introduction +
- 1.1 Background to the work +
- 2. Interop report +
- 3. Timezone Service Specification +
- 4. Timezones by reference in CalDAV +
- 5. Publishing the specification +
- 6. Timezone Registries +
- 7. Review of charter and milestones +
- 8. Next steps
+1. Introduction +
+1.1 Background to the work +
+2. Interop report +
+3. Timezone Service Specification +
+4. Timezones by reference in CalDAV +
+5. Publishing the specification +
+6. Timezone Registries +
+7. Review of charter and milestones +
+8. Next steps
 
 *TC XML* Wed 1600-1700 +
- 1. Introduction +
- 1.1 Summary +
- 2. jCal & jCard: iCalendar and vCard in JSON +
- 2.1 IETF Status +
- 2.2 Remaining issues +
- 3 Interop test results +
- 4. Review of charter and milestones +
- 5. Moving Forward +
- 5.1 Future of TC-XML +
- 5.2 Next conference calls
+1. Introduction +
+1.1 Summary +
+2. jCal & jCard: iCalendar and vCard in JSON +
+2.1 IETF Status +
+2.2 Remaining issues +
+3 Interop test results +
+4. Review of charter and milestones +
+5. Moving Forward +
+5.1 Future of TC-XML +
+5.2 Next conference calls
 
 |===
 
@@ -338,16 +338,16 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 ==== Scheduled
 
 *Travel Itineraries and Calendaring (Workshop)* Fri 0830-1000 +
- Booking travel is often done online using digital tools. These tools frequently generate a schedule of "events" covering different "pieces" of the itinerary - typically including time-based components. Many websites offer to export that as calendar data, however the "quality" of the data is poor, and often disjoint and not easily integrated with other tools, such as 3rd-party travel apps on mobile devices. In some cases old versions of VCALENDAR are used, in others iCalendar is used, but is missing or has inaccurate timezone data. Plus the full potential of what iCalendar could offer is missing. This workshop aims to outline the problems associated with digitial itinerary calendar data, and show how iCalendar could be a powerful solution to help improve the overall user experience.
+Booking travel is often done online using digital tools. These tools frequently generate a schedule of "events" covering different "pieces" of the itinerary - typically including time-based components. Many websites offer to export that as calendar data, however the "quality" of the data is poor, and often disjoint and not easily integrated with other tools, such as 3rd-party travel apps on mobile devices. In some cases old versions of VCALENDAR are used, in others iCalendar is used, but is missing or has inaccurate timezone data. Plus the full potential of what iCalendar could offer is missing. This workshop aims to outline the problems associated with digitial itinerary calendar data, and show how iCalendar could be a powerful solution to help improve the overall user experience.
 
 *Federated Shared Calendars (Workshop)* Fri 0830-1000 +
- This workshop will address issues related to how users can share calendars between different calendar systems. This includes both direct iTIP style scheduling via iSchedule, as well as subscribed calendaring sharing. The goal is to propose solutions to improve the user experience in this area.
+This workshop will address issues related to how users can share calendars between different calendar systems. This includes both direct iTIP style scheduling via iSchedule, as well as subscribed calendaring sharing. The goal is to propose solutions to improve the user experience in this area.
 
 *Native CalDAV Support for PUSH* Fri 1030-1115 +
- PUSH is a "missing feature" in CalDAV and some server vendors have come up with proprietary solutions. This BOF will discuss a proposal on how to accomplish PUSH with WebDAV technology in a standardized way.
+PUSH is a "missing feature" in CalDAV and some server vendors have come up with proprietary solutions. This BOF will discuss a proposal on how to accomplish PUSH with WebDAV technology in a standardized way.
 
 *Expanding the CalConnect Remit* Fri 1115-1200 +
- CalConnect has made significant progress in its original goals of setting and evolving Calendaring & Scheduling standards and promoting interoperability and this work must continue. In recent years we have seen an explosion of new entrants in our field, in particular smaller vendors of calendaring and related products, and vendors targeted at specific end user groups (business, education, productivity) who are in direct contact with end users. CalConnect may need to expand what it does, how it positions itself and how it explains what it provides to better meet their needs and the needs of their users, the growing world of calendaring & scheduling consumers.
+CalConnect has made significant progress in its original goals of setting and evolving Calendaring & Scheduling standards and promoting interoperability and this work must continue. In recent years we have seen an explosion of new entrants in our field, in particular smaller vendors of calendaring and related products, and vendors targeted at specific end user groups (business, education, productivity) who are in direct contact with end users. CalConnect may need to expand what it does, how it positions itself and how it explains what it provides to better meet their needs and the needs of their users, the growing world of calendaring & scheduling consumers.
 
 
 
@@ -357,5 +357,5 @@ http://www.umodrekachnicky.cz/en/retro/welcome_
 
 *Timezones by Reference and eTAG Behavior* - during Interoperability Test Event
 
- Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found.
+Requests for new BOF sessions can be made at the Monday opening of the Interoperability Test Event, and the Wednesday opening of the Roundtable, and BOFs will be scheduled at that time. However spontaneous BOF sessions are welcome to be requested during the Roundtable and will be scheduled if time can be found.
 

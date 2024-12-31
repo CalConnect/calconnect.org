@@ -76,9 +76,9 @@ A variety of other hotels are within a few blocks of the Doubletree for those wh
 |===
 | 
 .<a| *The Doubletree Chattanooga Hotel* +
- 407 Chestnut Street +
- Chattanooga, TN 37402 +
- Tel: +1 423-756-5150. Fax: +1 423-752-6950 +
+407 Chestnut Street +
+Chattanooga, TN 37402 +
+Tel: +1 423-756-5150. Fax: +1 423-752-6950 +
 http://doubletree1.hilton.com/en_US/dt/hotel/CHACHDT-DoubleTree-by-Hilton-Hotel-Chattanooga-Downtown-Tennessee/accommodations.do[Doubletree Hilton Chattanooga]
 
 To book at the CalConnect Rate: Call 423-756-5150 and ask for the CalConnect rate, or go to the following web page: http://doubletree.hilton.com/en/dt/groups/personalized/C/CHACHDT-PEC-20120520/index.jhtml?WT.mc_id=POG[Chattanooga Doubletree CalConnect Room Bookings]. _The web page will specify May 20-25 but you may book up to two days before and after those dates at the same rate_.
@@ -99,36 +99,36 @@ This is a generic schedule and will be updated as soon as possible with the actu
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 21 May* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1400 link:{{'/calconnect24.shtml#bof1' | relative_url}}[Shared Address Books] +
- 1400-1430 link:{{'/calconnect24.shtml#bof2' | relative_url}}[CalDAV Test Suites] +
- 1430-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1400 link:{{'/calconnect24.shtml#bof1' | relative_url}}[Shared Address Books] +
+1400-1430 link:{{'/calconnect24.shtml#bof2' | relative_url}}[CalDAV Test Suites] +
+1430-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 
 1915-2200 IOP Test Dinner +
  _http://www.bigrivergrille.com/index.php?pg=location&sub=loc&location_id=21[Big River Grille] +
 222 Broad Street, Chattanooga_
 .<a| *Tuesday 22 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 23 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^1^
 
@@ -149,41 +149,41 @@ This is a generic schedule and will be updated as soon as possible with the actu
 
 3+.<| 
 .<a| *Wednesday 23 May* +
- 1000-1200 User Special Interest Group^2^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1500 TC FREEBUSY +
- 1500-1530 Break +
- 1530-1700 TC EVENTPUB +
- 1700-1800 link:{{'/calconnect24.shtml#bof3' | relative_url}}[Autodiscovery moving forward]
+1000-1200 User Special Interest Group^2^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1500 TC FREEBUSY +
+1500-1530 Break +
+1530-1700 TC EVENTPUB +
+1700-1800 link:{{'/calconnect24.shtml#bof3' | relative_url}}[Autodiscovery moving forward]
 
 1815-2030 Welcome Reception^4^ +
 _Doubletree Hotel_
 .<a| *Thursday 24 May* +
- 0800-0830 Breakfast +
- 0830-0930 TC USECASE +
- 0930-1030 TC RESOURCE +
- 1030-1100 Break +
- 1100-1230 TC ISCHEDULE +
- 1230-1330 Lunch +
- 1330-1500 TC CALDAV +
- 1500-1600 BOF: Report on IOP Testing BOFs +
- 1600-1630 Break +
- 1630-1800 Steering Committee^5^
+0800-0830 Breakfast +
+0830-0930 TC USECASE +
+0930-1030 TC RESOURCE +
+1030-1100 Break +
+1100-1230 TC ISCHEDULE +
+1230-1330 Lunch +
+1330-1500 TC CALDAV +
+1500-1600 BOF: Report on IOP Testing BOFs +
+1600-1630 Break +
+1630-1800 Steering Committee^5^
 
 1900-2200 Group Dinner^6^ +
  _http://www.waldenclub.org[The Walden Club] +
 633 Chestnut #2100, Chattanooga_
 .<a| *Friday 25 May* +
- 0800-0830 Breakfast +
- 0830-1030 TC XML +
- 1030-1100 Break +
- 1100-1200 TC TIMEZONE +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1300-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+0800-0830 Breakfast +
+0830-1030 TC XML +
+1030-1100 Break +
+1100-1200 TC TIMEZONE +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1300-1400 CalConnect Plenary Session +
+1400 Close of Meeting
 
 3+| 
 3+.<a|
@@ -194,7 +194,7 @@ _Doubletree Hotel_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
 
@@ -205,108 +205,108 @@ _Doubletree Hotel_
 |===
 .<a|
 *AUTODISCOVERY BOF* Wed 1700-1800 +
- 1, Introduction +
- 2. Problem statement +
- 3. Possible approaches +
- 3.1 webfinger +
- 3.2 Andrew (McMillan)'s approach +
- 3.3 anything else +
- 4. Way forward
+1, Introduction +
+2. Problem statement +
+3. Possible approaches +
+3.1 webfinger +
+3.2 Andrew (McMillan)'s approach +
+3.3 anything else +
+4. Way forward
 
 *TC CALDAV* Thu 1330-1500 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 Managed Attachments +
- 3.2 BRIEF vs PREFER Header +
- 3.3 CalDAV User Level Notifications +
- 3.4 Calendar Alarms +
- 3.5 Collected CalDAV Extensions +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Call
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 Managed Attachments +
+3.2 BRIEF vs PREFER Header +
+3.3 CalDAV User Level Notifications +
+3.4 Calendar Alarms +
+3.5 Collected CalDAV Extensions +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Call
 
 *TC EVENTPUB* Wed 1530-1700 +
- 1. Charter +
- 2. Work and accomplishments +
- 3. Rich text support +
- 4. Multi-language support +
- 5. New properties +
- 6. Going Forward - new Chair needed +
- 7. Next meeting
+1. Charter +
+2. Work and accomplishments +
+3. Rich text support +
+4. Multi-language support +
+5. New properties +
+6. Going Forward - new Chair needed +
+7. Next meeting
 
 *TC FREEBUSY* Wed 1330-1500 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. VPOLL current state +
- 2.1. Demo of VPOLL +
- 3. Moving Forward +
- 3.1 Plan of action +
- 3.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. VPOLL current state +
+2.1. Demo of VPOLL +
+3. Moving Forward +
+3.1 Plan of action +
+3.2 Next conference calls
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 .<a|
 *TC iSCHEDULE* Thu 1100-1230 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Open Discussions +
- 2.1 Discussion of current iSchedule deployments +
- 2.2 Planning for Zurich IOP testing +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Open Discussions +
+2.1 Discussion of current iSchedule deployments +
+2.2 Planning for Zurich IOP testing +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 
 *TC RESOURCE* Thu 0930-1030 +
- 1. Introduction +
- 2. TC Charter +
- 3. Status of IETF drafts +
- 4. Possible CalDAV extension for better search experience +
- 4.1 Enhanced attendee search accuracy +
- 4.2 Properties to be exposed on CalDAV principals +
- to provide more relevant search responses +
- 5. TC Future
+1. Introduction +
+2. TC Charter +
+3. Status of IETF drafts +
+4. Possible CalDAV extension for better search experience +
+4.1 Enhanced attendee search accuracy +
+4.2 Properties to be exposed on CalDAV principals +
+to provide more relevant search responses +
+5. TC Future
 
 *TC TIMEZONE* Fri 1100-1200 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Current timezone service draft +
- 3. Aliases +
- 4. Registries and data formats +
- 5. JSON support +
- 6. Current implementations - and call for more +
- 7. Moving Forward +
- 7.1 Plan of action +
- 7.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Current timezone service draft +
+3. Aliases +
+4. Registries and data formats +
+5. JSON support +
+6. Current implementations - and call for more +
+7. Moving Forward +
+7.1 Plan of action +
+7.2 Next conference calls
 
 *TC USECASE* Thu 0830-0930 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Discuss recent work: scheduling usecases +
- 3. General discusion of scheduling usecases +
- 4. Future work +
- 5. Moving Forward +
- 5.1 Call for participation +
- 5.2 Nest conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Discuss recent work: scheduling usecases +
+3. General discusion of scheduling usecases +
+4. Future work +
+5. Moving Forward +
+5.1 Call for participation +
+5.2 Nest conference calls
 
 *TC XML* Fri 0830-1030 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Ws-Calendar summary +
- 2.1. CalWS-SOAP and REST current state +
- 3. iCalendar in JSON +
- 4. Moving Forward +
- 4.1 Plan of action +
- 4.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Ws-Calendar summary +
+2.1. CalWS-SOAP and REST current state +
+3. iCalendar in JSON +
+4. Moving Forward +
+4.1 Plan of action +
+4.2 Next conference calls
 
 |===
 
@@ -319,4 +319,4 @@ _Doubletree Hotel_
 
 [[bof3]] Follow-on to previous autodiscovery BOFs to establish a way forward for CalConnect.
 
- Requests for additional BOF sessions may be made at any time and will be scheduled as time permits.
+Requests for additional BOF sessions may be made at any time and will be scheduled as time permits.

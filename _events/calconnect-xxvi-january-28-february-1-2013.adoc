@@ -50,7 +50,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place at Oracle's Santa Clara Headquarters, 4170 Network Circle, Santa Clara, California 95051. We will be in Building 23, Conference Room 1730, all week. *Initial check-in each day will be in the lobby to Building 17/18 and we will be escorted to the conference building and room.* +
+The Interoperability Test Event and the Roundtable will take place at Oracle's Santa Clara Headquarters, 4170 Network Circle, Santa Clara, California 95051. We will be in Building 23, Conference Room 1730, all week. *Initial check-in each day will be in the lobby to Building 17/18 and we will be escorted to the conference building and room.*
 
 *Please park in the lots behind Building 17 or Building 18 as shown on link:{{'/SantaClara.pdf' | relative_url}}[Santa Clara Building Layout] and http://goo.gl/maps/AWqvz[Oracle Santa Clara Campus].*
 
@@ -112,7 +112,7 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 1915-2130 IOP Test Dinner +
 _http://www.faultlinebrewing.com/[Faultline Brewing Company]_ +
 1235 Oakmead Parkway, Sunnyvale +
-408-736-2739 +
+408-736-2739
 
 .<a| *Tuesday 29 January* +
 0800-0830 Coffee & Rolls +
@@ -306,7 +306,7 @@ TBD +
 2.1 Objectives and Approach +
 2.2 Scope - In, Out, For other TCs +
 3. Discussion and feedback +
-4. Next steps +
+4. Next steps
 
 
 |===

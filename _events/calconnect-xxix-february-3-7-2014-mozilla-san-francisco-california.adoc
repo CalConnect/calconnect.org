@@ -86,9 +86,9 @@ The Shattuck Plaza hotel in Berkeley is the Conference Hotel for this meeting. T
 
 *Conference Hotel:* +
 *Shattuck Plaza Hotel* +
- 2086 Allston Way +
- Berkeley, California 94704 +
- 510-845-7300 +
+2086 Allston Way +
+Berkeley, California 94704 +
+510-845-7300 +
 http://www.hotelshattuckplaza.com/
 
 To book your room by phone, call direct at 510-845-7300 or toll free at 866-466-9199 and ask for the _CalConnect_ conference rate. To book online, please go to https://booking.ihotelier.com/istay/istay.jsp?hotelid=17233[]. Select "Promo/Corporate Code" at the top left and enter __CALCONNECT__as your passcode, and your date range. CalConnect discounted rates and the available room types will immediately be displayed for the selected dates of stay.
@@ -102,7 +102,7 @@ The room rate will be 17% off the Best Available Rate at the time you book which
 
 The Interoperability Test Event begins at 0830 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs through Friday mid-afternoon.
 
-_This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._ +
+_This is a preliminary schedule and does not show the actual Roundtable sessions. A more complete schedule will be available nearer the event, as will topical agendas for the sessions._
 
 
 [cols=3]
@@ -110,36 +110,36 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT XXIX*
 
 .<a| *Monday 3 February* +
- 0800-0830 Breakfast +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Interop Testing +
- 1230-1330 Lunch +
- 1330-1430 CalDAV Test Suite +
- 1430-1530 Interop Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing
+0800-0830 Breakfast +
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Interop Testing +
+1230-1330 Lunch +
+1330-1430 CalDAV Test Suite +
+1430-1530 Interop Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Interop Testing
 
 1830-2030 Interop Dinner +
 http://perryssf.com/general-information/embarcadero/[_Perry's_] _(in the Hotel Griffon) +
- 155 Steuart Street San Francisco_
+155 Steuart Street San Francisco_
 .<a| *Tuesday 4 February* +
- 0800-0830 Breakfast +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF (Peer Review) or Interop Testing +
- 1430-1530 Interop Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing
+0800-0830 Breakfast +
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF (Peer Review) or Interop Testing +
+1430-1530 Interop Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Interop Testing
 .<a| *Wednesday 5 February* +
- 0800-0830 Breakfast +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Interop Testing +
- 1200-1230 Wrap-up +
- 1230 End of Interoperability Testing
+0800-0830 Breakfast +
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Interop Testing +
+1200-1230 Wrap-up +
+1230 End of Interoperability Testing
 
 1230-1330 Lunch^1^
 
@@ -158,43 +158,43 @@ _This is a preliminary schedule and does not show the actual Roundtable sessions
 
 3+.<|
 .<a| *Wednesday 5 February* +
- 1030-1200 BOF: iSchedule domain identifier +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Opening Lunch^1^ +
- 1330-1515 Opening/SC/New Mbrs +
- 1515-1530 TC IOPTEST Reports +
- 1530-1600 Break and Refreshments +
- 1600-1700 API AD HOC +
- 1700-1800 Host Session - Mozilla
+1030-1200 BOF: iSchedule domain identifier +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Opening Lunch^1^ +
+1330-1515 Opening/SC/New Mbrs +
+1515-1530 TC IOPTEST Reports +
+1530-1600 Break and Refreshments +
+1600-1700 API AD HOC +
+1700-1800 Host Session - Mozilla
 
 1800-2000 Welcome Reception^4^ +
 _On Site_
 .<a| *Thursday 6 February* +
- 0800-0830 Breakfast +
- 0830-1000 TC PUSH +
- 1000-1030 Break and Refreshments +
- 1030-1230 TC CALDAV +
- 1230-1330 Lunch +
- 1330-1430 TC ISCHEDULE +
- 1430-1530 FSC AD HOC +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC TIMEZONE +
- 1700-1800 TC FREEBUSY
+0800-0830 Breakfast +
+0830-1000 TC PUSH +
+1000-1030 Break and Refreshments +
+1030-1230 TC CALDAV +
+1230-1330 Lunch +
+1330-1430 TC ISCHEDULE +
+1430-1530 FSC AD HOC +
+1530-1600 Break and Refreshments +
+1600-1700 TC TIMEZONE +
+1700-1800 TC FREEBUSY
 
 1830-2100 Group Dinner^6^ +
  _http://www.palomino.com/locations.php[Palomino] +
 345 Spear Street, San Francisco_
 .<a| *Friday 7 February* +
- 0800-0830 Breakfast +
- 0830-1000 TC TASKS +
- 1000-1030 Break and Refreshments +
- 1030-1100 CALSCALE AD HOC (demo) +
- 1100-1130 TC EVENTPUB +
- 1130-1230 TC RESOURCE +
- 1230-1330 Working Lunch +
- 1300-1315 TC WRAPUP +
- 1315-1400 CalConnect Plenary +
- 1400 (approx) Close of Meeting
+0800-0830 Breakfast +
+0830-1000 TC TASKS +
+1000-1030 Break and Refreshments +
+1030-1100 CALSCALE AD HOC (demo) +
+1100-1130 TC EVENTPUB +
+1130-1230 TC RESOURCE +
+1230-1330 Working Lunch +
+1300-1315 TC WRAPUP +
+1315-1400 CalConnect Plenary +
+1400 (approx) Close of Meeting
 
 3+|
 3+.<a|
@@ -203,7 +203,7 @@ _On Site_
 ^4^All Roundtable and/or Interoperability Test Event participants are invited to the Wednesday evening reception +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
 
 |===
 
@@ -214,123 +214,123 @@ _On Site_
 [cols=2]
 |===
 .<a| *API Ad Hoc* Wed 1600-1700 +
- 1. Proposed Charter and milestones +
- 2. Outline of abstract API +
- 3. Discussion
+1. Proposed Charter and milestones +
+2. Outline of abstract API +
+3. Discussion
 
 *CALSCALE Ad Hoc* Fri 1030-1100 +
- 1. Status of draft +
- 2. Demo +
- 3. Next steps
+1. Status of draft +
+2. Demo +
+3. Next steps
 
 *FSC Ad Hoc* Thu 1430-1530 +
- 1. Background +
- 2. The Apple sharing spec +
- 3. Overview +
- 4. Open discussion +
- 5. Next steps
+1. Background +
+2. The Apple sharing spec +
+3. Overview +
+4. Open discussion +
+5. Next steps
 
 *Opening Session* Wed 1330-1515 +
- 1. Opening and Logistics +
- 2. Introductions +
- 3. New Member Presentations +
- 4. Steering Committee and SC Ad Hoc
+1. Opening and Logistics +
+2. Introductions +
+3. New Member Presentations +
+4. Steering Committee and SC Ad Hoc
 
 *TC CALDAV* Thu 1030-1230 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 VALARM extensions +
- 3.2 Managed Attachments +
- 3.3 Rich Capabilities +
- 3.4 Scheduling Object Drafts +
- 4. Review and Update Charter and Milestones +
- 5. Moving Forward +
- 5.1 Plan of Action
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 VALARM extensions +
+3.2 Managed Attachments +
+3.3 Rich Capabilities +
+3.4 Scheduling Object Drafts +
+4. Review and Update Charter and Milestones +
+5. Moving Forward +
+5.1 Plan of Action
 
 *TC EVENTPUB* Fri 1100-1130 +
- 1.Work and accomplishments +
- 2. Review of iCalendar extensions draft RFC +
- 3. Charter and milestones +
- 4. Going Forward +
- 4.1 Next steps +
- 4.2 Next call
+1.Work and accomplishments +
+2. Review of iCalendar extensions draft RFC +
+3. Charter and milestones +
+4. Going Forward +
+4.1 Next steps +
+4.2 Next call
 
 *TC FREEBUSY* Thu 1700-1800 +
- 1. Work and accomplishments +
- 2. VAVAILABILITY RFC +
- 3. VPOLL RFC +
- 4. Interop test report +
- 4.1 VPOLL demo +
- 5. Update charter and milestones +
- 6. Moving Forward +
- 6.1 Plan of Action +
- 6.2 New Work +
- 6.3 Next Conference Call
+1. Work and accomplishments +
+2. VAVAILABILITY RFC +
+3. VPOLL RFC +
+4. Interop test report +
+4.1 VPOLL demo +
+5. Update charter and milestones +
+6. Moving Forward +
+6.1 Plan of Action +
+6.2 New Work +
+6.3 Next Conference Call
 
 *TC IOPTEST* Wed 1515-1530 +
- Review of IOP test findings
+Review of IOP test findings
 .<a|
 *TC ISCHEDULE* Thu 1330-1430 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Calendar User Addresses and iSchedule +
- 3. How to sell iSchedule to the rest of the world +
- 4. Review and Update Charter and Milestones +
- 5. Moving Forward +
- 5.1 Plan of Action +
- 5.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Calendar User Addresses and iSchedule +
+3. How to sell iSchedule to the rest of the world +
+4. Review and Update Charter and Milestones +
+5. Moving Forward +
+5.1 Plan of Action +
+5.2 Next Conference Calls
 
 *TC PUSH* Thu 0830-1000 +
- 1. Review of new TC Charter +
- 2. Problem description +
- 2.1 Existing solutions +
- 2.2 7 Things +
- 3. Discussion of requirements +
- 4. Next Steps and call for participation +
- 5. Next call
+1. Review of new TC Charter +
+2. Problem description +
+2.1 Existing solutions +
+2.2 7 Things +
+3. Discussion of requirements +
+4. Next Steps and call for participation +
+5. Next call
 
 *TC RESOURCE* Fri 1130-1230 +
- 1. Charter +
- 2. Review +
- 3. New properties for vCard (map/floor plans) +
- 4. How to expose properties in CalDAV (principal) +
- 5. How to expose properties in iCalendar +
- 6. Call for participation +
- 7. Next call
+1. Charter +
+2. Review +
+3. New properties for vCard (map/floor plans) +
+4. How to expose properties in CalDAV (principal) +
+5. How to expose properties in iCalendar +
+6. Call for participation +
+7. Next call
 
 *TC TASKS* Fri 0830-1000 +
- 1. Introduction +
- 1.1 Recap Charter +
- 2. Progress since last roundtable +
- 2.1 Task Architecture +
- 2.2 Relationships recap +
- 2.3 GAP revisited +
- 2.4 Alarms/Escalations +
- 2.5 Deadlines +
- 2.6 SUBSTATE revisited +
- 2.7 PREPARE revisited +
- 3. Next steps +
- 3.1 Domain specific data ref WS-Calendar +
- 3.2 Protocol impacts +
- 4. Review and Update Charter and Milestones
+1. Introduction +
+1.1 Recap Charter +
+2. Progress since last roundtable +
+2.1 Task Architecture +
+2.2 Relationships recap +
+2.3 GAP revisited +
+2.4 Alarms/Escalations +
+2.5 Deadlines +
+2.6 SUBSTATE revisited +
+2.7 PREPARE revisited +
+3. Next steps +
+3.1 Domain specific data ref WS-Calendar +
+3.2 Protocol impacts +
+4. Review and Update Charter and Milestones
 
 **TC TIMEZONE**Thu 1600-1700 +
- 1. Introduction +
- 1.1 Background to the work +
- 2. Interop report +
- 3. Timezone Service Specification +
- 4. Timezones by reference in CalDAV +
- 5. Publishing the specification +
- 6. Timezone Registries +
- 7. Impact of DST on DURATION and DTEND +
- 8. Review of charter and milestones +
- 9. Next steps
+1. Introduction +
+1.1 Background to the work +
+2. Interop report +
+3. Timezone Service Specification +
+4. Timezones by reference in CalDAV +
+5. Publishing the specification +
+6. Timezone Registries +
+7. Impact of DST on DURATION and DTEND +
+8. Review of charter and milestones +
+9. Next steps
 
 |===
 

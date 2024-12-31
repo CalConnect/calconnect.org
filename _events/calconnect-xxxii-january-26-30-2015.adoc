@@ -21,7 +21,7 @@ Monday, January 26, 2015 to Friday, January 30, 2015
 Recent Changes:
 
 _Information is current to January 14, 2015_ +
- Finish time on Thursday and time of conference dinner updated
+Finish time on Thursday and time of conference dinner updated
 
 CalConnect XXXII, consisting of a CalConnect Interoperability Test Event and a CalConnect Conference (Members Meeting), will be held in San Jose, California, on January 26-30, 2015, hosted by Kerio Technologies.
 
@@ -82,13 +82,13 @@ Our conference hotel for this event is the Hotel De Anza in San Jose, also the l
 |===
 | 
 .<a| *The Hotel De Anza* +
- 233 West Santa Clara Street +
- Downtown San Jose, CA 95113 +
- Phone: +1 408 286 1000 +
+233 West Santa Clara Street +
+Downtown San Jose, CA 95113 +
+Phone: +1 408 286 1000 +
 http://hoteldeanza.com
 
 To book by telephone, call +1 408 285 1000 or tollfree +1-800-843-3700. +
- To book online, go to http://hoteldeanza.com and click on "Reservations".
+To book online, go to http://hoteldeanza.com and click on "Reservations".
 
 |===
 
@@ -107,30 +107,30 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 
 .<a| *Monday 26 January* +
 *Kerio Technologies, 111 N. Market Street* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1915-2130 Interoperability Test Event Dinner +
 http://www.britanniaarmsdowntown.com/[_The Britannia Arms_] +
- 173 W. Santa Clara Street, San Jose 
+173 W. Santa Clara Street, San Jose 
 .<a| *Tuesday 27 January* +
 *Kerio Technologies, 111 N. Market Street* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 |===
 
@@ -161,17 +161,17 @@ The Conference begins with lunch on Wednesday and runs through Friday afternoon.
 | 
 .<a| Invited Speakers +
 Timezones: Steve Allen, Unversity of California Lick Observatory +
- CalDAV: Lisa Dusseault, Klutch  
+CalDAV: Lisa Dusseault, Klutch  
 
 .<| 1615-1745
 | 
 .<a| Panel Discussion: The Future of Calendaring +
 Lucia Fedorova, Google +
- Gershon Janssen, Secretary, OASIS Board of Directors +
- Scott Mace, CalendarSwamp blog, CalConnect Director +
- Pete Resnick, Qualcomm, IETF Area Director +
- Scott Schreiman, CEO, Kerio Technologies +
- Nick Sonnenberg, CEO, Calvin
+Gershon Janssen, Secretary, OASIS Board of Directors +
+Scott Mace, CalendarSwamp blog, CalConnect Director +
+Pete Resnick, Qualcomm, IETF Area Director +
+Scott Schreiman, CEO, Kerio Technologies +
+Nick Sonnenberg, CEO, Calvin
 
 .<| 1745-1800 |  .<| What CalConnect Means to Us
 .<| 1800-2030 |  .<| Welcome Reception^3^ 
@@ -221,7 +221,7 @@ _A more in-depth presentation of new problems to be solved._
 | 
 .<a| Conference Dinner^4^ +
 http://www.thefarmersunion.com[_The Farmers Union_] _(John P. Room upstairs)_ +
- 151 W. Santa Clara Street San Jose 
+151 W. Santa Clara Street San Jose 
 
 3+| 
 3+.<| *Friday 30 January -- CalConnect Conference*
@@ -264,6 +264,6 @@ _Administrative business, coming events, consensus agreements on decisions reach
 ^3^All Conference and Test Event participants are invited to the Wednesday evening reception +
 ^4^All Conference participants are invited to the group dinner on Thursday.
 
- Lunch and morning and afternoon breaks will be served to all participants and are included in your registration fees. 
+Lunch and morning and afternoon breaks will be served to all participants and are included in your registration fees. 
 
 |===
