@@ -10,8 +10,6 @@ excerpt: In the context of CalConnect's mission, to advance interoperable calend
 
 == Interoperable Calendaring means never, never, ever having to enter an appointment on more than one machine
 
-Posted January 14, 2013 
-
 In the context of CalConnect's mission, to advance interoperable calendaring & scheduling in practical and useful ways, one of our major activities is to promote open-standards based calendaring and scheduling to the general public as well as the information technology industry. From time to time, we receive unsolicited help in bringing our message to the general public, such as David Pogue's column in last week's New York Times, "`Bringing the Calendar Up to Date`" (http://www.nytimes.com/2013/01/08/technology/personaltech/mixing-and-matching-to-create-the-near-perfect-digital-calendar-state-of-the-art.html?pagewanted=all).
 
 The majority of Pogue's article is concerning with calendar program user interfaces, and his suggestion that perhaps it is time for a paradigm shift in calendar UI s. These issues are largely the province of the creative people and companies which produce end-user calendaring products, and the consumers who will ultimately decide which paradigms to accept, and which products to adopt and/or purchase.

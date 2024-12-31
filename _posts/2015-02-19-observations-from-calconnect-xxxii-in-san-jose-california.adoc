@@ -10,8 +10,6 @@ excerpt: CalConnect held its thirty-second Conference (XXXII) and Interoperabili
 
 == Observations from CalConnect XXXII in San Jose, California
 
-Posted February 19, 2015
-
 CalConnect held its thirty-second Conference (XXXII) and Interoperability Test Event the week of January 26-30, 2015, hosted by http://www.kerio.com[Kerio Technologies] in San Jose, California. This event was also the Tenth Anniversary of CalConnect's first members meeting in January of 2005 at the University of Washington. The first day of the XXXII Conference was dedicated to the Tenth Anniversary Celebration, a look back at our first decade, and a look forward to the next decade of interoperable calendaring and scheduling.
 
 The week led off with the Interoperability Test Even on Monday. The event had 24 participants from 14 organizations.

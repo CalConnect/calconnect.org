@@ -10,8 +10,6 @@ excerpt: CalConnect has just published a set of example RRULEs and the expected 
 
 == RRULES and RSCALE examples for Non-Gregorian Recurring Events in iCalendar
 
-Posted June 19, 2014
-
 CalConnect has just published a set of example RRULEs and the expected expansion set for ensuring compliance of calendar servers with the new RSCALE component that supports recurrences in non-Gregorian calendars (see http://tools.ietf.org/html/draft-daboo-icalendar-rscale/) for the RSCALE component, and link:{{'/tests/rscale_golden.txt' | relative_url}}[/tests/rscale_golden.txt] for the example set).
 
 The examples are reasonably comprehensive for testing RSCALE and the implicit SKIP=YES behavior with the non-RSCALE Gregorian calendar, but certainly not exhaustive. However there should be enough examples in this file for a developer to test/understand the proper handling of leap months/days and SKIP behavior.

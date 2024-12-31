@@ -10,8 +10,6 @@ excerpt: The CalConnect XLVII web page contains lodging information, airport and
 
 == Registration is now open for CalConnect XLVII in Nottingham, United Kingdom, April 20-24, 2020, hosted by Cronofy
 
-Posted January 7, 2020 
-
 The link:{{'/events/calconnect-xlvii-april-20-24-2020' | relative_url }}[CalConnect XLVII web page] contains lodging information, airport and transfer information, and meeting venue.
 
 The CalConnect Conference itself will be four days, Monday-Thursday, April 20-23. Friday April 24th will be a joint work and testing day if some attendees with to stay through Friday.

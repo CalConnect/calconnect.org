@@ -10,7 +10,6 @@ excerpt: After Ribose in Hong Kong in 2016, Jorte hosted CalConnect's second Asi
 
 == CalConnect XLII in Tokyo and the Data Event Summit with JEDC
 
-Posted July 23, 2018 
 image::link:{{'/assets/images/dataeventsummit.jpg' | relative_url}}["",480,360]
 
 After Ribose in Hong Kong in 2016, https://www.jorte.com/[Jorte] hosted CalConnect's link:{{'/events/.calconnect-xlii-june-04-08-2018' | relative_url }}[second Asian conference] in Tokyo.

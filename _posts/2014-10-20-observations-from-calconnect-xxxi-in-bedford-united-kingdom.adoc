@@ -10,8 +10,6 @@ excerpt: CalConnect held its thirty-first Conference and Interoperability Test E
 
 == Observations from CalConnect XXXI in Bedford, United Kingdom
 
-Posted October 20, 2014 
-
 CalConnect held its thirty-first Conference and Interoperability Test Event the week of September 29  October 3, hosted by http://ga.youcanbook.me[Youcanbook.me] in Bedford, United Kingdom.
 
 The week led off with the Interoperability test Event on Monday, which had 15 participants from 9 organizations onsite, plus an additional 4 people from 3 members participating remotely. On Wednesday afternoon, the Conference opened with 19 participants from 13 members present, plus several others joining remotely for one or more sessions. Following our usual practice for European conferences, the regular Conference sessions were held largely in the afternoon, with Thursday and Friday mornings dedicated to Workshops and BoFs (Birds of a Feather sessions).

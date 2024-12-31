@@ -10,8 +10,6 @@ excerpt: If you're based or currently in the Bay Area and are interested in cale
 
 == A chance to observe -- CalConnect in San Francisco next week
 
-Posted January 27, 2014
-
 If you re based or currently in the Bay Area and are interested in calendaring, next week is your chance to be an observer at the 29th CalConnect event at Mozilla, February 3-7 2014. The week is divided in half  the first half is an interoperability test event; the second half (Wednesday afternoon to Friday afternoon) is the technical conference and members  meeting.
 
 Non-members may always participate or observe at the interoperability test event  and we have a provision for non-members to come to a single technical conference as observers to find out more about CalConnect and what's going on.

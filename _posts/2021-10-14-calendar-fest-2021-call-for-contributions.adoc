@@ -10,8 +10,6 @@ excerpt: The CalConnect Virtual Conference Autumn 2021 web page contains informa
 
 = Call for contributions for the CalendarFest 2021 (Autumn 2021)
 
-Posted October 14, 2021
-
 CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers, and related groupware systems, share experiences and discuss novel ideas.
 
 CalendarFest will take place **18th of October**, 02:30h PM UTC virtually via Zoom, and is held in conjunction with the link:{{'/events/calconnect-virtual-conference-autumn-2021' | relative_url}}[CalConnect virtual conference].

@@ -10,8 +10,6 @@ excerpt: OASIS, the Organization for the Advancement of Structured Information S
 
 == OASIS joins CalConnect
 
-Posted November 23, 2009
-
 http://www.oasis-open.org[OASIS], the Organization for the Advancement of Structured Information Systems, has joined CalConnect as part of a reciprocal membership agreement between the two organizations. The joint relationship will initially focus on the iCalendar XML Representation and web services support for calendaring and scheduling.
 
 

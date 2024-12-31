@@ -10,8 +10,6 @@ excerpt: CalConnect has accepted the offer of Kerio Technologies to host its twe
 
 == CalConnect XXII to be held at Kerio Technologies in the Czech Republic
 
-Posted February 10, 2010 
-
 CalConnect has accepted the offer of http://www.kerio.com[Kerio Technologies] to host its twenty-second Roundtable and Interoperability Test Event. CalConnect XVII will be held in the Autumn of 2011 (late September or early October) at Kerio Technologies, in Plzen, Czech Republic. This will be the first full CalConnect Week to be held outside of North America, although CalConnect has held a Mobile Calendaring Interoperability Test Event and two Meet CalConnect introductory events in Europe in the past two years.
 
 

@@ -10,8 +10,6 @@ excerpt: Earlier this week, David Pogue's posting (http://pogue.blogs.nytimes.co
 
 == Shifting Time Zones on Online Calendars -- A CalConnect Perspective
 
-Posted October 15, 2010
-
 Earlier this week, David Pogue's posting (http://pogue.blogs.nytimes.com/2010/10/13/shifting-time-zones-on-online-calendars/) "`Shifting Time Zones on Online Calendars Appeared on the New York Times web site. For the last 10 years, Pogue has been writing the Times' "`Personal Tech`" column, and is perhaps the most influential tech writer in the U.S.
 
 In the context of CalConnect, Pogue's article, which appeared under the subhead of "`Making an appointment in one time zone does not mean your calendar will remind you at the right time if you travel to another time zone-unless you adjust a setting`", is both gratifying and vexing.

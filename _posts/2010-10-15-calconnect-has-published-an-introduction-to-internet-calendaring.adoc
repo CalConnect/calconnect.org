@@ -10,7 +10,5 @@ excerpt: CalConnect has published An Introduction to Internet Calendering. This 
 
 == CalConnect has published “An Introduction to Internet Calendaring”
 
-Posted October 15, 2010
-
 CalConnect has published link:{{'/CD1012_Intro_Calendaring' | relative_url}}[An Introduction to Internet Calendering]. This Introduction provides an overview of the major calendaring & scheduling standards and data exchange protocols. It is available in both HTML and PDF formats.
 

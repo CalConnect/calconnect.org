@@ -10,8 +10,6 @@ excerpt: Registration is now open for CalConnect XVI, October 5-9, 2009, at Appl
 
 == Registration is open for CalConnect XVI October 5-9 2009
 
-Posted July 22, 2009
-
 Registration is now open for CalConnect XVI, October 5-9, 2009, at Apple in Cupertino, California. Please see link:{{'/calconnect16' | relative_url}}[/calconnect16] for logistics and registration information for the Roundtable and for the Interoperability Test Event.
 
 The Conference Hotel will be the Cypress Hotel in Cupertino. If you are from a CalConnect member you will be able to book at the Apple rate.

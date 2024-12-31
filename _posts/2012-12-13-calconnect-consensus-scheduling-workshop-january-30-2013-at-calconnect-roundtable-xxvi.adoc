@@ -10,8 +10,6 @@ excerpt: CalConnect, the Calendaring & Scheduling Consortium will hold an open W
 
 == CalConnect Consensus Scheduling Workshop -- January 30, 2013, at CalConnect Roundtable XXVI
 
-Posted December 13, 2012
-
 CalConnect, the Calendaring & Scheduling Consortium (link:{{'/),' | relative_url}}[/),] will hold an open Workshop on Consensus Scheduling in conjunction with its member meeting, Roundtable XXVI, on Wednesday afternoon, 30 January, 2013, at Oracle Corporation in Santa Clara.
 
 This workshop will examine the state of the art with respect to consensus scheduling, and explore directions to integrate consensus scheduling into calendaring and scheduling standards and products, to enable interoperability and make consensus scheduling part of the full functionality of calendaring and scheduling products. There will be a presentation and discussion on CalConnect's work in progress on VPOLL, a proposed new component for iCalendar in support of consensus scheduling.

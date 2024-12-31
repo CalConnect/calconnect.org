@@ -10,8 +10,6 @@ excerpt: RECENT UPDATE as of 7 September 2010 Based on the responses we received
 
 == Invitation to participate in the next Mobile Calendaring Interoperability Test Event
 
-Posted July 22, 2010
-
 RECENT UPDATE as of 7 September 2010: Based on the responses we received, the
 Mobile Calendaring Interoperability Test Event will not be held in October, but
 at the following CalConnect event, which will be February 7-11 2011 at the

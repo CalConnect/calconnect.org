@@ -10,8 +10,6 @@ excerpt: CalConnect was founded almost 10 years ago as a collaboration between c
 
 == Workshop on Veterans Administration Scheduling System at CalConnect XXX on May 21, 2014 -- Agenda & Participants
 
-Posted May 12, 2014 
-
 CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
 We are using the recent VA Scheduling System Contest as a jump point to explore importance of open calendaring & scheduling standards with respect to healthcare IT, and what changes/additions to these same standards would facilitate healthcare IT for patients, providers, and software developers.

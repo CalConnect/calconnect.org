@@ -16,8 +16,6 @@ excerpt: |
 
 == CalWS-Rest Restful Web Services Protocol for Calendaring published
 
-Posted September 13, 2010
-
 The XML Technical Committee has published CalWS-Rest Restful Web Services
 Protocol for Calendaring.
 

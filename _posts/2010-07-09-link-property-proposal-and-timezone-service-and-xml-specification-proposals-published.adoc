@@ -10,8 +10,6 @@ excerpt: The EVENTPUB Technical Committee has published LINK Property Extension 
 
 == LINK Property Proposal and Timezone Service and XML Specification Proposals Published
 
-Posted July 9, 2010
-
 The EVENTPUB Technical Committee has published __LINK Property Extension to iCalendar__, and the proposal has been submitted to the IETF as an Internet Draft. Please see link:{{'/CD1006%20LINK%20Property' | relative_url}}[LINK Property Extension to iCalendar]. This proposal introduces a new iCalendar property LINK to provide ancillary information for iCalendar components.
 
 The TIMEZONE Technical Committee has published _Timezone Service Protocol_ and __Timezone XML Specification__, and the proposals have been submitted to the IETF as Internet Drafts. Please see link:{{'/CD1007%20Timezone%20Service' | relative_url}}[Timezone Service Protocol] and link:{{'/CD1008%20Timezone%20XML' | relative_url}}[Timezone XML Specification]. The Timezone Service Protocol defines a timezone service protocol that allows reliable, secure and fast delivery of timezone information to client systems such as calendaring and scheduling applications or operating systems. The Timezone XML Specification describes a format for describing timezone information for software and services.

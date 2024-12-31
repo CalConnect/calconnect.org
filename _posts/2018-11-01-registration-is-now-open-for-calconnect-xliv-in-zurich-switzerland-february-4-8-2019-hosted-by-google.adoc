@@ -10,8 +10,6 @@ excerpt: The CalConnect XLIV web page contains lodging information, airport and 
 
 == Registration is now open  for CalConnect XLIV in Zurich, Switzerland, February 4-8, 2019, hosted by Google
 
-Posted November 1, 2018
-
 The CalConnect XLIV web page is located at link:{{'/events/calconnect-xliv-february-4-8-2019' | relative_url}}[] and contains lodging information, airport and transfer information, meeting venue, schedule, etc. The page also offers preliminary information about an https://www.eventbrite.com/e/calendar-and-scheduling-developer-day-zurich-tickets-51512514317[Open Codefest] on Monday 4 February and a https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[Public Workshop on Time Zones] on Tuesday afternoon 5 February,
 
 The *meeting venue* is in Building H, part of the Google facilities in central ZÃ¼rich near the central Train Station. The conference hotel is the http://www.25hours-hotels.com/en/hotels/zurich/langstrasse[25hours Hotel Langstrasse], a very short walk from the Central Train Station and across the street from our meeting venue. Three other hotels are also referenced in the link:{{'/events/calconnect-xliv-february-4-8-2019#lodging' | relative_url}}[Lodging] section of the web page. All hotels may be booked immediately. A map of the central area is linked from the link:{{'/events/calconnect-xliv-february-4-8-2019#location' | relative_url}}[Location] section of the web page.

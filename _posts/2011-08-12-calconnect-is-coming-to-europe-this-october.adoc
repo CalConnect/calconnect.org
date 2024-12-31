@@ -10,8 +10,6 @@ excerpt: We are excited and very pleased to announce our first full CalConnect c
 
 == CalConnect is coming to Europe this October
 
-Posted August 12, 2011
-
 We are excited and very pleased to announce our first full CalConnect conference in Europe! If you are interested in Calendaring and Scheduling, in the standards and technologies  if you want a chance to do interoperability testing against other implementations -- if traveling to North America to do so hasn't been practical -- here's your opportunity. And we are offering extremely attractive special one-time registration fees for non-members.
 
 Our first European conference will be in in Prague, Czech Republic, on October 3-7, 2011, hosted by http://www.kerio.com/[Kerio Technologies]. We encourage our European colleagues and all others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but may have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect member meeting without having to incur the travel costs and time of coming to North America.

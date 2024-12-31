@@ -10,8 +10,6 @@ excerpt: Registration is now open and hotel reservations are available for CalCo
 
 == Registration Opens for CalConnect XXX at AOL in Dulles, Virginia -- May 19-23 2014
 
-Posted March 18, 2014
-
 Registration is now open and hotel reservations are available for CalConnect XXX in Dulles, Virginia, May 19-23, 2014. The logistics page is located at link:{{'/calconnect30' | relative_url}}[/calconnect30] and contains hotel booking information, locations, meeting venue, travel information, etc.
 
 Our meeting venue is AOL's Steve Crane Center at 22000 AOL Way, about 2 miles from Dulles International Airport.

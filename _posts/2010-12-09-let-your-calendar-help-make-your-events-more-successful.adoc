@@ -10,8 +10,6 @@ excerpt: Earlier this week, I viewed (more listened, really) to a webcast from H
 
 == Let Your Calendar Help Make Your Events More Successful
 
-Posted December 9, 2010
-
 Earlier this week, I viewed (more listened, really) to a webcast from Harvard's Berkman Center for Internet & Society (http://cyber.law.harvard.edu/events/luncheon/2010/12/udell), "`Rethinking the community calendar: A case study in learning and teaching Fourth R principles`", by Jon Udell. Jon is presently a Microsoft "`senior technical evangelist`", but he has also been a calendaring activist for some time through his elmcity project (http://blog.jonudell.net/elmcity-project-faq/). I have been reading Jon Udell since his days as a columnist for Infoworld, long before he interviewed +
 (http://itc.conversationsnetwork.org/shows/detail4176.html) CalConnect's Mike Douglass and Steven Lees in 2009 about their work on the XML representation of iCalendar, now in draft 7 (http://tools.ietf.org/html/draft-daboo-et-al-icalendar-in-xml-07) .
 

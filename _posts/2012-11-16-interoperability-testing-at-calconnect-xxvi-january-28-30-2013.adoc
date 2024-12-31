@@ -10,8 +10,6 @@ excerpt: The Interoperability Test Event will take place all day Monday and Tues
 
 == Interoperability Testing at CalConnect XXVI, January 28-30, 2013
 
-Posted November 16, 2012
-
 The Interoperability Test Event will take place all day Monday and Tuesday, January 28-29, and Wednesday morning January 30th during CalConnect XXVI, hosted by Oracle in Santa Clara, California. For information about event logistics please see link:{{'/calconnect26' | relative_url}}[].
 
 At this point we are planning testing in the following areas (Updated 30 November 2012):

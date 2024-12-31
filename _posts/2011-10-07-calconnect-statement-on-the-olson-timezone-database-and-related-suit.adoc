@@ -10,8 +10,6 @@ excerpt: CalConnect has always been interested in timezone data because accurate
 
 == CalConnect Statement on the Olson Timezone Database and related suit
 
-Posted October 7, 2011 
-
 CalConnect has always been interested in timezone data because accurate and timely timezone information is essential to calendaring and scheduling. We have done considerable work in the area and have always been impressed by the Olson volunteer team and Olson Database.
 
 The Timezone database, edited and managed by Arthur David Olson, provides a comprehensive source for timezone data including daylight savings rules, which often change at short notice in many regions of the world. Many editions of the Timezone database are produced each year to address these changes as quickly as possible.

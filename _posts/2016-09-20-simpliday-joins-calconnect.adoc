@@ -10,8 +10,6 @@ excerpt: CalConnect welcomes Simpliday as a member of the consortium. Simpliday,
 
 == Simpliday joins CalConnect
 
-Posted September 20, 2016 
-
 CalConnect welcomes http://www.simpliday.com[Simpliday] as a member of the consortium. Simpliday, based in MalmÃ¶, Sweden, believes that the calendar is the best interface for day-to-day interaction for the user, and offers an all-in-one calendar that's "more than just a calendar".
 
 

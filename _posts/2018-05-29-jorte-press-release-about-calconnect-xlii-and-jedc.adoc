@@ -10,8 +10,6 @@ excerpt: Jorte, our host for CalConnect XLII in Tokyo next week, has issued a pr
 
 == Jorte Press Release about CalConnect XLII and JEDC
 
-Posted May 29, 2018
-
 http://www.jorte.com/en[Jorte], our host for
 link:{{'/events/calconnect-xlii-june-04-08-2018' | relative_url}}[CalConnect XLII] in Tokyo next week, has issued a
 https://news.biglobe.ne.jp/economy/0528/atp_180528_0139083724.html[press

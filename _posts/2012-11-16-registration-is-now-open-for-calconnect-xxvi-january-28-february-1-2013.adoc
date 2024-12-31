@@ -10,8 +10,6 @@ excerpt: Registration is now open for CalConnect XXVI, January 28 -- February 1,
 
 == Registration is now open for CalConnect XXVI, January 28-February 1, 2013
 
-Posted November 16, 2012 
-
 Registration is now open for link:{{'/calconnect26' | relative_url}}[CalConnect XXVI], January 28  February 1, 2013, hosted by Oracle in Santa Clara, California. Monday and Tuesday all day and Wednesday morning will be the Interoperability Test Event; Wednesday afternoon, Thursday, and Friday will be the CalConnect Roundtable Technical Conference.
 
 Logistics information for this event may be found at link:{{'/calconnect26' | relative_url}}[/calconnect26] including travel, preliminary hotel, registration, and other planning information. A general schedule is posted, but will be updated nearer to the event with the actual session schedule and with topical agendas for the schedule.

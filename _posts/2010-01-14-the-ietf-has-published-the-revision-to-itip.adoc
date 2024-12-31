@@ -10,8 +10,6 @@ excerpt: RFC 5546, iCalendar Transport-Independent Interoperability Protocol (iT
 
 == The IETF has published the revision to iTIP
 
-Posted January 14, 2010 
-
 RFC 5546, iCalendar Transport-Independent Interoperability Protocol (iTIP), has been published by the IETF as a Proposed Standard. This is the revision to RFC 2446 (iTIP) which has been underway for some time. RFC 5546 obsoletes RFC 2446. See http://tools.ietf.org/html/rfc5546[]. CalConnect congratulates everyone who was involved in progressing this work.
 
 

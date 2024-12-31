@@ -10,8 +10,6 @@ excerpt: CalConnect holds three IOP test events and Roundtables (members' meetin
 
 == CalConnect XX a great success
 
-Posted February 11, 2011 
-
 CalConnect holds three IOP test events and Roundtables (members  meeting) each year, and last week it was hosted by the University of California, Berkeley. The interoperability test event featured two mobile CalDAV calendars, one from Andrew McMillan for Android (aCal) and one from Nokia, plus a new Project Management tool from The Omni Group, OmniPlan, implemented as a CalDAV client.
 
 The Roundtable featured presentations and discussion sessions from each Technical Committee, plus a presentation from Shel Waggener, the CIO of the University of California, Berkeley, on calendaring at a public university, and the need for calendaring to transition to an inclusive model rather than an exclusive one.

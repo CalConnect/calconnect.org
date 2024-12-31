@@ -8,8 +8,6 @@ excerpt: CalConnect has recently published its new Calendaring Developer's Guide
 ---
 == Announcing the CalConnect Calendaring Developer's Guide
 
-Posted July 11, 2016
-
 CalConnect has recently published its new Calendaring Developer's Guide as a read-only wiki at http://devguide.calconnect.org[].
 
 We have created an initial outline of topics that we expect will be of value, and added content for a subset of them such as creating a simple event, together with examples. At this point we feel the Guide has enough content to be published and useful, but it is still incomplete.

@@ -10,8 +10,6 @@ excerpt: The CalConnect XLIII web page contains lodging information, airport and
 
 == Registration is now open  for CalConnect XLIII in Karlsruhe, Germany, September 24-27, 2018, hosted by 1&1
 
-Posted July 24, 2018
-
 The CalConnect XLIII web page is located at link:{{'/events/calconnect-xliii-september-2018' | relative_url}}[/events/calconnect-xliii-september-2018] and contains lodging information, airport and transfer information, meeting venue, schedule, etc. Note that international travelers will probably want to fly into Frankfurt Airport (FRA) and take the 1-hour train ride to Karlsruhe; see link:{{'/events/calconnect-xliii-september-2018#transportation' | relative_url}}[/events/calconnect-xliii-september-2018#transportation] for more information.
 
 The meeting venue is at the 1&1 facilities in Karlsruhe, at Ernst-Frey-StraÃe 10, 76135 Karlsruhe, Germany. The venue is less than a kilometer walk from the conference hotel, http://www.hotel-santo.de/[Hotel Santo], KarlstraÃe 67-69, 76137 Karlsruhe, Germany.

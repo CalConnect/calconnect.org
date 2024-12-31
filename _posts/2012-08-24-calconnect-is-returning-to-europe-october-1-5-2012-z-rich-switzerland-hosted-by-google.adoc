@@ -10,8 +10,6 @@ excerpt: Our first European conference was last October, hosted by Kerio Technol
 
 == CalConnect is returning to Europe: October 1-5, 2012, Zürich, Switzerland, hosted by Google
 
-Posted August 24, 2012
-
 Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, link:{{'/calconnect25' | relative_url}}[CalConnect XXV] will take place in ZÃ¼rich, Switzerland on October 1-5, 2012  less than six weeks from now, hosted by http://www.google.com' | relative_url}}[Google].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect member meeting without having to incur the travel costs and time of coming to North America.

@@ -10,8 +10,6 @@ excerpt: The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at 
 
 == CalConnect Workshop on the Veterans Administration Scheduling System -- background and update
 
-Posted May 7, 2014 
-
 _The Workshop will be Wednesday afternoon May 21st at CalConnect XXX at AOL in Dulles, Virginia_
 
 CalConnect was founded almost 10 years ago as a collaboration between calendaring and scheduling vendors and users, to further interoperability between calendaring and scheduling implementations, and work towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting conferences each year.

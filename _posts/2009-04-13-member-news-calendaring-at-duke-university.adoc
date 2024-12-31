@@ -10,8 +10,6 @@ excerpt: During the past year, calendaring has taken hold on the campus at Duke 
 
 == Member News -- Calendaring at Duke University
 
-Posted April 13, 2009 
-
 During the past year, calendaring has taken hold on the campus at Duke University, with the launch of its institutional events calendar, Events@Duke (calendar.duke.edu), last July and the launch of a student calendar, buzz (buzz.duke.edu), this past January. To get an idea of the types of things they re doing, the following are stories about their calendaring efforts.
 
 http://www.news.duke.edu/2009/03/bedework.html A number of universities that have implemented, or are implementing, the http://www.bedework.org/bedework/[Bedework] software as their event calendars have been collaborating as they discover they share many of the same functional requirements for a public event calendar.

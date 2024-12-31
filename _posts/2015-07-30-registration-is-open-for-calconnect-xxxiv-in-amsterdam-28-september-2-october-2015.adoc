@@ -10,8 +10,6 @@ excerpt: Registration is now open and hotel reservations may be made for CalConn
 
 == Registration is open for CalConnect XXXIV in Amsterdam 28 September -- 2 October 2015
 
-Posted July 30, 2015 
-
 Registration is now open and hotel reservations may be made for CalConnect XXXIV in Amsterdam, The Netherlands, Sep 28  Oct 2 2015, hosted by Gershon Janssen.
 
 The CalConnect XXXIV web page is located at link:{{'/calconnect34' | relative_url}}[/calconnect34] and contains hotel information and booking, airport and transfer information, meeting venue, international travel information, etc.

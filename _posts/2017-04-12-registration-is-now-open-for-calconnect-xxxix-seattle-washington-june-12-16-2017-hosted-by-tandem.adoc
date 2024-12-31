@@ -10,8 +10,6 @@ excerpt: The CalConnect XXXIX web page is located at link:{{'/events/calconnect-
 
 == Registration is now open  for CalConnect XXXIX Seattle, Washington, June 12-16, 2017, hosted by Tandem
 
-Posted April 12, 2017 
-
 The CalConnect XXXIX web page is located at link:{{'/events/calconnect-xxxix-june-12-16-2017' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.
 
 The meeting venue is http://www.galvanize.com/campuses/seattle-pioneer-square/[Galvanize Pioneer Square], 111 S. Jackson Street at First Avenue, Seattle, Washington 98104, in the Pioneer Square district of Seattle. It is a close walk from the International/Chinatown Bay C Light Rail Station, and about half a mile from the conference hotel. The Conference Hotel is the http://www.alexishotel.com/[Kimpton Alexis Seattle], at 1007 First Avenue at Madison. Please seen the event web page (link above) for more information.

@@ -10,7 +10,6 @@ excerpt: At CalConnect XLI, hosted by Oath in Sunnyvale, California, Ken Murchis
 
 == Ken Murchison 9th Recipient of CalConnect Distingushed Service Award
 
-Posted February 2, 2018 
 image::link:{{'/assets/images/KenMurchison.jpg' | relative_url}}[Ken Murchison,250,401]
 
 Ken Murchison

@@ -10,8 +10,6 @@ excerpt: How did Cronofy start? Cronofy, like many companies, was born out of th
 
 == Meet Cronofy
 
-Posted January 24, 2017
-
 *How did Cronofy start?* +
 Cronofy, like many companies, was born out of the frustration of one of the founders. Adam (Bird), perpetually annoyed that managing his schedule was such a manual chore, undertook research to understand what was involved in connecting his calendar to business applications. He and Garry (Schutler) concluded that a single API, optimised specifically for application to calendar interoperability had the opportunity to dramatically reduce the work required for developers. Easier to integrate meant more applications integrated and thus more people benefiting from schedule optimisation and more automated management. We are giving people time.
 

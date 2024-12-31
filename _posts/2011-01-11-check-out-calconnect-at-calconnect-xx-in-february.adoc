@@ -10,8 +10,6 @@ excerpt: Even if your organization is not currently a member of CalConnect, our 
 
 == Check out CalConnect at CalConnect XX in February
 
-Posted January 11, 2011
-
 Even if your organization is not currently a member of CalConnect, our upcoming event, link:{{'/calconnect20' | relative_url}}[CalConnect XX], in February is a perfect opportunity to learn more about CalConnect, and our activities, first hand. As the Bay Area is local to many of you, attending these events, hosted this time at UC Berkeley, would be very convenient.
 
 Three times a year, we hold a CalConnect Interoperability Test Event (C.I.T.E.) from Monday morning to Wednesday noon (February 7-9), and a members meeting (called a Roundtable) from Wednesday through Friday afternoon, (February 9-11). C.I.T.E. participants don't have to be members -- and the members meeting are open to link:{{'/observer' | relative_url}}[observers]. Many of our present members decided to become active participants in CalConnect after attending a Roundtable as an observer.

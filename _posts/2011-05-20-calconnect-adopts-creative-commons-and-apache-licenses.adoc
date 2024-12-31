@@ -10,8 +10,6 @@ excerpt: CalConnect will now publish new and updated documents and other materia
 
 == CalConnect Adopts Creative Commons and Apache Licenses
 
-Posted May 20, 2011 
-
 CalConnect will now publish new and updated documents and other material under a Creative Commons license or, for code artifacts such as schemas, the Apache 2 License, replacing its prior terms of document availability. The intent is to make it as easy as possible for CalConnect material to be used, by publishing under standard and universal license terms. Please see link:{{'/copyrightlicense' | relative_url}}[Copyright and Licensing for Published Material] for more information.
 
 

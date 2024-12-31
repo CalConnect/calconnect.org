@@ -10,8 +10,6 @@ excerpt: CalConnect is honored to announce that Cyrus Daboo of Apple is the thir
 
 == Cyrus Daboo of Apple Third Recipient of CalConnect Distinguished Service Award
 
-Posted September 26, 2013 
-
 CalConnect is honored to announce that Cyrus Daboo of Apple is the third recipient of the CalConnect Service Award. The award was presented at CalConnect XXVIII on September 25, 2013.
 
 Cyrus earned his Doctorate in Physics from Cambridge University in the U.K.. and moved to the United States after working as a Research Associate at Cambridge in the mid-1990s. In the U.S. he founded his own firm and developed Mulberry, a calendaring and e-mail client adopted largely in the academic sector, which he eventually made an open source project.

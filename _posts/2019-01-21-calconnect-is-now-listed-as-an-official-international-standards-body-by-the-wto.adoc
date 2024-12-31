@@ -12,8 +12,6 @@ excerpt: |
 
 == CalConnect is now listed as an official international standards body by the WTO
 
-Posted January 21, 2019
-
 I am very pleased to announce that CalConnect is now officially listed as an international standards body by the World Trade Organization: https://tbtcode.iso.org/sites/wto-tbt/contents/json/185.html[]. The document describing our alignment with WTO principles may be found here: https://standards.calconnect.org/csd/cc-10100.html[].
 
 CalConnect now has active liaisons with several international organizations including 10 liaisons with ISO committees: ISO/TC 37, ISO TC/46, ISO TC 154, ISO/TC 211, ISO/PC 317 and ISO/IEC JTC 1 SC 27. We are participating in the work program of most of of these in particular in areas such as date/time formats, time zone management, structured name and address standards, and privacy by design.

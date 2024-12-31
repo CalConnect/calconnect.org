@@ -10,7 +10,6 @@ excerpt: This year's European conference was hosted by Open-Xchange. If you are 
 
 == CalConnect XL hosted by Open-Xchange in Cologne Germany
 
-Posted November 10, 2017 
 image::link:{{'/assets/images/cologne.jpg' | relative_url}}["",480,373]
 
 This year's European conference was hosted by Open-Xchange. If you are unfamiliar with https://www.open-xchange.com/[Open-Xchange]: its mission is to deliver the integrated, open-source stack for messaging, collaboration and productivity for the service-provider industry. They tagline is: stay open. That seems like an excellent match with CalConncect's mission. Setting standards and improving interoperability are cornerstones of making calendaring and scheduling easier for vendors and end users. Many thank to OX for having us.

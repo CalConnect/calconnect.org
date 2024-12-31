@@ -13,8 +13,6 @@ excerpt:
 
 == A Tribute to Dave Thewlis
 
-Posted January 9, 2023 
-
 .Father Time managing his calendar?
 image:{{'/assets/images/DaveThewlis-01.jpg' | relative_url }}[Dave Thewlis on phone,width=657,height=553]
 

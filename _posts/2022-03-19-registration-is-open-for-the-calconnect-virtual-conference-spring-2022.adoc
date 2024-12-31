@@ -13,8 +13,6 @@ excerpt: |
 
 == Registration is Open for the CalConnect Virtual Conference Spring 2022
 
-Posted March 19, 2022
-
 The link:{{'/events/calconnect-virtual-conference-spring-2022' | relative_url}}[CalConnect Virtual Conference Spring 2022] web page contains information about the timing, structure, and sessions offered for this virtual conference. .
 
 The CalConnect Conference is planned for the week of May 9-12, with the possibility of scheduling additional working sessions or testing on Friday Mat 13.

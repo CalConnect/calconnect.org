@@ -10,8 +10,6 @@ excerpt: We would like to send a special invitation to folks with calendaring an
 
 == Calling All Calendaring Clients -- particularly those in Europe
 
-Posted September 9, 2012 
-
 We would like to send a special invitation to folks with calendaring and scheduling clients to attend http://wp.me/prYbR-8h[CalConnect XXV] in Zurich on October 1-5, 2012, and participate in the Interoperability Testing. There will be a number of CalDAV servers begin tested at the event, and this is a unique opportunity for European organizations (or inidividuals) to test with iCal server, Bedework, Kerio, Google, SabreDAV, and so forth. We ve listed the primary focus of the testing on the link:{{'/iop1210' | relative_url}}[Interoperability Test Event web page], but if you are interested in testing something else, or simply testing with as many servers as possible, that can certainly be arranged.
 
 We are offering a special combined fee of $350 per person for this event which will cover both the Interoperability Test Event and the Technical Conference (or either one), for first-time attendees at CalConnect. You can find out more about this event at the link:{{'/calconnect25' | relative_url}}[CalConnect XXV Logistics] page.

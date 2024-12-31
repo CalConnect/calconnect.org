@@ -10,8 +10,6 @@ excerpt: CalConnect's AUTODISCOVERY Technical Committee has submitted the initia
 
 == Aggregated Service Discovery
 
-Posted August 30, 2012
-
 CalConnect's link:{{'/about/technical-committees/tc-autodiscovery' | relative_url}}[AUTODISCOVERY] Technical Committee has submitted the initial draft of a specification on https://datatracker.ietf.org/doc/draft-daboo-aggregated-service-discovery/[Aggregated Service Discovery] for clients and mobile devices to the IETF.
 
 ____

@@ -10,8 +10,6 @@ excerpt: This post could also be titled “Doing Something about Timezones”. T
 
 == CalConnect XXI: Timezones by Reference
 
-Posted June 1, 2011
-
 This post could also be titled "`Doing Something about Timezones`". The biggest problem (from CalConnect's perspective) with the change in 2007 to Extended Daylight Savings Time was the widespread problems with updating (or failing to update) several hundred million desktop systems, servers, and so forth with the new start/stop dates for DST in the U.S.. The results were widespread and messy; just in calendaring, many thousands of scheduled events were off by an hour across people's calendars. And although EDST was an isolated phenomenon in the U.S., in some countries the start/stop dates for Daylight Savings time change every year, often with very little notice.
 
 The core problem is that for most implementations timezone data is embedded in one way or another; in calendar scheduling it is even embedded in the event data. While the timezone id is necessary, having the data itself included is a recipe for disaster -- and there is no obvious fix other than removing the timezone data and making it available via an internet access.

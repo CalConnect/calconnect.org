@@ -10,8 +10,6 @@ excerpt: Associate Vice Chancellor for Information Technology and Chief Informat
 
 == Calendaring in a Public University
 
-Posted February 17, 2011 
-
 Associate Vice Chancellor for Information Technology and Chief Information Officer Shel Waggener (http://technology.berkeley.edu/cio/biography.html) addressed the CalConnect Roundtable XX attendees as part of the group's tradition of having the host organization supply an overview of calendaring issues that are important to it. Shel touched on many aspects related to calendaring at the University of California, some unique to its role and composition as a public, heterogeneous institution and some where the University is experiencing calendaring pains now that will soon be experienced by many organizations.
 
 Privacy issues are very important to university faculty members, while the ability to make reports and to respond to public information requests are also needs of public institutions as calendaring data becomes a more recognized part of the public record. Finding the right licensing model for software that will allow for an accurate estimate of its cost is also an issue as the cost of calendaring is often hidden when it's bundled with other systems.

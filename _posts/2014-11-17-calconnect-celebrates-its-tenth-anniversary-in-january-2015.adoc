@@ -10,8 +10,6 @@ excerpt: CalConnect's first conference was held in January 2005 so the upcoming 
 
 == CalConnect Celebrates its Tenth Anniversary in January 2015!
 
-Posted November 17, 2014
-
 CalConnect's first conference was held in January 2005 so the upcoming 32nd conference will be our tenth anniversary meeting  and we re planning a celebration!
 
 We invite those active in Calendaring & Scheduling, or with a strong interest in this and related fields, to join us in celebrating our Tenth Anniversary at the http://hoteldeanza.com[Hotel De Anza] in *San Jose, California on Wednesday, January 28th, 2015* for lunch, the afternoon program, and an evening reception. Please see link:{{'/tenthanniversary' | relative_url}}[Tenth Anniversary Celebration] for more information.

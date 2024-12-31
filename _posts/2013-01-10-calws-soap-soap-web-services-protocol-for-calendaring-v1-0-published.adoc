@@ -10,8 +10,6 @@ excerpt: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 has been pub
 
 == CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 published
 
-Posted January 10, 2013
-
 link:{{'/publications/CD1301%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring.pdf'
 | relative_url}}[CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0] has
 been published as a CalConnect Proposal by the XML Technical Committee. This

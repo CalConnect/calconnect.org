@@ -10,8 +10,6 @@ excerpt: We're within four weeks of the next CalConnect event, which will be hos
 
 == Less than Four Weeks to CalConnect XXXI in Bedford, September 29 -- October 3, 2014
 
-Posted September 4, 2014 
-
 We re within four weeks of the next CalConnect event, which will be hosted by Youcanbook.me in Bedford, England; here's a link to the original blog post about this event: http://wp.me/prYbR-co[CalConnect XXXI Blog Post] and here's the link to the actual CalConnect web page for the event: link:{{'/calconnect31' | relative_url}}[CalConnect XXXI].
 
 During the TC FREEBUSY session Thursday morning at 1100-1200, we will have a demonstration of *inter-system consensus scheduling*. The demo will feature multiple clients running on different servers (and implementations) performing consensus scheduling, based on VPOLL, iSCHEDULE, and jCAL.

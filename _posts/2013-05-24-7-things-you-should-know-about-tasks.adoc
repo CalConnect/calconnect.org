@@ -10,8 +10,6 @@ excerpt: The CalConnect TASKS technical committee has just published a new brief
 
 == 7 Things You Should Know About Tasks
 
-Posted May 24, 2013 
-
 The CalConnect TASKS technical committee has just published a new briefing document, link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks], intended for a general audience.
 
 ____

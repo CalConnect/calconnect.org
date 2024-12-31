@@ -10,8 +10,6 @@ excerpt: CalConnect has published a major revision and update to its Index to Ca
 
 == Index to Calendaring and Scheduling Standards
 
-Posted June 20, 2011 
-
 CalConnect has published a major revision and update to its link:{{'/CD1104_Calendaring_Standards' | relative_url}}[Index to Calendaring and Scheduling Standards]. This page provides links, titles, and very brief abstracts of Calendaring and Calendaring-related standards, specifications, and guides. CalConnect intends to keep this page as up-to-date as possible and welcomes corrections and suggestions for updates.
 
 

@@ -13,7 +13,6 @@ excerpt: |
 
 == Mimi Mugler:  An Appreciation
 
-Posted September 27, 2017
 image::link:{{'/assets/images/MimiMugler_0.jpg' | relative_url}}[Mimi Mugler,480,474]
 
 Mimi Mugler

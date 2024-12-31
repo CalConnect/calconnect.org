@@ -10,8 +10,6 @@ excerpt: The CalConnect XL web page is located at link:{{'/events/calconnect-xl-
 
 == Registration is now open  for CalConnect XL Cologne, Germany, September 25-29, 2017, hosted by Open-Xchange
 
-Posted July 20, 2017 
-
 The CalConnect XL web page is located at link:{{'/events/calconnect-xl-september-25-29-2017' | relative_url }} and contains lodging information, airport and transfer information, meeting venue, international travel information, etc.
 
 The meeting venue is http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 KÃ¶ln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park]. The conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am KÃ¼mpchenshof 2, 50670 KÃ¶ln.

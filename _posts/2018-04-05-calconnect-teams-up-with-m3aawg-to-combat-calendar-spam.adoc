@@ -13,8 +13,6 @@ excerpt: |
 
 == CalConnect teams up with M3AAWG to combat calendar spam
 
-Posted April 5, 2018
-
 PDF: link:{{'/docs/press-releases/rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf' | relative_url }}[rel-M3AAWG-CalConnect-Liaison-2018-04-RT-1.pdf].
 
 

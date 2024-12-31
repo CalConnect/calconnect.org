@@ -10,12 +10,11 @@ excerpt: The Board of Directors has honored Thomas Schäfer as the recipient of 
 
 == Thomas Schäfer 10th Recipient of CalConnect Distinguished Service Award
 
-Posted May 20, 2020 
 image::link:{{'/assets/images/ThomasSchaefer.png' | relative_url}}["",250,374]
 
-Thomas SchÃ¤fer
+Thomas Schäfer
 
-The Board of Directors has honored Thomas SchÃ¤fer as the recipient of our tenth Distinguished Service Award.
+The Board of Directors has honored Thomas Schäfer as the recipient of our tenth Distinguished Service Award.
 
 Thomas became active in CalConnect in 2014 when 1&1 joined, and has remained intensely involved ever since on both the technical and organizational sides. Thomas and 1&1 hosted two conferences, CalConnect XXXIII Bucharest in 2015 and CalConnect XLIII Karlsruhe in 2018.
 

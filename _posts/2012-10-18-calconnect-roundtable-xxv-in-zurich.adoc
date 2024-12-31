@@ -10,8 +10,6 @@ excerpt: Our CalConnect events generally consist of two parts; the first half of
 
 == CalConnect Roundtable XXV in Zurich
 
-Posted October 18, 2012 
-
 Our CalConnect events generally consist of two parts: the first half of the week is interoperability testing, and the last half is the Roundtable Technical Conference. At CalConnect XXV in Zurich, our second full CalConnect event in Europe, nearly everyone who participated in the interoperability testing stayed for the Roundtable, and we had a few additional participants, making a total of 26 at the Roundtable, of which 17 were European, overall representing 11 members and 5 observers (prospective members).
 
 As noted previously on this blog, the European events are restructured to move the formal technical committee sessions to the afternoon (to allow remote attendance from North America), and special symposia and BOFs (birds of a feather sessions) are offered on Thursday and Friday mornings. The special offerings this time were:

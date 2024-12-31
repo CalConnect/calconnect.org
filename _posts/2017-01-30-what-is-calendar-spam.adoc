@@ -10,7 +10,6 @@ excerpt: Around last year's Black Friday calendar spam was bothering many users 
 
 == What is Calendar spam?
 
-Posted January 30, 2017 
 image::link:{{'/assets/images/CalendarSpam_iPhone.PNG' | relative_url}}["",480,270]
 
 Spam event in calendar

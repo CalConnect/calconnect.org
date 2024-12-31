@@ -10,8 +10,6 @@ excerpt: CalConnect member ZideOne has announced the availability of its public 
 
 == ZideOne Public Beta 9 now available
 
-Posted July 10, 2009 
-
 CalConnect member ZideOne has announced the availability of its public beta 9: http://zideone.com[].
 
 

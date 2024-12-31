@@ -10,8 +10,6 @@ excerpt: “I believe that the time is ripe for significantly better documentati
 
 == Read any good timezones lately?
 
-Posted January 7, 2011
-
 "`I believe that the time is ripe for significantly better documentation of programs, and that we can best achieve this by considering programs to be works of literature`"  Donald Knuth, 1984
 
 In a previous posting, I have written about various aspects of timezones, which are perhaps the sine qua non of interoperable calendaring. This posting, mercifully my last on this topic, looks at timezones from a different perspective.
