@@ -24,33 +24,22 @@ Information is current to January 22, 2013
 _Parking and meeting check-in information changed_
 
 CalConnect XXVI, consisting of CalConnect Interoperability Test Events, and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Santa Clara, California Monday-Friday, January 28 - February 1, 2013, hosted by http://www.oracle.com[Oracle Corporation]. +
-+
 The Interoperability Test Events will take place all day Monday and Tuesday January 28-29, and Wednesday morning January 30, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday January 30th, and last through early afternoon Friday the 1st. +
-+
 An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:30 on Wednesday the 30th for first-time attendees. +
-+
 A special *Workshop on Consensus Scheduling* will be held Wednesday afternoon during the Roundtable, open to non-members and to all participants at the Interoperability Test Event and the Roundtable.
 
 *CalConnect Interoperability Test Event*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities. +
-+
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1301.shtml[CalConnect Interoperability Test Event January 2013] for current information. Check back often as this will be updated as more information becomes available. +
-+
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1301.shtml' | relative_url}}[CalConnect Interoperability Test Event January 2013] for current information. Check back often as this will be updated as more information becomes available. +
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._ +
-+
 *Roundtable XXVI:* The Roundtable Technical ConferenceMembers Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
-+
 Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium. +
-+
 *Workshop on Consensus Scheduling*: The workshop will be held Wednesday afternoon from 1330-1730 as part of the Roundtable; however it is open to non-Roundtable attendees by invitation and registration. The goal of the CalConnect workshop is examine the state of the art with respect to consensus scheduling, and explore directions to integrate consensus scheduling into calendaring and scheduling standards and products, to enable interoperability and make consensus scheduling part of the full functionality of calendaringï¿½and scheduling products. +
-+
 For more information about the Workshop please see https://calconnect.wordpress.com/2012/12/13/calconnect-consensus-scheduling-workshop-january-30-2013-at-calconnect-roundtable-xxvi/[]. +
-+
-To register for the workshop only, please see http://calconnect.org/workshopreg.shtml[CalConnect Workshop Registration]. If you are also registering for the CalConnect Roundtable or Interoperability Test Event, see below.
+To register for the workshop only, please see link:{{'/workshopreg.shtml' | relative_url}}[CalConnect Workshop Registration]. If you are also registering for the CalConnect Roundtable or Interoperability Test Event, see below.
 
 International Visitors
 
 International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. +
-+
 San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
@@ -63,7 +52,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 The Interoperability Test Event and the Roundtable will take place at Oracle's Santa Clara Headquarters, 4170 Network Circle, Santa Clara, California 95051. We will be in Building 23, Conference Room 1730, all week. *Initial check-in each day will be in the lobby to Building 17/18 and we will be escorted to the conference building and room.* +
 
-*Please park in the lots behind Building 17 or Building 18 as shown on http://calconnect.org/SantaClara.pdf[Santa Clara Building Layout] and http://goo.gl/maps/AWqvz[Oracle Santa Clara Campus].*
+*Please park in the lots behind Building 17 or Building 18 as shown on link:{{'/SantaClara.pdf' | relative_url}}[Santa Clara Building Layout] and http://goo.gl/maps/AWqvz[Oracle Santa Clara Campus].*
 
 _**Disregard the information on the Santa Clara Building Layout pdf about parking and picking a badge up at the Clock Tower Building; special arrangements have been made for us as noted above._
 
@@ -71,7 +60,6 @@ _**Disregard the information on the Santa Clara Building Layout pdf about parkin
 == Transportation
 
 *Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
-+
 Santa Clara is very close to San Jose International Airport (the meeting site is about 2 miles north of the airport) and your hotel may offer a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK.
 
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. If you fly into San Jose your hotel may offer shuttle service from and to the airport.
@@ -95,7 +83,6 @@ Please Note: Although this hotel is relatively close to the Oracle Santa Clara c
 Santa Clara, CA +
 Phone: +1 408 496 6400 +
 http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-santa-clara-silicon-valley-SNCCAES/index.html +
-+
 To book by telephone, call 1-800-EMBASSY (1-800-362-2779) and request either the event "CalConnect" or Group Code "60G". +
 To book online, please to go http://embassysuites.hilton.com/en/es/groups/personalized/S/SNCCAES-60G-20130127/index.jhtml?WT.mc_id=POG[].
 
@@ -170,7 +157,6 @@ The Interoperability Test Event begins at 0800 Monday morning and runs all day M
 1530-1600 Break and Refreshments +
 1600-1730 Workshop: Consensus Scheduling +
 1730-1800 Host Session +
-+
 1800-2000 Welcome Reception^4^ +
 _On Premises_
 .<a| *Thursday 31 January* +
@@ -184,7 +170,6 @@ _On Premises_
 1500-1600 TC EVENTPUB +
 1600-1630 Break and Refreshments +
 1630-1800 Steering Committee^5^ +
-+
 1915-2200 Group Dinner^6^ +
 _http://www.thefishmarket.com/locations.aspx?id=2[The Fish Market]_ +
 3775 El Camino Real, Santa Clara +
@@ -210,12 +195,10 @@ _http://www.thefishmarket.com/locations.aspx?id=2[The Fish Market]_ +
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. +
 +
-+
 Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas:
 
@@ -233,7 +216,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 5. Conclusion - what to do from here +
 5.1 How to further promote the VPOLL work +
 5.2 VPOLL testing at the next IOP Test Event +
-+
 *TC AUTODISCOVERY* Thu 0930-1030 +
 1. Introduction +
 1.1 Problem Statement +
@@ -242,7 +224,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 2.1 Moving to JSON +
 3. Discussion and feedback +
 4. Next steps +
-+
 *TC CALDAV* Thu 1100-1230 +
 1. Introduction +
 1.1 Charter +
@@ -257,7 +238,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 4. Moving Forward +
 4.1 Plan of Action +
 4.2 Next Conference Call +
-+
 *TC EVENTPUB* Thu 1500-1600 +
 1. Charter +
 2. Work and accomplishments +
@@ -267,13 +247,10 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 3.3 STRUCTURED-LOCATION +
 4. Travel Itinerary properties +
 5. Going Forward - next steps +
-+
 *TC FREEBUSY* Wed 1330-1730 +
 See Consensus Scheduling Workshop +
-+
 *TC IOPTEST* Wed 1315-1330 +
 Review of IOP test participant findings +
-+
 *TC iSCHEDULE* Thu 1330-1500 +
 1. Introduction +
 1.1 Charter +
@@ -298,7 +275,6 @@ Review of IOP test participant findings +
 3.2 Possible DAV extensions for easier and standardized Resource scheduling +
 4. Future of TC +
 4.1 Next conference calls +
-+
 *TC TIMEZONE* Fri 1115-1200 +
 1. Introduction +
 1.1 Charter +
@@ -308,10 +284,8 @@ Review of IOP test participant findings +
 4. Timezones by reference in CalDAV +
 5. Timezone Registries +
 6. Next steps +
-+
 *TC USECASE* Fri 1030-1115 +
 TBD +
-+
 *TC XML* Fri 0830-0915 +
 1. Introduction +
 1.1 Charter +
@@ -324,7 +298,6 @@ TBD +
 4. Moving Forward +
 4.1 Plan of action +
 4.2 Next conference calls +
-+
 *VTODO Ad Hoc* Thu 0830-0930 +
 1. Introduction +
 1.1 Problem Statement +

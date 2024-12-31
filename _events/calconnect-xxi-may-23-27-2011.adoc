@@ -30,7 +30,7 @@ A special *Workshop on Tasks* will be held Wednesday afternoon during the Roundt
 
 *CalConnect Interoperability Test Event*:
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1105.shtml[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1105.shtml' | relative_url}}[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -59,7 +59,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 *Workshop Registration*:
 
-If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see http://calconnect.org/workshopreg.shtml[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
+If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see link:{{'/workshopreg.shtml' | relative_url}}[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
 
 [[location]]
 == Location
@@ -96,7 +96,6 @@ _Please be aware that this is a courtesy rate based on availability. It is only 
  (408) 745-6000 +
 http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=754
 
-+
  A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[]. 
 
 |===
@@ -211,7 +210,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas
 
@@ -309,7 +307,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 
 |===
 
-+
  
 
 ==== Scheduled BOFs

@@ -5,11 +5,10 @@ type: membership
 ---
 :page-liquid:
 
-= Why Become a Member of CalConnect?
+== Why Become a Member of CalConnect?
 
 [#calconnect-audience-boxes]
 * {blank}
-+
 --
 image::{{'/assets/images/glyphGears.png' | relative_url }}[]
 
@@ -20,7 +19,6 @@ image::{{'/assets/images/glyphGears.png' | relative_url }}[]
 --
 
 * {blank}
-+
 --
 image::{{'/assets/images/glyphGroup.png' | relative_url }}[]
 
@@ -31,7 +29,6 @@ image::{{'/assets/images/glyphGroup.png' | relative_url }}[]
 --
 
 * {blank}
-+
 --
 image::{{'/assets/images/glyphCheck.png' | relative_url }}[]
 
@@ -109,7 +106,7 @@ product, help drive the standards, or simply get to know the people
 driving calendaring & scheduling today, CalConnect is the organization
 at the center of calendaring & scheduling today.
 
-== Take CalConnect for a Test Drive
+=== Take CalConnect for a Test Drive
 
 You can attend one CalConnect Conference as an observer, without having yet
 become a member. Refer to link:{{'/events/observers' | relative_url }}[observers] for additional

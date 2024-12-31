@@ -3,7 +3,7 @@ layout: page
 title:  Membership Categories and Fees
 type: membership
 ---
-= Membership Categories and Fees
+== Membership Categories and Fees
 
 _Revised 18 October 2021_
 

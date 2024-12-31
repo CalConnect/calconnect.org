@@ -130,7 +130,6 @@ a| *Monday 29 January* +
 1330-1530 Testing and Discussions +
 1530-1600 Break and Refreshments +
 1600-1800 Testing and Discussions +
-+
 1915-2100 Test Event Dinner +
 http://www.faultlinebrewing.com/[Faultline Brewing Company], Sunnyvale
 a| *Tuesday 30 January* +
@@ -267,14 +266,10 @@ Any vendor or organization wishing to test a calendaring and scheduling implemen
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
-+
 : Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
-+
 : Register one to six people as
-+
 link:{{'/events/observers' | relative_url }}[observers]
-+
 for the CalConnect Interoperability Test Event.
 
 == Interoperability Event Scenarios
@@ -395,4 +390,4 @@ _Administrative business, coming events, consensus agreements on decisions reach
 
 |===
 
-*Please see the Reading List for at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List][]. The list contains URLs for all standards, drafts and specifications to be discussed.*
+*Please see the Reading List for at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]. The list contains URLs for all standards, drafts and specifications to be discussed.*

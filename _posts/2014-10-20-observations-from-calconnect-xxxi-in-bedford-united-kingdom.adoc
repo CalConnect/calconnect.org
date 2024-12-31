@@ -21,23 +21,17 @@ Here's what's trending from CalConnect XXXI:
 In the weeks immediately preceding CalConnect XXXI, two organizations joined CalConnect, raising the total to four new members since our May event.
 
 * http://burbio.com[Burbio]
-+
 , based in Burbio, based in Pelham, New York, offers a calendar sharing and synchronization platform built for local communities such as suburban towns.
 * http://smoothsync.org/test[SmoothSync]
-+
 , based in Dresden, Germany, offers a synchronization tool for Android apps syncing with iCloud and Yahoo.
 
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
 * link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY]
-+
 provided a live demo of a VPOLL (consensus scheduling) client, and expects to be able to demonstrate multiple clients and servers at the next CalConnect Event featuring multiple implementations each on its own server via iSCHEDULE (server-server scheduling).
 * link:{{'/about/technical-committees/tc-fsc' | relative_url}}[TC FSC]
-+
 (Federated Shared Calendars) and
-+
 link:{{'/about/technical-committees/tc-sharing' | relative_url}}[TC SHARING]
-+
 (Contacts and Calendar Sharing for CalDAV and CardDAV) were formed from the Contacts Sharing and FSC Provisional Committees at the end of the last event, and offered their first sessions as Technical Committees at this event.
 
 *Trending  Interoperability testing*
@@ -67,7 +61,6 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 *Updated internet drafts and published RFCs*:
 
 * http://tools.ietf.org/html/rfc7265[jCal: The JSON Format for iCalendar]
-+
 (RFC 7265)
 * http://datatracker.ietf.org/doc/draft-douglass-ical-relations/[Support for iCalendar Relationships]
 * https://datatracker.ietf.org/doc/draft-york-vpoll/[VPOLL: Consensus Scheduling Component for iCalendar]

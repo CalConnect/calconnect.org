@@ -20,17 +20,12 @@ Recent Changes:
 _Schedule Change Updates, Dinner Locations_
 
 CalConnect XIV, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Redmond, Washington, Monday-Friday, February 2-6, 2009, hosted by https://web.archive.org/web/20090126053702/http://www.microsoft.com/[Microsoft]. +
-+
 The IOP Testing will take place all day Monday and Tuesday February 2-3, and Wednesday morning, ending at noon on Wednesday February 4th. The Roundtable will begin with lunch at 12:30 on Wednesday the 4th, and last through early afternoon Friday the 6th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 4th.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers]; please see https://web.archive.org/web/20090126053702/http://calconnect.org/iop0902.shtml[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
-+
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers]; please see https://web.archive.org/web/20090126053702/link:{{'/iop0902.shtml' | relative_url}}[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
-+
 _*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been scheduled but will take place later in 2009._ +
-+
 *Roundtable XIV:* The Roundtable Members Meeting will feature a presentation by Ben Fortuna, the author of https://web.archive.org/web/20090126053702/http://ical4j.sourceforge.net/[iCal4j], and CalConnect's 2009 Guest Speaker. Additionally, the Roundtable will as usual offer Technical Committee sessions, to which all members and https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
-+
 Friday morning will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, possibly demonstrations resulting from the IOP testing earlier in the week, and establishment of future goals and directions for the Consortium.
 
 International Visitors
@@ -45,17 +40,14 @@ Please see https://web.archive.org/web/20090126053702/link:{{'/events/event-regi
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in Building 40, Room 1261 ("Constance") on the main Microsoft campus in Redmond, Washington. Please see https://web.archive.org/web/20090126053702/http://calconnect.org/RedmondCampusmap.jpg[Redmond Campus Map] or https://web.archive.org/web/20090126053702/http://members.microsoft.com/careers/mslife/locations/images/campus_map.jpg[Main Campus Map]. +
-+
-Please part in a marked Visitor Parking space. You will need to complete a parking form with reception. If you wish, you can download the form, and bring the completed form with you to expedite the process: https://web.archive.org/web/20090126053702/http://calconnect.org/Microsoft%20General%20Visitor%20Parking%20Registration.doc[Microsoft General Visitor Parking Registration] (this is a .doc file). +
-+
+The Interoperability Test Event and the Roundtable will take place in Building 40, Room 1261 ("Constance") on the main Microsoft campus in Redmond, Washington. Please see https://web.archive.org/web/20090126053702/link:{{'/RedmondCampusmap.jpg' | relative_url}}[Redmond Campus Map] or https://web.archive.org/web/20090126053702/http://members.microsoft.com/careers/mslife/locations/images/campus_map.jpg[Main Campus Map]. +
+Please part in a marked Visitor Parking space. You will need to complete a parking form with reception. If you wish, you can download the form, and bring the completed form with you to expedite the process: https://web.archive.org/web/20090126053702/link:{{'/Microsoft%20General%20Visitor%20Parking%20Registration.doc' | relative_url}}[Microsoft General Visitor Parking Registration] (this is a .doc file). +
 *Visitor Registration:* We will provide a list of registered individuals to our hosts the week prior to the event. When you arrive at Building 40 the receptionist should have a pre-printed visitor badge waiting for you which will be good for the entire week. You will have to have an escort to the meeting room; the receptionist will know to summon someone. _If you do not have a badge waiting, please sign in for the day and call 707-498-2238 (Dave Thewlis); we'll make sure someone comes to bring you to the room._
 
 [[transportation]]
 == Transportation
 
 *Airport Information:* The Seattle Area is served by https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/[Sea-Tac International Airport]. Microsoft is approximately 25 miles northeast of the airport in Redmond, Washington. +
-+
 *Ground Transportation:* Information on rental cars and shuttles is available at https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/ground/index.shtml[Sea-Tac Ground Transportation].
 
 [[lodging]]
@@ -68,14 +60,12 @@ Marriott Redmond Town Center +
 Redmond, WA 98052 +
 Phone: +1 425 948 4000 +
 https://web.archive.org/web/20090126053702/http://www.marriott.com/hotels/travel/seamc-redmond-marriott-town-center/[http://www.marriott.com/hotels/travel/seamc-redmond-marriott-town-center/] +
-+
 Marriott Residence Inn Seattle East/Redmond +
 7575 164th Avenue NE +
 Redmond, WA 98052 +
 Tel: +1 425 497 9226 +
 https://web.archive.org/web/20090126053702/http://www.marriott.com/hotels/travel/seard-residence-inn-seattle-east-redmond/[http://www.marriott.com/hotels/travel/seard-residence-inn-seattle-east-redmond/] +
 Free Internet, Free Parking +
-+
 Fairfield Inn Bellevue +
 14595 NE 29th Place +
 Bellevue, WA 98007 +
@@ -88,14 +78,12 @@ Silver Cloud Inn Redmond +
 Redmond, WA 98052 +
 Phone: +1 425 746 8200 +
 https://web.archive.org/web/20090126053702/http://www.silvercloud.com/03home.htm[http://www.silvercloud.com/03home.htm] +
-+
 Marriott Courtyard Bellevue +
 14615 NE 29th Place +
 Bellevue, WA 98007 +
 Tel: +1 425 869 5300 +
 https://web.archive.org/web/20090126053702/http://www.marriott.com/hotels/travel/bvuch-courtyard-seattle-bellevue-redmond/[http://www.marriott.com/hotels/travel/bvuch-courtyard-seattle-bellevue-redmond/] +
 Free Internet, Free Parking +
-+
 Woodmark Hotel on Lake Washington +
 1200 Carillon Point +
 Kirkland, WA 98033 +
@@ -106,7 +94,6 @@ https://web.archive.org/web/20090126053702/http://www.thewoodmark.com/[http://ww
 == Test Event Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
-+
 A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
@@ -122,7 +109,6 @@ A downloadable iCalendar.ics file with the entire schedule will be available onc
 1330-1530 Testing +
 1530-1600 BOFs/Break +
 1600-1800 Testing +
-+
 1900-2030 IOP Test Dinner +
 https://web.archive.org/web/20090126053702/http://www.desertfiremex.com/location/index.asp[__Desert Fire Grill__], 7211 166 Ave NE, Redmond
 .<a| *Tuesday 3 February* +
@@ -141,7 +127,6 @@ https://web.archive.org/web/20090126053702/http://www.desertfiremex.com/location
 1030-1200 Testing +
 1200-1230 Wrap-up +
 1230 End of IOP Testing +
-+
 1230-1330 Lunch/Opening^1^
 
 |===
@@ -152,7 +137,6 @@ https://web.archive.org/web/20090126053702/http://www.desertfiremex.com/location
 == Conference Schedule
 
 The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. +
-+
 A downloadable iCalendar.ics file with the entire schedule will be available once the specific sessions are scheduled.
 
 [cols=3]
@@ -167,7 +151,6 @@ A downloadable iCalendar.ics file with the entire schedule will be available onc
 1530-1600 Break +
 1600-1700 Calendaring Standards Roadmap +
 1700-1800 Guest Speaker: Ben Fortuna +
-+
 1800-1930 Welcome Reception^3^ +
 __On site__, Hosted by Microsoft
 .<a| *Thursday 5 February* +
@@ -182,7 +165,6 @@ __On site__, Hosted by Microsoft
 1600-1615 Break +
 1615-1715 CalConnect: Contributing to the World Wide Calendar +
 1715-1800 Steering Committee +
-+
 1930-2130 Group Dinner^3^ +
 https://web.archive.org/web/20090126053702/http://www.maggianos.com/locations/detail.asp?unit_id=001.025.0197[__Maggiano's Little Italy__], 10455 NE 8th Street, Bellevue
 .<a| *Friday 6 February* +
@@ -202,12 +184,10 @@ https://web.archive.org/web/20090126053702/http://www.maggianos.com/locations/de
 ^3^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^4^All Roundtable participants are invited to the group dinner +
 +
-+
 Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas:
 
@@ -218,7 +198,6 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 *CalConnect: Contributing to the World Wide Calendar* Thu 1615-1715 +
 Discussion on future directions for CalConnect +
 Follow-on to the Calendaring Standards Roadmap session on Wednesday +
-+
 *Calendaring Standards Roadmap* Wed 1600-1700 +
 1. Current status of key standards +
 2. Discussion of future work on those standards +
@@ -226,10 +205,8 @@ Follow-on to the Calendaring Standards Roadmap session on Wednesday +
 e.g. OASIS, Web 2.0, W3C, microformats... +
 4. Open discussions: where should we be going with calendaring standards and technology in the mediumto long term? What kinds of standards and integration are consumers looking for? What more shouldCalConnect be doing to promote this.
 
-+
 *"Dog Food" Session* Wed 1330-1430 +
 An opportunity to experiment with state-of-the-art calendaring implementations +
-+
 *TC CALDAV* Thu 1030-1230 +
 1. Progress and Status Update +
 1.1 IETF +
@@ -241,12 +218,10 @@ An opportunity to experiment with state-of-the-art calendaring implementations +
 3. Moving Forward +
 3.1 Plan of Action +
 3.2 Next Conference Calls +
-+
 *TC EVENTPUB* Fri 0830-1000 +
 1. Presesntation of REFERENCE RFC +
 2. Open Discussion +
 3. Direction and approval +
-+
 *TC FREEBUSY* Thu 1500-1600 +
 1. Brief history of TC-FB +
 2. Progress/activities since RT XIII +
@@ -255,7 +230,6 @@ An opportunity to experiment with state-of-the-art calendaring implementations +
 
 .<a| *TC IOPTEST* Wed 1315-1330 +
 Review of IOP test participant findings +
-+
 *TC iSCHEDULE* Thu 1330-1500 +
 1. Progress and Status Update +
 2. iSchedule Overview +

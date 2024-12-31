@@ -28,7 +28,7 @@ The Interoperability Test Event will take place all day Monday and Tuesday May 2
 
 *CalConnect Interoperability Test Event*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
 
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1205.shtml[CalConnect Interoperability Test Event May 2012] for current information and a list of what WILL be tested at this event, plus other things that MAY be tested if there is sufficient interest. Check back often as this will be updated as more information becomes available.
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1205.shtml' | relative_url}}[CalConnect Interoperability Test Event May 2012] for current information and a list of what WILL be tested at this event, plus other things that MAY be tested if there is sufficient interest. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -104,8 +104,8 @@ This is a generic schedule and will be updated as soon as possible with the actu
  1000-1030 Break +
  1030-1230 Testing +
  1230-1330 Lunch +
- 1330-1400 http://calconnect.org/calconnect24.shtml#bof1[Shared Address Books] +
- 1400-1430 http://calconnect.org/calconnect24.shtml#bof2[CalDAV Test Suites] +
+ 1330-1400 link:{{'/calconnect24.shtml#bof1' | relative_url}}[Shared Address Books] +
+ 1400-1430 link:{{'/calconnect24.shtml#bof2' | relative_url}}[CalDAV Test Suites] +
  1430-1530 Testing +
  1530-1600 Break +
  1600-1800 Testing
@@ -156,7 +156,7 @@ This is a generic schedule and will be updated as soon as possible with the actu
  1330-1500 TC FREEBUSY +
  1500-1530 Break +
  1530-1700 TC EVENTPUB +
- 1700-1800 http://calconnect.org/calconnect24.shtml#bof3[Autodiscovery moving forward]
+ 1700-1800 link:{{'/calconnect24.shtml#bof3' | relative_url}}[Autodiscovery moving forward]
 
 1815-2030 Welcome Reception^4^ +
 _Doubletree Hotel_
@@ -194,12 +194,10 @@ _Doubletree Hotel_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-+
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
 
-+
 [[agendas]]
 === Topical Agendas
 
@@ -312,7 +310,6 @@ _Doubletree Hotel_
 
 |===
 
-+
 [[bofs]]
 === BOFs
 
@@ -322,5 +319,4 @@ _Doubletree Hotel_
 
 [[bof3]] Follow-on to previous autodiscovery BOFs to establish a way forward for CalConnect.
 
-+
  Requests for additional BOF sessions may be made at any time and will be scheduled as time permits.

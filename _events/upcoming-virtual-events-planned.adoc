@@ -13,7 +13,10 @@ image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[]
 
 Upcoming Virtual Events Planned
 
-CalConnect will host some one or two day virtual events on specific topics. Any suggestions on appropriate topics are welcome. We have currently in mind:
+CalConnect will host some one or two day virtual events on specific topics. Any
+suggestions on appropriate topics are welcome.
+
+We have currently in mind:
 
 * DAV push notifications
 * iMip

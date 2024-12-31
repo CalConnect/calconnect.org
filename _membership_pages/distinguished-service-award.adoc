@@ -5,7 +5,7 @@ type: membership
 ---
 :page-liquid:
 
-= The CalConnect Distinguished Service Award
+== The CalConnect Distinguished Service Award
 
 The CalConnect Distinguished Service Award was created by the Board of
 Directors in 2011 to recognize individuals who have given extraordinary
@@ -42,7 +42,7 @@ her or him. The recipient receives a single Conference fee waiver, and
 the event is recognized by notification to CalConnect, a posting in the
 CalConnect blog, and a report in the subsequent CalConnect event report.
 
-== Bernard Desruisseaux - Roundtable XXIII, February 2012
+=== Bernard Desruisseaux - Roundtable XXIII, February 2012
 
 image:{{'/assets/images/dsa/bernard-desruisseaux.jpg' | relative_url }}[]
 
@@ -73,7 +73,7 @@ Bernard's duties have drawn him away from calendaring and from
 CalConnect, but we are much richer for his contributions and his
 presence, and hope that some day we may see him active once again.
 
-== Patricia Egen - Roundtable XXIV, May 2012
+=== Patricia Egen - Roundtable XXIV, May 2012
 
 image:{{'/assets/images/dsa/patricia-egen.jpg' | relative_url }}[width=250,height=313]
 
@@ -124,7 +124,7 @@ change the world. Indeed, it is the only thing that ever has."
 
 Thank you Pat, for your commitment to changing the calendaring world.
 
-== Cyrus Daboo - Roundtable XXVIII, September 2013
+=== Cyrus Daboo - Roundtable XXVIII, September 2013
 
 image:{{'/assets/images/dsa/cyrus-daboo.jpg' | relative_url }}[width=250,height=374]
 
@@ -171,7 +171,7 @@ beginning.
 Thank you, Cyrus, for your long service and outstanding contributions to
 CalConnect and interoperable calendaring.
 
-== Mimi Mugler - Calconnect XXX, May 2014
+=== Mimi Mugler - Calconnect XXX, May 2014
 
 image:{{'/assets/images/dsa/mimi-mugler.jpg' | relative_url }}[width=250,height=422]
 
@@ -205,7 +205,7 @@ Mimi's responsibilities within the University of California are
 changing, but we hope for, and look forward to, her continued
 involvement with CalConnect in the future.
 
-== Mike Douglass - Calconnect XXXI, October 2014
+=== Mike Douglass - Calconnect XXXI, October 2014
 
 image:{{'/assets/images/dsa/michael-douglass.jpg' | relative_url }}[width=275,height=361]
 
@@ -235,7 +235,7 @@ test event while conducting his own testing and helping others.
 Thank you, Mike, for your long and varied service to CalConnect and your
 many contributions to our success.
 
-== Pam Taylor - Calconnect XXXII, January 2015
+=== Pam Taylor - Calconnect XXXII, January 2015
 
 image:{{'/assets/images/dsa/pam-taylor.jpg' | relative_url }}[width=250,height=376]
 
@@ -261,7 +261,7 @@ Other demands on Pam's time mean that she is no longer able to serve as
 a Director, but we hope that she might return at some point in the
 future.
 
-== Dave Thewlis - Calconnect XXXII, January 2015
+=== Dave Thewlis - Calconnect XXXII, January 2015
 
 image:{{'/assets/images/dsa/dave-thewlis.jpg' | relative_url }}[]
 
@@ -280,7 +280,7 @@ Dave has served as Executive Director of CalConnect since its initial
 establishment and continues to serve CalConnect in that capacity and as
 Secretary of the corporation.
 
-== Gary Schwartz - CalConnect XXXVIII, February 2017
+=== Gary Schwartz - CalConnect XXXVIII, February 2017
 
 image:{{'/assets/images/dsa/gary-schwartz.jpg' | relative_url }}[]
 
@@ -311,7 +311,7 @@ Gary’s excitement, interest, focus, and reasoning have done much to keep
 CalConnect growing and focused during its years of existence.  We look
 forward to Gary’s continued involvement with CalConnect.
 
-== Ken Murchison - CalConnect XLI, January-February 2018
+=== Ken Murchison - CalConnect XLI, January-February 2018
 
 image:{{'/assets/images/dsa/ken-murchison.jpg' | relative_url }}[]
 
@@ -353,7 +353,7 @@ Murchison story are one and the same. Without Ken Murchison, and those
 with the dedication, and willingness to work on behalf of interoperable
 calendaring and scheduling, CalConnect could not be what it is today.
 
-== Thomas Schäfer - May 2020
+=== Thomas Schäfer - May 2020
 
 image:{{'/assets/images/dsa/thomas-schaefer.png' | relative_url }}[]
 

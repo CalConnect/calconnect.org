@@ -129,7 +129,6 @@ a| *Monday 25 September* +
 1330-1530 Testing and Discussions +
 1530-1600 Break and Refreshments +
 1600-1800 Testing and Discussions +
-+
 1915-2100 Test Event Dinner +
 _http://www.gaffelamdom.de/en_GaD_brewhouse.html[Gaffel am Dom]_
 a| *Tuesday 26 September* +
@@ -249,14 +248,10 @@ Any vendor or organization wishing to test a calendaring and scheduling implemen
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * https://www.calconnect.org/events/event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
-+
 : Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
 * https://www.calconnect.org/events/event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]
-+
 : Register one to six people as
-+
 link:{{'/events/observers' | relative_url }}[observers]
-+
 for the CalConnect Interoperability Test Event.
 
 == Interoperability Event Scenarios

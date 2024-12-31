@@ -23,10 +23,8 @@ Here's what's trending from CalConnect XXX:
 In the weeks immediately following CalConnect XXX, two organizations which had attended the event became members of CalConnect:
 
 * http://www.1und1.de/[1&1 Internet AG]
-+
 , based in Montbaur, Germany, attended as an observer. 1&1 offers internet and portal services to customers in Europe and elsewhere. 1&1 is a member of United Internet.
 * http://medred.com/[MedRed LLC]
-+
 , based in Washington, DC, participated in the Health Care Scheduling Workshop at the invitation of CalConnect. MedRed led the winning proposal for the Veterans Administration Scheduling System Challenge. MedRed also registered as observers for the rest of the conference.
 
 It is always very gratifying for any organization to pick up new members, but it is especially so for us when organizations choose to join after interacting with our membership, and experiencing what CalConnect has to offer.
@@ -34,7 +32,6 @@ It is always very gratifying for any organization to pick up new members, but it
 *Trending  Technical Committees (TC s) and Provisional Committees (PC s)*
 
 * link:{{'/about/technical-committees/tc-freebusy' | relative_url}}[TC FREEBUSY]
-+
 provided a live demo of VPOLL (consensus scheduling) interoperability across three different implementations each on its own server via iSCHEDULE (server-server scheduling).
 * The CONTACTS (Contacts Sharing) Provisional Committee will begin the transformation into a Technical Committee; the Committee provided a live demo of existing contacts sharing implementations.
 * The FSC (Federated Shared Calendars) Ad Hoc (Provisional) Committee will begin the transformation into a Technical Committee.
@@ -57,7 +54,6 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 *Recently updated internet drafts and published RFCs:*
 
 * http://tools.ietf.org/html/rfc7265[jCal: The JSON Format for iCalendar]
-+
 (RFC 7265)
 * http://tools.ietf.org/html/draft-daboo-icalendar-rscale-04[Non-Gregorian Recurrence Rules in iCalendar]
 * https://tools.ietf.org/html/draft-daboo-caldav-attachments/[CalDAV Managed Attachments]

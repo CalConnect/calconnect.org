@@ -25,7 +25,7 @@ CalConnect XXIX, consisting of a CalConnect Interoperability Test Event and a Ca
 
 The Interoperability Test Event will take place all day Monday and Tuesday February 3-4, and Wednesday morning February 5, ending at noon. The Roundtable will begin with lunch at 12:30 on Wednesday February 5, and last until mid-afternoon on Friday February 7.
 
-An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled on Wednesday morning the 5th for first-time attendees. More information for first-time participants may be found at http://calconnect.org/gettingstarted.shtml[Getting Started...].
+An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled on Wednesday morning the 5th for first-time attendees. More information for first-time participants may be found at link:{{'/gettingstarted.shtml' | relative_url}}[Getting Started...].
 
 
 
@@ -34,7 +34,7 @@ An informal __Introductory Q & A about CalConnect__, intended for first-time att
 |
 a| *CalConnect Interoperability Test Event*: At this meeting, we expect both regular interoperability testing with local and remote servers and clients, and mobile device testing. A participating organization may register for either or both for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see http://calconnect.org/iop1402.shtml[CalConnect Interoperability Test Event February 2014] for current information. Check back often as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1402.shtml' | relative_url}}[CalConnect Interoperability Test Event February 2014] for current information. Check back often as this will be updated as more information becomes available.
 
 _Please Note: You do not need finished or polished code to participate in the Interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
@@ -203,7 +203,6 @@ _On Site_
 ^4^All Roundtable and/or Interoperability Test Event participants are invited to the Wednesday evening reception +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
-+
  Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the Interoperability test events and are included in your registration fees.
 
 |===
