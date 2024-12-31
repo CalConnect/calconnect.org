@@ -18,7 +18,7 @@ _Move Escalates Focus on Open, Standards-Based Calendaring and Scheduling Protoc
 
 PDF: link:{{'/docs/press-releases/060807applejoinscalconnect.pdf' | relative_url }}[Apple Computer Joins CalConnect].
 
-*McKinleyville, CA – August 7, 2006\*
+*McKinleyville, CA – August 7, 2006*
 
 Apple Computer, Inc. has publicly
 announced its membership in The Calendaring and Scheduling Consortium

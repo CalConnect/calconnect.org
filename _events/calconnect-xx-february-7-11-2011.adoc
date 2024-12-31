@@ -178,7 +178,7 @@ _Hotel Shattuck Plaza_
  1400 Close of Meeting
 
 3+| 
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in a separate room to be identified later. +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
@@ -197,7 +197,7 @@ _Hotel Shattuck Plaza_
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *Contacts BOF* Thu 1030-1200 +
  1. Introduction +
  2. State of CardDAV and vCard v4 +
@@ -244,7 +244,7 @@ _Hotel Shattuck Plaza_
  2. Quick review of vpoll +
  3. Updates from the last roundtable for vpoll +
  4. Discussion: iTIP message flow for vpoll
-.<a| +
+.<a|
 *TC IOPTEST* Wed 1315-1330 +
  Review of IOP test participant findings
 

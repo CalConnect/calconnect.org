@@ -212,7 +212,7 @@ http://www.zitune.com[_Zitune Restaurant_] +
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *TC CALDAV* Thu 0830-1030 +
  1. Progress and Status Update +
  1.1 IETF +

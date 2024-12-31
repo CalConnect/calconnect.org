@@ -16,7 +16,7 @@ _Oracle, Mozilla, Isamet, and U. of Washington Participate in Tests_
 
 PDF: link:{{'/docs/press-releases/050111roundtable2.pdf' | relative_url }}[Roundtable II Publicity Release].
 
-*McKinleyville, CA – January 18, 2005\*
+*McKinleyville, CA – January 18, 2005*
 
 The Calendaring and Scheduling
 Consortium (“CalConnect”), launched December 14, 2004, has kicked off

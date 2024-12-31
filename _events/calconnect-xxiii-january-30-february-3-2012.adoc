@@ -204,7 +204,7 @@ _Piano Bar, First Floor, Infinite Loop 4_
  1400 Close of Meeting
 
 3+| 
-3+.<a| +
+3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in the iMAC Conference Room in IL4 second floor. +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
@@ -225,7 +225,7 @@ To be established by mid-January
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *TC CALDAV* Thu 1100-1230 +
  1. Introduction +
  1.1 Charter +
@@ -272,7 +272,7 @@ To be established by mid-January
  3. Moving Forward +
  3.1 Plan of Action +
  3.2 Next Conference Calls
-.<a| +
+.<a|
 *TC MOBILE* Fri 0830-0930 +
  1. Discussion of mobile issues with calendaring +
  2. Consistency of recurrence handling +

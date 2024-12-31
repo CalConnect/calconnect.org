@@ -68,12 +68,12 @@ The University of California at Irvine has arranged for a special CalConnect rat
 
 We have chosen the Ayres Hotel & Suites Costa Mesa / Newport Beach as our conference hotel. The Ayres is offering a special CalConnect rate of $79/night for the nights of January 31 through February 5. (A Junior Suite is also available at $99/night.)
 
-Please note that you must have booked your room and guaranteed with a credit card by January 15 2010 to ensure you receive the special room rate. The room block is limited, so book early. _The CalConnect Rate will be available for booking as of Monday, December 7, 2009_. +
- 
+Please note that you must have booked your room and guaranteed with a credit card by January 15 2010 to ensure you receive the special room rate. The room block is limited, so book early. _The CalConnect Rate will be available for booking as of Monday, December 7, 2009_.
+
 
 [cols="4,17,2,17"]
 |===
-| 
+|
 .<a| *The Ayres Hotel & Suites +
  Costa Mesa / Newport Beach* +
  325 Bristol Street +
@@ -86,7 +86,7 @@ http://www.ayreshotels.com/costamesa/ +
  Includes complimentary parking and wireless internet, +
  breakfast buffet, airport and local shuttle.* +
  See http://calconnect.org/CalConnect17%20Ayres%20Hotel.pdf[Ayres Hotel & Suites].
-| 
+|
 .<a| *Atrium Hotel* +
  18700 MacArthur Blvd. +
  Irvine, CA 92612 +
@@ -98,15 +98,14 @@ http://www.atriumhotel.com/ +
 
 |===
 
-+
- \*We hope to arrange scheduled shuttle runs to and from the Ayres Hotel and the UCI Campus in the morning and evening. All registered participants will be asked prior to the event if they plan to use the shuttle so we can tell the hotel how many people to expect.
+*We hope to arrange scheduled shuttle runs to and from the Ayres Hotel and the UCI Campus in the morning and evening. All registered participants will be asked prior to the event if they plan to use the shuttle so we can tell the hotel how many people to expect.
 
 If you have a preferred hotel chain or your company does, the usual hotel chains have hotels in the area; these hotels are mostly clustered more or less in the vicinity of the airport. There are no hotels within comfortable walking distance of the UCI campus.
 
 [[test-schedule]]
 == Test Event Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 [cols=3]
 |===
@@ -154,56 +153,56 @@ http://www.steelheadbrewery.com[www.steelheadbrewery.com]
 [[conference-schedule]]
 == Conference Schedule
 
-The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+The IOP Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE XVII*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 3 February* +
 *Room 4011, Bren Hall* +
- 1000-1200 User Special Interest Group^6^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1430 TC EVENTPUB +
- 1430-1530 TC RESOURCE +
- 1530-1545 Break +
- 1545-1715 TC XML +
- 1715-1800 USIG Profile: UCI
+1000-1200 User Special Interest Group^6^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1430 TC EVENTPUB +
+1430-1530 TC RESOURCE +
+1530-1545 Break +
+1545-1715 TC XML +
+1715-1800 USIG Profile: UCI
 
 1800-1930 Welcome Reception^4^ +
 _Library Room, University Club_
 .<a| *Thursday 4 February* +
 *Room 4011, Bren Hall* +
- 0800-0830 Breakfast +
- 0830-1030 TC CALDAV +
- 1030-1100 Break +
- 1100-1230 TC FREEBUSY +
- 1230-1330 Lunch +
- 1330-1500 TC iSCHEDULE +
- 1500-1600 TC TIMEZONE +
- 1600-1630 Break +
- 1630-1800 Steering Committee
+0800-0830 Breakfast +
+0830-1030 TC CALDAV +
+1030-1100 Break +
+1100-1230 TC FREEBUSY +
+1230-1330 Lunch +
+1330-1500 TC iSCHEDULE +
+1500-1600 TC TIMEZONE +
+1600-1630 Break +
+1630-1800 Steering Committee
 
 1930-2130 Group Dinner^5^ +
- _Ayres Hotel, +
- Costa Mesa/Newport Beach_
+_Ayres Hotel, +
+Costa Mesa/Newport Beach_
 .<a| *Friday 5 February* +
 *Room 2011, Bren Hall* +
- 0800-0830 Breakfast +
- 0830-0930 TC MOBILE +
- 0930-1030 TC USECASE +
- 1030-1100 Break +
- 1100-1200 Digital Calendar Outreach +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1230-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+0800-0830 Breakfast +
+0830-0930 TC MOBILE +
+0930-1030 TC USECASE +
+1030-1100 Break +
+1100-1200 Digital Calendar Outreach +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1230-1400 CalConnect Plenary Session +
+1400 Close of Meeting
 
-3+| 
-3+.<a| +
+3+|
+3+.<a|
 ^2^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^3^The Introduction to CalConnect is an optional informal Q&A session for new attendees (observers or new member representatives) +
 ^4^All Roundtable and/or IOP Test Event participants are invited to the Wednesday evening reception +
@@ -211,7 +210,7 @@ _Library Room, University Club_
 ^6^The User Special Interest Group will meet separately from the IOP test event.
 
 +
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 [[agendas]]
@@ -219,77 +218,77 @@ _Library Room, University Club_
 
 [cols=2]
 |===
-.<a| +
+.<a|
 *TC CALDAV* Thu 0830-1030 +
- 1. Progress and Status Update +
- 1.1 IETF +
- 1.2 CalConnect +
- 2. Open Discussions +
- 2.1 CalDAV Scheduling +
- 2.2 Calendar Alarm Extensions +
- 2.3 WebDAV Synchronization +
- 2.4 Shared Calendars +
- 2.5 Calendar Attachments +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Progress and Status Update +
+1.1 IETF +
+1.2 CalConnect +
+2. Open Discussions +
+2.1 CalDAV Scheduling +
+2.2 Calendar Alarm Extensions +
+2.3 WebDAV Synchronization +
+2.4 Shared Calendars +
+2.5 Calendar Attachments +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 
 *TC EVENTPUB* Wed 1330-1430 +
- 1. Review Charter (Mission and Goals) +
- 2. Discussion: Starting Use Cases and Requirements +
- 3. Rich text and iCalendar extensions +
- 3.1 Resource Reference proposal +
- 4. Liaisons with other TCs (RESOURCE, USECASE, XML)
+1. Review Charter (Mission and Goals) +
+2. Discussion: Starting Use Cases and Requirements +
+3. Rich text and iCalendar extensions +
+3.1 Resource Reference proposal +
+4. Liaisons with other TCs (RESOURCE, USECASE, XML)
 
 *TC FREEBUSY* Thu 1100-1230 +
- 1. Consensus Scheduling Proposal +
- 1,1 Presentation and Discussion +
- 2. Moving Forward +
- 2.1 Plan of Action +
- 2.2 Next Conference Calls
+1. Consensus Scheduling Proposal +
+1,1 Presentation and Discussion +
+2. Moving Forward +
+2.1 Plan of Action +
+2.2 Next Conference Calls
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 
 *TC iSCHEDULE* Thu 1330-1500 +
- 1. Progress and status update +
- 2. Open Discussions 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Progress and status update +
+2. Open Discussions 3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 .<a| *TC MOBILE* Fri 0830-0930 +
- 1. Update on TC activities +
- 2. Interop event status +
- 3. Synchronization technologies discussion +
-  (focus on ActiveSync) +
- 4. Outreach efforts +
- 5. Next steps
+1. Update on TC activities +
+2. Interop event status +
+3. Synchronization technologies discussion +
+(focus on ActiveSync) +
+4. Outreach efforts +
+5. Next steps
 
 *TC RESOURCE* Wed 1430-1530 +
- 1. Calconnect last call for cal-resources schema draft +
- 2. Next steps for the draft +
- 3. Next topic for TC Resource
+1. Calconnect last call for cal-resources schema draft +
+2. Next steps for the draft +
+3. Next topic for TC Resource
 
 *TC TIMEZONE* Thu 1500-1600 +
- 1. Timezone Service proposal +
- Presentation and discussion +
- 2. Planning for May IOP Tests +
- 3. Next Steps
+1. Timezone Service proposal +
+Presentation and discussion +
+2. Planning for May IOP Tests +
+3. Next Steps
 
 *TC USECASE* Fri 0930-1030 +
- 1. Review Recommended Glossary revisions +
- 2. Invite responses to same +
- 3. Review USig responses to UseCases +
- 4. Invite responses to same
+1. Review Recommended Glossary revisions +
+2. Invite responses to same +
+3. Review USig responses to UseCases +
+4. Invite responses to same
 
 *TC XML* Wed 1545-1715 +
- 1. Current status of "XCAL" specification +
- 2. Discuss calendar web service design +
- 3. Discuss work timeline for calendar web service +
- 4. Status of OASIS and WS-CALENDAR
+1. Current status of "XCAL" specification +
+2. Discuss calendar web service design +
+3. Discuss work timeline for calendar web service +
+4. Status of OASIS and WS-CALENDAR
 
 *USIG Profile: UCI* Wed 1715-1800 +
- Presentation on UC Irvine +
- Calendaring implementation, +
- Needs and Concerns
+Presentation on UC Irvine +
+Calendaring implementation, +
+Needs and Concerns
 
 |===

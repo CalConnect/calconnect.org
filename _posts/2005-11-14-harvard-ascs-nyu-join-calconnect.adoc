@@ -14,7 +14,7 @@ excerpt: |
 
 PDF: link:{{'/docs/press-releases/051114harvardascsandnyujoincalconnect.pdf' | relative_url }}[Harvard ASCS/NYU].
 
-*McKinleyville, CA – November 14, 2005\*
+*McKinleyville, CA – November 14, 2005*
 
 Harvard Arts and Sciences Computer
 Services and have joined the Calendaring and Scheduling Consortium to bring the
