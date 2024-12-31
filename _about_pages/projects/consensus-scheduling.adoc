@@ -20,4 +20,4 @@ additional iCalendar and iTIP component designed to allow the
 implementation of consensus scheduling with any system and client.
 link:{{'/about/technical-committees/tc-freebusy' | relative_url }}[TC FREEBUSY].
 
-Details: link:{{'/7_things_consensus_scheduling' | relative_url }}[*Consensus Scheduling (VPOLL)*]
+Details: link:{{'/resources/7-things-you-should-know-about/consensus-scheduling' | relative_url }}[*Consensus Scheduling (VPOLL)*]

@@ -10,7 +10,7 @@ excerpt: The CalConnect TASKS technical committee has just published a new brief
 
 == 7 Things You Should Know About Tasks
 
-The CalConnect TASKS technical committee has just published a new briefing document, link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks], intended for a general audience.
+The CalConnect TASKS technical committee has just published a new briefing document, link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url}}[7 Things You Should Know About Tasks], intended for a general audience.
 
 ____
 A "`task`" is a representation of an item of work assigned to an individual or organization. In RFC5545, Internet Calendaring and Scheduling Core Object Specification (iCalendar), these are "`VTODO`" calendar components, groupings of component properties and possibly "`VALARM`" calendar components that represent an action-item or assignment. Tasks (aka VTODO s) have been part of the iCalendar specification since it was adopted in 1998 as RFC 2445.

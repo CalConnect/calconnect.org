@@ -25,7 +25,7 @@ Therefore, we are forming a working group, a collaboration between the calendari
 mailto:Dave.Thewlis@calconnect.org[Dave.Thewlis@calconnect.org] +
 +1 707 840 9391
 
-For additional background on travel itineraries and calendaring and scheduling see "`7 Things about Digital Travel Itineraries`" at link:{{'/7_things_itineraries' | relative_url}}[].
+For additional background on travel itineraries and calendaring and scheduling see "`7 Things about Digital Travel Itineraries`" at link:{{'/resources/7-things-you-should-know-about/itineraries' | relative_url}}[].
 
 To learn more about becoming a member of CalConnect, see link:{{'/why-join' | relative_url}}[why join].
 

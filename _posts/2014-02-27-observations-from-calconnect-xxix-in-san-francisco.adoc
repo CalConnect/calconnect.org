@@ -55,9 +55,9 @@ _Much of the work in CalConnect is focused on specifications to become internet 
 
 * link:{{'/ioptestevent28rpt' | relative_url}}[Report on Interoperability Test Event XXIX]
 
-* link:{{'/7_things_itineraries' | relative_url}}[7 Things You Should Know About Digital Travel Itineraries]
+* link:{{'/resources/7-things-you-should-know-about/itineraries' | relative_url}}[7 Things You Should Know About Digital Travel Itineraries]
 
-* link:{{'/7_things_tasks' | relative_url}}[7 Things You Should Know About Tasks]
+* link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url}}[7 Things You Should Know About Tasks]
 
 *Recently updated internet drafts and published RFCs:*
 

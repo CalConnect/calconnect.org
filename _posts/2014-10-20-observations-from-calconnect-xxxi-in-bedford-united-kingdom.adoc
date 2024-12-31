@@ -49,7 +49,7 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 *Published documents* :
 
 * link:{{'/conference31rpt' | relative_url}}[Report on CalConnect Conference XXXI]
-* link:{{'/7_things_api' | relative_url}}[7 Things You Should Know About the Abstract Calendaring API]
+* link:{{'/resources/7-things-you-should-know-about/abstract-calendaring-api' | relative_url}}[7 Things You Should Know About the Abstract Calendaring API]
 * link:{{'/starterlistcaldavcarddav' | relative_url}}[Updated Starter List of CalDAV and CardDAV Standards and Specifications]
 
 *CalConnect internet drafts adopted for progression via IETF Working Groups*:
