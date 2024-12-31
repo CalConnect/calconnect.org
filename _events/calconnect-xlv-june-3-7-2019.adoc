@@ -186,7 +186,7 @@ _Discussion on re-establishing TC-USECASE from last event. This session will con
 
 | 0945-1030
 a| TC-LOCALIZATION +
-_TC-LOCALIZATION was initiated following CalConnect XLIII but has not been activated. This session will review the charter discuss moving forward and a program of work. Draft charter: https://calconnect.github.io/public/charter/charter-TC-LOCALIZATION/_
+_TC-LOCALIZATION was initiated following CalConnect XLIII but has not been activated. This session will review the charter discuss moving forward and a program of work. Draft charter: link:{{ '/about/technical-committees/tc-localization' | relative_url }}
 
 | 1030-1100 | Break and Refreshments
 | 1100-1145
