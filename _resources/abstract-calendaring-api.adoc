@@ -105,7 +105,7 @@ implementations, libraries, and other components.
 == What needs to be done, and what is CalConnect doing?
 
 CalConnect has chartered a Technical Committee,
-https://calconnect.github.io/public/charter/charter-TC-API/[TC API] to
+link:{{ '/about/technical-committees/tc-api' | relative_url }}[TC API] to
 define and document a calendaring architecture encompassing the existing
 calendaring and scheduling standards and protocols, and develop an
 abstract calendaring API which encompasses all of the major
@@ -127,7 +127,7 @@ their product.
 
 == Need more information?
 
-* https://calconnect.github.io/public/charter/charter-TC-API/[TC API]
+* link:{{ '/about/technical-committees/tc-api' | relative_url }}[TC API]
 
 * link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url }}[Calendaring Service Architecture Diagram]
 
