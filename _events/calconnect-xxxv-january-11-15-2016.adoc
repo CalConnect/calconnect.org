@@ -80,10 +80,10 @@ Palo Alto is closest to San Jose International Airport. Oakland International is
 The Conference Hotel is
 
 http://www.dinahshotel.com[Dinah's Garden Hotel] +
- 4261 El Camino Real +
- Palo Alto, California 94306 +
- +1 800 227 8820 +
- +1 650 493 2844 +
+4261 El Camino Real +
+Palo Alto, California 94306 +
++1 800 227 8820 +
++1 650 493 2844 +
 http://www.dinahshotel.com
 
 The hotel offers an AOL rate of $240 for a standard "Garden" room. In order to obtain the AOL rate you must call the hotel at the number above and request the AOL rate.
@@ -106,41 +106,41 @@ CALCONNECT INTEROPERABILITY TEST EVENT
 a|
 
 *Monday 11 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1915-2130 IOP Test
 
 *Dinner* +
 http://tiedhouse.com/[_Tied House_] +
- 954 Villa street +
- Mountain View CA +
- 650-965-2739
+954 Villa street +
+Mountain View CA +
+650-965-2739
 
 a| *Tuesday 12 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 a| *Wednesday 13 January* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1130 Testing +
- 1130-1200 Wrap-up +
- 1200 End of IOP Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1130 Testing +
+1130-1200 Wrap-up +
+1200 End of IOP Testing
 
 1200-1300 Lunch/Opening
 
@@ -181,7 +181,7 @@ a| Identity for federated sharing and scheduling +
 _The use of email addresses from other domains for identity causes problems for scheduling and sharing.._
 
 | 1700-1800
-a| App-specific data embedded in iCalendar +
+a| App-specific data embedded in iCalendar
 
 
 | 1800-2000
@@ -213,15 +213,15 @@ _Encryption of data has implications for services such as implicit scheduling._
 
 | 1700-1800
 a| Scheduling changes and real-world use cases (organizer-less scheduling +
-_The enterprise scheduling model is not necessarily appropriate for social calendaring which often has no clearly defined organizer._ +
+_The enterprise scheduling model is not necessarily appropriate for social calendaring which often has no clearly defined organizer._
 
 
 | 1915-2200
 a| Conference Dinner +
 http://pacificcatch.com/[_Pacific Catch_] +
- 545 San Antonio Way Suite 34, in San Antonio Shopping Center +
- Mountain View CA +
- 650-941-1810
+545 San Antonio Way Suite 34, in San Antonio Shopping Center +
+Mountain View CA +
+650-941-1810
 
 2+| *Friday 15 January*
 | 0800-0830 | Coffee & Rolls

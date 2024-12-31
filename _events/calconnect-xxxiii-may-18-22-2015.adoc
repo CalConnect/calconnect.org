@@ -85,25 +85,25 @@ Other than using a taxi between the airport and the conference hotel, taxi is a 
 
 The conference hotel for this event is the Caro Golf Hotel http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/[].
 
-The Caro Hotel is located 500 meters from Sky Tower, so it is easy to walk between the hotel and the conference location. +
+The Caro Hotel is located 500 meters from Sky Tower, so it is easy to walk between the hotel and the conference location.
 
 
 [cols="1,9"]
 |===
 |
 .<a| *Caro Golf 4* +
- 164 A Barbu Vacarescu Blvd +
- 2nd Distrrict +
- 020285 Bucharest +
- Romania +
+164 A Barbu Vacarescu Blvd +
+2nd Distrrict +
+020285 Bucharest +
+Romania +
 http://carohotel.ro/bucharest-hotels/4-star-hotel-bucharest/
 
 |===
 
- We are offering a special rate of 65 Euros per room/night (including breakfast, free wifi & SPA access) for a single room (1 person), 75 Euros per room/night for a double or twin room (2 people). Please note that in order to receive the special CalConnect rate, *you cannot book online via the hotel website*. You must complete and send this linked link:{{'/CARO%20Hotel%20Booking%20form.doc' | relative_url}}[CARO Hotel Booking Form] reservation form to the hotel by fax or as an attachment to an e-mail. Note that the booking code "CalConnect" is entered in the special rate field.
+We are offering a special rate of 65 Euros per room/night (including breakfast, free wifi & SPA access) for a single room (1 person), 75 Euros per room/night for a double or twin room (2 people). Please note that in order to receive the special CalConnect rate, *you cannot book online via the hotel website*. You must complete and send this linked link:{{'/CARO%20Hotel%20Booking%20form.doc' | relative_url}}[CARO Hotel Booking Form] reservation form to the hotel by fax or as an attachment to an e-mail. Note that the booking code "CalConnect" is entered in the special rate field.
 
 FAX: +402 1 208.61.01 +
- E-Mail: mailto:reservation@carohotel.ro[reservation@carohotel.ro]
+E-Mail: mailto:reservation@carohotel.ro[reservation@carohotel.ro]
 
 If you wish to arrange for transportation from the airport with the hotel, please use the "Special requests" field and supply your date and time of arrival, airline and flight number, and number of people.
 
@@ -119,7 +119,7 @@ _Alternatively you can book online at the hotel website but you will not receive
 
 The Interoperability Test Event begins at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Conference begins with lunch on Wednesday and runs through Friday afternoon.
 
-As breakfast is offered by the hotel we will not be offering a breakfast at the conference facility, but we will have coffee and rolls at 0800. The program for each day starts at 0830 and runs until 1800. +
+As breakfast is offered by the hotel we will not be offering a breakfast at the conference facility, but we will have coffee and rolls at 0800. The program for each day starts at 0830 and runs until 1800.
 
 
 [cols=3]
@@ -127,40 +127,40 @@ As breakfast is offered by the hotel we will not be offering a breakfast at the 
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 18 May* +
- 0800-0830 Coffee Service +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 Breakout: API discussions +
- 1330-1530 Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee Service +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 Breakout: API discussions +
+1330-1530 Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1900-2100 Interop Test Dinner +
 _http://trattoriailcalcio.ro/barbu-vacarescu-2/[Trattoria Il Calcio]_ +
- Strada Glodeni 1-3, BucureÅti 023824, Romania +
+Strada Glodeni 1-3, BucureÅti 023824, Romania +
  (within the Pescariu Sports & SPA)
 .<a| *Tuesday 19 May* +
- 0800-0830 Coffee Service +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1130 Breakout: iMIP +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 Breakout: DAV PUSH +
- 1330-1530 Testing +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee Service +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1130 Breakout: iMIP +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 Breakout: DAV PUSH +
+1330-1530 Testing +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 .<a| *Wednesday 20 May* +
- 0800-0830 Coffee Service +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Coffee Service +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^1^
 
@@ -255,7 +255,7 @@ _We now have members/member reps in ten time zones and soon more. What means of 
 |
 .<a| Conference Dinner^4^ +
 _http://www.carucubere.ro/en/[Caru' cu bere]_ +
- Strada Stavropoleos, BucureÅti, Romania
+Strada Stavropoleos, BucureÅti, Romania
 
 3+|
 3+.<| *Friday 22 May*
@@ -288,7 +288,7 @@ _Email is often not the primary vehicle for messaging among people. Instant mess
 |
 .<a| CalDAV Topics +
  _Progress on the server information specification +
- Server and client capability matrix_
+Server and client capability matrix_
 
 .<| 1415-1500
 |

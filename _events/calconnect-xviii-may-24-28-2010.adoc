@@ -75,38 +75,38 @@ There are other hotels in the immediate area although not as close to the meetin
 | 
 .<a| *Conference Hotel* +
 *Holiday Inn Pittsburgh @ University Center (Oakland)* +
- 100 Lytton Avenue +
- Pittsburgh, PA 15213 +
- Phone: +1 412-682-6200 +
+100 Lytton Avenue +
+Pittsburgh, PA 15213 +
+Phone: +1 412-682-6200 +
 http://www.holidayinn.com/pit-univctr[http://http://www.holidayinn.com/pit-univctr] +
- CalConnect rate $129/night if booked by May 14 +
- Book online from the web page; specify Group Code CAC +
- Free wired internet in rooms; wifi in public areas
+CalConnect rate $129/night if booked by May 14 +
+Book online from the web page; specify Group Code CAC +
+Free wired internet in rooms; wifi in public areas
 
 *Marriott Courtyard Pittsburgh Shadyside* +
- 5308 Liberty Avenue +
- Pittsburgh, PA 15224 +
- Phone: +1 412 683 3113 +
+5308 Liberty Avenue +
+Pittsburgh, PA 15224 +
+Phone: +1 412 683 3113 +
 http://www.marriott.com/hotels/travel/pitok-courtyard-pittsburgh-shadyside/ +
  
 | 
 .<a| *Shadyside Inn (all suites)* +
- 5405 5th Avenue +
- Pittsburgh, PA 15232 +
- Phone: +1 412 441 4444 +
+5405 5th Avenue +
+Pittsburgh, PA 15232 +
+Phone: +1 412 441 4444 +
 http://www.shadysideinn.com/
 
 *Springhill Suites Pittsburgh Bakery Square* +
- 134 Bakery Square Boulevard +
- Pittsburgh, PA 15206 +
- +1 412 362 8600 +
+134 Bakery Square Boulevard +
+Pittsburgh, PA 15206 +
++1 412 362 8600 +
 http://www.marriott.com/hotels/travel/pitel-springhill-suites-pittsburgh-bakery-square +
  **Hotel Opens May 8th**
 
 *Wyndham Pittsburgh - University Place* +
- 3454 Forbes Avenue +
- Pittsburgh, PA 15213 +
- Phone: +1 412 683 2040 +
+3454 Forbes Avenue +
+Pittsburgh, PA 15213 +
+Phone: +1 412 683 2040 +
 http://www.pittsburghpawyndham.com/
 
 |===
@@ -127,33 +127,33 @@ _All sessions and events are in *Room 203, Margaret Morrison Carnegie Hall* exce
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENTS*
 
 .<a| *Monday 24 May* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 BOFs/Break +
- 1600-1800 Testing
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 BOFs/Break +
+1600-1800 Testing
 
 1900-2100 IOP Test Dinner +
 http://www.fuelandfuddle.com/[_Food & Fuddle_] 
 .<a| *Tuesday 25 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 26 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^1^
 
@@ -174,44 +174,44 @@ _All sessions and events are in*Room 203, Margaret Morrison Carnegie Hall*except
 
 3+.<| 
 .<a| *Wednesday 26 May* +
- 1000-1200 User Special Interest Group^2^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1430 TC EVENTPUB +
- 1430-1530 TC RESOURCE +
- 1530-1545 Break +
- 1545-1715 TC XML +
- 1715-1800 USIG Profile: CMU
+1000-1200 User Special Interest Group^2^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1430 TC EVENTPUB +
+1430-1530 TC RESOURCE +
+1530-1545 Break +
+1545-1715 TC XML +
+1715-1800 USIG Profile: CMU
 
 1800-1930 Welcome Reception^4^ +
  _Danforth Lounge +
- University Ctr 2nd Floor_
+University Ctr 2nd Floor_
 .<a| *Thursday 27 May* +
- 0800-0830 Breakfast +
- 0830-0930 TC CALDAV +
- 0930-1100 ICS AD HOC +
- 1100-1130 Break +
- 1130-1230 TC USECASE +
- 1230-1330 Lunch +
- 1330-1430 TC iSCHEDULE +
- 1430-1500 BOF: Interoperability +
- 1500-1600 BOF: CalConnect Directions +
- 1600-1630 Break +
- 1630-1800 Steering Committee^5^
+0800-0830 Breakfast +
+0830-0930 TC CALDAV +
+0930-1100 ICS AD HOC +
+1100-1130 Break +
+1130-1230 TC USECASE +
+1230-1330 Lunch +
+1330-1430 TC iSCHEDULE +
+1430-1500 BOF: Interoperability +
+1500-1600 BOF: CalConnect Directions +
+1600-1630 Break +
+1630-1800 Steering Committee^5^
 
 1930-2130 Group Dinner^6^ +
 http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 .<a| *Friday 28 May* +
- 0800-0830 Breakfast +
- 0830-0930 TC MOBILE +
- 0930-1030 TC FREEBUSY +
- 1030-1100 Break +
- 1100-1200 TC TIMEZONE +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1230-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+0800-0830 Breakfast +
+0830-0930 TC MOBILE +
+0930-1030 TC FREEBUSY +
+1030-1100 Break +
+1100-1200 TC TIMEZONE +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1230-1400 CalConnect Plenary Session +
+1400 Close of Meeting
 
 3+| 
 3+.<a|
@@ -222,7 +222,7 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
 
 |===
 [[agendas]]
@@ -231,92 +231,92 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 [cols=2]
 |===
 .<a| *Internet Calendar Subscription Ad Hoc* +
- Thu 0930-11000 +
- 1. Overview +
- 1.1 Draft Charter +
- 2. Parallel with Feed Subscription +
- 2.1 Ecosystem, Use Cases, Technology +
- 3. Internet Calendar Subscription +
- 3.1 Ecosystem, Use Cases, Technology +
- 4. Open Discussions +
- 4.1 Identify Pain Points +
- 4.2 Identify Action Items +
- 5. Moving Forward +
- 5.1 Next steps
+Thu 0930-11000 +
+1. Overview +
+1.1 Draft Charter +
+2. Parallel with Feed Subscription +
+2.1 Ecosystem, Use Cases, Technology +
+3. Internet Calendar Subscription +
+3.1 Ecosystem, Use Cases, Technology +
+4. Open Discussions +
+4.1 Identify Pain Points +
+4.2 Identify Action Items +
+5. Moving Forward +
+5.1 Next steps
 
 *TC CALDAV* Thu 0830-0930 +
- 1. Overview +
- 1.1 Charter +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 Calendar Alarms +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls
+1. Overview +
+1.1 Charter +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 Calendar Alarms +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
 
 *TC EVENTPUB* Wed 1330-1430 +
- 1. Overview of activities since February +
- 2. Presentation on REFERENCE draft and status +
- 3. Intersections with TC XML and TC RESOURCE +
- 4. Next steps and recruitment
+1. Overview of activities since February +
+2. Presentation on REFERENCE draft and status +
+3. Intersections with TC XML and TC RESOURCE +
+4. Next steps and recruitment
 
 *TC FREEBUSY* Fri 0930-1030 +
- 1. Scenarios for consensus scheduling +
- 2. Call for implementations +
- 3. Parallels to "smart grid bidding" (TC-XML) +
- 4. Going forward; plan of action +
- 5. Next Conference Calls
+1. Scenarios for consensus scheduling +
+2. Call for implementations +
+3. Parallels to "smart grid bidding" (TC-XML) +
+4. Going forward; plan of action +
+5. Next Conference Calls
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP tests participant findings +
+Review of IOP tests participant findings +
  
 .<a| *TC iSCHEDULE* Thu 1330-1500 +
- 1. Overview +
- 1.1 Charter +
- 2. Open Discussions +
- 2.1 DomainKeys Identified Mail +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls +
+1. Overview +
+1.1 Charter +
+2. Open Discussions +
+2.1 DomainKeys Identified Mail +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls +
 *TC MOBILE* Fri 0830-0930 +
- 1. Update on TC activities +
- 2. Report on Mobile Calendaring IOP Test Event +
- 3. Outreach efforts +
- 4. Next steps +
- 5. Next TC call
+1. Update on TC activities +
+2. Report on Mobile Calendaring IOP Test Event +
+3. Outreach efforts +
+4. Next steps +
+5. Next TC call
 
 *TC RESOURCE* Wed 1430-1530 +
- 1. Schema for representing calendar resources +
- 1.1 Draft published +
- 1.2 Upcoming implementations +
- 2. Future direction for TC RESOURCE +
- 2.1 Discussion topics: ease of discover and use of resources +
- 2.1.1 CardDAV +
- 2.1.2 CalDAV (especially scheduling) +
- 3. Next call
+1. Schema for representing calendar resources +
+1.1 Draft published +
+1.2 Upcoming implementations +
+2. Future direction for TC RESOURCE +
+2.1 Discussion topics: ease of discover and use of resources +
+2.1.1 CardDAV +
+2.1.2 CalDAV (especially scheduling) +
+3. Next call
 
 *TC TIMEZONE* Fri 1100-1200 +
- 1. Progress Report +
- 2. Open discussion: passing Timezones by reference +
+1. Progress Report +
+2. Open discussion: passing Timezones by reference +
  (impacts on iCalendar and CalDAV) +
- 3. Next Steps +
- 4. Next TC Call
+3. Next Steps +
+4. Next TC Call
 
 *TC USECASE* Thu 1130-1230 +
- 1. Discuss Glossary Revision +
- 2. Discuss Non-Institutional/Non-Enterprise Usecases
+1. Discuss Glossary Revision +
+2. Discuss Non-Institutional/Non-Enterprise Usecases
 
 *TC XML* Wed 1545-1715 +
- 1. Status of "xCal" specification +
- 2. Presentation on CalWS +
- 3. Status of OASIS and WS-CALENDAR +
- 4. Next steps and calls
+1. Status of "xCal" specification +
+2. Presentation on CalWS +
+3. Status of OASIS and WS-CALENDAR +
+4. Next steps and calls
 
 *USIG Profile: UCI* Wed 1715-1800 +
- Presentation on CMU +
- Calendaring implementation, +
- Needs and Concerns
+Presentation on CMU +
+Calendaring implementation, +
+Needs and Concerns
 
 |===

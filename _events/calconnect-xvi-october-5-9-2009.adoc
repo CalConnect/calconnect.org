@@ -69,24 +69,24 @@ Cupertino is about 30 miles south of San Francisco International Airport, and qu
 
 The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to link:{{'/membersonly/cc16.shtml' | relative_url}}[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
 
-The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative. +
+The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative.
 
 
 [cols="4,17,2,17"]
 |===
 |
 .<a| *The Cypress Hotel* +
- 10050 South De Anza Blvd +
- Cupertino, CA 95014 +
- Phone: +1 408 253 8900 +
+10050 South De Anza Blvd +
+Cupertino, CA 95014 +
+Phone: +1 408 253 8900 +
 http://www.thecypresshotel.com +
- Apple rate available to CalConnect members; +
- see link:{{'/membersonly/cc16.shtml' | relative_url}}[Book the Apple Rate].
+Apple rate available to CalConnect members; +
+see link:{{'/membersonly/cc16.shtml' | relative_url}}[Book the Apple Rate].
 |
 .<a| *The Cupertino Inn* +
- 10889 North De Anza Blvd +
- Cupertino, CA 95014-6301 +
- Phone: +1 408 996 7700 +
+10889 North De Anza Blvd +
+Cupertino, CA 95014-6301 +
+Phone: +1 408 996 7700 +
 http://www.cupertinoinn.com
 
 |===
@@ -105,36 +105,36 @@ A downloadable iCalendar.ics file with the entire schedule is also available at 
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT* - Beatles meeting room, 1st Floor, De Anza 3 (except as noted)
 
 .<a| *Monday 5 October* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 BOFs/Break +
- 1600-1800 Testing
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 BOFs/Break +
+1600-1800 Testing
 
 1930-2100 IOP Test Dinner +
 http://www.theduke.com[_Duke of Edinburgh Pub_] +
- Cupertino, CA
+Cupertino, CA
 .<a| *Tuesday 6 October* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Meet the Apple Engineers^1^ +
- 1800-1900 Informal cocktail/chat hour +
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Meet the Apple Engineers^1^ +
+1800-1900 Informal cocktail/chat hour +
 __Piano Bar Room__, Building IL4 (see campus map)
 .<a| *Wednesday 7 October* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^2^
 
@@ -154,44 +154,44 @@ A downloadable iCalendar.ics file with the entire schedule is also available at 
 3+.<| *ROUNDTABLE XVI* - Beatles meeting room, 1st Floor, De Anza 3 (except as noted)
 
 .<a| *Wednesday 7 October* +
- 1000-1200 User Special Interest Group^6^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1500 TC RESOURCE +
- 1500-1530 BOF CalDAV Extensions +
- 1530-1600 Break +
- 1600-1800 TC XML
+1000-1200 User Special Interest Group^6^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1500 TC RESOURCE +
+1500-1530 BOF CalDAV Extensions +
+1530-1600 Break +
+1600-1800 TC XML
 
 1800-1930 Welcome Reception^4^ +
 http://hosted.where2getit.com/outback/state2.html?state=CA[Outback Steakhouse] +
- 20630 Valley Green Drive, Cupertino +
- 5 minute walk from Apple
+20630 Valley Green Drive, Cupertino +
+5 minute walk from Apple
 .<a| *Thursday 8 October* +
- 0800-0830 Breakfast +
- 0830-1030 TC CALDAV +
- 1030-1100 Break +
- 1100-1230 TC TIMEZONE +
- 1230-1330 Lunch +
- 1330-1500 TC iSCHEDULE +
- 1500-1600 TC FREEBUSY +
- 1600-1630 Break +
- 1630-1800 Steering Committee
+0800-0830 Breakfast +
+0830-1030 TC CALDAV +
+1030-1100 Break +
+1100-1230 TC TIMEZONE +
+1230-1330 Lunch +
+1330-1500 TC iSCHEDULE +
+1500-1600 TC FREEBUSY +
+1600-1630 Break +
+1630-1800 Steering Committee
 
 1930-2130 Group Dinner^5^ +
 http://www.zitune.com[_Zitune Restaurant_] +
- 325 Main Street, Los Altos
+325 Main Street, Los Altos
 .<a| *Friday 9 October* +
- 0800-0830 Breakfast +
- 0830-0900 TC EVENTPUB +
- 0900-0930 TC MOBILE +
- 0930-1030 TC USECASE +
- 1030-1100 Break +
- 1100-1200 BOF Digital Calendaring Outreach +
- 1200-1230 TC Wrapup +
- 1230-1330 Working Lunch +
- 1230-1400 CalConnect Plenary Session +
- 1400 Close of Meeting
+0800-0830 Breakfast +
+0830-0900 TC EVENTPUB +
+0900-0930 TC MOBILE +
+0930-1030 TC USECASE +
+1030-1100 Break +
+1100-1200 BOF Digital Calendaring Outreach +
+1200-1230 TC Wrapup +
+1230-1330 Working Lunch +
+1230-1400 CalConnect Plenary Session +
+1400 Close of Meeting
 
 3+|
 3+.<a| ^1^The "Meet the Apple Engineers" session is a Q&A sesson with iCal server, iCal client, and iPhone Calendar engineers. It is open to all Interoperability Test Event participants, and also to registered Roundtable participants who wish to arrive early for this event. The informal cocktail and chat hour following this event is open to everyone who attends the session. _*Please Note:* You must indicate that you wish to attend this session on your registration form if you are registered for the Roundtable but not the IOP Test Event._ +
@@ -201,7 +201,7 @@ http://www.zitune.com[_Zitune Restaurant_] +
 ^5^All Roundtable participants are invited to the group dinner on Thursday +
 ^6^The User Special Interest Group will meet separately from the IOP test event in the Doors Conference room, 1st Floor, Building De Anza 3. _This meeting is limited to representatives of user (i.e. customer) organizations._
 
- Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
@@ -212,68 +212,68 @@ http://www.zitune.com[_Zitune Restaurant_] +
 |===
 .<a|
 *TC CALDAV* Thu 0830-1030 +
- 1. Progress and Status Update +
- 1.1 IETF +
- 1.2 CalConnect +
- 2. Open Discussions +
- 2.1 Calendar Alarm Extensions +
- 2.2 WebDAV Synchronization +
- 2.3 Shared Calendars +
- 2.4 Calendar Attachments +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Progress and Status Update +
+1.1 IETF +
+1.2 CalConnect +
+2. Open Discussions +
+2.1 Calendar Alarm Extensions +
+2.2 WebDAV Synchronization +
+2.3 Shared Calendars +
+2.4 Calendar Attachments +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 
 *TC EVENTPUB* Fri 0830-0900 +
- 1. Status Update +
- 2. Way forward
+1. Status Update +
+2. Way forward
 
 *TC FREEBUSY* Thu 1500-1600 +
- 1. Work since Roundtable XV +
- 2. Consensus Scheduleing +
- 3. TC Freebusy Futures
+1. Work since Roundtable XV +
+2. Consensus Scheduleing +
+3. TC Freebusy Futures
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 
 *TC iSCHEDULE* Thu 1330-1500 +
- 1. Progress and status update +
- 2. Open Discussions 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Progress and status update +
+2. Open Discussions 3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 .<a| *TC MOBILE* Fri 0900-0930 +
- 1. Introduction +
- 2. Mobile IOP Test Event Planning +
- 3. Outreach +
- 4. Mobile Calendaring Vision discussion and brainstorming +
- 5. Mobile Calendaring Questionnaire V3 +
- 6. Mobile device calendaring certification +
- 7. Future of TC MOBILE
+1. Introduction +
+2. Mobile IOP Test Event Planning +
+3. Outreach +
+4. Mobile Calendaring Vision discussion and brainstorming +
+5. Mobile Calendaring Questionnaire V3 +
+6. Mobile device calendaring certification +
+7. Future of TC MOBILE
 
 *TC RESOURCE* Wed 1330-1500 +
- 1. Updated resource attributes table +
- 2. Progress on resource schema draft +
- 3. Next steps +
- 3.1 Finish draft +
- 3.2 Discuss other resource related topics
+1. Updated resource attributes table +
+2. Progress on resource schema draft +
+3. Next steps +
+3.1 Finish draft +
+3.2 Discuss other resource related topics
 
 *TC TIMEZONE* Thu 1100-1230 +
- 1. Olson's post to TZ list about retirement +
- 2. Follow-up from IETF discussions +
- 3. Progress on RFCs +
- 4. Implementations and demo
+1. Olson's post to TZ list about retirement +
+2. Follow-up from IETF discussions +
+3. Progress on RFCs +
+4. Implementations and demo
 
 *TC USECASE* Fri 0930-1030 +
- 1. Review work goals from last Roundtable +
- 2. Review work progress on goals +
- 3. NASA Usecases presentation +
- 4. Discussion: Glossary update +
+1. Review work goals from last Roundtable +
+2. Review work progress on goals +
+3. NASA Usecases presentation +
+4. Discussion: Glossary update +
   solicit additions/deletions/updates
 
 *TC XML* Wed 1600-1800 +
- 1. Current state of TC XML work and discussion. +
- 2. Recap of calendaring web service discussion to date. +
- 3. Presentation and discussion of new charter. +
- 4. Discuss next steps for WS-Calendar work.
+1. Current state of TC XML work and discussion. +
+2. Recap of calendaring web service discussion to date. +
+3. Presentation and discussion of new charter. +
+4. Discuss next steps for WS-Calendar work.
 
 |===

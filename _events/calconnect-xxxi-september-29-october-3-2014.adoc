@@ -100,7 +100,7 @@ The Interoperability Test Event begins at 0830 Monday morning and runs all day M
 
 Please note: The Conference Schedule below is provisional. Once Topical Agendas are finalized we may need to make changes in session lengths and schedule location.
 
-_Please note: In accordance with our custom for European meetings we will not offer breakfast other than coffee service and rolls, as breakfast is generally part of your hotel booking._ +
+_Please note: In accordance with our custom for European meetings we will not offer breakfast other than coffee service and rolls, as breakfast is generally part of your hotel booking._
 
 
 [cols=3]
@@ -108,34 +108,34 @@ _Please note: In accordance with our custom for European meetings we will not of
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 29 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200-1300 Lunch +
- 1300-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200-1300 Lunch +
+1300-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1915-2130 Interop Test Dinner +
 _TBD_
 .<a| *Tuesday 30 September* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200-1300 Lunch +
- 1300-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200-1300 Lunch +
+1300-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 .<a| *Wednesday 1 October* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Testing +
- 1200 End of Testing
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Testing +
+1200 End of Testing
 
 1200-1300 Lunch/Opening^1^
 
@@ -152,45 +152,45 @@ _TBD_
 
 3+.<|
 .<a| *Wednesday 1 October* +
- 1100-1200 Introduction to CalConnect^2^ +
- 1200-1300 Lunch +
- 1300-1415 Opening +
- 1415-1430 TC IOPTEST Reports +
- 1430-1530 TC TASKS +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC FSC +
- 1700-1800 Host Session - Youcanbook.me
+1100-1200 Introduction to CalConnect^2^ +
+1200-1300 Lunch +
+1300-1415 Opening +
+1415-1430 TC IOPTEST Reports +
+1430-1530 TC TASKS +
+1530-1600 Break and Refreshments +
+1600-1700 TC FSC +
+1700-1800 Host Session - Youcanbook.me
 
 1800-2000 Welcome Reception^3^ +
 http://www.embankmentbedford.co.uk/[_The Embankment_] +
- The Embankment, Bedford
+The Embankment, Bedford
 .<a| *Thursday 2 October* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Workshop: History & Comment Feeds in iCalendar +
- 1000-1030 Break and Refreshments +
- 1030-1100 CalConnect Discussions +
- 1100-1200 TC FREEBUSY +
- 1200-1300 Lunch +
- 1300-1500 TC CALDAV +
- 1500-1530 TC EVENTPUB +
- 1530-1600 Break and Refreshments +
- 1600-1630 TC ISCHEDULE +
- 1630-1800 TC SHARING
+0800-0830 Coffee & Rolls +
+0830-1000 Workshop: History & Comment Feeds in iCalendar +
+1000-1030 Break and Refreshments +
+1030-1100 CalConnect Discussions +
+1100-1200 TC FREEBUSY +
+1200-1300 Lunch +
+1300-1500 TC CALDAV +
+1500-1530 TC EVENTPUB +
+1530-1600 Break and Refreshments +
+1600-1630 TC ISCHEDULE +
+1630-1800 TC SHARING
 
 1915-2200 Group Dinner^4^ +
 http://dparys.co.uk/[_d'Parys_] +
- 45 De Parys Avenue, Bedford
+45 De Parys Avenue, Bedford
 .<a| *Friday 3 October* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Workshop: Groups Sharing and Scheduling +
- 1000-1030 Break and Refreshments +
- 1030-1100 BOF: C&S Architecture +
- 1100-1200 TC PUSH +
- 1200-1300 Lunch +
- 1300-1430 TC API +
- 1430-1500 TC WRAPUP +
- 1500-1600 CalConnect Plenary Session +
- 1600 Close of Meeting
+0800-0830 Coffee & Rolls +
+0830-1000 Workshop: Groups Sharing and Scheduling +
+1000-1030 Break and Refreshments +
+1030-1100 BOF: C&S Architecture +
+1100-1200 TC PUSH +
+1200-1300 Lunch +
+1300-1430 TC API +
+1430-1500 TC WRAPUP +
+1500-1600 CalConnect Plenary Session +
+1600 Close of Meeting
 
 3+|
 3+.<a|
@@ -199,7 +199,7 @@ http://dparys.co.uk/[_d'Parys_] +
 ^3^All Conference and/or Test Event participants are invited to the Wednesday evening reception +
 ^4^All Conference participants are invited to the group dinner on Thursday.
 
- Morning coffee, lunch, and morning and afternoon breaks will be served to all participants in the Test Event and Conference and are included in your registration fees.
+Morning coffee, lunch, and morning and afternoon breaks will be served to all participants in the Test Event and Conference and are included in your registration fees.
 
 |===
 
@@ -209,141 +209,141 @@ http://dparys.co.uk/[_d'Parys_] +
 [cols=2]
 |===
 .<a| *CalConnect Discussions* Thu 1030-1100 +
- 1. Health Care Workshop Report +
- 2. Steering Committee Resolution and Follow-on
+1. Health Care Workshop Report +
+2. Steering Committee Resolution and Follow-on
 
 *Host Session - Youcanbook.me* Wed 1700-1800
 
 *Opening Session* Wed 1300-1415 +
- 1. Welcome and Logistics +
- 2. Introudctions +
- 3. New Member Presentations +
- 4. Overview of the Conference +
- 5. CalConnect and the IETF - Update
+1. Welcome and Logistics +
+2. Introudctions +
+3. New Member Presentations +
+4. Overview of the Conference +
+5. CalConnect and the IETF - Update
 
 *TC API* Fri 1300-1430 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 1.2.1 Other people are doing this as well +
- 2. Progress and Status Update +
- 2.1. Overview on the abstract API +
- 2.2. Demo Trial Implementation +
- 3. Future +
- 4. Open Discussions
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+1.2.1 Other people are doing this as well +
+2. Progress and Status Update +
+2.1. Overview on the abstract API +
+2.2. Demo Trial Implementation +
+3. Future +
+4. Open Discussions
 
 *TC CALDAV* Thu 1300-1500 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 3. Work in Progress +
- 3.1 Server information resource +
- 3.2 Scheduling Object Drafts +
- 3.3 Proposals for new work +
- 4. Review and Update Charter and Milestones +
- 5. Moving Forward +
- 5.1 Plan of Action +
- 5.2 Next Conference Call
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+3. Work in Progress +
+3.1 Server information resource +
+3.2 Scheduling Object Drafts +
+3.3 Proposals for new work +
+4. Review and Update Charter and Milestones +
+5. Moving Forward +
+5.1 Plan of Action +
+5.2 Next Conference Call
 
 *TC EVENTPUB* Thu 1500-1530 +
- 1. Introduction +
- 1.2 Summarybr> 2 Draft progress +
- 2.1 New "conference" property +
- 3. Open Discussions
+1. Introduction +
+1.2 Summarybr> 2 Draft progress +
+2.1 New "conference" property +
+3. Open Discussions
 
 *TC FREEBUSY* Wed 1100-1200 +
- 1. Review of Charter +
- 2. Brief description of VPOLL +
- 2.1 Poll-modes +
- 3. Progress report +
- 3.1 Draft progress +
- 3.2 Interop status report +
- 4. Demonstration +
- 5. Next steps +
- 6. Next call
+1. Review of Charter +
+2. Brief description of VPOLL +
+2.1 Poll-modes +
+3. Progress report +
+3.1 Draft progress +
+3.2 Interop status report +
+4. Demonstration +
+5. Next steps +
+6. Next call
 
 *TC FSC* Wed 1600-1700 +
- 1. Introduction +
- 2 Summary +
- 3. Progress and Status Update +
- 3.1 Invitations 3.1.1 Calendar Sharing +
- 3.1.2 Contact Sharing +
- 3.2 Protocol issues +
- 3.2.1 Efficiency +
- 3.2.2 Security +
- 4. Open Discussions +
- 5. Charter Review
+1. Introduction +
+2 Summary +
+3. Progress and Status Update +
+3.1 Invitations 3.1.1 Calendar Sharing +
+3.1.2 Contact Sharing +
+3.2 Protocol issues +
+3.2.1 Efficiency +
+3.2.2 Security +
+4. Open Discussions +
+5. Charter Review
 
 *TC IOPTEST* Wed 1415-1430 +
- Review of interop test participant findings +
+Review of interop test participant findings
 
 .<a| *TC ISCHEDULE* Thu 1600-1630 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Calendar User Addresses and iSchedule (identity crisis resolution) +
- 2.1 Discuss "base" iSchedule vs identity crisis "add-on" +
- 3. Review and Update Charter and Milestones +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Calendar User Addresses and iSchedule (identity crisis resolution) +
+2.1 Discuss "base" iSchedule vs identity crisis "add-on" +
+3. Review and Update Charter and Milestones +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
 
 *TC PUSH* Fri 1100-1200 +
- 1. Introduction +
- 1.1 Summary +
- 2. Progress and Status Update +
- 2.1 Present new protocols + diagrams +
- 2.2 Demo +
- 3. Open discussion +
- 3.1 Protocol 1 - bootstrapping +
- 3.2 Protocol 2 - data model +
- 4. Next steps
+1. Introduction +
+1.1 Summary +
+2. Progress and Status Update +
+2.1 Present new protocols + diagrams +
+2.2 Demo +
+3. Open discussion +
+3.1 Protocol 1 - bootstrapping +
+3.2 Protocol 2 - data model +
+4. Next steps
 
 *TC SHARING* Thu 1630-1800 +
- 1. Overview of revised specifications +
- 1.1 WebDAV User Notifications +
- 1.2 WebDAV Collection Sharing +
- 1.3 Calendar Sharing +
- 1.4 Addressbook Sharing +
- 2. Open Issues +
- 2.1 Addressbook Collection vs. Group sharing +
- 3. Next steps +
- 4. Next call
+1. Overview of revised specifications +
+1.1 WebDAV User Notifications +
+1.2 WebDAV Collection Sharing +
+1.3 Calendar Sharing +
+1.4 Addressbook Sharing +
+2. Open Issues +
+2.1 Addressbook Collection vs. Group sharing +
+3. Next steps +
+4. Next call
 
 *TC TASKS* Wed 1430-1530 +
- 1. Introduction +
- 1.1 Recap Charter +
- 2. Recap work to date +
- 3. Progress since last roundtable 3.1 Comments and History +
- 3.2 Task Assignments and VPOLL +
- 3.3 Draft status +
- 3.3.1 Task Extensions +
- 3.3.2 Relationship Changes +
- 3.3.3 Discussion +
- 4. Implementations and Interop Testing +
- 4.1 Promote use of CATEGORIES +
- 4.2 Do we need an ontology? +
- 4.3 q-name name spaces managed in an (IANA) registry? +
- 5. Next steps
+1. Introduction +
+1.1 Recap Charter +
+2. Recap work to date +
+3. Progress since last roundtable 3.1 Comments and History +
+3.2 Task Assignments and VPOLL +
+3.3 Draft status +
+3.3.1 Task Extensions +
+3.3.2 Relationship Changes +
+3.3.3 Discussion +
+4. Implementations and Interop Testing +
+4.1 Promote use of CATEGORIES +
+4.2 Do we need an ontology? +
+4.3 q-name name spaces managed in an (IANA) registry? +
+5. Next steps
 
 *Workshop: Groups - Sharing and Scheduling* Fri 0830-1000 +
- 1. Introduction +
- 2. Examples of group scheduling modes +
- 3. Examples of group sharing modes +
- 4. Existing group handling in iCalendar +
- 5. Problems with recurring events and tracking group membership changes over time +
- 5. Discussion +
- 6. How to move forward
+1. Introduction +
+2. Examples of group scheduling modes +
+3. Examples of group sharing modes +
+4. Existing group handling in iCalendar +
+5. Problems with recurring events and tracking group membership changes over time +
+5. Discussion +
+6. How to move forward
 
 *Workshop: History and Comment feeds in iCalendar* Thu 0830-1000 +
- 1. Introduction +
- 2. Use cases for history/comment feeds +
- 3. Examples of existing versioning/comment feed technology +
- 4. Dealing with recurring events +
- 5. Security, privacy, and legal implications +
- 6. Discussion +
- 7. How to move forward +
+1. Introduction +
+2. Use cases for history/comment feeds +
+3. Examples of existing versioning/comment feed technology +
+4. Dealing with recurring events +
+5. Security, privacy, and legal implications +
+6. Discussion +
+7. How to move forward
 
 
 |===

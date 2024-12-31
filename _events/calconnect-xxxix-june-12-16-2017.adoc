@@ -113,33 +113,33 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS FORUM
 
 a| *Monday 12 June* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing/Forum +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing/Forum +
- 1230-1330 Lunch +
- 1330-1530 Testing/Forum +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing/Forum
+0800-0830 Coffee & Rolls +
+0830-1030 Testing/Forum +
+1030-1100 Break and Refreshments +
+1100-1230 Testing/Forum +
+1230-1330 Lunch +
+1330-1530 Testing/Forum +
+1530-1600 Break and Refreshments +
+1600-1800 Testing/Forum
 
 1915-2100 Test Event Dinner (TBA)
 a| *Tuesday 13 June* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing/Forum +
- 1030-1100 Break and Refreshments +
- 1030-1230 Testing/Forum +
- 1230-1330 Lunch +
- 1330-1530 Testing/Forum +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing/Forum
+0800-0830 Coffee & Rolls +
+0830-1030 Testing/Forum +
+1030-1100 Break and Refreshments +
+1030-1230 Testing/Forum +
+1230-1330 Lunch +
+1330-1530 Testing/Forum +
+1530-1600 Break and Refreshments +
+1600-1800 Testing/Forum
 a| *Wednesday 14 June* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing/Forum +
- 1030-1100 Break and Refreshments +
- 1130-1130 Testing/Forum +
- 1130-1200 Wrap-up +
- 1200 End of IOP Testing+
- 1230-1330 Lunch
+0800-0830 Coffee & Rolls +
+0830-1000 Testing/Forum +
+1030-1100 Break and Refreshments +
+1130-1130 Testing/Forum +
+1130-1200 Wrap-up +
+1200 End of IOP Testing+
+1230-1330 Lunch
 
 |===
 

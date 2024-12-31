@@ -91,12 +91,12 @@ _Please be aware that this is a courtesy rate based on availability. It is only 
 |===
 .<a| *Conference Hotel:* +
 *Sheraton Hotel Sunnyvale* +
- 1100 North Mathilda Avenue +
- Sunnyvale, CA 94089 +
+1100 North Mathilda Avenue +
+Sunnyvale, CA 94089 +
  (408) 745-6000 +
 http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=754
 
- A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[]. 
+A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[]. 
 
 |===
 
@@ -112,34 +112,34 @@ The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
 3+.<| *CALCONNECT INTEROPERABILITY TEST EVENT* - NASA Ames Conference Center
 
 .<a| *Monday 23 May* +
- 0800-0830 Opening Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Opening Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 
 1900-2100 IOP Test Dinner +
  _http://www.tiedhouse.com[The Tied House] +
 954 Villa Street, Mountain View_
 .<a| *Tuesday 24 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1530 Testing +
- 1530-1600 Break +
- 1600-1800 Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1530 Testing +
+1530-1600 Break +
+1600-1800 Testing
 .<a| *Wednesday 25 May* +
- 0800-0830 Breakfast +
- 0830-1000 Testing +
- 1000-1030 Break +
- 1030-1200 Testing +
- 1200-1230 Wrap-up +
- 1230 End of IOP Testing
+0800-0830 Breakfast +
+0830-1000 Testing +
+1000-1030 Break +
+1030-1200 Testing +
+1200-1230 Wrap-up +
+1230 End of IOP Testing
 
 1230-1330 Lunch/Opening^1^
 
@@ -158,43 +158,43 @@ the IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
 
 3+.<| 
 .<a| *Wednesday 25 May* +
- 1000-1200 User Special Interest Group^2^ +
- 1100-1200 Introduction to CalConnect^3^ +
- 1230-1330 Lunch/Opening +
- 1315-1330 IOP Test Report +
- 1330-1600 Workshop on Tasks +
- 1600-1630 Break +
- 1630-1730 USIG Presentation: NASA
+1000-1200 User Special Interest Group^2^ +
+1100-1200 Introduction to CalConnect^3^ +
+1230-1330 Lunch/Opening +
+1315-1330 IOP Test Report +
+1330-1600 Workshop on Tasks +
+1600-1630 Break +
+1630-1730 USIG Presentation: NASA
 
 1730-2000 Welcome Reception^4^ +
 _NASA Ames Conference Center_
 .<a| *Thursday 26 May* +
- 0800-0830 Breakfast +
- 0830-1000 TC CALDAV +
- 1000-1030 TC iSCHEDULE +
- 1030-1100 Break +
- 1100-1230 TC XML +
- 1230-1330 Lunch +
- 1330-1430 TC MOBILE +
- 1430-1530 TC EVENTPUB +
- 1530-1600 Break +
- 1600-1700 TC FREEBUSY +
- 1700-1800 Steering Committee^5^
+0800-0830 Breakfast +
+0830-1000 TC CALDAV +
+1000-1030 TC iSCHEDULE +
+1030-1100 Break +
+1100-1230 TC XML +
+1230-1330 Lunch +
+1330-1430 TC MOBILE +
+1430-1530 TC EVENTPUB +
+1530-1600 Break +
+1600-1700 TC FREEBUSY +
+1700-1800 Steering Committee^5^
 
 1900-2130 Group Dinner^6^ +
  _Faz Restaurant (Tea Room), +
- Sheraton Sunnyvale_
+Sheraton Sunnyvale_
 .<a| *Friday 27 May* +
- 0800-0830 Breakfast +
- 0830-0930 TC DSI +
- 0930-1030 TC USECASE +
- 1030-1100 Break +
- 1100-1130 TC TIMEZONE +
- 1130-1200 TC Wrapup +
- 1200-1230 Working Lunch +
- 1200-1315 CalConnect Plenary Session +
- 1315 Close of Meeting +
- 1330-1500 NASA Ames Tour^7^
+0800-0830 Breakfast +
+0830-0930 TC DSI +
+0930-1030 TC USECASE +
+1030-1100 Break +
+1100-1130 TC TIMEZONE +
+1130-1200 TC Wrapup +
+1200-1230 Working Lunch +
+1200-1315 CalConnect Plenary Session +
+1315 Close of Meeting +
+1330-1500 NASA Ames Tour^7^
 
 3+| 
 3+.<a|
@@ -217,93 +217,93 @@ Breakfast, lunch, and morning and afternoon breaks will be served to all partici
 |===
 .<a|
 *Workshop on Tasks* Wed 1330-1600 +
- 1. Introduction +
- 2. Review of current task based applications and services +
- 3. Introduction to tasks in iCalendar and CalDAV +
- 4. Examination of key use cases +
+1. Introduction +
+2. Review of current task based applications and services +
+3. Introduction to tasks in iCalendar and CalDAV +
+4. Examination of key use cases +
  - where do iCalendar and CalDAV fall short? +
- 5. Conclusions +
- 5.1 What is needed to support a standards-based task management system +
- 5.2 What can CalConnect do to help?
+5. Conclusions +
+5.1 What is needed to support a standards-based task management system +
+5.2 What can CalConnect do to help?
 
 *TC CALDAV* Thu 1300-1430 +
- 1. Overview +
- 1.1 Charter +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 CalDAV Scheduling +
- 3.2 Managed Attachments +
- 3.3 Calendar Alarms +
- 3.4 Multiple Component Types Support +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls
+1. Overview +
+1.1 Charter +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 CalDAV Scheduling +
+3.2 Managed Attachments +
+3.3 Calendar Alarms +
+3.4 Multiple Component Types Support +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
 
 *TC DSI* Fri 0830-0930 +
- 1. Problem statement/charter recap +
- 2. Icon design progress on hold +
- 3. Review use cases recently completed +
- 4. Demo of a few proof-of-concepts +
- 5. You can help! +
+1. Problem statement/charter recap +
+2. Icon design progress on hold +
+3. Review use cases recently completed +
+4. Demo of a few proof-of-concepts +
+5. You can help! +
  - Javascript skills needed +
  - Scripting calendars from Google, Yahoo, etc.
 
 *TC EVENTPUB* Thu 1530-1630 +
- 1. Review of the TC +
- 2. Updates on vpoll status +
- 3. Office Hours applications +
- 4. Vavailability +
- 5. Meeting proposal protocol +
- 6. Next steps
+1. Review of the TC +
+2. Updates on vpoll status +
+3. Office Hours applications +
+4. Vavailability +
+5. Meeting proposal protocol +
+6. Next steps
 .<a|
 *TC FREEBUSY* Thu 0830-0930 +
- 1. Review of the TC +
- 2. Updates on vpoll status +
- 3. Office Hours applications +
- 4. Vavailability +
- 5. Meeting proposal protocol +
- 6. Next
+1. Review of the TC +
+2. Updates on vpoll status +
+3. Office Hours applications +
+4. Vavailability +
+5. Meeting proposal protocol +
+6. Next
 
 *TC IOPTEST* Wed 1315-1330 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 
 *TC iSCHEDULE* Thu 1430-1500 +
- 1. Overview +
- 1.1 Charter +
- 2. Progress and Status Update +
- 3. Open Discussions +
- 3.1 DomainKeys Security Tagging (DOSETA) +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Calls
+1. Overview +
+1.1 Charter +
+2. Progress and Status Update +
+3. Open Discussions +
+3.1 DomainKeys Security Tagging (DOSETA) +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Calls
 
 *TC MOBILE* Thu 1630-1700 +
- 1. Microsoft EAS Announcement +
- 2. Discussion of mobile-specific location-based use cases +
- 3. CalDAV Extensions for use cases +
- 4. Next calls
+1. Microsoft EAS Announcement +
+2. Discussion of mobile-specific location-based use cases +
+3. CalDAV Extensions for use cases +
+4. Next calls
 
 *TC TIMEZONE* Fri 1100-1130 +
- 1. Update on the timezones spec +
- 2. Timezones by reference - do clients need the spec? +
- 3. Timezones and DATE values +
- 4. The state of Olson data and IANA +
- 5. Plans for the next 4 months +
- 6. Next call
+1. Update on the timezones spec +
+2. Timezones by reference - do clients need the spec? +
+3. Timezones and DATE values +
+4. The state of Olson data and IANA +
+5. Plans for the next 4 months +
+6. Next call
 
 *TC USECASE* Fri 0930-1030 +
- 1. Open discussion on possible UseCase work +
- to benefit other Technical Committees.
+1. Open discussion on possible UseCase work +
+to benefit other Technical Committees.
 
 *TC XML* Thu 1030-1200 +
- 1. Introduction +
- 2. State of the iCalendar in XML (xCal) Internet Draft +
- 3. Presentation on work for SmartGrid +
- 4. Calendaring in a SOAPy world - updates +
- 5. Discussion +
- 6. Next steps
+1. Introduction +
+2. State of the iCalendar in XML (xCal) Internet Draft +
+3. Presentation on work for SmartGrid +
+4. Calendaring in a SOAPy world - updates +
+5. Discussion +
+6. Next steps
 
 |===
 

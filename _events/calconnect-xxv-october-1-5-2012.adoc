@@ -78,25 +78,25 @@ All prices quoted below are inclusive of service, most taxes* and VAT, and inclu
 
 *ENGIMATT*_(Primary hotel for CalConnect attendees)_ +
 http://www.worldhotels.com/en/Hotel-Engimatt +
- Rates from: CHF 235
+Rates from: CHF 235
 
 *B2 BOUTIQUE HOTEL & SPA* +
 http://www.synergyhotels.ch/BookNow.asp?pd=www.b2boutiquehotels.com +
- Rates from: CHF 280
+Rates from: CHF 280
 
 *FOUR POINTS BY SHERATON SIHLCITY* +
 http://www.starwoodhotels.com/fourpoints/property/overview/index.html?propertyID=1782 +
- Rates from: CHF 292
+Rates from: CHF 292
 
 There are also many other hotels, short-residence apartments, and so forth a few tram stops away, and even a few about the same distance from Google as the three mentioned above. Here are a couple of walkable options; please note that we don't know anything about them but what is presented on their website.
 
 *HOTEL St. GEORGES ZRICH* +
 http://www.hotel-st-georges.ch/ +
- Rates from: CHF 99; CHF 128 for en suite rooms
+Rates from: CHF 99; CHF 128 for en suite rooms
 
 *SEESTRASE-APARTMENTS DREI KNIGE* +
 http://www.seestrasse-apartments.ch/ +
- Self-catering apartments; Rates from: CHF 133.50
+Self-catering apartments; Rates from: CHF 133.50
 
 [[test-schedule]]
 == Test Event Schedule
@@ -112,30 +112,30 @@ A downloadable iCalendar.ics file with the entire schedule is available at link:
 3+.<| *INTEROPERABILITY TEST EVENT*
 
 .<a| *Monday 1 October* +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Interop Testing +
- 1200-1300 Lunch +
- 1300-1530 Interop Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Interop Testing +
+1200-1300 Lunch +
+1300-1530 Interop Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Interop Testing
 
 2000-2200 IOP Test Dinner +
 _Zueghauskeller_
 .<a| *Tuesday 2 October* +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1200 Interop TestingTesting +
- 1200-1300 Lunch +
- 1300-1530 Interop Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Interop Testing
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1200 Interop TestingTesting +
+1200-1300 Lunch +
+1300-1530 Interop Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Interop Testing
 .<a| *Wednesday 3 October* +
- 0830-1000 Interop Testing +
- 1000-1030 Break and Refreshments +
- 1030-1130 Interop Testing +
- 1130-1200 Wrap-up +
- 1200 End of IOP Testing
+0830-1000 Interop Testing +
+1000-1030 Break and Refreshments +
+1030-1130 Interop Testing +
+1130-1200 Wrap-up +
+1200 End of IOP Testing
 
 1200-1300 Lunch^1^
 
@@ -158,41 +158,41 @@ A downloadable iCalendar.ics file with the entire schedule is available at link:
 
 3+.<| 
 .<a| *Wednesday 3 October* +
- 1200-1300 Lunch^1^ +
- 1300-1345 Opening/Introduction +
- 1345-1400 TC IOPTEST reports +
- 1400-1530 TC CALDAV +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC ISCHEDULE +
- 1700-1800 TC AUTODISCOVERY
+1200-1300 Lunch^1^ +
+1300-1345 Opening/Introduction +
+1345-1400 TC IOPTEST reports +
+1400-1530 TC CALDAV +
+1530-1600 Break and Refreshments +
+1600-1700 TC ISCHEDULE +
+1700-1800 TC AUTODISCOVERY
 
 1800-2000 Welcome Reception^2^ +
 _At Google_
 .<a| *Thursday 4 October* +
- 0830-1000 Improving the web calendaring experience for end users +
- 1000-1030 Break and Refreshments +
- 1030-1200 Calendaring Futures and CalConnect directions +
- 1200-1300 Lunch +
- 1300-1430 Host Session: Google +
- 1430-1530 TC TIMEZONE +
- 1530-1600 Break and Refreshments +
- 1600-1700 BOF: VTODO Status and Requirements +
- 1700-1800 TC EVENTPUB
+0830-1000 Improving the web calendaring experience for end users +
+1000-1030 Break and Refreshments +
+1030-1200 Calendaring Futures and CalConnect directions +
+1200-1300 Lunch +
+1300-1430 Host Session: Google +
+1430-1530 TC TIMEZONE +
+1530-1600 Break and Refreshments +
+1600-1700 BOF: VTODO Status and Requirements +
+1700-1800 TC EVENTPUB
 
 1930-2200 Group Dinner^3^ +
 _Restaurant eCHo_
 .<a| *Friday 5 October* +
- 0830-1000 Internationalization/Localization for calendaring data +
- 1000-1030 Break and Refreshments +
- 1030-1200 Best practices for publishing iCalendar data to ensure optimum interoperability +
- 1200-1300 Lunch +
- 1300-1430 TC XML +
- 1430-1530 TC FREEBUSY +
- 1530-1600 Break and Refreshments +
- 1600-1700 TC RESOURCE +
- 1700-1730 TC Wrapup +
- 1730-1800 CalConnect Plenary +
- 1800 Close of Meeting
+0830-1000 Internationalization/Localization for calendaring data +
+1000-1030 Break and Refreshments +
+1030-1200 Best practices for publishing iCalendar data to ensure optimum interoperability +
+1200-1300 Lunch +
+1300-1430 TC XML +
+1430-1530 TC FREEBUSY +
+1530-1600 Break and Refreshments +
+1600-1700 TC RESOURCE +
+1700-1730 TC Wrapup +
+1730-1800 CalConnect Plenary +
+1800 Close of Meeting
 
 3+| 
 3+.<a|
@@ -213,100 +213,100 @@ Please see https://calconnect.wordpress.com/2012/09/12/symposia-at-calconnect-xx
 [cols=2]
 |===
 .<a| *TC AUTODISCOVERY* Wed 1700-1800 +
- 1. Introduction +
- 1.1 Problem Statement +
- 2. Presentation of draft specification +
- 2.1 Alternatives not chosen and why +
- 3. Discussion and feedback +
- 4. Next steps
+1. Introduction +
+1.1 Problem Statement +
+2. Presentation of draft specification +
+2.1 Alternatives not chosen and why +
+3. Discussion and feedback +
+4. Next steps
 
 *TC CALDAV* Wed 1400-1530 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Progress and Status Update +
- 2.1 IETF +
- 2.2 CalConnect +
- 3. Open Discussions +
- 3.1 Managed Attachments +
- 3.2 Calendar Sharing & Notifications +
- 3.3 Use of the Prefer header in CalDAV +
- 3.4 Calendar Searching +
- 4. Moving Forward +
- 4.1 Plan of Action +
- 4.2 Next Conference Call
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Progress and Status Update +
+2.1 IETF +
+2.2 CalConnect +
+3. Open Discussions +
+3.1 Managed Attachments +
+3.2 Calendar Sharing & Notifications +
+3.3 Use of the Prefer header in CalDAV +
+3.4 Calendar Searching +
+4. Moving Forward +
+4.1 Plan of Action +
+4.2 Next Conference Call
 
 *TC EVENTPUB* Thu 1700-1800 +
- 1. Charter +
- 2. Work and accomlishments +
- 3. New calendar properties +
- 3.1 STYLED-DESCRIPTION (Rich Text) +
- 3.2 PARTICIPANT +
- 3.3 STRUCTURED-LOCATION +
- 4. Going Forward - next steps
+1. Charter +
+2. Work and accomlishments +
+3. New calendar properties +
+3.1 STYLED-DESCRIPTION (Rich Text) +
+3.2 PARTICIPANT +
+3.3 STRUCTURED-LOCATION +
+4. Going Forward - next steps
 
 *TC FREEBUSY* Fri 1430-1530 +
- 1 Introduction +
- 1.1 Charter +
- 1.2 Summary of Work +
- 2. Introduction to VPOLL including demo +
- 3. Open issues discussion +
- 4. Next steps +
- 5. Next calls
+1 Introduction +
+1.1 Charter +
+1.2 Summary of Work +
+2. Introduction to VPOLL including demo +
+3. Open issues discussion +
+4. Next steps +
+5. Next calls
 
 *TC IOPTEST* Wed 1345-1400 +
- Review of IOP test participant findings
+Review of IOP test participant findings
 .<a| *TC iSCHEDULE* Wed 1600-1700 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary +
- 2. Open Discussions +
- 2.1 HTTP based public key management +
- 2.2 Public key manage by private agreement +
- 2.3 iSchedule interop: lessons learned +
- 3. Moving Forward +
- 3.1 Plan of Action +
- 3.2 Next Conference Calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary +
+2. Open Discussions +
+2.1 HTTP based public key management +
+2.2 Public key manage by private agreement +
+2.3 iSchedule interop: lessons learned +
+3. Moving Forward +
+3.1 Plan of Action +
+3.2 Next Conference Calls
 
 *TC RESOURCE* Fri 1600-1700 +
- 1. Introduction +
- 1.1 TC Charter +
- 1.2 Accomplishments +
- 2 Since the last Roundtable +
- 2.1 Resource schema draft updates +
- 2.2 Resource vCard discussion +
- 3. Open Discussions +
- 3.1 Resource scheduling implementations today +
- 3.2 Possible DAV extensions for easier and standardized Resource scheduling +
- 4. Future of TC +
- 4.1 Next conference calls
+1. Introduction +
+1.1 TC Charter +
+1.2 Accomplishments +
+2 Since the last Roundtable +
+2.1 Resource schema draft updates +
+2.2 Resource vCard discussion +
+3. Open Discussions +
+3.1 Resource scheduling implementations today +
+3.2 Possible DAV extensions for easier and standardized Resource scheduling +
+4. Future of TC +
+4.1 Next conference calls
 
 *TC TIMEZONE* Thu 1430-1530 +
- 1. Introduction: +
- 1.1 Charter +
- 1.2 Background to the work +
- 2. Timezone Service Specification +
- 3. Timezones by reference in CalDAV +
- 4. Timezone Registries +
- 5. Next steps
+1. Introduction: +
+1.1 Charter +
+1.2 Background to the work +
+2. Timezone Service Specification +
+3. Timezones by reference in CalDAV +
+4. Timezone Registries +
+5. Next steps
 
 *VTODO Status and Requirements* Thu 1600-1700 +
- 1. VTODO Status +
- 2. Summary of Workshops +
- 3. Open discussion on requirements +
- 4. Next steps +
- 5. Call for participation
+1. VTODO Status +
+2. Summary of Workshops +
+3. Open discussion on requirements +
+4. Next steps +
+5. Call for participation
 
 *TC XML* Fri 1300-1430 +
- 1. Introduction +
- 1.1 Charter +
- 1.2 Summary of work +
- 2. Status of xCal (iCalendar in XML( +
- 3. Status of CalWS REST and SOAP and WS-Calendar +
- 4. jCal (iCalendar in JSON) including library demo +
- 5. Moving Forward +
- 5.1 Plan of action +
- 5.2 Next conference calls
+1. Introduction +
+1.1 Charter +
+1.2 Summary of work +
+2. Status of xCal (iCalendar in XML( +
+3. Status of CalWS REST and SOAP and WS-Calendar +
+4. jCal (iCalendar in JSON) including library demo +
+5. Moving Forward +
+5.1 Plan of action +
+5.2 Next conference calls
 
 |===
 

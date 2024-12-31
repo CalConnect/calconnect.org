@@ -115,35 +115,35 @@ The Developers Forum and Interoperability Test Event begins at 0800 Monday morni
 CALCONNECT INTEROPERABILITY TEST EVENT AND DEVELOPERS' FORUM - Room Aliso B (A309), 3rd Floor
 
 a| *Monday 13 February* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing +
- 1030-1100 Break and Refreshments +
- 1100-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1430-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1030 Testing +
+1030-1100 Break and Refreshments +
+1100-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1430-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 
 1915-2100 Test Event Dinner (TBA)
 a| *Tuesday 14 February* +
- 0800-0830 Coffee & Rolls +
- 0830-1030 Testing +
- 1030-1100 Break and Refreshments +
- 1030-1230 Testing +
- 1230-1330 Lunch +
- 1330-1430 BOF or Testing +
- 1330-1530 Testing +
- 1530-1600 Break and Refreshments +
- 1600-1800 Testing
+0800-0830 Coffee & Rolls +
+0830-1030 Testing +
+1030-1100 Break and Refreshments +
+1030-1230 Testing +
+1230-1330 Lunch +
+1330-1430 BOF or Testing +
+1330-1530 Testing +
+1530-1600 Break and Refreshments +
+1600-1800 Testing
 a| *Wednesday 15 February* +
- 0800-0830 Coffee & Rolls +
- 0830-1000 Testing +
- 1030-1100 Break and Refreshments +
- 1130-1130 Testing +
- 1130-1200 Wrap-up +
- 1200 End of IOP Testing+
- 1230-1330 Lunch
+0800-0830 Coffee & Rolls +
+0830-1000 Testing +
+1030-1100 Break and Refreshments +
+1130-1130 Testing +
+1130-1200 Wrap-up +
+1200 End of IOP Testing+
+1230-1330 Lunch
 
 |===
 

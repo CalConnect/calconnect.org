@@ -48,7 +48,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 [[location]]
 == Location
 
-The Interoperability Test Event and the Roundtable will take place in Room 202 of the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores, California 94065. For a view of the immediate area and the location of the Oracle Conference Center, see http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=350+oracle+parkway,+redwood+shores,+CA&sll=37.531799,-122.264287&sspn=0.003233,0.006952&ie=UTF8&ll=37.532012,-122.266631&spn=0.006466,0.017982&t=h&z=17&iwloc=A[Oracle Conference Center]. For information on parking and driving directions to get to the Conference Center, see link:{{'/OCC.doc' | relative_url}}[OCC.doc]. +
+The Interoperability Test Event and the Roundtable will take place in Room 202 of the Oracle Conference Center at 350 Oracle Parkway, Redwood Shores, California 94065. For a view of the immediate area and the location of the Oracle Conference Center, see http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=350+oracle+parkway,+redwood+shores,+CA&sll=37.531799,-122.264287&sspn=0.003233,0.006952&ie=UTF8&ll=37.532012,-122.266631&spn=0.006466,0.017982&t=h&z=17&iwloc=A[Oracle Conference Center]. For information on parking and driving directions to get to the Conference Center, see link:{{'/OCC.doc' | relative_url}}[OCC.doc].
 
 
 [[transportation]]
@@ -63,7 +63,7 @@ Redwood Shores is only about 10 miles south of San Francisco International Airpo
 [[lodging]]
 == Lodging
 
-There are several hotels very close to the Oracle Conference Center. The hotels below are all within walking distance; the furthest is a bit more than a mile from the Center. This map shows the locations of the closest hotels. Some of these hotels are offering a special rate for us; if so it is shown in the entry below. http://maps.google.com/maps?f=l&source=s_q&hl=en&geocode=&q=category:%22Travel+-+Hotels%22&sll=37.0625,-95.677068&sspn=51.841773,76.552734&ie=UTF8&near=Redwood+Shores,+California&cd=2&ei=euPDSdTmBYSUiAParKWfAg&ll=37.522729,-122.256589&spn=0.024779,0.037379&z=15[Hotels in the Oracle Conference Center immediate area]. +
+There are several hotels very close to the Oracle Conference Center. The hotels below are all within walking distance; the furthest is a bit more than a mile from the Center. This map shows the locations of the closest hotels. Some of these hotels are offering a special rate for us; if so it is shown in the entry below. http://maps.google.com/maps?f=l&source=s_q&hl=en&geocode=&q=category:%22Travel+-+Hotels%22&sll=37.0625,-95.677068&sspn=51.841773,76.552734&ie=UTF8&near=Redwood+Shores,+California&cd=2&ei=euPDSdTmBYSUiAParKWfAg&ll=37.522729,-122.256589&spn=0.024779,0.037379&z=15[Hotels in the Oracle Conference Center immediate area].
 
 
 *Sofitel San Francisco Bay* +
@@ -257,7 +257,7 @@ a| *Shared Calendaring Workshop* Wed 1600-1800
 
 *TC IOPTEST* Wed 1315-1330
 
-Review of IOP test participant findings +
+Review of IOP test participant findings
 
 a| *TC iSCHEDULE* Thu 1330-1500
 
