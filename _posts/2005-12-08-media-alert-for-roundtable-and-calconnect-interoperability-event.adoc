@@ -36,7 +36,7 @@ years of inception.
 Roundtable: January 10-12, 2006
 
 | Sponsor:
-| Calendaring and Scheduling Consortium ([.underline]#www.CalConnect.org#)
+| Calendaring and Scheduling Consortium (https://www.calconnect.org)
 
 | Host and Location:
 | Novell, Inc., 1860 South Novell Place, Building H, +
@@ -114,7 +114,7 @@ Polytechnic Institute, Stanford University, Symbian, Trumba, UC
 Berkeley, University of Washington, University of Wisconsin Madison, and
 Yahoo! Inc.
 
-Media Contact: Maryann Karinch, [.underline]#maryann@karinch.com#,
+Media Contact: Maryann Karinch, mailto:maryann@karinch.com[maryann@karinch.com],
 970-577-8500
 
 

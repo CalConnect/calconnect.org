@@ -10,7 +10,7 @@ excerpt: TC PUSH was formed to extend CalDAV and CardDAV with standardized suppo
 
 == CalConnect establishes technical committee to develop PUSH for CalDAV (and CardDAV)
 
-Posted December 16, 2013 
+*December 16, 2013*
 
 TC PUSH was formed to extend CalDAV and CardDAV with standardized support for PUSH notifications.
 

@@ -16,7 +16,9 @@ _Participants Cite Specific Value in Terms of Product Development_
 
 PDF: link:{{'/docs/press-releases/050630roundtableinterop3.pdf' | relative_url }}[Roundtable/CalConnect Interoperability Event Publicity Release].
 
-*June 30, 2005 –* The Calendaring and Scheduling Consortium
+*June 30, 2005\*
+
+The Calendaring and Scheduling Consortium
 (CalConnect) today announced the results of its fourth interoperability testing
 event and r at Duke University. Participants were Isamet, The Mozilla
 Foundation, Novell, Oracle, and Rensselaer Polytechnic Institute (RPI),

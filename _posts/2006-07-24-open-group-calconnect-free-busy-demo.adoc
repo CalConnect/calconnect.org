@@ -18,7 +18,9 @@ PDF: link:{{'/docs/press-releases/060724freebusydemorelease.pdf' | relative_url 
 
 *FOR IMMEDIATE RELEASE*
 
-*SAN FRANCISCO & MCKINLEYVILLE, Calif., July 24, 2006* – During The Open
+*SAN FRANCISCO & MCKINLEYVILLE, Calif., July 24, 2006*
+
+During The Open
 Group’s IT Architecture Practitioners Conference held last week at the
 Hyatt Regency Coral Gables in Miami, members of The Calendaring and
 Scheduling Consortium (CalConnect) demonstrated a proof-of-concept

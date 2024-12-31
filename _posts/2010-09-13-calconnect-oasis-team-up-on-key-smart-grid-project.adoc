@@ -32,7 +32,9 @@ OASIS&#44; Team Up on Key Smart-Grid Project].
 _Outcome May Have Big Potential Impact on Any Industry with Time-related
 Problems_
 
-*McKinleyville, CA – September 13, 2010 –* – CalConnect and OASIS
+*McKinleyville, CA – September 13, 2010 –*
+
+CalConnect and OASIS
 have been tasked jointly by the National Institute
 for Standards and Technology (NIST) to produce one of the standards that
 will make it possible to monitor, predict and manage power consumption.

@@ -19,7 +19,9 @@ Internationally_
 
 PDF: link:{{'/docs/press-releases/050629dstchangeuntimely.pdf' | relative_url }}[EDST Change Untimely]
 
-*McKinleyville, CA – June 29, 2005 –* The Energy Policy Act of 2005 as
+*McKinleyville, CA – June 29, 2005\*
+
+The Energy Policy Act of 2005 as
 passed by the House of Representatives contains a potentially costly
 “energy saving” provision regarding daylight savings time. It calls for
 a change in start and end dates of daylight savings time (DST) observed

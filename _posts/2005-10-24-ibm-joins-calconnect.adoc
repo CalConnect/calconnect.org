@@ -18,7 +18,9 @@ _Use of Calendaring Standards in IBM Lotus Notes Boosts CalConnect’s Momentum_
 PDF: link:{{'/docs/press-releases/051024ibmjoinscalconnect.pdf' | relative_url }}[IBM has joined the Consortium]
 
 
-*McKinleyville, CA – October 24, 2005 –* The Calendaring and Scheduling
+*McKinleyville, CA – October 24, 2005\*
+
+The Calendaring and Scheduling
 Consortium (https://www.calconnect.org) announced today that IBM has joined the
 Consortium, with the expressed intent of working wit#h other members to end the
 complexity, ambiguity, and lack of interoperability related to current

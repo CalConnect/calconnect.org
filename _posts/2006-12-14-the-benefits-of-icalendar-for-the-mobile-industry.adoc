@@ -23,7 +23,9 @@ Whitepaper:
 * link:{{'/publications/iCalendarforthemobileindustryv1.0.pdf' | relative_url }}[The Benefits of iCalendar for the Mobile Industry]
 
 
-*McKinleyville, CA – December 14, 2006 –* The Mobile Technical Committee
+*McKinleyville, CA – December 14, 2006\*
+
+The Mobile Technical Committee
 of the Calendaring & Scheduling Consortium has released key findings of
 interoperability tests and a questionnaire in
 *“The benefits of iCalendar for the mobile industry*.” The impetus for the White Paper,

@@ -15,7 +15,9 @@ excerpt: |
 
 PDF: link:{{'/docs/press-releases/0409roundtable1.pdf' | relative_url }}[Roundtable Publicity Release].
 
-*McKinleyville, CA – October 5, 2004 –* On September 23-24, industry
+*McKinleyville, CA – October 5, 2004\*
+
+On September 23-24, industry
 leaders and major academic customers of calendaring and scheduling
 products focused on the path to
 interoperability in a second event sponsored by the emerging Calendaring
@@ -56,9 +58,9 @@ and conformance.
 *Media Contact* +
 Maryann Karinch +
 970-577-8500 +
-[.underline]#maryann@karinch.com#
+mailto:maryann@karinch.com[maryann@karinch.com]
 
 *Consortium Contact* +
 Dave Thewlis +
 707-840-9391 +
-[.underline]#dave.thewlis@calconnect.org#
+mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org]
