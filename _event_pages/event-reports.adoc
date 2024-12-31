@@ -3,10 +3,11 @@ layout: page
 title: Event Reports
 type: events
 ---
-= Event Reports
 :page-liquid:
 
-== General
+== Event Reports
+
+=== General
 
 NOTE: As of CalConnect XLIII (September 2018) separate conferences and test
 events/developers forums were discontinued and a single multi-day event covering
@@ -18,7 +19,7 @@ Conference" report will cover all activities at the event.
 * <<ioptestevents>>
 
 [#conferences]
-== CalConnect Conferences
+=== CalConnect Conferences
 
 link:{{'/publications/conference46rpt.pdf' | relative_url }}[*CalConnect Conference XLVI*] (October 7-10 2019). +
 Hosted by Fastmail, Philadelphia, Pennsylvania USA
@@ -426,7 +427,7 @@ link:{{'/publications/CD0402%20July%202004%20CalConnect%20Interoperability%20Tes
 link:{{'/publications/CD0403%20July%202004%20CalConnect%20Interoperability%20Test%20Report.pdf' | relative_url }}[July
 2004 Interoperability Test Report].
 
-== CALSCH Interoperability Testing
+=== CALSCH Interoperability Testing
 
 Prior to the formation of CalConnect, the CALSCH Working Group of the IETF
 sponsored three interoperability testing events between April 2000 and September

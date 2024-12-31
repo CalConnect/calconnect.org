@@ -4,9 +4,10 @@ title: Events & Activities
 type: events
 ---
 :page-liquid:
-= Events & Activities
 
-== CalConnect Events
+== Events & Activities
+
+=== CalConnect Events
 
 CalConnect holds two or three week-long events each year. Each event
 week consists of a four-day CalConnect Conference (Monday-Thursday or
@@ -20,7 +21,7 @@ as part of the CalConnect Week. These may be members-only or open to the
 public.
 
 
-== CalConnect Conferences
+=== CalConnect Conferences
 
 * link:{{'/conferences' | relative_url }}[*CalConnect Conferences*]
 Specific information about upcoming Conferences can be found at
@@ -41,7 +42,7 @@ The Registration form for the upcoming Conference. This form is used for
 both member representatives and for observers.
 
 
-== Other CalConnect Activities
+=== Other CalConnect Activities
 
 The technical work of CalConnect is largely done by
 link:{{'/about/technical-committees/tcs-active' | relative_url }}[Technical Committees].
