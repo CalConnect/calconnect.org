@@ -61,7 +61,7 @@ Although there are a variety of consensus scheduling products and services avail
 
 CalConnect has for some time been working on developing a consensus scheduling solution that builds on the internet calendar standards of iCalendar and iTIP (the traditional solution to standards-based calendaring and scheduling).  CalConnect's approach creates a new iCalendar component, VPOLL, and defines an iTIP process by which "`polls`" can be sent to participants and votes collected from them.  CalConnect's work also looks at how this process can be integrated with calendaring system, such as those built on the standard CalDAV calendar server protocol, with the goal of providing more automation for voting and streamlining the decision process for voters.
 
-Please see link:{{'/7_things_consensus_scheduling for' | relative_url}}[/7_things_consensus_scheduling for] a further introduction to consensus scheduling and why it matters to calendaring and scheduling.
+Please see link:{{'/resources/7-things-you-should-know-about/consensus-scheduling for' | relative_url}}[/resources/7-things-you-should-know-about/consensus-scheduling for] a further introduction to consensus scheduling and why it matters to calendaring and scheduling.
 
 *Previous CalConnect Workshops:*
 

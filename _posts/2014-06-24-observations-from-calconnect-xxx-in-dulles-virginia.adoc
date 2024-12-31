@@ -48,7 +48,7 @@ Much of the work in CalConnect is focused on specifications to be submitted as i
 
 * link:{{'/conference30rpt' | relative_url}}[Report on CalConnect Conference XXX]
 * link:{{'/ioptestevent30rpt' | relative_url}}[Report on Interoperability Test Event XXX]
-* link:{{'/7_things_push' | relative_url}}[7 Things You Should Know About PUSH]
+* link:{{'/resources/7-things-you-should-know-about/push' | relative_url}}[7 Things You Should Know About PUSH]
 * link:{{'/starterlistcaldavcarddav' | relative_url}}[Starter List of CalDAV and CardDAV Standards and Specifications]
 
 *Recently updated internet drafts and published RFCs:*

@@ -22,4 +22,4 @@ technologies that can be used when no other PUSH method is available. To
 help implementers we will provide guidelines to PUSH support on servers
 and clients.
 
-Details: link:{{'/7_things_push' | relative_url }}[*PUSH for CalDAV (and CardDAV)*]
+Details: link:{{'/resources/7-things-you-should-know-about/push' | relative_url }}[*PUSH for CalDAV (and CardDAV)*]

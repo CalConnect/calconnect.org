@@ -19,4 +19,4 @@ on that system.
 
 Work item of: link:{{'/about/technical-committees/tc-api' | relative_url }}[TC API].
 
-Details: link:{{'/7_things_api' | relative_url }}[*Abstract Calendaring API*]
+Details: link:{{'/resources/7-things-you-should-know-about/abstract-calendaring-api' | relative_url }}[*Abstract Calendaring API*]

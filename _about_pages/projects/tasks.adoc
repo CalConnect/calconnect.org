@@ -19,4 +19,4 @@ link:{{'/about/technical-committees/tc-tasks' | relative_url }}[TC TASKS] is wor
 areas such as project management, WS Human Task, and smart grid energy
 management.
 
-Details: link:{{'/7_things_tasks' | relative_url }}[*Tasks (VTODOs)*]
+Details: link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url }}[*Tasks (VTODOs)*]
