@@ -137,6 +137,15 @@ Details: link:{{'/about/technical-committees/tc-tester/' | relative_url}}[TC-TES
 
 Generalize and extend capabilities of the CalDAV/CardDAV Tester.
 
+
+=== TC-UNITS: Contact information standards
+
+Details: link:{{'/about/technical-committees/tc-units/' | relative_url}}[TC-UNITS Charter]
+
+Establish international standards for representation and encoding of units,
+quantities, and dimensions, and the mechanisms for encoding and interpretation
+of formulas that utilize units.
+
 === TC-VCARD: Contact information standards
 
 Details: link:{{'/about/technical-committees/tc-vcard/' | relative_url}}[TC-VCARD Charter]
