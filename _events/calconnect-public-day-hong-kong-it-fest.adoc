@@ -39,7 +39,7 @@ Gary Schwartz, President, https://www.calconnect.org[The Calendaring & Schedulin
 Ir. Allen Yeung, CIO http://www.ogcio.gov.hk/[OGCIO] +
 Ronald Tse, CEO, https://www.ribose.com/home[Ribose]
 
-image::/assets/images/ribose_120.jpg[OGCIO, Ribose, CalConnect,744,212]
+image::/assets/images/calconnect-hk-host-logos.jpg[OGCIO, Ribose, CalConnect,744,212]
 
 [[registration]]
 == Registration Information
@@ -229,7 +229,7 @@ mailto:schwag@rpi.edu[schwag@rpi.edu]
 
 ==== Ribose (CalConnect member)
 
-http://www.ribose.com[image::/assets/images/ribose_120.jpg[Ribose Inc.]]
+http://www.ribose.com[image::/assets/images/calconnect-hk-host-logos.jpg[Ribose Inc.]]
 
 Ribose is an online social collaboration platform that connects you with friends, family, co-workers, and communities in a new way. Our platform lets you focus on the task at hand while keeping you and your team on the same page.
 
