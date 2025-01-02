@@ -1,0 +1,52 @@
+---
+layout: page
+title: Establishing TC UNITS and adopting UnitsML
+date: 2022-09-11
+type: news
+categories: announcements
+excerpt: |
+  CalConnect announces the establishment of its Technical Committee on Units of
+  Measure (TC UNITS) and the adoption of UnitsML, the authoritative mechanism for
+  encoding scientific units of measure.
+---
+:page-liquid:
+
+== Establishing TC UNITS and adopting UnitsML
+
+CalConnect announces the establishment of its
+link:{{'/about/technical-committees/tc-units' | relative_url}}[Technical Committee on Units of Measure (TC UNITS)]
+and the adoption of https://www.unitsml.org[UnitsML], the authoritative
+mechanism for encoding scientific units of measure.
+
+Originally developed at the
+https://www.nist.gov[National Institute of Standards and Technology (NIST)] in the late 1990s and later standardized through
+https://www.oasis-open.org[OASIS], UnitsML is now finding a new home at
+CalConnect.
+
+The initiative aims to publish UnitsML 1.0 under the leadership of committee
+co-chairs Karen Olsen and Nick Nicholas.
+
+TC UNITS is chartered to provide international standards for the representation
+and encoding of units, quantities, and dimensions, as well as mechanisms for
+encoding and interpreting formulas that utilize units. A key objective is to
+pursue international standardization through ISO and IEC, while working closely
+with the International Bureau of Weights and Measures (BIPM) towards an
+interoperable "Digital SI" infrastructure.
+
+The committee's deliverables include:
+
+* Standardization of a comprehensive data model for units representation
+* Multiple data serialization formats including XML (UnitsML), JSON, and YAML
+* The authoritative UnitsDB register containing information about current units
+* Integration guidelines with existing technologies such as MathML
+* Development and maintenance of the UnitsML official website at https://www.unitsml.org[www.unitsml.org]
+
+"Units and their representations form the basis of measurements, critical to
+everything from timekeeping and trade to manufacturing and mission-critical
+operations," said Mike Douglass, Executive Director of CalConnect. "Our
+collaboration with ISO, IEC, and BIPM will ensure UnitsML becomes a globally
+recognized standard for digital unit representation.”
+
+Established in September 2022 as a standing committee, TC UNITS represents a
+significant step forward in the standardization of scientific unit
+representation while pursuing broader international adoption.

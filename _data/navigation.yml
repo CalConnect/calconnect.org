@@ -40,6 +40,8 @@ about:
           #   url: /about/technical-committees/tc-streaming
           - page: TC-TESTER
             url: /about/technical-committees/tc-tester
+          - page: TC-UNITS
+            url: /about/technical-committees/tc-units
           - page: TC-VCARD
             url: /about/technical-committees/tc-vcard
           - page: Closed TCs

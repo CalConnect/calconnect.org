@@ -1,0 +1,77 @@
+---
+layout: page
+title: CalConnect UNITS Technical Committee
+type: about
+permalink: /about/technical-committees/:title
+---
+
+== CalConnect UNITS Technical Committee
+
+=== Background
+
+Units and their representations form the basis of measurements. The accurate
+interpretation and interoperability of units are of critical importance in the
+operation of today's world, from timekeeping, trade, manufacturing to the
+success of critical missions.
+
+https://www.bipm.org[BIPM], the international treaty organization created by the
+Metre Convention, defines the International System of Units (commonly called the
+"SI System") composed of 7 basic units that are used internationally as standard
+units. There are, however, pre-SI units, as well as other SI-derived units, in
+used today internationally. The digital usage of these units for various
+quantities, and the interaction between units and quantities require a refined
+treatment for usage by information systems.
+
+=== Charter
+
+TC UNITS is a standing committee chartered to provide international
+standards for:
+
+* representation and encoding of units, quantities, and dimensions;
+* mechanisms for encoding and interpretation of formulas that utilize units.
+
+The TC aims to work closely with the BIPM, CIPM and CGPM towards an
+interoperable "`Digital SI`" infrastructure, and advocate such throughout
+technologies and standards developed at CalConnect.
+
+
+=== Deliverables
+
+. Standardization of a data model for units representation, covering
+units, quantities and dimensions.
+
+. Standardization of serialization languages of the units data model, including
+UnitsML which is an XML serialization of the units model.
+
+. Standardization of representation schemes used to encode information into the
+units data model.
+
+. Guidelines and mechanisms for the integration of the units model with other
+existing technologies, such as UnitsML with MathML.
+
+. Standardization and operation of the UnitsDB register, which provides
+authoritative information about units in use today.
+
+. The UnitsML website at https://www.unitsml.org, as an introductory website
+to the UnitsML technology suite.
+
+
+=== Begin and end dates
+
+Begin: September 2022
+
+End: Standing Committee
+
+
+=== Milestones and work products
+
+* UnitsML standard for the encoding, representation and interpretation of units
+
+* UnitsDB register used for semantic encoding and transformation of units
+
+
+=== Chair (co-chairs)
+
+* Karen Olsen, NIST
+
+* Nick Nicholas, Ribose
