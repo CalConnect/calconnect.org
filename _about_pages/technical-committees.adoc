@@ -125,11 +125,11 @@ Details: link:{{'/about/technical-committees/tc-sharing/' | relative_url}}[TC-SH
 
 Extend the existing caldav-sharing and caldav-notifications specifications to support address books and other resource types.
 
-=== TC-STREAMING: Calendar data streaming
+// === TC-STREAMING: Calendar data streaming
 
-Details: link:{{'/about/technical-committees/tc-streaming/' | relative_url}}[TC-STREAMING Charter]
+// Details: link:{{'/about/technical-committees/tc-streaming/' | relative_url}}[TC-STREAMING Charter]
 
-Define and document a streaming protocol for calendar data.
+// Define and document a streaming protocol for calendar data.
 
 === TC-TESTER: Testing framework
 

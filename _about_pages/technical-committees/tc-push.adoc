@@ -4,7 +4,6 @@ title: CalConnect PUSH Technical Committee
 type: about
 permalink: /about/technical-committees/:title
 order: 11
-published: false
 ---
 
 = CalConnect PUSH Technical Committee
