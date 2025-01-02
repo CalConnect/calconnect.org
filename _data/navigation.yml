@@ -151,7 +151,7 @@ resources:
       - page: Public Discussion Lists
         url: /resources/discussion-lists
       - page: Public Review
-        url: /resources/public-review
+        url: https://standards.calconnect.org/public-review/
       - page: Timezone changes knowledge base
         url: /resources/timezone-changes
       - page: Related Blogs
