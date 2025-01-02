@@ -13,7 +13,7 @@ image: /assets/images/Chattanooga.jpg
 
 [[intro]]
 image:{{'/assets/images/Chattanooga.jpg' | relative_url }}[Zürich,
-Switzerland,width=800,height=566]
+Switzerland]
 
 Monday, May 21, 2012 to Friday, May 25, 2012
 

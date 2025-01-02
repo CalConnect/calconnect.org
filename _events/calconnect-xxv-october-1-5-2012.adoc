@@ -14,7 +14,7 @@ image: /assets/images/Zurich.jpg
 
 [[intro]]
 image:{{'/assets/images/Zurich.jpg' | relative_url }}[Zürich,
-Switzerland,width=800,height=566]
+Switzerland]
 
 Monday, October 01, 2012 to Friday, October 05, 2012
 

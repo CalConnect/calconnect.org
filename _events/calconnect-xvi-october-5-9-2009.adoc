@@ -14,7 +14,7 @@ image: /assets/images/AppleCupertino.jpg
 
 [[intro]]
 image:{{'/assets/images/AppleCupertino.jpg' | relative_url }}[Apple,
-Inc., Cupertino, California,width=800,height=557]
+Inc., Cupertino, California]
 
 Monday, October 05, 2009 to Friday, October 09, 2009
 

@@ -14,7 +14,7 @@ image: /assets/images/UCBerkeley.jpg
 
 [[intro]]
 image:{{'/assets/images/UCBerkeley.jpg' | relative_url }}[The
-University of California, Berkeley,width=800,height=590]
+University of California, Berkeley]
 
 Monday, February 07, 2011 to Friday, February 11, 2011
 

@@ -10,7 +10,7 @@ image: /assets/images/Karlsruhe.jpg
 == CalConnect XLIII - September 24-27, 2018
 
 [[intro]]
-image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[width=656,height=305]
+image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[]
 
 CalConnect XLIII in Karlsruhe, Germany, hosted by 1&1
 
@@ -98,11 +98,11 @@ For more information about Karlsruhe please see https://www.karlsruhe-tourismus.
 [[transportation]]
 == Transportation
 
-If you will be arriving and departing by air, plan on arriving at Frankfurt International Airport (FRA) and take the train from Frankfurt Flughafen Fernbahnhof to Karlsruhe. The train station is physically within the Frankfurt airport. The train operates on an hourly basis (direct or via Mannheim), and will cost about 80¬ to Karlsruhe and back (flexible rate, less if you fix the time in advance), Please see https://www.bahn.com/en/view/index for booking information in English.
+If you will be arriving and departing by air, plan on arriving at Frankfurt International Airport (FRA) and take the train from Frankfurt Flughafen Fernbahnhof to Karlsruhe. The train station is physically within the Frankfurt airport. The train operates on an hourly basis (direct or via Mannheim), and will cost about 80€ to Karlsruhe and back (flexible rate, less if you fix the time in advance), Please see https://www.bahn.com/en/view/index for booking information in English.
 
 The central train station at Karlsruhe is close to the conference hotel and the venue: https://drive.google.com/open?id=15uK6_ZfBrA3TO_WcAUVyxLjrUiw&usp=sharing[].
 
-Within Karlsruhe, either walk or use the tram: day ticket 6,40 ¬ (10,60 ¬ for a group up to 5); single ride 2 ¬.
+Within Karlsruhe, either walk or use the tram: day ticket 6,40 € (10,60 € for a group up to 5); single ride 2 €.
 
 *Please Note:* Credit cards are not necessarily accepted universally in Germany, in particular by taxis. ATMs (cash tills) should be available at all airports, train stations, etc. and you should provide yourself with some cash if you haven't already.
 
@@ -113,7 +113,7 @@ Within Karlsruhe, either walk or use the tram: day ticket 6,40 ¬ (10,60 ¬ for 
 
 The conference hotel is the http://www.hotel-santo.de/[Hotel Santo], Karlstrae 67-69, 76137 Karlsruhe, Germany. Please note that the home page for the hotel is not available in English; English information may be found at booking.com: https://www.booking.com/hotel/de/santo-karlsruhe.en-gb.html[].
 
-1&1 have reserved a block of 15 rooms for us at a rate of 80¬ incl. WLAN and breakfast (without our rate it is 130-150¬) per night, between September 23 and September 28. The rate will be available until a few days before the event (essentially 19 September) or if all 15 rooms are booked earlier.
+1&1 have reserved a block of 15 rooms for us at a rate of 80€ incl. WLAN and breakfast (without our rate it is 130-150€) per night, between September 23 and September 28. The rate will be available until a few days before the event (essentially 19 September) or if all 15 rooms are booked earlier.
 
 To obtain the rate you need to write an email to Julia Becker (mailto:jbecker@united-internet.de?subject=Hotel%20Santo%20Confirmation%20for%20CalConnect[jbecker@united-internet.de]) including the dates (from-to), your Name and your email address. Julia will inform the hotel of requests, and the hotel will send a confirmation email directly to the attendee. Please allow up to a week to receive the confirmation.
 

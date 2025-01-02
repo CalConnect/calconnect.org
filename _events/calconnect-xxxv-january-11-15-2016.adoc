@@ -13,7 +13,7 @@ image: /assets/images/AOLPaloAlto-01.jpg
 
 [[intro]]
 image:{{'/assets/images/AOLPaloAlto-01.jpg' | relative_url }}[AOL
-Palo Alto,width=800,height=540]
+Palo Alto]
 
 CalConnect XXXV at AOL's Palo Alto Headquarters, January 11-15, 2016
 

@@ -17,7 +17,7 @@ image: /assets/images/HongKong.jpg
 
 
 [[intro]]
-image:{{'/assets/images/HongKong.jpg' | relative_url }}[Hong Kong,width=800,height=402]
+image:{{'/assets/images/HongKong.jpg' | relative_url }}[Hong Kong]
 
 Join us for CalConnect XXXVI Hong Kong, April 18-22 2016
 

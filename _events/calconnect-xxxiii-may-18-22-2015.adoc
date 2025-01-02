@@ -13,7 +13,7 @@ image: /assets/images/Bucharest.jpg
 
 [[intro]]
 image:{{'/assets/images/Bucharest.jpg' | relative_url }}[Skytower
-in Bucharest, Romania,width=800,height=420]
+in Bucharest, Romania]
 
 Skytower in Bucharest, Romania
 

@@ -13,7 +13,7 @@ image: /assets/images/NASA-Ames.jpg
 
 [[intro]]
 image:{{'/assets/images/NASA-Ames.jpg' | relative_url }}[NASA
-Ames, Mountain View, California,width=800,height=600]
+Ames, Mountain View, California]
 
 Monday, May 23, 2011 to Friday, May 27, 2011
 

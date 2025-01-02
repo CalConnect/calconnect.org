@@ -15,7 +15,7 @@ image: /assets/images/world-time-zone-map.jpg
 
 [[intro]]
 image:{{'/assets/images/world-time-zone-map.jpg' | relative_url }}[
-,width=650,height=350]
+]
 
 Tuesday, February 05, 2019
 

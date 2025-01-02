@@ -14,7 +14,7 @@ image: /assets/images/UWiscMadison.jpg
 
 [[intro]]
 image:{{'/assets/images/UWiscMadison.jpg' | relative_url }}[The
-University of Wisconsin, Madison,width=604,height=453]
+University of Wisconsin, Madison]
 
 Monday, June 03, 2013 to Friday, June 07, 2013
 

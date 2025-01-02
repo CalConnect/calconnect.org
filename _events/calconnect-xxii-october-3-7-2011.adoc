@@ -13,7 +13,7 @@ image: /assets/images/Prague.jpg
 
 [[intro]]
 image:{{'/assets/images/Prague.jpg' | relative_url }}[Prague,
-Czech Republic,width=800,height=533]
+Czech Republic]
 
 Monday, October 03, 2011 to Friday, October 07, 2011
 

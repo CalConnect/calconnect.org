@@ -13,7 +13,7 @@ image: /assets/images/OracleRedwoodShores.jpg
 
 [[intro]]
 image:{{'/assets/images/OracleRedwoodShores.jpg' | relative_url }}[Oracle,
-Redwood Shores, California,width=800,height=534]
+Redwood Shores, California]
 
 Monday, June 01, 2009 to Friday, June 05, 2009
 

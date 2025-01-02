@@ -23,7 +23,7 @@ University of Hong Kong, K.K. Leung Building, Room KK102
 === Introduction
 
 [[intro]]
-image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[width=800,height=598]
+image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[]
 
 CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong Kong for our first members conference to be held in the Asia/Pacific Region.
 

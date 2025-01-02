@@ -15,7 +15,7 @@ CalConnect Conference - Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/Seattle.jpg' | relative_url }}[Seattle,
-WA,width=800,height=416]
+WA]
 
 CalConnect XXXIX in Seattle, June 12-16 2017, Hosted by Tandem
 

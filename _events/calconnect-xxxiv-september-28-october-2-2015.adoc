@@ -13,7 +13,7 @@ image: /assets/images/Amsterdam.jpg
 
 [[intro]]
 image:{{'/assets/images/Amsterdam.jpg' | relative_url }}[Amsterdam,
-The Netherlands,width=800,height=531]
+The Netherlands]
 
 CalConnect XXXIV in Amsterdam, The Netherlands
 
@@ -81,9 +81,9 @@ For a map of the area, please see https://www.google.com/maps/d/u/0/viewer?mid=z
 
 *Ground Transportation:* Transfers to and from the airport are available by bus, train, hotel courtesy buses, taxis and rental cars. Typical travel time from the airport to the Amsterdam city center is about 20 minutes. The conference venue is located in the south part of the ciy, which is about 15 minutes from the airport.
 
-*Train:* The train station is situated directly below the airort and well signposted. It is acessed from arrivals via the Schiphol Plaza. Tickets can be purchased from the yellow ticket machines or from the ticket offices situated in Schiphol Plaza. A single train ticket (2nd class) to Amsterdam Central Station is ¬4.00, and a single train ticket (2nd class) to Amsertam RAI is ¬2.60. Staff at the ticket offices will also be able to provide you with train departure information. More information on Netherlands railways can be found at http://www.ns.nl[].
+*Train:* The train station is situated directly below the airort and well signposted. It is acessed from arrivals via the Schiphol Plaza. Tickets can be purchased from the yellow ticket machines or from the ticket offices situated in Schiphol Plaza. A single train ticket (2nd class) to Amsterdam Central Station is €4.00, and a single train ticket (2nd class) to Amsertam RAI is €2.60. Staff at the ticket offices will also be able to provide you with train departure information. More information on Netherlands railways can be found at http://www.ns.nl[].
 
-*Taxi Service:* No need for reservations. Follow directions to the official taxi stand for licensed TCA taxis. TCA taxis are available in front of the airport arrivals building. A taxi to the city center costs approximately ¬45 for the trip and takes about 25 minutes; a taxi to the Amsterdam RAI costs approximately ¬35 and takes about 20 minutes.
+*Taxi Service:* No need for reservations. Follow directions to the official taxi stand for licensed TCA taxis. TCA taxis are available in front of the airport arrivals building. A taxi to the city center costs approximately €45 for the trip and takes about 25 minutes; a taxi to the Amsterdam RAI costs approximately €35 and takes about 20 minutes.
 
 UberBlack and UberLux are available in Amsterdam.
 
@@ -92,7 +92,7 @@ UberBlack and UberLux are available in Amsterdam.
 
 Our conference hotel for this event is the Motel One Amsterdam-RAI. Motel One is a German boutique hotel chain, and the Motel One Amsterdam-RAI is brand new -- it opened on 6 August.
 
-The hotel offers free wi-fi throughout the hotel, a 24-hour lounge and bar, and a full continental breakfast (everything but hot entrees) each morning (for ¬9,50 additional). It does not have a regular restaurant but there are many restaurants in the area.
+The hotel offers free wi-fi throughout the hotel, a 24-hour lounge and bar, and a full continental breakfast (everything but hot entrees) each morning (for €9,50 additional). It does not have a regular restaurant but there are many restaurants in the area.
 
 The hotel is about 800 meters from the conference venue, and 500 meters from the Amsterdam RAI train and metro station, making it extremely convenient.
 
@@ -106,7 +106,7 @@ http://www.motel-one.com/en/hotels/amsterdam/hotel-amsterdam/[].
 
 We have an agreed rate with the hotel and a room block of 20 rooms. Availability and rates are guaranteed until 1 September 2015, after which rooms might still be available but no guarantees can be given. Free cancellation until 11 September, after which 90% of the first night will be charged.
 
-The CalConnect rate for a single is ¬139 between 26-29 September, and ¬69 between 30 September and 4 October. The rate for a double is ¬154 and ¬84 for the same periods. (Yes, the rates go down significantly after the 29th.) Rates include VAT and service charges but exclude a 5% tourist tax per room per night. (All rooms are double rooms; for single occupancy the single rate applies.)
+The CalConnect rate for a single is €139 between 26-29 September, and €69 between 30 September and 4 October. The rate for a double is €154 and €84 for the same periods. (Yes, the rates go down significantly after the 29th.) Rates include VAT and service charges but exclude a 5% tourist tax per room per night. (All rooms are double rooms; for single occupancy the single rate applies.)
 
 The hotel now offers online booking at http://www.motel-one.com/en/hotels/amsterdam/hotel-amsterdam/[]. Unfortunately you cannot request the CalConnect room block (however the rates will be the same as for our room block). Therefore if you are booking before 1 September (when the room block ends) and you cannot secure a room online, please book by calling the hotel at the phone number above, or sending an e-mail to the e-mail address above, and request a CalConnect group room.
 

@@ -9,7 +9,7 @@ image: /assets/images/CalConnectEventTBD.jpg
 
 == CalConnect CalendarFest 2021 📆🎉 (Autumn 2021)
 
-image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022,800,530]
+image::{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[CalConnect Virtual Conference Spring 2022]
 
 CalendarFest is a novel (virtual) event, which wants to let users and developers
 of (electronic) calendar applications, servers, and related groupware systems,

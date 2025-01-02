@@ -14,7 +14,7 @@ image: /assets/images/cologne.jpg
 [[intro]]
 image:{{'/assets/images/cologne.jpg' | relative_url }}[CalConnect
 XL in Cologne, Germany, September 25-29, 2017, hosted by
-Open-Xchange,width=741,height=576]
+Open-Xchange]
 
 CalConnect XL in Cologne, September 25-29, 2017, hosted by Open-Xchange
 

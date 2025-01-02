@@ -13,7 +13,7 @@ image: /assets/images/CarnegieMellon.jpg
 
 [[intro]]
 image:{{'/assets/images/CarnegieMellon.jpg' | relative_url }}[Carnegie
-Mellon University, Pittsburgh, Pennsylvania,width=800,height=600]
+Mellon University, Pittsburgh, Pennsylvania]
 
 Monday, May 24, 2010 to Friday, May 28, 2010
 
