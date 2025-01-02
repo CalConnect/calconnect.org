@@ -13,7 +13,7 @@ image: /assets/images/Dresden.jpg
 
 [[intro]]
 image:{{'/assets/images/Dresden.jpg' | relative_url }}[CalConnect
-XXXVII in Dresden, Germany hosted by dmfs,width=800,height=533]
+XXXVII in Dresden, Germany hosted by dmfs]
 
 CalConnect XXXVII in Dresden, September 12-16 2016, hosted by dmfs
 
@@ -79,9 +79,9 @@ The meeting room will be in the conference facility of the Schloss and will be a
 
 Unfortunately, Schloss Eckberg does not at this time offer a shuttle service, but are contemplating one (we have been advised to check with them later this summer). If they do institute a shuttle service we will update this page with more information.
 
-*Taxi service*: a taxi to or from the airport costs about ¬25. Please be aware that taxi drivers usually only accept cash, and there is no Uber service in Dresden.
+*Taxi service*: a taxi to or from the airport costs about €25. Please be aware that taxi drivers usually only accept cash, and there is no Uber service in Dresden.
 
-*Public Transportation:* Travel between the airport and the hotel may easily be done by a combination of train and tram. Please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000617&destinationid=33000296[]. The trams cost ¬2.30; there are ticket machines in the tram, but you need coins to get a ticket. There is no ticket machine on the train from the airport, but there is one in the station. Optionally you may purchase a week ticket for ¬21, which is also valid for the train to and from the airport; you may purchase this ticket at the airport station when you arrive.
+*Public Transportation:* Travel between the airport and the hotel may easily be done by a combination of train and tram. Please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000617&destinationid=33000296[]. The trams cost €2.30; there are ticket machines in the tram, but you need coins to get a ticket. There is no ticket machine on the train from the airport, but there is one in the station. Optionally you may purchase a week ticket for €21, which is also valid for the train to and from the airport; you may purchase this ticket at the airport station when you arrive.
 
 The trams also offer a convenient way to get getween the Schloss and the city; please see https://www.vvo-online.de/en/timetable/timetable-information/journeys?originid=33000296&destinationid=33000003[].
 
@@ -96,7 +96,7 @@ https://www.google.de/maps/place/Schloss+Eckberg/@51.0635488,13.7972523,17z/data
 
 The venue is surrounded by a park and across the street is a forest, which is nice for the runners amongst us. As noted the venue is not located in the center of the city, but there is a tram to the center every 10 minutes; it takes about 20 minutes between the venue and the center.
 
-We are offered a conference room rate, inclusive of breakfast each morning, either in the Kavaliershaus (a separate hotel building) at ¬93 per night, or in the Castle itself at a rate of ¬143 per night.
+We are offered a conference room rate, inclusive of breakfast each morning, either in the Kavaliershaus (a separate hotel building) at €93 per night, or in the Castle itself at a rate of €143 per night.
 
 In order to obtain our conference rate, you *must book either by telephone at +49 351 8099-0 or by e-mail to i mailto:info@schloss-eckberg.de[nfo@schloss-eckberg.de]*. When booking you will need to provide the following information:
 

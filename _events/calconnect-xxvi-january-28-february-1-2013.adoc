@@ -13,7 +13,7 @@ image: /assets/images/OracleSantaClara.jpg
 
 [[intro]]
 image:{{'/assets/images/OracleSantaClara.jpg' | relative_url }}[Oracle
-Santa Clara,width=800,height=600]
+Santa Clara]
 
 Monday, January 28, 2013 to Friday, February 01, 2013
 

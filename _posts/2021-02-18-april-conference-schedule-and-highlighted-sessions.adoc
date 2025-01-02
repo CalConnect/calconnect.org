@@ -12,7 +12,7 @@ excerpt: |
 
 == April Conference Schedule and Highlighted Sessions
 
-The *preliminary schedule* for our April 2021 Virtual Conference is now available at link:{{'/events/calconnect-virtual-conference-2021#conference-schedule' | relative_url }}[link].
+The *preliminary schedule* for our April 2021 Virtual Conference is now available at link:{{'/events/calconnect-virtual-conference-autumn-2021#conference-schedule' | relative_url }}[link].
 
 *Highlighted sessions:*
 

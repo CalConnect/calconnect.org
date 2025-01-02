@@ -14,7 +14,7 @@ excerpt:
 == A Tribute to Dave Thewlis
 
 .Father Time managing his calendar?
-image:{{'/assets/images/DaveThewlis-01.jpg' | relative_url }}[Dave Thewlis on phone,width=657,height=553]
+image:{{'/assets/images/DaveThewlis-01.jpg' | relative_url }}[Dave Thewlis on phone]
 
 In November 2004, Esther Dyson posted this photo to Flickr, with a
 caption of _“Father Time managing his calendar?”_ adding, _“Well, sort
@@ -106,7 +106,7 @@ calendar?”, but it is likely that any mention of the name “Dave Thewlis”
 will conjure up this iconic look for CalConnect Round Table attendees:
 
 image:{{'/assets/images/DaveThewlis-02.jpg' | relative_url }}[Dave
-Thewlis,width=569,height=524]
+Thewlis]
 
 === Community Comments
 

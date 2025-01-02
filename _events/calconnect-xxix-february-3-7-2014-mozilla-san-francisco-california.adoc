@@ -13,7 +13,7 @@ image: /assets/images/SanFranciscoCA.jpg
 
 [[intro]]
 image:{{'/assets/images/SanFranciscoCA.jpg' | relative_url }}[San
-Francisco, CA,width=800,height=564]
+Francisco, CA]
 
 Monday, February 03, 2014 to Friday, February 07, 2014
 

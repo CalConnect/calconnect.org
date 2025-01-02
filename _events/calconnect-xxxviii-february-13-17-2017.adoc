@@ -13,7 +13,7 @@ image: /assets/images/UCIrvine.jpg
 
 [[intro]]
 image:{{'/assets/images/UCIrvine.jpg' | relative_url }}[University
-of California, Irvine,width=800,height=600]
+of California, Irvine]
 
 CalConnect XXXVIII, February 13-17, 2017 - University of California, Irvine
 

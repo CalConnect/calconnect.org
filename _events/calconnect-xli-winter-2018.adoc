@@ -13,7 +13,7 @@ CalConnect Conference - Wednesday-Friday
 [[intro]]
 image:{{'/assets/images/yahoo-campus.jpg' | relative_url }}[CalConnect
 in Sunnyvale, California January 29 - February 2 2018 hosted by
-Oath,width=800,height=533]
+Oath]
 
 CalConnect in Sunnyvale, California January 29 - February 2 2018 hosted by Oath
 

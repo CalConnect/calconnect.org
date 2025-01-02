@@ -12,7 +12,7 @@ image: /assets/images/CalConnectEventTBD.jpg
 === CalConnect Interoperability Test Event - 4-6 October and CalConnect Roundtable XIX - 6-8 October
 
 [[intro]]
-image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[width=800,height=530]
+image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[]
 
 Monday, October 04, 2010 to Friday, October 08, 2010
 

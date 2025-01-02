@@ -13,7 +13,7 @@ image: /assets/images/AppleCupertino.jpg
 
 [[intro]]
 image:{{'/assets/images/AppleCupertino.jpg' | relative_url }}[Apple,
-Inc., Cupertino, California,width=800,height=557]
+Inc., Cupertino, California]
 
 Monday, January 30, 2012 to Friday, February 03, 2012
 

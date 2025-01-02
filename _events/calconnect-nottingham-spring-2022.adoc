@@ -9,7 +9,7 @@ image: /assets/images/nottingham.jpg
 
 == CalConnect Nottingham 2022, November, 2022, Hosted By Cronofy
 
-image::{{'/assets/images/nottingham.jpg' | relative_url }}[Nottingham, U.K.,750,404]
+image::{{'/assets/images/nottingham.jpg' | relative_url }}[Nottingham, U.K.]
 
 Monday, November 14, 2022 to Wednesday, November 16, 2022
 

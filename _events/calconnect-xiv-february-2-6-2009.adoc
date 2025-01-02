@@ -10,7 +10,7 @@ image: /assets/images/MicrosoftRedmond.jpg
 == CalConnect XIV - February 2-6, 2009
 Microsoft, Redmond, Washington
 
-image::{{'/assets/images/MicrosoftRedmond.jpg' | relative_url }}[Microsoft, Redmond, Washington, width=800, height=533]
+image::{{'/assets/images/MicrosoftRedmond.jpg' | relative_url }}[Microsoft, Redmond, Washington]
 
 Monday, February 02, 2009 to Friday, February 06, 2009
 

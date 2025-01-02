@@ -14,7 +14,7 @@ CalConnect Conference – Wednesday-Friday
 
 [[intro]]
 image:{{'/assets/images/BedfordUK.jpg' | relative_url }}[Bedford,
-UK,width=550,height=250]
+UK]
 
 Monday, September 29, 2014 to Friday, October 03, 2014
 
