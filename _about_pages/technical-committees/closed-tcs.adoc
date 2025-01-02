@@ -127,15 +127,7 @@ In 2017, TC-RESOURCE was closed and responsibility for its outstanding specifica
 
 == TC-TASKS
 
-TC-TASKS was chartered to extend the functionality of the iCalendar and specifically VTODO object model to provide enhanced support for tasks including needs such as project management, smart power grids and business task scheduling, in a way that allows a calendaring system to manage the data and calendaring clients to display and change it.
-
-The approach taken was to survey existing task management standards in particular WS-HumanTask and WS-Calendar and to incorporate elements from these into the iCalendar standards which are required for the communication of task scheduling information and execution of tasks by a participant.
-
-A number of areas were identified for extension and identified within the scope section of this document. The extensions deal principally with the Object Model and not the API or Protocol for operating on tasks. It was not the aim of this committee to replicate or subsume the definition, sequencing or co-ordination of tasks best performed by a project management, workforce or process management technologies but to provide a calendaring based platform for communication of tasks with task performers.
-
-The Technical Committee produced a Task Architecture[Task Architecture] which was published by CalConnect, and a Tasks Extensions to iCalendar specification currently at the IETF.
-
-In 2017 TC-TASKS was closed and responsibility for its outstanding specification at the IETF transferred to TC-CALENDAR.
+See {{'/about/technical-committees/tc-tasks' | relative_url}}[TC-TASKS].
 
 == TC-TIMEZONE (original and reactivation)
 

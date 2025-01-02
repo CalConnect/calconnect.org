@@ -29,7 +29,7 @@ The Interoperability Test Event will take place all day Monday and Tuesday Janua
 
 An informal __Introductory Q & A about CalConnect__, intended for first-time attendees, will be scheduled at 11:00 on Wednesday the 28th for first-time attendees.
 
-*This event will be CalConnect's 10th Anniversary Meeting, and Wednesday afternoon and evening will be devoted to Anniversary events. The regular Conference will happen Thursday and Friday. For more about the Tenth Anniversary Celebration, which will be open to non-members without a fee, see link:{{'/tenthanniversary.shtml' | relative_url}}[Tenth Anniversary Celebration]*.
+*This event will be CalConnect's 10th Anniversary Meeting, and Wednesday afternoon and evening will be devoted to Anniversary events. The regular Conference will happen Thursday and Friday. For more about the Tenth Anniversary Celebration, which will be open to non-members without a fee, see link:{{'/tenthanniversary' | relative_url}}[Tenth Anniversary Celebration]*.
 
 *CalConnect Interoperability Test Event*:
 
@@ -37,7 +37,7 @@ The Interoperabilty Test Events are open to both members and non-members as part
 
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
-*CalConnect 10th Anniversary*: See link:{{'/tenthanniversary.shtml' | relative_url}}[Tenth Anniversary Celebration] for more information about the Anniversary and how to attend. If you are registered for the CalConnect Conference you are automatically registered for the Tenth Anniversary Celebration, however it is possible to register only for the celebration at link:{{'/anniversaryreg.shtml' | relative_url}}[Tenth Anniversary Registration].
+*CalConnect 10th Anniversary*: See link:{{'/tenthanniversary' | relative_url}}[Tenth Anniversary Celebration] for more information about the Anniversary and how to attend. If you are registered for the CalConnect Conference you are automatically registered for the Tenth Anniversary Celebration, however it is possible to register only for the celebration at link:{{'/anniversaryreg' | relative_url}}[Tenth Anniversary Registration].
 
 *CalConnect Conference:* The CalConnect Conference will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
 

@@ -260,7 +260,7 @@ Final determination of what will be tested will depend on what the participants 
 ** vCard 4
 
 == Who May Participate or Observe
-Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url }}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
 == Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
@@ -390,4 +390,4 @@ _Administrative business, coming events, consensus agreements on decisions reach
 
 |===
 
-*Please see the Reading List for at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]. The list contains URLs for all standards, drafts and specifications to be discussed.*
+*Please see the Reading List for at  link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List]. The list contains URLs for all standards, drafts and specifications to be discussed.*

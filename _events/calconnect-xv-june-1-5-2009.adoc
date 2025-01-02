@@ -26,7 +26,7 @@ CalConnect XV, consisting of a CalConnect Interoperability Test Event and a CalC
 
 The IOP Testing will take place all day Monday and Tuesday June 1-2, and Wednesday morning, ending at noon on Wednesday June 3rd. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0906.shtml' | relative_url}}[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0906' | relative_url}}[IOP Test Event June 2009] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -70,7 +70,7 @@ There are several hotels very close to the Oracle Conference Center. The hotels 
 223 Twin Dolphin Drive +
 Redwood City, CA 94065 +
 Phone: +1 650 598 9000 +
-http://www.sofitel.com/gb/hotel-0922-sofitel-san-francisco-bay/index.shtml +
+http://www.sofitel.com/gb/hotel-0922-sofitel-san-francisco-bay/index +
 Fee for Internet, Free Parking, Smoke Free +
 Ask for Oracle Rate - $178 if available.
 

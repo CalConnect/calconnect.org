@@ -3,7 +3,7 @@ layout: page
 name: CalConnect XXXVIII - February 13-17, 2017
 host_info: Hosted by the University of California, Irvine in Irvine, California.
 date: 2017-02-13
-image: /assets/images/UCIrvine_0.jpg
+image: /assets/images/UCIrvine.jpg
 ---
 :page-liquid:
 
@@ -96,7 +96,7 @@ We are offered a *special UC Irvine* rate of $119 for Friday and Saturday nights
 
 *Hotel Irvine Commuter Shuttle Service:* This service is included in the UCI rate and runs from 6:30am-10:30am and 3:00pm-7:00pm from Monday-Friday. This service does require a 48 hour reservation to guarantee the transfer. The HI commuter can be arranged by emailing them directly at mailto:hicommuter@hotelirvine.com[hicommuter@hotelirvine.com].
 
-_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._
+_We plan to survey registered participants a week or so before the event and find out how many people would be interested in using this shuttle service to go to and from UCI, and then do a mass booking. Note that this will NOT work for Monday or Wednesday evenings, so different arrangements will need to be made for the Test Event Dinner on Monday, and the Reception on Wednesday._
 
 
 
@@ -243,7 +243,7 @@ Final determination of what will be tested will depend on what the participants 
 ** vCard 4
 
 == Who May Participate or Observe
-Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that non-members pay a 25% surchange on the Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that non-members pay a 25% surchange on the Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url }}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
 == Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
@@ -312,12 +312,12 @@ _There are a number of problems with the current iMIP model and implementations,
 | 1030-1100 | Break and refreshments
 | 1100-1230
 a| *Calendar Spam and potential best practices* +
-_One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events._
+_One or more presentations from members who are actively dealing with calendar spam issues, general discussion, formulation of recommendations. Under consideration are iMIP issues; odd content types; DKIM and SPF; alarms and notifications; converting other content into events._
 
 | 1230-1330 | Lunch
 | 1330-1430
 a| API Progress Report +
-_TC API is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. We will report on where the work stands now and what the next steps are in an overall contenxt. Existing implementations of the API will be presented. TC API._
+_TC API is defining a new representation for calendar data that is more palatable to current developers, especially in the web community. We will report on where the work stands now and what the next steps are in an overall contenxt. Existing implementations of the API will be presented. TC API._
 
 | 1430-1500
 a| Alternative Subsciption Models +

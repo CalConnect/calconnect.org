@@ -10,7 +10,7 @@ image: /assets/images/Karlsruhe.jpg
 == CalConnect XLIII - September 24-27, 2018
 
 [[intro]]
-image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Karlsruhe,width=656,height=305]
+image:{{'/assets/images/Karlsruhe.jpg' | relative_url }}[width=656,height=305]
 
 CalConnect XLIII in Karlsruhe, Germany, hosted by 1&1
 
@@ -98,7 +98,7 @@ For more information about Karlsruhe please see https://www.karlsruhe-tourismus.
 [[transportation]]
 == Transportation
 
-If you will be arriving and departing by air, plan on arriving at Frankfurt International Airport (FRA) and take the train from Frankfurt Flughafen Fernbahnhof to Karlsruhe. The train station is physically within the Frankfurt airport. The train operates on an hourly basis (direct or via Mannheim), and will cost about 80¬ to Karlsruhe and back (flexible rate, less if you fix the time in advance), Please see https://www.bahn.com/en/view/index.shtml for booking information in English.
+If you will be arriving and departing by air, plan on arriving at Frankfurt International Airport (FRA) and take the train from Frankfurt Flughafen Fernbahnhof to Karlsruhe. The train station is physically within the Frankfurt airport. The train operates on an hourly basis (direct or via Mannheim), and will cost about 80¬ to Karlsruhe and back (flexible rate, less if you fix the time in advance), Please see https://www.bahn.com/en/view/index for booking information in English.
 
 The central train station at Karlsruhe is close to the conference hotel and the venue: https://drive.google.com/open?id=15uK6_ZfBrA3TO_WcAUVyxLjrUiw&usp=sharing[].
 

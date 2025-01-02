@@ -19,7 +19,7 @@ succeed, cannot meet its mission, with only the "really big players",
 the "really small players", or only the "really anything-else
 players".
 
-As we note on our link:{{'/why-join' | relative_url }}[Why Join] page,
+As we note on our link:{{'/membership/why-join' | relative_url }}[Why Join] page,
 
 ____
 We are a partnership between vendors of calendaring & scheduling systems

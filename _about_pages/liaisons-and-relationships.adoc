@@ -24,7 +24,7 @@ President of CalConnect.
 |===
 
 | https://www.iso.org/[image:{{'/assets/images/external-logos/logo_iso.svg' | relative_url }}[ISO Logo]]
-| https://www.m3aawg.org/[image:{{'/assets/images/external-logos/logo_m3aawg.svg' | relative_url }}[M3AAWG Logo]]
+| https://www.m3aawg.org/[image:{{'/assets/images/external-logos/logo_m3aawg.png' | relative_url }}[M3AAWG Logo]]
 | https://www.oasis-open.org/[image:{{'/assets/images/external-logos/logo_oasis.svg' | relative_url }}[Oasis Logo]]
 |===
 

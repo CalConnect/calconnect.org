@@ -29,7 +29,7 @@ The Interoperability Test Event will take place all day Monday and Tuesday Octob
 
 *CalConnect Interoperability Test Event*: At this meeting, we plan to offer both regular and mobile interoperabilty testing at the CalConnect Interoperability Test Event. A participating organization may register for either or both events in a single regisstration, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel).
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1210.shtml' | relative_url}}[CalConnect Interoperability Test Event October 2012] for current information. Check back periodically as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1210' | relative_url}}[CalConnect Interoperability Test Event October 2012] for current information. Check back periodically as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -67,7 +67,7 @@ Zurich is served by http://www.zurich-airport.com/[Zurich International Airport 
 [[lodging]]
 == Lodging
 
-Google has preferential rates available at three nearby hotels. The first one is right next to Google, the other two are a 10 min walk away. CalConnect attendees may use the Google preferred rate (not sure that it's always the lowest rate available). To see the booking codes, member representatives may go to link:{{'/membersonly/cc25codes.shtml' | relative_url}}[CalConnect XXV preferred hotel booking codes] in the members area.
+Google has preferential rates available at three nearby hotels. The first one is right next to Google, the other two are a 10 min walk away. CalConnect attendees may use the Google preferred rate (not sure that it's always the lowest rate available). To see the booking codes, member representatives may go to link:{{'/membersonly/cc25codes' | relative_url}}[CalConnect XXV preferred hotel booking codes] in the members area.
 
 _If you or your organization is not a CalConnect Member, we will send you the preferred booking codes upon request once you have registered for the event; contact mailto:dave.thewlis@calconnect.org[Dave Thewlis]._ +
  

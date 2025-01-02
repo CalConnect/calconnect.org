@@ -28,7 +28,7 @@ current topics in electronic calendaring from different perspectives.
 [[registration]]
 == Participation
 
-Participation at CalendarFest will be free for presenters of accepted talks. Other participants need to link:{{'/news/2021-09-02-registration-open-october-2021-calconnect-virtual-conference' | relative_url}}[register] for a small organizational fee, which also allows for participation at the  “colocated” CalConnect Virtual Conference.
+Participation at CalendarFest will be free for presenters of accepted talks. Other participants need to link:{{'/news/2021-09-02-registration-is-open-for-the-october-2021-calconnect-virtual-conference' | relative_url}}[register] for a small organizational fee, which also allows for participation at the  “colocated” CalConnect Virtual Conference.
 
 
 [[location]]

@@ -16,4 +16,4 @@ initiated publication of a regular newsletter to be published thrice
 yearly, after each CalConnect event. The newsletter will contain
 information from the last CalConnect event and the period leading up to
 it, including new members, major initiatives, and the status of ongoing
-work: link:{{'/docs/minutes.shtml' | relative_url }}[CalConnect__Minutes__].
+work: link:{{'/docs/minutes' | relative_url }}[CalConnect__Minutes__].

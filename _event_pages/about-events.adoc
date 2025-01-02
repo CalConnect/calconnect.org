@@ -33,8 +33,8 @@ conference, or as a completely separeate event; testing is now
 incorporated into the regular CalConnect Conferences and is generally
 not a separate event.
 
-A non-member may be an link:{{'/observer' | relative_url }}[Observer] at a single
-CalConnect Conference to determine whether they wish to join.
+A non-member may be an link:{{'/events/observers' | relative_url }}[Observer] at
+a single CalConnect Conference to determine whether they wish to join.
 
 Logistics information for each coming event is provided as early as
 possible after a prospective host agrees to a location and dates.  As

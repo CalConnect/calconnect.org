@@ -26,7 +26,7 @@ CalConnect XVII, consisting of a CalConnect Interoperability Test Event, and a C
 
 The IOP Testing will take place all day Monday and Tuesday February 1-2, and Wednesday morning February 3, ending at noon on Wednesday. The Roundtable will begin with lunch at 12:30 on Wednesday the 3rd, and last through early afternoon Friday the 5th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 3rd.
 
-*CalConnect Interoperability Test Events*: At this meeting, we will host a regular CalConnect Interoperability Test Event. The IOP Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1002.shtml' | relative_url}}[IOP Test Event February 2010] for current information. Check back often as these will be updated as more information becomes available.
+*CalConnect Interoperability Test Events*: At this meeting, we will host a regular CalConnect Interoperability Test Event. The IOP Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1002' | relative_url}}[IOP Test Event February 2010] for current information. Check back often as these will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 

@@ -48,14 +48,14 @@ calendaring and scheduling applications or operating systems.
 
 === CalConnect calls on EU to reconsider timeline for proposed seasonal time changes
 
-Details: link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes]
+Details: link:{{'/news/2018-10-30-calconnect-calls-on-eu-to-reconsider-timeline-for-proposed-seasonal-time-changes' | relative_url }}[CalConnect calls on EU to reconsider timeline for proposed seasonal time changes]
 
 Press Release about CalConnect's Advisory Notice concerning the EU Summer Time
 Proposal.
 
 === CalConnect advisory notice on EU summer time proposal
 
-Details: link:{{'/sites/default/files/documents/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[CalConnect Advisory Notice on EU Summer Time Proposal]
+Details: link:{{'/docs/press-releases/CC%20Adv%20EU%20DST%20Advisory%20Notice.pdf' | relative_url }}[CalConnect Advisory Notice on EU Summer Time Proposal]
 
 This document, developed shortly after the EU announcement, is an Advisory
 Notice expressing concern about the amount of time before the proposal would

@@ -29,7 +29,7 @@ The IOP Testing will take place all day Monday and Tuesday October 5-6, and Wedn
 
 More information will be posted as it becomes available, in particular a confirmed schedule of Roundtable sessions and topical agendas should be available by mid-September.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0910.shtml' | relative_url}}[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event.
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop0910' | relative_url}}[IOP Test Event September 2009] for current information. Check back often as this will be updated as we get nearer to the event.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -67,7 +67,7 @@ Cupertino is about 30 miles south of San Francisco International Airport, and qu
 [[lodging]]
 == Lodging
 
-The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to link:{{'/membersonly/cc16.shtml' | relative_url}}[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
+The conference hotel is the Cypress Hotel; while we have not arranged a specific room block (as we cannot guarantee a given number of room nights because this is a small organization), attendees are encouraged to book at this hotel. CalConnect member participants will be able to book at this hotel at the Apple rate by going to link:{{'/membersonly/cc16' | relative_url}}[Members-only Apple Rate]. If the Cypress Hotel is full they will assist you in booking another hotel in the area.
 
 The Cupertino Inn is also close to the Apple campus and frequently used by Apple visitors and is provided as the nearest alternative.
 
@@ -81,7 +81,7 @@ Cupertino, CA 95014 +
 Phone: +1 408 253 8900 +
 http://www.thecypresshotel.com +
 Apple rate available to CalConnect members; +
-see link:{{'/membersonly/cc16.shtml' | relative_url}}[Book the Apple Rate].
+see link:{{'/membersonly/cc16' | relative_url}}[Book the Apple Rate].
 |
 .<a| *The Cupertino Inn* +
 10889 North De Anza Blvd +

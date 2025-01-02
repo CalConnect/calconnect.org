@@ -10,17 +10,17 @@ excerpt: Our first European conference was last October, hosted by Kerio Technol
 
 == CalConnect is returning to Europe: October 1-5, 2012, Zürich, Switzerland, hosted by Google
 
-Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, link:{{'/calconnect25' | relative_url}}[CalConnect XXV] will take place in ZÃ¼rich, Switzerland on October 1-5, 2012  less than six weeks from now, hosted by http://www.google.com' | relative_url}}[Google].
+Our first European conference was last October, hosted by Kerio Technologies in Prague. It was very successful and the European attendees encouraged us to return the following year. Therefore, link:{{'/calconnect25' | relative_url}}[CalConnect XXV] will take place in Zürich, Switzerland on October 1-5, 2012  less than six weeks from now, hosted by http://www.google.com' | relative_url}}[Google].
 
 We encourage our European colleagues and others interested in Calendaring and Scheduling to join us. We re working to make this event as attractive as possible to organizations that are not currently members but have thought about exploring CalConnect, and a European event is a chance for people to participate in a CalConnect member meeting without having to incur the travel costs and time of coming to North America.
 
 CalConnect is a collaboration between calendaring and scheduling vendors and users. It was established to further interoperability between calendaring and scheduling implementations, and works towards this purpose by driving the evolution of calendaring and scheduling standards through technical committee work, holding regular interoperability testing events, and hosting regular conferences, workshops and symposia focused on calendaring and scheduling.
 
-European companies were among CalConnect's earliest members members, and as standards and interoperability are both central to CalConnect's mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe in 2011. This autumn's event in ZÃ¼rich is one which we hope will continue with even greater European participation in CalConnect's interoperable calendaring and scheduling projects.
+European companies were among CalConnect's earliest members members, and as standards and interoperability are both central to CalConnect's mission and are strong core values of European Information Technology, we have long recognized the importance of increasing European involvement in CalConnect. To that end we held special events in Europe and 2007 and 2008 in preparation for having a regular CalConnect conference in Europe in 2011. This autumn's event in Zürich is one which we hope will continue with even greater European participation in CalConnect's interoperable calendaring and scheduling projects.
 
 *Overview*
 
-Our venue will be Google's ZÃ¼rich campus at Brandschenkestrasse 110, 8002 ZÃ¼rich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google's campus. Full information about the conference may be found at link:{{'/calconnect25' | relative_url}}[CalConnect XXV] including the week's schedules, registration, and logistics information including accommodation.
+Our venue will be Google's Zürich campus at Brandschenkestrasse 110, 8002 Zürich. All events of the CalConnect week, October 1-5, except for the Monday IOP test event dinner and the Thursday Roundtable dinner will take place on Google's campus. Full information about the conference may be found at link:{{'/calconnect25' | relative_url}}[CalConnect XXV] including the week's schedules, registration, and logistics information including accommodation.
 
 Monday, Tuesday, and Wednesday morning, October 1-3, will be our Interoperability Test Event, ending with lunch on Wednesday. Wednesday afternoon (beginning with lunch), Thursday, and Friday, October 3-5, will be the Technical Conference (Roundtable) which will include workshops, symposia, and technical committee sessions: briefings on what the CalConnect technical committees are doing, and discussions of problems, alternatives, and participation in the work of the Technical Committees.
 
@@ -50,7 +50,7 @@ In particular, if you are interested in the Interoperability Test event and woul
 
 You are also welcome to contact me directly with questions and suggestions.
 
-Please join us in ZÃ¼rich!
+Please join us in Zürich!
 
 
 *More Information:*

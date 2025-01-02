@@ -71,7 +71,8 @@ For information about the two optional tours on Saturday after the close of the 
 
 CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
 
-image::/sites/default/files/media/sponsor-logos3.png[""]
+image::/assets/images/sponsor-logos3.png[""]
+
 ==== Hosts
 
 * http://www.ribose.com/[Ribose]

@@ -15,7 +15,7 @@ Wednesday, April 20, 2016 - All Day
 
 ==== CalConnect, the Calendaring & Scheduling conference, invites you to attend our all-day Public Event at the Hong Kong International ITFest at the Hong Kong Convention and Exhibition Centre.
 
-image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/public_day_logo_0, width=800, height=464]
+image:{{'/assets/images/public_day_logo_0.jpg' | relative_url }}[width=800, height=464]
 
 CalConnect Public Day at Hong Kong IT Fest, April 20, 2016
 
@@ -39,7 +39,7 @@ Gary Schwartz, President, https://www.calconnect.org[The Calendaring & Schedulin
 Ir. Allen Yeung, CIO http://www.ogcio.gov.hk/[OGCIO] +
 Ronald Tse, CEO, https://www.ribose.com/home[Ribose]
 
-image::/assets/images/calconnect-hk-host-logos.jpg[OGCIO, Ribose, CalConnect,744,212]
+image::/assets/images/calconnect-hk-host-logos.png[OGCIO, Ribose, CalConnect,744,212]
 
 [[registration]]
 == Registration Information
@@ -229,7 +229,7 @@ mailto:schwag@rpi.edu[schwag@rpi.edu]
 
 ==== Ribose (CalConnect member)
 
-http://www.ribose.com[image::/assets/images/calconnect-hk-host-logos.jpg[Ribose Inc.]]
+http://www.ribose.com[image::/assets/images/calconnect-hk-host-logos.png[Ribose Inc.]]
 
 Ribose is an online social collaboration platform that connects you with friends, family, co-workers, and communities in a new way. Our platform lets you focus on the task at hand while keeping you and your team on the same page.
 
@@ -335,6 +335,7 @@ mailto:dave.thewlis@calconnect.org[dave.thewlis@calconnect.org]
 CalConnect wishes to recognize, and to thank, our hosts, sponsors, and supporting organizations, who are collaborating with us on CalConnect XXXVI, our first event in the Asia /Pacific region.
 
 image::/assets/images/sponsor-logos3.png[""]
+
 ==== Hosts
 
 * http://www.ribose.com/[Ribose]

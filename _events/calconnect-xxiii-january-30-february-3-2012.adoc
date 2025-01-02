@@ -28,7 +28,7 @@ The Interoperability Test Events will take place all day Monday and Tuesday Janu
 
 *CalConnect Interoperability Test Events*: At this meeting, we will host a combined regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
 
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1201.shtml' | relative_url}}[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available.
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1201' | relative_url}}[CalConnect Interoperability Test Event January-February 2012] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -115,7 +115,7 @@ Monday 1230-1800 and Tuesday-Friday inclusive we will be in the Garage 1 Confere
 1200-1215 Relocate to IL4/2 GARAGE conference room +
 1230-1330 Lunch +
 1330-1430 BOF: +
-link:{{'/calconnect23.shtml#bof1' | relative_url}}[Update vs replacement of calendar and contact data] +
+link:{{'/calconnect23#bof1' | relative_url}}[Update vs replacement of calendar and contact data] +
 1430-1530 Testing +
 1530-1600 Break +
 1600-1800 Testing
@@ -130,7 +130,7 @@ Los Gatos, CA_
 1000-1030 Break +
 1030-1230 Testing +
 1230-1330 Lunch and BOF +
-link:{{'/calconnect23.shtml#bof2' | relative_url}}[Auto-discovery and account provisioning] +
+link:{{'/calconnect23#bof2' | relative_url}}[Auto-discovery and account provisioning] +
 1330-1530 Testing +
 1530-1600 Break +
 1600-1800 Testing

@@ -10,7 +10,7 @@ image: /assets/images/Philadelphia.jpg
 == CalConnect XLVI - October 7-11, 2019
 
 [[intro]]
-image:{{'/assets/images/Philadelphia.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Philadelphia,width=700,height=394]
+image:{{'/assets/images/Philadelphia.jpg' | relative_url }}[width=700,height=394]
 
 CalConnect XLVI in Philadelphia, Pennsylvania, hosted by FastMail
 
@@ -106,16 +106,16 @@ Philadelphia has a variety of hotels, hostels, etc. at different price points, a
 
 === CALCONNECT XLVI PHILADELPHIA
 
-_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
 
 [cols="1,9"]
 |===
 2+| *Monday 7 October 2019*
 
 | 0830-0900 | Coffee and Tea
-| 0900-0930 
+| 0900-0930
 a| Conference Opening +
-_Welcome, logistics, introductions, review of schedule for week_ 
+_Welcome, logistics, introductions, review of schedule for week_
 
 | 0930-1000
 a| Reports on CalConnect Activities +
@@ -132,21 +132,21 @@ _Optional if we have requests for specific tutorials_
 
 | 1100-1230
 a| Working Sessions and Testing +
-_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._ 
+_CalDAV Tester, DevGuide, Joint Testing, ad hoc suggestions._
 
 | 1130-1230
 a| Introduction to CalConnect Q&A (if needed) +
-_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._ 
+_An optional session for first-time attendees. The genesis of CalConnect, a brief history, how CalConnect works, followed by questions._
 
 | 1230-1330 | Lunch
 | 1330-1400 | Host Session (FastMail)
 | 1400-1430
 a| Update on Privacy by Design and ISO/PC 317 +
-_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the work status of the ISO PC. the recent meeting and work status of the ISO PC. We will develop our response to ISO for the October meeting._ 
+_This specification may have as much impact on development and design as GDPR. This session will bring us up to date on the work status of the ISO PC. the recent meeting and work status of the ISO PC. We will develop our response to ISO for the October meeting._
 
 | 1430-1530
 a| CalConnect Specifications at the IETF +
-_Review of CalConnect drafts at the IETF, current status. Prep for Joint Working Group session with IETF CALEXT on Wednesday 1100-1230. https://datatracker.ietf.org/wg/calext/documents/_ 
+_Review of CalConnect drafts at the IETF, current status. Prep for Joint Working Group session with IETF CALEXT on Wednesday 1100-1230. https://datatracker.ietf.org/wg/calext/documents/_
 
 | 1530-1600 | Break and refreshments
 | 1600-1630
@@ -154,7 +154,7 @@ a| Time Zone Workshop Directions +
 _Status of EU Proposal to eliminate summer time; update since workshop and last CalConnect meeting; next steps for CalConnect_
 
 | 1630-1730 | BOFS (TBD)
-| 1800-2000 | Welcome Reception _TBD_ 
+| 1800-2000 | Welcome Reception _TBD_
 2+| *Tuesday 8 October 2019*
 | 0830-0900 | Coffee and Tea
 | 0900-0945
@@ -214,7 +214,7 @@ _This will be a virtual session with CALEXT WG participants and will be conducte
 | 1230-1330 | Lunch
 | 1330-1430
 a| JSCalendar Extensions (VPOLL, Event Publication, VAVAILABILITY, etc.) +
-_Discussion of new functionality to be integrated into JSCalendar._  
+_Discussion of new functionality to be integrated into JSCalendar._
 
 | 1430-1500
 a| Server-Side Subscriptions +
@@ -227,13 +227,13 @@ _Discuss a mechanism for "upgrading" communication between an organizers calen
 | 1530-1600 | Break and Refreshments
 | 1600-1630
 a| CalConnect Standards Activities and Liaisons +
-_Update on CalConnect standards activities and liaisons with external SDOs.https://www.calconnect.org/about/liaisons-and-relationships_ 
+_Update on CalConnect standards activities and liaisons with external SDOs.https://www.calconnect.org/about/liaisons-and-relationships_
 
 | 1630-1730
 a| Integrating Liaison Activities into CalConnect +
 _How can we inform CalConnect of liaison activities and integrate into ongoing work of TCs (and vice versa). Develop a clearer idea of where ISO-related work stands with respect to internal work and to JSCalendar/JSContacts._
 
-| 1915-2130 | Conference Dinner _TBD_ 
+| 1915-2130 | Conference Dinner _TBD_
 2+| *Thursday 10 October 2019*
 | 0830-0900 | Coffee and Tea
 | 0900-1030
@@ -266,7 +266,7 @@ _Discussion of topics before new TC on internationalization/localization issues_
 | 1645-1700 | Technical Committee Directions for period to CalConnect XLVI
 | 1700-1730
 a| CalConnect Plenary Session +
-_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._ 
+_Administrative business, coming events, consensus agreements on decisions reached during the week, open floor._
 
 | 1730 | Close of CalConnect XLVI
 2+| *Friday 11 October 2019*

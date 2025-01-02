@@ -97,7 +97,7 @@ a| *Fractional date/time in iCalendar and JSCalendar*
 | 1100-1200
 a| *Avoiding pitfalls with DMARC and iMIP*
 
-_Some clients have known problems handling DMARC and iMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these prolems.
+_Some clients have known problems handling DMARC and iMIP. For example, forwarding of invitations and sending on behalf of another user. We will suggest guidelines on how to avoid these prolems.
 
 | 1200-1245
 a| *TC-CALENDAR REVIEW* +
