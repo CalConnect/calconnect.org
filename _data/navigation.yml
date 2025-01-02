@@ -13,35 +13,35 @@ about:
         url: /about/technical-committees
         subsubfolderitems:
           - page: TCC Technical Coordination Committee
-            url: /about/technical-committees/tcc/
+            url: /about/technical-committees/tcc
           - page: TC-API
-            url: /about/technical-committees/tc-api/
+            url: /about/technical-committees/tc-api
           - page: TC-AUTODISCOVERY
-            url: /about/technical-committees/tc-autodiscovery/
+            url: /about/technical-committees/tc-autodiscovery
           - page: TC-CALENDAR
-            url: /about/technical-committees/tc-calendar/
+            url: /about/technical-committees/tc-calendar
           - page: TC-CALSPAM
-            url: /about/technical-committees/tc-calspam/
+            url: /about/technical-committees/tc-calspam
           - page: TC-CLIENT
-            url: /about/technical-committees/tc-client/
+            url: /about/technical-committees/tc-client
           - page: TC-DATETIME
-            url: /about/technical-committees/tc-datetime/
+            url: /about/technical-committees/tc-datetime
           - page: TC-DEVGUIDE
-            url: /about/technical-committees/tc-devguide/
+            url: /about/technical-committees/tc-devguide
           - page: TC-LOCALIZATION
-            url: /about/technical-committees/tc-localization/
+            url: /about/technical-committees/tc-localization
           - page: TC-PUBLISH
-            url: /about/technical-committees/tc-publish/
+            url: /about/technical-committees/tc-publish
           - page: TC-PUSH
-            url: /about/technical-committees/tc-push/
+            url: /about/technical-committees/tc-push
           - page: TC-SHARING
-            url: /about/technical-committees/tc-sharing/
-          - page: TC-STREAMING
-            url: /about/technical-committees/tc-streaming/
+            url: /about/technical-committees/tc-sharing
+          # - page: TC-STREAMING
+          #   url: /about/technical-committees/tc-streaming
           - page: TC-TESTER
-            url: /about/technical-committees/tc-tester/
+            url: /about/technical-committees/tc-tester
           - page: TC-VCARD
-            url: /about/technical-committees/tc-vcard/
+            url: /about/technical-committees/tc-vcard
           - page: Closed TCs
             url: /about/technical-committees/closed-tcs
       - page: Major Work Projects
