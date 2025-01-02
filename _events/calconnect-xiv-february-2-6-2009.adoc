@@ -22,7 +22,7 @@ _Schedule Change Updates, Dinner Locations_
 CalConnect XIV, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable (Members Meeting), will be held in Redmond, Washington, Monday-Friday, February 2-6, 2009, hosted by https://web.archive.org/web/20090126053702/http://www.microsoft.com/[Microsoft]. +
 The IOP Testing will take place all day Monday and Tuesday February 2-3, and Wednesday morning, ending at noon on Wednesday February 4th. The Roundtable will begin with lunch at 12:30 on Wednesday the 4th, and last through early afternoon Friday the 6th. An optional Introductory Q & A about CalConnect, intended for first-time attendees, is scheduled at 11:00 on Wednesday the 4th.
 
-*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers]; please see https://web.archive.org/web/20090126053702/link:{{'/iop0902.shtml' | relative_url}}[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
+*CalConnect Interoperability Test Event*: The IOP Test Event event is open to both members and non-members as participants or as https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers]; please see https://web.archive.org/web/20090126053702/link:{{'/iop0902' | relative_url}}[IOP Test Event February 2009] for current information. Check back often as this will be updated as we get nearer to the event. +
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions. +
 _*Please Note:* This is a regular IOP test event focused on calendaring servers and desktop clients. The next Mobile Calendaring IOP Test Event has not been scheduled but will take place later in 2009._ +
 *Roundtable XIV:* The Roundtable Members Meeting will feature a presentation by Ben Fortuna, the author of https://web.archive.org/web/20090126053702/http://ical4j.sourceforge.net/[iCal4j], and CalConnect's 2009 Guest Speaker. Additionally, the Roundtable will as usual offer Technical Committee sessions, to which all members and https://web.archive.org/web/20090126053702/link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. +
@@ -48,7 +48,7 @@ Please part in a marked Visitor Parking space. You will need to complete a parki
 == Transportation
 
 *Airport Information:* The Seattle Area is served by https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/[Sea-Tac International Airport]. Microsoft is approximately 25 miles northeast of the airport in Redmond, Washington. +
-*Ground Transportation:* Information on rental cars and shuttles is available at https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/ground/index.shtml[Sea-Tac Ground Transportation].
+*Ground Transportation:* Information on rental cars and shuttles is available at https://web.archive.org/web/20090126053702/http://www.portseattle.org/seatac/ground/index[Sea-Tac Ground Transportation].
 
 [[lodging]]
 == Lodging

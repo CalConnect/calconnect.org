@@ -29,7 +29,7 @@ The Interoperability Test Events will take place in parallel all day Monday and 
 
 *CalConnect Interoperability Test Events*: At this meeting, we will host both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel).
 
-The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1102.shtml' | relative_url}}[CalConnect Interoperability Test Event February 2011] or link:{{'/miop1102.shtml' | relative_url}}[Mobile Calendaring Interoperability Test Event February 2011] for current information. Check back often as this will be updated as more information becomes available.
+The IOP Test Events are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1102' | relative_url}}[CalConnect Interoperability Test Event February 2011] or link:{{'/miop1102' | relative_url}}[Mobile Calendaring Interoperability Test Event February 2011] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 

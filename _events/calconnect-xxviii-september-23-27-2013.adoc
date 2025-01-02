@@ -32,7 +32,7 @@ We are planning to offer Workshops on *Calendaring and Travel Itineraries* and *
 
 *CalConnect Interoperability Test Event*: At this meeting, we expect both regular interoperability testing and mobile device testing against remote servers. A participating organization may register for either or both for a single registration fee, but should be aware that they may require additional individuals to participate in both activities.
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1309.shtml' | relative_url}}[CalConnect Interoperability Test Event September 2013] for current information. Check back often as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1309' | relative_url}}[CalConnect Interoperability Test Event September 2013] for current information. Check back often as this will be updated as more information becomes available.
 
 _Please Note: You do not need finished or polished code to participate in the Interoperability testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 

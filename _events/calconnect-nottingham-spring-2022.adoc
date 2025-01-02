@@ -101,7 +101,7 @@ Rental Cars and Taxis: All airports have rental car facilities and taxis availab
 [[lodging]]
 == Lodging
 
-At this time, the conference hotel is the https://all.accor.com/hotel/8061/index.en.shtml[Mercure Nottingham City Centre George Hotel], 2 George Street, Nottingham NG1 3BP United Kingdom Tel: +441159853600, Fax: (+44)115/9599777, There is no corporate rate, so book directly with the hotel via the webite. This hotel has a restaurant and bar.
+At this time, the conference hotel is the https://all.accor.com/hotel/8061/index.en[Mercure Nottingham City Centre George Hotel], 2 George Street, Nottingham NG1 3BP United Kingdom Tel: +441159853600, Fax: (+44)115/9599777, There is no corporate rate, so book directly with the hotel via the webite. This hotel has a restaurant and bar.
 
 One alternative is the https://www3.hilton.com/en/hotels/united-kingdom/hilton-nottingham-EMANOHN/index.html[Nottingham Hilton], Milton Street, Nottingham, NG1 3PZ, United Kingdom TEL: +44-115-934-9700 FAX: +44-115-934-9711. There is no corporate rate, so book directly with the hotel via the website.
 
@@ -114,7 +114,7 @@ There are a variety of other hotels iin the same area.
 
 === CalConnect Nottingham 2022
 
-_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
 
 All times shown are UK local time
 

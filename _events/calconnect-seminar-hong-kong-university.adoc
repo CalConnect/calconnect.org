@@ -23,7 +23,7 @@ University of Hong Kong, K.K. Leung Building, Room KK102
 === Introduction
 
 [[intro]]
-image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/hku-academic-event,width=800,height=598]
+image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[width=800,height=598]
 
 CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong Kong for our first members conference to be held in the Asia/Pacific Region.
 
@@ -63,7 +63,7 @@ CalConnect wishes to recognize, and to thank, our hosts, sponsors, and
 supporting organizations, who are collaborating with us on CalConnect XXXVI, our
 first event in the Asia /Pacific region.
 
-image::/sites/default/files/media/sponsor-logos3.png[]
+image::/assets/images/sponsor-logos3.png[""]
 
 ==== Hosts
 

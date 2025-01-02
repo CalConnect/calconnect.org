@@ -28,7 +28,7 @@ The Interoperability Test Event will take place all day Monday and Tuesday Octob
 
 *CalConnect Interoperability Test Event*: At this meeting, we hope to offer both a regular CalConnect Interoperability Test Event and a Mobile Calendaring Interoperability Test Event, which will be combined into a single physical event. A participating organization may register for either or both events for a single registration fee, but should be aware that they may require additional individuals to participate in both events (they will take place in parallel).
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1110.shtml' | relative_url}}[CalConnect Interoperability Test Event October 2011] for current information. Check back periodically as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1110' | relative_url}}[CalConnect Interoperability Test Event October 2011] for current information. Check back periodically as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -54,7 +54,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 [[location]]
 == Location
 
-The venue for CalConnect week will be the Conference Hotel, http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Our event will take place in the *Majestic II Room*. The Interoperability Test Event (Monday, Tuesday, and Wednesday until noon), and the Roundtable, including the Thursday and Friday symposia and workshops, will take place there; the Wednesday reception will also be in the hotel. Monday and Thursday dinners will be off site. See link:{{'/calconnect22.shtml#hotel' | relative_url}}[Conference Hotel] for more information about the hotel.
+The venue for CalConnect week will be the Conference Hotel, http://www.hotel-majestic.cz/en/index[Hotel Majestic Plaza], Step¡nsk¡ 33, 110 00 Prague 1. Our event will take place in the *Majestic II Room*. The Interoperability Test Event (Monday, Tuesday, and Wednesday until noon), and the Roundtable, including the Thursday and Friday symposia and workshops, will take place there; the Wednesday reception will also be in the hotel. Monday and Thursday dinners will be off site. See link:{{'/calconnect22#hotel' | relative_url}}[Conference Hotel] for more information about the hotel.
 
 For a map of Prague showing the location of the Conference Hotel and venue, and Kerio's offices in Prague, see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=214983185398130768599.0004a41d0c26516d67a20&ll=50.076257,14.425049&spn=0.012311,0.035148&z=15[].
 

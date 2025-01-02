@@ -21,7 +21,7 @@ Tuesday, February 05, 2019
 
 The Public Time Zone Workshop will be Tuesday February 5th from 13:30 to 17:30 at the Google facility at Lagerstrasse 100, Meeting Room "Heidi", 2nd floor..
 
-This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url}}[news release].
+This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our link:{{'/news/2018-10-30-calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url}}[news release].
 
 The workshop is *open to the public* but you *must register in advance* as space will be limited. There is *no fee* to attend the workshop.
 

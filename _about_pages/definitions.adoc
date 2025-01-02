@@ -62,7 +62,7 @@ CalConnect Conferences are where link:#PC[Provisional Committees] report on
 their findings and where link:#TC[Technical Committees] report on their work,
 hold discussions and resolve outstanding issues. Conferences also provide an
 opportunity to foster new work and ideas through BOFs and Workshops, and a
-general plenary session. See link:{{'/conferences' | relative_url }}[CalConnect Conferences] for more
+general plenary session. See link:{{'/events/conferences' | relative_url }}[CalConnect Conferences] for more
 information.
 
 [#Consortium]
@@ -93,7 +93,7 @@ the member when necessary.
 
 == Observer
 
-An link:{{'/events/events-activities/observers' | relative_url }}[Observer] is an individual
+An link:{{'/events/observers' | relative_url }}[Observer] is an individual
 from a non-member who is attending a link:#Conference[CalConnect
 Conference] to determine whether or not his or her organization should
 become a link:#Member[member]. An organization may send one or more

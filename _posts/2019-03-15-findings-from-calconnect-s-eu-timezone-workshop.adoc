@@ -24,7 +24,7 @@ Updates to timezone information are commonly distrubted by copying timezone data
 
 Given the lack of structured formats and rigorous propagation mechanisms, much of the work in tracking changes and additions is a volunteer effort. These issues led to the development of the Time Zone Data Distribution Standard (https://tools.ietf.org/rfc/rfc7808.txt[RFC 7808]) and Time Zone Information Format (https://tools.ietf.org/rfc/rfc8536.txt[RFC 8536]) standards. However, these standards have yet to be meaningfully adopted.
 
-In a previous link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[statement released 2018-10-30], CalConnect urges the EU to provide a transition period of at least one year (12 months) following a final decision. This guidance draws upon CalConnect's extensive work during the United States debate of 2005-2008 regarding changes to the Daylight Saving Time start and end dates, and the lessons learned from that transition.
+In a previous link:{{'/news/2018-10-30-calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url }}[statement released 2018-10-30], CalConnect urges the EU to provide a transition period of at least one year (12 months) following a final decision. This guidance draws upon CalConnect's extensive work during the United States debate of 2005-2008 regarding changes to the Daylight Saving Time start and end dates, and the lessons learned from that transition.
 
 A complete account of CalConnect's 2019 meeting in Zurich is available at https://standards.calconnect.org/csd/csd-report-conference-44.html[standards.calconnect.org].
 

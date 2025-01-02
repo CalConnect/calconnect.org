@@ -114,4 +114,4 @@ OASIS WS-Calendar Technical Committee +
 http://www.oasis-open.org/committees/ws-calendar/
 
 CalConnect XML Technical Committee +
-http://www.calconnect.org/tc-xml.shtml
+http://www.calconnect.org/tc-xml

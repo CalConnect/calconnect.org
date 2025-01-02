@@ -88,7 +88,7 @@ help you sell yourself. Take a look at CalConnect, especially:
 
 * Our link:{{'/membership' | relative_url }}[membership]
 * Our link:{{'/about/goals' | relative_url }}[mission]
-* Our link:{{'/major-work-projects' | relative_url }}[work products]
+* Our link:{{'/about/major-work-projects' | relative_url }}[work products]
 * Our link:{{'/about/policies' | relative_url }}[policies]
 * Our link:{{'/about/liaisons-and-relationships' | relative_url }}[partnerships]
 * Our link:{{'/events/events-activities' | relative_url }}[activities]

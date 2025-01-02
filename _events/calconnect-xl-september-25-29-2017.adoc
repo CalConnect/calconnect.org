@@ -55,20 +55,20 @@ Registration is now open for CalConnect XL; please see https://www.calconnect.or
 [[location]]
 == Location
 
-The Developers Forum/Test Event (September 25-27) and the Conference (September 27-29) will be held at http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 K¶ln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park]. The meeting facility is only about 100 meters from the conference hotel, the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln.
+The Developers Forum/Test Event (September 25-27) and the Conference (September 27-29) will be held at http://www.komed-veranstaltungen.de/index.php?id=1[Komed House], Im Mediapark 7, 50670 Köln, a conference facility in the https://www.google.de/maps/place/Mediapark/@50.9480442,6.9440104,18.46z/data=!4m5!3m4!1s0x47bf25097f92f00f:0xd19dcc546dd1f3d2!8m2!3d50.9479402!4d6.9443952?hl=de[Cologne Media Park]. The meeting facility is only about 100 meters from the conference hotel, the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am Kümpchenshof 2, 50670 Köln.
 
 There will be signage at Komed House to direct you to the CalConnect meeting room.
 
-The Wednesday Evening reception will be at Open-Xchange, Hohenzollernring 72, 50672 K¶ln, 16th Floor. You will have to check in with the receptionist on the ground floor; tell them you are with CalConnect and visiting Open-Xchange to be allowed access to the elevators.
+The Wednesday Evening reception will be at Open-Xchange, Hohenzollernring 72, 50672 Köln, 16th Floor. You will have to check in with the receptionist on the ground floor; tell them you are with CalConnect and visiting Open-Xchange to be allowed access to the elevators.
 
 [[transportation]]
 == Transportation
 
-*Airport Information:* Cologne is served by the http://www.cologne-airport.com/[Cologne-Bonn International Airport (CGN)]. The airport is relatively small but offers connections through several other airports. Distance to the venue and conference hotel is approximately 15km, 40â¬ by taxi or 3â¬ by Train.
+*Airport Information:* Cologne is served by the http://www.cologne-airport.com/[Cologne-Bonn International Airport (CGN)]. The airport is relatively small but offers connections through several other airports. Distance to the venue and conference hotel is approximately 15km, 40€ by taxi or 3€ by Train.
 
-For transport from the Cologne-Bonn International Airport to the Media Park by train, there are two lines of the "S-Bahn" that operate frequently: S13 (towards Sindorf), and S19 (towards D»ren). For either train, exit at station "Hansaring", then head south-west on the Hansaring (about 500 meters) and turn right into AmK¼mpchenshof. Motel One and the Media Park are straight ahead.
+For transport from the Cologne-Bonn International Airport to the Media Park by train, there are two lines of the "S-Bahn" that operate frequently: S13 (towards Sindorf), and S19 (towards D»ren). For either train, exit at station "Hansaring", then head south-west on the Hansaring (about 500 meters) and turn right into AmKümpchenshof. Motel One and the Media Park are straight ahead.
 
-For intercontinental travelers, Frankfurt (FRA) or D¼sseldorf (DUS) are likely to be more convenient, and both offer train service to Cologne on at least an hourly basis. Price is well under 50â¬ if booked in advance; Frankfurt-Cologne might cost 100â¬ if booked at the train station. If you have your flight scheduled you are welcome to contact our hosts to help find the best and least expensive connection.
+For intercontinental travelers, Frankfurt (FRA) or Düsseldorf (DUS) are likely to be more convenient, and both offer train service to Cologne on at least an hourly basis. Price is well under 50€ if booked in advance; Frankfurt-Cologne might cost 100€ if booked at the train station. If you have your flight scheduled you are welcome to contact our hosts to help find the best and least expensive connection.
 
 From the Cologne Bahnhof, you can take the "S-Bahn" to "Hansaring". Several lines serve this connection (S6, S11, S12, S13, S19), just one stop. Taxi might be more convenient with luggage, should just be a couple euros.
 
@@ -85,9 +85,10 @@ From the Cologne Bahnhof, you can take the "S-Bahn" to "Hansaring". Several line
 [[lodging]]
 == Lodging
 
-Our conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am K¼mpchenshof 2, 50670 K¶ln, about 100m from the meeting venue. We have a room block for meeting participants available between 23 September and 30 September at a rate of 69â¬ per night for a single room and 84â¬ per night for a double room. Note that breakfast will be an extra 9.50â¬. Cancellation policy is 1800 on the day of arrival.
+Our conference hotel is the https://www.motel-one.com/en/hotels/cologne/koeln-mediapark/[Motel One Media Park], Am Kümpchenshof 2, 50670 Köln, about 100m from the meeting venue. We have a room block for meeting participants available between 23 September and 30 September at a rate of 69€ per night for a single room and 84€ per night for a double room. Note that breakfast will be an extra 9.50€. Cancellation policy is 1800 on the day of arrival.
 
-*URGENT: Please be aware that the room block will close on August 12 2017*. *The entire city will be very much occupied during the time of our conference as it is the Expo High Season and it is very possible the only hotel rooms available wil be our blocked rooms in the MotelOne.Â Our hosts adivse us that trying to find any other accommodation after our block period ends will be extremely difficult.Â*
+*URGENT: Please be aware that the room block will close on August 12 2017*.
+*The entire city will be very much occupied during the time of our conference as it is the Expo High Season and it is very possible the only hotel rooms available wil be our blocked rooms in the MotelOne. Our hosts adivse us that trying to find any other accommodation after our block period ends will be extremely difficult.*
 
 The reservation code is "CalConnect"; please mention this when booking by telephone at +49 221 270 7510, or by e-mail at mailto:koeln-mediapark@motel-one.com?subject=Reservation%20for%20CalConnect%20room%20block[koeln-mediapark@motel-one.com].
 
@@ -95,7 +96,7 @@ If you e-mail them be sure and provide your full name, address, nationality, and
 
 (For those who attended the Autumn 2015 meeting in Amsterdam, the conference hotel in Amsterdam was a member of the same hotel chain.)
 
-Another higher rated hotel is the Hotel NH Collection K¶ln, about 50m to the venue: https://www.nh-hotels.de/hotel/nh-collection-koeln-mediapark[]. We do not have any room block or special rate with this hotel. There are other hotels in the area as well; see https://www.google.de/maps/search/Hotel/@50.946918,6.9404958,16.57z/am=t?hl=de[].
+Another higher rated hotel is the Hotel NH Collection Köln, about 50m to the venue: https://www.nh-hotels.de/hotel/nh-collection-koeln-mediapark[]. We do not have any room block or special rate with this hotel. There are other hotels in the area as well; see https://www.google.de/maps/search/Hotel/@50.946918,6.9404958,16.57z/am=t?hl=de[].
 
 *PLEASE NOTE:* Cologne will collect a 5% surcharge on your hotel bill unless you download and complete this form and give it to the hotel when you check in:
 
@@ -242,7 +243,7 @@ Final determination of what will be tested will depend on what the participants 
 ** vCard 4
 
 == Who May Participate or Observe
-Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to https://www.calconnect.org/events/events-activities/observers[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
+Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url }}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
 == Registration
 Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
@@ -380,4 +381,4 @@ a| CalConnect Plenary Meeting +
 
 |===
 
-*Please see the Reading List for at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List] The list contains URLs for all standards, drafts and specifications to be discussed*
+*Please see the Reading List for at link:{{'/resources/event-reading-list' | relative_url }}[Event Reading List] The list contains URLs for all standards, drafts and specifications to be discussed*

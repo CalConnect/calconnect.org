@@ -14,13 +14,13 @@ The Articles of Incorporation of The Calendaring and Scheduling Consortium, inco
 
 == Bylaws
 
-Details: link:{{'/docs/corporate/TCSC%20Bylaws%20Revision%209%202020-02-21.pdf' | relative_url }}[Bylaws]
+Details: link:{{'/docs/corporate/TCSC Bylaws Revision 9 2020-02-21.pdf' | relative_url }}[Bylaws]
 
 The Bylaws of The Calendaring and Scheduling Consortium, adopted February 27, 2004; amended May 16, 2005, April 4, 2008, July 25, 2008, July 9, 2010, April 11, 2014, August 8, 2014, April 14, 2017, November 15, 2019, and February 21, 2020.
 
 == Intellectual property rights policy
 
-Details: link:{{'/about/policies/ipr-policy' | relative_url }}[Intellectual Property Rights Policy]
+Details: link:{{'/about/policies/intellectual-property-rights-policy' | relative_url }}[Intellectual Property Rights Policy]
 
 Intellectual Property Rights policy.
 

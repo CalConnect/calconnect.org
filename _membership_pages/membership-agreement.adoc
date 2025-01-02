@@ -20,12 +20,14 @@ governing and process documents as are adopted by the Consortium.
 assessed unless we terminate our membership or the Consortium disbands.
 
 . We agree to familiarize our representatives with the Consortium
-link:{{'/code-conduct' | relative_url }}[Code of Conduct], ensure that our representatives in
-Consortium activities behave in a collegial and professional fashion in
-accordance with the Consortium Code of Conduct, and agree to remove or
-replace offending individuals if their conduct makes it necessary.
+link:{{'/membership/code-conduct' | relative_url }}[Code of Conduct], ensure
+that our representatives in Consortium activities behave in a collegial and
+professional fashion in accordance with the Consortium Code of Conduct, and
+agree to remove or replace offending individuals if their conduct makes it
+necessary.
 
-Also note Policy link:{{'/policies#0803' | relative_url }}[0803 Membership Fees and Renewals]
+Also note Policy
+link:{{'/about/policies' | relative_url }}[0803 Membership Fees and Renewals]
 pertaining to the due dates for membership
 fees and renewals and actions taken by the Consortium upon extended
 non-payment of such fees.

@@ -10,7 +10,7 @@ image: /assets/images/Zurich_0.jpg
 == CalConnect XLIV - February 4-8, 2019
 
 [[intro]]
-image:{{'/assets/images/Zurich_0.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/events/Zurich_0,width=800,height=500]
+image:{{'/assets/images/Zurich_0.jpg' | relative_url }}[width=800,height=500]
 
 CalConnect XLIV in Zurich, Switzerland, hosted by Google
 
@@ -30,7 +30,7 @@ Recent Changes:
 
 19 Dec 2018 First Draft of Conference Schedule and Sessions added
 
-27 Nov 2018 Additional Hotel (Hotel Z¼ri) added to Lodging section.
+27 Nov 2018 Additional Hotel (Hotel Züri) added to Lodging section.
 
 22 Nov 2018 Meeting location updated to include street address.
 
@@ -38,7 +38,7 @@ CalConnect XLIV will be held in Zurich, Switzerland, the week of February 4-8 20
 
 *CalConnect Public Codefest:* *Monday February 4th* will be an all day (0900-1730) Open Codefest / Hackathon taking place at the Google facility. This event is open to the public but you *must* register in advance. Note that catering will *not* be provided. There is *no fee* for the Codefest. You may register for this event at https://www.eventbrite.com/e/calendar-and-scheduling-developer-day-zurich-tickets-51512514317[]. CalConnect conference attendees **must register separatel**y to attend the Codefest.
 
-*CalConnect Public Time Zone Workshop:* The Time Zone Workshop will be *Tuesday February 5th* from 13:30 to 17:30 at the Google facility. This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our link:{{'/news/2018/10/30/calconnect-calls-eu-reconsider-timeline-proposed-seasonal-time-changes' | relative_url}}[news release]. The workshop is open to the public but you *must* register in advance. There is no fee to attend the workshop. Attendees are invited to stay for a Welcome Reception following the workshop. More information will be provided as planning continues. Please register for this event at https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[]. CalConnect conference attendees *are requested to register* for this workshop via the eventbrite link in addition to registering for the conference itself (see below).
+*CalConnect Public Time Zone Workshop:* The Time Zone Workshop will be *Tuesday February 5th* from 13:30 to 17:30 at the Google facility. This workshop will be focussed on the potential impact of EU Summer Time changes and how the changes might be mitigated; please see our link:{{'/news/2018-10-30-calconnect-calls-on-eu-to-reconsider-timeline-for-proposed-seasonal-time-changes' | relative_url}}[news release]. The workshop is open to the public but you *must* register in advance. There is no fee to attend the workshop. Attendees are invited to stay for a Welcome Reception following the workshop. More information will be provided as planning continues. Please register for this event at https://www.eventbrite.com/e/eu-dst-timezone-change-public-workshop-tickets-51513763052[]. CalConnect conference attendees *are requested to register* for this workshop via the eventbrite link in addition to registering for the conference itself (see below).
 
 *CalConnect XLIV Conference:* The conference will be *Tuesday-Friday February 5-8* at the Google facility. This event will be organized in our new conference format and brings together, as a single event and with a single fee, our traditional conference and technical sessions. Note that the "track" organization at the September 2018 event will not be used; we will organize sessions for best fit and relevance. Additional changes to the structure and format will be made in accordance with feedback from the previous "one time" event in Karlsruhe. CalConnect XLIV is open to members, and to non-members as observers. You must register in advance and pay the registration fee for the conference. Please register for the confernce at link:{{'/events/event-registration-payment' | relative_url }}[Event Registration].
 
@@ -106,7 +106,7 @@ Zurich 8001 Switzerland +
 For early February 2019, a room with breakfast for Sunday through Friday is about 246 CHF inclusive per night
 
 About a mile from the venue on the far side of the central train station (tram service is available): +
-https://byfassbind.com/hotel/zuri/[Hotel Z¼ri by Fassbind] +
+https://byfassbind.com/hotel/zuri/[Hotel Züri by Fassbind] +
 Heinrichstrasse 254 +
 Zurich 8005, Switzerland +
 +41 44 44 8 18 18 +

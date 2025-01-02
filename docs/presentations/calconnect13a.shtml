@@ -38,20 +38,20 @@
 <table width="85%" border="0">
   <tr>
     <td valign="top">
-	  <a href="calconnect13.shtml#introduction">Introduction</a><br>
-	  <a href="calconnect13.shtml#registration">Registration</a><br>
-	  <a href="calconnect13.shtml#location">Location</a><br>
+	  <a href="calconnect13#introduction">Introduction</a><br>
+	  <a href="calconnect13#registration">Registration</a><br>
+	  <a href="calconnect13#location">Location</a><br>
 	</td>
 	<td valign="top">
-	  <a href="calconnect13.shtml#transportation">Transportation</a><br>
-	  <a href="calconnect13.shtml#hotel">Conference Hotel</a><br>
+	  <a href="calconnect13#transportation">Transportation</a><br>
+	  <a href="calconnect13#hotel">Conference Hotel</a><br>
     </td>
 	<td valign="top">
-	  <a href="calconnect13.shtml#schedule">Schedule for week</a><br>
+	  <a href="calconnect13#schedule">Schedule for week</a><br>
 <!--	  
 	  <a href="CalConnectXIII.ics">Downloadable Schedule .ics file</a><br>	
 -->	  	  
-	  <a href="calconnect13.shtml#agendas">Roundtable Sessions Topical Agendas</a><br>  
+	  <a href="calconnect13#agendas">Roundtable Sessions Topical Agendas</a><br>  
   
 	</td>
   </tr>
@@ -81,8 +81,8 @@ Wednesday the 8th.
 <b>CalConnect Interoperability Test Event</b>:
 
 The IOP Test Event event is open to both members and non-members as
-participants or as <a href="observer.shtml">observers</a>; please
-see <a href="iop0810.shtml">IOP Test Event October 2008</a> for current information.  Check
+participants or as <a href="observer">observers</a>; please
+see <a href="iop0810">IOP Test Event October 2008</a> for current information.  Check
 back often as this will be updated as we get nearer to the event.
 <br><br>
 You do <u>not</u> need finished or polished code to participate
@@ -91,12 +91,12 @@ against other participants can help debugging and code development,
 especially in identifying red herrings and wrong decisions.
 <br><br>
 <i><b>Please Note:</b> This is a regular IOP test event focused on calendaring servers
-and desktop clients.  Please see <a href="miop0811.shtml">Mobile IOP Test Event 
+and desktop clients.  Please see <a href="miop0811">Mobile IOP Test Event 
 November 4-6 2008</a> for more information about the next Mobile IOP Test Event.</i>
 <br><br> 
 <b>Roundtable XIII:</b>
 The Roundtable Members Meeting will as usual offer Technical Committee sessions, 
-to which all members and <a href="observer.shtml">observers</a> are welcome, informal
+to which all members and <a href="observer">observers</a> are welcome, informal
 BOFs (Birds of a Feather sessions), plus additional sessions and committee 
 meetings. A Technical Preview of current work is also planned; see below.
 <br><br> 
@@ -115,18 +115,18 @@ for the Consortium.
 <h3>Registration:</h3>
 
 <!--
-For member or <a href="observer.shtml">observer</a> individual registration for the Roundtable please go to
-<a href="roundtablereg.shtml">Roundtable XIII Registration</a>.  
+For member or <a href="observer">observer</a> individual registration for the Roundtable please go to
+<a href="roundtablereg">Roundtable XIII Registration</a>.  
 <br><br>
 For Corporate Registration badges please go go 
-<a href="roundtablecorpreg.shtml">Roundtable XIII Corporate Registrations</a>.
+<a href="roundtablecorpreg">Roundtable XIII Corporate Registrations</a>.
 <br><br>
 For member or non-member registration for the IOP test event as a 
 <u>participant</u> please go to 
-<a href="iopregparticipant.shtml">IOP Test Event Participant Registration</a>.
+<a href="iopregparticipant">IOP Test Event Participant Registration</a>.
 For member or non-member registration for the Iop test event as an
 <u>observer</u> please go to 
-<a href="iopregobserver.shtml">IOP Test Observer Registration</a>.
+<a href="iopregobserver">IOP Test Observer Registration</a>.
 <br><br>
 <b>You must register separately for the Roundtable and for the IOP Test
 Event if you plan to do both</b>.
@@ -136,7 +136,7 @@ Event if you plan to do both</b>.
 
 -->
 
-Please go to <a href="regtypes.shtml">Registration and Payment Options</a> to choose
+Please go to <a href="regtypes">Registration and Payment Options</a> to choose
 your registration type and payment option for both the Roundtable and the CalConnect
 Interoperability Test Event.
 <br><br>

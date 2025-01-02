@@ -10,7 +10,7 @@ image: /assets/images/CalConnectEventTBD.jpg
 == CalConnect Virtual Conference 2020
 
 [[intro]]
-image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[https://www.calconnect.org/sites/default/files/default_images/CalConnectEventTBD,width=800,height=530]
+image:{{'/assets/images/CalConnectEventTBD.jpg' | relative_url }}[width=800,height=530]
 
 CalConnect Virtual Conference October 12-15 2020
 

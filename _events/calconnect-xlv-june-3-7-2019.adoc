@@ -125,7 +125,7 @@ Alternative hotels nearby are the http://www.bedfordswanhotel.co.uk/[Swan Hote]l
 
 === CALCONNECT XLV
 
-_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
+_This schedule will be updated as new information and new sessions are added.  Please check periodically for changes and additions. The event calendar will be activated closer to the event._
 
 [cols="1,9"]
 |===

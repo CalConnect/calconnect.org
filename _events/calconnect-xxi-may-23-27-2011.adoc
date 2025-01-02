@@ -30,7 +30,7 @@ A special *Workshop on Tasks* will be held Wednesday afternoon during the Roundt
 
 *CalConnect Interoperability Test Event*:
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1105.shtml' | relative_url}}[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1105' | relative_url}}[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -44,7 +44,7 @@ Friday afternoon will be the full Plenary meeting of the Consortium, open to all
 
 *Workshop on Tasks*: The workshop will be held Wednesday afternoon from 1330-1530 as part of the Roundtable; however it is open to non-Roundtable attendees by invitation and registration. The goal of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and possibly CalDAV may be needed to support the key features that application developers require. For more information about the Workshop please see http://calconnect.wordpress.com/2011/04/27/calconnect-workshop-on-tasks-may-25-2011/[].
 
-*NASA Ames Research Center Tour*: NASA is offering us a tour of the FutureFlight Centra and Crew-Vehicle Systems Research Facility after the close of the Roundtabler on Friday afternoon. The tour will take about an hour; we will leave from the Conference Center at 1330 and we should be back before 1500. For more information about these simulation simulation labs in the Aviation Systems Division at NASA Ames see: http://www.aviationsystemsdivision.arc.nasa.gov/facilities/index.shtml[].  
+*NASA Ames Research Center Tour*: NASA is offering us a tour of the FutureFlight Centra and Crew-Vehicle Systems Research Facility after the close of the Roundtabler on Friday afternoon. The tour will take about an hour; we will leave from the Conference Center at 1330 and we should be back before 1500. For more information about these simulation simulation labs in the Aviation Systems Division at NASA Ames see: http://www.aviationsystemsdivision.arc.nasa.gov/facilities/index[].  
 
 International Visitors
 
@@ -59,7 +59,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 *Workshop Registration*:
 
-If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see link:{{'/workshopreg.shtml' | relative_url}}[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
+If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see link:{{'/workshopreg' | relative_url}}[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
 
 [[location]]
 == Location

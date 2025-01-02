@@ -43,7 +43,7 @@ _Please Note: You do not need finished or polished code to participate in the In
 
 Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
-*Special Events*: Two workshops will be held during the conference on Thursday and Friday mornings at 0830-1000, on History and Comment Feeds in iCalendar and on Groups Sharing and Scheduling respectively; see link:{{'/calconnect31.shtml#workshops' | relative_url}}[Workshops]. Additional, a demo will be held during the TC FREEBUSY session on Thursday at 1100-1200 of *inter-system consensus scheduling*. The demo will feature multiple clients running on different servers (and implementations) performing consensus scheduling, based on VPOLL, iSCHEDULE, and jCAL.
+*Special Events*: Two workshops will be held during the conference on Thursday and Friday mornings at 0830-1000, on History and Comment Feeds in iCalendar and on Groups Sharing and Scheduling respectively; see link:{{'/calconnect31#workshops' | relative_url}}[Workshops]. Additional, a demo will be held during the TC FREEBUSY session on Thursday at 1100-1200 of *inter-system consensus scheduling*. The demo will feature multiple clients running on different servers (and implementations) performing consensus scheduling, based on VPOLL, iSCHEDULE, and jCAL.
 
 |===
 
@@ -58,7 +58,7 @@ Citizens of the United States, European Union nations, or most Commonwealth nati
 
 Please see link:{{'/events/event-registration-payment' | relative_url}}[Registration and Payment Options] to choose your registration type and payment option for the CalConnect Conference and/or the CalConnect Interoperability Test Event. Note that you must register separately for the Conference and for the Test Event, but you may request a combined invoice. You may register at any time for the next event.
 
-*Special Registration Fees for first-time attendees*: For CalConnect XXXI, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the link:{{'/iopregparticipant.shtml' | relative_url}}[Interoperability Test Event Registration], and $0 on the link:{{'/conferencereg.shtml' | relative_url}}[Conference Registration], for each person being registered.
+*Special Registration Fees for first-time attendees*: For CalConnect XXXI, we are offering a special one-time-only combined registration fee of $600 per participant for the Interoperability Test Event *and* the CalConnect Conference. This rate is only available to first-time-attendees from non-members. You must still execute separate registration forms for the Interoperability Test Event and the Conference but enter $600 as the amount on the link:{{'/iopregparticipant' | relative_url}}[Interoperability Test Event Registration], and $0 on the link:{{'/conferencereg' | relative_url}}[Conference Registration], for each person being registered.
 
 [[location]]
 == Location

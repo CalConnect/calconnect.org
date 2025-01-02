@@ -13,7 +13,7 @@ excerpt: |
 
 *July 2, 2009* +
 *CalConnect _Minutes_ to replace some press releases*: The
-link:{{'/docs/minutes.shtml' | relative_url }}[CalConnect _Minutes_] newsletter,
+link:{{'/docs/minutes' | relative_url }}[CalConnect _Minutes_] newsletter,
 published following each CalConnect event three times a year, includes
 information about CalConnect status and activities, such as new members,
 major initiatives, work status. The newsletter is announced upon
