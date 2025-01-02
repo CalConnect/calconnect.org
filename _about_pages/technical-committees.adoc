@@ -75,7 +75,7 @@ Autodiscovery of services based on internet standard protocols.
 
 Details: link:{{'/about/technical-committees/tc-calendar/' | relative_url}}[TC-CALENDAR Charter]
 
-Improvements and extensions to iCalendar, CalDAV, and iTIP transports, including but not limited to: iCalendardiff/patch, more compact recurrences, extensions to tasks, consensus scheduling, best current practices for iMIP, and iTIP over HTTP (iSchedule).
+Improvements and extensions to iCalendar, CalDAV, and iTIP transports, including but not limited to: iCalendar diff/patch, more compact recurrences, extensions to tasks, consensus scheduling, best current practices for iMIP, and iTIP over HTTP (iSchedule).
 
 === TC-CALSPAM: Calendar spam prevention
 
