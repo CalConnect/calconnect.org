@@ -7,7 +7,7 @@ type: resources
 
 == CalConnect Resources
 
-_Last Updated June 2019_
+_Last Updated Feb 2025_
 
 === Introductory Information
 
