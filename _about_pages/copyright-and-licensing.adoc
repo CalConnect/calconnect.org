@@ -8,7 +8,7 @@ permalink: /about/policies/copyright-and-licensing
 
 = Copyright and Licensing for Published Material
 
-_As of June 2019_
+_As of Feb 2025_
 
 CalConnect℠ is a service mark of The Calendaring and Scheduling
 Consortium, a California Nonprofit Corporation.
@@ -25,7 +25,7 @@ Such code artifacts are published in Github¹
 (https://github.com/CalConnect/CODE-ARTIFACTS).
 
 Style sheets, images, and the CalConnect℠ Service Mark which create the
-CalConnect brand are Copyright by CalConnect℠. and are
+CalConnect brand are Copyright by CalConnect℠ and are
 *not licensed for display or use* other than by CalConnect or its members.
 
 CalConnect standards and other documents published on our website are ©
