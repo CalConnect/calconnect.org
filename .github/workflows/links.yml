@@ -18,22 +18,28 @@ jobs:
         ruby-version: '3.3'
         bundler-cache: true
 
-    - name: Build site
+    - name: Setup Pages
+      id: pages
+      uses: actions/configure-pages@v5
+      with:
+        enablement: true
+
+    - name: Build with Jekyll
+      # Outputs to the './_site' directory by default
+      run: bundle exec jekyll build --verbose --trace --baseurl "${{ steps.pages.outputs.base_path }}"
       env:
         JEKYLL_ENV: production
-      run: bundle exec jekyll build
 
     - name: Link Checker
       uses: lycheeverse/lychee-action@v2
       with:
-        args: --verbose --no-progress -b _site --fallback-extensions html --offline _site/*.html _site/**/*.html
+        args: --base _site/ --verbose --no-progress '_site/**/*.html'
         fail: true
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      # - name: Create Issue From File
-      #   uses: peter-evans/create-issue-from-file@v2
-      #   with:
-      #     title: Link Checker Report
-      #     content-filepath: ./lychee/out.md
-      #     labels: report, automated issue
+    # - name: Create Issue From File
+    #   if: steps.lychee.outputs.exit_code != 0
+    #   uses: peter-evans/create-issue-from-file@v5
+    #   with:
+    #     title: Link Checker Report
+    #     content-filepath: ./lychee/out.md
+    #     labels: report, automated issue
