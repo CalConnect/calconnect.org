@@ -11,7 +11,8 @@ excerpt:
 
 == The passing of Dave Thewlis on June 17, 2025
 
-image::../assets/images/DaveThewlis-02.jpg[Dave Thewlis]
+image:{{'/assets/images/DaveThewlis-02.jpg' | relative_url }}[Dave
+Thewlis]
 
 On June 17th,  Dave Thewlis, Calconnect’s founding executive Director, passed away after a long illness. He was 82 years old.
 
@@ -34,3 +35,110 @@ One of our members, at the time of Dave’s retirement, captured the feelings of
 
 If you'd like to include a comment for Dave on this page, please email
 mailto:mike.douglass@calconnect.org?subject=Comment%20for%20Dave%20Thewlis%20passing[mike.douglass@calconnect.org].
+
+[quote,,Ken Murchison]
+____
+Such sad news. He was the ultimate gentleman.
+____
+
+[quote,,Cyrus Daboo]
+____
+Very sad news. The calendaring community owes him a lot for his dedication to CalConnect, helping to bring us all together for everyone’s benefit. Personally I very much enjoyed his company at meetings. He will be missed.
+____
+
+[quote,,Ronald Tse]
+____
+A great loss to the community. I miss Dave!! Not to mention his energy, devotion and commitment to the cause. We ought to sustain his legacy and carry on the torch at CalConnect.
+____
+
+[quote,,Gershon Janssen]
+____
+I’m saddened to hear about Dave’s passing. Over the years, I had the pleasure of working with him through the calendaring community and our many conversations while serving as board director and president. Dave was always thoughtful and deeply committed to the work we all care about. He brought kindness and sincerity into every interaction, and it was clear he truly had a big heart for the cause. I’ll miss him greatly, as I know many of us will.
+
+My thoughts are with his loved ones.
+____
+
+[quote,,Lisa Dusseault]
+____
+I often think of Dave and CalConnect these days when I think of how much more humans can do when we work together and communicate, and how tools like "have a membership org", "have a meeting" and "create an issue list" are technologies too.
+____
+
+[quote,,Ben Fortuna]
+____
+I'm very sorry to hear of Dave's passing.
+
+Dave was indeed a visionary who, in my brief interactions, demonstrated an infectious joy in his work, and a willingness to listen to, and really understand any and every point of view.
+
+His skills in diplomacy are a dying breed in an increasingly polarized world.
+____
+
+[quote,,Scott Mace]
+____
+Sorry to hear this news. I just posted https://calendarswamp.blogspot.com/2025/07/dave-thewlis-rip-1942-2025-founding.html[a brief announcement regarding Dave] on my Calendar Swamp blog.
+____
+
+[quote,,Adrian Apthorp]
+____
+This is indeed sad news.
+
+Ben and Scott have characterised him very well. Dave really was the ‘back bone’ to Calconnect in the time that I was involved.
+____
+
+[quote,,Rutger Geelen]
+____
+That is very sad news. Dave was the heart and soul of CalConnect. I vividly remember the first time I attended a conference. It was in Madison in 2013. Dave made me feel so welcome and a true guest from the first contact. His relentless efforts to move calendaring forward remain an inspiration to me. On a personal level we connect more when I became part of the board. We talked every 2 weeks about calendaring, CalConnect but also about personal things. Dave saw a large part of the world and cultures and had great stories. I'll miss him.
+____
+
+[quote,,Gary Schwartz]
+____
+I can echo Gershon's sentiments about Dave but I cannot improve upon them other than to add, he was a great executive director of a not-for- profit organization, largely responsible for Calconnect's 20 years of existence.
+
+Dave had a range range of interests - he was an Anglophile, including a long affair with his Jensen Healey. I don't know if it ever ran but I do remember traipsing all over London with him searching for parts. He had a prodigious vocabulary, and I very much enjoyed the archaic and esoteric words he introduced me to.
+
+While in the USA Air Force, he learned enough Russian to monitor Soviet military communications.
+
+I noted he was a great executive director, but he was also a wonderful husband to his wife Susan, who we had the pleasure of hosting at our home for a week some years ago when she was attending a conference near our house.
+
+Dave was a great colleague and a good friend, and I'm sorry that his last few years were so challenging for him.
+____
+
+[quote,,]
+____
+____
+
+[quote,,]
+____
+____
+
+[quote,,Bridget Harris]
+____
+I'd like to echo Rutger's points. It's very sad to hear this news and please pass on our condolences to his widow.
+
+Dave first contacted myself and Keith in 2012, and was encouraging, persistent and eventually successful in persuading us to join CalConnect! We ended up hosting 2 conferences in our home town of Bedford, and Keith attended countless others.
+
+The value and contribution CalConnect members made to our thinking and development of our software was really important, and that would never have happened without Dave,
+
+He was a kind and positive force in the universe.
+____
+
+[quote,,Toby Considine]
+____
+He will be missed. I will miss him.
+
+Our conversations were about scheduling more than schedules. Some of you know how he affected the development of smart energy, which is essentially resource markets in time. Thanks to CalConnect, it is aligned with the RFCs unlike, say, BPMN, which is not.
+
+
+In the future of agentic AI, negotiating when things should be done, and doing it in a way that aligns with the calendars that run our lives, will be even more important. I like to think that Dave would be pleased with that.
+____
+
+[quote,,Jamie Clark, OASIS]
+____
+Dear friends:  so sorry to hear this, and condolences on losing a colleague and friend.
+____
+
+[quote,,Andrew Laurence]
+____
+Dave was unfailingly polite, kind, and firm in his steering of CalConnect. I remember well times when he interceded if things got spicy.  He was so smooth I don’t think anyone knew they’d been told to STFU.  His blend of skills – communications, technical, organizational, operational – were singularly unusual.
+
+His dent in the universe is large.
+____
