@@ -21,6 +21,6 @@ A high-level architectural diagram of the calendaring
 and scheduling environment, from
 link:{{'/about/technical-committees/tc-api' | relative_url }}[TC API].
 
-* link:{{'/architectures/Task%20Architecture%201.0.pdf' | relative_url }}[*Task Architecture*]:
+* link:{{'/docs/architectures/Task%20Architecture%201.0.pdf' | relative_url }}[*Task Architecture*]:
 Overall architecture for Tasks (VTODOs) in a calendaring and scheduling
 environment, from link:{{'/about/technical-committees/tc-tasks' | relative_url }}[TC TASKS].
