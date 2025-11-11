@@ -33,7 +33,8 @@ jobs:
     - name: Link Checker
       uses: lycheeverse/lychee-action@v2
       with:
-        args: --base _site/ --verbose --no-progress '_site/**/*.html'
+        #args: --base _site/ --verbose --no-progress '_site/**/*.html'
+        args: --root-dir "$(pwd)" --verbose --no-progress './**/*.html'
         fail: true
 
     # - name: Create Issue From File
