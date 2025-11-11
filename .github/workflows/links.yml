@@ -34,7 +34,7 @@ jobs:
       uses: lycheeverse/lychee-action@v2
       with:
         #args: --base _site/ --verbose --no-progress '_site/**/*.html'
-        args: --root-dir "$(pwd)_site" --verbose --no-progress './**/*.html'
+        args: --root-dir "$(pwd)/_site" --verbose --no-progress './**/*.html'
         fail: true
 
     # - name: Create Issue From File
