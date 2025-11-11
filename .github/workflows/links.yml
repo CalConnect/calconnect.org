@@ -34,7 +34,7 @@ jobs:
       uses: lycheeverse/lychee-action@v2
       with:
         #args: --base _site/ --verbose --no-progress '_site/**/*.html'
-        args: --base-url "https://www.calconnect.org/" --root-dir "$(pwd)/_site" --verbose --no-progress './**/*.html'
+        args: --base-url "https://www.calconnect.org/" --verbose --no-progress './**/*.html'
         fail: true
 
     # - name: Create Issue From File
