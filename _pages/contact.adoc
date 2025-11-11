@@ -5,10 +5,12 @@ type: contact
 ---
 
 == Contact
+NOTE: If you are trying to log in to #California Connect# you are on the
+wrong site. Try https://caconnect.org[] (Note the missing 'l')
 
 You are welcome to contact The Calendaring and Scheduling Consortium by
 regular mail, telephone or by electronic mail to any of the people
-listed below, depending their areas of responsibility. You may also use
+listed below, depending on their areas of responsibility. You may also use
 the "contact@calconnect.org" general e-mail address rather than
 contacting a specific person.
 
