@@ -2,11 +2,11 @@
 layout: page
 title: 7 Things You Should Know About Tasks
 type: resources
-permalink: /resources/7 Things You Should Know About.../:title
+permalink: /resources/7things/:title
 ---
 :page-liquid:
 
-== 7-things-you-should-know-about/tasks
+== 7 Things You Should Know About Tasks
 
 === 1. What is it?
 A "task" is a representation of an item of work assigned to an individual or organization. In http://www.ietf.org/rfc/rfc5545.txt[RFC5545],

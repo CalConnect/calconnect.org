@@ -9,7 +9,7 @@ type: resources
 
 === General
 
-CalConnect has initiated a new serious of high-level "briefing"
+CalConnect has initiated a new series of high-level "briefing"
 documents, modeled on the "7 Things You Should Know About" series
 developed by Educause. The goal is to familiarize the reader with a
 topic and offer enough information to understand what the topic means to
