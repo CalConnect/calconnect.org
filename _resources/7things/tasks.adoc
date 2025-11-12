@@ -2,7 +2,7 @@
 layout: page
 title: 7 Things You Should Know About Tasks
 type: resources
-permalink: /resources/7things/:title
+permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 

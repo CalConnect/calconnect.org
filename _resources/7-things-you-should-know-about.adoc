@@ -79,7 +79,7 @@ rather than waiting for the client to ask the server about any changes
 
 === 7 Things You Should Know About Tasks
 
-* link:{{'/resources/7things/tasks' | relative_url }}[7 Things You Should Know About Tasks]
+* link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url }}[7 Things You Should Know About Tasks]
 
 "A "task" is a representation of an item of work assigned to an
 individual or organization. In
