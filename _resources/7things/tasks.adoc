@@ -1,0 +1,125 @@
+---
+layout: page
+title: 7 Things You Should Know About Tasks
+type: resources
+permalink: /resources/7 Things You Should Know About.../:title
+---
+:page-liquid:
+
+== 7-things-you-should-know-about/tasks
+
+=== 1. What is it?
+A "task" is a representation of an item of work assigned to an individual or organization. In http://www.ietf.org/rfc/rfc5545.txt[RFC5545],
+ Internet Calendaring and Scheduling Core Object Specification 
+(iCalendar), these are "VTODO" calendar components, groupings of 
+component properties and possibly "VALARM" calendar components that 
+represent an action-item or assignment. Tasks (aka VTODO's) have been 
+part of the iCalendar specification since it was adopted in 1998 as RFC 
+2445.
+
+Tasks may be components of a business process or workflow. Tasks, ad
+hoc or formal, may be components of projects and other collaborative 
+efforts, but they are most familiar in personal "to-do" lists.
+
+==== 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
+The present calendaring standards provide interoperability for
+exchanging tasks and essential task information across disparate 
+software systems.
+
+These standards are best positioned to support personal communication
+and collaboration tools that provide independent task (or to-do) lists, 
+and provide reasonably good integration with standards-compliant 
+calendaring systems. Indeed, the current standards provide a good 
+foundation for a comprehensive task management platform. However, 
+extensions are required in certain areas in order to increase the 
+usability of the standards across a wider range of scenarios.
+
+Although a variety of proprietary task-related applications exist
+today, there is little or no interoperability between them or
+integration with other applications. A standards-based approach, built 
+upon calendaring and scheduling standards, allows such interoperability,
+ and offers the potential for broad integration with other applications 
+and services.
+
+=== 3. How does it work?
+iCalendar VTODO's ("tasks") are represented as calendaring components
+which have much in common with events – start time, end time (or 
+duration), the possibility of recurring according to a schedule, 
+location, organizer, attendees (or participant), etc. However, tasks have
+ other standard properties, such as the notion of completion status 
+which may not pertain to calendar events.
+
+=== 4. Who's doing it?
+Task support, both proprietary and standards-based (iCalendar), is
+implemented across a range of systems and software products, such as 
+Calendaring Products, Business Process Management Systems, ERPs, Project
+ Management Systems, and Scheduling Tools. However, with the increasing 
+pervasiveness of smart phones and tablet, we are seeing explosive growth
+ in the development of apps and cloud offerings to manage "personal" 
+tasks, as it were.
+
+Other organizations are involved in the area of task specification,
+and have developed complementary standards, e.g. the https://docs.oasis-open.org/ns/bpel4people/ws-humantask/200803[OASIS WS-Human Task specification]
+
+=== 5. Why is it significant?
+The need to schedule and communicate tasks arises in many situations
+both within organizations and in our personal lives. Business processes,
+ which may require many steps or sub-tasks, include the transportation 
+and delivery of goods and packages and the automation of factory 
+manufacturing processes.
+
+=== 6. What needs to be done, and what is CalConnect doing?
+The existing calendaring standards provide a foundation for
+communicating and scheduling tasks, but do not readily support domain 
+specific tasks. Other standards, such as WS-HumanTask, have focused on 
+the definition and communication of tasks in a specific problem area but
+ lack the broad capabilities to provide a unified means of task 
+management.
+
+We need to extend the functionality of the iCalendar family of
+standards, specifically the VTODO object model, to provide enhanced 
+support for tasks for project management, smart power grids and business
+ task scheduling, in a way that integrates calendaring, scheduling, and 
+task management with automated systems and processes. Such scenarios may
+ not imply or require an explicit human operator. However, we also need
+to allow calendaring clients to display and change task data for human 
+centred tasks and to manage task progress.<br><br>
+		To achieve these objectives, extensions are required to task states and additional support for task specific data and relationships between
+tasks. Other requirements, such as handling of comments, which are 
+common to tasks and events, may be addressed separately.
+
+CalConnect has chartered a technical committee https://www.calconnect.org/about/technical-committees/tc-tasks[TC-TASKS] to lead this work. To date TC-TASKS has developed the following:
+
+
+.	https://calconnect.org/architectures/Task%20Architecture%201.0.pdf[Tasks Architecture] - The reference architecture for task management and communication against which the extensions are being developed
+
+. Draft RFC https://datatracker.ietf.org/doc/draft-douglass-ical-relations[Support for iCalendar Relationships] - Extensions to the iCalendar object model to enhance the ability to
+relate tasks (VTODOs) and other iCalendar components to each other as 
+well as to non-iCalendar entities
+
+. Draft RFC https://datatracker.ietf.org/doc/draft-apthorp-ical-tasks/[Task Extensions to iCalendar] - Extensions to the Internet Calendaring and Scheduling Core Object
+Specification (iCalendar) to provide improved status tracking, 
+scheduling and specification of tasks
+
+=== 7 What are the implications for calendaring and scheduling?
+The boundaries of calendaring and scheduling are defined and expanded
+by the requirements and expectations of consumers, social groups, and 
+enterprises. Extension to standards concerning tasks is a natural 
+development that will increase the interoperability and capability of 
+tools that manage calendars and schedule tasks.
+
+Over the last decade, the emphasis in developing calendaring standards
+ has been on events and event scheduling. However, there is now an 
+opportunity to build on this calendaring and scheduling platform to 
+provide greater task support, enabling broader integration and utility 
+for collaborative and systematized processes. Extending the standards 
+with respect to tasks will allow us to open up the true potential of our
+ calendaring and scheduling systems, as well as integrating with the 
+"Internet of Things?.
+
+=== Need more information?
+https://www.calconnect.org/about/technical-committees/tc-tasks[TC-TASKS]
+
+https://www.calconnect.org/resources/glossary[Calendaring and Scheduling Glossary of Terms]
+
+https://www.calconnect.org
