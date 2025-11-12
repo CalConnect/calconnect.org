@@ -68,7 +68,7 @@ The Interoperability Test Event and the Conference will take place at AOL's Palo
 [[transportation]]
 == Transportation
 
-*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],http://www.flyoakland.com/[Oakland International (OAK)], andhttp://www.sjc.org/[San Jose Mineta Airport (SJC)].
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.flysfo.com/default.asp[San Francisco International (SFO)],https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
 Palo Alto is closest to San Jose International Airport. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK.
 

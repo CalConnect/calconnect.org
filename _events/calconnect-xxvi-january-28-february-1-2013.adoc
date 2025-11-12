@@ -59,7 +59,7 @@ _**Disregard the information on the Santa Clara Building Layout pdf about parkin
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)]. +
 Santa Clara is very close to San Jose International Airport (the meeting site is about 2 miles north of the airport) and your hotel may offer a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area. SFO has the most flights and airlines serving it and is probably the only realistic option for international travelers, but you might be able to find less expensive fares via SJC or OAK.
 
 *Ground Transportation:* Information on rental cars and shuttles is available on all three airport websites. If you fly into San Jose your hotel may offer shuttle service from and to the airport.

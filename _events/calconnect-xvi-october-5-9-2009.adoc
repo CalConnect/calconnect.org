@@ -58,7 +58,7 @@ Please note that you can park in the De Anza 3 parking lot, or anywhere in any o
 [[transportation]]
 == Transportation
 
-*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttp://www.flyoakland.com/[Oakland International (OAK)].
+*Airport Information:*The San Francisco Bay Area is served by three airports:http://www.sjc.org/[San Jose Mineta Airport (SJC)],http://www.flysfo.com/default.asp[San Francisco International (SFO)], andhttps://www.oaklandairport.com/[Oakland International (OAK)].
 
 Cupertino is about 30 miles south of San Francisco International Airport, and quite close to San Jose International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK.
 

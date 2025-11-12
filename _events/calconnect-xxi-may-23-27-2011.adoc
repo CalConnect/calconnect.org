@@ -71,7 +71,7 @@ The Interoperability Test Event and the Roundtable will take place at the http:/
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
 The nearest airport is San Jose Mineta International Airport, which is about 8 miles from NASA and the conference hotel. However, San Francisco International (about 30 miles) is likely to have more flights (especially more international flights) and possibly less expensive flights.
 

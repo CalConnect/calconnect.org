@@ -78,7 +78,7 @@ The Wednesday Evening reception will probably be at the same location but detail
 [[transportation]]
 == Transportation
 
-*Airport Information*: The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+*Airport Information*: The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
 Sunnyvale is close to San Jose International Airport and your hotel may offer a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area.
 

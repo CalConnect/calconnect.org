@@ -2,7 +2,7 @@
 layout: page
 title: Abstract Calendaring API
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects:title
 ---
 :page-liquid:
 == Abstract Calendaring API

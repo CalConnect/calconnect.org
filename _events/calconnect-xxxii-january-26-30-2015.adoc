@@ -66,7 +66,7 @@ Wednesday through Friday, comprising the last part of the test event, all 10th A
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
 San Jose Mineta International Airport is the closest to Kerio Technologies and to the Hotel De Anza (which is about 3 miles from the airport). Unfortunately the hotel does not offer a shuttle service and recommends taking a taxi from the San Jose airport. San Francisco International has the most flights and airlines serving it and is probably the only realistic option for international travelers but is further from San Jose; you will need to drive or use a shuttle service. Oakland International is on the east side of San Francisco Bay and much less convenient to the South Bay area but might offer attractive fares.
 

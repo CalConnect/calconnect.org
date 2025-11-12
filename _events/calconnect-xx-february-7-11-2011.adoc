@@ -58,7 +58,7 @@ _If you are local to the San Francisco Bay Area and will be commuting to the eve
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], http://www.flyoakland.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.flysfo.com/default.asp[San Francisco International (SFO)], https://www.oaklandairport.com/[Oakland International (OAK)], and http://www.sjc.org/[San Jose Mineta Airport (SJC)].
 
 The nearest airport is Oakland International; however San Francisco International is likely to be more convenient as there is direct BART (rapid transit) service from the airport itself to 1/2 block from the conference hotel (from Oakland, there is a short shuttle bus ride from the airport to the nearest BART station). San Jose is substantially further away and less convenient to Berkeley.
 

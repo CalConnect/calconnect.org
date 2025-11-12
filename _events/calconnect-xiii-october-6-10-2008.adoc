@@ -52,7 +52,7 @@ On **Thursday ONLY**, we will meet all day in *Building F, Classroom "SS MINNOW"
 [[transportation]]
 == Transportation
 
-*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.sjc.org/[San Jose Mineta Airport (SJC)], http://www.flysfo.com/default.asp[San Francisco International (SFO)], and http://www.flyoakland.com/[Oakland International (OAK)].
+*Airport Information:* The San Francisco Bay Area is served by three airports: http://www.sjc.org/[San Jose Mineta Airport (SJC)], http://www.flysfo.com/default.asp[San Francisco International (SFO)], and https://www.oaklandairport.com/[Oakland International (OAK)].
 
 Santa Clara is approximately eight miles from the San Jose Airport, and approximately 30 miles from San Francisco International. Oakland International is on the east side of the Bay and less convenient. SFO has the most flights and airlines serving it, but you may be able to find less expensive fares via SJC or OAK.
 
