@@ -31,6 +31,7 @@ jobs:
         JEKYLL_ENV: production
 
     - name: Link Checker
+      id: lychee
       uses: lycheeverse/lychee-action@v2
       with:
         #args: --base _site/ --verbose --no-progress '_site/**/*.html'
@@ -38,7 +39,7 @@ jobs:
         fail: false
 
     - name: Create Issue From File
-      if: steps.run-lychee.outputs.exit_code != 0
+      if: steps.lychee.outputs.exit_code != 0
       uses: peter-evans/create-issue-from-file@v5
       with:
         title: Link Checker Report
