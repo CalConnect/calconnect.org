@@ -1,0 +1,116 @@
+---
+layout: page
+title: 7 Things You Should Know About Push
+type: resources
+permalink: /resources/7-things-you-should-know-about/:title
+---
+:page-liquid:
+
+== 7 Things You Should Know About Push
+
+=== 1. What is it?
+Push notifications allow servers to notify clients of changes to the
+stored data in a timely manner – possibly as soon as the changes occur –
+ rather than waiting for the client to ask the server about any changes 
+(polling). See https://en.wikipedia.org/wiki/Push_technology
+
+=== 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
+To keep client and server data synchronized, CalDAV and CardDAV
+clients need to refresh their state from the server. One option is for 
+clients to "poll" servers at regular intervals to determine if any 
+changes have been made.
+
+Users want to be notified of changes as soon as they occur (in
+particular for changes to events that may be happening in the next few 
+hours), so it is tempting to use a short polling interval to achieve 
+that. However, polling may cause higher network bandwidth, higher CPU 
+consumption (and thus more power drain) on both the client and the 
+server, particularly during periods of time when the data on the server 
+is not changing very much (e.g., outside of "work" hours, a business 
+calendar may not change very often).
+
+Also, with polling a synchronization will not happen right after a
+change on the server, so the client database may be out of 
+synchronization for longer periods. A better approach is for the server 
+to send a (push) notification to the client. This is more efficient as 
+it avoids unnecessary network activity on the part of the client when 
+the data on the server changes infrequently. Plus this gives users a 
+more "real time" experience, since the server can signal the client very
+ soon after a change occurs. It also provides more control on the server
+ in situations where it may need to control the frequency of client 
+updates based on available network bandwidth and server load.
+
+=== 3. How does it work?
+Existing solutions to this problem typically involve the client
+sending some sort of "subscription" request to the server, to identify 
+itself as wanting to receive push notifications from the server. The 
+information the client sends will indicate how it wants the server to 
+contact it when a push notification needs to be sent (which may be an 
+entirely different protocol than the one used to actually access the 
+data). The server will store the client subscription and use the 
+information to send push notifications as needed. Clients may be allowed
+ to subscribe to specific types of changes on the server (e.g., a client
+ might want to know about changes only on one specific calendar, rather 
+than all possible calendars). Current implementations of this are vendor
+ specific.
+
+=== 4. Who's doing it?
+Push notifications are of particular importance to mobile devices, and
+ other types of devices constrained by power limitations (battery charge
+ time). Many of the leading vendors of mobile devices have implemented 
+some form of push notification for calendar and contacts data. These are
+ often in the form of a generic push protocol that is not specific to 
+any type of data or protocol (e.g., it can be used for email, instant 
+messaging, etc as well as calendar and contacts data). Push has also 
+been extended to desktop devices to provide the same level of improved 
+user performance on those platforms. Typically, these implementations of
+ push notifications are vendor specific, so devices from one vendor are 
+only able to receive push notifications from that vendor's data service.
+
+=== 5. Why is it significant?
+Mobile devices have become a major part of many people's lives,
+providing a convenient way to manage their personal and business data 
+"on the go". In particular, calendar and contact data is a key component
+ of this, and users expect to be kept informed of changes as soon as 
+they happen, as they could impact their current activities. Thus the 
+immediacy of push notifications both on mobile devices and desktop 
+systems have come to be expected by users, and thus push notifications 
+have become a key requirement for vendors to support. Push also provides
+ a significant benefit in being able to keep multiple devices 
+simultaneously up to date.
+
+=== 6. What needs to be done, and what is CalConnect doing?
+A generic framework for push notifications within CalDAV and CardDAV
+needs to be defined to address the problems outlined in this document. 
+CalConnect has established the https://www.calconnect.org/about/technical-committees/tc-push[TC-PUSH]
+ technical committee to develop a common set of properties that servers 
+advertise to clients that describe the various push mechanisms supported
+ by the server in a standard way. Clients can then use that information 
+to determine which push mechanism is appropriate for them to use based 
+on their current environment. The technical committee will also define 
+one standard push protocol which servers will be encouraged to support, 
+though proprietary push protocols will also be supported in the 
+framework. The technical committee will also produce an implementation 
+guide describing how servers and clients can efficiently implement push 
+and poll-based strategies based on overall load and other factors, such 
+as importance of the change.
+
+=== 7. What are the implications for calendaring and scheduling?
+Improving push support in calendaring and scheduling products will
+lead to an improved user experience. Some key benefits include keeping 
+users up to date with invitation status changes - particularly important
+ when status may change right before a meeting. Push can also be used to
+ implement an efficient method for simultaneously dismissing alarms 
+across multiple devices. This will encourage more direct use of 
+calendaring and scheduling tools over other "out-of-band" methods for 
+scheduling meetings (such as email, instant message, sms, telephone 
+etc), because of the added reliability and promptness of updates. It 
+also opens up the possibility for 3rd party products or automated 
+systems to make better use of calendaring data for the same reasons.
+
+=== Need more information?
+link:https://www.calconnect.org/about/technical-committees/tc-push[TC-PUSH]
+
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+
+https://www.calconnect.org

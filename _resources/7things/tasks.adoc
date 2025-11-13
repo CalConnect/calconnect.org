@@ -120,6 +120,6 @@ with respect to tasks will allow us to open up the true potential of our
 === Need more information?
 https://www.calconnect.org/about/technical-committees/tc-tasks[TC-TASKS]
 
-https://www.calconnect.org/resources/glossary[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org

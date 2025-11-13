@@ -30,15 +30,14 @@ created and modified."
 
 === 7 Things You Should Know About Calendar and Contacts Sharing
 
-* link:{{'/resources/7-things-you-should-know-about/calendar-and-contacts-sharing' | relative_url }}[7 Things You Should Know About Calendar and Contacts Sharing]
+* link:{{'/resources/7-things-you-should-know-about/calendarAndContactsSharing' | relative_url }}[7 Things You Should Know About Calendar and Contacts Sharing]
 
 "Calendar and Contacts Sharing is the process of sharing CalDAV
 calendars and CardDAV address books between users. "
 
-
 === 7 Things You Should Know About Consensus Scheduling
 
-* link:{{'/resources/7-things-you-should-know-about/consensus-scheduling' | relative_url }}[7 Things You Should Know About Consensus Scheduling]
+* link:{{'/resources/7-things-you-should-know-about/consensusScheduling' | relative_url }}[7 Things You Should Know About Consensus Scheduling]
 
 "Consensus scheduling is the process whereby a group comes to agreement
 on when (and maybe where) to hold a meeting or carry out a task, or
@@ -53,7 +52,7 @@ group."
 
 === 7 Things You Should Know About Digital Travel Itineraries
 
-* link:{{'/resources/7-things-you-should-know-about/itineraries' | relative_url }}[7 Things You Should Know About Digital Travel Itineraries]
+* link:{{'/resources/7-things-you-should-know-about/digitalTravelItineraries' | relative_url }}[7 Things You Should Know About Digital Travel Itineraries]
 
 "Itineraries typically contain information about planned routes,
 schedules, events and tasks for a trip, often divided up into several

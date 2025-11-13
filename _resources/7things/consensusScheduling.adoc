@@ -1,0 +1,137 @@
+---
+layout: page
+title: 7 Things You Should Know About Consensus Scheduling
+type: resources
+permalink: /resources/7-things-you-should-know-about/:title
+---
+:page-liquid:
+
+== 7 Things You Should Know About Consensus Scheduling
+
+=== 1. What is it?
+Consensus scheduling is the process whereby a group comes to agreement
+ on when (and maybe where) to hold a meeting or carry out a task, or 
+identifies the "best" time – maximizing participation, minimizing 
+inconvenience, to schedule an event or perform a task. Consensus 
+scheduling minimizes the overhead of achieving consensus or identifying 
+the most favorable time(s) by allowing the potential participants to 
+observe the responses of the other voters, and to use any scheduling 
+they may have to adjust their response for the benefit of the entire 
+group.
+
+=== 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
+Today's calendaring standards imply or assume something of a
+hierarchical, corporate model of calendar scheduling, where an organizer
+ offers a single choice and it's up to potential attendees to accept, 
+decline or counter the proposal. The replies are only seen by the 
+organizer. If the time (or some other attribute) is unacceptable, it's 
+up to the organizer to select a new time and send out a new request. Of 
+course this new request may be unacceptable to a different subset of 
+attendees.
+
+As calendaring has become more pervasive, and the work/life balance
+has become the work/life continuum, this model of scheduling is not rich
+ enough to accommodate the wide variety of scheduling scenarios and use 
+cases which depend on achieving group consensus when potential 
+participants are free to choose whether to participate at all, and there
+ may not be an identifiable leader or organizer who has the authority to
+ direct the participation of others.<br><br>
+		Examples of such scenarios include scheduling social events, cross 
+organizational events or tasks, scheduling meetings of volunteers or 
+members of non-profit organizations, finding the least inconvenient time
+ for an event or task where participants are in many different time 
+zones, and where no time will be good.<br><br>
+		Consensus scheduling can drastically reduce the time needed to achieve
+ consensus or otherwise come to an acceptable solution using a 
+combination of social/group dynamics and calendaring products or 
+services.
+
+=== 3. How does it work?
+Many of the services offering consensus scheduling allow participants
+to express their availability, or preferred availability, by "voting" on
+ a poll at the service's web site, or through an integration plug-in for
+ some widely used calendaring products. Polls can often be configured to
+ display the current state of the poll, including the votes of the other
+ participants, and provide means by which participants can update their 
+previously cast votes, and in some cases, add a comment, or an 
+annotation. As each participant can see how others have voted, or 
+perhaps just the state of the poll, this provides a degree of social 
+feedback, or perhaps peer pressure, to accelerate identifying the "best"
+ meeting times.
+
+=== 4. Who's doing it?</i></h3>
+There are many services currently offering consensus scheduling,
+albeit with different functionality, features, and integrations points.
+
+Products/services include Acuity Scheduling, Bookd, Booknow, Diarised,
+ Doodle, GatherGrid, Genbook, Huddlebot, Jasig Scheduling Assistant, 
+Jiffle, Meetingwave, MeetingWizard, MeetoMatic, meetwith.me, NeedtoMeet,
+ Satori, Scheduleonce, ScheduleThing, Setster, TimeBridge , TimeDriver, 
+TimetoMeet, TimeTrade, Touchbase, When Is Good, Which Date Works.
+
+=== 5. Why is it significant?
+The traditional method of enterprise scheduling, iTIP, described in
+calendaring standard RFC 5546, and implemented in most full-featured 
+calendaring products and services, has been shown to be inefficient with
+ respect to elapsed time to schedule an event, and the overhead for 
+event organizers. This is a significant drain on enterprise resources – 
+one recognized by a number of large companies. And increasingly, 
+timeliness is a key driver of success.<br><br>
+		Consensus scheduling uses the social paradigms and mechanisms which 
+people are already familiar with by using social media sites, crowd 
+sourcing, etc, to reduce the overhead of scheduling, and to maximize 
+participation.
+
+=== 6. What needs to be done, and what is CalConnect doing?
+Consensus scheduling is available through many web-based
+services/sites, but not in most full featured calendaring products, 
+especially enterprise products. Each site and service provides different
+ features and functionality, provides custom integrations with a subset 
+of other calendaring and scheduling services and products, and has 
+differing requirements for user access – authentication and 
+authorization. As some people prefer one consensus service over the 
+others, participants in many formal and/or informational groups may have
+ to register and/or use many different services or sites in the course 
+of their professional and personal activities.
+
+In short, consensus scheduling lacks broad interoperability across products and services.
+
+CalConnect's Freebusy Technical Committee has produced a draft
+specification, "VPOLL: Consensus Scheduling Component for iCalendar", 
+which "introduces a new iCalendar component (VPOLL) which allows for 
+consensus scheduling, that is voting on a number of alternative meeting 
+or task alternatives", which has been submitted to the IETF as an 
+Internet draft: https://datatracker.ietf.org/doc/draft-ietf-calext-vpoll/
+
+This draft standard is intended to provide the broad interoperability
+needed to allow users to participate in consensus scheduling using the 
+calendaring products and service they prefer rather than the product or 
+service used first to enumerate the event and the scheduling choices.
+
+As is almost always the case when CalConnect Technical Committees
+collaborate on a draft standards submission, some of the CalConnect 
+vendor members are contemporaneously implementing the consensus 
+scheduling draft standard, as a proof of concept, to test 
+interoperability, and to provide unofficial reference implementations.
+
+=== 7. What are the implications for calendaring and scheduling?
+The boundaries of calendaring and scheduling are defined and expanded
+by the new requirements and expectations of consumers, social groups, 
+and enterprises. The success of consensus scheduling to date shows us 
+clearly that if the boundaries of calendaring standards are not 
+redefined and expanded in a timely fashion to accommodate these new 
+expectations and requirements, interoperability and end user convenience
+ will suffer.
+
+Consensus scheduling – while it resolves some significant issues for
+the enterprise – helps to bring calendaring and scheduling into the 
+everyday world of social groups and contacts. If supported on mobile 
+devices it should encourage the use of standard calendaring by the 
+general population.
+
+=== Need more information?
+https://www.calconnect.org/about/technical-committees/tc-calendar[TC-CALENDAR]
+
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+
+https://www.calconnect.org

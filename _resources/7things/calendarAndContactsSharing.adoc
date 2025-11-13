@@ -1,0 +1,69 @@
+---
+layout: page
+title: 7 Things You Should Know About Calendar and Contacts Sharing
+type: resources
+permalink: /resources/7-things-you-should-know-about/:title
+---
+:page-liquid:
+
+== 7 Things You Should Know About Calendar and Contacts Sharing
+
+=== 1. What is it?
+Calendar and Contacts Sharing is the process of sharing https://devguide.calconnect.org/Appendix/Glossary/#CalDAV[CalDAV] calendars and https://devguide.calconnect.org/Appendix/Glossary/#CardDAV"[CardDAV] address books between users.
+
+=== 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
+Users of calendar apps frequently have the need to share calendars
+with others – whether it's a large business sharing a company holidays 
+calendar, an executive sharing a calendar with an assistant, or a family
+ sharing a child's soccer schedule. Similarly, users frequently need to 
+share address books – such as a company directory, a vendor list, or a 
+holiday card mailing list.
+
+=== 3. How does it work?
+Many of the services offering CalDAV calendar sharing allow a user to
+share a calendar with other users of the same system (e.g. iCloud) with 
+read-only or read/write privileges. This is done via an "opt-in" process
+ in which a sharing invite is sent from the sharer to a sharee, allowing
+ the sharee to accept or decline. If the sharee accepts the sharing 
+invite, the shared calendar is made available to them.<br><br>
+		This model can be extended to support other resource types, including address books.
+
+=== 4. Who's doing it?
+CalDAV calendar sharing is already supported by several servers (e.g.
+iCloud, Apple OS X Server, Bedework, Fruux and Kerio) and clients (e.g. Apple
+Calendar and BusyCal). But the calendar sharing specification is an 
+Apple single-vendor draft and not a public standard.
+
+CardDAV address book sharing is not widely supported as there is no defined specification for implementing it.
+
+=== 5. Why is it significant?
+There is a need for a public non-proprietary standard for sharing
+calendars and address books between users on the same system (e.g. 
+sharing calendars or address books between iCloud users).
+
+=== 6. What needs to be done, and what is CalConnect doing?
+The https://www.calconnect.org/about/technical-committees/tc-sharing[TC-SHARING] Technical Committee is chartered to extend the existing draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-sharing.txt[calendar sharing] Apple specification to support address books and other resource types, as well as revising the related draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-notifications.txt[caldav-notifications]
+ specification. This will be accomplished by reducing the scope of the 
+current specs and refactoring them into multiple smaller specifications 
+focused on a specific resource or notification type. To that end the 
+committee will define foundation specifications for https://devguide.calconnect.org/Appendix/Glossary/#WebDAV[WebDAV]
+ notifications and collection sharing, with sibling specifications for 
+CalDAV sharing, CardDAV sharing, and other resource types.
+
+A separate CalConnect Technical Committee, http://calconnect.org/tc-fsc.shtml[Federated Shared Calendars],
+ is working on a related standard for performing intersystem sharing 
+between different systems (e.g. sharing calendars between iCloud and 
+Google).
+
+=== 7. What are the implications for calendaring and scheduling?
+Defining and publishing public standards for calendar and contacts
+sharing will lead to greater adoption and compatibility between CalDAV 
+and CardDAV clients and servers, thus improving functionality and 
+interoperability for users.
+
+=== Need more information?
+https://www.calconnect.org/about/technical-committees/tc-sharing[TC-SHARING]
+
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+
+https://www.calconnect.org

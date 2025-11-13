@@ -1,0 +1,128 @@
+---
+layout: page
+title: 7 Things You Should Know About Digital Travel Itineraries
+type: resources
+permalink: /resources/7-things-you-should-know-about/:title
+---
+:page-liquid:
+
+== 7 Things You Should Know About Digital Travel Itineraries
+
+=== 1. What is it?
+Itineraries typically contain information about planned routes,
+schedules, events and tasks for a trip, often divided up into several 
+"segments" to help planning. A key aspect of itineraries is that 
+segments are explicitly linked together, and storing this information as
+ computer data (a "digital" itinerary) opens up the ability for any type
+ of computer system (for example desktop computers, mobile devices, GPS 
+devices, etc.) to manipulate the data, manage it and present it to users
+ in many useful ways. Itineraries can often involve multiple users, and 
+often involve items with a "time-based" element to them, such as when a 
+travel segment is expected to start or end.
+
+=== 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
+The decline of traditional travel agencies and travel agents is well
+documented. In the year years from 1999 to 2009, 75,000 US travel agency
+ jobs were lost (Cleveland Plain Dealer), and 14% were lost from 2006 to
+ 2011 (Forbes). Today much, likely most, personal and business travel is
+ booked directly by the traveler him/herself, using online services 
+providing digital transactions from end to end – searching/selection, 
+booking, payment, ticketing, itineraries, and other ancillary services. 
+Many of these online systems are impressive in their capabilities and 
+their comprehensiveness. However, much of their sophistication is the 
+result of proprietary mechanisms which provide great workflow within 
+their systems, but integrate less successfully with other calendaring ∧ 
+scheduling systems and other third party applications.
+
+=== 3. How does it work?</i></h3>
+Online travel agencies provide a "bridge" between booking systems of
+travel suppliers and end users, helping to aggregate all the information
+ for a single itinerary, with a simple, single point of management for 
+users. Such systems can provide much richer data to users in the form of
+ alternative schedules, cheaper options, destination-based local events,
+ and updates. Users typically book through a web interface or dedicated 
+mobile apps. Itineraries are then produced online and typically sent via
+ email to the user.
+
+=== 4. Who's doing it?
+Travel industry: airlines, booking systems, rental car companies etc.
+Transport agencies: rail, bus. Entertainment industry: theatres, sports,
+ local events. Software: travel guides.
+
+=== 5. What are the problems with it?
+Many websites offer to export their information as calendar data,
+however the "quality" of that data is poor, and often disjoint and not 
+easily integrated with other tools, such as third-party travel apps on 
+mobile devices. In some cases, old versions of VCALENDAR are used, in
+others where iCalendar is used, required properties are missing or it 
+has missing or inaccurate timezone data. In many cases, users have to go
+through several steps to successfully import the data into their 
+calendar systems, and matters get worse when they want to share their 
+data with friends and family who may be using different calendaring 
+systems. Key pieces of information (e.g., flight numbers) are stored as
+text in the description field, making it hard for third-party 
+applications to extract that information. In addition, the calendar data
+ for itinerary "segments" are not related to each other, missing out on 
+many potential opportunities to manipulate the entire set of data in 
+smart ways (e.g., when one segment is rescheduled a smart app could 
+automatically adjust or cancel follow-on segments to match the new 
+timing).
+
+=== 6. What needs to be done, and what is CalConnect doing?
+CalConnect's focus is interoperable calendaring and scheduling; we are
+ a partnership between vendors of calendaring and scheduling systems and
+ tools, and users of those systems and tools. We are heavily involved in
+ advancing the state of calendaring and scheduling through developing 
+and enhancing open standards. https://www.ietf.org/rfc/rfc5545.txt[RFC5545],
+ Internet Calendaring and Scheduling Core Object Specification 
+(iCalendar) is the standard data format for interoperable calendaring 
+and scheduling on the internet. It is used by many enterprise and 
+consumer digital calendaring systems to convey calendaring information. 
+Developed almost two decades ago, it has established itself as the 
+primary format for calendar data on the Internet. It was designed to 
+cover many of the "personal" calendaring scenarios that crop up in real 
+life, such as recurring events, events in different timezones, alarms, 
+tasks etc. As a mature standard it represents the best way to exchange 
+calendaring data between different systems. As it is widely supported, 
+there are plentiful tools and products available that make use of it and
+ can easily be incorporated into areas where calendaring is a component 
+of a bigger system, such as digital itineraries.
+
+CalConnect's initial goal is to develop a set of use cases and
+requirements for digital itinerary systems to enhance the usefulness of 
+calendar data, with direct input from travel industry experts. Once the 
+requirements have been established, CalConnect is ideally placed to 
+identify what must be added to the basic calendaring and scheduling 
+standards to fully support travel itineraries and to update the 
+standards – and encourage vendors to support these new capabilities.
+
+=== 7. What are the implications for calendaring and scheduling?
+To address the problems identified under 5, digital travel itineraries need:
+
+* Direct integration with GPS apps/devices - i.e., automatically
+ program a GPS devices with start/end points based on itinerary 
+segments.
+* Integration with apps (such as ones that provide details about airports, or local events at a destination etc).
+* Automated "double-booking" checks that spot when one segment is changed and "clashes" with another.
+* "Smart agents" that can help manage the overall itinerary for users and different parts changes.
+* Improved sharing of itinerary information with other people (family, business associates, etc.).
+
+In order to address these needs, the calendaring and scheduling
+standards must be extended to provide the necessary data elements and 
+support, to enable vendors to successfully provide support for these 
+needs in an interoperable manner. Once the extensions to the standards 
+are complete, CalConnect will help in promoting the new standards, 
+reaching out to other vendors to adopt them, and helping with 
+interoperability testing to support successful deployment.
+
+We believe that doing this work will significantly improve the overall
+ user experience of handling digital itineraries across multiple types 
+of devices, opening up new opportunities for vendors to develop smarter 
+applications to further enhance the experience and provide new business 
+opportunities.
+
+=== Need more information?
+
+https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+
+https://www.calconnect.org
