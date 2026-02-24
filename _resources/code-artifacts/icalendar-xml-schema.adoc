@@ -1,0 +1,44 @@
+---
+layout: page
+title: iCalendar in XML Schema
+type: resources
+permalink: /resources/code-artifacts/icalendar-xml-schema
+---
+
+This schema set is intended to provide a full, accurate and extensible
+schema for iCalendar (RFC 5545) as embodied in xCal: iCalendar in XML
+(RFC 6321).
+
+== Background
+
+RFC 6321 defines xCal, an XML representation of iCalendar data. This
+provides:
+
+* XML-based interchange format for calendar data
+* Compatibility with XML-based systems and tools
+* Validation through XML schema
+
+== Schema Files
+
+The iCalendar XML schema files are available from:
+
+* https://github.com/CalConnect[CalConnect GitHub repositories]
+* https://tools.ietf.org/html/rfc6321[RFC 6321 appendix]
+
+== Usage
+
+The schema can be used to:
+
+* Validate xCal documents
+* Generate XML bindings for iCalendar data
+* Build XML-based calendaring applications
+
+== License
+
+All CalConnect code artifacts and schema are licensed for public use
+under the http://www.apache.org/licenses/LICENSE-2.0[Apache 2 License].
+
+== Related Resources
+
+* /resources/code-artifacts/[Code Artifacts Overview]
+* /resources/calendaring-standards/[Calendaring Standards Index]

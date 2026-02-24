@@ -5,8 +5,6 @@ type: membership
 ---
 :page-liquid:
 
-== Membership Agreement
-
 As part of submitting the Membership Application Form, a prospective
 member of CalConnect agrees to comply with the following provisions.
 

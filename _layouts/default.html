@@ -1,16 +1,677 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
 
-  {% include head.html %}
+<!-- Documentation Page Styles -->
+<style>
+  /* Documentation Layout */
+  .documentation {
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-top: 64px; /* Clear fixed header */
+    padding: 2rem 1rem;
+    gap: 2rem;
+  }
 
-  <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-2 node-type-page form-single-submit-processed" >
-    {% include header.html %}
+  @media (min-width: 1024px) {
+    .documentation {
+      padding: 2rem 2rem;
+    }
+  }
 
-    {{ content }}
+  /* Left Sidebar */
+  .docs-nav {
+    width: 220px;
+    flex-shrink: 0;
+  }
 
-    {% include footer.html %}
+  .docs-nav .nav-section {
+    margin-bottom: 1.5rem;
+  }
 
-    {% include script.html %}
-  </body>
+  .docs-nav .nav-section-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin-bottom: 0.5rem;
+    padding: 0 0.75rem;
+  }
 
-</html>
+  /* Group headers within navigation */
+  .docs-nav .nav-group-title {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+    padding: 0.25rem 0.75rem;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .docs-nav .nav-group-title:first-child {
+    margin-top: 0;
+    border-top: none;
+  }
+
+  .dark .docs-nav .nav-group-title {
+    color: #64748b;
+    border-top-color: #334155;
+  }
+
+  .docs-nav .nav-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .docs-nav .nav-items li {
+    margin-bottom: 0.125rem;
+  }
+
+  .docs-nav .nav-items a {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: #64748b;
+    text-decoration: none;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    transition: all 0.15s ease;
+  }
+
+  .docs-nav .nav-items a:hover {
+    background: #f1f5f9;
+    color: #1e293b;
+  }
+
+  .docs-nav .nav-items a.active {
+    background: #eef2ff;
+    color: #4f46e5;
+    font-weight: 500;
+  }
+
+  .dark .docs-nav .nav-items a:hover {
+    background: #1e293b;
+    color: #f1f5f9;
+  }
+
+  .dark .docs-nav .nav-items a.active {
+    background: #312e81;
+    color: #a5b4fc;
+  }
+
+  /* Sticky sidebar */
+  @media (min-width: 1024px) {
+    .docs-nav-content {
+      position: sticky;
+      top: 5rem;
+      max-height: calc(100vh - 6rem);
+      overflow-y: auto;
+    }
+  }
+
+  /* Main Article */
+  .documentation > article {
+    flex: 1;
+    min-width: 0;
+    max-width: 75ch;
+  }
+
+  .documentation > article > header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .dark .documentation > article > header {
+    border-bottom-color: #334155;
+  }
+
+  .documentation > article > header h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  .dark .documentation > article > header h1 {
+    color: #f8fafc;
+  }
+
+  /* Body Content */
+  .documentation .body {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .documentation .body h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #1e293b;
+  }
+
+  .dark .documentation .body h2 {
+    color: #f1f5f9;
+  }
+
+  .documentation .body h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    color: #334155;
+  }
+
+  .dark .documentation .body h3 {
+    color: #e2e8f0;
+  }
+
+  .documentation .body p {
+    margin-bottom: 1rem;
+    color: #475569;
+  }
+
+  .dark .documentation .body p {
+    color: #94a3b8;
+  }
+
+  .documentation .body a {
+    color: #6366f1;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .documentation .body a:hover {
+    color: #4f46e5;
+  }
+
+  /* Lists - Pretty and professional */
+  .documentation .body ul,
+  .documentation .body ol,
+  .documentation .body dl,
+  .documentation .post-content ul,
+  .documentation .post-content ol,
+  .documentation .post-content dl,
+  .documentation .sectionbody ul,
+  .documentation .sectionbody ol,
+  .documentation .sectionbody dl {
+    margin-bottom: 1.25rem;
+    padding-left: 1.75rem;
+    color: #475569;
+    list-style-position: outside;
+  }
+
+  .documentation .body ul,
+  .documentation .post-content ul,
+  .documentation .sectionbody ul {
+    list-style-type: disc !important;
+  }
+
+  .documentation .body ul ul,
+  .documentation .post-content ul ul,
+  .documentation .sectionbody ul ul {
+    list-style-type: circle !important;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .documentation .body ol,
+  .documentation .post-content ol,
+  .documentation .sectionbody ol {
+    list-style-type: decimal !important;
+  }
+
+  /* Exception: don't number breadcrumb navigation */
+  .body nav[aria-label="Breadcrumb"] ol,
+  .body nav ol.list-none,
+  ol.list-none {
+    list-style: none !important;
+    padding-left: 0 !important;
+  }
+
+  .body nav[aria-label="Breadcrumb"] li,
+  .body nav ol.list-none li {
+    margin-bottom: 0 !important;
+  }
+
+  .documentation .body li,
+  .documentation .post-content li,
+  .documentation .sectionbody li {
+    margin-bottom: 0.625rem;
+    line-height: 1.7;
+  }
+
+  .documentation .body li::marker,
+  .documentation .post-content li::marker,
+  .documentation .sectionbody li::marker {
+    color: #6366f1;
+  }
+
+  /* Definition lists */
+  .documentation .body dt {
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 0.25rem;
+  }
+
+  .documentation .body dd {
+    margin-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #475569;
+  }
+
+  .dark .documentation .body ul,
+  .dark .documentation .body ol,
+  .dark .documentation .body dl,
+  .dark .documentation .post-content ul,
+  .dark .documentation .post-content ol,
+  .dark .documentation .post-content dl,
+  .dark .documentation .sectionbody ul,
+  .dark .documentation .sectionbody ol,
+  .dark .documentation .sectionbody dl {
+    color: #94a3b8;
+  }
+
+  .dark .documentation .body li::marker,
+  .dark .documentation .post-content li::marker,
+  .dark .documentation .sectionbody li::marker {
+    color: #818cf8;
+  }
+
+  .dark .documentation .body dt {
+    color: #f1f5f9;
+  }
+
+  .dark .documentation .body dd {
+    color: #94a3b8;
+  }
+
+  /* Pre/Code */
+  .documentation .body pre {
+    background: #1e293b;
+    color: #e2e8f0;
+    padding: 1rem 1.25rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+  }
+
+  .documentation .body code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.875rem;
+  }
+
+  .documentation .body :not(pre) > code {
+    background: #f1f5f9;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    color: #1e293b;
+    font-size: 0.8125rem;
+  }
+
+  .dark .documentation .body :not(pre) > code {
+    background: #334155;
+    color: #e2e8f0;
+  }
+
+  /* Tables */
+  .documentation .body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+  }
+
+  .documentation .body th,
+  .documentation .body td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .dark .documentation .body th,
+  .dark .documentation .body td {
+    border-bottom-color: #334155;
+  }
+
+  .documentation .body th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #1e293b;
+  }
+
+  .dark .documentation .body th {
+    background: #1e293b;
+    color: #f1f5f9;
+  }
+
+  /* Hide sidebar on mobile */
+  @media (max-width: 1023px) {
+    .docs-nav {
+      display: none;
+    }
+  }
+
+  /* Collapsible subsections */
+  .nav-subsection {
+    margin-left: 0.75rem;
+    border-left: 2px solid #e2e8f0;
+    padding-left: 0.75rem;
+    margin-top: 0.25rem;
+  }
+  .dark .nav-subsection {
+    border-left-color: #334155;
+  }
+
+  /* Toggle button - styled exactly like nav links */
+  .nav-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 0.75rem;
+    color: #64748b;
+    font-size: 0.875rem;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+  }
+  .nav-toggle:hover {
+    background: #f1f5f9;
+    color: #1e293b;
+  }
+  .dark .nav-toggle:hover {
+    background: #1e293b;
+    color: #f1f5f9;
+  }
+
+  /* Arrow indicator */
+  .nav-toggle::after {
+    content: '';
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(-45deg);
+    transition: transform 0.2s ease;
+    margin-left: auto;
+    flex-shrink: 0;
+  }
+  .nav-toggle.open::after {
+    transform: rotate(45deg);
+  }
+
+  .nav-subsection.collapsed {
+    display: none;
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.nav-toggle').forEach(function(toggle) {
+    toggle.addEventListener('click', function() {
+      this.classList.toggle('open');
+      var subsection = this.nextElementSibling;
+      if (subsection) subsection.classList.toggle('collapsed');
+    });
+  });
+});
+</script>
+
+<section class="documentation">
+  <!-- Left Sidebar Navigation - Fully Data-Driven -->
+  <nav class="docs-nav" aria-label="Section navigation">
+    <div class="docs-nav-content">
+
+      {% comment %}
+        Find matching section based on page URL.
+        The layout has no knowledge of specific pages - all configuration is in _data/navigation_sidebar.yml
+      {% endcomment %}
+      {% assign current_section = nil %}
+      {% for section in site.data.navigation_sidebar.sections %}
+        {% if page.url contains section.match %}
+          {% assign current_section = section %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if current_section %}
+      <div class="nav-section">
+        <div class="nav-section-title">{{ current_section.title }}</div>
+        <ul class="nav-items">
+          {% for item in current_section.items %}
+
+            {% comment %} --- LINK TYPE --- {% endcomment %}
+            {% if item.type == 'link' or item.type == nil %}
+            {% assign is_active = false %}
+            {% if page.url == item.url %}
+              {% assign is_active = true %}
+            {% endif %}
+            <li>
+              <a href="{{ item.url | relative_url }}" {% if is_active %}class="active"{% endif %}>
+                {{ item.label }}
+              </a>
+            </li>
+
+            {% comment %} --- COLLECTION TYPE --- {% endcomment %}
+            {% elsif item.type == 'collection' %}
+              {% case item.collection %}
+                {% when 'about_pages' %}
+                  {% assign docs = site.about_pages %}
+                {% when 'membership_pages' %}
+                  {% assign docs = site.membership_pages %}
+                {% when 'events' %}
+                  {% assign docs = site.events %}
+                {% when 'resources' %}
+                  {% assign docs = site.resources %}
+                {% else %}
+                  {% assign docs = site.posts %}
+              {% endcase %}
+              {% if item.sort_field == 'date' and item.sort_order == 'desc' %}
+                {% assign sorted_docs = docs | sort: 'date' | reverse %}
+              {% elsif item.sort_field %}
+                {% assign sorted_docs = docs | sort: item.sort_field %}
+              {% else %}
+                {% assign sorted_docs = docs %}
+              {% endif %}
+              {% for doc in sorted_docs %}
+              {% assign is_doc_active = false %}
+              {% if page.url == doc.url %}
+                {% assign is_doc_active = true %}
+              {% endif %}
+              <li>
+                <a href="{{ doc.url | relative_url }}" {% if is_doc_active %}class="active"{% endif %}>
+                  {{ doc.title | default: doc.name }}
+                </a>
+              </li>
+              {% endfor %}
+
+            {% comment %} --- COLLAPSIBLE TYPE --- {% endcomment %}
+            {% elsif item.type == 'collapsible' %}
+              {% assign is_open = false %}
+              {% if page.url contains item.url_filter %}
+                {% assign is_open = true %}
+              {% endif %}
+              {% case item.collection %}
+                {% when 'about_pages' %}
+                  {% assign child_docs = site.about_pages %}
+                {% when 'membership_pages' %}
+                  {% assign child_docs = site.membership_pages %}
+                {% when 'events' %}
+                  {% assign child_docs = site.events %}
+                {% when 'resources' %}
+                  {% assign child_docs = site.resources %}
+                {% else %}
+                  {% assign child_docs = site.posts %}
+              {% endcase %}
+            <li>
+              <span class="nav-toggle {% if is_open %}open{% endif %}">{{ item.label }}</span>
+              <ul class="nav-subsection {% unless is_open %}collapsed{% endunless %}">
+                {% if item.first_child_label %}
+                {% assign first_is_active = false %}
+                {% if page.url contains item.url_filter %}
+                  {% assign first_is_active = true %}
+                {% endif %}
+                <li><a href="{{ item.url | relative_url }}" {% if first_is_active %}class="active"{% endif %}>{{ item.first_child_label }}</a></li>
+                {% endif %}
+                {% for doc in child_docs %}
+                  {% assign url_matches = false %}
+                  {% if doc.url contains item.url_filter %}
+                    {% assign url_matches = true %}
+                  {% endif %}
+                  {% assign is_excluded = false %}
+                  {% if doc.url == item.url %}
+                    {% assign is_excluded = true %}
+                  {% endif %}
+                  {% if item.exclude_urls %}
+                    {% for excl in item.exclude_urls %}
+                      {% if doc.url == excl %}
+                        {% assign is_excluded = true %}
+                      {% endif %}
+                    {% endfor %}
+                  {% elsif item.exclude_url %}
+                    {% if doc.url == item.exclude_url %}
+                      {% assign is_excluded = true %}
+                    {% endif %}
+                  {% endif %}
+                  {% if url_matches and is_excluded == false %}
+                {% assign child_is_active = false %}
+                {% if page.url == doc.url %}
+                  {% assign child_is_active = true %}
+                {% endif %}
+                <li>
+                  <a href="{{ doc.url | relative_url }}" {% if child_is_active %}class="active"{% endif %}>
+                    {{ doc.title }}
+                  </a>
+                </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+
+            {% comment %} --- YEARS TYPE --- {% endcomment %}
+            {% elsif item.type == 'years' %}
+              {% assign years = site.data.news_years %}
+              {% for year in years %}
+              {% assign is_active = false %}
+              {% if page.url contains year %}
+                {% assign is_active = true %}
+              {% endif %}
+              <li>
+                <a href="/news/{{ year }}/" {% if is_active %}class="active"{% endif %}>
+                  {{ year }}
+                </a>
+              </li>
+              {% endfor %}
+
+            {% comment %} --- GROUP TYPE --- {% endcomment %}
+            {% elsif item.type == 'group' %}
+              </ul>
+              <div class="nav-group-title">{{ item.label }}</div>
+              <ul class="nav-items">
+                {% for child in item.children %}
+                  {% if child.type == 'link' or child.type == nil %}
+                  {% assign group_link_active = false %}
+                  {% if page.url == child.url %}
+                    {% assign group_link_active = true %}
+                  {% endif %}
+                  <li>
+                    <a href="{{ child.url | relative_url }}" {% if group_link_active %}class="active"{% endif %}>
+                      {{ child.label }}
+                    </a>
+                  </li>
+                  {% elsif child.type == 'collapsible' %}
+                    {% assign is_open = false %}
+                    {% if page.url contains child.url_filter %}
+                      {% assign is_open = true %}
+                    {% endif %}
+                    {% case child.collection %}
+                      {% when 'about_pages' %}
+                        {% assign child_docs = site.about_pages %}
+                      {% when 'membership_pages' %}
+                        {% assign child_docs = site.membership_pages %}
+                      {% when 'events' %}
+                        {% assign child_docs = site.events %}
+                      {% when 'resources' %}
+                        {% assign child_docs = site.resources %}
+                      {% else %}
+                        {% assign child_docs = site.posts %}
+                    {% endcase %}
+                  <li>
+                    <span class="nav-toggle {% if is_open %}open{% endif %}">{{ child.label }}</span>
+                    <ul class="nav-subsection {% unless is_open %}collapsed{% endunless %}">
+                      {% if child.first_child_label %}
+                      {% assign group_first_active = false %}
+                      {% if page.url contains child.url_filter %}
+                        {% assign group_first_active = true %}
+                      {% endif %}
+                      <li><a href="{{ child.url | relative_url }}" {% if group_first_active %}class="active"{% endif %}>{{ child.first_child_label }}</a></li>
+                      {% endif %}
+                      {% for doc in child_docs %}
+                        {% assign url_matches = false %}
+                        {% if doc.url contains child.url_filter %}
+                          {% assign url_matches = true %}
+                        {% endif %}
+                        {% assign is_excluded = false %}
+                        {% if doc.url == child.url %}
+                          {% assign is_excluded = true %}
+                        {% endif %}
+                        {% if child.exclude_urls %}
+                          {% for excl in child.exclude_urls %}
+                            {% if doc.url == excl %}
+                              {% assign is_excluded = true %}
+                            {% endif %}
+                          {% endfor %}
+                        {% elsif child.exclude_url %}
+                          {% if doc.url == child.exclude_url %}
+                            {% assign is_excluded = true %}
+                          {% endif %}
+                        {% endif %}
+                        {% if url_matches and is_excluded == false %}
+                      {% assign group_doc_active = false %}
+                      {% if page.url == doc.url %}
+                        {% assign group_doc_active = true %}
+                      {% endif %}
+                      <li>
+                        <a href="{{ doc.url | relative_url }}" {% if group_doc_active %}class="active"{% endif %}>
+                          {{ doc.title }}
+                        </a>
+                      </li>
+                        {% endif %}
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  {% endif %}
+                {% endfor %}
+
+            {% endif %}
+
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </div>
+  </nav>
+
+  <!-- Main Article -->
+  <article>
+    {% assign page_title = page.title | default: page.name %}
+    {% if page_title %}
+    <header>
+      <h1>{{ page_title }}</h1>
+    </header>
+    {% endif %}
+
+    <div class="body">
+      {{ content }}
+    </div>
+  </article>
+</section>

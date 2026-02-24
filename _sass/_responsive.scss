@@ -1,0 +1,453 @@
+// ==========================================================================
+// CalConnect Design System - Responsive Breakpoints
+// Mobile-first responsive utilities
+// ==========================================================================
+
+// ==========================================================================
+// Breakpoint Reference
+// ==========================================================================
+// xs: 0 - 639px (Mobile)
+// sm: 640px - 767px (Large Mobile)
+// md: 768px - 1023px (Tablet)
+// lg: 1024px - 1279px (Desktop)
+// xl: 1280px - 1535px (Large Desktop)
+// 2xl: 1536px+ (Extra Large Desktop)
+
+// ==========================================================================
+// Responsive Typography
+// ==========================================================================
+
+@media (max-width: 639px) {
+  h1, .h1 {
+    font-size: var(--text-3xl);
+  }
+
+  h2, .h2 {
+    font-size: var(--text-2xl);
+  }
+
+  h3, .h3 {
+    font-size: var(--text-xl);
+  }
+
+  .display-1 {
+    font-size: var(--text-4xl);
+  }
+
+  .display-2 {
+    font-size: var(--text-3xl);
+  }
+
+  .display-3 {
+    font-size: var(--text-2xl);
+  }
+
+  .lead {
+    font-size: var(--text-base);
+  }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+  h1, .h1 {
+    font-size: var(--text-4xl);
+  }
+
+  h2, .h2 {
+    font-size: var(--text-3xl);
+  }
+}
+
+// ==========================================================================
+// Responsive Spacing
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .section {
+    padding: var(--space-12) 0;
+  }
+
+  .section-lg {
+    padding: var(--space-16) 0;
+  }
+
+  .container {
+    padding: 0 var(--space-4);
+  }
+}
+
+// ==========================================================================
+// Responsive Display
+// ==========================================================================
+
+// Hide on specific breakpoints
+@media (max-width: 639px) {
+  .hide-xs { display: none !important; }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+  .hide-sm { display: none !important; }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .hide-md { display: none !important; }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .hide-lg { display: none !important; }
+}
+
+@media (min-width: 1280px) {
+  .hide-xl { display: none !important; }
+}
+
+// Show only on specific breakpoints
+@media (min-width: 640px) {
+  .show-xs-only { display: none !important; }
+}
+
+@media (max-width: 639px), (min-width: 768px) {
+  .show-sm-only { display: none !important; }
+}
+
+@media (max-width: 767px), (min-width: 1024px) {
+  .show-md-only { display: none !important; }
+}
+
+@media (max-width: 1023px), (min-width: 1280px) {
+  .show-lg-only { display: none !important; }
+}
+
+// ==========================================================================
+// Responsive Flex
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .flex-col-mobile {
+    flex-direction: column;
+  }
+
+  .flex-col-reverse-mobile {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:flex-col {
+    flex-direction: column;
+  }
+}
+
+// ==========================================================================
+// Responsive Text Alignment
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .text-center-mobile {
+    text-align: center;
+  }
+
+  .text-left-mobile {
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:text-left {
+    text-align: left;
+  }
+
+  .md\:text-center {
+    text-align: center;
+  }
+
+  .md\:text-right {
+    text-align: right;
+  }
+}
+
+// ==========================================================================
+// Responsive Grid
+// ==========================================================================
+
+@media (max-width: 639px) {
+  .grid-cols-2,
+  .grid-cols-3,
+  .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .bento-card--lg,
+  .bento-card--wide {
+    grid-column: span 1;
+    grid-row: span 1;
+    min-height: auto;
+  }
+}
+
+@media (min-width: 640px) {
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .lg\:grid-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+// ==========================================================================
+// Responsive Padding
+// ==========================================================================
+
+@media (max-width: 639px) {
+  .p-responsive {
+    padding: var(--space-4);
+  }
+
+  .px-responsive {
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+  }
+
+  .py-responsive {
+    padding-top: var(--space-4);
+    padding-bottom: var(--space-4);
+  }
+}
+
+@media (min-width: 640px) {
+  .p-responsive {
+    padding: var(--space-6);
+  }
+
+  .px-responsive {
+    padding-left: var(--space-6);
+    padding-right: var(--space-6);
+  }
+
+  .py-responsive {
+    padding-top: var(--space-6);
+    padding-bottom: var(--space-6);
+  }
+}
+
+@media (min-width: 1024px) {
+  .p-responsive {
+    padding: var(--space-8);
+  }
+
+  .px-responsive {
+    padding-left: var(--space-8);
+    padding-right: var(--space-8);
+  }
+
+  .py-responsive {
+    padding-top: var(--space-8);
+    padding-bottom: var(--space-8);
+  }
+}
+
+// ==========================================================================
+// Navigation Responsive
+// ==========================================================================
+
+@media (max-width: 1023px) {
+  .global-nav__menu {
+    display: none;
+  }
+
+  .global-nav__cta-desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .global-nav__toggle {
+    display: none;
+  }
+}
+
+// ==========================================================================
+// Hero Responsive
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .hero {
+    min-height: auto;
+    padding: var(--space-20) 0 var(--space-12);
+  }
+
+  .hero__title {
+    font-size: var(--text-4xl);
+  }
+
+  .hero__subtitle {
+    font-size: var(--text-base);
+  }
+
+  .hero__actions {
+    flex-direction: column;
+
+    .btn {
+      width: 100%;
+    }
+  }
+
+  .hero__glow {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+// ==========================================================================
+// Card Responsive
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .card {
+    padding: var(--space-4);
+  }
+
+  .card__title {
+    font-size: var(--text-lg);
+  }
+
+  .pathway-card {
+    padding: var(--space-6);
+  }
+
+  .pathway-card__icon {
+    width: 48px;
+    height: 48px;
+    font-size: var(--text-xl);
+  }
+}
+
+// ==========================================================================
+// Footer Responsive
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .footer {
+    padding: var(--space-8) 0;
+  }
+
+  .footer__grid {
+    gap: var(--space-6);
+  }
+
+  .footer__bottom {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer__social {
+    justify-content: center;
+  }
+}
+
+// ==========================================================================
+// Sidebar Responsive
+// ==========================================================================
+
+@media (max-width: 1023px) {
+  .page-with-sidebar {
+    .sidebar {
+      display: none;
+    }
+
+    .content-main {
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+// ==========================================================================
+// Search Overlay Responsive
+// ==========================================================================
+
+@media (max-width: 767px) {
+  .search-overlay__inner {
+    margin: 10vh auto;
+  }
+
+  .search-overlay__input {
+    font-size: var(--text-lg);
+    padding: var(--space-4) var(--space-5);
+    padding-left: var(--space-12);
+  }
+}
+
+// ==========================================================================
+// Safe Area (for notched devices)
+// ==========================================================================
+
+@supports (padding: max(0px)) {
+  .global-nav {
+    padding-left: max(var(--space-4), env(safe-area-inset-left));
+    padding-right: max(var(--space-4), env(safe-area-inset-right));
+  }
+
+  .footer {
+    padding-bottom: max(var(--space-8), env(safe-area-inset-bottom));
+    padding-left: max(0, env(safe-area-inset-left));
+    padding-right: max(0, env(safe-area-inset-right));
+  }
+}
+
+// ==========================================================================
+// Print Styles
+// ==========================================================================
+
+@media print {
+  .global-nav,
+  .mobile-menu,
+  .search-overlay,
+  .footer__social {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  .card {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    box-shadow: none;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .hero {
+    min-height: auto;
+    padding: var(--space-8) 0;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XX - February 7-11 2011
+title: CalConnect XX - February 7-11 2011
 host_info: Hosted by The University of California, Berkeley
 date: 2011-02-07
 image: /assets/images/UCBerkeley.jpg
@@ -35,11 +35,11 @@ You do not need finished or polished code to participate in the IOP testing; in 
 
 *Roundtable XX:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
 
-Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.  
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
-International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.  
+International visitors who are not U.S. Citizens or hold a valid U.S. passport should acquaint themselves with any changes in U.S. travel and visitor policy since their last visit to the U.S. at http://www.cbp.gov/xp/cgov/travel/id_visa/[]. Attendees who require a Letter of Invitation to obtain a visa should contact Dave Thewlis, CalConnect Executive Director, at mailto:dave.thewlis@calconnect.org[Dave.Thewlis@calconnect.org]. Please be aware that you must have registered for the event before a Letter of Invitation can be issued. San Francisco is the most practical airport for international arrivals and departures although the other two offer some international service.
 
 [[registration]]
 == Registration Information
@@ -138,7 +138,7 @@ A downloadable iCalendar.ics file with the entire schedule is also available atl
 |===
 3+.<| *ROUNDTABLE XX* - Room 60 Barrows Hall
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 9 February* +
 1000-1200 User Special Interest Group^2^ +
 1100-1200 Introduction to CalConnect^3^ +
@@ -177,7 +177,7 @@ _Hotel Shattuck Plaza_
 1300-1400 CalConnect Plenary Session +
 1400 Close of Meeting
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in a separate room to be identified later. +
@@ -186,7 +186,7 @@ _Hotel Shattuck Plaza_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
@@ -292,7 +292,7 @@ Review of IOP test participant findings
 
 |===
 
- 
+
 
 ==== Scheduled BOFs
 

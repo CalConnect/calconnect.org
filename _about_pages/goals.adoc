@@ -3,7 +3,6 @@ layout: page
 title: Goals
 type: about
 ---
-= Goals
 
 CalConnect conducts a variety of activities and offerings in support of
 our goals Consortium as detailed below. Some of these activities are

@@ -5,8 +5,6 @@ type: about
 ---
 :page-liquid:
 
-== CalConnect Major Work Projects
-
 *What we are working on now – major projects underway in CalConnect
 Technical Committees – become a member and help make these things
 happen:*

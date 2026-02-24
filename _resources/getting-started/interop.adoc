@@ -1,0 +1,71 @@
+---
+layout: page
+title: Getting Started at the Interoperability Test Event and Developers Forum
+type: resources
+permalink: /resources/getting-started/:title
+---
+
+[IMPORTANT]
+====
+Please Note: CalConnect is not currently (2019) conducting Interoperability Testing as separate events; testing opportunities are available during our four-day conferences to those interested in doing testing with other systems and applications. If you are interested in opportunities to do testing with others please contact us at contact@calconnect.org.
+====
+
+This page is intended for individuals who have not previously participated in (or observed) an Interoperability Test Event (also called an IOP Test Event or an Interop) and Developers Forum. Its purpose is to allow you to prepare for the event and understand in advance what to expect and how to maximize the value of your participation.
+
+=== What is the Interoperability Test Event?
+
+The Interoperability Test Event (hereafter the "Test Event") is two things: (a) an opportunity for organizations and individuals who wish to test their calendaring and scheduling servers, clients, libraries and services against other products to test interoperability and find (and fix) bugs and errors, and (b) a Developers Discussion Forum where participants take place in very detailed and technical discussions that are not suitable for the Conference.
+
+Testing participants may be testing new products or functions, capabilities and changes to existing code, or ongoing implementations of still-changing specifications, to ensure that the specifications actually work – and have an opportunity to change them in response to the testing before they become standards. The Developers Forum offers an opportunity for technical discussions and BOFs at the "implementation" level, as opposed to the standards and specifications level.
+
+Please be aware that CalConnect does not currently do certification or conformance testing, as opposed to interoperability testing between "real" implementations, nor does it have a "reference implementation" of CalDAV or other calendaring standards.
+
+The CalConnect Interoperability Test Event is the only open test event of its kind for calendaring and scheduling and related technologies.
+
+=== When and where are Test Events held?
+
+CalConnect holds three Test Events per year as part of the three CalConnect Events. Each week-long CalConnect Event begins with a 2½ day CalConnect Interoperability Test Event, followed by a Technical Conference.
+
+Although a number of factors determine the ultimate location of each CalConnect Event, each year we endeavor to hold at least one in North America and one in Europe; currently in "Winter" (January/February), "Spring" (May/June), and "Autumn" (September/October). Should CalConnect develop significant membership in other parts of the world, we could look to hold events in locations which facilitate participation by those members.
+
+CalConnect Events are hosted by CalConnect member organizations, generally on their premises or in nearby public space.
+
+=== How is the Test Event structured and organized?
+
+The Test Event usually occupies the first two and a half days of the CalConnect event week: all day Monday, all day Tuesday, and Wednesday until noon. It is broken into several segments, generally 1.5 or 2 hours long. Prior to the event, the Interop Manager will have recorded who (people and organizations) are going to participate, what specific things they want to test (e.g. Implicit Scheduling, VPOLL, basic CalDAV operations) and perhaps implementations they would particularly like to test against.
+
+=== Who participates in the Interoperability Test Events?
+
+The Test Events are open to both members and non-members, although the non-member registration fee is somewhat different. All attendees must agree to abide by the testing agreement and relevant parts of the CalConnect member agreement whether or not they are representing members.
+
+Members and non-members may also send an individual to a single Test Event as an Observer, at a reduced cost, to find out what is going on and to help prepare for involvement in future events. Observers at a test event cannot participate in the testing; however they are welcome to fully participate in the Developers Forum discussions.
+
+=== What do I need to do to prepare?
+
+Most importantly, you *do not need to have completely working code!* The point of interoperability testing is to help find bugs and problems, and as soon as you have something that can execute at all, exposing it to interoperability testing will speed up your testing cycle. Remember, everyone else is in the same situation you are (or has been and will be again).
+
+In particular, you should:
+
+* Review the web page for the Next Interoperability Test Event to see what the plans and intended testing scenarios are for the event
+* Register for the Test Event as soon as you know you are planning to participate
+* Request a CalConnect Userid if you don't already have one
+* Review the TC-IOPTEST Etherpads
+* Start attending the TC IOPTEST calls
+* Review the list of Discussion Topics on the test event section of the event web page
+* When the reading list is circulated, review it to be sure you are up to date on topics of interest to you
+
+=== What should I bring?
+
+Remember to bring the laptop machine running your testing code, if you plan to test it locally (this is mostly directed at server implementations). Bring a long ethernet cable in case we set up an internal network at the Test Event.
+
+=== How do I get started testing at the Test Event?
+
+If this is your first time, the Interop Manager should have arranged for someone who is familiar with the event to act as a mentor for you if you wish. Your mentor can help you get started, introduce you to people, help solve roadblocks, and in general help ensure you get the most value out of the event that you and your organization can.
+
+If you are feeling lost or out of the loop at the Test Event, this can easily happen in a group where the majority of them have been to many Test Events, are testing things they have worked on together, and seem to be speaking a private language sometime. One of your mentor's jobs is to help you become part of the group as quickly as possible.
+
+Finally, don't be shy about interrupting people if you have questions or need more information. If the person just can't talk right then they will get back to you asap, but usually they will be able to take a few moments to help you.
+
+=== Questions?
+
+If you have questions about participating in an interoperability test event, contact mailto:info@calconnect.org[info@calconnect.org].

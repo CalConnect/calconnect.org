@@ -4,8 +4,8 @@ title: CalConnect CLIENT Technical Committee
 type: about
 permalink: /about/technical-committees/:title
 ---
+:page-liquid:
 
-= CalConnect CLIENT Technical Committee
 
 == Background
 

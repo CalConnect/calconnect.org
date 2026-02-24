@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting started at CalConnect activities
+title: Getting Started
 type: resources
 ---
+:page-liquid:
 
-= Getting started at CalConnect activities
 
 The Getting Started pages are intended for individuals who are new to
 CalConnect and have not yet attended a CalConnect event or become

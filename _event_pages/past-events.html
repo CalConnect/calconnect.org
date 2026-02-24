@@ -2,38 +2,95 @@
 layout: page
 title: Past Events
 type: events
+description: Archive of past CalConnect conferences, meetings, and interoperability test events.
 ---
 
-<h2>Past Events</h2>
-<ul class="calconnect-events">
+<!-- Past Events Grid -->
+<section class="mb-12">
+  <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6 flex items-center gap-3">
+    <span class="w-10 h-10 rounded-lg bg-gradient-to-br from-gray-400 to-gray-500 flex items-center justify-center">
+      <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+    </span>
+    Event Archive
+  </h2>
+
   {% assign sorted_events = site.events | sort: 'date' | reverse %}
-  {% for event in sorted_events %}
-  {% assign event_date = event.date | date: "%s" %}
   {% assign current_date = "now" | date: "%s" %}
-  {% if current_date > event_date %}
-  <li class="views-row">
-    <div class="views-field views-field-field-image">
-      <div class="field-content">
-        <a href="{{event.url | relative_url }}">
-          <img typeof="foaf:Image" class="img-responsive" src="{{event.image | relative_url}}"
-            alt="Event Image">
+  {% assign has_past = false %}
+
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {% for event in sorted_events %}
+      {% assign event_date = event.date | date: "%s" %}
+      {% if current_date > event_date %}
+        {% assign has_past = true %}
+        <a href="{{ event.url | relative_url }}" class="event-card block group overflow-hidden">
+          <!-- Hero Image -->
+          <div class="relative h-48 overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800">
+            {% if event.image %}
+            <img src="{{ event.image | relative_url }}" alt="{{ event.name | default: event.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
+            {% else %}
+            <div class="absolute inset-0 flex items-center justify-center">
+              <svg class="w-16 h-16 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+            </div>
+            {% endif %}
+            <!-- Date Overlay -->
+            <div class="absolute bottom-3 left-3 px-3 py-1.5 rounded-lg bg-black/60 backdrop-blur-sm text-white text-sm font-medium">
+              {{ event.date | date: "%B %d, %Y" }}
+            </div>
+          </div>
+
+          <!-- Content -->
+          <div class="p-5">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors mb-2">
+              {{ event.name | default: event.title }}
+            </h3>
+            {% if event.host_info %}
+            <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">{{ event.host_info }}</p>
+            {% endif %}
+            {% if event.location %}
+            <div class="flex items-center gap-1 mt-3 text-sm text-gray-500 dark:text-gray-500">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+              {{ event.location }}
+            </div>
+            {% endif %}
+          </div>
         </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% unless has_past %}
+  <div class="text-center py-12 px-6 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
+    <svg class="w-12 h-12 mx-auto text-gray-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+    <h3 class="text-lg font-medium text-gray-900 dark:text-white mb-2">No Past Events</h3>
+    <p class="text-gray-600 dark:text-gray-400">Events will appear here after they have taken place.</p>
+  </div>
+  {% endunless %}
+</section>
+
+<!-- Quick Links -->
+<section class="grid md:grid-cols-2 gap-4">
+  <a href="/events" class="p-6 rounded-xl bg-gradient-to-br from-primary-500/5 to-accent-400/5 border border-primary-200/30 dark:border-primary-500/20 hover:shadow-lg transition-all group">
+    <div class="flex items-center gap-4">
+      <div class="w-12 h-12 rounded-lg bg-gradient-to-br from-primary-500 to-accent-400 flex items-center justify-center">
+        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+      </div>
+      <div>
+        <h3 class="font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400">Upcoming Events</h3>
+        <p class="text-sm text-gray-600 dark:text-gray-400">View upcoming conferences and meetings</p>
       </div>
     </div>
-    <div class="views-field views-field-title">
-      <span class="field-content">
-        <a href="{{event.url | relative_url }}">
-          <h3>{{event.name}}</h3>
-        </a>
-      </span>
-    </div>
-    <div class="views-field views-field-body">
-      <div class="field-content">
-        <p>{{event.host_info}}</p>
-        <br class="clear">
+  </a>
+
+  <a href="/events/conferences" class="p-6 rounded-xl bg-gradient-to-br from-accent-400/5 to-primary-500/5 border border-accent-200/30 dark:border-accent-500/20 hover:shadow-lg transition-all group">
+    <div class="flex items-center gap-4">
+      <div class="w-12 h-12 rounded-lg bg-gradient-to-br from-accent-400 to-primary-500 flex items-center justify-center">
+        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
+      </div>
+      <div>
+        <h3 class="font-semibold text-gray-900 dark:text-white group-hover:text-accent-600 dark:group-hover:text-accent-400">Conferences</h3>
+        <p class="text-sm text-gray-600 dark:text-gray-400">Learn about our annual conferences</p>
       </div>
     </div>
-  </li>
-  {% endif %}
-  {% endfor %}
-</ul>
+  </a>
+</section>

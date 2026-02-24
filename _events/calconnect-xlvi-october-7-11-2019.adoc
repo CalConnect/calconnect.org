@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XLVI - October 7-11, 2019
+title: CalConnect XLVI - October 7-11, 2019
 host_info: Hosted by FastMail in Philadelphia, Pennsylvania
 date: 2019-10-07
 image: /assets/images/Philadelphia.jpg

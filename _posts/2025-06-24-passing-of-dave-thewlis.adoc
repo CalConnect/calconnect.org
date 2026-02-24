@@ -4,8 +4,8 @@ title: The passing of Dave Thewlis
 date: 2025-07-08
 type: news
 categories: the-world-of-calendaring special-focus announcements
-excerpt:
-  The passing of Dave Thewlis on June 17, 2025.01
+excerpt: |
+  The passing of Dave Thewlis on June 17, 2025.
 ---
 :page-liquid:
 

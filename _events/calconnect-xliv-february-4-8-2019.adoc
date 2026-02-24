@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XLIV - February 4-8, 2019
+title: CalConnect XLIV - February 4-8, 2019
 host_info: Hosted by Google, Zürich, Switzerland
 date: 2019-02-04
 image: /assets/images/Zurich_0.jpg

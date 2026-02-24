@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== vCard Resources
-
 "Define the vCard representation of calendaring resources to ease the discovery
 and scheduling of resources between any calendar client and server"
 

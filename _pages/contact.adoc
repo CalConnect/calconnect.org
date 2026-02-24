@@ -4,7 +4,6 @@ title: Contact
 type: contact
 ---
 
-== Contact
 NOTE: If you are trying to log in to #California Connect# you are on the
 wrong site. Try https://caconnect.org[] (Note the missing 'l')
 

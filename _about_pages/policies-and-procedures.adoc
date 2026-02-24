@@ -5,8 +5,6 @@ type: about
 permalink: /about/policies/policies-and-procedures
 ---
 :page-liquid:
-== Policies and Procedures
-
 The following Policies and Recommendations have been adopted by The
 Calendaring and Scheduling Consortium. Members of the Consortium agree
 to abide by the provisions of Consortium policies and governing

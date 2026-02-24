@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XIV - February 2-6 2009
+title: CalConnect XIV - February 2-6 2009
 host_info: Hosted by Microsoft, Redmond, Washington
 date: 2009-02-02
 image: /assets/images/MicrosoftRedmond.jpg

@@ -1,0 +1,55 @@
+---
+layout: page
+title: Extended Daylight Saving Time Review and Considerations
+type: resources
+permalink: /resources/daylight-saving-time/:title
+---
+
+This document provides a review of the Daylight Saving Time changes and
+the potential impact of this change on computer systems and devices. It
+is intended as a review and reference for users and in particular for
+systems administrators who may need to make necessary updates to their
+systems.
+
+== Background
+
+The Energy Policy Act of 2005 extended Daylight Saving Time in the
+United States starting in 2007. The changes:
+
+* DST begins: Second Sunday in March (previously first Sunday in April)
+* DST ends: First Sunday in November (previously last Sunday in October)
+
+This four-week extension had significant implications for computer
+systems that rely on accurate timezone information.
+
+== Impact on Systems
+
+=== Operating Systems
+
+All major operating systems required updates to handle the new DST rules:
+
+* Windows
+* macOS
+* Linux distributions
+* Mobile operating systems
+
+=== Applications
+
+Applications that handle dates and times may need updates:
+
+* Calendar and scheduling applications
+* Email clients
+* Database systems
+* Custom applications with date/time logic
+
+== Best Practices
+
+. **Apply patches promptly** - Ensure all systems have the latest timezone updates
+. **Verify meeting times** - Double-check scheduled meetings around DST transitions
+. **Test applications** - Verify custom applications handle the new rules correctly
+. **Document changes** - Keep records of updates applied
+
+== Additional Resources
+
+* /resources/daylight-saving-time/[Daylight Saving Time Overview]
+* /resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes/[Vendor Links and Advisories]

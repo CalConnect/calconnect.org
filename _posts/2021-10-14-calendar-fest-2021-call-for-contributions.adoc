@@ -8,7 +8,6 @@ excerpt: The CalConnect Virtual Conference Autumn 2021 web page contains informa
 ---
 :page-liquid:
 
-= Call for contributions for the CalendarFest 2021 (Autumn 2021)
 
 CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers, and related groupware systems, share experiences and discuss novel ideas.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XLV - June 3-7, 2019
+title: CalConnect XLV - June 3-7, 2019
 host_info: Hosted by Youcanbook.me (YCBM), Bedford, United Kingdom
 date: 2019-06-03
 image: /assets/images/BedfordUK.jpg

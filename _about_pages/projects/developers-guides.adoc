@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== Developer's Guides
-
 Create a "cookbook" guide and other supporting
 materials for iCalendar and potentially other APIs such as CalDAV.
 

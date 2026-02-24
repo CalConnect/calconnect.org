@@ -1,0 +1,44 @@
+---
+layout: page
+title: CalConnect Time Zone Discussion List
+type: resources
+permalink: /resources/discussion-lists/:title
+---
+
+_Created 18 October 2018_
+
+CalConnect has implemented this public discussion list, intended for discussion on timezones, especially in calendaring and scheduling. A particular focus is on exchanging issues, challenges, and best practices related to timezone changes. The intended audience for this list is hence not only technical, but also involves decision makers involved in the political process of changing timezones.
+
+The Charter and Rules of Use for this list are given below. We invite all interested parties to subscribe to this list and make use of it.
+
+For list information and to subscribe, please see http://lists.calconnect.org/listinfo.cgi/timezonediscuss-l-calconnect.org
+
+[IMPORTANT]
+====
+All CalConnect lists are moderated. You must subscribe to the list (and your subscription must be approved by the moderator) before you will be able to post to the list, receive messages posted on the list, or access the list archives.
+====
+
+=== Charter
+
+The Calendaring and Scheduling Consortium Time Zone Discussion List was implemented to create a space for collecting and discussing issues related to the role of timezones in information systems and electronic devices.
+
+A particular concern are timezone changes (such as changing daylight saving time rules), as decided by governments around the world, and their timely and seamless propagation into information systems. The list should allow technical and political practitioners to discuss challenges and issues in order to jointly agree upon best practices for the usage and update of timezone information.
+
+Mailing lists for particular technical aspects of timezones, such as the IANA Time Zone Database (https://mm.icann.org/listinfo/tz) or the Time Zone Data Distribution Service (https://www.ietf.org/mailman/listinfo/Tzdist-bis) do exist. Complementary to those lists however, we aim to offer a space for discussing timezone issues and best practices from a perspective that is not bound to particular systems or standards.
+
+It is the responsibility of all participants on the list to ensure that their comments adhere to the CalConnect Intellectual Property Rights policy with respect to contributions. In particular, it is the policy of The Calendaring and Scheduling Consortium that no confidential material is to be discussed at or during Consortium activities (this list constitutes a Consortium activity). All information provided or discussed in Consortium activities is presumed to be public information and all participants are reminded that they should not discuss or reveal any confidential information of their respective companies, nor post anything which is bound by their companies' Intellectual Property Rights without revealing the fact.
+
+This list is moderated. Abuse of the list or the rules of use may result in an individual being cautioned or ultimately being removed from the list, at the sole discretion of the list moderators.
+
+=== Rules of Use
+
+Please use this resource in a professional and respectful manner. In particular, please refrain from "flames" and critiques of others' postings. Please keep your postings cogent and to the point.
+
+* Do not post anything which is confidential to your company or organization. Do not post anything which is intellectual property of your company or organization without revealing the fact.
+* Do not attach files to your postings. Many list members block attachments which will result in a large amount of "blocked" traffic back to the list moderators. If you must have an attachment, put it on a web server and reference the URL.
+* The list may not be used for product advertisements or solicitations. Attempts to do so will result in the offender being removed from the list.
+* If your subscribed e-mail address starts to bounce messages, it will be removed from the list after 2-3 days; the list moderators will attempt to contact the subscribed e-mail address if this happens.
+
+By subscribing to this list and by posting to this list you accept and agree to abide by the above Charter and Rules of Use.
+
+IF YOU ARE UNSURE of the appropriateness of any post, or for any other reason you wish to contact the list administrator, please e-mail timezonediscuss-l-owner@lists.calconnect.org.

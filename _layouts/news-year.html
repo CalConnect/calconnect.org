@@ -1,0 +1,95 @@
+---
+layout: default
+type: news
+---
+
+<!-- Breadcrumb Navigation -->
+<nav class="mb-6 text-sm" aria-label="Breadcrumb">
+  <ol class="flex items-center flex-wrap gap-2 list-none">
+    <li>
+      <a href="/" class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Home</a>
+    </li>
+    {% if page.type %}
+    <li class="flex items-center gap-2">
+      <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+      <a href="/news" class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">News</a>
+    </li>
+    {% endif %}
+    {% if page.year %}
+    <li class="flex items-center gap-2">
+      <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+      <span class="text-gray-900 dark:text-white font-medium">{{ page.year }}</span>
+    </li>
+    {% endif %}
+  </ol>
+</nav>
+
+<!-- Mobile Section Navigation -->
+<div class="lg:hidden mb-6">
+  <details class="group">
+    <summary class="flex items-center justify-between w-full px-4 py-3 bg-gray-50 dark:bg-gray-800/50 rounded-lg cursor-pointer list-none hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+      <span class="font-medium text-gray-900 dark:text-white">Year Navigation</span>
+      <svg class="w-5 h-5 text-gray-500 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+    </summary>
+    <div class="mt-2 p-4 bg-gray-50 dark:bg-gray-800/50 rounded-lg">
+      <nav class="space-y-1">
+        <a href="/news" class="block px-3 py-2 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700">All News</a>
+        {% for y in site.data.news_years %}
+        <a href="/news/{{ y }}" class="block px-3 py-2 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700">{{ y }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </details>
+</div>
+
+<!-- Content -->
+<div class="prose-content">
+  <h1 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">News from {{ page.year }}</h1>
+
+  <!-- Category Filter -->
+  <div class="mb-6 flex flex-wrap gap-2">
+    <span class="text-sm text-gray-500 dark:text-gray-400">Filter by category:</span>
+    <a href="/news/category/announcements/" class="text-sm px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">Announcements</a>
+    <a href="/news/category/the-world-of-calendaring/" class="text-sm px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">The World of Calendaring</a>
+    <a href="/news/category/general-information/" class="text-sm px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">General Information</a>
+    <a href="/news/category/press-releases/" class="text-sm px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">Press Releases</a>
+    <a href="/news/category/current-events/" class="text-sm px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">Current Events</a>
+  </div>
+
+  <div class="space-y-4">
+    {% for post in site.posts reversed %}
+    {% assign post_year = post.date | date: '%Y' %}
+    {% if post_year == page.year %}
+    {% include news-card.html post=post %}
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
+    <a href="/news/" class="inline-flex items-center text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
+      <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+      Back to all news
+    </a>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const sectionNav = document.getElementById('section-nav');
+  if (sectionNav) {
+    const years = {{ site.data.news_years | jsonify }};
+    const currentYear = '{{ page.year }}';
+    let html = '<div class="mb-4"><a href="/news/" class="flex items-center px-3 py-2 text-sm font-medium rounded-lg text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white transition-colors"><svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/></svg>All News</a></div>';
+    html += '<div class="border-t border-gray-100 dark:border-gray-800 pt-4"><h3 class="px-3 text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-2">Archives by Year</h3>';
+    years.forEach(function(year) {
+      const isActive = year === currentYear;
+      const classes = isActive
+        ? 'flex items-center px-3 py-2 text-sm font-medium rounded-lg bg-primary-50 dark:bg-primary-500/20 text-primary-700 dark:text-primary-300'
+        : 'flex items-center px-3 py-2 text-sm rounded-lg text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white transition-colors';
+      html += '<a href="/news/' + year + '/" class="' + classes + '">' + year + '</a>';
+    });
+    html += '</div>';
+    sectionNav.innerHTML = html;
+  }
+});
+</script>

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXVII - June 3-7, 2013
+title: CalConnect XXVII - June 3-7, 2013
 host_info: Hosted by The University of Wisconsin, Madison, Wisconsin
 date: 2013-06-03
 image: /assets/images/UWiscMadison.jpg
@@ -320,7 +320,7 @@ Review of IOP test participant findings
 
 |===
 
- 
+
 
 [[bofs]]
 ==== Scheduled BOFs

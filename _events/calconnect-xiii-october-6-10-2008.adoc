@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XIII - October 6-10 2008
+title: CalConnect XIII - October 6-10 2008
 host_info: Hosted by Yahoo/Zimbra, Santa Clara, California
 date: 2008-10-06
 image: /assets/images/Yahoo.jpg

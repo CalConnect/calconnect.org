@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXIX - February 3-7, 2014
+title: CalConnect XXIX - February 3-7, 2014
 host_info: Hosted by Mozilla, San Francisco, California
 date: 2014-02-03
 image: /assets/images/SanFranciscoCA.jpg

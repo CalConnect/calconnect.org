@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect Public Day - Hong Kong IT Fest
+title: CalConnect Public Day - Hong Kong IT Fest
 host_info: Wednesday, April 20, 2016 - All Day
 date: 2016-05-20
 image: /assets/images/public_day_logo_0.jpg

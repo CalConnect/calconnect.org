@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== Timezone service and registry
-
 "Full timezone support via dynamic server calls rather than embedding timezone
 information in events - no more having event times wrong when timezones change
 and your software isn't updated"

@@ -3,7 +3,6 @@ layout: page
 title:  Media Resources
 type: about
 ---
-= Media Resources
 
 == The CalConnect Logo
 

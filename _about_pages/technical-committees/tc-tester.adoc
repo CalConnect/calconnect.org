@@ -6,7 +6,6 @@ permalink: /about/technical-committees/:title
 order: 14
 ---
 
-= CalConnect TESTER Technical Committee
 
 == Background
 

@@ -1,0 +1,64 @@
+---
+layout: page
+title: Getting Started at the CalConnect Conference
+type: resources
+permalink: /resources/getting-started/:title
+---
+
+This page is intended for individuals who have not attended a CalConnect Conference, often just called the Conference. Its purpose is to allow you to prepare for the event and understand in advance what to expect and how to maximize the value of your participation.
+
+=== What is the CalConnect Conference?
+
+The CalConnect Conference is the event where technical work in progress is reviewed, new work is proposed, organizational matters are discussed, and consensus obtained on CalConnect-wide or industry-wide issues. A Conference consists mostly of technical sessions, together with occasional Workshops and BOFs, and a Plenary meeting consisting of everyone attending the conference. CalConnect Conferences are almost always held in conjunction with a Test Event/Developers Forum.
+
+As CalConnect conducts almost all of its Technical Committee meetings online and via conference call, the Conferences provide the in-person opportunity for networking and socializing for our member representatives and for "observers" (first-time non-member attendees), located across North America, Europe, and Asia.
+
+CalConnect Conferences are the only regularly occurring conference technical or otherwise for calendaring and scheduling and related technologies.
+
+=== When and where are CalConnect Conferences held?
+
+CalConnect holds three Conferences per year as part of its three CalConnect Events. Each week-long CalConnect event begins with a 2½ day CalConnect Test Event, followed by the CalConnect Conference.
+
+Although a number of factors determine the ultimate location of each CalConnect Event, each year we endeavor to hold one in North American and one in Europe. Our three events are currently our "Winter" (January/February), "Spring" (May/June), and "Autumn" (September/October) events. Should CalConnect develop significant membership in other parts of the world, we will explore events in locations which facilitate participation by those members, as we have recently done for our European members.
+
+CalConnect Events are hosted by CalConnect member organizations, generally on their premises or in nearby public space.
+
+=== How is the CalConnect Conference structured and organized?
+
+The Conference generally occupies the last two and a half days of the CalConnect event week, beginning Wednesday after lunch and ending mid-afternoon on Friday. The Conference is broken into sessions normally lasting from 1-2 hours. Sessions are allocated to each current or future topic of interest, and to other technical and administrative purposes. Sessions are arranged serially, rather than in parallel, to ensure that participants can attend all sessions in which they are interested.
+
+The Conference opens immediately following lunch on Wednesday with introductions and short presentations from new members about their organizations, followed by a report from the Test Event covering what each participant tested and the results.
+
+=== Who participates in the CalConnect Conference?
+
+The Conferences are open to all member representatives from Members in good standing. All participants must agree to abide by the relevant parts of the CalConnect Member Agreement. Conferences are also conducted on the basis that "what is said in the room stays in the room". Participants are encouraged to become involved in discussions and contribute to decisions. Member representatives who cannot attend a conference may also join one or more sessions remotely, through a combination of audio and screen sharing.
+
+Non-members may also send representatives to a single Conference as Observers, to sample what CalConnect is doing and determine if they wish to join as members.
+
+=== What do I need to do to prepare?
+
+It may help to review the reports on the most recent Conference at Event Reports to get an idea of what the Technical Committees have been working on and reporting on recently, and other relevant information.
+
+In particular, you should:
+
+* Register for the Conference as soon as you know you are planning to attend
+* Review the schedule of sessions on the event web page
+* If there is a topic of interest to you and your organization not on the published schedule, you can suggest a BOF on the topic to the Executive Director in advance, or during the opening session
+* Plan on attending the "Introduction to CalConnect Q&A" Session held late Wednesday morning for first-time attendees and anyone who has questions about CalConnect
+* If your organization is attending its first Conference as a member, it will have been asked to present a short (5-10 minute) presentation about itself, its business and its interests in CalConnect, which may be your responsibility
+
+=== How do I get started at the Conference?
+
+If this is your first time at a CalConnect Conference we can arrange for someone who is familiar with our Conferences to act as a mentor, if you wish one. If that hasn't been arranged prior to your arrival, please check with the Executive Director as soon as you get there. Your mentor can help you get started, introduce you to people, help solve roadblocks, and in general help ensure that you get the greatest possible value from the event.
+
+You should plan on attending the "Introduction to CalConnect Q&A" Session late Wednesday morning. This is a good opportunity to meet other first-time participants, and get questions answered that you will probably still have.
+
+Going forward through the Conference:
+
+* *Participate!* We refer to those present at Conferences as "participants" rather than "attendees". Your participation adds value to the event, adds value for other participants, and maximizes the value you and your organization come away with. Asking questions is a great way to participate.
+* Seek out CalConnect organizational and technical leaders during the course of the event and get to know them. CalConnect is a meritocracy; anyone irrespective of membership category or company affiliation can become a CalConnect thought leader, technical leader, or organizational leader, based on merit.
+* Be sure to talk with members and leaders of Technical Committees in which your organization may be interested but isn't currently participating in.
+
+=== Questions?
+
+If you have questions about attending a CalConnect conference, contact mailto:info@calconnect.org[info@calconnect.org].

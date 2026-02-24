@@ -1,0 +1,51 @@
+---
+layout: page
+title: Extended Daylight Saving Time Links, Advisories and Changes
+type: resources
+permalink: /resources/daylight-saving-time/:title
+---
+
+This document is a compilation of links to vendor-provided advisories,
+technical notes, change documents, and the like. Its primary purpose is
+to try and consolidate in one place links to references for Calendaring
+and Scheduling systems and major underlying operating systems.
+
+== Major Operating System Vendors
+
+=== Microsoft Windows
+
+* https://support.microsoft.com/en-us/help/22803/daylight-saving-time[Microsoft Daylight Saving Time Help and Support]
+
+=== Apple macOS
+
+* https://support.apple.com[Apple Support]
+* Software Update mechanism handles timezone updates automatically
+
+=== Linux
+
+Most Linux distributions update timezone data through the system package
+manager. Check your distribution's documentation for updating the
+timezone data packages (typically tzdata or timezone).
+
+== Major Calendaring Vendors
+
+For vendor-specific information about their products and DST changes,
+please contact the vendor directly or check their support websites.
+
+== Reporting Issues
+
+If you discover issues related to DST changes, please report them to:
+
+* The vendor of the affected product
+* mailto:info@calconnect.org[CalConnect] for standards-related issues
+
+== Keeping This Page Current
+
+We realize that this compilation is far from complete, and is only as
+useful as it is inclusive. Please send additional references and URLs
+to mailto:info@calconnect.org?subject=Daylight%20Saving%20Time%20Referrals[DST Referrals].
+
+== Related Resources
+
+* /resources/daylight-saving-time/[Daylight Saving Time Overview]
+* /resources/daylight-saving-time/extended-daylight-saving-time-review-and-considerations/[Review and Considerations]

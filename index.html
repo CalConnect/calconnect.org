@@ -1,153 +1,215 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
 
-<div class="main-container container">
-
-  <!-- Page Header -->
-  <header role="banner" id="page-header">
-  </header> <!-- /#page-header -->
-
-  <div class="row">
-    <section class="col-sm-12">
-
-      <!-- Anchor for Main Content -->
-      <a id="main-content"></a>
-      <div class="region region-content">
-
-        <!-- Carousel Section -->
-        <section id="block-carousel" class="block block-views">
-          <div
-            class="view view-carousel view-id-carousel view-display-id-block view-dom-id-804e2c6d032af873bc963f4d40b4b8b1">
-            <img typeof="foaf:Image" class="img-responsive"
-              src="{{'/assets/images/CalConnectEventTBD.jpg' | relative_url}}" alt="" draggable="false">
-          </div>
-        </section>
-
-        <!-- Welcome Section -->
-        <section id="block-system-main" class="block block-system">
-          <article id="node-523" class="node node-page" about="{{'/welcome' | relative_url }}" typeof="foaf:Document">
-            <header>
-              <!-- Hidden metadata for SEO -->
-              <span property="dc:title" content="Welcome to CalConnect" class="rdf-meta element-hidden"></span>
-              <span property="sioc:num_replies" content="0" datatype="xsd:integer"
-                class="rdf-meta element-hidden"></span>
-            </header>
-            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-              <div class="field-items">
-                <div class="field-item even" property="content:encoded">
-                  <h1>Welcome to CalConnect</h1>
-                  <p>
-                    Welcome to CalConnect<sup>SM</sup>. We are a non-profit partnership between developers,
-                    vendors and users of collaboration tools.&nbsp;
-                    <em><a href="about">More About CalConnect ...</a></em>
-                  </p>
-                </div>
-              </div>
-            </div>
-            <footer></footer>
-          </article>
-        </section>
-
-        <!-- "CalConnect For..." Section -->
-        <section id="calconnect-for" class="block block-block">
-          <h2 class="block-title">CalConnect For...</h2>
-          <ul id="calconnect-for-content">
-            <li>
-              <a href="{{'/membership/why-join' | relative_url}}">
-                <img src="{{'/assets/images/glyphGears.png' | relative_url}}" alt=""><br>
-                Developers
-              </a>
-            </li>
-            <li>
-              <a href="{{'/membership/why-join' | relative_url}}">
-                <img src="{{'/assets/images/glyphGroup.png' | relative_url}}" alt=""><br>
-                Product<br>Managers
-              </a>
-            </li>
-            <li>
-              <a href="{{'/about/liaisons-and-relationships' | relative_url}}">
-                <img src="{{'/assets/images/glyphCheck.png' | relative_url}}" alt=""><br>
-                Standards<br>Community
-              </a>
-            </li>
-          </ul>
-        </section>
-
-        <!-- Highlighted Post Section -->
-        <section id="fp-highlight" class="block block-views">
-          <div
-            class="view view-news-and-highlights view-id-news_and_highlights view-display-id-block_fp_highlight view-dom-id-78daabeb47c2896cf027b407d22849df">
-            <div class="view-content">
-              {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-              {% for post in sorted_posts limit:1 %}
-              <div>
-                <div class="views-field views-field-nothing">
-                  <span class="field-content">
-                    <a href="{{ post.url | relative_url }}">
-                      <h2>{{ post.title }}</h2>
-                    </a>
-                    <p>{{ post.excerpt }}</p>
-                    <a href="{{ post.url | relative_url }}" class="more-link">More...</a>
-                  </span>
-                </div>
-              </div>
-              {% endfor %}
-            </div>
-          </div>
-        </section>
-
-        <!-- "Connect with Us" Section -->
-        <section id="block-fp-lists-new" class="block block-block">
-          <h2 class="block-title">Connect with Us</h2>
-          <ul>
-            <li>
-              <a href="{{'/resources/discussion-lists' | relative_url }}">
-                <img alt="" src="{{'/assets/images/CalConnectLists.png' | relative_url}}">
-                Join our Discussion Lists
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/CalConnect">
-                <img alt="" src="{{'/assets/images/twitter.png' | relative_url}}">
-                Follow @CalConnect
-              </a>
-            </li>
-            <li>
-              <a href="{{'/events/calendars' | relative_url }}">
-                <img alt="" src="{{'/assets/images/CalConnectCalendars.png' | relative_url}}">
-                CalConnect Calendars
-              </a>
-            </li>
-          </ul>
-        </section>
-
-        <!-- Latest Developments Section -->
-        <section id="block-views-news-and-highlights-block-1" class="block block-views">
-          <h2 class="block-title">Latest Developments</h2>
-          <div class="view view-news-and-highlights view-id-news_and_highlights view-display-id-block_1 fp-listing">
-            <div class="view-content">
-              <div class="item-list">
-                <ul>
-                  {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-                  {% for post in sorted_posts limit:5 %}
-                  <li class="views-row">
-                    <div class="views-field views-field-title">
-                      <span class="field-content">
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                      </span>
-                    </div>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-            <div class="view-footer">
-              <a href="{{'/news' | relative_url}}" class="btn btn-primary">All News &amp; Highlights</a>
-            </div>
-          </div>
-        </section>
-      </div>
-    </section>
+<!-- Hero Section - New York Tech Style -->
+<section class="relative min-h-[85vh] flex items-center overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-indigo-900">
+  <!-- Animated mesh gradient background -->
+  <div class="absolute inset-0 opacity-30">
+    <div class="absolute top-0 -left-4 w-72 h-72 bg-indigo-500 rounded-full mix-blend-multiply filter blur-xl animate-pulse"></div>
+    <div class="absolute top-0 -right-4 w-72 h-72 bg-purple-500 rounded-full mix-blend-multiply filter blur-xl animate-pulse" style="animation-delay: 2s"></div>
+    <div class="absolute -bottom-8 left-20 w-72 h-72 bg-cyan-500 rounded-full mix-blend-multiply filter blur-xl animate-pulse" style="animation-delay: 4s"></div>
   </div>
-</div>
+
+  <!-- Grid pattern overlay -->
+  <div class="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg width=%2260%22 height=%2260%22 viewBox=%220 0 60 60%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg fill=%22none%22 fill-rule=%22evenodd%22%3E%3Cg fill=%22%23ffffff%22 fill-opacity=%220.03%22%3E%3Cpath d=%22M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')]"></div>
+
+  <div class="container relative z-10 px-6 md:px-8 max-w-7xl mx-auto py-24">
+    <div class="max-w-3xl">
+      <!-- Badge -->
+      <div class="inline-flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full text-sm text-indigo-300 mb-8">
+        <span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
+        The Calendaring & Scheduling Consortium
+      </div>
+
+      <!-- Main Headline - Original message -->
+      <h1 class="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
+        Welcome to <span class="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-cyan-400">CalConnect</span>
+      </h1>
+
+      <!-- Subheadline -->
+      <p class="text-xl md:text-2xl text-slate-300 mb-8 leading-relaxed max-w-2xl">
+        We are a non-profit partnership between developers, vendors and users of collaboration tools.
+      </p>
+
+      <!-- CTAs -->
+      <div class="flex flex-wrap gap-4">
+        <a href="/about" class="inline-flex items-center gap-2 px-8 py-4 bg-indigo-600 hover:bg-indigo-500 text-white font-semibold rounded-xl transition-all shadow-lg shadow-indigo-500/25 hover:shadow-indigo-500/40 hover:-translate-y-1">
+          Learn More
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="/membership" class="inline-flex items-center gap-2 px-8 py-4 bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/20 text-white font-semibold rounded-xl transition-all">
+          Join Now
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scroll indicator -->
+  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+    <svg class="w-6 h-6 text-white/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+    </svg>
+  </div>
+</section>
+
+<!-- CalConnect For... Section -->
+<section class="py-20 bg-white dark:bg-slate-900">
+  <div class="container px-6 md:px-8 max-w-7xl mx-auto">
+    <h2 class="text-3xl md:text-4xl font-bold text-center text-slate-900 dark:text-white mb-4">
+      CalConnect For...
+    </h2>
+    <p class="text-center text-slate-600 dark:text-slate-400 mb-12 max-w-2xl mx-auto">
+      Whether you're a developer, product manager, or standards professional, CalConnect has resources for you.
+    </p>
+
+    <div class="grid md:grid-cols-3 gap-8">
+      <!-- Developers -->
+      <a href="/membership/why-join" class="group p-8 bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-500/10 dark:to-purple-500/10 border border-indigo-100 dark:border-indigo-500/20 rounded-2xl hover:border-indigo-300 dark:hover:border-indigo-500/50 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+        <div class="w-16 h-16 flex items-center justify-center bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl mb-6 group-hover:scale-110 transition-transform">
+          <svg class="w-9 h-9 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M14.25 9.75L16.5 12l-2.25 2.25m-4.5 0L7.5 12l2.25-2.25M6 20.25h12A2.25 2.25 0 0020.25 18V6A2.25 2.25 0 0018 3.75H6A2.25 2.25 0 003.75 6v12A2.25 2.25 0 006 20.25z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h.01M12 12h.01M15 12h.01"/>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">Developers</h3>
+        <p class="text-slate-600 dark:text-slate-400 mb-4">Implement calendar standards in your applications with our comprehensive documentation and tools.</p>
+        <span class="inline-flex items-center gap-2 text-indigo-600 dark:text-indigo-400 font-medium group-hover:gap-3 transition-all">
+          Get Started
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </span>
+      </a>
+
+      <!-- Product Managers -->
+      <a href="/membership/why-join" class="group p-8 bg-gradient-to-br from-cyan-50 to-blue-50 dark:from-cyan-500/10 dark:to-blue-500/10 border border-cyan-100 dark:border-cyan-500/20 rounded-2xl hover:border-cyan-300 dark:hover:border-cyan-500/50 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+        <div class="w-16 h-16 flex items-center justify-center bg-gradient-to-br from-cyan-500 to-blue-600 rounded-2xl mb-6 group-hover:scale-110 transition-transform">
+          <svg class="w-9 h-9 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z"/>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3 group-hover:text-cyan-600 dark:group-hover:text-cyan-400 transition-colors">Product Managers</h3>
+        <p class="text-slate-600 dark:text-slate-400 mb-4">Ensure your products meet industry standards and achieve seamless interoperability.</p>
+        <span class="inline-flex items-center gap-2 text-cyan-600 dark:text-cyan-400 font-medium group-hover:gap-3 transition-all">
+          View Benefits
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </span>
+      </a>
+
+      <!-- Standards Community -->
+      <a href="/about/technical-committees" class="group p-8 bg-gradient-to-br from-violet-50 to-purple-50 dark:from-violet-500/10 dark:to-purple-500/10 border border-violet-100 dark:border-violet-500/20 rounded-2xl hover:border-violet-300 dark:hover:border-violet-500/50 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+        <div class="w-16 h-16 flex items-center justify-center bg-gradient-to-br from-violet-500 to-purple-600 rounded-2xl mb-6 group-hover:scale-110 transition-transform">
+          <svg class="w-9 h-9 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 016 18.719m12 0a5.971 5.971 0 00-.941-3.197m0 0A5.995 5.995 0 005.936 15.36a6.003 6.003 0 003.292 6.186A11.944 11.944 0 0112 21c2.17 0 4.207-.576 5.963-1.584a6.003 6.003 0 003.292-6.186A5.995 5.995 0 0012 12.005a5.995 5.995 0 00-5.936 4.779m11.936 0c.047.299.07.604.07.917 0 1.657-.895 3.104-2.223 3.883A8.947 8.947 0 0112 21c-1.657 0-3.21-.443-4.55-1.217a4.5 4.5 0 01-2.223-3.883c0-.313.023-.618.07-.917"/>
+            <circle cx="9" cy="7" r="2"/>
+            <circle cx="15" cy="7" r="2"/>
+            <circle cx="12" cy="13" r="2"/>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3 group-hover:text-violet-600 dark:group-hover:text-violet-400 transition-colors">Standards Community</h3>
+        <p class="text-slate-600 dark:text-slate-400 mb-4">Shape the future of calendaring standards by participating in our technical committees.</p>
+        <span class="inline-flex items-center gap-2 text-violet-600 dark:text-violet-400 font-medium group-hover:gap-3 transition-all">
+          Explore TCs
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest News Section -->
+<section class="py-20 bg-slate-50 dark:bg-slate-800/50">
+  <div class="container px-6 md:px-8 max-w-7xl mx-auto">
+    <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-12">
+      <div>
+        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 dark:text-white mb-2">Latest Developments</h2>
+        <p class="text-slate-600 dark:text-slate-400">Stay up to date with CalConnect news and announcements.</p>
+      </div>
+      <a href="/news" class="mt-4 md:mt-0 inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-500 text-white font-medium rounded-lg transition-all">
+        All News
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+        </svg>
+      </a>
+    </div>
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts limit: 3 %}
+      <article class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+        <div class="p-6">
+          <div class="flex items-center gap-2 text-sm text-slate-500 dark:text-slate-400 mb-3">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+            </svg>
+            {{ post.date | date: "%B %d, %Y" }}
+          </div>
+          <h3 class="text-lg font-bold text-slate-900 dark:text-white mb-3 line-clamp-2">
+            <a href="{{ post.url }}" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+              {{ post.title }}
+            </a>
+          </h3>
+          <p class="text-slate-600 dark:text-slate-400 text-sm line-clamp-3 mb-4">
+            {{ post.excerpt | strip_html | truncate: 150 }}
+          </p>
+          <a href="{{ post.url }}" class="inline-flex items-center gap-1 text-indigo-600 dark:text-indigo-400 font-medium text-sm hover:gap-2 transition-all">
+            Read More
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Connect With Us Section -->
+<section class="py-20 bg-white dark:bg-slate-900">
+  <div class="container px-6 md:px-8 max-w-7xl mx-auto">
+    <h2 class="text-3xl md:text-4xl font-bold text-center text-slate-900 dark:text-white mb-12">
+      Connect With Us
+    </h2>
+
+    <div class="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+      <a href="/resources/discussion-lists" class="group flex items-center gap-4 p-6 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl hover:border-indigo-300 dark:hover:border-indigo-500/50 transition-all">
+        <div class="w-12 h-12 flex items-center justify-center bg-indigo-100 dark:bg-indigo-500/20 rounded-lg group-hover:scale-110 transition-transform">
+          <svg class="w-6 h-6 text-indigo-600 dark:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z"/>
+          </svg>
+        </div>
+        <div>
+          <h3 class="font-semibold text-slate-900 dark:text-white">Discussion Lists</h3>
+          <p class="text-sm text-slate-500 dark:text-slate-400">Join the conversation</p>
+        </div>
+      </a>
+
+      <a href="https://twitter.com/CalConnect" class="group flex items-center gap-4 p-6 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl hover:border-cyan-300 dark:hover:border-cyan-500/50 transition-all">
+        <div class="w-12 h-12 flex items-center justify-center bg-cyan-100 dark:bg-cyan-500/20 rounded-lg group-hover:scale-110 transition-transform">
+          <svg class="w-6 h-6 text-cyan-600 dark:text-cyan-400" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+        </div>
+        <div>
+          <h3 class="font-semibold text-slate-900 dark:text-white">Twitter</h3>
+          <p class="text-sm text-slate-500 dark:text-slate-400">Follow @CalConnect</p>
+        </div>
+      </a>
+
+      <a href="/events/calendars" class="group flex items-center gap-4 p-6 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl hover:border-violet-300 dark:hover:border-violet-500/50 transition-all">
+        <div class="w-12 h-12 flex items-center justify-center bg-violet-100 dark:bg-violet-500/20 rounded-lg group-hover:scale-110 transition-transform">
+          <svg class="w-6 h-6 text-violet-600 dark:text-violet-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+          </svg>
+        </div>
+        <div>
+          <h3 class="font-semibold text-slate-900 dark:text-white">Event Calendars</h3>
+          <p class="text-sm text-slate-500 dark:text-slate-400">View our calendars</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>

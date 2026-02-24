@@ -5,7 +5,6 @@ type: about
 ---
 :page-liquid:
 
-= Liaisons and Relationships
 
 _As of June 2021_
 

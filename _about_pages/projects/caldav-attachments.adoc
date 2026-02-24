@@ -5,8 +5,6 @@ type: about
 permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
-== CalDAV Attachments
-
 "Extend the calendaring server to manage attachments"
 
 This CalDAV extension will provide an interoperable and efficient

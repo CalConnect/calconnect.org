@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect Seminar - April 19, 2016
+title: CalConnect Seminar - April 19, 2016
 host_info: Hosted by Ribose and OGCIO at HKU
 date: 2016-04-19
 image: /assets/images/hku-academic-event.jpg

@@ -6,7 +6,6 @@ permalink: /about/technical-committees/:title
 order: 12
 ---
 
-= CalConnect SHARING Technical Committee
 
 == Background
 

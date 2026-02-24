@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XVII - February 1-5 2010
+title: CalConnect XVII - February 1-5 2010
 host_info: Hosted by The University of California at Irvine
 date: 2010-02-01
 image: /assets/images/UCIrvine.jpg

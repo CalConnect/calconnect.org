@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= Daylight saving time and time zones
 
 == General interest
 

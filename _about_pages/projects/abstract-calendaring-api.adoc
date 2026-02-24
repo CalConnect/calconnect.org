@@ -5,8 +5,6 @@ type: about
 permalink: /about/major-work-projects:title
 ---
 :page-liquid:
-== Abstract Calendaring API
-
 We need a full "CRUD" (Create/Read/Update/Delete) Abstract Application
 Programming Interface and Calendaring Architecture for Calendaring and
 Scheduling.

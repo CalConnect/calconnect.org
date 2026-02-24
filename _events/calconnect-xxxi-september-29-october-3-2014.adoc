@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXXI - September 29-October 3, 2014
+title: CalConnect XXXI - September 29-October 3, 2014
 host_info: Hosted by Youcanbook.me, Bedford, UK
 date: 2014-09-29
 image: /assets/images/BedfordUK.jpg
