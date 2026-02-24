@@ -1,0 +1,321 @@
+// ==========================================================================
+// CalConnect Design System - Design Tokens
+// London Exclusive Redesign (2025)
+// ==========================================================================
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Satoshi:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  // =========================================================================
+  // London Exclusive Color Palette - Sophisticated & Premium
+  // =========================================================================
+
+  // Primary - Deep Charcoal (instead of purple)
+  --primary-950: #0a0a0a;
+  --primary-900: #171717;
+  --primary-800: #262626;
+  --primary-700: #404040;
+  --primary-600: #525252;
+  --primary-500: #737373;
+  --primary-400: #a3a3a3;
+  --primary-300: #d4d4d4;
+  --primary-200: #e5e5e5;
+  --primary-100: #f5f5f5;
+  --primary-50: #fafafa;
+
+  // Accent - Champagne Gold (premium, exclusive)
+  --accent-600: #8b7355;
+  --accent-500: #b8956e;
+  --accent-400: #d4b896;
+  --accent-300: #e8d9c5;
+  --accent-200: #f2ebe0;
+  --accent-100: #f9f5ed;
+  --accent-50: #fdfcfa;
+
+  // Secondary - Deep Navy (sophisticated)
+  --secondary-900: #0f172a;
+  --secondary-800: #1e293b;
+  --secondary-700: #334155;
+  --secondary-600: #475569;
+  --secondary-500: #64748b;
+
+  // Surface Colors (Warm, Creamy)
+  --surface-950: #0c0c0c;
+  --surface-900: #141414;
+  --surface-800: #1c1c1c;
+  --surface-700: #262626;
+  --surface-600: #333333;
+  --surface-500: #404040;
+  --surface-warm-white: #faf9f7;
+  --surface-cream: #f5f3ef;
+  --surface-ivory: #fefefa;
+
+  // Glass Effect Colors - Refined
+  --glass-bg: rgba(255, 255, 255, 0.04);
+  --glass-bg-hover: rgba(255, 255, 255, 0.08);
+  --glass-bg-active: rgba(255, 255, 255, 0.12);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-border-hover: rgba(255, 255, 255, 0.14);
+  --glass-border-active: rgba(255, 255, 255, 0.20);
+
+  // Glass Shadows - Subtle
+  --glass-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --glass-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.06);
+  --glass-shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
+  --glass-shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.10);
+  --glass-shadow-glow: 0 0 60px rgba(184, 149, 110, 0.08);
+  --glass-shadow-accent: 0 4px 20px rgba(184, 149, 110, 0.12);
+
+  // Text Colors
+  --text-primary: rgba(255, 255, 255, 0.95);
+  --text-secondary: rgba(255, 255, 255, 0.70);
+  --text-tertiary: rgba(255, 255, 255, 0.50);
+  --text-muted: rgba(255, 255, 255, 0.35);
+  --text-inverse: rgba(10, 10, 10, 0.95);
+
+  // =========================================================================
+  // Typography - Editorial London Style
+  // =========================================================================
+
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Satoshi', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  // =========================================================================
+  // Gradients - Refined & Subtle
+  // =========================================================================
+
+  --gradient-premium: linear-gradient(135deg, var(--primary-900) 0%, var(--secondary-900) 100%);
+  --gradient-mesh: radial-gradient(at 30% 20%, rgba(184, 149, 110, 0.06) 0px, transparent 50%),
+                   radial-gradient(at 70% 0%, rgba(30, 41, 59, 0.4) 0px, transparent 50%),
+                   radial-gradient(at 0% 50%, rgba(15, 23, 42, 0.3) 0px, transparent 50%),
+                   radial-gradient(at 100% 100%, rgba(184, 149, 110, 0.04) 0px, transparent 50%);
+  --gradient-warm: radial-gradient(circle at center, var(--surface-800) 0%, var(--surface-950) 100%);
+
+  // =========================================================================
+  // Blur Effects
+  // =========================================================================
+
+  --blur-xs: blur(4px);
+  --blur-sm: blur(8px);
+  --blur-md: blur(16px);
+  --blur-lg: blur(24px);
+  --blur-xl: blur(40px);
+  --blur-2xl: blur(64px);
+
+  // =========================================================================
+  // Spacing Scale
+  // =========================================================================
+
+  --space-0: 0;
+  --space-1: 0.25rem;   // 4px
+  --space-2: 0.5rem;    // 8px
+  --space-3: 0.75rem;   // 12px
+  --space-4: 1rem;      // 16px
+  --space-5: 1.25rem;   // 20px
+  --space-6: 1.5rem;    // 24px
+  --space-8: 2rem;      // 32px
+  --space-10: 2.5rem;   // 40px
+  --space-12: 3rem;     // 48px
+  --space-16: 4rem;     // 64px
+  --space-20: 5rem;     // 80px
+  --space-24: 6rem;     // 96px
+  --space-32: 8rem;     // 128px
+
+  // =========================================================================
+  // Border Radius (Jelly-like Soft Curves)
+  // =========================================================================
+
+  --radius-none: 0;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 32px;
+  --radius-2xl: 48px;
+  --radius-3xl: 64px;
+  --radius-full: 9999px;
+
+  // =========================================================================
+  // Transitions
+  // =========================================================================
+
+  --transition-fast: 120ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 350ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slower: 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-spring: 600ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  --transition-bounce: 800ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+  // =========================================================================
+  // Typography
+  // =========================================================================
+
+  // Font Families
+  --font-display: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace;
+
+  // Font Sizes
+  --text-xs: 0.75rem;     // 12px
+  --text-sm: 0.875rem;    // 14px
+  --text-base: 1rem;      // 16px
+  --text-lg: 1.125rem;    // 18px
+  --text-xl: 1.25rem;     // 20px
+  --text-2xl: 1.5rem;     // 24px
+  --text-3xl: 1.875rem;   // 30px
+  --text-4xl: 2.25rem;    // 36px
+  --text-5xl: 3rem;       // 48px
+  --text-6xl: 3.75rem;    // 60px
+  --text-7xl: 4.5rem;     // 72px
+
+  // Font Weights
+  --font-light: 300;
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+  // Line Heights
+  --leading-none: 1;
+  --leading-tight: 1.25;
+  --leading-snug: 1.375;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.625;
+  --leading-loose: 2;
+
+  // Letter Spacing
+  --tracking-tighter: -0.05em;
+  --tracking-tight: -0.025em;
+  --tracking-normal: 0;
+  --tracking-wide: 0.025em;
+  --tracking-wider: 0.05em;
+  --tracking-widest: 0.1em;
+
+  // =========================================================================
+  // Z-Index Scale
+  // =========================================================================
+
+  --z-behind: -1;
+  --z-base: 0;
+  --z-elevated: 10;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-fixed: 300;
+  --z-modal-backdrop: 400;
+  --z-modal: 500;
+  --z-popover: 600;
+  --z-tooltip: 700;
+  --z-max: 9999;
+
+  // =========================================================================
+  // Container Widths
+  // =========================================================================
+
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1536px;
+
+  // =========================================================================
+  // Gradients
+  // =========================================================================
+
+  --gradient-primary: linear-gradient(135deg, var(--primary-500) 0%, var(--primary-700) 100%);
+  --gradient-accent: linear-gradient(135deg, var(--accent-400) 0%, var(--accent-600) 100%);
+  --gradient-mesh: radial-gradient(at 40% 20%, rgba(99, 102, 241, 0.3) 0px, transparent 50%),
+                   radial-gradient(at 80% 0%, rgba(34, 211, 238, 0.2) 0px, transparent 50%),
+                   radial-gradient(at 0% 50%, rgba(99, 102, 241, 0.2) 0px, transparent 50%),
+                   radial-gradient(at 80% 50%, rgba(139, 92, 246, 0.15) 0px, transparent 50%),
+                   radial-gradient(at 0% 100%, rgba(34, 211, 238, 0.15) 0px, transparent 50%);
+  --gradient-radial: radial-gradient(circle at center, var(--surface-700) 0%, var(--surface-900) 100%);
+}
+
+// Dark mode is the default - no media query needed
+// For light mode support:
+@media (prefers-color-scheme: light) {
+  :root {
+    // Override surface colors for light mode
+    --surface-950: #fafafa;
+    --surface-900: #f5f5f5;
+    --surface-800: #eeeeee;
+    --surface-700: #e0e0e0;
+    --surface-600: #cccccc;
+    --surface-500: #bbbbbb;
+    --surface-400: #aaaaaa;
+
+    // Glass Effect Colors - lighter for light mode
+    --glass-bg: rgba(0, 0, 0, 0.03);
+    --glass-bg-hover: rgba(0, 0, 0, 0.06);
+    --glass-bg-active: rgba(0, 0, 0, 0.10);
+    --glass-border: rgba(0, 0, 0, 0.08);
+    --glass-border-hover: rgba(0, 0, 0, 0.15);
+    --glass-border-active: rgba(0, 0, 0, 0.20);
+
+    // Glass Shadows - lighter for light mode
+    --glass-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+    --glass-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.06);
+    --glass-shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
+    --glass-shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.10);
+    --glass-shadow-glow: 0 0 40px rgba(99, 102, 241, 0.08);
+    --glass-shadow-accent: 0 4px 16px rgba(34, 211, 238, 0.10);
+
+    // Text Colors - darker for light mode
+    --text-primary: rgba(0, 0, 0, 0.92);
+    --text-secondary: rgba(0, 0, 0, 0.72);
+    --text-tertiary: rgba(0, 0, 0, 0.52);
+    --text-muted: rgba(0, 0, 0, 0.32);
+    --text-inverse: rgba(255, 255, 255, 0.95);
+
+    // Gradient adjustments for light mode
+    --gradient-mesh: radial-gradient(at 40% 20%, rgba(99, 102, 241, 0.08) 0px, transparent 50%),
+                     radial-gradient(at 80% 0%, rgba(34, 211, 238, 0.06) 0px, transparent 50%),
+                     radial-gradient(at 0% 50%, rgba(99, 102, 241, 0.06) 0px, transparent 50%),
+                     radial-gradient(at 80% 50%, rgba(139, 92, 246, 0.05) 0px, transparent 50%),
+                     radial-gradient(at 0% 100%, rgba(34, 211, 238, 0.05) 0px, transparent 50%);
+    --gradient-radial: radial-gradient(circle at center, #ffffff 0%, #f5f5f5 100%);
+  }
+}
+
+// Force light mode class (if needed for testing)
+.light-mode {
+  // Override surface colors for light mode
+  --surface-950: #fafafa;
+  --surface-900: #f5f5f5;
+  --surface-800: #eeeeee;
+  --surface-700: #e0e0e0;
+  --surface-600: #cccccc;
+  --surface-500: #bbbbbb;
+  --surface-400: #aaaaaa;
+
+  // Glass Effect Colors - lighter for light mode
+  --glass-bg: rgba(0, 0, 0, 0.03);
+  --glass-bg-hover: rgba(0, 0, 0, 0.06);
+  --glass-bg-active: rgba(0, 0, 0, 0.10);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  --glass-border-hover: rgba(0, 0, 0, 0.15);
+  --glass-border-active: rgba(0, 0, 0, 0.20);
+
+  // Glass Shadows - lighter for light mode
+  --glass-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --glass-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.06);
+  --glass-shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
+  --glass-shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.10);
+  --glass-shadow-glow: 0 0 40px rgba(99, 102, 241, 0.08);
+  --glass-shadow-accent: 0 4px 16px rgba(34, 211, 238, 0.10);
+
+  // Text Colors - darker for light mode
+  --text-primary: rgba(0, 0, 0, 0.92);
+  --text-secondary: rgba(0, 0, 0, 0.72);
+  --text-tertiary: rgba(0, 0, 0, 0.52);
+  --text-muted: rgba(0, 0, 0, 0.32);
+  --text-inverse: rgba(255, 255, 255, 0.95);
+
+  // Gradient adjustments for light mode
+  --gradient-mesh: radial-gradient(at 40% 20%, rgba(99, 102, 241, 0.08) 0px, transparent 50%),
+                   radial-gradient(at 80% 0%, rgba(34, 211, 238, 0.06) 0px, transparent 50%),
+                   radial-gradient(at 0% 50%, rgba(99, 102, 241, 0.06) 0px, transparent 50%),
+                   radial-gradient(at 80% 50%, rgba(139, 92, 246, 0.05) 0px, transparent 50%),
+                   radial-gradient(at 0% 100%, rgba(34, 211, 238, 0.05) 0px, transparent 50%);
+  --gradient-radial: radial-gradient(circle at center, #ffffff 0%, #f5f5f5 100%);
+}

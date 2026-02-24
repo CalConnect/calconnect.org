@@ -1,0 +1,34 @@
+---
+layout: page
+title: Calendaring and Scheduling Sysadmin Discussion List
+type: resources
+permalink: /resources/discussion-lists/:title
+---
+
+CalConnect has implemented its first public discussion list, intended for discussion on calendaring and scheduling systems administration and management. The Charter and Rules of Use for this list are given below. We invite all calendar administrators and other interested parties to subscribe to this list and make use of it.
+
+For list information and to subscribe, please see http://lists.calconnect.org/listinfo.cgi/caladmin-l-calconnect.org.
+
+[IMPORTANT]
+====
+All CalConnect lists are moderated. You must subscribe to the list (and your subscription must be approved by the moderator) before you will be able to post to the list, receive messages posted on the list, or access the list archives.
+====
+
+=== Charter
+
+The Calendaring and Scheduling Admin Mailing List (caladmin-l@lists.calconnect.org) exists to foster discussion about all aspects of calendaring and scheduling system administration and management. This includes, but is not limited to, C&S platforms and applications, emerging C&S standards, message flows, access control, unsolicited or bulk agenda invitations (SPCAL), account management, virus vectors, disaster recovery, and interactions with closely related collaborative technologies.
+
+The primary audience and expected participants are calendaring and scheduling system administrators. However, the list is open to any and all participants that agree to and adhere to the rules of use.
+
+The C&S admin list is moderated. Abuse of the list or the rules of use may result in an individual being cautioned or ultimately being removed from the list, at the sole discretion of the list moderators.
+
+=== Rules of Use
+
+Please use this resource in a professional and respectful manner. In particular, please refrain from "flames" and critiques of others' postings. Please keep your postings cogent and to the point.
+
+* Do not attach files to your postings. Many list members block attachments which will result in a large amount of "blocked" traffic back to the list moderators. If you must have an attachment, put it on a web server and reference the URL.
+* The list may not be used for product solicitations. Attempts to do so will result in the offender being removed from the list.
+* If your subscribed e-mail address starts to bounce messages, it will be removed from the list after 2-3 days; the list moderators will attempt to contact the subscribed e-mail address if this happens.
+* All postings are considered copyright by the original author of the posting and should not be forwarded without receiving permission from the author. This also applies to vendor representatives with respect to providing feedback to product teams.
+* Please do not expect vendor participants on this list to provide formal support via the list. They participate to be helpful, while looking to hear constructive feedback, but the list is not a formal product support service.
+* If you post a problem or are surveying a topic, and ask for feedback directly to you rather than on the list, it would be appreciated when you have a solution or a quorum of comments if you create a summary post on the list to complete your original posting and finish the topic.

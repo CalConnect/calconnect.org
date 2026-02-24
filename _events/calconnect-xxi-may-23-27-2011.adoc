@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXI - May 23-27 2011
+title: CalConnect XXI - May 23-27 2011
 host_info: Hosted by NASA Ames, Mountain View, California
 date: 2011-05-23
 image: /assets/images/NASA-Ames.jpg
@@ -44,7 +44,7 @@ Friday afternoon will be the full Plenary meeting of the Consortium, open to all
 
 *Workshop on Tasks*: The workshop will be held Wednesday afternoon from 1330-1530 as part of the Roundtable; however it is open to non-Roundtable attendees by invitation and registration. The goal of the CalConnect workshop is to examine the key use cases for tasks with the goal of promoting use of iCalendar and CalDAV as a standards-based solution to task management and synchronization. We expect that extensions to both iCalendar and possibly CalDAV may be needed to support the key features that application developers require. For more information about the Workshop please see http://calconnect.wordpress.com/2011/04/27/calconnect-workshop-on-tasks-may-25-2011/[].
 
-*NASA Ames Research Center Tour*: NASA is offering us a tour of the FutureFlight Centra and Crew-Vehicle Systems Research Facility after the close of the Roundtabler on Friday afternoon. The tour will take about an hour; we will leave from the Conference Center at 1330 and we should be back before 1500. For more information about these simulation simulation labs in the Aviation Systems Division at NASA Ames see: http://www.aviationsystemsdivision.arc.nasa.gov/facilities/index[].  
+*NASA Ames Research Center Tour*: NASA is offering us a tour of the FutureFlight Centra and Crew-Vehicle Systems Research Facility after the close of the Roundtabler on Friday afternoon. The tour will take about an hour; we will leave from the Conference Center at 1330 and we should be back before 1500. For more information about these simulation simulation labs in the Aviation Systems Division at NASA Ames see: http://www.aviationsystemsdivision.arc.nasa.gov/facilities/index[].
 
 International Visitors
 
@@ -75,7 +75,7 @@ The Interoperability Test Event and the Roundtable will take place at the http:/
 
 The nearest airport is San Jose Mineta International Airport, which is about 8 miles from NASA and the conference hotel. However, San Francisco International (about 30 miles) is likely to have more flights (especially more international flights) and possibly less expensive flights.
 
-*Ground Transportation:* Information on rental cars and shuttles are available on all three airport websites. It is also possible to get to the conference hotel via public transportation. It is not feasible to walk to the venue from any hotel but the NASA Lodge, but we will be trying to arrange car pooling between the conference hotel and the venue. 
+*Ground Transportation:* Information on rental cars and shuttles are available on all three airport websites. It is also possible to get to the conference hotel via public transportation. It is not feasible to walk to the venue from any hotel but the NASA Lodge, but we will be trying to arrange car pooling between the conference hotel and the venue.
 
 [[lodging]]
 == Lodging
@@ -85,7 +85,7 @@ Our conference hotel will be the Sunnyvale Sheraton. The Sheraton is very close 
 The Sheraton is offering us a special discounted rate for our conference of $189 per night, which also includes internet access. To book your room at this rate, please use the following link: http://www.starwoodmeeting.com/Book/CalConnect2011[]. Note that this rate is only available until the end of April, and is subject to room availability. Alternatively, or if you have any questions, please contact Michelle Rodrigues, Sales Coordinator, at mailto:michelle.rodrigues@sunnyvalesheraton.com[michelle.rodrigues@sunnyvalesheraton.com], or call her at +1 408-542-8261. If you are contacting her to book instead of using the web link above, be sure to tell her you are attending the CalConnect Conference at NASA, and give her your name and the dates you wish the room.
 
 _Please be aware that this is a courtesy rate based on availability. It is only available through the end of April, and no room block has been established. Be sure to book early to take advantage of this rate._ +
- 
+
 
 [cols=1]
 |===
@@ -96,7 +96,7 @@ Sunnyvale, CA 94089 +
  (408) 745-6000 +
 http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=754
 
-A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[]. 
+A number of other hotels in the area are listed in the "Concierge" section of the NASA Ames Conference Center at http://naccenter.arc.nasa.gov/links.php[].
 
 |===
 
@@ -105,7 +105,7 @@ A number of other hotels in the area are listed in the "Concierge" section of th
 [[test-schedule]]
 == Test Event Schedule
 
-The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 [cols=3]
 |===
@@ -150,13 +150,13 @@ The IOP Test Events begin at 0800 Monday morning and run all day Monday and Tues
 [[conference-schedule]]
 == Conference Schedule
 
-the IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday. 
+the IOP Test Events begin at 0800 Monday morning and run all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE XXI* - NASA Ames Conference Center
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 25 May* +
 1000-1200 User Special Interest Group^2^ +
 1100-1200 Introduction to CalConnect^3^ +
@@ -196,7 +196,7 @@ Sheraton Sunnyvale_
 1315 Close of Meeting +
 1330-1500 NASA Ames Tour^7^
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in a separate room to be identified later. +
@@ -206,7 +206,7 @@ Sheraton Sunnyvale_
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:00; seating for dinner at 7:45 +
 ^7^The tour will leave from and return to the NASA Conference Center.
 
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 
@@ -307,7 +307,7 @@ to benefit other Technical Committees.
 
 |===
 
- 
+
 
 ==== Scheduled BOFs
 

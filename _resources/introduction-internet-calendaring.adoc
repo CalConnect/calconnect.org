@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= An Introduction to Internet Calendaring and Scheduling
 
 ....
 CALCONNECT DOCUMENT CD 1012

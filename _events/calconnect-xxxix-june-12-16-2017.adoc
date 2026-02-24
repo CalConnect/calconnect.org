@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXXIX - June 12-16,  2017
+title: CalConnect XXXIX - June 12-16,  2017
 host_info: Hosted by Tandem, Seattle, Washington
 date: 2017-06-12
 image: /assets/images/Seattle.jpg

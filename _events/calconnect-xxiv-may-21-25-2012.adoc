@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXIV - May 21-25 2012
+title: CalConnect XXIV - May 21-25 2012
 host_info: Hosted by Google, Zürich, Switzerland
 date: 2012-05-21
 image: /assets/images/Chattanooga.jpg
@@ -74,7 +74,7 @@ A variety of other hotels are within a few blocks of the Doubletree for those wh
 
 [cols="1,9"]
 |===
-| 
+|
 .<a| *The Doubletree Chattanooga Hotel* +
 407 Chestnut Street +
 Chattanooga, TN 37402 +
@@ -92,7 +92,7 @@ To book at the CalConnect Rate: Call 423-756-5150 and ask for the CalConnect rat
 
 The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
+This is a generic schedule and will be updated as soon as possible with the actual sessions list.
 
 [cols=3]
 |===
@@ -141,13 +141,13 @@ This is a generic schedule and will be updated as soon as possible with the actu
 
 The Interoperability Test Event begins with breakfast at 0800 Monday morning and runs all day Monday and Tuesday, plus Wednesday morning. The Roundtable begins with lunch on Wednesday and runs until early afternoon on Friday.
 
-This is a generic schedule and will be updated as soon as possible with the actual sessions list. 
+This is a generic schedule and will be updated as soon as possible with the actual sessions list.
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE XXIV*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 23 May* +
 1000-1200 User Special Interest Group^2^ +
 1100-1200 Introduction to CalConnect^3^ +
@@ -185,7 +185,7 @@ _Doubletree Hotel_
 1300-1400 CalConnect Plenary Session +
 1400 Close of Meeting
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in the iMAC Conference Room in IL4 second floor. +
@@ -194,7 +194,7 @@ _Doubletree Hotel_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 

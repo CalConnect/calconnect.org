@@ -6,8 +6,6 @@ permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
-== 7 Things You Should Know About Consensus Scheduling
-
 === 1. What is it?
 Consensus scheduling is the process whereby a group comes to agreement
  on when (and maybe where) to hold a meeting or carry out a task, or 

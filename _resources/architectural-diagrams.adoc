@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= Architectural and Related Diagrams
 
 This page links to architectural and other related diagrams for
 Calendaring and Scheduling.

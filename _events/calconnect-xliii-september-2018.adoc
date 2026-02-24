@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XLIII - September 24-27, 2018
+title: CalConnect XLIII - September 24-27, 2018
 host_info: Hosted by 1&1, Karlsruhe, Germany
 date: 2018-09-24
 image: /assets/images/Karlsruhe.jpg

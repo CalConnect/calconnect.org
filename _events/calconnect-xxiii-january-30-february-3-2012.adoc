@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXIII - January 30-February 3 2012
+title: CalConnect XXIII - January 30-February 3 2012
 host_info: Hosted by Apple, Inc., Cupertino, California
 date: 2012-01-30
 image: /assets/images/AppleCupertino.jpg
@@ -67,23 +67,23 @@ Cupertino is about 30 miles south of San Francisco International Airport, and qu
 == Lodging
 
 We are not designating a "Conference Hotel" for this meeting as we have not been able to establish special rates. There are many hotels in the area, however The Cypress Hotel and the Cupertino Inn are the closest to the Apple Campus and within walking distance. The Cypress Hotel is currently offering a rather high rate unless you book for seven days or more; it might be worth it to do that and try to truncate your visit. There does not appear to be any significant savings using the Apple rate but you are welcome to request it of either the Cypress or the Cupertino Inn. The Wild Palms hotel is a bit further (about 2 miles from Apple) and offers a somewhat lower rate; it is a member of Joie de Vivre, a well-thought-of California hotel chain. +
- 
+
 
 [cols="6,16,3,16,3,16"]
 |===
-| 
+|
 .<a| *The Cypress Hotel* +
 10050 South De Anza Blvd +
 Cupertino, CA 95014 +
 Phone: +1 408 253 8900 +
 http://www.thecypresshotel.com
-| 
+|
 .<a| *The Cupertino Inn* +
 10889 North De Anza Blvd +
 Cupertino, CA 95014-6301 +
 Phone: +1 408 996 7700 +
 http://www.cupertinoinn.com
-| 
+|
 .<a| *The Wild Palms Hotel* +
 910 E. Fremont Avenue +
 Sunnyvale, CA 94087 +
@@ -163,7 +163,7 @@ Monday 1230-1800 and Tuesday-Friday inclusive we will be in theGarage 1Conferenc
 |===
 3+.<| *ROUNDTABLE XXIII*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 1 February* +
 1000-1200 User Special Interest Group^2^ +
 1100-1200 Introduction to CalConnect^3^ +
@@ -191,7 +191,7 @@ _Piano Bar, First Floor, Infinite Loop 4_
 1900-2200 Group Dinner^6^ +
  _http://www.californiacafe.com/losgatos/index.php[California Cafe] +
 50 University Avenue +
-Old Town Los Gatos, CA_ 
+Old Town Los Gatos, CA_
 .<a| *Friday 3 February* +
 0800-0830 Breakfast +
 0830-0930 TC MOBILE +
@@ -203,7 +203,7 @@ Old Town Los Gatos, CA_
 1300-1400 CalConnect Plenary Session +
 1400 Close of Meeting
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in the iMAC Conference Room in IL4 second floor. +
@@ -212,10 +212,10 @@ Old Town Los Gatos, CA_
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday. Dinner reception starting at 7:15; seating for dinner at 8:00
 
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
- 
+
 
 [[agendas]]
 === Topical Agendas
@@ -314,7 +314,7 @@ Review of IOP test participant findings
 
 |===
 
- 
+
 
 [[bofs]]
 ==== Scheduled BOFs

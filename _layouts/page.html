@@ -2,114 +2,24 @@
 layout: default
 ---
 
-<div class="main-container container">
-
-  <!-- Page Header -->
-  <header role="banner" id="page-header">
-  </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <!-- Main Content Section -->
-    <section class="col-sm-9">
-
-      <!-- Breadcrumbs -->
-      <ol class="breadcrumb">
-        {% include breadcrumbs.html %}
-      </ol>
-
-      <!-- Anchor for Main Content -->
-      <a id="main-content"></a>
-
-      <!-- Page Title -->
-      <h1 class="page-header"></h1>
-
-      <!-- Dynamic Content Region -->
-      <div class="region region-content">
-        {{ content }}
-      </div>
-    </section>
-
-    <!-- Sidebar Section -->
-    <aside class="col-sm-3" role="complementary">
-
-      <!-- Sidebar Region -->
-      <div class="region region-sidebar-second">
-
-        <!-- Submenu Block -->
-        <section id="block-submenu" class="block block-menu-block">
-
-          <!-- Sidebar Title -->
-          <h2 class="block-title">{{ page.type }}</h2>
-
-          <!-- Dynamic Navigation Menu -->
-          <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
-            {% assign navigation = site.data.navigation[page.type] %}
-
-            <!-- Check if navigation exists -->
-            {% if navigation %}
-              {% for item in navigation %}
-
-                <!-- Submenu Title -->
-                {% if item.title %}
-                  <h3>{{ item.title }}</h3>
-                {% endif %}
-
-                <!-- Subfolder Items -->
-                {% if item.subfolderitems and item.subfolderitems[0] %}
-                  <ul class="menu nav">
-                    {% for entry in item.subfolderitems %}
-                      <li class="leaf">
-                        <a href="{{ entry.url | relative_url }}">{{ entry.page }}</a>
-
-                        <!-- Nested Subfolder Items -->
-                        {% if entry.subsubfolderitems and entry.subsubfolderitems[0] %}
-                          {% assign is_current_subitem = false %}
-                          {% for subentry in entry.subsubfolderitems %}
-                            {% if subentry.url == page.url %}
-                              {% assign is_current_subitem = true %}
-                            {% endif %}
-                          {% endfor %}
-
-                          <ul class="menu nav {% if entry.url != page.url and is_current_subitem == false %}hide{% endif %}">
-                            {% for subentry in entry.subsubfolderitems %}
-                              <li class="leaf">
-                                <a href="{{ subentry.url | relative_url }}">{{ subentry.page }}</a>
-                              </li>
-                            {% endfor %}
-                          </ul>
-                        {% endif %}
-                      </li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              {% endfor %}
-            {% endif %}
-
-            {% assign members = site.data.members %}
-
-            <!-- Check if members exists -->
-            {% if members and page.url == '/membership/' %}
-              <!-- Submenu Title -->
-              <h3>Member List</h3>
-
-              <!-- Subfolder Items -->
-              {% if members[0] %}
-              <ul class="menu nav membership-list">
-                {% for entry in members %}
-                <li class="leaf">
-                  {{ entry.name }}
-                  {% if entry.type == "individual" %} (Individual member){% endif %}
-                </li>
-                {% endfor %}
-              </ul>
-              {% endif %}
-            {% endif %}
-
-          </div>
-        </section>
-      </div>
-    </aside> <!-- /#sidebar-second -->
-
+{% if page.type == 'news' %}
+<!-- Post Meta: Date and Categories -->
+<div class="mb-6">
+  {% if page.date %}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="text-sm text-gray-500 dark:text-gray-400 font-mono">
+    {{ page.date | date: "%Y-%m-%d" }}
+  </time>
+  {% endif %}
+  {% if page.categories %}
+  <div class="mt-3 flex flex-wrap gap-2">
+    {% for cat in page.categories %}
+    <a href="/news/category/{{ cat }}/" class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300 hover:bg-primary-200 dark:hover:bg-primary-800/40 transition-colors">
+      {{ cat | replace: '-', ' ' | capitalize }}
+    </a>
+    {% endfor %}
   </div>
+  {% endif %}
 </div>
+{% endif %}
+
+{{ content }}

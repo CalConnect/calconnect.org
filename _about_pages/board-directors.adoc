@@ -5,8 +5,6 @@ type: about
 ---
 :page-liquid:
 
-== The CalConnect Board of Directors
-
 _As of November 2022_
 
 At this time, CalConnect has a maximum of seven directors. Officer

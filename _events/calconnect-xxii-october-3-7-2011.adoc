@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXII -- October 3-7 2011
+title: CalConnect XXII -- October 3-7 2011
 host_info: Hosted by Kerio Technologies, Prague, Czech Republic
 date: 2011-10-03
 image: /assets/images/Prague.jpg
@@ -286,7 +286,7 @@ Review of IOP test participant findings
 
 |===
 
- 
+
 
 ==== Scheduled BOFs
 

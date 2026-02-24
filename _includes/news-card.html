@@ -1,0 +1,40 @@
+{% comment %}
+  News card component - used on news index and year archive pages
+  
+  Parameters:
+  - post: The post object to render
+  - show_categories: Whether to show category badges (default: true)
+{% endcomment %}
+
+{% assign show_cats = include.show_categories | default: true %}
+<a href="{{ include.post.url | relative_url }}" class="block p-5 rounded-xl bg-gray-50 dark:bg-gray-800/30 hover:bg-gray-100 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 hover:border-primary-300 dark:hover:border-primary-600 transition-all group min-h-[100px]">
+  <div class="flex items-start gap-4">
+    <div class="flex-shrink-0 text-sm text-gray-500 dark:text-gray-400 font-mono w-28 pt-0.5">
+      {{ include.post.date | date: "%Y-%m-%d" }}
+    </div>
+    <div class="flex-1 min-w-0">
+      <h3 class="font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors text-base">
+        {{ include.post.title | escape }}
+      </h3>
+      {% if include.post.excerpt %}
+      <p class="text-sm text-gray-600 dark:text-gray-400 mt-1.5 line-clamp-2">
+        {{ include.post.excerpt | strip_html | truncatewords: 25 }}
+      </p>
+      {% else %}
+      <p class="text-sm text-gray-400 dark:text-gray-500 mt-1.5 italic">
+        Click to read more
+      </p>
+      {% endif %}
+      {% if show_cats and include.post.categories %}
+      <div class="flex flex-wrap gap-1.5 mt-2.5">
+        {% for cat in include.post.categories limit: 3 %}
+        <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400 group-hover:bg-primary-100 group-hover:dark:bg-primary-900/30 group-hover:text-primary-700 group-hover:dark:text-primary-300 transition-colors">
+          {{ cat | replace: '-', ' ' | capitalize }}
+        </span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    <svg class="w-5 h-5 text-gray-400 group-hover:text-primary-500 group-hover:translate-x-1 transition-all flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+  </div>
+</a>

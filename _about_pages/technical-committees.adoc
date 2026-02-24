@@ -4,7 +4,6 @@ title: Technical Committees and Provisional Committees
 type: about
 ---
 :page-liquid:
-= Technical committees and provisional committees
 
 _Last Updated October 2020_
 

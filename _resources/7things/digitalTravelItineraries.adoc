@@ -6,8 +6,6 @@ permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
-== 7 Things You Should Know About Digital Travel Itineraries
-
 === 1. What is it?
 Itineraries typically contain information about planned routes,
 schedules, events and tasks for a trip, often divided up into several 

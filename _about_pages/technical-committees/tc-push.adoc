@@ -6,7 +6,6 @@ permalink: /about/technical-committees/:title
 order: 11
 ---
 
-= CalConnect PUSH Technical Committee
 
 == Background
 

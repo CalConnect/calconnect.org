@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Upcoming Virtual Events Planned
+title: Upcoming Virtual Events Planned
 host_info:
 date: 2024-11-14
 image: /assets/images/CalConnectEventTBD.jpg

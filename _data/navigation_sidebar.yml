@@ -1,0 +1,231 @@
+# Sidebar Navigation Configuration
+# Fully declarative - the layout has no knowledge of specific pages.
+#
+# Item types:
+#   - link: Simple link with label and url
+#   - collection: Dynamic items from a Jekyll collection
+#   - collapsible: Link with children (static or from collection)
+#   - group: Section header with children items
+#   - years: Dynamic year listing from posts
+
+sections:
+  - id: about
+    match: "/about"
+    title: About
+    items:
+      - type: group
+        label: General
+        children:
+          - type: link
+            label: Introduction
+            url: /about/
+          - type: link
+            label: Structure
+            url: /about/structure/
+          - type: link
+            label: Board of Directors
+            url: /about/board-directors/
+          - type: link
+            label: History
+            url: /about/history/
+          - type: link
+            label: Goals
+            url: /about/goals/
+          - type: link
+            label: Liaisons & Relationships
+            url: /about/liaisons-and-relationships/
+      - type: collapsible
+        label: Technical Committees
+        url: /about/technical-committees/
+        collection: about_pages
+        url_filter: technical-committees
+        exclude_url: /about/technical-committees/
+        first_child_label: Overview
+      - type: collapsible
+        label: Major Work Projects
+        url: /about/major-work-projects/
+        collection: about_pages
+        url_filter: /about/major-work-projects/
+        exclude_url: /about/major-work-projects/
+        first_child_label: Overview
+      - type: collapsible
+        label: Policies
+        url: /about/policies/policies-and-procedures/
+        collection: about_pages
+        url_filter: policies
+
+  - id: membership
+    match: "/membership"
+    title: Membership
+    items:
+      - type: group
+        label: Getting Started
+        children:
+          - type: link
+            label: Our Members
+            url: /membership/
+          - type: link
+            label: Why Join
+            url: /membership/why-join/
+          - type: link
+            label: Who May Join
+            url: /membership/who-may-join/
+      - type: group
+        label: Application
+        children:
+          - type: link
+            label: Apply for Membership
+            url: /membership/membership-application/
+          - type: link
+            label: Membership Agreement
+            url: /membership/membership-agreement/
+          - type: link
+            label: Fee Payment
+            url: /membership/membership-fee-payment/
+      - type: group
+        label: Information
+        children:
+          - type: link
+            label: Membership Benefits
+            url: /membership/membership-benefits/
+          - type: link
+            label: Categories & Fees
+            url: /membership/membership-categories-and-fees/
+          - type: link
+            label: You and CalConnect
+            url: /membership/you-and-calconnect/
+      - type: group
+        label: Other
+        children:
+          - type: link
+            label: Code of Conduct
+            url: /membership/code-conduct/
+          - type: link
+            label: Distinguished Service Award
+            url: /membership/distinguished-service-award/
+
+  - id: events
+    match: "/events"
+    title: Events
+    items:
+      - type: link
+        label: Upcoming Events
+        url: /events/
+      - type: collection
+        collection: events
+        sort_field: date
+        sort_order: desc
+
+  - id: resources
+    match: "/resources"
+    title: Resources
+    items:
+      - type: group
+        label: Getting Started
+        children:
+          - type: link
+            label: Resources Overview
+            url: /resources/resources/
+          - type: collapsible
+            label: Getting Started Guide
+            url: /resources/getting-started/
+            collection: resources
+            url_filter: getting-started
+            exclude_urls:
+              - /resources/getting-started/
+              - /resources/getting-started.html
+            first_child_label: Overview
+          - type: collapsible
+            label: 7 Things You Should Know
+            url: /resources/7-things-you-should-know-about/
+            collection: resources
+            url_filter: 7-things-you-should-know-about
+            exclude_urls:
+              - /resources/7-things-you-should-know-about/
+              - /resources/7-things-you-should-know-about.html
+            first_child_label: Overview
+          - type: link
+            label: Introduction to Calendaring
+            url: /resources/introduction-internet-calendaring/
+      - type: group
+        label: Standards & Specifications
+        children:
+          - type: link
+            label: Calendaring Standards Index
+            url: /resources/calendaring-standards/
+          - type: link
+            label: Event Reading List
+            url: /resources/event-reading-list/
+          - type: link
+            label: Public Review Documents
+            url: /resources/public-review/
+      - type: group
+        label: Technical Resources
+        children:
+          - type: collapsible
+            label: Code Artifacts & Schemas
+            url: /resources/code-artifacts/
+            collection: resources
+            url_filter: code-artifacts
+            exclude_urls:
+              - /resources/code-artifacts/
+              - /resources/code-artifacts.html
+            first_child_label: Overview
+          - type: link
+            label: Architectural Diagrams
+            url: /resources/architectural-diagrams/
+      - type: group
+        label: Time Zones
+        children:
+          - type: link
+            label: Timezone Changes Knowledge Base
+            url: /resources/timezone-changes/
+          - type: collapsible
+            label: Daylight Saving Time
+            url: /resources/daylight-saving-time/
+            collection: resources
+            url_filter: daylight-saving-time
+            exclude_urls:
+              - /resources/daylight-saving-time/
+              - /resources/daylight-saving-time.html
+            first_child_label: Overview
+      - type: group
+        label: Community
+        children:
+          - type: collapsible
+            label: Discussion Lists
+            url: /resources/discussion-lists/
+            collection: resources
+            url_filter: discussion-lists
+            exclude_urls:
+              - /resources/discussion-lists/
+              - /resources/discussion-lists.html
+            first_child_label: Overview
+          - type: link
+            label: Bug Reporting Links
+            url: /resources/bug-reporting-links/
+          - type: link
+            label: Related Blogs
+            url: /resources/related-blogs/
+      - type: group
+        label: Media
+        children:
+          - type: link
+            label: Public Presentations
+            url: /resources/presentations/
+      - type: group
+        label: Member Resources
+        children:
+          - type: link
+            label: Member Services & Resources
+            url: /resources/member-services-and-resources/
+
+  - id: news
+    match: "/news"
+    title: News
+    items:
+      - type: link
+        label: Latest News
+        url: /news/
+      - type: years
+        source: posts

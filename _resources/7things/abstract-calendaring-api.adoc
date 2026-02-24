@@ -2,6 +2,7 @@
 layout: page
 title:  7 Things You Should Know About the Abstract Calendaring API
 type: resources
+permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 

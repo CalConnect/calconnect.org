@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect Virtual Conference 2020
+title: CalConnect Virtual Conference 2020
 host_info: Hosted by CalConnect and conducted entirely via Zoom.
 date: 2020-10-12
 image: /assets/images/CalConnectEventTBD.jpg

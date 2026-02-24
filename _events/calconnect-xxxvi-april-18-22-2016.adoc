@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXXVI - April 18-22, 2016
+title: CalConnect XXXVI - April 18-22, 2016
 host_info: Hosted by Ribose and OGCIO, Hong Kong
 date: 2016-04-18
 image: /assets/images/HongKong.jpg

@@ -6,8 +6,6 @@ permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
-== 7 Things You Should Know About Tasks
-
 === 1. What is it?
 A "task" is a representation of an item of work assigned to an individual or organization. In http://www.ietf.org/rfc/rfc5545.txt[RFC5545],
  Internet Calendaring and Scheduling Core Object Specification 

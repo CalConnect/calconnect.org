@@ -1,0 +1,461 @@
+// ==========================================================================
+// CalConnect Design System - Animations
+// Keyframes, transitions, and motion design
+// ==========================================================================
+
+// ==========================================================================
+// Keyframe Animations
+// ==========================================================================
+
+// Fade In
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// Fade In Up
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Fade In Down
+@keyframes fade-in-down {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Scale In
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Slide In Right
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+// Slide In Left
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+// Float Animation (Subtle)
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+// Pulse Glow
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(99, 102, 241, 0.4);
+  }
+}
+
+// Shimmer Effect
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+// Rotate (Slow)
+@keyframes rotate-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+// Gradient Shift
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+// Blob Morph
+@keyframes blob-morph {
+  0%, 100% {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  }
+  25% {
+    border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+  }
+  50% {
+    border-radius: 50% 60% 30% 60% / 30% 60% 70% 40%;
+  }
+  75% {
+    border-radius: 60% 40% 60% 30% / 70% 30% 50% 60%;
+  }
+}
+
+// Menu Slide Down
+@keyframes menu-slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+// ==========================================================================
+// Animation Classes
+// ==========================================================================
+
+.animate-fade-in {
+  animation: fade-in var(--transition-base) ease-out forwards;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up var(--transition-slow) ease-out forwards;
+}
+
+.animate-fade-in-down {
+  animation: fade-in-down var(--transition-slow) ease-out forwards;
+}
+
+.animate-scale-in {
+  animation: scale-in var(--transition-base) ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right var(--transition-slow) ease-out forwards;
+}
+
+.animate-slide-in-left {
+  animation: slide-in-left var(--transition-slow) ease-out forwards;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s linear infinite;
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-shift 8s ease infinite;
+}
+
+// ==========================================================================
+// Entrance Animations - Page Load
+// ==========================================================================
+
+@keyframes entrance-hero {
+  0% {
+    opacity: 0;
+    transform: scale(1.1) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes entrance-hero-text {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  80% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes entrance-card {
+  0% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes entrance-orb {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+}
+
+@keyframes entrance-bounce-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes entrance-elastic {
+  0% {
+    opacity: 0;
+    transform: translateY(60px) scale(0.8);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(0) scale(1.02);
+  }
+  60% {
+    transform: translateY(0) scale(0.98);
+  }
+  80% {
+    transform: translateY(0) scale(1.01);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+// Entrance animation classes
+.entrance-hero {
+  animation: entrance-hero 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.entrance-hero-text {
+  animation: entrance-hero-text 1s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
+  opacity: 0;
+}
+
+.entrance-hero-sub {
+  animation: entrance-hero-text 1s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+  opacity: 0;
+}
+
+.entrance-hero-cta {
+  animation: entrance-hero-text 1s cubic-bezier(0.16, 1, 0.3, 1) 0.6s forwards;
+  opacity: 0;
+}
+
+.entrance-card {
+  animation: entrance-card 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  opacity: 0;
+}
+
+.entrance-orb {
+  animation: entrance-orb 2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.entrance-bounce {
+  animation: entrance-bounce-in 0.9s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+  opacity: 0;
+}
+
+.entrance-elastic {
+  animation: entrance-elastic 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  opacity: 0;
+}
+
+// Stagger delays for multiple elements
+.entrance-delay-1 { animation-delay: 0.1s; }
+.entrance-delay-2 { animation-delay: 0.2s; }
+.entrance-delay-3 { animation-delay: 0.3s; }
+.entrance-delay-4 { animation-delay: 0.4s; }
+.entrance-delay-5 { animation-delay: 0.5s; }
+.entrance-delay-6 { animation-delay: 0.6s; }
+.entrance-delay-7 { animation-delay: 0.7s; }
+.entrance-delay-8 { animation-delay: 0.8s; }
+
+// Initial hidden state for entrance animations
+.entrance-initial {
+  opacity: 0;
+}
+
+// ==========================================================================
+// Staggered Animation Delays
+// ==========================================================================
+
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+.stagger-7 { animation-delay: 0.35s; }
+.stagger-8 { animation-delay: 0.4s; }
+.stagger-9 { animation-delay: 0.45s; }
+.stagger-10 { animation-delay: 0.5s; }
+
+// ==========================================================================
+// Transition Utilities
+// ==========================================================================
+
+.transition-none { transition: none; }
+.transition-all { transition: all var(--transition-base); }
+.transition-colors {
+  transition:
+    color var(--transition-fast),
+    background-color var(--transition-fast),
+    border-color var(--transition-fast);
+}
+.transition-opacity { transition: opacity var(--transition-base); }
+.transition-transform { transition: transform var(--transition-base); }
+.transition-shadow { transition: box-shadow var(--transition-base); }
+
+// ==========================================================================
+// Hover Lift Effect
+// ==========================================================================
+
+.hover-lift {
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--glass-shadow-lg);
+  }
+}
+
+// ==========================================================================
+// Hover Scale Effect
+// ==========================================================================
+
+.hover-scale {
+  transition: transform var(--transition-fast);
+
+  &:hover {
+    transform: scale(1.02);
+  }
+}
+
+// ==========================================================================
+// Scroll Reveal Base Class
+// ==========================================================================
+
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity var(--transition-slower),
+    transform var(--transition-slower);
+
+  &.revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// ==========================================================================
+// Reduce Motion (Accessibility)
+// ==========================================================================
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .animate-float,
+  .animate-pulse-glow,
+  .animate-shimmer,
+  .animate-gradient {
+    animation: none;
+  }
+
+  .scroll-reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

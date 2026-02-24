@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXXV - January 11-15, 2016
+title: CalConnect XXXV - January 11-15, 2016
 host_info: Hosted by AOL, Palo Alto, California
 date: 2016-01-11
 image: /assets/images/AOLPaloAlto-01.jpg

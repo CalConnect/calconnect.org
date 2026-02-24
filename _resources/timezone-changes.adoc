@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= Timezone changes knowledge base
 
 This document is supposed to be a collection for structuring conceptual and factual information as well as emerging theories around the topic of timezone changes.
 

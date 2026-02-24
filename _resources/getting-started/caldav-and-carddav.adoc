@@ -1,0 +1,70 @@
+---
+layout: page
+title: Starter List of CalDAV and CardDAV Standards and Specifications
+type: resources
+permalink: /resources/getting-started/caldav-and-carddav
+---
+
+This page is intended for individuals who wish to develop a CalDAV or CardDAV server but who have little or no previous experience with the specifications. It offers a basic list of (and links to) specifications or parts of specifications with which you need to become familiar. Not all relevant specifications are yet standards; some of the references will be to the current draft of the specification and will be updated when the internet draft becomes an RFC.
+
+_This page was originally named "Getting Started with CalDAV and CardDAV". The name was changed to "Starter List..." to more accurately reflect its content, and the old name is aliased to the new name._
+
+=== HTTP
+
+* *HTTP 1.1 Part 1 Message Syntax and Routing (RFC 7230)* - HTTP architecture and its associated terminology: defines the "http" and "https" Uniform Resource Identifier (URI) schemes, defines the HTTP/1.1 message syntax and parsing requirements, and describes related security concerns for implementations.
+
+* *HTTP 1.1 Part 2 Semantics and Content (RFC 7231)* - The semantics of HTTP/1.1 messages, as expressed by request methods, request header fields, response status codes, and response header fields, along with the payload of messages (metadata and body content) and mechanisms for content negotiation.
+
+* *HTTP 1.1 Part 4 Conditional Requests (RFC 7232)* - HTTP/1.1 conditional requests, including metadata header fields for indicating state changes, request header fields for making preconditions on such state, and rules for constructing the responses to a conditional request when one or more preconditions evaluate to false.
+
+* *HTTP 1.1 Part 7 Authentication (RFC 7235)* - The HTTP Authentication framework, including response header fields for a server to challenge a client request and request header fields for a client to provide authentication information.
+
+* *The "Basic" HTTP Authentication scheme* - Defines an authentication scheme which transmits credentials as userid/password pairs, obfuscated by the use of Base64 encoding.
+
+* *HTTP over TLS (RFC 2818)* - This memo describes how to use TLS to secure HTTP connections over the Internet.
+
+=== WebDAV
+
+* *WebDAV (RFC 4918)* - minus sections 5, 6, 9.10, 9.11 (few CalDAV clients seem to need/want locking) - Web Distributed Authoring and Versioning (WebDAV) consists of a set of methods, headers, and content-types ancillary to HTTP/1.1 for the management of resource properties, creation and management of resource collections, URL namespace manipulation, and resource locking (collision avoidance).
+
+* *WebDAV Versioning (RFC 3253)* - Sections 1.6 (pre/post conditions), 3.1.5 & 3.6 (REPORT method) - A set of methods, headers, and resource types that define the WebDAV versioning extensions to the HTTP/1.1 protocol.
+
+* *WebDAV Current Principal Extension (RFC 5397)* - A new WebDAV property that allows clients to quickly determine the principal corresponding to the current authenticated user.
+
+* *WebDAV Collection Synchronization (RFC 6578)* - An extension to WebDAV that allows efficient synchronization of the contents of a WebDAV collection.
+
+=== CalDAV
+
+* *iCalendar (RFC 5545)* - This document defines the iCalendar data format for representing and exchanging calendaring and scheduling information such as events, to-dos, journal entries, and free/busy information, independent of any particular calendar service or protocol.
+
+* *Locating CalDAV and CardDAV Services (RFC 6764)* - Describes how DNS SRV records, DNS TXT records, and well-known URIs can be used together or separately to locate CalDAV or CardDAV services.
+
+* *CalDAV (RFC 4791)* - Defines extensions to the WebDAV protocol to specify a standard way of accessing, managing, and sharing calendaring and scheduling information based on the iCalendar format. This document defines the "calendar-access" feature of CalDAV.
+
+=== CalDAV Scheduling
+
+* *iTIP (RFC 5546)* - (iCalendar Transport-Independent Interoperability Protocol) complements the iCalendar object specification by adding semantics for group scheduling methods commonly available in current calendaring systems.
+
+* *iMIP (RFC 6047)* - (iCalendar Message-Based Interoperability Protocol) specifies a binding from iTIP to Internet email-based transports.
+
+* *WebDAV ACL (RFC 3744)* - (to support scheduling rights on Inbox/Outbox) Defines Access Control extensions to WebDAV.
+
+* *CalDAV Scheduling (RFC 6638)* - Defines scheduling extensions to CalDAV to specify a standard way of performing scheduling operations with iCalendar-based calendar components. This document defines the "calendar-auto-schedule" feature of CalDAV.
+
+=== CardDAV
+
+* *vCard (RFC 6350)* - Defines the vCard data format for representing and exchanging a variety of information about individuals and other entities.
+
+* *Locating CalDAV and CardDAV Services (RFC 6764)* - Describes how DNS SRV records, DNS TXT records, and well-known URIs can be used together or separately to locate CalDAV or CardDAV services.
+
+* *CardDAV (RFC 6352)* - Defines extensions to WebDAV to specify a standard way of accessing, managing, and sharing contact information based on the vCard format.
+
+* *Extended MKCOL (RFC 5689)* - only to create additional addressbooks (or if server doesn't auto-provision one) - Extends the WebDAV MKCOL (Make Collection) method to allow collections of arbitrary resourcetype to be created and to allow properties to be set at the same time.
+
+=== Questions?
+
+CalConnect provides a public discussion list for calendaring and scheduling system developers that is a great place to get your questions answered. Please see link:{{'/resources/discussion-lists/developers-list' | relative_url }}[Calendar Developer List].
+
+=== Corrections and Updates
+
+We try to ensure that the information and links on this page are up to date and correct. However if you find anything that is wrong or out of date, or want to recommend an addition or change to this page, we welcome your input. Please send us e-mail at mailto:info@calconnect.org[info@calconnect.org].

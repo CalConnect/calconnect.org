@@ -4,8 +4,6 @@ title:  Membership Fee Payment
 type: membership
 ---
 
-== Membership Fee Payment
-
 Thank you for applying for membership in The Calendaring and Scheduling
 Consortium. Your membership in the Consortium begins with our receipt of
 your membership application and tendering of an Invoice.

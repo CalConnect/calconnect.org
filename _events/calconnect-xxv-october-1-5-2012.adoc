@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXV - October 1-5 2012
+title: CalConnect XXV - October 1-5 2012
 host_info: Hosted by Google, Zürich, Switzerland
 date: 2012-10-01
 image: /assets/images/Zurich.jpg
@@ -70,7 +70,7 @@ Zurich is served by http://www.zurich-airport.com/[Zurich International Airport 
 Google has preferential rates available at three nearby hotels. The first one is right next to Google, the other two are a 10 min walk away. CalConnect attendees may use the Google preferred rate (not sure that it's always the lowest rate available). To see the booking codes, member representatives may go to link:{{'/membersonly/cc25codes' | relative_url}}[CalConnect XXV preferred hotel booking codes] in the members area.
 
 _If you or your organization is not a CalConnect Member, we will send you the preferred booking codes upon request once you have registered for the event; contact mailto:dave.thewlis@calconnect.org[Dave Thewlis]._ +
- 
+
 
 All prices quoted below are inclusive of service, most taxes* and VAT, and include breakfast (except for the Seestrasse Apartments)
 
@@ -105,7 +105,7 @@ As noted above all events for the week will be at the Google campus. Please note
 
 At this time the schedule is preliminary and there may be changes in when specific sessions occur.
 
-A downloadable iCalendar.ics file with the entire schedule is available at link:{{'/calendar/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
+A downloadable iCalendar.ics file with the entire schedule is available at link:{{'/calendar/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule].
 
 [cols=3]
 |===
@@ -150,13 +150,13 @@ As noted above all events for the week will be at the Google campus. Please note
 
 At this time the schedule is preliminary and there may be changes in when specific sessions occur.
 
-A downloadable iCalendar.ics file with the entire schedule is available at link:{{'/calendar/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule]. 
+A downloadable iCalendar.ics file with the entire schedule is available at link:{{'/calendar/CalConnectConference.ics' | relative_url}}[CalConnectConference.ics], or you may subscribe to the calendar at link:webcal://www.calconnect.org/calendar/CalConnectConference.ics[Subscribe to CalConnect Conference Schedule].
 
 [cols=3]
 |===
 3+.<| *ROUNDTABLE TECHNICAL CONFERENCE*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 3 October* +
 1200-1300 Lunch^1^ +
 1300-1345 Opening/Introduction +
@@ -194,13 +194,13 @@ _Restaurant eCHo_
 1730-1800 CalConnect Plenary +
 1800 Close of Meeting
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Event and/or Roundtable +
 ^2^All Roundtable and IOP Test Event participants are invited to the Wednesday evening reception +
 ^3^All Roundtable participants are invited to the group dinner on Thursday
 
-Lunch and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. Breakfast is included with your hotel booking. 
+Lunch and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. Breakfast is included with your hotel booking.
 
 |===
 
@@ -208,7 +208,7 @@ Lunch and morning and afternoon breaks will be served to all participants in the
 === Topical Agendas
 
 Please see https://calconnect.wordpress.com/2012/09/12/symposia-at-calconnect-xxv-in-zurich/[CalConnect XXV Symposia] for more information about the Thursday and Friday morning symposia. +
- 
+
 
 [cols=2]
 |===
@@ -310,7 +310,7 @@ Review of IOP test participant findings
 
 |===
 
- 
+
 
 ==== Scheduled BOFs
 

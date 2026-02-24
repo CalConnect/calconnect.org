@@ -1,0 +1,41 @@
+# Main Navigation (Header)
+# Used in _includes/header.html
+
+items:
+  - label: About
+    url: /about/
+    children:
+      - label: Structure
+        url: /about/structure/
+      - label: History
+        url: /about/history/
+      - label: Board of Directors
+        url: /about/board-directors/
+      - label: Technical Committees
+        url: /about/technical-committees/
+      - label: Liaisons
+        url: /about/liaisons-and-relationships/
+
+  - label: Membership
+    url: /membership/
+    children:
+      - label: Why Join
+        url: /membership/why-join/
+      - label: Membership Application
+        url: /membership/membership-application/
+
+  - label: Events
+    url: /events/
+
+  - label: News
+    url: /news/
+
+  - label: Resources
+    url: /resources/
+    children:
+      - label: Getting Started
+        url: /resources/getting-started/
+      - label: Discussion Lists
+        url: /resources/discussion-lists/
+      - label: Calendars
+        url: /events/calendars/

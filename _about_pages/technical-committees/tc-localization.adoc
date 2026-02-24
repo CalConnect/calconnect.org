@@ -5,7 +5,6 @@ type: about
 permalink: /about/technical-committees/:title
 ---
 
-= CalConnect LOCALIZATION Technical Committee
 
 == Background
 

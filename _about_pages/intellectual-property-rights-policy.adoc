@@ -4,7 +4,6 @@ title: Intellectual Property Rights Policy
 type: about
 permalink: /about/policies/intellectual-property-rights-policy
 ---
-= Intellectual Property Rights Policy
 
 _As of Feb 2025_
 

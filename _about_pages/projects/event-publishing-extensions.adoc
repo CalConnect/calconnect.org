@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== Event Publishing Extensions
-
 "Calendaring standards need to support the rich environment of Web 2.0 (and
 beyond) for the publication of public events - rich text, participants and image
 support"

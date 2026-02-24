@@ -6,7 +6,6 @@ permalink: /about/policies/copyright-and-licensing
 ---
 :page-liquid:
 
-= Copyright and Licensing for Published Material
 
 _As of Feb 2025_
 

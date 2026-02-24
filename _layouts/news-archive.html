@@ -1,0 +1,49 @@
+---
+layout: default
+title: News Archive
+type: news
+---
+
+<!-- Breadcrumb Navigation -->
+<nav class="mb-6 text-sm" aria-label="Breadcrumb">
+  <ol class="flex items-center flex-wrap gap-2 list-none">
+    <li>
+      <a href="/" class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Home</a>
+    </li>
+    {% if page.type %}
+    <li class="flex items-center gap-2">
+      <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+      <a href="/news" class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">News</a>
+    </li>
+    {% endif %}
+    {% if page.year %}
+    <li class="flex items-center gap-2">
+      <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+      <span class="text-gray-900 dark:text-white font-medium">{{ page.year }}</span>
+    </li>
+    {% endif %}
+  </ol>
+</nav>
+
+<!-- Mobile Section Navigation -->
+<div class="lg:hidden mb-6">
+  <details class="group">
+    <summary class="flex items-center justify-between w-full px-4 py-3 bg-gray-50 dark:bg-gray-800/50 rounded-lg cursor-pointer list-none hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+      <span class="font-medium text-gray-900 dark:text-white">Year Navigation</span>
+      <svg class="w-5 h-5 text-gray-500 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+    </summary>
+    <div class="mt-2 p-4 bg-gray-50 dark:bg-gray-800/50 rounded-lg">
+      <nav class="space-y-1">
+        <a href="/news" class="block px-3 py-2 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700">All News</a>
+        {% for y in site.data.news_years %}
+        <a href="/news/{{ y }}" class="block px-3 py-2 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700">{{ y }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </details>
+</div>
+
+<!-- Content -->
+<div class="prose-content">
+  {{ content }}
+</div>

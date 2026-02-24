@@ -5,8 +5,6 @@ type: membership
 ---
 :page-liquid:
 
-== The CalConnect Distinguished Service Award
-
 The CalConnect Distinguished Service Award was created by the Board of
 Directors in 2011 to recognize individuals who have given extraordinary
 and/or exemplary service to CalConnect and to interoperable calendaring

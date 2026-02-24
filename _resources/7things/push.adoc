@@ -6,8 +6,6 @@ permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
-== 7 Things You Should Know About Push
-
 === 1. What is it?
 Push notifications allow servers to notify clients of changes to the
 stored data in a timely manner – possibly as soon as the changes occur –

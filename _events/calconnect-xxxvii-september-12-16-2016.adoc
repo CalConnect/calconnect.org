@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XXXVII - September 12-16, 2016
+title: CalConnect XXXVII - September 12-16, 2016
 host_info: Hosted by dmfs GmbH, Dresden, developers of SmoothSync.
 date: 2016-09-12
 image: /assets/images/Dresden.jpg

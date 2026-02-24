@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Introduction to CalConnect
+title: About
 type: about
 ---
 :page-liquid:
 
-= Introduction to CalConnect
 
 ____
 You don't need to be a member of CalConnect to _implement_ a standard.
@@ -42,9 +41,9 @@ provide mechanisms to allow interoperable calendaring and scheduling
 methodologies, tools and applications to enter the mainstream of
 computing. An early overview presentation is available at this link:
 
-link:{{'/presentations/Calconnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf' | relative_url }}[CalConnect&#44; Calendaring Interoperability and Calendaring Standards]
+link:{{'/docs/presentations/Calconnect%20Calendaring%20Interoperability%20and%20Calendaring%20Standards.pdf' | relative_url }}[CalConnect&#44; Calendaring Interoperability and Calendaring Standards]
 and a ten-year review at
-link:{{'/presentations/CC32%20A%20History%20of%20CalConnect.pdf' | relative_url }}[An Anecdotal History of CalConnect].
+link:{{'/docs/presentations/CC32%20A%20History%20of%20CalConnect.pdf' | relative_url }}[An Anecdotal History of CalConnect].
 
 A list of Calendaring standards,
 specifications, and standards-related activities to date may be found

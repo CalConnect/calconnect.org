@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== VAVAILABILITY
-
 "New iCalendar component to describe availability, to 'condition' freebusy
 lookup and scheduling (e.g. you may be 'free' at 3 a.m. but you aren't available
 for a meeting)"

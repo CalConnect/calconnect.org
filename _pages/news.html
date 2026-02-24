@@ -1,54 +1,94 @@
 ---
-layout: page
+layout: default
 title: News & Highlights
 type: news
+description: Latest news, updates, and announcements from CalConnect and the calendaring community.
+nav_exclude: true
+permalink: /news/
 ---
 
-<h2>News & Highlights</h2>
-
-<!-- Retrieve and sort posts by 'revdate' in descending order -->
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% assign latest_posts = sorted_posts | slice: 0, 10 %}
 
-<!-- Iterate through each sorted post -->
-{% for post in sorted_posts %}
-<div class="views-row">
-    <!-- Article Block -->
-    <article class="node node-article node-promoted node-teaser"
-        about="{{ post.url }}" typeof="sioc:Item foaf:Document">
+<!-- Breadcrumb Navigation -->
+<nav class="mb-6 text-sm" aria-label="Breadcrumb">
+  <ol class="flex items-center flex-wrap gap-2 list-none">
+    <li>
+      <a href="/" class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Home</a>
+    </li>
+    <li class="flex items-center gap-2">
+      <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+      <span class="text-gray-900 dark:text-white font-medium">News & Highlights</span>
+    </li>
+  </ol>
+</nav>
 
-        <!-- Article Header -->
-        <header>
-            <!-- Post Title -->
-            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+<!-- Main Content -->
+<div class="prose-content">
+  <p class="text-lg text-gray-600 dark:text-gray-400 mb-6">
+    News and announcements from CalConnect and the calendaring community.
+  </p>
 
-            <!-- Metadata for SEO and machine readability -->
-            <span property="dc:title" content="{{ post.title }}" class="rdf-meta element-hidden"></span>
-            <span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <!-- Vue Search App - with fallback -->
+  <div id="vue-news-search">
+    <div class="mb-8">
+      <div class="relative">
+        <input type="search" id="news-search-fallback" placeholder="Search news..." class="w-full px-4 py-3 pl-10 rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent">
+        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+      </div>
+    </div>
+  </div>
 
-            <!-- Date of the post -->
-            <span class="submitted">Posted {{ post.date | date_to_string }}</span>
-        </header>
+  <!-- Posts data for Vue -->
+  <script type="application/json" id="news-posts-data">
+    [
+      {% for post in sorted_posts %}
+      {
+        "title": {{ post.title | jsonify }},
+        "url": {{ post.url | relative_url | jsonify }},
+        "date": {{ post.date | date: '%Y-%m-%d' | jsonify }},
+        "excerpt": {{ post.excerpt | strip_html | truncatewords: 30 | jsonify }},
+        "categories": {{ post.categories | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  </script>
 
-        <!-- Article Body -->
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-            <div class="field-items">
-                <div class="field-item even" property="content:encoded">
-                    <!-- Short excerpt or summary -->
-                    <p>{{ post.excerpt }}</p>
-                </div>
-            </div>
-        </div>
+  <!-- Category Filter -->
+  <div class="mb-8">
+    <h2 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3">Filter by Category</h2>
+    <div class="flex flex-wrap gap-2">
+      <a href="/news/category/announcements/" class="px-4 py-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors text-sm">Announcements</a>
+      <a href="/news/category/the-world-of-calendaring/" class="px-4 py-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors text-sm">The World of Calendaring</a>
+      <a href="/news/category/general-information/" class="px-4 py-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors text-sm">General Information</a>
+      <a href="/news/category/press-releases/" class="px-4 py-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors text-sm">Press Releases</a>
+      <a href="/news/category/current-events/" class="px-4 py-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-700 dark:hover:text-primary-300 transition-colors text-sm">Current Events</a>
+    </div>
+  </div>
 
-        <!-- Article Footer -->
-        <footer>
-            <ul class="links list-inline">
-                <!-- 'Read More' link for detailed post -->
-                <li class="node-readmore first last">
-                    <a href="{{ post.url | relative_url }}" rel="tag" title="{{ post.title }}">Read more</a>
-                </li>
-            </ul>
-        </footer>
+  <!-- Latest News (Top 10) -->
+  <section>
+    <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
+      <span class="w-8 h-8 rounded-lg bg-gradient-to-br from-primary-500 to-accent-400 flex items-center justify-center text-white text-sm">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/></svg>
+      </span>
+      Latest News
+    </h2>
 
-    </article>
+    <div class="space-y-4" id="news-list">
+      {% for post in latest_posts %}
+      {% include news-card.html post=post %}
+      {% endfor %}
+    </div>
+  </section>
 </div>
-{% endfor %}
+
+<!-- Custom Sidebar Script for News Section -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const sectionNav = document.getElementById('section-nav');
+  if (sectionNav) {
+    sectionNav.innerHTML = '<a href="/news/" class="flex items-center px-3 py-2 text-sm font-medium rounded-lg bg-primary-50 dark:bg-primary-500/20 text-primary-700 dark:text-primary-300"><svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/></svg>All News</a>';
+  }
+});
+</script>

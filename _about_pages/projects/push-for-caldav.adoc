@@ -6,8 +6,6 @@ permalink: /about/major-work-projects/:title
 ---
 :page-liquid:
 
-== PUSH for CalDAV
-
 "Extend CalDAV and CardDAV with standardized support for PUSH notifications"
 
 At present CalDAV and CardDAV clients have to poll the server at regular

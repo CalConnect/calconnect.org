@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect Public Time Zone Workshop
+title: CalConnect Public Time Zone Workshop
 host_info: Tuesday February 05 at CalConnect XLIV Zürich
 date: 2019-02-05
 image: /assets/images/world-time-zone-map.jpg

@@ -6,7 +6,6 @@ permalink: /about/technical-committees/closed-tcs
 ---
 :page-liquid:
 
-= Closed Technical Committees
 
 _As of October 2015_
 

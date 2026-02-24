@@ -7,7 +7,6 @@ order: 13
 published: false
 ---
 
-= CalConnect STREAMING Technical Committee
 
 == Background
 

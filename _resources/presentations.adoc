@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= Public Presentations
 
 These Public Presentations include both CalConnect presentations and
 presentations made at CalConnect events by other parties. Some but not

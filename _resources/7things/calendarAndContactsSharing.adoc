@@ -6,8 +6,6 @@ permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
-== 7 Things You Should Know About Calendar and Contacts Sharing
-
 === 1. What is it?
 Calendar and Contacts Sharing is the process of sharing https://devguide.calconnect.org/Appendix/Glossary/#CalDAV[CalDAV] calendars and https://devguide.calconnect.org/Appendix/Glossary/#CardDAV"[CardDAV] address books between users.
 

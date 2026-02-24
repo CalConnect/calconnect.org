@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XIX - October 4-8 2010
+title: CalConnect XIX - October 4-8 2010
 host_info: Hosted by IBM/Lotus, Littleton, Massachusetts
 date: 2010-10-04
 image: /assets/images/CalConnectEventTBD.jpg

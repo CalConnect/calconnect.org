@@ -4,7 +4,6 @@ title: Policies and Related Materials
 type: about
 ---
 :page-liquid:
-= Policies and related materials
 
 == Articles of incorporation
 

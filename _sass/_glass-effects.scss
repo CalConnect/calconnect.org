@@ -1,0 +1,311 @@
+// ==========================================================================
+// CalConnect Design System - Premium Glass Effects
+// London Exclusive Aesthetic
+// ==========================================================================
+
+// ==========================================================================
+// Base Glass Mixin - Refined & Subtle
+// ==========================================================================
+
+@mixin glass(
+  $bg: var(--glass-bg),
+  $border: var(--glass-border),
+  $blur: var(--blur-md),
+  $shadow: var(--glass-shadow-md),
+  $radius: var(--radius-lg)
+) {
+  background: $bg;
+  backdrop-filter: $blur;
+  -webkit-backdrop-filter: $blur;
+  border: 1px solid $border;
+  border-radius: $radius;
+  box-shadow: $shadow;
+}
+
+// ==========================================================================
+// Premium Card - Understated Elegance
+// ==========================================================================
+
+@mixin premium-card {
+  @include glass;
+
+  transition:
+    background var(--transition-base),
+    border-color var(--transition-base),
+    box-shadow var(--transition-base),
+    transform var(--transition-slower);
+
+  &:hover {
+    background: var(--glass-bg-hover);
+    border-color: var(--glass-border-hover);
+    box-shadow: var(--glass-shadow-lg);
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    background: var(--glass-bg-active);
+    transform: translateY(0);
+  }
+}
+
+// ==========================================================================
+// Gold Accent Border
+// ==========================================================================
+
+@mixin gold-border($opacity: 0, $hover-opacity: 1) {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(
+      135deg,
+      rgba(184, 149, 110, 0.6) 0%,
+      rgba(212, 184, 150, 0.3) 30%,
+      transparent 50%,
+      rgba(184, 149, 110, 0.4) 70%,
+      rgba(184, 149, 110, 0.5) 100%
+    );
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: $opacity;
+    transition: opacity var(--transition-slower);
+    pointer-events: none;
+  }
+
+  &:hover::before {
+    opacity: $hover-opacity;
+  }
+}
+
+// ==========================================================================
+// Premium Button - Refined
+// ==========================================================================
+
+@mixin premium-button {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-xs), none, var(--radius-full));
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  color: var(--text-primary);
+  font-weight: var(--font-medium);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+
+  &:hover {
+    background: var(--glass-bg-hover);
+    border-color: var(--glass-border-hover);
+    box-shadow: var(--glass-shadow-sm);
+    text-decoration: none;
+    color: var(--text-primary);
+  }
+
+  &:active {
+    transform: translateY(0);
+    background: var(--glass-bg-active);
+  }
+}
+
+// ==========================================================================
+// Gold Primary Button
+// ==========================================================================
+
+@mixin gold-button {
+  @include premium-button;
+
+  background: linear-gradient(135deg, var(--accent-500), var(--accent-600));
+  border-color: rgba(255, 255, 255, 0.15);
+  color: var(--primary-900);
+
+  &:hover {
+    background: linear-gradient(135deg, var(--accent-400), var(--accent-500));
+    box-shadow: var(--glass-shadow-accent), 0 0 30px rgba(184, 149, 110, 0.2);
+  }
+}
+
+// Glass Primary Button (for navigation)
+@mixin glass-button-primary {
+  @include glass;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  color: var(--accent-400);
+  font-weight: var(--font-medium);
+  font-size: var(--text-sm);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+
+  &:hover {
+    background: var(--glass-bg-hover);
+    border-color: var(--accent-500);
+    color: var(--accent-300);
+    text-decoration: none;
+    box-shadow: 0 0 20px rgba(184, 149, 110, 0.15);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+// ==========================================================================
+// Premium Input
+// ==========================================================================
+
+@mixin premium-input {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-xs), none, var(--radius-md));
+
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  color: var(--text-primary);
+  font-size: var(--text-base);
+  outline: none;
+  transition: all var(--transition-fast);
+
+  &::placeholder {
+    color: var(--text-muted);
+  }
+
+  &:focus {
+    border-color: var(--accent-500);
+    box-shadow: 0 0 0 2px rgba(184, 149, 110, 0.15);
+    background: var(--glass-bg-hover);
+  }
+}
+
+// ==========================================================================
+// Utility Classes
+// ==========================================================================
+
+.premium-glass {
+  @include glass;
+}
+
+.premium-card {
+  @include premium-card;
+}
+
+.premium-button {
+  @include premium-button;
+}
+
+.gold-button {
+  @include gold-button;
+}
+
+.premium-input {
+  @include premium-input;
+}
+
+// ==========================================================================
+// Glass Card Mixin
+// ==========================================================================
+
+@mixin glass-card {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-md), var(--glass-shadow-md), var(--radius-lg));
+
+  transition:
+    background var(--transition-base),
+    border-color var(--transition-base),
+    box-shadow var(--transition-base),
+    transform var(--transition-slower);
+
+  &:hover {
+    background: var(--glass-bg-hover);
+    border-color: var(--glass-border-hover);
+    box-shadow: var(--glass-shadow-lg);
+    transform: translateY(-4px);
+  }
+}
+
+// ==========================================================================
+// Glass Badge Mixin
+// ==========================================================================
+
+@mixin glass-badge {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-xs), none, var(--radius-full));
+
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-1) var(--space-3);
+  font-size: var(--text-xs);
+  font-weight: var(--font-medium);
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+}
+
+// ==========================================================================
+// Glass Input Mixin
+// ==========================================================================
+
+@mixin glass-input {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-xs), none, var(--radius-md));
+
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  color: var(--text-primary);
+  font-size: var(--text-base);
+  outline: none;
+  transition: all var(--transition-fast);
+
+  &::placeholder {
+    color: var(--text-muted);
+  }
+
+  &:focus {
+    border-color: var(--accent-500);
+    box-shadow: 0 0 0 2px rgba(184, 149, 110, 0.15);
+    background: var(--glass-bg-hover);
+  }
+}
+
+// ==========================================================================
+// Glass Button Mixin
+// ==========================================================================
+
+@mixin glass-button {
+  @include glass(var(--glass-bg), var(--glass-border), var(--blur-xs), none, var(--radius-md));
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-5);
+  color: var(--text-primary);
+  font-weight: var(--font-medium);
+  font-size: var(--text-base);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+
+  &:hover {
+    background: var(--glass-bg-hover);
+    border-color: var(--glass-border-hover);
+    box-shadow: var(--glass-shadow-sm);
+    text-decoration: none;
+    color: var(--text-primary);
+  }
+
+  &:active {
+    transform: translateY(0);
+    background: var(--glass-bg-active);
+  }
+}

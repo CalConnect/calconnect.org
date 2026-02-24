@@ -6,7 +6,6 @@ permalink: /about/technical-committees/:title
 order: 15
 ---
 
-= CalConnect VCARD Technical Committee
 
 == Background
 

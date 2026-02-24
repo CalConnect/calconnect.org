@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XVIII - May 24-28 2010
+title: CalConnect XVIII - May 24-28 2010
 host_info: Hosted by Carnegie Mellon University, Pittsburgh, Pennsylvania
 date: 2010-05-24
 image: /assets/images/CarnegieMellon.jpg
@@ -32,7 +32,7 @@ You do not need finished or polished code to participate in the IOP testing; in 
 
 *Roundtable XVIII:* The Roundtable Members Meeting will offer Technical Committee sessions, to which all members and link:{{'/events/observers' | relative_url}}[observers] are welcome, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings.
 
-Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.  
+Friday afternoon will be the full Plenary meeting of the Consortium, open to all participants. This session will include report-outs from all Technical Committees, and establishment of future goals and directions for the Consortium.
 
 International Visitors
 
@@ -47,7 +47,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 == Location
 
 The Interoperability Test Event and the Roundtable will take place on the campus of Carnegie Mellon University in Pittsburgh, Pennsylvania. We will be in Margaret Morrison Carnegie Hall, Room 203, for the entire week. (The User Special Interest Group on Wednesday morning will be in the College of Fine Arts building nearby.) For a general map of the area showing the venue locations and conference hotels please see http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105447925503204780687.000480ec02f4abc4eded0&ll=40.443485,-79.94972&spn=0.011758,0.018604&z=16[Carnegie Mellon University Area]. For a map of the University Campus, please see http://www.cmu.edu/about/visit/campus-map[]. Note that on this map the meeting venue, Margaret Morrison Carnegie Hall, is Building 13, and the College of Fine Arts (USIG) is Building 5. Parking will be at the East Campus Parking Building, Building P7. +
- 
+
 
 [[transportation]]
 == Transportation
@@ -68,11 +68,11 @@ The Interoperability Test Event and the Roundtable will take place on the campus
 Carnegie Mellon Univesity has arranged a special CalConnect rate of $129/night with the Holiday Inn University Center, which will serve as our conference hotel. It is also the nearest to the meeting venue on the CMU campus, and is about 15 minutes' walk from Margaret Morrison Carnegie Hall. You may book online with the hotel using the Group Code of CAC. You must book by *May 14* to receive this rate.
 
 There are other hotels in the immediate area although not as close to the meeting venue. Shadyside Inn also offers a preferred CMU rate, however the others do not. +
- 
+
 
 [cols="1,20,2,17"]
 |===
-| 
+|
 .<a| *Conference Hotel* +
 *Holiday Inn Pittsburgh @ University Center (Oakland)* +
 100 Lytton Avenue +
@@ -88,8 +88,8 @@ Free wired internet in rooms; wifi in public areas
 Pittsburgh, PA 15224 +
 Phone: +1 412 683 3113 +
 http://www.marriott.com/hotels/travel/pitok-courtyard-pittsburgh-shadyside/ +
- 
-| 
+
+|
 .<a| *Shadyside Inn (all suites)* +
 5405 5th Avenue +
 Pittsburgh, PA 15232 +
@@ -137,7 +137,7 @@ _All sessions and events are in *Room 203, Margaret Morrison Carnegie Hall* exce
 1600-1800 Testing
 
 1900-2100 IOP Test Dinner +
-http://www.fuelandfuddle.com/[_Food & Fuddle_] 
+http://www.fuelandfuddle.com/[_Food & Fuddle_]
 .<a| *Tuesday 25 May* +
 0800-0830 Breakfast +
 0830-1000 Testing +
@@ -172,7 +172,7 @@ _All sessions and events are in*Room 203, Margaret Morrison Carnegie Hall*except
 |===
 3+.<| *ROUNDTABLE XVIII*
 
-3+.<| 
+3+.<|
 .<a| *Wednesday 26 May* +
 1000-1200 User Special Interest Group^2^ +
 1100-1200 Introduction to CalConnect^3^ +
@@ -213,7 +213,7 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 1230-1400 CalConnect Plenary Session +
 1400 Close of Meeting
 
-3+| 
+3+|
 3+.<a|
 ^1^The Wednesday lunch is for all participants in the IOP Test Events and/or Roundtable +
 ^2^The User Special Interest Group will meet in _Room 201 (Kerr Conference room) in the College of Fine Arts building across the street from the main venue_. +
@@ -222,7 +222,7 @@ http://www.montereybayfishgrotto.com/[_Monterey Bay Fish Grotto_]
 ^5^Member reprsentatives not on the Steering Committee are invited to attend the SC meeting. This meeting is closed to Observers +
 ^6^All Roundtable participants are invited to the group dinner on Thursday
 
-Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees. 
+Breakfast, lunch, and morning and afternoon breaks will be served to all participants in the Roundtable and the IOP test events and are included in your registration fees.
 
 |===
 [[agendas]]
@@ -271,7 +271,7 @@ Thu 0930-11000 +
 
 *TC IOPTEST* Wed 1315-1330 +
 Review of IOP tests participant findings +
- 
+
 .<a| *TC iSCHEDULE* Thu 1330-1500 +
 1. Overview +
 1.1 Charter +

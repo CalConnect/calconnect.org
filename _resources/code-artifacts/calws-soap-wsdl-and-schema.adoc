@@ -1,0 +1,49 @@
+---
+layout: page
+title: CalWS-SOAP Schema
+type: resources
+permalink: /resources/code-artifacts/calws-soap-wsdl-and-schema
+---
+
+This page provides links to the XML schemas and WSDL for the CalWS-SOAP
+service as defined in the specification CD1202 CalWS-SOAP SOAP Web
+Services Protocol for Calendaring V1.0.
+
+== Overview
+
+CalWS-SOAP provides a SOAP-based web services protocol for calendaring
+operations, offering:
+
+* Standards-based calendaring web services
+* SOAP message format
+* WSDL service definitions
+
+== Schema Files
+
+The CalWS-SOAP schema and WSDL files define:
+
+* Message structures for calendaring operations
+* Service endpoint definitions
+* Data type definitions for calendar objects
+
+These files are available from the CalConnect GitHub repositories.
+
+== Related Specification
+
+* link:{{'/publications/CD1202%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf' | relative_url }}[CD1202 CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0]
+
+== Additional Information
+
+This page uses http://www.rddl.org/[Resource Directory Description Language]
+to provide a directory of references to the specification itself and
+related documents.
+
+== License
+
+All CalConnect code artifacts and schema are licensed for public use
+under the http://www.apache.org/licenses/LICENSE-2.0[Apache 2 License].
+
+== Related Resources
+
+* /resources/code-artifacts/[Code Artifacts Overview]
+* /resources/calendaring-standards/[Calendaring Standards Index]

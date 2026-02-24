@@ -1,11 +1,9 @@
 ---
 layout: page
-title:  CalConnect Public Discussion Lists
+title: Public Discussion Lists
 type: resources
 ---
 :page-liquid:
-
-== CalConnect Public Discussion Lists
 
 _Last updated 18 October 2018_
 

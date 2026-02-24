@@ -5,7 +5,6 @@ type: resources
 ---
 :page-liquid:
 
-= Event reading lists
 
 _Last Updated September 2019_
 

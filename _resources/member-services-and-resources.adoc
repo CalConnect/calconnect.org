@@ -4,7 +4,6 @@ title:  Member Services and Resources
 type: resources
 ---
 
-= Member Services and Resources
 
 This is a list of external services and resources used by CalConnect
 Technical Committees and other activities, and available to Member

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: CalConnect XLI - January 29 - February 2, 2018
+title: CalConnect XLI - January 29 - February 2, 2018
 host_info: Hosted by Oath, Sunnyvale, California
 date: 2018-01-29
 image: /assets/images/yahoo-campus.jpg

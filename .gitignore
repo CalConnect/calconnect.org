@@ -9,3 +9,15 @@ Gemfile.lock
 .DS_Store
 assets/.DS_Store
 docs/.DS_Store
+
+# Vite Ruby
+/public/vite*
+node_modules
+# Vite uses dotenv and suggests to ignore local-only env files. See
+# https://vitejs.dev/guide/env-and-mode.html#env-files
+*.local
+
+CLAUDE.md
+TODO.*.md
+_site
+
