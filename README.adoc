@@ -1,16 +1,439 @@
 = CalConnect public website
 
-This is the source code for the CalConnect public website, hosted at
-https://www.calconnect.org.
+image:https://github.com/CalConnect/calconnect.org/actions/workflows/build_deploy.yml/badge.svg["Build and Deploy", link="https://github.com/CalConnect/calconnect.org/actions/workflows/build_deploy.yml"]
+image:https://github.com/CalConnect/calconnect.org/actions/workflows/links.yml/badge.svg["Link Checker", link="https://github.com/CalConnect/calconnect.org/actions/workflows/links.yml"]
+
+This is the source code for the CalConnect public website, hosted at https://www.calconnect.org.
+
+== Purpose
+
+This repository contains the source code for the official website of
+*The Calendaring and Scheduling Consortium* (CalConnect), a standards
+development organization for vendors and users of calendaring, scheduling,
+and collaboration systems.
+
+The site serves multiple audiences:
+
+* **Standards developers** — Technical documentation, specifications, TC work
+* **Product managers** — Understanding CalConnect standards and implementations
+* **Potential members** — Membership information and application
+* **The calendaring community** — News, events, and resources
+
+== Site information architecture
+
+=== Content hierarchy
+
+The site is organized into five main sections:
+
+[cols="1,3,2"]
+|===
+| Section | Description | URL
+
+| About
+| Organization structure, history, technical committees, policies, liaisons
+| `/about/`
+
+| Membership
+| Membership benefits, categories, application, fees, member list
+| `/membership/`
+
+| Events
+| Conferences, workshops, virtual events (past and upcoming)
+| `/events/`
+
+| News
+| Announcements, press releases, industry news
+| `/news/`
+
+| Resources
+| Standards documentation, guides, discussion lists, technical resources
+| `/resources/`
+|===
+
+=== Jekyll collections
+
+The site uses Jekyll collections to organize content:
+
+[cols="1,2,1,2"]
+|===
+| Collection | Directory | Permalink | Purpose
+
+| `posts`
+| `_posts/`
+| `/news/:year-:month-:day-:title/`
+| News articles and press releases
+
+| `events`
+| `_events/`
+| `/events/:title`
+| Conference and event pages
+
+| `about_pages`
+| `_about_pages/`
+| `/about/:title`
+| About section pages (TCs, history, policies)
+
+| `membership_pages`
+| `_membership_pages/`
+| `/membership/:title`
+| Membership section pages
+
+| `event_pages`
+| `_event_pages/`
+| `/events/:title`
+| Event-related info (calendars, fees)
+
+| `resources`
+| `_resources/`
+| (default)
+| Documentation and guides
+
+| `pages`
+| `_pages/`
+| `/:path/`
+| Landing pages for each section
+|===
+
+=== Navigation structure
+
+Navigation is data-driven via YAML files in `_data/`:
+
+* `_data/navigation_main.yml` — Header navigation with dropdowns
+* `_data/navigation_sidebar.yml` — Section-specific sidebar navigation
+
+== Code architecture
+
+=== Technology stack
+
+The site is built with Jekyll 4.3 for static content generation, with Vite for frontend asset bundling.
+
+.Architecture overview
+[source]
+----
+┌──────────────────────────────────────────────────────┐
+│                     Jekyll 4.3                       │
+│  (Static site generator - Ruby)                      │
+│                                                      │
+│  • Processes Markdown, AsciiDoc, HTML templates      │
+│  • Integrates with Vite for frontend assets          │
+│  • Output: _site/ directory                          │
+└──────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌──────────────────────────────────────────────────────┐
+│                      Vite 7.x                        │
+│  (Frontend bundler - Node.js)                        │
+│                                                      │
+│  • Vue 3 components (client-side search)             │
+│  • Tailwind CSS 4 styling                            │
+│  • Output: public/vite/assets/                       │
+└──────────────────────────────────────────────────────┘
+----
+
+=== Directory structure
+
+[source]
+----
+.
+├── _config.yml              # Jekyll configuration
+├── _data/                   # YAML data files
+│   ├── navigation_main.yml  # Header navigation
+│   ├── navigation_sidebar.yml # Sidebar navigation
+│   └── members.yml          # Member organizations
+├── _frontend/               # Frontend source (Vite/Vue/Tailwind)
+│   └── entrypoints/
+│       ├── application.js   # Vue application entry
+│       └── application.css  # Tailwind CSS entry
+├── _includes/               # Jekyll partials
+│   ├── head.html            # Document head
+│   ├── header.html          # Site header
+│   ├── footer.html          # Site footer
+│   └── news-card.html       # News card component
+├── _layouts/                # Page templates
+│   ├── base.html            # Foundation (all pages)
+│   ├── default.html         # Content pages (sidebar)
+│   ├── home.html            # Homepage
+│   └── page.html            # Simple content wrapper
+├── _pages/                  # Landing pages
+├── _posts/                  # News articles
+├── _events/                 # Event pages
+├── _about_pages/            # About section pages
+│   └── technical-committees/ # TC subpages
+├── _membership_pages/       # Membership pages
+├── _event_pages/            # Event info pages
+├── _resources/              # Resource pages
+├── assets/                  # Static assets
+│   ├── images/              # Images
+│   └── css/                 # Additional stylesheets
+├── public/                  # Vite output (gitignored)
+├── publications/            # PDF publications
+├── index.html               # Homepage
+├── package.json             # Node dependencies
+├── vite.config.ts           # Vite configuration
+├── Gemfile                  # Ruby dependencies
+└── Rakefile                 # Build tasks
+----
+
+=== Layout hierarchy
+
+[source]
+----
+base.html (foundation)
+├── default.html (sidebar + content)
+│   ├── page.html (simple wrapper)
+│   ├── news-year.html (news by year)
+│   └── news-category.html (news by category)
+└── home.html (homepage)
+----
+
+== Prerequisites
+
+* **Ruby 3.3** (or compatible version)
+* **Node.js 18+** (for Vite)
+* **Bundler** (Ruby gem manager)
+* **npm** (Node package manager)
+
+== Installation
+
+=== 1. Install Ruby dependencies
+
+[source,shell]
+----
+bundle install
+----
+
+=== 2. Install Node.js dependencies
+
+[source,shell]
+----
+npm install
+----
 
 == Development
 
-=== Getting started
+=== Start development server
 
-* Ensure you have reasonable Ruby version
-* Run `bundle` from within site directory to install Ruby dependencies
+[source,shell]
+----
+bundle exec jekyll serve
+----
 
-=== Serving site preview
+Access the site at http://127.0.0.1:4000
 
-* Run `jekyll serve` from within site directory
+The server automatically:
+* Rebuilds when content changes
+* Reloads Vite assets on modification
+* Enables live browser refresh
 
+=== Production build
+
+[source,shell]
+----
+JEKYLL_ENV=production bundle exec jekyll build
+----
+
+Output is written to `_site/`.
+
+== Common maintenance tasks
+
+=== Add a news post
+
+. Create a new file in `_posts/` named `YYYY-MM-DD-slug.adoc`
+. Add the required front matter:
+
+[source,yaml]
+----
+---
+layout: page
+title: Your Post Title
+date: YYYY-MM-DD
+type: news
+categories: announcements press-releases
+excerpt: |
+  Brief summary for listings.
+---
+----
+
+. Write content in AsciiDoc or Markdown below the front matter
+. Rebuild the site
+
+Available categories: `announcements`, `press-releases`, `the-world-of-calendaring`,
+`general-information`, `current-events`, `member-news`, `member-focus`,
+`special-focus`
+
+=== Add or update an event
+
+. Create or edit a file in `_events/`
+. Use front matter:
+
+[source,yaml]
+----
+---
+layout: page
+title: CalConnect Event Name
+date: YYYY-MM-DD
+host_info: Host information
+image: /assets/images/event-image.jpg
+---
+----
+
+. Event pages appear automatically in `/events/` listing
+
+=== Add or update a Technical Committee page
+
+TC pages are in `_about_pages/technical-committees/`:
+
+. Navigate to `_about_pages/technical-committees/`
+. Create or edit the appropriate `.adoc` file
+. Use front matter:
+
+[source,yaml]
+----
+---
+layout: page
+title: TC Name
+type: about
+---
+----
+
+. Update the sidebar navigation in `_data/navigation_sidebar.yml` if needed
+
+=== Add or update a liaison
+
+. Edit `_about_pages/liaisons-and-relationships.adoc`
+. Add liaison information in the appropriate section
+. Include logo in `assets/images/external-logos/` if needed
+
+=== Update navigation
+
+.Header navigation
+Edit `_data/navigation_main.yml`:
+
+[source,yaml]
+----
+- label: Section Name
+  url: /section/
+  children:
+    - label: Subpage
+      url: /section/subpage/
+----
+
+.Sidebar navigation
+Edit `_data/navigation_sidebar.yml`:
+
+[source,yaml]
+----
+- label: Section Name
+  url: /section/
+  items:
+    - label: Page
+      url: /section/page/
+----
+
+=== Update member list
+
+Edit `_data/members.yml`:
+
+[source,yaml]
+----
+- name: Organization Name
+  url: https://example.org
+  logo: logo-filename.png
+  type: corporate
+----
+
+Logos are stored in `assets/images/member-logos/`.
+
+== Frontend development
+
+=== Vue components
+
+The site uses Vue 3 for interactive components (e.g., news search).
+Vue components are located in `_frontend/entrypoints/`.
+
+[IMPORTANT]
+====
+Vue components must use *render functions* instead of template strings.
+This is required for Vite compatibility.
+====
+
+.Example Vue component structure
+[source,javascript]
+----
+import { createApp, h } from 'vue'
+
+const MyComponent = {
+  render() {
+    return h('div', { class: 'example' }, 'Hello')
+  }
+}
+----
+
+=== Tailwind CSS
+
+Tailwind CSS 4 is used for styling. Custom styles are defined in:
+
+* `_frontend/entrypoints/application.css` - Main entry point
+* Layout `<style>` blocks - Component-specific styles
+
+=== Adding new Vue components
+
+. Create the component in `_frontend/entrypoints/`
+. Import it in `application.js`
+. Use `createApp()` to mount it to a DOM element
+
+== Troubleshooting
+
+=== Assets not rebuilding
+
+Clear caches and rebuild:
+
+[source,shell]
+----
+rm -rf .jekyll-cache/vite public/vite
+npx vite build
+bundle exec jekyll build
+----
+
+=== Vue components not rendering
+
+Ensure components use render functions, not template strings.
+
+=== Missing content in navigation
+
+Check `_data/navigation_sidebar.yml` — items must be declared explicitly
+(except collection items which auto-generate).
+
+=== Ruby version issues
+
+Use a Ruby version manager (rbenv, rvm, or asdf) to install Ruby 3.3.
+
+[source,shell]
+----
+rbenv install 3.3.0
+rbenv local 3.3.0
+----
+
+=== Node version issues
+
+Use nvm to manage Node.js versions:
+
+[source,shell]
+----
+nvm install 18
+nvm use 18
+----
+
+== Deployment
+
+The site deploys automatically to GitHub Pages when changes are pushed to `main`.
+
+CI/CD pipeline (`.github/workflows/`):
+
+. `bundle exec jekyll build` - Production build
+. Lychee link checker - Validates internal links
+. Deploys to GitHub Pages
+
+== Copyright and licensing
+
+Copyright The Calendaring and Scheduling Consortium. All rights reserved.
