@@ -10,7 +10,7 @@ type: resources
 
 === CalConnect time zone discussion public mailing list
 
-Details: link:{{'/resources/discussion-lists/time-zone-discussion' | relative_url }}[CalConnect Time Zone Discussion Public Mailing List]
+Details: link:{{'/resources/time-zone-discussion' | relative_url}}[CalConnect Time Zone Discussion Public Mailing List]
 
 CalConnect has implemented this public discussion list, intended for discussion
 on timezones, especially in calendaring and scheduling. A particular focus is on
@@ -75,7 +75,7 @@ management in the future.
 
 === Extended daylight saving time review and considerations
 
-Details: link:{{'/resources/daylight-saving-time/extended-daylight-saving-time-review-and-considerations' | relative_url }}[Extended Daylight Saving Time Review and Considerations]
+Details: link:{{'/resources/extended-daylight-saving-time-review-and-considerations' | relative_url}}[Extended Daylight Saving Time Review and Considerations]
 
 This document provides a review of the Daylight Saving Time changes and the
 potential impact of this change on computer systems and devices. It is intended
@@ -84,7 +84,7 @@ who may need to make necessary updates to their systems.
 
 === Extended daylight saving time links, advisories and changes
 
-Details: link:{{'/resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes' | relative_url }}[Extended Daylight Saving Time Links, Advisories and Changes]
+Details: link:{{'/resources/extended-daylight-saving-time-links-advisories-and-changes' | relative_url}}[Extended Daylight Saving Time Links, Advisories and Changes]
 
 This document is a compilation of links to vendor-provided advisories, technical
 notes, change documents, and the like. Its primary purpose is to try and

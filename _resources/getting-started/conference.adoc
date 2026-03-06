@@ -2,7 +2,6 @@
 layout: page
 title: Getting Started at the CalConnect Conference
 type: resources
-permalink: /resources/getting-started/:title
 ---
 
 This page is intended for individuals who have not attended a CalConnect Conference, often just called the Conference. Its purpose is to allow you to prepare for the event and understand in advance what to expect and how to maximize the value of your participation.

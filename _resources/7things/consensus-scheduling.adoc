@@ -2,7 +2,6 @@
 layout: page
 title: 7 Things You Should Know About Consensus Scheduling
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
@@ -128,7 +127,7 @@ devices it should encourage the use of standard calendaring by the
 general population.
 
 === Need more information?
-https://www.calconnect.org/about/technical-committees/tc-calendar[TC-CALENDAR]
+link:{{"/about/technical-committees/tc-calendar/" | relative_url}}[TC-CALENDAR]
 
 https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
 

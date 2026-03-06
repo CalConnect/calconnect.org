@@ -21,21 +21,22 @@ plugins:
 collections:
   events:
     output: true
-    permalink: /events/:title
+    permalink: /events/:title/
   resources:
     output: true
+    permalink: /resources/:title/
   membership_pages:
     output: true
-    permalink: /membership/:title
+    permalink: /membership/:title/
   about_pages:
     output: true
-    permalink: /about/:title
+    permalink: /about/:title/
   news_pages:
     output: true
-    permalink: /news/:title
+    permalink: /news/:title/
   event_pages:
     output: true
-    permalink: /events/:title
+    permalink: /events/:title/
   posts:
     output: true
     permalink: /news/:year-:month-:day-:title/

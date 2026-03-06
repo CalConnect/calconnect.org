@@ -31,7 +31,7 @@ April 12, 2016 - link to map of Cyberport showing the location of our meeting ro
 
 April 4, 2016 - The Saturday tours have been combined into a single trip.
 
-March 21, 2016 - Full information for the https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[CalConnect Public Day] on wednesday April 20th has been added in its own event page.
+March 21, 2016 - Full information for the link:{{"/events/calconnect-public-day-hong-kong-it-fest/" | relative_url}}[CalConnect Public Day] on wednesday April 20th has been added in its own event page.
 
 March 15 & 20, 2016 - Full Test Event Schedue added; Conference schedule updated and some sessions rearranged.
 
@@ -47,7 +47,7 @@ The Interoperability Test Event will take place all day Monday and Tuesday April
 
 _Please Note: You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
-*CalConnect Public Day:* The Public Day is Wednesday April 20 at the Hong Kong Convention Centre. The schedule for the day is available at https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[]. Please see:https://www.itfest.hk/template?series=2&id=141&lang=en# for more information about the Hong Kong ITFEST and the Public Day.
+*CalConnect Public Day:* The Public Day is Wednesday April 20 at the Hong Kong Convention Centre. The schedule for the day is available at link:{{"/events/calconnect-public-day-hong-kong-it-fest/" | relative_url}}[]. Please see:https://www.itfest.hk/template?series=2&id=141&lang=en# for more information about the Hong Kong ITFEST and the Public Day.
 
 *CalConnect Conference:* The CalConnect Conference will offer a variety of sessions on technical and higher-level topics, informal BOFs (Birds of a Feather sessions), plus additional sessions and committee meetings. All attending member representatives and link:{{'/events/observers' | relative_url }}[observers]are welcome.
 
@@ -65,7 +65,7 @@ Dress at all CalConnect events is casual to business casual.
 
 === Optional Tours following the CalConnect event
 
-For information about the two optional tours on Saturday after the close of the CalConnect event please see https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday-23-april-2016[https://www.calconnect.org/misc/calconnect-xxxvi-optional-tours-saturday...].
+For information about the two optional tours on Saturday after the close of the CalConnect event please see link:{{"/misc/calconnect-xxxvi-optional-tours-saturday-23-april-2016/" | relative_url}}[link:{{"/misc/calconnect-xxxvi-optional-tours-saturday...]./" | relative_url}}[]
 
 === CalConnect XXXVI Sponsors
 

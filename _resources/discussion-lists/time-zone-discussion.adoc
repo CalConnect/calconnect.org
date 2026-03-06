@@ -2,7 +2,6 @@
 layout: page
 title: CalConnect Time Zone Discussion List
 type: resources
-permalink: /resources/discussion-lists/:title
 ---
 
 _Created 18 October 2018_

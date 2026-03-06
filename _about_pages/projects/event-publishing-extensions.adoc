@@ -2,7 +2,7 @@
 layout: page
 title: Event Publishing Extensions
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 
@@ -21,4 +21,4 @@ contacts
 support
 * images
 
-Details: link:{{'/about/technical-committees/tc-eventpub' | relative_url }}[TC EVENTPUB]
+Details: link:{{'/about/technical-committees/closed-tcs/' | relative_url}}[TC EVENTPUB]

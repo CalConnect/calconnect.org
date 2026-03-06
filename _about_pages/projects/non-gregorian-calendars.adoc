@@ -2,7 +2,7 @@
 layout: page
 title: Non-Gregorian Calendars
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 
 "Establish a way for recurrences to work with non-Gregorian calendar systems, in

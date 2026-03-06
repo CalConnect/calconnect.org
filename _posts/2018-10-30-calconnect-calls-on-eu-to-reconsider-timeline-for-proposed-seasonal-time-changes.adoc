@@ -33,7 +33,7 @@ CalConnect will host a https://www.eventbrite.com/e/eu-dst-timezone-change-publi
 at its
 link:{{'/events/calconnect-xliv-february-4-8-2019' | relative_url}}[next conference]
 in Zürich in early February, and has just launched a
-link:{{'/resources/discussion-lists/time-zone-discussion' | relative_url}}[public mailing list]
+link:{{'/resources/time-zone-discussion' | relative_url}}[public mailing list]
 for the discussion of best practices for planning new time zone changes.
 
 The full advisory notice can be found at:
@@ -166,7 +166,7 @@ bodies in its member states participate in this global partnership.
 We have set up a public mailing list to discuss the challenges and best
 practices relating to timezone and DST changes worldwide at:
 
-http://www.calconnect.org/resources/discussion-lists/time-zone-discussion
+http://www.calconnect.org/resources/time-zone-discussion
 
 ==== Contact
 

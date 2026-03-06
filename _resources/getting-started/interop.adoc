@@ -2,7 +2,6 @@
 layout: page
 title: Getting Started at the Interoperability Test Event and Developers Forum
 type: resources
-permalink: /resources/getting-started/:title
 ---
 
 [IMPORTANT]

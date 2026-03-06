@@ -2,7 +2,7 @@
 layout: page
 title: CalConnect TESTER Technical Committee
 type: about
-permalink: /about/technical-committees/:title
+permalink: /about/technical-committees/:title/
 order: 14
 ---
 

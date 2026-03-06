@@ -2,7 +2,6 @@
 layout: page
 title:  7 Things You Should Know About the Abstract Calendaring API
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
@@ -136,4 +135,4 @@ their product.
 
 == Want to be actively involved?
 
-Become a CalConnect member: link:{{'/membership' | relative_url }}[https://www.calconnect.org/membership]
+Become a CalConnect member: link:{{'/membership' | relative_url }}[link:{{"/membership]/" | relative_url}}[]

@@ -2,7 +2,7 @@
 layout: page
 title: CalConnect CALENDAR Technical Committee
 type: about
-permalink: /about/technical-committees/:title
+permalink: /about/technical-committees/:title/
 ---
 
 
@@ -20,7 +20,7 @@ This technical committee will work on improvements and extensions to iCalendar, 
 
 == Deliverables
 
-- It will provide input to maintain the lists of outstanding CalConnect internet drafts at the IETF: link:https://www.calconnect.org/resources/ietf-submissions[IETF Submissions].
+- It will provide input to maintain the lists of outstanding CalConnect internet drafts at the IETF: link:link:{{"/resources/ietf-submissions/" | relative_url}}[IETF Submissions].
 
 == Begin and End Dates
 

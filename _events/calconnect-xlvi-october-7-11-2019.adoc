@@ -227,7 +227,7 @@ _Discuss a mechanism for "upgrading" communication between an organizers calen
 | 1530-1600 | Break and Refreshments
 | 1600-1630
 a| CalConnect Standards Activities and Liaisons +
-_Update on CalConnect standards activities and liaisons with external SDOs.https://www.calconnect.org/about/liaisons-and-relationships_
+_Update on CalConnect standards activities and liaisons with external SDOs.link:{{"/about/liaisons-and-relationships_/" | relative_url}}[]
 
 | 1630-1730
 a| Integrating Liaison Activities into CalConnect +

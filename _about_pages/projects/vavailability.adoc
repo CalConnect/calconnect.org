@@ -2,7 +2,7 @@
 layout: page
 title: VAVAILABILITY
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 
@@ -18,4 +18,4 @@ allow the implementation of "office hours" applications, in particular
 for academic institutions, and has significant use also in the smart
 grid work being undertaken by OASIS.
 
-Details: link:{{'/about/technical-committees/tc-freebusy' | relative_url }}[TC FREEBUSY]
+Details: link:{{'/about/technical-committees/closed-tcs/' | relative_url}}[TC FREEBUSY]

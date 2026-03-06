@@ -24,7 +24,7 @@
   logo: /assets/images/external-logos/logo_cronofy.svg
   type: corporate
 - name: DHL Express
-  url: http://www.dhl.com
+  url: https://www.dhl.com
   logo: /assets/images/external-logos/logo_dhl.svg
   type: corporate
 - name: Fastmail
@@ -40,7 +40,7 @@
   logo: /assets/images/external-logos/logo_heylife.png
   type: corporate
 - name: Jorte
-  url: http://www.jorte.com/en
+  url: http://www.jorte.com
   logo: /assets/images/external-logos/logo_jorte.png
   type: corporate
 - name: M3AAWG - Messaging Malware Mobile Anti-Abuse Working Group
@@ -52,7 +52,7 @@
   logo: /assets/images/external-logos/logo_marketcircle.png
   type: corporate
 - name: OASIS - Organization for the Advancement of Structured Information Systems
-  url: http://www.oasis-open.org
+  url: https://www.oasis-open.org
   logo: /assets/images/external-logos/logo_oasis.svg
   type: corporate
 - name: Open-Xchange

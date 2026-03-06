@@ -2,7 +2,7 @@
 layout: page
 title: Autodiscovery
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 

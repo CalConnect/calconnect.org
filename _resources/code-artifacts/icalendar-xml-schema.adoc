@@ -2,7 +2,6 @@
 layout: page
 title: iCalendar in XML Schema
 type: resources
-permalink: /resources/code-artifacts/icalendar-xml-schema
 ---
 
 This schema set is intended to provide a full, accurate and extensible
@@ -40,5 +39,5 @@ under the http://www.apache.org/licenses/LICENSE-2.0[Apache 2 License].
 
 == Related Resources
 
-* /resources/code-artifacts/[Code Artifacts Overview]
+* /resources/#code-artifacts[Code Artifacts Overview]
 * /resources/calendaring-standards/[Calendaring Standards Index]

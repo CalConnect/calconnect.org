@@ -35,7 +35,7 @@ CalConnect XXXVII, consisting of a CalConnect Developers' Forum (Interoperabilit
 
 The Developers' Forum will take place all day Monday and Tuesday September 12-13, and Wednesday morning, ending before lunch. The Conference will open following lunch on Wednesday, and will run through Thursday and Friday.
 
-*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see https://www.calconnect.org/events/calconnect-xxxvii-september-12-16-2016#test-schedule[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
+*Developers' Forum and Interoperability Test Event*: The Developers' Forums are open to both members and non-members as participants or as link:{{'/events/observers' | relative_url }}[observers]; please see link:{{"/events/calconnect-xxxvii-september-12-16-2016#test-schedule/" | relative_url}}[Test Event] for both basic information about the event and for the schedule and agenda (this will be developed gradually over the summer, so check back periodically).
 
 _Please Note: You donotneed finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions._
 
@@ -116,7 +116,7 @@ Check-in is after 3:00 p.m.; Departure is by 11:00 a.m.
 
 *If you are _not_ staying at the Schloss* and wish to avoid the lodging tax, please download and complete this form and bring it with you:
 
-https://www.calconnect.org/sites/default/files/media/Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf[Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf]
+link:{{"/sites/default/files/media/Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf/" | relative_url}}[Vdr22.044_Arbeitgeberbestaetigung_engl-dmfs-GmbH.pdf]
 
 
 
@@ -253,7 +253,7 @@ Final determination of what will be tested will depend on what the participants 
 Any vendor or organization wishing to test a calendaring and scheduling implementation, or a mobile calendaring server or client, is welcome to participate whether or not they are a CalConnect member. Note that CalConnect members receive a substantial discount on their Interoperability Test Event registration fee.Any vendor or organization wishing to link:{{'/events/observers' | relative_url }}[observe] the Interoperability Test Event is welcome whether or not they are a CalConnect. Note that an organization, member or not, may only observe one Test Event.
 
 == Registration
-Please see https://www.calconnect.org/events/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+Please see link:{{"/events/events-activities/interoperability-test-events/participation-and-observer-fees/" | relative_url}}[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
 * link:{{'/events/event-registration-payment' | relative_url }}[Event Registration]/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]
 : Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.

@@ -2,7 +2,6 @@
 layout: page
 title: 7 Things You Should Know About Tasks
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
@@ -86,7 +85,7 @@ centred tasks and to manage task progress.<br><br>
 tasks. Other requirements, such as handling of comments, which are 
 common to tasks and events, may be addressed separately.
 
-CalConnect has chartered a technical committee https://www.calconnect.org/about/technical-committees/tc-tasks[TC-TASKS] to lead this work. To date TC-TASKS has developed the following:
+CalConnect has chartered a technical committee link:{{"/about/technical-committees/tc-tasks/" | relative_url}}[TC-TASKS] to lead this work. To date TC-TASKS has developed the following:
 
 
 .	https://calconnect.org/architectures/Task%20Architecture%201.0.pdf[Tasks Architecture] - The reference architecture for task management and communication against which the extensions are being developed
@@ -116,7 +115,7 @@ with respect to tasks will allow us to open up the true potential of our
 "Internet of Things?.
 
 === Need more information?
-https://www.calconnect.org/about/technical-committees/tc-tasks[TC-TASKS]
+link:{{"/about/technical-committees/tc-tasks/" | relative_url}}[TC-TASKS]
 
 https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
 
