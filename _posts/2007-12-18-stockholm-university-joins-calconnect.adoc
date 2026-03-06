@@ -16,7 +16,7 @@ excerpt: |
 
 _Membership Marks CalConnect’s Growth in the International Arena_
 
-DOC: link:{{'/docs/Stockholm%20University%20Joins%20CalConnect%20final.doc' | relative_url }}[Stockholm University Joins CalConnect]
+DOC: link:{{'/docs/press-releases/Stockholm%20University%20Joins%20CalConnect%20final.doc' | relative_url }}[Stockholm University Joins CalConnect]
 
 *McKinleyville, CA – December 18, 2007*
 

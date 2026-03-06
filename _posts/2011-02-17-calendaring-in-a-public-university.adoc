@@ -16,7 +16,7 @@ Privacy issues are very important to university faculty members, while the abili
 
 Access issues for systems will become increasingly complex and interoperability will be key as event attendees will be both internal and external to the originator's system. As Shel notes, "`The most important meetings are often with those outside one's own organization.`" The diverse computing platforms have always been a problem in providing an effective calendaring platform; now that problem is being compounded with the proliferation of mobile devices. Interoperability will be a requirement as these devices evolve.
 
-Shel's presentation may be found at link:{{'/docs/Calendaring%20in%20a%20Public%20University.pdf' | relative_url}}[].
+Shel's presentation may be found at link:{{'/docs/presentations/Calendaring%20in%20a%20Public%20University.pdf' | relative_url}}[].
 
 Mimi Mugler +
 UC Berkeley Calendar Administrator +
