@@ -15,7 +15,7 @@ excerpt: |
 
 _Registration Limited to 30; Presentations from Affected Industry Sectors Invited_
 
-DOC: link:{{'/docs/Timezone%20workshop%20release.doc' | relative_url }}[Timezone Workshop at Microsoft].
+DOC: link:{{'/docs/press-releases/Timezone%20workshop%20release.doc' | relative_url }}[Timezone Workshop at Microsoft].
 
 The Calendaring and Scheduling Consortium (www.calconnect.org) has opened
 registration for a one-day workshop on timezone implementation and management in
