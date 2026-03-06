@@ -10,5 +10,5 @@ excerpt: The Calendaring and Scheduling Consortium welcomes DHL Express as a mem
 
 == DHL Express Joins CalConnect
 
-The Calendaring and Scheduling Consortium welcomes http://www.dhl.com[DHL Express] as a member of the Consortium.
+The Calendaring and Scheduling Consortium welcomes https://www.dhl.com[DHL Express] as a member of the Consortium.
 

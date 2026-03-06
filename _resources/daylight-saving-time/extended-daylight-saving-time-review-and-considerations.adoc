@@ -2,7 +2,6 @@
 layout: page
 title: Extended Daylight Saving Time Review and Considerations
 type: resources
-permalink: /resources/daylight-saving-time/:title
 ---
 
 This document provides a review of the Daylight Saving Time changes and
@@ -51,5 +50,5 @@ Applications that handle dates and times may need updates:
 
 == Additional Resources
 
-* /resources/daylight-saving-time/[Daylight Saving Time Overview]
-* /resources/daylight-saving-time/extended-daylight-saving-time-links-advisories-and-changes/[Vendor Links and Advisories]
+* /resources/#daylight-saving-time[Daylight Saving Time Overview]
+* /resources/#daylight-saving-timeextended-daylight-saving-time-links-advisories-and-changes/[Vendor Links and Advisories]

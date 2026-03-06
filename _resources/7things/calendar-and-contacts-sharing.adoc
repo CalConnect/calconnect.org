@@ -2,7 +2,6 @@
 layout: page
 title: 7 Things You Should Know About Calendar and Contacts Sharing
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
@@ -40,7 +39,7 @@ calendars and address books between users on the same system (e.g.
 sharing calendars or address books between iCloud users).
 
 === 6. What needs to be done, and what is CalConnect doing?
-The https://www.calconnect.org/about/technical-committees/tc-sharing[TC-SHARING] Technical Committee is chartered to extend the existing draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-sharing.txt[calendar sharing] Apple specification to support address books and other resource types, as well as revising the related draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-notifications.txt[caldav-notifications]
+The link:{{"/about/technical-committees/tc-sharing/" | relative_url}}[TC-SHARING] Technical Committee is chartered to extend the existing draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-sharing.txt[calendar sharing] Apple specification to support address books and other resource types, as well as revising the related draft http://svn.calendarserver.org/repository/calendarserver/CalendarServer/trunk/doc/Extensions/caldav-notifications.txt[caldav-notifications]
  specification. This will be accomplished by reducing the scope of the 
 current specs and refactoring them into multiple smaller specifications 
 focused on a specific resource or notification type. To that end the 
@@ -48,7 +47,7 @@ committee will define foundation specifications for https://devguide.calconnect.
  notifications and collection sharing, with sibling specifications for 
 CalDAV sharing, CardDAV sharing, and other resource types.
 
-A separate CalConnect Technical Committee, http://calconnect.org/tc-fsc.shtml[Federated Shared Calendars],
+A separate CalConnect Technical Committee, link:{{'/about/technical-committees/closed-tcs/' | relative_url}}[Federated Shared Calendars],
  is working on a related standard for performing intersystem sharing 
 between different systems (e.g. sharing calendars between iCloud and 
 Google).
@@ -60,7 +59,7 @@ and CardDAV clients and servers, thus improving functionality and
 interoperability for users.
 
 === Need more information?
-https://www.calconnect.org/about/technical-committees/tc-sharing[TC-SHARING]
+link:{{"/about/technical-committees/tc-sharing/" | relative_url}}[TC-SHARING]
 
 https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
 

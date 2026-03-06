@@ -28,7 +28,7 @@ Although a number of calendaring standards and protocols exist, no overall calen
 
 CalDAV itself has a couple of improvements coming up: series, relationships, grouping to name a few.
 
-I hope to see you in link:{{'/events/calconnect-xli-winter-2018' | relative_url }}[Sunnyvale Califorania] Janjary 29 to February 2, where https://www.oath.com/[OATH] will host us. While you are at it: mark your calendar 4-8 June 2018 when http://www.jorte.com/en/[Jorte] will host us in Tokyo.
+I hope to see you in link:{{'/events/calconnect-xli-winter-2018' | relative_url }}[Sunnyvale Califorania] Janjary 29 to February 2, where https://www.oath.com/[OATH] will host us. While you are at it: mark your calendar 4-8 June 2018 when http://www.jorte.com/[Jorte] will host us in Tokyo.
 
 Highest regards,
 

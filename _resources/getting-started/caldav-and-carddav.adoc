@@ -2,7 +2,6 @@
 layout: page
 title: Starter List of CalDAV and CardDAV Standards and Specifications
 type: resources
-permalink: /resources/getting-started/caldav-and-carddav
 ---
 
 This page is intended for individuals who wish to develop a CalDAV or CardDAV server but who have little or no previous experience with the specifications. It offers a basic list of (and links to) specifications or parts of specifications with which you need to become familiar. Not all relevant specifications are yet standards; some of the references will be to the current draft of the specification and will be updated when the internet draft becomes an RFC.
@@ -63,7 +62,7 @@ _This page was originally named "Getting Started with CalDAV and CardDAV". The n
 
 === Questions?
 
-CalConnect provides a public discussion list for calendaring and scheduling system developers that is a great place to get your questions answered. Please see link:{{'/resources/discussion-lists/developers-list' | relative_url }}[Calendar Developer List].
+CalConnect provides a public discussion list for calendaring and scheduling system developers that is a great place to get your questions answered. Please see link:{{'/resources/developers-list' | relative_url}}[Calendar Developer List].
 
 === Corrections and Updates
 

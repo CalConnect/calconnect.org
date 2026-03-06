@@ -20,13 +20,13 @@ for more information about CalConnect licenses.
 
 === Schemas
 
-Details: link:{{'/resources/code-artifacts/icalendar-xml-schema' | relative_url}}[*iCalendar in XML Schema*]
+Details: link:{{'/resources/icalendar-xml-schema' | relative_url}}[*iCalendar in XML Schema*]
 
 This schema set is intended to provide a full, accurate and extensible
 schema for iCalendar (RFC 5545) as embodied in xCal: iCalendar in XML
 (RFC 6321).
 
-link:{{'/resources/code-artifacts/calws-soap-wsdl-and-schema' | relative_url }}[*CalWS-SOAP Schema*]
+link:{{'/resources/calws-soap-wsdl-and-schema' | relative_url}}[*CalWS-SOAP Schema*]
 
 This document provides links to the XML schemas and wsdl for the
 CalWS-SOAP service as defined in the specification

@@ -2,7 +2,7 @@
 layout: page
 title: CalConnect DEVGUIDE Technical Committee
 type: about
-permalink: /about/technical-committees/:title
+permalink: /about/technical-committees/:title/
 ---
 
 

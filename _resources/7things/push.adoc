@@ -2,7 +2,6 @@
 layout: page
 title: 7 Things You Should Know About Push
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 
@@ -80,7 +79,7 @@ simultaneously up to date.
 === 6. What needs to be done, and what is CalConnect doing?
 A generic framework for push notifications within CalDAV and CardDAV
 needs to be defined to address the problems outlined in this document. 
-CalConnect has established the https://www.calconnect.org/about/technical-committees/tc-push[TC-PUSH]
+CalConnect has established the link:{{"/about/technical-committees/tc-push/" | relative_url}}[TC-PUSH]
  technical committee to develop a common set of properties that servers 
 advertise to clients that describe the various push mechanisms supported
  by the server in a standard way. Clients can then use that information 
@@ -107,7 +106,7 @@ also opens up the possibility for 3rd party products or automated
 systems to make better use of calendaring data for the same reasons.
 
 === Need more information?
-link:https://www.calconnect.org/about/technical-committees/tc-push[TC-PUSH]
+link:link:{{"/about/technical-committees/tc-push/" | relative_url}}[TC-PUSH]
 
 https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
 

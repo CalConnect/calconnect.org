@@ -12,15 +12,15 @@ excerpt: It's now only four weeks until CalConnect XXXVIII at UC Irvine - and tw
 
 It's now only four weeks until CalConnect XXXVIII at UC Irvine - and two weeks until early registration closes and the registration fee increases.
 
-https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017
+link:{{"/events/calconnect-xxxviii-february-13-17-2017/" | relative_url}}[]
 
-https://www.calconnect.org/events/event-registration-payment
+link:{{"/events/event-registration-payment/" | relative_url}}[]
 
 The agenda and sessions for the Conference and Test Event / Developers  Forum are posted on the web page:
 
-https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017#test-schedule
+link:{{"/events/calconnect-xxxviii-february-13-17-2017#test-schedule/" | relative_url}}[]
 
-https://www.calconnect.org/events/calconnect-xxxviii-february-13-17-2017#conference-schedule
+link:{{"/events/calconnect-xxxviii-february-13-17-2017#conference-schedule/" | relative_url}}[]
 
 *We have highlighted two conference sessions* of particular interes::
 

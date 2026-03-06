@@ -2,7 +2,6 @@
 layout: page
 title: 7 Things You Should Know About Digital Travel Itineraries
 type: resources
-permalink: /resources/7-things-you-should-know-about/:title
 ---
 :page-liquid:
 

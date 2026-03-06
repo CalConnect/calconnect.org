@@ -2,7 +2,7 @@
 layout: page
 title: PUSH for CalDAV
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 
@@ -20,4 +20,4 @@ technologies that can be used when no other PUSH method is available. To
 help implementers we will provide guidelines to PUSH support on servers
 and clients.
 
-Details: link:{{'/resources/7-things-you-should-know-about/push' | relative_url }}[*PUSH for CalDAV (and CardDAV)*]
+Details: link:{{'/resources/push' | relative_url}}[*PUSH for CalDAV (and CardDAV)*]

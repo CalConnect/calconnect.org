@@ -22,7 +22,7 @@ Recent Changes:
 Downloadable/subscribable schedule available; location address correction +
 _04 September 2013_
 
-CalConnect XXVIII, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Prague, Czech Republic Monday-Friday, September 23-27, 2013, hosted by http://www.dhl.com[DHL].
+CalConnect XXVIII, consisting of a CalConnect Interoperability Test Event and a CalConnect Roundtable Technical Conference (Members Meeting), will be held in Prague, Czech Republic Monday-Friday, September 23-27, 2013, hosted by https://www.dhl.com[DHL].
 
 The Interoperability Test Event will take place all day Monday and Tuesday September 23-24, and Wednesday morning September 25, ending at noon. The Roundtable will begin with lunch at 12:00 on Wednesday September 25, and last until 18:00 Friday September 27.
 

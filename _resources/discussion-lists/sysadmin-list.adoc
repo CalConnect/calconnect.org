@@ -2,7 +2,6 @@
 layout: page
 title: Calendaring and Scheduling Sysadmin Discussion List
 type: resources
-permalink: /resources/discussion-lists/:title
 ---
 
 CalConnect has implemented its first public discussion list, intended for discussion on calendaring and scheduling systems administration and management. The Charter and Rules of Use for this list are given below. We invite all calendar administrators and other interested parties to subscribe to this list and make use of it.

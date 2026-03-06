@@ -2,7 +2,7 @@
 layout: page
 title: Policies and Procedures
 type: about
-permalink: /about/policies/policies-and-procedures
+permalink: /about/policies/policies-and-procedures/
 ---
 :page-liquid:
 The following Policies and Recommendations have been adopted by The

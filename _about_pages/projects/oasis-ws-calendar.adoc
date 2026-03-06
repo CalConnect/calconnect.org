@@ -2,7 +2,7 @@
 layout: page
 title: OASIS WS-Calendar
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 
 "Working with OASIS to develop their new WS-Calendar standard (scheduling for

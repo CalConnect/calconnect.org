@@ -2,7 +2,7 @@
 layout: page
 title: CalDAV Attachments
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 "Extend the calendaring server to manage attachments"
@@ -14,4 +14,4 @@ server. Beyond the basic storage aspect, the server also becomes
 responsible for ensuring that only attendees of a meeting have access to
 those attachments.
 
-Details: link:{{'/about/technical-committees/tc-caldav' | relative_url }}[TC CALDAV]
+Details: link:{{'/about/technical-committees/closed-tcs/' | relative_url}}[TC CALDAV]

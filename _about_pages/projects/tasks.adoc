@@ -2,7 +2,7 @@
 layout: page
 title: Tasks (VTODOs)
 type: about
-permalink: /about/major-work-projects/:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 
@@ -17,4 +17,4 @@ link:{{'/about/technical-committees/tc-tasks' | relative_url }}[TC TASKS] is wor
 areas such as project management, WS Human Task, and smart grid energy
 management.
 
-Details: link:{{'/resources/7-things-you-should-know-about/tasks' | relative_url }}[*Tasks (VTODOs)*]
+Details: link:{{'/resources/tasks' | relative_url}}[*Tasks (VTODOs)*]

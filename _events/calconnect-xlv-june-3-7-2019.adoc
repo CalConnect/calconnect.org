@@ -223,7 +223,7 @@ _There is new interest in moving forward with the Autodiscovery draft (Automated
 
 | 1000-1030
 a| CalConnect Standards Activities and Liaisons +
-_Update on CalConnect standards activities and liaisons with external SDOs. https://www.calconnect.org/about/liaisons-and-relationships https://datatracker.ietf.org/wg/calext/documents/_
+_Update on CalConnect standards activities and liaisons with external SDOs. link:{{"/about/liaisons-and-relationships/" | relative_url}}[] https://datatracker.ietf.org/wg/calext/documents/_
 
 | 1030-1100 | Break and Refreshments
 | 1100-1145

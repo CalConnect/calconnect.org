@@ -2,7 +2,7 @@
 layout: page
 title: Abstract Calendaring API
 type: about
-permalink: /about/major-work-projects:title
+permalink: /about/major-work-projects/:title/
 ---
 :page-liquid:
 We need a full "CRUD" (Create/Read/Update/Delete) Abstract Application
@@ -17,4 +17,4 @@ on that system.
 
 Work item of: link:{{'/about/technical-committees/tc-api' | relative_url }}[TC API].
 
-Details: link:{{'/resources/7-things-you-should-know-about/abstract-calendaring-api' | relative_url }}[*Abstract Calendaring API*]
+Details: link:{{'/resources/abstract-calendaring-api' | relative_url}}[*Abstract Calendaring API*]

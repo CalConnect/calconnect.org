@@ -147,7 +147,7 @@ mailto:akishev@google.com[akishev@google.com]
 
 ==== Jorte (CalConnect member)
 
-http://www.jorte.com/en[image::/assets/images/jorte_logo.png[Jorte]]
+http://www.jorte.com[image::/assets/images/jorte_logo.png[Jorte]]
 
 Jorte provides an Android calendar and organizer application that fully manages your schedule. With over 27 million downloads from around the world, Jorte is an application that combines the ease of use of a paper organizer with the handiness of a smartphone.
 
@@ -264,11 +264,11 @@ https://nl.linkedin.com/in/rutgergeelen
 
 ==== Spherical Cow Group (SCG) (CalConnect member)
 
-http://www.sphericalcowgroup.com[image::/assets/images/spherical-cow-group-logo.png[Spherical Cow Group]]
+https://sphericalcowconsulting.com[image::/assets/images/spherical-cow-group-logo.png[Spherical Cow Group]]
 
 Spherical Cow Group (SCG) provides calendaring and identity management consulting services for enterprises, higher education, research, and virtual organizations. We focus on open source tools and community standards, and can assist with architecture and design, implementation and development, training, and project management. Why Spherical Cow? We make complex problems simple.
 
-http://www.sphericalcowgroup.com
+https://sphericalcowconsulting.com
 
 mailto:info@sphericalcowgroup.com[info@sphericalcowgroup.com]
 

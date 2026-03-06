@@ -27,7 +27,7 @@ image:{{'/assets/images/hku-academic-event.jpg' | relative_url }}[]
 
 CalConnect, the Calendaring & Scheduling Consortium, is coming to Hong Kong for our first members conference to be held in the Asia/Pacific Region.
 
-To celebrate this special event, with our Hong Kong host organizations, OGCIO and Ribose (http://ribose.com/[ribose.com]), we are holding two additional events, https://www.calconnect.org/events/calconnect-public-day-hong-kong-it-fest[a public day (Wednesday, April 20, 2016)] at the https://www.itfest.hk/template?series=2&id=141&lang=en[Hong Kong International ITFest], and a seminar at https://www.hku.hk[The University of Hong Kong]on Tuesday evening April 19th.
+To celebrate this special event, with our Hong Kong host organizations, OGCIO and Ribose (http://ribose.com/[ribose.com]), we are holding two additional events, link:{{"/events/calconnect-public-day-hong-kong-it-fest/" | relative_url}}[a public day (Wednesday, April 20, 2016)] at the https://www.itfest.hk/template?series=2&id=141&lang=en[Hong Kong International ITFest], and a seminar at https://www.hku.hk[The University of Hong Kong]on Tuesday evening April 19th.
 
 CalConnect members, calendaring & scheduling entrepreneurs and software developers, will present a program suitable for both technical (computer science students and faculty, software developers) as well as less technical audiences:
 

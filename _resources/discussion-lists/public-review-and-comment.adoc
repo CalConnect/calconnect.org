@@ -2,7 +2,6 @@
 layout: page
 title: CalConnect Public Review and Comment List
 type: resources
-permalink: /resources/discussion-lists/:title
 ---
 
 _Last Updated 15 August 2018_

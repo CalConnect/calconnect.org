@@ -14,7 +14,7 @@ TC-CALSPAM, the CalConnect Calendar Spam Technical Committee, is putting the fin
 
 To review the Best Current Practices document, please see link:{{'/sites/default/files/csd-bp_calendarspam.pdf' | relative_url }}[]. This is a publicly available URL and requires no access credentials.
 
-If you wish to make any comments, please do so on our link:{{'/resources/discussion-lists/public-review-and-comment' | relative_url}}[Public Comment Mailing List].  To use this list you must http://lists.calconnect.org/listinfo.cgi/pubcomment-l-calconnect.org[register for an id] on the list, which should be approved within 24 hours. Once you are approved, you will be able to post to the list. (Your id will remain on the list, so you will be able to comment on future public review & comment documents from CalConnect as well.)
+If you wish to make any comments, please do so on our link:{{'/resources/public-review-and-comment' | relative_url}}[Public Comment Mailing List].  To use this list you must http://lists.calconnect.org/listinfo.cgi/pubcomment-l-calconnect.org[register for an id] on the list, which should be approved within 24 hours. Once you are approved, you will be able to post to the list. (Your id will remain on the list, so you will be able to comment on future public review & comment documents from CalConnect as well.)
 
 Thank you for helping us make the Calendar Spam BCP the best can be.
 

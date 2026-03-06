@@ -20,7 +20,7 @@ archives are publicly available even for closed public lists._
 
 === Calendar and Scheduling Developer List
 
-URL: link:{{'/resources/discussion-lists/developers-list' | relative_url }}[Calendar and Scheduling Developer List]
+URL: link:{{'/resources/developers-list' | relative_url}}[Calendar and Scheduling Developer List]
 
 CalConnect has implemented this public discussion list, intended for
 discussion on calendaring and scheduling developers' issues and
@@ -35,7 +35,7 @@ all participants that agree to and adhere to the rules of use.
 
 === Calendaring and Scheduling Sysadmin List
 
-URL: link:{{'/resources/discussion-lists/sysadmin-list' | relative_url }}[Calendaring and Scheduling Sysadmin List]
+URL: link:{{'/resources/sysadmin-list' | relative_url}}[Calendaring and Scheduling Sysadmin List]
 
 The Calendaring and Scheduling Admin Mailing List
 (mailto:caladmin-l@lists.calconnect.org[caladmin-l@lists.calconnect.org]) exists
@@ -52,7 +52,7 @@ all participants that agree to and adhere to the rules of use.
 
 === Public Review and Comment List
 
-URL: link:{{'/resources/discussion-lists/public-review-and-comment' | relative_url}}[Public Review and Comment List]
+URL: link:{{'/resources/public-review-and-comment' | relative_url}}[Public Review and Comment List]
 
 Completed CalConnect documents, including CalConnect Standards, are published
 and made generally available via the
@@ -74,7 +74,7 @@ the rules of use.
 
 === Time Zone Discussion List
 
-link:{{'/resources/discussion-lists/time-zone-discussion' | relative_url }}[*Time Zone Discussion List*]
+link:{{'/resources/time-zone-discussion' | relative_url}}[*Time Zone Discussion List*]
 
 This list is intended for discussion on timezones, especially in
 calendaring and scheduling. A particular focus is on exchanging issues,
