@@ -12,7 +12,7 @@ twitter_username: CalConnect
 github_username:  CalConnect
 
 # Build settings
-theme: minima
+theme: calconnect-theme
 plugins:
   - jekyll/vite
   - jekyll-feed
