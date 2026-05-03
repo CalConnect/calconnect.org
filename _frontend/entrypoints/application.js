@@ -1,5 +1,7 @@
 // CalConnect Vue Application Entry Point
 import { createApp, ref, h } from 'vue'
+import '../js/theme'
+import '../js/navigation'
 
 // News Search Component using render function
 const NewsSearch = {
@@ -83,6 +85,15 @@ const NewsSearch = {
 
 // Initialize Vue app
 document.addEventListener('DOMContentLoaded', () => {
+  // Nav toggle handlers
+  document.querySelectorAll('.nav-toggle').forEach(function(toggle) {
+    toggle.addEventListener('click', function() {
+      this.classList.toggle('open');
+      var subsection = this.nextElementSibling;
+      if (subsection) subsection.classList.toggle('collapsed');
+    });
+  });
+
   const container = document.getElementById('vue-news-search')
   const dataEl = document.getElementById('news-posts-data')
   const fallback = document.getElementById('news-search-fallback')

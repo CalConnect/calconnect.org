@@ -1,0 +1,41 @@
+- title: About
+  links:
+    - label: Introduction
+      url: /about/
+    - label: Technical Committees
+      url: /about/technical-committees/
+    - label: Board of Directors
+      url: /about/board-directors/
+    - label: History
+      url: /about/history/
+
+- title: Membership
+  links:
+    - label: Members
+      url: /membership/
+    - label: Why Join?
+      url: /membership/why-join/
+    - label: Benefits
+      url: /membership/membership-benefits/
+    - label: Apply
+      url: /membership/membership-application/
+
+- title: Resources
+  links:
+    - label: Overview
+      url: /resources/
+    - label: Standards Index
+      url: /resources/calendaring-standards/
+    - label: Standards Repository
+      url: https://standards.calconnect.org
+    - label: Discussion Lists
+      url: /resources/discussion-lists/
+
+- title: Events
+  links:
+    - label: Upcoming Events
+      url: /events/
+    - label: Past Events
+      url: /events/past-events/
+    - label: Calendars
+      url: /events/calendars/
