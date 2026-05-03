@@ -11,8 +11,19 @@ url: https://www.calconnect.org  # the base hostname and protocol for your site,
 twitter_username: CalConnect
 github_username:  CalConnect
 
+# Theme configuration
+logo: /assets/images/logo-purple.svg
+logo_dark: /assets/images/logo-white.svg
+header_cta:
+  url: /membership/membership-application/
+  label: Join CalConnect
+copyright_url: /about/policies/copyright-and-licensing
+google_analytics: G-TD2H4HZT10
+schema_org:
+  logo: https://www.calconnect.org/assets/images/logo-white.svg
+
 # Build settings
-theme: minima
+theme: jekyll-calconnect-theme
 plugins:
   - jekyll/vite
   - jekyll-feed
