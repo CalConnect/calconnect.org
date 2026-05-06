@@ -38,7 +38,7 @@ expect and how to maximize the value of your participation.
 
 == Getting started with CalDAV and CardDAV
 
-Details: link:{{'/resources/caldav-and-carddav' | relative_url}}-and-carddav[Starter List of CalDAV and CardDAV Standards and Specifications]
+Details: link:{{'/resources/caldav-and-carddav' | relative_url}}[Starter List of CalDAV and CardDAV Standards and Specifications]
 
 This has been renamed "Starter List of CalDAV and CardDAV Standards and
 Specifications" to more accurately reflect its contents. The link above

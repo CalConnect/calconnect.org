@@ -390,11 +390,11 @@ Any vendor or organization wishing to test a calendaring and scheduling implemen
 
 == Registration
 
-Please see link:/events-activities/interoperability-test-events/participation-and-observer-fees[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
+Please see link:{{'/events/conference-fees' | relative_url}}[CalConnect Interoperability Test Event Registration Fees] for information about event registration fees. Please choose one of the following registration methods:
 
-* link:/event-registration-payment/interop-participant-registration[CalConnect Interoperability Test Event Participant Registration]: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
+* link:{{'/events/event-registration-payment/interop-participant-registration' | relative_url}}[CalConnect Interoperability Test Event Participant Registration]: Register one to six people as participants for the CalConnect Interoperability Test Event, with a choice of payment options.
 
-* link:/event-registration-payment/interop-observer-registration[CalConnect Interoperability Test Event Observer Registration]: Register one to six people as link:{{'/events/observers' | relative_url}}[observers]
+* link:{{'/events/event-registration-payment/interop-observer-registration' | relative_url}}[CalConnect Interoperability Test Event Observer Registration]: Register one to six people as link:{{'/events/observers' | relative_url}}[observers]
 for the CalConnect Interoperability Test Event.
 
 == Interoperability Event Scenarios

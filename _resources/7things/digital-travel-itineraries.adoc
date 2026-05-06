@@ -120,6 +120,6 @@ opportunities.
 
 === Need more information?
 
-https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/resources/glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org

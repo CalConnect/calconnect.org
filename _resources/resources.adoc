@@ -12,4 +12,4 @@ Welcome to the CalConnect resources hub. Use the sidebar to navigate to specific
 * https://devguide.calconnect.org[Developers Guide^] - Comprehensive guide for developers building calendaring and scheduling applications.
 * https://standards.calconnect.org[Standards Repository^] - Document register with all public documents, in-progress work, and public review drafts.
 * https://standards.calconnect.org/patents/[Patent Information^] - Database of patent declarations and acknowledgments related to CalConnect standards.
-* https://devguide.calconnect.org/Appendix/Glossary/[Calendaring Glossary^] - Comprehensive glossary of calendaring and scheduling terminology.
+* https://devguide.calconnect.org/resources/glossary/[Calendaring Glossary^] - Comprehensive glossary of calendaring and scheduling terminology.

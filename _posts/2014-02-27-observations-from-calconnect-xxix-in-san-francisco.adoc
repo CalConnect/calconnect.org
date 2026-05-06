@@ -14,7 +14,7 @@ CalConnect held its twenty-ninth interoperability test event and Roundtable Tech
 
 36 people, representing 21 link:{{'/mbrlist' | relative_url}}[CalConnect member organizations] and one link:{{'/events/observers' | relative_url}}[observer], participated during the week. Almost a quarter of the attendees traveled internationally to come to CalConnect XXIX, from the Czech Republic, England, France, Hong Kong, India, New Zealand and Switzerland. Attendance at CalConnect events is growing, international membership and participation are bringing new energy and perspectives to CalConnect.
 
-We have just published the first architectural diagrams for link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Tasks] from link:{{'/about/technical-committees/tc-tasks' | relative_url}}[TC TASKS] and for link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring and Scheduling] from link:{{'/about/technical-committees/tc-api' | relative_url}}[TC API].
+We have just published the first architectural diagrams for link:{{'/docs/architectures/Task%20Architecture%201.0.pdf' | relative_url}}[Tasks] from link:{{'/about/technical-committees/tc-tasks' | relative_url}}[TC TASKS] and for link:{{'/docs/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring and Scheduling] from link:{{'/about/technical-committees/tc-api' | relative_url}}[TC API].
 
 Here's what's trending from CalConnect XXIX:
 
@@ -47,9 +47,9 @@ _Much of the work in CalConnect is focused on specifications to become internet 
 
 *Recently published CalConnect documents:*
 
-* link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring Service Architecture]
+* link:{{'/docs/architectures/Calendaring%20Architecture.pdf' | relative_url}}[Calendaring Service Architecture]
 
-* link:{{'/architectures/Task%20Architecture%200.4.pdf' | relative_url}}[Task Architecture V0.4]
+* link:{{'/docs/architectures/Task%20Architecture%201.0.pdf' | relative_url}}[Task Architecture V0.4]
 
 * link:{{'/roundtable28rpt' | relative_url}}[Report on Roundtable XXIX]
 

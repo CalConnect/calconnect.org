@@ -129,6 +129,6 @@ general population.
 === Need more information?
 link:{{"/about/technical-committees/tc-calendar/" | relative_url}}[TC-CALENDAR]
 
-https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/resources/glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org

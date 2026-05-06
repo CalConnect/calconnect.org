@@ -91,8 +91,8 @@ available prior to the event to all registrants.
 == JMAP
 
 * JMAP Core: https://tools.ietf.org/html/rfc8620
-* JMAP Calendars: https://jmap.io/spec-calendars.html
-* JMAP Contacts: https://jmap.io/spec-contacts.html
+* JMAP Calendars (JSCalendar): https://www.rfc-editor.org/rfc/rfc8984
+* JMAP Contacts (JSContact): https://www.rfc-editor.org/rfc/rfc9553
 
 == JSCalendar (New API)
 
@@ -102,7 +102,7 @@ available prior to the event to all registrants.
 
 == Public calendar discovery
 
-* https://github.com/CalConnect/PUBLIC_DRAFTS/raw/master/collection-query/collection-query.xml
+* Collection Query (see https://github.com/CalConnect/PUBLIC_DRAFTS[CalConnect Public Drafts])
 
 == Scheduling controls
 

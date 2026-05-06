@@ -88,7 +88,7 @@ common to tasks and events, may be addressed separately.
 CalConnect has chartered a technical committee link:{{"/about/technical-committees/tc-tasks/" | relative_url}}[TC-TASKS] to lead this work. To date TC-TASKS has developed the following:
 
 
-.	https://calconnect.org/architectures/Task%20Architecture%201.0.pdf[Tasks Architecture] - The reference architecture for task management and communication against which the extensions are being developed
+.	/docs/architectures/Task%20Architecture%201.0.pdf[Tasks Architecture] - The reference architecture for task management and communication against which the extensions are being developed
 
 . Draft RFC https://datatracker.ietf.org/doc/draft-douglass-ical-relations[Support for iCalendar Relationships] - Extensions to the iCalendar object model to enhance the ability to
 relate tasks (VTODOs) and other iCalendar components to each other as 
@@ -117,6 +117,6 @@ with respect to tasks will allow us to open up the true potential of our
 === Need more information?
 link:{{"/about/technical-committees/tc-tasks/" | relative_url}}[TC-TASKS]
 
-https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/resources/glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org
