@@ -103,7 +103,7 @@ Keeping tz db up-to-date
 
 === iOS Versions:
 * link:https://en.wikipedia.org/wiki/IOS[Wikipedia]
-* link:https://support.apple.com/en-us/HT206986[Supportarticle] about how iOS handles timezone updates
+* link:https://support.apple.com/en-us/111901[Support article] about how iOS handles timezone updates
 
 === Windows versions:
 * link:https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share_and_device_sales[Wikipedia]
