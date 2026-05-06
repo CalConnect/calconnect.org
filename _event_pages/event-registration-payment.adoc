@@ -23,12 +23,12 @@ The Virtual Conference is open to members and non-members.
 
 === Registration
 
-* link:event-registration-payment/standard-conference-registration-form[Conference Registration]:
+* Conference Registration:
 Register from one to six people for the CalConnect Conference, with a choice of
 payment options.
 _Not available for non-members._
 
-* link:event-registration-payment/quick-conference-registration-form[Conference Quick Registration]:
+* Conference Quick Registration:
 Register one person for the CalConnect Conference and pay immediately via PayPal
 or credit card.
 _May be used by members and non-members._

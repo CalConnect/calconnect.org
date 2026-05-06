@@ -30,7 +30,7 @@ A special *Workshop on Tasks* will be held Wednesday afternoon during the Roundt
 
 *CalConnect Interoperability Test Event*:
 
-The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see link:{{'/iop1105' | relative_url}}[CalConnect Interoperability Test Event May 2011] for current information. Check back often as this will be updated as more information becomes available.
+The Interoperability Test Event is open to both members and non-members as participants or as link:{{'/events/observers' | relative_url}}[observers]; please see CalConnect Interoperability Test Event May 2011 for current information. Check back often as this will be updated as more information becomes available.
 
 You do not need finished or polished code to participate in the IOP testing; in fact as soon as you have something working at all, testing against other participants can help debugging and code development, especially in identifying red herrings and wrong decisions.
 
@@ -59,7 +59,7 @@ Please see link:{{'/events/event-registration-payment' | relative_url}}[Registra
 
 *Workshop Registration*:
 
-If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see link:{{'/workshopreg' | relative_url}}[Workshop Registration]. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
+If you wish to register ONLY for the Wednesday afternoon Tasks Workshop, please see Workshop Registration. Please note that you do NOT have to represent a CalConnect member to attend the workshop.
 
 [[location]]
 == Location
