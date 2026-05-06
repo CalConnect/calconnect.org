@@ -1,0 +1,16 @@
+items:
+  - label: About
+    url: /about/
+  - label: Membership
+    url: /membership/
+  - label: Events
+    url: /events/
+  - label: News
+    url: /news/
+  - label: Standards
+    url: https://standards.calconnect.org
+    external: true
+  - label: Resources
+    url: /resources/
+  - label: Contact
+    url: /contact/
