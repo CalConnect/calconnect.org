@@ -44,7 +44,7 @@ CalConnect is very excited to be coming to Hong Kong for our link:{{'/events/cal
 
 To learn more about CalConnect, our events in Hong Kong, and the CalConnect members who are attending these events, see:
 
-link:{{'/email-announce/20160420-calconnect-hkitfest.html' | relative_url}}[CalConnect HK IT Fest email announcement] +
+CalConnect HK IT Fest email announcement +
 link:{{'/events/calconnect-public-day-hong-kong-it-fest' | relative_url}}[CalConnect Public Day at the Hong Kong IT Fest] +
 link:{{'/events/calconnect-xxxvi-april-18-22-2016' | relative_url}}[CalConnect XXXVI 36th Conference]
 
