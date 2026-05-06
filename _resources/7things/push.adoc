@@ -108,6 +108,6 @@ systems to make better use of calendaring data for the same reasons.
 === Need more information?
 link:link:{{"/about/technical-committees/tc-push/" | relative_url}}[TC-PUSH]
 
-https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/resources/glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org

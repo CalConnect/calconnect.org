@@ -15,7 +15,7 @@ the diagram itself, and are made available under a Creative Commons
 license; see
 link:{{'/about/policies/copyright-and-licensing' | relative_url }}[Copyright and License Information].
 
-* link:{{'/architectures/Calendaring%20Architecture.pdf' | relative_url }}[*Calendaring Service Architecture*]:
+* link:{{'/docs/architectures/Calendaring%20Architecture.pdf' | relative_url }}[*Calendaring Service Architecture*]:
 A high-level architectural diagram of the calendaring
 and scheduling environment, from
 link:{{'/about/technical-committees/tc-api' | relative_url }}[TC API].

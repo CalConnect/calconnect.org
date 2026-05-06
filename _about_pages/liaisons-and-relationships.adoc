@@ -49,7 +49,7 @@ Liaison organization with ISO Committees:
 |===
 | ISO Committee | Name | Type of Liaison | Work Involved
 
-| http://www.iso.org/committee/6935430.html[ISO/PC 317]
+| https://www.iso.org/committee/6935430.html[ISO/PC 317]
 | Consumer Privacy by Design
 | Category A Liaison
 |

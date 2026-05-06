@@ -6,7 +6,7 @@ type: resources
 :page-liquid:
 
 === 1. What is it?
-Calendar and Contacts Sharing is the process of sharing https://devguide.calconnect.org/Appendix/Glossary/#CalDAV[CalDAV] calendars and https://devguide.calconnect.org/Appendix/Glossary/#CardDAV"[CardDAV] address books between users.
+Calendar and Contacts Sharing is the process of sharing https://devguide.calconnect.org/resources/glossary/#CalDAV[CalDAV] calendars and https://devguide.calconnect.org/resources/glossary/#CardDAV"[CardDAV] address books between users.
 
 === 2. What scenarios and/or problems does it address, or what new advantage(s) does it confer?
 Users of calendar apps frequently have the need to share calendars
@@ -43,7 +43,7 @@ The link:{{"/about/technical-committees/tc-sharing/" | relative_url}}[TC-SHARING
  specification. This will be accomplished by reducing the scope of the 
 current specs and refactoring them into multiple smaller specifications 
 focused on a specific resource or notification type. To that end the 
-committee will define foundation specifications for https://devguide.calconnect.org/Appendix/Glossary/#WebDAV[WebDAV]
+committee will define foundation specifications for https://devguide.calconnect.org/resources/glossary/#WebDAV[WebDAV]
  notifications and collection sharing, with sibling specifications for 
 CalDAV sharing, CardDAV sharing, and other resource types.
 
@@ -61,6 +61,6 @@ interoperability for users.
 === Need more information?
 link:{{"/about/technical-committees/tc-sharing/" | relative_url}}[TC-SHARING]
 
-https://devguide.calconnect.org/Appendix/Glossary/[Calendaring and Scheduling Glossary of Terms]
+https://devguide.calconnect.org/resources/glossary/[Calendaring and Scheduling Glossary of Terms]
 
 https://www.calconnect.org

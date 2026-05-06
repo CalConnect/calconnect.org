@@ -16,4 +16,4 @@ system-independent API for calendaring operations. CalWS-REST and
 CalS-SOAP provide both RESTful and SOAPy web service implementations of
 this API. The work is being done in partnership with OASIS.
 
-Details: link:{{'/about/projects/oasis-ws-calendar' | relative_url }}[OASIS WS-Calendar]
+Details: link:{{'/about/major-work-projects/oasis-ws-calendar' | relative_url }}[OASIS WS-Calendar]

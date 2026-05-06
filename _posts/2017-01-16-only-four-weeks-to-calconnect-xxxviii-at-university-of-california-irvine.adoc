@@ -36,7 +36,7 @@ One or more presentations from members who are actively dealing with calendar sp
 
 
 
-As always, non-members may attend a CalConnect Conference as link:{{'/events/events-activities/observers' | relative_url }}[Observers].
+As always, non-members may attend a CalConnect Conference as link:{{'/events/observers' | relative_url }}[Observers].
 
 
 
