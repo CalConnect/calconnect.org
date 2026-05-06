@@ -70,7 +70,6 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
-  - old/
 
 jekyll-archives:
   enabled: [ categories ]
