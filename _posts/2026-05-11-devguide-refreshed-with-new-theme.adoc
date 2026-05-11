@@ -1,0 +1,76 @@
+---
+layout: page
+title: "The CalConnect Developer's Guide gets a fresh new look"
+date: 2026-05-11
+type: news
+categories: announcements the-world-of-calendaring
+excerpt: |
+  The CalConnect Developer's Guide at devguide.calconnect.org has been refreshed
+  with the new CalConnect theme, featuring a modern design, dark mode, improved
+  navigation, and mobile-friendly layout.
+---
+:page-liquid:
+
+== The CalConnect Developer's Guide gets a fresh new look
+
+If you've visited https://calconnect.org[calconnect.org] recently, you've probably noticed that the CalConnect website has a whole new look.
+Today we're excited to announce that the https://devguide.calconnect.org[CalConnect Developer's Guide] has been refreshed to match the new theme and style of the CalConnect homepage.
+
+The Developer's Guide is one of CalConnect's most important community resources -- a practical "cookbook" that helps developers at all levels work with calendaring and scheduling standards like iCalendar, CalDAV, CardDAV, and jsCalendar.
+Whether you're building your first calendar event or wrestling with recurring event patterns and time zones, the DevGuide is there to help you get it right.
+
+== What's new
+
+The refreshed DevGuide brings a number of improvements that make it easier to use and more pleasant to read:
+
+* **Unified design** -- The DevGuide now shares the same visual language as the main CalConnect site, providing a consistent experience across all CalConnect web properties.
+
+* **Dark mode** -- A long-requested feature. Toggle between light and dark themes to suit your preference and working environment.
+
+* **Better navigation** -- An improved sidebar and table of contents makes it easier to find what you need and browse between topics.
+
+* **Mobile-friendly** -- The guide is now fully responsive and comfortable to read on phones and tablets, not just desktop browsers.
+
+* **Modern typography** -- Crisper fonts and improved code formatting make technical content easier to follow.
+
+Under the hood, the DevGuide now runs on the shared `jekyll-calconnect-theme`, the same theme gem powering the CalConnect homepage.
+This means future improvements to the shared theme will benefit all CalConnect sites at once.
+
+== A resource built by the community, for the community
+
+The DevGuide was first https://calconnect.org/news/announcing-the-calconnect-calendaring-developer-s-guide[announced in 2016] as a community-driven effort to lower the barrier to entry for calendaring standards.
+Over the years, contributors have built up a comprehensive resource covering everything from the basics of iCalendar data to advanced topics like scheduling with iTIP and iMIP.
+
+But there is always more to do.
+Calendaring standards continue to evolve, new use cases emerge, and there are gaps in coverage that only practitioners can fill.
+That's where you come in.
+
+== We're calling for new contributors
+
+The DevGuide thrives when the people who use calendaring standards every day share what they've learned.
+If you've ever fought with a recurring event edge case, debugged a CalDAV sync issue, or figured out the right way to handle time zones across platforms -- your experience belongs in the DevGuide.
+
+Contributing is straightforward.
+The content is maintained on https://github.com/calconnect/DEVGUIDE[GitHub], and contributions can be as simple as fixing a typo, adding an example, or writing up a new FAQ entry.
+No contribution is too small.
+
+Here are some areas where we'd especially welcome help:
+
+* **jsCalendar** -- This emerging standard needs more examples and implementation guidance
+* **Time zone best practices** -- Real-world patterns for handling DST transitions and timezone data
+* **CalDAV client development** -- Step-by-step guides for building CalDAV clients
+* **Code examples** -- Working examples in popular programming languages
+
+If you're interested in contributing, head over to the https://github.com/calconnect/DEVGUIDE[DevGuide repository on GitHub] or reach out to the https://www.calconnect.org/about/technical-committees/tc-devguide[TC DEVGUIDE] mailing list.
+
+== What's ahead
+
+This refresh is just the beginning.
+With the new theme in place, we can focus on what matters most: expanding and improving the content.
+
+We have plans to add more interactive examples, expand coverage of newer standards like jsCalendar, and create more "quick start" guides for developers getting started with calendaring for the first time.
+
+The future of the DevGuide is bright -- and it's shaped by its contributors.
+We look forward to seeing you there.
+
+*Thomas Schafer (TC DEVGUIDE Chair)*
