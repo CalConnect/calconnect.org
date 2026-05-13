@@ -1,0 +1,63 @@
+---
+layout: page
+title: "The CalConnect Standards Registry gets a new look"
+date: 2026-05-13
+type: news
+categories: announcements the-world-of-calendaring
+excerpt: |
+  The CalConnect Standards Registry at standards.calconnect.org has been completely
+  redesigned with an interactive dashboard, global search, smart filtering, and a
+  unified design matching the new CalConnect theme.
+---
+:page-liquid:
+
+== The CalConnect Standards Registry gets a new look
+
+The https://standards.calconnect.org[CalConnect Standards Registry] is the official home for all CalConnect deliverables -- standards, specifications, reports, directives, and other documents that define how calendar and scheduling systems interoperate.
+Today we're excited to announce that the Standards Registry has been completely redesigned with a modern, user-friendly interface that makes it easier than ever to discover, browse, and access CalConnect documents.
+
+== What's new
+
+The redesigned Standards Registry brings significant improvements to how users interact with CalConnect's document library:
+
+* **Interactive dashboard** -- The new home page provides a clear overview of all 11 document categories, with live counts and descriptions.
+You can see at a glance what's available and jump directly to the category you need.
+
+* **Global search** -- A single search bar on the home page lets you search across all documents by title or identifier.
+Results appear instantly as you type.
+Press `/` from any page to focus the search.
+
+* **Smart filtering and sorting** -- Each document category page now features stage-based filter tabs, text search, and multiple sort options (by identifier, date, or title).
+Toggle between card and compact views -- your preferences are remembered between visits.
+
+* **Unified design** -- The Registry now shares the same visual language as https://calconnect.org[calconnect.org] and https://devguide.calconnect.org[devguide.calconnect.org], running on the shared `jekyll-calconnect-theme` gem.
+Future theme improvements will benefit all CalConnect sites simultaneously.
+
+* **Dark mode** -- Just like the main CalConnect site and DevGuide, the Standards Registry now supports dark mode.
+Toggle between light and dark themes to suit your preference.
+
+* **Mobile-friendly** -- The entire site is fully responsive and works comfortably on phones and tablets, with a collapsible navigation menu and touch-friendly cards.
+
+* **Improved navigation** -- A redesigned header groups the most common document categories in the primary navigation, with additional categories accessible via a dropdown.
+A reorganized footer provides quick access to all sections.
+
+== Under the hood
+
+Beyond the visible changes, the site has been rebuilt on a modernized infrastructure:
+
+* **Release-based builds** -- The site now fetches pre-built document artifacts from GitHub Releases instead of compiling every document from source on each build.
+This reduced CI build times from over 30 minutes to under 2 minutes.
+
+* **Single-pipeline architecture** -- All pages now go through a single Jekyll build pipeline with Vite-powered CSS and JavaScript, replacing the previous dual rendering system.
+
+* **Relaton Ruby API** -- Bibliographic data is now indexed using the Relaton Ruby API directly, eliminating the need for Docker containers in the CI pipeline.
+
+These changes make the site faster to build, easier to maintain, and simpler to extend as CalConnect's document library grows.
+
+== Explore the registry
+
+Whether you're looking for a specific standard, browsing the latest publications, or exploring CalConnect's catalog for the first time, the new Standards Registry is designed to help you find what you need quickly.
+
+Head over to https://standards.calconnect.org[standards.calconnect.org] and try the global search -- press `/` from any page.
+
+*Ronald Tse (CalConnect)*
